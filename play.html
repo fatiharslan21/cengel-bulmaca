@@ -120,7 +120,7 @@
 
     // Dosya adını bul (Örn: 5 ise "puzzle_005.json" olur)
     // Eğer senin json isimlerin puzzle_1.json gibiyse burayı şu şekilde değiştir: `puzzle_${levelId}.json`
-    const fileName = `puzzle_${levelId.toString().padStart(2, '0')}.json`;
+    const fileName = `puzzle_${levelId.toString().padStart(3, '0')}.json`;
     // 2. Veriyi çek
     fetch(`./data/${fileName}`)
         .then(response => {
