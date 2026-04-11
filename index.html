@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html lang="tr">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
-<title>Çengel Bulmaca</title>
-<link rel="stylesheet" href="./css/style.css">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Instrument+Serif&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+    <title>Çengel Bulmaca</title>
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 </head>
 <body>
 <div class="grain"></div>
@@ -18,7 +18,7 @@
         <span>Çengel Bulmaca</span>
     </div>
     <div class="hdr-r">
-        <span class="total-badge">{{total}} bölüm</span>
+        <span class="total-badge">100 bölüm</span>
     </div>
 </header>
 
@@ -30,35 +30,21 @@
 </section>
 
 <nav class="tabs">
-    {% for d in ['Kolay','Orta','Zor','Çok Zor'] %}
-    <button class="tab{% if loop.first %} on{% endif %}" data-d="{{d}}">
-        <span class="tab-dot diff-{{d|lower|replace(' ','-')}}"></span>
-        {{d}}
+    <button class="tab on" data-d="Kolay">
+        <span class="tab-dot diff-kolay"></span>Kolay
     </button>
-    {% endfor %}
+    <button class="tab" data-d="Orta">
+        <span class="tab-dot diff-orta"></span>Orta
+    </button>
+    <button class="tab" data-d="Zor">
+        <span class="tab-dot diff-zor"></span>Zor
+    </button>
+    <button class="tab" data-d="Çok Zor">
+        <span class="tab-dot diff-cok-zor"></span>Çok Zor
+    </button>
 </nav>
 
-{% for d, items in grouped.items() %}
-<section class="sec{% if d!='Kolay' %} hide{% endif %}" data-d="{{d}}">
-    <div class="grid-list">
-    {% for p in items %}
-    <a href="/bulmaca/{{p.id}}" class="card" id="c{{p.id}}" style="--i:{{loop.index0}}">
-        <div class="card-inner">
-            <div class="card-num">#{{p.id}}</div>
-            <div class="card-title">Bölüm {{p.id}}</div>
-            <div class="card-meta">
-                <span class="card-words">{{p.words|length}} kelime</span>
-                <span class="card-score" id="s{{p.id}}"></span>
-            </div>
-        </div>
-        <div class="card-arrow">
-            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
-        </div>
-    </a>
-    {% endfor %}
-    </div>
-</section>
-{% endfor %}
+<div id="levels-container"></div>
 
 <section class="info">
     <div class="info-card" style="--i:0">
@@ -83,6 +69,44 @@
 </div>
 
 <script>
+// PYTHON DÖNGÜLERİ YERİNE JAVASCRIPT KART OLUŞTURUCU
+const levelsContainer = document.getElementById('levels-container');
+const difficulties = ['Kolay', 'Orta', 'Zor', 'Çok Zor'];
+
+difficulties.forEach((diff, index) => {
+    const section = document.createElement('section');
+    section.className = `sec ${diff !== 'Kolay' ? 'hide' : ''}`;
+    section.dataset.d = diff;
+
+    const grid = document.createElement('div');
+    grid.className = 'grid-list';
+
+    // Her zorluk için 25 bölüm (Toplam 100)
+    const start = index * 25 + 1;
+    const end = (index + 1) * 25;
+
+    for (let i = start; i <= end; i++) {
+        // LİNK DÜZELTİLDİ: /bulmaca/1 yerine play.html?id=1
+        grid.innerHTML += `
+        <a href="play.html?id=${i}" class="card" id="c${i}" style="--i:${i - start}">
+            <div class="card-inner">
+                <div class="card-num">#${i.toString().padStart(3, '0')}</div>
+                <div class="card-title">Bölüm ${i}</div>
+                <div class="card-meta">
+                    <span class="card-words">Oyna</span>
+                    <span class="card-score" id="s${i}"></span>
+                </div>
+            </div>
+            <div class="card-arrow">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+            </div>
+        </a>`;
+    }
+    section.appendChild(grid);
+    levelsContainer.appendChild(section);
+});
+
+// TAB SİSTEMİ VE ANİMASYONLAR
 document.querySelectorAll('.tab').forEach(t=>{t.onclick=()=>{
     document.querySelectorAll('.tab').forEach(x=>x.classList.remove('on'));
     t.classList.add('on');
@@ -95,11 +119,16 @@ document.querySelectorAll('.tab').forEach(t=>{t.onclick=()=>{
         });
     });
 }});
-try{const s=JSON.parse(localStorage.getItem('cb')||'{}');
-Object.entries(s).forEach(([id,d])=>{
-    const e=document.getElementById('s'+id);
-    if(e){e.textContent='✓ '+d.s+'p';e.classList.add('has')}
-    const c=document.getElementById('c'+id);if(c)c.classList.add('done');
-})}catch(e){}
+
+// LOCALSTORAGE PUAN KONTROLÜ
+try{
+    const s=JSON.parse(localStorage.getItem('cb')||'{}');
+    Object.entries(s).forEach(([id,d])=>{
+        const e=document.getElementById('s'+id);
+        if(e){e.textContent='✓ '+d.s+'p';e.classList.add('has')}
+        const c=document.getElementById('c'+id);if(c)c.classList.add('done');
+    });
+}catch(e){}
 </script>
-</body></html>
+</body>
+</html>
