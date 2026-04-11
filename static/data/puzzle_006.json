@@ -1,0 +1,185 @@
+{
+  "id": 6,
+  "title": "Bölüm 6",
+  "difficulty": "Kolay",
+  "grid_size_r": 6,
+  "grid_size_c": 12,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "length": 4,
+      "clue": "Silahlı kuvvetler",
+      "answer": "ORDU"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 1,
+      "col": 0,
+      "length": 3,
+      "clue": "Yüksek arazi şekli",
+      "answer": "DAĞ"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 1,
+      "col": 3,
+      "length": 5,
+      "clue": "Gölge ağacı",
+      "answer": "ÇINAR"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 1,
+      "col": 3,
+      "length": 4,
+      "clue": "Çözüm yolu",
+      "answer": "ÇARE"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "length": 4,
+      "clue": "Av yapan kişi",
+      "answer": "AVCI"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 2,
+      "col": 7,
+      "length": 3,
+      "clue": "Su ile yıkanma",
+      "answer": "DUŞ"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 2,
+      "col": 7,
+      "length": 4,
+      "clue": "Tahta oyunu",
+      "answer": "DAMA"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 3,
+      "col": 5,
+      "length": 3,
+      "clue": "Yüce, büyük",
+      "answer": "ULU"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 4,
+      "col": 2,
+      "length": 3,
+      "clue": "Bitki gövdesi",
+      "answer": "SAP"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 4,
+      "col": 7,
+      "length": 5,
+      "clue": "Tatlı madde",
+      "answer": "ŞEKER"
+    }
+  ]
+}

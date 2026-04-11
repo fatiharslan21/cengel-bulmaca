@@ -1,0 +1,213 @@
+{
+  "id": 20,
+  "title": "Bölüm 20",
+  "difficulty": "Kolay",
+  "grid_size_r": 7,
+  "grid_size_c": 14,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 9,
+      "length": 5,
+      "clue": "Kitap yazan",
+      "answer": "YAZAR"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 1,
+      "col": 8,
+      "length": 4,
+      "clue": "Yazılmış metin",
+      "answer": "YAZI"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 2,
+      "col": 3,
+      "length": 4,
+      "clue": "Su kabı",
+      "answer": "KOVA"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 2,
+      "col": 3,
+      "length": 5,
+      "clue": "Sayfalardan eser",
+      "answer": "KİTAP"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 2,
+      "col": 6,
+      "length": 4,
+      "clue": "Ateşin parlak kısmı",
+      "answer": "ALEV"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 2,
+      "col": 12,
+      "length": 4,
+      "clue": "Toprak eşme",
+      "answer": "KAZI"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 3,
+      "col": 9,
+      "length": 5,
+      "clue": "Harita kitabı",
+      "answer": "ATLAS"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 4,
+      "col": 1,
+      "length": 3,
+      "clue": "Sıcak mevsim",
+      "answer": "YAZ"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 4,
+      "col": 5,
+      "length": 5,
+      "clue": "Tatlı madde",
+      "answer": "ŞEKER"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "length": 4,
+      "clue": "Doku hasarı",
+      "answer": "YARA"
+    }
+  ]
+}

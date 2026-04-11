@@ -1,0 +1,353 @@
+{
+  "id": 57,
+  "title": "Bölüm 57",
+  "difficulty": "Zor",
+  "grid_size_r": 18,
+  "grid_size_c": 9,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "across",
+      "row": 0,
+      "col": 3,
+      "length": 5,
+      "clue": "Seslerle sanat",
+      "answer": "MÜZİK"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 7,
+      "length": 4,
+      "clue": "Çukur yemek kabı",
+      "answer": "KASE"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "length": 5,
+      "clue": "Sayısal işlem",
+      "answer": "HESAP"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 3,
+      "col": 4,
+      "length": 5,
+      "clue": "Vaktinden önce",
+      "answer": "ERKEN"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 4,
+      "col": 1,
+      "length": 5,
+      "clue": "Ani vuruş",
+      "answer": "DARBE"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "length": 7,
+      "clue": "Tedavi merkezi",
+      "answer": "HASTANE"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 7,
+      "col": 3,
+      "length": 5,
+      "clue": "Gemi barınağı",
+      "answer": "LİMAN"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 8,
+      "col": 1,
+      "length": 4,
+      "clue": "Buyruk, komut",
+      "answer": "EMİR"
+    },
+    {
+      "number": 9,
+      "direction": "down",
+      "row": 9,
+      "col": 5,
+      "length": 4,
+      "clue": "Yapışkan şerit",
+      "answer": "BANT"
+    },
+    {
+      "number": 10,
+      "direction": "down",
+      "row": 9,
+      "col": 8,
+      "length": 4,
+      "clue": "Talih, baht",
+      "answer": "ŞANS"
+    },
+    {
+      "number": 11,
+      "direction": "across",
+      "row": 10,
+      "col": 2,
+      "length": 5,
+      "clue": "Yurt, memleket",
+      "answer": "VATAN"
+    },
+    {
+      "number": 12,
+      "direction": "across",
+      "row": 12,
+      "col": 4,
+      "length": 5,
+      "clue": "Harita kitabı",
+      "answer": "ATLAS"
+    },
+    {
+      "number": 12,
+      "direction": "down",
+      "row": 12,
+      "col": 4,
+      "length": 4,
+      "clue": "Av yapan kişi",
+      "answer": "AVCI"
+    },
+    {
+      "number": 13,
+      "direction": "down",
+      "row": 14,
+      "col": 2,
+      "length": 4,
+      "clue": "Adet, parça",
+      "answer": "TANE"
+    },
+    {
+      "number": 14,
+      "direction": "across",
+      "row": 15,
+      "col": 1,
+      "length": 5,
+      "clue": "Yemek aracı",
+      "answer": "KAŞIK"
+    },
+    {
+      "number": 15,
+      "direction": "across",
+      "row": 17,
+      "col": 1,
+      "length": 4,
+      "clue": "İlerinin zıttı",
+      "answer": "GERİ"
+    }
+  ]
+}

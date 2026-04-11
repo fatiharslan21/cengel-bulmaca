@@ -1,0 +1,268 @@
+{
+  "id": 36,
+  "title": "Bölüm 36",
+  "difficulty": "Orta",
+  "grid_size_r": 10,
+  "grid_size_c": 12,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "length": 6,
+      "clue": "Saç kesen esnaf",
+      "answer": "BERBER"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 1,
+      "col": 10,
+      "length": 3,
+      "clue": "Tropikal meyve",
+      "answer": "MUZ"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 2,
+      "col": 7,
+      "length": 4,
+      "clue": "İstek, dilek",
+      "answer": "ARZU"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 3,
+      "col": 3,
+      "length": 5,
+      "clue": "Maç yöneticisi",
+      "answer": "HAKEM"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 4,
+      "col": 0,
+      "length": 3,
+      "clue": "Cilt, deri",
+      "answer": "TEN"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 4,
+      "col": 2,
+      "length": 4,
+      "clue": "Görkemli yapı",
+      "answer": "ŞATO"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 4,
+      "col": 5,
+      "length": 3,
+      "clue": "Ev bölümü",
+      "answer": "ODA"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 5,
+      "col": 5,
+      "length": 6,
+      "clue": "Yer sarsıntısı",
+      "answer": "DEPREM"
+    },
+    {
+      "number": 9,
+      "direction": "down",
+      "row": 5,
+      "col": 9,
+      "length": 4,
+      "clue": "Kırmızı meyve",
+      "answer": "ELMA"
+    },
+    {
+      "number": 10,
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "length": 4,
+      "clue": "Ferahlatıcı bitki",
+      "answer": "NANE"
+    },
+    {
+      "number": 11,
+      "direction": "down",
+      "row": 6,
+      "col": 1,
+      "length": 4,
+      "clue": "Gövdeli bitki",
+      "answer": "AĞAÇ"
+    },
+    {
+      "number": 12,
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "length": 3,
+      "clue": "Durum, vaziyet",
+      "answer": "HAL"
+    },
+    {
+      "number": 13,
+      "direction": "across",
+      "row": 8,
+      "col": 9,
+      "length": 3,
+      "clue": "Koruyucu ilaç",
+      "answer": "AŞI"
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "id": 16,
+  "title": "Bölüm 16",
+  "difficulty": "Kolay",
+  "grid_size_r": 12,
+  "grid_size_c": 7,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "length": 4,
+      "clue": "Biçim, üslup",
+      "answer": "TARZ"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 2,
+      "col": 3,
+      "length": 4,
+      "clue": "Felaket, kötülük",
+      "answer": "BELA"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 3,
+      "col": 0,
+      "length": 5,
+      "clue": "En sert taş",
+      "answer": "ELMAS"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 3,
+      "col": 2,
+      "length": 5,
+      "clue": "Yenilebilen bitki",
+      "answer": "SEBZE"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 5,
+      "col": 2,
+      "length": 3,
+      "clue": "Üst beden uzvu",
+      "answer": "KOL"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 5,
+      "col": 2,
+      "length": 4,
+      "clue": "Toprak eşme",
+      "answer": "KAZI"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "length": 3,
+      "clue": "Sağın karşıtı",
+      "answer": "SOL"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 7,
+      "col": 1,
+      "length": 5,
+      "clue": "Vücut bölümü",
+      "answer": "ORGAN"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 8,
+      "col": 4,
+      "length": 3,
+      "clue": "24 saatlik süre",
+      "answer": "GÜN"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 10,
+      "col": 0,
+      "length": 5,
+      "clue": "Temizlik maddesi",
+      "answer": "SABUN"
+    }
+  ]
+}

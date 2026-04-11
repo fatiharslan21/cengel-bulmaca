@@ -1,0 +1,284 @@
+{
+  "id": 29,
+  "title": "Bölüm 29",
+  "difficulty": "Orta",
+  "grid_size_r": 12,
+  "grid_size_c": 11,
+  "grid": [
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "length": 5,
+      "clue": "İple oynatılan",
+      "answer": "KUKLA"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "length": 6,
+      "clue": "Anlatılan olay",
+      "answer": "HİKAYE"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 4,
+      "col": 1,
+      "length": 4,
+      "clue": "Çiçek süs kabı",
+      "answer": "VAZO"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 4,
+      "col": 3,
+      "length": 5,
+      "clue": "En yüksek nokta",
+      "answer": "ZİRVE"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 4,
+      "col": 8,
+      "length": 3,
+      "clue": "Mektup pulu",
+      "answer": "PUL"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 5,
+      "col": 6,
+      "length": 4,
+      "clue": "Türk simgesi çiçek",
+      "answer": "LALE"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 6,
+      "col": 1,
+      "length": 4,
+      "clue": "Zodyak işareti",
+      "answer": "BURÇ"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 6,
+      "col": 1,
+      "length": 6,
+      "clue": "Güzel öten kuş",
+      "answer": "BÜLBÜL"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 6,
+      "col": 6,
+      "length": 5,
+      "clue": "Harita kitabı",
+      "answer": "ATLAS"
+    },
+    {
+      "number": 9,
+      "direction": "down",
+      "row": 6,
+      "col": 9,
+      "length": 4,
+      "clue": "Yemek pişiren",
+      "answer": "AŞÇI"
+    },
+    {
+      "number": 10,
+      "direction": "across",
+      "row": 8,
+      "col": 3,
+      "length": 5,
+      "clue": "Temel buğday gıdası",
+      "answer": "EKMEK"
+    },
+    {
+      "number": 11,
+      "direction": "down",
+      "row": 8,
+      "col": 4,
+      "length": 4,
+      "clue": "Miyavlayan evcil",
+      "answer": "KEDİ"
+    },
+    {
+      "number": 12,
+      "direction": "across",
+      "row": 10,
+      "col": 4,
+      "length": 3,
+      "clue": "Evin çatısı",
+      "answer": "DAM"
+    }
+  ]
+}

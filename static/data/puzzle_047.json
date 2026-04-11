@@ -1,0 +1,310 @@
+{
+  "id": 47,
+  "title": "Bölüm 47",
+  "difficulty": "Orta",
+  "grid_size_r": 14,
+  "grid_size_c": 11,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "length": 5,
+      "clue": "Yüzeyin sınırı",
+      "answer": "KENAR"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "length": 4,
+      "clue": "Konaklama yeri",
+      "answer": "OTEL"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "length": 5,
+      "clue": "Konum bilgisi",
+      "answer": "ADRES"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 1,
+      "col": 8,
+      "length": 3,
+      "clue": "Yaklaşma eylemi",
+      "answer": "GEL"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 2,
+      "col": 6,
+      "length": 4,
+      "clue": "Yük hayvanı",
+      "answer": "EŞEK"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 3,
+      "col": 2,
+      "length": 5,
+      "clue": "Deniz kıyısı",
+      "answer": "SAHİL"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 3,
+      "col": 5,
+      "length": 4,
+      "clue": "Kalın olmayan",
+      "answer": "İNCE"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 6,
+      "col": 4,
+      "length": 4,
+      "clue": "Sıkıntı, üzüntü",
+      "answer": "DERT"
+    },
+    {
+      "number": 9,
+      "direction": "down",
+      "row": 6,
+      "col": 7,
+      "length": 4,
+      "clue": "Adet, parça",
+      "answer": "TANE"
+    },
+    {
+      "number": 10,
+      "direction": "down",
+      "row": 6,
+      "col": 9,
+      "length": 6,
+      "clue": "Yük aracı",
+      "answer": "KAMYON"
+    },
+    {
+      "number": 11,
+      "direction": "across",
+      "row": 7,
+      "col": 7,
+      "length": 4,
+      "clue": "Hedef, gaye",
+      "answer": "AMAÇ"
+    },
+    {
+      "number": 12,
+      "direction": "down",
+      "row": 9,
+      "col": 5,
+      "length": 5,
+      "clue": "Yemek kabı",
+      "answer": "TABAK"
+    },
+    {
+      "number": 13,
+      "direction": "across",
+      "row": 11,
+      "col": 5,
+      "length": 6,
+      "clue": "Okyanus memelisi",
+      "answer": "BALİNA"
+    }
+  ]
+}

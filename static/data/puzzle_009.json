@@ -1,0 +1,171 @@
+{
+  "id": 9,
+  "title": "Bölüm 9",
+  "difficulty": "Kolay",
+  "grid_size_r": 7,
+  "grid_size_c": 8,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "across",
+      "row": 0,
+      "col": 3,
+      "length": 5,
+      "clue": "Suyla ıslanmış",
+      "answer": "ISLAK"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "length": 3,
+      "clue": "Sunma, takdim",
+      "answer": "ARZ"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 1,
+      "col": 2,
+      "length": 4,
+      "clue": "Sıvı geçen tüp",
+      "answer": "BORU"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 2,
+      "col": 4,
+      "length": 3,
+      "clue": "İnce parçacıklar",
+      "answer": "TOZ"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "length": 4,
+      "clue": "Adet, parça",
+      "answer": "TANE"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "length": 5,
+      "clue": "Ekin alanı",
+      "answer": "TARLA"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 3,
+      "col": 0,
+      "length": 4,
+      "clue": "Kızarmış sandviç",
+      "answer": "TOST"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 4,
+      "col": 6,
+      "length": 3,
+      "clue": "Göllü doğu ili",
+      "answer": "VAN"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 5,
+      "col": 3,
+      "length": 5,
+      "clue": "Yüzeyin sınırı",
+      "answer": "KENAR"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "length": 3,
+      "clue": "Bin kilogram",
+      "answer": "TON"
+    }
+  ]
+}
