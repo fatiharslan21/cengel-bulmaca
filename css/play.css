@@ -495,3 +495,22 @@
     .clue-strip { margin: 6px 10px 0; }
     .modal { padding: 24px 18px; }
 }
+
+/* YÜZEN PUAN ANİMASYONU */
+.floating-score {
+    position: absolute;
+    color: var(--green);
+    font-family: var(--mono);
+    font-weight: 800;
+    font-size: 18px;
+    pointer-events: none;
+    z-index: 1000;
+    text-shadow: 0 2px 10px rgba(22, 163, 74, 0.4);
+    animation: floatUp 1s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+@keyframes floatUp {
+    0% { opacity: 0; transform: translateY(10px) scale(0.5); }
+    20% { opacity: 1; transform: translateY(-5px) scale(1.2); }
+    100% { opacity: 0; transform: translateY(-40px) scale(1); }
+}
