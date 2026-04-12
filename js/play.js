@@ -237,6 +237,21 @@ function updProg(){
 // ─── WIN ───
 function showWin(){
     clearInterval(tint);const sc=calcSc();
+    
+    // GÜNCELLEME: Tüm hücreleri sırayla kutlama dalgasıyla yeşile boya
+    const allCells = document.querySelectorAll('.cell:not(.bk)');
+    allCells.forEach((cell, index) => {
+        setTimeout(() => {
+            cell.style.animation = 'none'; // Önceki animasyonu sıfırla
+            cell.offsetHeight; // Reflow tetikle
+            cell.style.animation = `okPulse 0.5s ease forwards`;
+            cell.style.background = 'var(--green-light)';
+            cell.style.borderColor = 'var(--green-mid)';
+            const lt = cell.querySelector('.lt');
+            if(lt) lt.style.color = 'var(--green)';
+        }, index * 20); // 20ms arayla dalga efekti
+    });
+    // ... (orijinal showWin kodunun geri kalanı aynen devam etsin)
     document.getElementById('fs').textContent=sc;
     document.getElementById('ft').textContent=fmt(tm);
     document.getElementById('fh').textContent=hc;
