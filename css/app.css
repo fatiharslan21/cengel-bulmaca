@@ -1,10 +1,11 @@
 /* ═══════════════════════════════════
-   ÇENGEL BULMACA — Premium White
+   ÇENGEL BULMACA — Premium White & Dark
    Instrument Serif + Manrope
    Editorial luxury minimal
    ═══════════════════════════════════ */
 
 :root {
+    /* Ana Renk Paleti */
     --white: #FFFFFF;
     --cream: #FAFAF7;
     --sand: #F3F1EC;
@@ -25,10 +26,44 @@
     --amber-light: #FFFBEB;
     --purple: #7C3AED;
     --purple-light: #F5F3FF;
+    
+    /* Dinamik UI Değişkenleri (Gece modunda değişecek olanlar) */
+    --header-bg: rgba(255, 255, 255, 0.85);
+    --logo-bg: var(--ink);
+    --logo-text: var(--white);
+    --badge-bg: var(--sand);
+    --badge-text: var(--slate);
+
+    /* Tipografi & Animasyon */
     --display: 'Instrument Serif', Georgia, serif;
     --body: 'Manrope', -apple-system, sans-serif;
     --mono: 'JetBrains Mono', monospace;
     --ease: cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+/* ─── LÜKS GECE MODU (DARK MODE) DEĞİŞKENLERİ ─── */
+body.dark-mode {
+    --white: #1C1A18;
+    --cream: #141210;
+    --sand: #262420;
+    --stone: #38352F;
+    --ash: #858075;
+    --slate: #B3AD9F;
+    --ink: #F0EDE6;
+    --black: #FFFFFF;
+    --accent-light: #1E293B;
+    --green-light: #064E3B;
+    --green-mid: #047857;
+    --red-light: #450A0A;
+    --amber-light: #451A03;
+    --purple-light: #2E1065;
+
+    /* Dinamik UI Değişkenleri (Gece Uyarlaması) */
+    --header-bg: rgba(20, 18, 16, 0.85);
+    --logo-bg: var(--accent); /* Karanlıkta logo mavi/vurgu rengi olsun */
+    --logo-text: #FFFFFF;
+    --badge-bg: #2C2A25;
+    --badge-text: var(--ash);
 }
 
 * { margin:0; padding:0; box-sizing:border-box; }
@@ -40,6 +75,7 @@ body {
     -webkit-font-smoothing: antialiased;
     -webkit-text-size-adjust: 100%;
     overflow-x: hidden;
+    transition: background-color 0.4s var(--ease), color 0.4s var(--ease);
 }
 
 /* Grain overlay */
@@ -48,6 +84,7 @@ body {
     background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.85' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
     background-repeat: repeat;
 }
+body.dark-mode .grain { opacity: 0.05; }
 
 .wrap { max-width: 760px; margin: 0 auto; min-height: 100vh; min-height: 100dvh; }
 
@@ -58,11 +95,13 @@ header {
     align-items: center;
     justify-content: space-between;
     border-bottom: 1px solid var(--stone);
-    background: rgba(255,255,255,.85);
-    backdrop-filter: blur(16px);
-    -webkit-backdrop-filter: blur(16px);
+    background: var(--header-bg);
+    /* GÜNCELLEME: Saturate eklendi, arkadaki renkleri daha lüks yansıtır */
+    backdrop-filter: blur(16px) saturate(180%);
+    -webkit-backdrop-filter: blur(16px) saturate(180%);
     position: sticky; top: 0; z-index: 50;
     animation: fadeDown .5s var(--ease);
+    transition: background-color 0.4s var(--ease), border-color 0.4s var(--ease);
 }
 
 @keyframes fadeDown { from { opacity:0; transform:translateY(-8px) } }
@@ -71,16 +110,20 @@ header {
 
 .logo-mark {
     width: 32px; height: 32px;
-    background: var(--ink);
-    color: var(--white);
+    background: var(--logo-bg);
+    color: var(--logo-text);
     border-radius: 8px;
     display: flex; align-items: center; justify-content: center;
     font-family: var(--display);
     font-size: 18px;
     font-weight: 400;
-    transition: transform .2s var(--ease);
+    transition: all .2s var(--ease);
 }
-.logo-mark:hover { transform: rotate(-6deg) scale(1.05); }
+/* GÜNCELLEME: Glow efekti eklendi (Karanlık modda parlayacak) */
+.logo-mark:hover { 
+    transform: rotate(-6deg) scale(1.05); 
+    filter: drop-shadow(0 0 8px var(--logo-bg));
+}
 
 .logo span {
     font-size: 15px;
@@ -91,12 +134,22 @@ header {
 .total-badge {
     font-size: 11px;
     font-weight: 600;
-    color: var(--slate);
-    background: var(--sand);
+    color: var(--badge-text);
+    background: var(--badge-bg);
     padding: 4px 10px;
     border-radius: 20px;
     letter-spacing: .02em;
+    transition: all 0.4s var(--ease);
 }
+
+/* ─── TEMA BUTONU ─── */
+.theme-btn {
+    background: transparent; border: none; font-size: 20px; cursor: pointer;
+    transition: transform 0.3s var(--ease); padding: 4px;
+    margin-left: 8px; display: inline-flex; align-items: center; justify-content: center;
+}
+.theme-btn:active { transform: scale(0.8) rotate(-20deg); }
+
 
 /* ─── HERO ─── */
 .hero {
@@ -152,6 +205,7 @@ header {
     border-bottom: 1px solid var(--stone);
     background: var(--white);
     animation: fadeUp .5s var(--ease) .2s both;
+    transition: background-color 0.4s var(--ease), border-color 0.4s var(--ease);
 }
 
 .tab {
@@ -216,6 +270,8 @@ header {
     overflow: hidden;
 }
 
+body.dark-mode .card { box-shadow: 0 4px 20px rgba(0,0,0,0.3); }
+
 .card::before {
     content: '';
     position: absolute; inset: 0;
@@ -261,7 +317,9 @@ header {
     border: 1px solid var(--stone);
     border-radius: 12px;
     animation: fadeUp .5s var(--ease) calc(.3s + var(--i) * .1s) both;
+    transition: background-color 0.4s var(--ease), border-color 0.4s var(--ease);
 }
+body.dark-mode .info-card { box-shadow: 0 4px 20px rgba(0,0,0,0.3); }
 
 .info-icon { font-size: 20px; flex-shrink: 0; }
 .info-card b { font-size: 13px; font-weight: 700; letter-spacing: -.01em; }
@@ -291,34 +349,3 @@ footer p { font-size: 11px; color: var(--ash); font-weight: 500; }
     .tabs { overflow-x: auto; -webkit-overflow-scrolling: touch; }
     .tab { padding: 10px 12px; white-space: nowrap; }
 }
-
-/* ─── LÜKS GECE MODU ─── */
-body.dark-mode {
-    --white: #1C1A18;
-    --cream: #141210;
-    --sand: #262420;
-    --stone: #38352F;
-    --ash: #858075;
-    --slate: #B3AD9F;
-    --ink: #F0EDE6;
-    --black: #FFFFFF;
-    --accent-light: #1E293B; /* Koyu lacivert alt ton */
-    --green-light: #064E3B;
-    --green-mid: #047857;
-    --red-light: #450A0A;
-    --amber-light: #451A03;
-    --purple-light: #2E1065;
-}
-
-body.dark-mode .logo-mark { background: var(--black); color: var(--cream); }
-body.dark-mode .grain { opacity: 0.05; }
-body.dark-mode .card, 
-body.dark-mode .grid-frame, 
-body.dark-mode .info-item { box-shadow: 0 4px 20px rgba(0,0,0,0.3); }
-
-/* Tema Değiştirici Buton Animasyonu */
-.theme-btn {
-    background: transparent; border: none; font-size: 20px; cursor: pointer;
-    transition: transform 0.3s var(--ease); padding: 4px;
-}
-.theme-btn:active { transform: scale(0.8) rotate(-20deg); }
