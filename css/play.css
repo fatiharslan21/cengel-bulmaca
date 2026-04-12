@@ -297,14 +297,17 @@
     font-weight: 600;
     user-select: none;
     -webkit-tap-highlight-color: transparent;
-    box-shadow: 0 1px 3px rgba(0,0,0,.04);
-    transition: all .06s;
+    /* GÜNCELLEME: 3D derinlik ve daha yumuşak geçiş eklendi */
+    box-shadow: 0 3px 0 var(--stone), 0 4px 8px rgba(0,0,0,.04);
+    transition: transform .1s var(--ease), box-shadow .1s var(--ease), background .1s;
+    position: relative;
 }
 
 .key:active {
     background: var(--accent-light);
-    transform: scale(.9);
-    box-shadow: none;
+    /* GÜNCELLEME: Basılma hissi (aşağı çökme) eklendi */
+    transform: translateY(3px) scale(.96);
+    box-shadow: 0 0 0 var(--stone), 0 0 0 rgba(0,0,0,0);
 }
 
 .key-bs {
@@ -312,8 +315,12 @@
     background: var(--red-light);
     color: var(--red);
     border-color: #FECACA;
+    box-shadow: 0 3px 0 #FCA5A5, 0 4px 8px rgba(220,38,38,.1);
 }
-.key-bs:active { background: #FCA5A5; }
+.key-bs:active { 
+    background: #FCA5A5; 
+    box-shadow: 0 0 0 #FCA5A5;
+}
 
 /* ─── PROGRESS ─── */
 .progress-bar {
