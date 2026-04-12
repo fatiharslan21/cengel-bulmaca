@@ -122,13 +122,27 @@ document.querySelectorAll('.tab').forEach(t=>{t.onclick=()=>{
 }});
 
 // LOCALSTORAGE PUAN KONTROLÜ
+// LOCALSTORAGE PUAN KONTROLÜ VE GENEL İLERLEME
 try{
     const s=JSON.parse(localStorage.getItem('cb')||'{}');
+    let completedCount = 0; // GÜNCELLEME: Sayaç eklendi
+    
     Object.entries(s).forEach(([id,d])=>{
         const e=document.getElementById('s'+id);
-        if(e){e.textContent='✓ '+d.s+'p';e.classList.add('has')}
+        if(e){
+            e.textContent='✓ '+d.s+'p';
+            e.classList.add('has');
+            completedCount++; // Tamamlananları say
+        }
         const c=document.getElementById('c'+id);if(c)c.classList.add('done');
     });
+
+    // GÜNCELLEME: Eğer en az 1 bölüm bittiyse skoru göster
+    if(completedCount > 0) {
+        const progBadge = document.getElementById('global-progress');
+        progBadge.textContent = `${completedCount}/100 Tamamlandı`;
+        progBadge.style.display = 'block';
+    }
 }catch(e){}
 </script>
 </body>
