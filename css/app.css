@@ -291,3 +291,34 @@ footer p { font-size: 11px; color: var(--ash); font-weight: 500; }
     .tabs { overflow-x: auto; -webkit-overflow-scrolling: touch; }
     .tab { padding: 10px 12px; white-space: nowrap; }
 }
+
+/* ─── LÜKS GECE MODU ─── */
+body.dark-mode {
+    --white: #1C1A18;
+    --cream: #141210;
+    --sand: #262420;
+    --stone: #38352F;
+    --ash: #858075;
+    --slate: #B3AD9F;
+    --ink: #F0EDE6;
+    --black: #FFFFFF;
+    --accent-light: #1E293B; /* Koyu lacivert alt ton */
+    --green-light: #064E3B;
+    --green-mid: #047857;
+    --red-light: #450A0A;
+    --amber-light: #451A03;
+    --purple-light: #2E1065;
+}
+
+body.dark-mode .logo-mark { background: var(--black); color: var(--cream); }
+body.dark-mode .grain { opacity: 0.05; }
+body.dark-mode .card, 
+body.dark-mode .grid-frame, 
+body.dark-mode .info-item { box-shadow: 0 4px 20px rgba(0,0,0,0.3); }
+
+/* Tema Değiştirici Buton Animasyonu */
+.theme-btn {
+    background: transparent; border: none; font-size: 20px; cursor: pointer;
+    transition: transform 0.3s var(--ease); padding: 4px;
+}
+.theme-btn:active { transform: scale(0.8) rotate(-20deg); }
