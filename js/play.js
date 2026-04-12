@@ -173,8 +173,30 @@ function chkComp(){
             if(!v||TR(v)!==TR(w.answer[i])){ok=false;break}
         }
         if(ok){
-            slv.add(wk);newSolve=true;
+            slv.add(wk); newSolve=true;
             wCells(w).forEach(k=>lck.add(k));
+            
+            // GÜNCELLEME: Ses efekti ve Yüzen Puan
+            playSFX('solve');
+            
+            // Kelimenin ortasındaki hücreyi bulup puanı oradan uçuralım
+            const midIndex = Math.floor(w.length / 2);
+            const midR = w.direction === 'down' ? w.row + midIndex : w.row;
+            const midC = w.direction === 'across' ? w.col + midIndex : w.col;
+            const targetCell = getCell(midR, midC);
+            
+            if(targetCell) {
+                const rect = targetCell.getBoundingClientRect();
+                const floater = document.createElement('div');
+                floater.className = 'floating-score';
+                floater.textContent = '+10';
+                floater.style.left = `${rect.left + window.scrollX}px`;
+                floater.style.top = `${rect.top + window.scrollY}px`;
+                document.body.appendChild(floater);
+                
+                // Animasyon bitince elementi DOM'dan temizle
+                setTimeout(() => floater.remove(), 1000);
+            }
         }
     });
     updProg();
