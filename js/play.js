@@ -47,6 +47,9 @@ function setupKB(){
     document.addEventListener('keydown',onK);
     document.querySelectorAll('.key').forEach(b=>b.addEventListener('click',e=>{
         e.preventDefault();
+        // MOBİL İÇİN HAPTİK TİTREŞİM EKLENDİ
+        if(navigator.vibrate) navigator.vibrate(15); 
+        
         const k=b.dataset.k;
         onK({key:k==='BS'?'Backspace':k,length:k.length,preventDefault:()=>{}});
     }));
