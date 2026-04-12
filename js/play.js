@@ -1,4 +1,32 @@
 /* Çengel Bulmaca — Motor v4 Premium */
+// SES MOTORU (Web Audio API)
+const audioCtx = new (window.AudioContext || window.webkitAudioContext)();
+function playSFX(type) {
+    if(audioCtx.state === 'suspended') audioCtx.resume();
+    const osc = audioCtx.createOscillator();
+    const gain = audioCtx.createGain();
+    osc.connect(gain); gain.connect(audioCtx.destination);
+    
+    const now = audioCtx.currentTime;
+    if(type === 'click') {
+        osc.type = 'sine'; osc.frequency.setValueAtTime(400, now);
+        osc.frequency.exponentialRampToValueAtTime(100, now + 0.05);
+        gain.gain.setValueAtTime(0.05, now);
+        gain.gain.exponentialRampToValueAtTime(0.001, now + 0.05);
+        osc.start(now); osc.stop(now + 0.05);
+    } else if (type === 'solve') {
+        osc.type = 'triangle'; osc.frequency.setValueAtTime(600, now);
+        osc.frequency.setValueAtTime(800, now + 0.1);
+        gain.gain.setValueAtTime(0.1, now);
+        gain.gain.linearRampToValueAtTime(0, now + 0.3);
+        osc.start(now); osc.stop(now + 0.3);
+    } else if (type === 'error') {
+        osc.type = 'square'; osc.frequency.setValueAtTime(150, now);
+        gain.gain.setValueAtTime(0.05, now);
+        gain.gain.exponentialRampToValueAtTime(0.001, now + 0.1);
+        osc.start(now); osc.stop(now + 0.1);
+    }
+}
 let sel=null,dir="across",ug={},rev=new Set(),wrg=new Set(),slv=new Set(),lck=new Set();
 let hc=0,tm=0,tint=null,run=false,acl=null;
 const R=P.grid_size_r,C=P.grid_size_c;
