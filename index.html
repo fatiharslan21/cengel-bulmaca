@@ -97,6 +97,17 @@
     </div>
 </a>
 
+<a class="daily-card" id="continue-card" href="#" style="display:none; margin-top:10px;">
+    <div class="daily-left">
+        <div class="daily-badge">⏯ DEVAM ET</div>
+        <div class="daily-date" id="continue-title">Kaldığın yer</div>
+        <div class="daily-meta">
+            <span class="daily-status" id="continue-status">Son oynadığın bulmacadan devam et</span>
+        </div>
+    </div>
+    <div class="daily-right"><div class="daily-play">Devam →</div></div>
+</a>
+
 <nav class="tabs tabs-new">
     <button class="tab on diff-kolay-tab" data-d="Kolay">
         <span class="tab-emoji">🌱</span>
@@ -365,6 +376,20 @@ function guardAuthNavigation(e) {
 }
 document.querySelectorAll('a.card').forEach(a => a.addEventListener('click', guardAuthNavigation));
 document.getElementById('daily-card')?.addEventListener('click', guardAuthNavigation);
+
+function refreshContinueCard(){
+    try {
+        const last = JSON.parse(localStorage.getItem('cb_last') || 'null');
+        const card = document.getElementById('continue-card');
+        if(!card || !last || !last.id) return;
+        card.style.display = 'flex';
+        card.href = `play.html?id=${last.id}`;
+        document.getElementById('continue-title').textContent = `Bölüm ${String(last.id).padStart(3,'0')}`;
+        document.getElementById('continue-status').textContent = last.when ? `Son giriş: ${last.when}` : 'Kaldığın yerden devam et';
+        card.addEventListener('click', guardAuthNavigation);
+    } catch(e) {}
+}
+refreshContinueCard();
 
 // ─── GÜNÜN BULMACASI ───
 (function(){

@@ -26,7 +26,11 @@
 
                 <form class="welcome-form" id="welcome-form">
                     <input type="text" id="welcome-name" placeholder="Kullanıcı adı" maxlength="24" autocomplete="username" spellcheck="false" required>
-                    <input type="password" id="welcome-pass" placeholder="Şifre" minlength="4" autocomplete="current-password" required>
+                    <div style="position:relative;">
+                        <input type="password" id="welcome-pass" placeholder="Şifre" minlength="4" autocomplete="current-password" required style="padding-right:42px;">
+                        <button type="button" id="toggle-pass" style="position:absolute;right:8px;top:50%;transform:translateY(-50%);background:none;border:none;cursor:pointer;font-size:16px;">👁️</button>
+                    </div>
+                    <input type="password" id="welcome-pass2" placeholder="Şifre (tekrar)" minlength="4" autocomplete="new-password" required>
                     <button type="submit" class="welcome-btn"><span id="welcome-btn-label">Kayıt Ol</span></button>
                 </form>
                 <p id="welcome-msg" class="welcome-note" style="justify-content:center;min-height:20px"></p>
@@ -40,6 +44,9 @@
         const form = modal.querySelector('#welcome-form');
         const msg = modal.querySelector('#welcome-msg');
         const btnLabel = modal.querySelector('#welcome-btn-label');
+        const passInput = modal.querySelector('#welcome-pass');
+        const passAgainInput = modal.querySelector('#welcome-pass2');
+        const togglePass = modal.querySelector('#toggle-pass');
 
         function setMode(nextMode) {
             mode = nextMode;
@@ -48,16 +55,31 @@
             registerBtn.setAttribute('style', nextMode === 'register' ? onStyle : offStyle);
             loginBtn.setAttribute('style', nextMode === 'login' ? onStyle : offStyle);
             btnLabel.textContent = nextMode === 'register' ? 'Kayıt Ol' : 'Giriş Yap';
+            passAgainInput.style.display = nextMode === 'register' ? 'block' : 'none';
+            passAgainInput.required = nextMode === 'register';
+            passAgainInput.value = '';
+            passInput.autocomplete = nextMode === 'register' ? 'new-password' : 'current-password';
             msg.textContent = '';
         }
 
         registerBtn.addEventListener('click', () => setMode('register'));
         loginBtn.addEventListener('click', () => setMode('login'));
+        togglePass.addEventListener('click', () => {
+            passInput.type = passInput.type === 'password' ? 'text' : 'password';
+            togglePass.textContent = passInput.type === 'password' ? '👁️' : '🙈';
+        });
 
         form.addEventListener('submit', async (e) => {
             e.preventDefault();
             const username = modal.querySelector('#welcome-name').value.trim();
             const password = modal.querySelector('#welcome-pass').value;
+            const password2 = modal.querySelector('#welcome-pass2').value;
+
+            if(mode === 'register' && password !== password2) {
+                msg.textContent = 'Şifreler aynı değil.';
+                msg.style.color = '#ef4444';
+                return;
+            }
 
             const submitBtn = form.querySelector('.welcome-btn');
             submitBtn.disabled = true;
@@ -95,6 +117,8 @@
         const sub = modal.querySelector('.welcome-sub');
         if(opts.mode === 'login') {
             modal.querySelector('#tab-login').click();
+        } else {
+            modal.querySelector('#tab-register').click();
         }
         if(opts.forced) {
             title.textContent = 'Giriş Zorunlu';
