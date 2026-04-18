@@ -83,11 +83,22 @@
             submitBtn.disabled = true;
             btnLabel.textContent = 'Yükleniyor…';
 
-            const fn = mode === 'register' ? window.CBAuth.register : window.CBAuth.login;
-            const result = await fn(username, password);
-
-            submitBtn.disabled = false;
-            btnLabel.textContent = mode === 'register' ? 'Kayıt Ol' : 'Giriş Yap';
+            let result = null;
+            try {
+                const fn = mode === 'register' ? window.CBAuth?.register : window.CBAuth?.login;
+                if(typeof fn !== 'function') {
+                    throw new Error('Giriş servisi hazır değil. Sayfayı yenileyip tekrar deneyin.');
+                }
+                result = await Promise.race([
+                    fn(username, password),
+                    new Promise((_, reject) => setTimeout(() => reject(new Error('İstek zaman aşımına uğradı. İnternetini kontrol edip tekrar dene.')), 10000))
+                ]);
+            } catch(err) {
+                result = { ok: false, message: err?.message || 'İşlem sırasında beklenmeyen hata oluştu.' };
+            } finally {
+                submitBtn.disabled = false;
+                btnLabel.textContent = mode === 'register' ? 'Kayıt Ol' : 'Giriş Yap';
+            }
 
             if(result?.ok) {
                 msg.textContent = '✅ Başarılı, yönlendiriliyorsun…';

@@ -142,7 +142,20 @@
                 return false;
             }
             await new Promise((resolve) => {
-                onAuthStateChanged(auth, () => resolve());
+                let done = false;
+                const finish = () => {
+                    if(done) return;
+                    done = true;
+                    resolve();
+                };
+                const t = setTimeout(() => {
+                    console.warn('[Çengel] Firebase auth state bekleme zaman aşımı; local moda düşülüyor.');
+                    finish();
+                }, 4000);
+                onAuthStateChanged(auth, () => {
+                    clearTimeout(t);
+                    finish();
+                });
             });
 
             firebaseReady = true;
@@ -502,6 +515,8 @@
             await syncLocalScoresToCloud();
             window.dispatchEvent(new CustomEvent('cbScoresSynced'));
         }
+    }).catch((err) => {
+        console.warn('[Çengel] initPromise hata verdi, local moda geçiliyor:', err?.message || err);
     });
 
     window.CBAuth = {
