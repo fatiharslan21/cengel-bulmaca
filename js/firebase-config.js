@@ -20,7 +20,7 @@
    }
    ───────────────────────────────────────────── */
 window.CB_FIREBASE_CONFIG = {
-    apiKey: "AIzaSyABC123...",          // Adım 2'den
+    apiKey: "AIzaSyDoUk9ENTW5UALblV3kAIdmdEp9GPhNQI8",          // Adım 2'den
     authDomain: "cengel-bulmaca.firebaseapp.com",
     projectId: "cengel-bulmaca",
     storageBucket: "cengel-bulmaca.appspot.com",
