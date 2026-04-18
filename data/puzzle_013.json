@@ -2,12 +2,62 @@
   "id": 13,
   "title": "Bölüm 13",
   "difficulty": "Kolay",
-  "grid_size_r": 11,
-  "grid_size_c": 8,
+  "grid_size_r": 9,
+  "grid_size_c": 10,
   "grid": [
     [
       0,
       0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
       1,
       1,
       1,
@@ -17,7 +67,33 @@
     ],
     [
       0,
+      0,
       1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
       0,
       0,
       1,
@@ -26,186 +102,99 @@
       0
     ],
     [
-      1,
-      1,
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      1,
-      0,
-      0,
-      1,
-      0,
-      1,
-      0
-    ],
-    [
       0,
       0,
       0,
-      1,
+      0,
+      0,
+      0,
       1,
       1,
       1,
       1
-    ],
-    [
-      0,
-      0,
-      0,
-      1,
-      0,
-      0,
-      1,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      1,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      1,
-      1,
-      1,
-      0,
-      0
-    ],
-    [
-      0,
-      1,
-      1,
-      1,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0
     ]
   ],
   "words": [
     {
       "number": 1,
-      "direction": "across",
+      "direction": "down",
       "row": 0,
-      "col": 2,
+      "col": 7,
       "length": 3,
-      "clue": "Göllü doğu ili",
-      "answer": "VAN"
+      "clue": "Ün, şöhret",
+      "answer": "ŞAN"
     },
     {
       "number": 2,
-      "direction": "down",
-      "row": 0,
-      "col": 4,
-      "length": 5,
-      "clue": "En küçük işaret",
-      "answer": "NOKTA"
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "length": 3,
+      "clue": "Görme organı",
+      "answer": "GÖZ"
     },
     {
       "number": 3,
       "direction": "down",
-      "row": 1,
-      "col": 1,
-      "length": 3,
-      "clue": "Ağacın kolu",
-      "answer": "DAL"
+      "row": 2,
+      "col": 2,
+      "length": 4,
+      "clue": "Anlama yeteneği",
+      "answer": "ZEKA"
     },
     {
       "number": 4,
       "direction": "across",
       "row": 2,
-      "col": 0,
-      "length": 5,
-      "clue": "Yemek aracı",
-      "answer": "KAŞIK"
+      "col": 5,
+      "length": 3,
+      "clue": "On yüzlük sayı",
+      "answer": "BİN"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 2,
+      "col": 5,
+      "length": 3,
+      "clue": "Çok miktarda",
+      "answer": "BOL"
     },
     {
       "number": 5,
-      "direction": "down",
-      "row": 3,
-      "col": 6,
-      "length": 3,
-      "clue": "İşitilen titreşim",
-      "answer": "SES"
-    },
-    {
-      "number": 6,
       "direction": "across",
       "row": 4,
-      "col": 3,
+      "col": 2,
       "length": 5,
-      "clue": "Yazı aleti",
-      "answer": "KALEM"
+      "clue": "İple oynatılan",
+      "answer": "KUKLA"
     },
     {
       "number": 6,
       "direction": "down",
       "row": 4,
-      "col": 3,
-      "length": 5,
-      "clue": "Sayfalardan eser",
-      "answer": "KİTAP"
+      "col": 4,
+      "length": 3,
+      "clue": "Bina bölümü",
+      "answer": "KAT"
     },
     {
       "number": 7,
-      "direction": "across",
-      "row": 7,
-      "col": 3,
-      "length": 3,
-      "clue": "Üstün karşıtı",
-      "answer": "ALT"
+      "direction": "down",
+      "row": 4,
+      "col": 6,
+      "length": 5,
+      "clue": "Harita kitabı",
+      "answer": "ATLAS"
     },
     {
       "number": 8,
       "direction": "across",
       "row": 8,
-      "col": 1,
-      "length": 3,
-      "clue": "Daire çapı",
-      "answer": "ÇAP"
-    },
-    {
-      "number": 9,
-      "direction": "down",
-      "row": 8,
-      "col": 2,
-      "length": 3,
-      "clue": "Tatlının zıttı",
-      "answer": "ACI"
+      "col": 6,
+      "length": 4,
+      "clue": "Cevap bekleyen",
+      "answer": "SORU"
     }
   ]
 }

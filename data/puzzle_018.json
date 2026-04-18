@@ -2,8 +2,8 @@
   "id": 18,
   "title": "Bölüm 18",
   "difficulty": "Kolay",
-  "grid_size_r": 8,
-  "grid_size_c": 12,
+  "grid_size_r": 10,
+  "grid_size_c": 8,
   "grid": [
     [
       0,
@@ -12,10 +12,6 @@
       1,
       1,
       1,
-      0,
-      0,
-      0,
-      0,
       1,
       0
     ],
@@ -27,24 +23,6 @@
       0,
       1,
       0,
-      0,
-      0,
-      0,
-      1,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      1,
-      0,
-      1,
-      0,
-      0,
-      0,
-      0,
-      1,
       0
     ],
     [
@@ -54,23 +32,25 @@
       1,
       1,
       1,
-      1,
       0,
-      1,
-      0,
-      1,
-      0
+      1
     ],
     [
-      0,
-      0,
-      0,
       1,
       0,
       0,
       1,
       0,
       1,
+      0,
+      1
+    ],
+    [
+      1,
+      0,
+      0,
+      1,
+      0,
       1,
       1,
       1
@@ -82,7 +62,13 @@
       1,
       1,
       0,
+      0,
+      1
+    ],
+    [
       1,
+      0,
+      0,
       0,
       1,
       0,
@@ -94,12 +80,8 @@
       0,
       0,
       0,
+      1,
       0,
-      0,
-      1,
-      1,
-      1,
-      1,
       0,
       0
     ],
@@ -108,9 +90,15 @@
       0,
       0,
       0,
-      0,
-      0,
       1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
       0,
       1,
       0,
@@ -124,27 +112,27 @@
       "direction": "across",
       "row": 0,
       "col": 3,
-      "length": 3,
-      "clue": "Bitki gövdesi",
-      "answer": "SAP"
+      "length": 4,
+      "clue": "Kırmızı meyve",
+      "answer": "ELMA"
     },
     {
       "number": 2,
       "direction": "down",
       "row": 0,
       "col": 5,
-      "length": 4,
-      "clue": "Yassı ekmek",
-      "answer": "PİDE"
+      "length": 5,
+      "clue": "Kanatlı kutsal varlık",
+      "answer": "MELEK"
     },
     {
       "number": 3,
-      "direction": "down",
-      "row": 0,
-      "col": 10,
-      "length": 5,
-      "clue": "Işık arkası",
-      "answer": "GÖLGE"
+      "direction": "across",
+      "row": 2,
+      "col": 2,
+      "length": 4,
+      "clue": "Başarı karşılığı",
+      "answer": "ÖDÜL"
     },
     {
       "number": 4,
@@ -152,62 +140,53 @@
       "row": 2,
       "col": 3,
       "length": 4,
-      "clue": "Ses birimi",
-      "answer": "HECE"
+      "clue": "Küçük akarsu",
+      "answer": "DERE"
     },
     {
       "number": 5,
-      "direction": "across",
-      "row": 3,
-      "col": 2,
-      "length": 5,
-      "clue": "Kanatlı kutsal varlık",
-      "answer": "MELEK"
+      "direction": "down",
+      "row": 2,
+      "col": 7,
+      "length": 4,
+      "clue": "Sıkıntı, üzüntü",
+      "answer": "DERT"
     },
     {
       "number": 6,
       "direction": "down",
       "row": 3,
-      "col": 6,
-      "length": 5,
-      "clue": "Küçük kırmızı meyve",
-      "answer": "KİRAZ"
+      "col": 0,
+      "length": 4,
+      "clue": "Gömlek boyun kısmı",
+      "answer": "YAKA"
     },
     {
       "number": 7,
-      "direction": "down",
-      "row": 3,
-      "col": 8,
-      "length": 5,
-      "clue": "Yeni bilgi",
-      "answer": "HABER"
+      "direction": "across",
+      "row": 4,
+      "col": 5,
+      "length": 3,
+      "clue": "Ateş közü",
+      "answer": "KOR"
     },
     {
       "number": 8,
       "direction": "across",
-      "row": 4,
-      "col": 8,
-      "length": 4,
-      "clue": "Ateşin parlak kısmı",
-      "answer": "ALEV"
-    },
-    {
-      "number": 9,
-      "direction": "across",
       "row": 5,
       "col": 0,
       "length": 5,
-      "clue": "Bilimsel test",
-      "answer": "DENEY"
+      "clue": "Sadık evcil hayvan",
+      "answer": "KÖPEK"
     },
     {
-      "number": 10,
-      "direction": "across",
-      "row": 6,
-      "col": 6,
-      "length": 4,
-      "clue": "Yanan ısı ve ışık",
-      "answer": "ATEŞ"
+      "number": 9,
+      "direction": "down",
+      "row": 5,
+      "col": 4,
+      "length": 5,
+      "clue": "Küçük kırmızı meyve",
+      "answer": "KİRAZ"
     }
   ]
 }

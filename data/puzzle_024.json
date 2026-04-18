@@ -2,15 +2,29 @@
   "id": 24,
   "title": "Bölüm 24",
   "difficulty": "Kolay",
-  "grid_size_r": 9,
-  "grid_size_c": 10,
+  "grid_size_r": 7,
+  "grid_size_c": 11,
   "grid": [
     [
       0,
       0,
       0,
       0,
+      0,
+      0,
+      0,
       1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
       0,
       1,
       0,
@@ -22,32 +36,9 @@
       0,
       1,
       0,
-      1,
-      1,
-      1,
-      1,
-      1,
-      0
-    ],
-    [
-      0,
-      1,
-      1,
-      1,
-      1,
-      0,
-      1,
-      0,
-      0,
-      1
-    ],
-    [
       0,
       0,
       1,
-      0,
-      1,
-      0,
       1,
       1,
       1,
@@ -58,44 +49,9 @@
       0,
       1,
       0,
-      0,
-      0,
-      0,
-      1,
-      0,
-      1
-    ],
-    [
       1,
       1,
       1,
-      0,
-      0,
-      0,
-      0,
-      1,
-      0,
-      0
-    ],
-    [
-      0,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0,
-      1,
-      0,
-      0
-    ],
-    [
-      0,
-      1,
-      0,
-      0,
-      0,
-      0,
       0,
       0,
       0,
@@ -103,13 +59,40 @@
     ],
     [
       0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
       1,
       0,
       0,
       0,
+      1,
       0,
-      0,
-      0,
+      1,
       0,
       0
     ]
@@ -119,91 +102,82 @@
       "number": 1,
       "direction": "down",
       "row": 0,
-      "col": 4,
-      "length": 4,
-      "clue": "Yapılması gereken iş",
-      "answer": "ÖDEV"
+      "col": 7,
+      "length": 3,
+      "clue": "Uçurum, yarık",
+      "answer": "YAR"
     },
     {
       "number": 2,
       "direction": "down",
-      "row": 0,
-      "col": 6,
-      "length": 4,
-      "clue": "Başarı karşılığı",
-      "answer": "ÖDÜL"
+      "row": 2,
+      "col": 2,
+      "length": 5,
+      "clue": "Nefesli çalgı",
+      "answer": "ZURNA"
     },
     {
       "number": 3,
       "direction": "down",
-      "row": 1,
-      "col": 2,
+      "row": 2,
+      "col": 6,
       "length": 5,
-      "clue": "Sayısal işlem",
-      "answer": "HESAP"
+      "clue": "En sert taş",
+      "answer": "ELMAS"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 2,
+      "col": 6,
+      "length": 5,
+      "clue": "Vaktinden önce",
+      "answer": "ERKEN"
     },
     {
       "number": 4,
       "direction": "across",
-      "row": 1,
+      "row": 3,
       "col": 4,
-      "length": 5,
-      "clue": "Üflemeli ses aleti",
-      "answer": "DÜDÜK"
+      "length": 3,
+      "clue": "Arı ürünü tatlı",
+      "answer": "BAL"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 3,
+      "col": 4,
+      "length": 3,
+      "clue": "Asit karşıtı",
+      "answer": "BAZ"
     },
     {
       "number": 5,
-      "direction": "across",
-      "row": 2,
-      "col": 1,
-      "length": 4,
-      "clue": "Karanlık zaman",
-      "answer": "GECE"
+      "direction": "down",
+      "row": 4,
+      "col": 8,
+      "length": 3,
+      "clue": "Kafa, vücudun üstü",
+      "answer": "BAŞ"
     },
     {
       "number": 6,
-      "direction": "down",
-      "row": 2,
-      "col": 9,
-      "length": 3,
-      "clue": "Ses çıkaran metal",
-      "answer": "ÇAN"
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "length": 5,
+      "clue": "Tuzlu büyük su",
+      "answer": "DENİZ"
     },
     {
       "number": 7,
       "direction": "across",
-      "row": 3,
+      "row": 5,
       "col": 6,
-      "length": 4,
-      "clue": "Türk parası",
-      "answer": "LİRA"
-    },
-    {
-      "number": 8,
-      "direction": "down",
-      "row": 3,
-      "col": 7,
-      "length": 4,
-      "clue": "Tedavi maddesi",
-      "answer": "İLAÇ"
-    },
-    {
-      "number": 9,
-      "direction": "across",
-      "row": 5,
-      "col": 0,
       "length": 3,
-      "clue": "Giyside küçük kese",
-      "answer": "CEP"
-    },
-    {
-      "number": 10,
-      "direction": "down",
-      "row": 5,
-      "col": 1,
-      "length": 4,
-      "clue": "Sanat yapıtı",
-      "answer": "ESER"
+      "clue": "İki şey arası boşluk",
+      "answer": "ARA"
     }
   ]
 }

@@ -3,7 +3,7 @@
   "title": "Bölüm 10",
   "difficulty": "Kolay",
   "grid_size_r": 9,
-  "grid_size_c": 10,
+  "grid_size_c": 8,
   "grid": [
     [
       0,
@@ -11,45 +11,27 @@
       0,
       0,
       0,
-      0,
-      1,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      1,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      0,
-      1,
-      1,
-      1,
       1,
       0,
       0
     ],
     [
+      0,
+      0,
       1,
       1,
       1,
       1,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
       1,
       0,
       0,
-      0,
+      1,
       0,
       0
     ],
@@ -58,52 +40,32 @@
       0,
       1,
       0,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      1,
-      1,
-      1,
       0,
       1,
-      0,
-      0,
       1,
-      0,
       1
     ],
     [
-      0,
-      0,
-      1,
-      0,
       1,
       1,
       1,
       1,
       0,
-      1
+      0,
+      1,
+      0
     ],
     [
       0,
       0,
       0,
       0,
-      0,
-      0,
-      0,
       1,
       0,
-      1
+      1,
+      0
     ],
     [
-      0,
-      0,
       0,
       0,
       0,
@@ -112,6 +74,26 @@
       1,
       1,
       1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0
     ]
   ],
   "words": [
@@ -119,91 +101,82 @@
       "number": 1,
       "direction": "down",
       "row": 0,
-      "col": 6,
-      "length": 3,
-      "clue": "Mekan, konum",
-      "answer": "YER"
-    },
-    {
-      "number": 2,
-      "direction": "down",
-      "row": 2,
-      "col": 4,
-      "length": 5,
-      "clue": "Aydınlatma aracı",
-      "answer": "LAMBA"
+      "col": 5,
+      "length": 4,
+      "clue": "Cevap bekleyen",
+      "answer": "SORU"
     },
     {
       "number": 2,
       "direction": "across",
-      "row": 2,
-      "col": 4,
+      "row": 1,
+      "col": 2,
+      "length": 5,
+      "clue": "Uçak kullanan",
+      "answer": "PİLOT"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 1,
+      "col": 2,
       "length": 4,
-      "clue": "Türk parası",
-      "answer": "LİRA"
+      "clue": "Yassı ekmek",
+      "answer": "PİDE"
     },
     {
       "number": 3,
       "direction": "across",
       "row": 3,
-      "col": 0,
-      "length": 5,
-      "clue": "En küçük işaret",
-      "answer": "NOKTA"
+      "col": 5,
+      "length": 3,
+      "clue": "Yüce, büyük",
+      "answer": "ULU"
     },
     {
       "number": 4,
       "direction": "down",
       "row": 3,
-      "col": 2,
-      "length": 4,
-      "clue": "Siyah renk",
-      "answer": "KARA"
+      "col": 6,
+      "length": 5,
+      "clue": "Gemi barınağı",
+      "answer": "LİMAN"
     },
     {
       "number": 5,
       "direction": "across",
-      "row": 5,
+      "row": 4,
       "col": 0,
-      "length": 3,
-      "clue": "Eflatun renk",
-      "answer": "MOR"
+      "length": 4,
+      "clue": "Böcekten kumaş",
+      "answer": "İPEK"
     },
     {
       "number": 6,
       "direction": "down",
       "row": 5,
-      "col": 7,
+      "col": 4,
       "length": 4,
-      "clue": "Ateşin parlak kısmı",
-      "answer": "ALEV"
+      "clue": "Baş, kelle",
+      "answer": "KAFA"
     },
     {
       "number": 7,
-      "direction": "down",
-      "row": 5,
-      "col": 9,
-      "length": 4,
-      "clue": "Solunan gaz",
-      "answer": "HAVA"
+      "direction": "across",
+      "row": 6,
+      "col": 3,
+      "length": 5,
+      "clue": "Yurt, memleket",
+      "answer": "VATAN"
     },
     {
       "number": 8,
       "direction": "across",
-      "row": 6,
-      "col": 4,
-      "length": 4,
-      "clue": "Gerçek, hakiki",
-      "answer": "ASIL"
-    },
-    {
-      "number": 9,
-      "direction": "across",
       "row": 8,
-      "col": 5,
-      "length": 5,
-      "clue": "Zar masa oyunu",
-      "answer": "TAVLA"
+      "col": 3,
+      "length": 3,
+      "clue": "Bina bölümü",
+      "answer": "KAT"
     }
   ]
 }

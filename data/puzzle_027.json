@@ -2,8 +2,8 @@
   "id": 27,
   "title": "Bölüm 27",
   "difficulty": "Orta",
-  "grid_size_r": 16,
-  "grid_size_c": 6,
+  "grid_size_r": 9,
+  "grid_size_c": 11,
   "grid": [
     [
       0,
@@ -11,7 +11,12 @@
       0,
       0,
       0,
-      1
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
     ],
     [
       0,
@@ -19,12 +24,9 @@
       0,
       0,
       0,
-      1
-    ],
-    [
-      0,
       0,
       1,
+      0,
       1,
       1,
       1
@@ -34,13 +36,49 @@
       0,
       0,
       1,
+      1,
+      1,
+      1,
       0,
-      1
+      0,
+      1,
+      0
     ],
     [
       0,
+      0,
+      0,
+      0,
+      0,
+      0,
       1,
       1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
       1,
       0,
       0
@@ -51,75 +89,8 @@
       0,
       1,
       0,
-      1
-    ],
-    [
-      1,
-      1,
-      1,
-      1,
-      1,
-      1
-    ],
-    [
-      0,
       1,
       0,
-      0,
-      0,
-      1
-    ],
-    [
-      0,
-      1,
-      0,
-      0,
-      0,
-      1
-    ],
-    [
-      1,
-      1,
-      1,
-      1,
-      0,
-      0
-    ],
-    [
-      1,
-      0,
-      0,
-      1,
-      0,
-      0
-    ],
-    [
-      1,
-      0,
-      0,
-      1,
-      1,
-      1
-    ],
-    [
-      1,
-      0,
-      0,
-      1,
-      0,
-      0
-    ],
-    [
-      0,
-      1,
-      1,
-      1,
-      0,
-      0
-    ],
-    [
-      0,
-      1,
       0,
       0,
       0,
@@ -127,7 +98,25 @@
     ],
     [
       0,
+      0,
+      0,
+      0,
+      0,
       1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
       0,
       0,
       0,
@@ -139,118 +128,91 @@
       "number": 1,
       "direction": "down",
       "row": 0,
-      "col": 5,
+      "col": 9,
       "length": 4,
-      "clue": "Kısa dinlenme",
-      "answer": "MOLA"
+      "clue": "Baş, kelle",
+      "answer": "KAFA"
     },
     {
       "number": 2,
-      "direction": "across",
-      "row": 2,
-      "col": 2,
+      "direction": "down",
+      "row": 1,
+      "col": 6,
       "length": 4,
-      "clue": "Eğitim kurumu",
-      "answer": "OKUL"
+      "clue": "Küçük akarsu",
+      "answer": "DERE"
     },
     {
       "number": 3,
-      "direction": "down",
-      "row": 2,
-      "col": 3,
-      "length": 5,
-      "clue": "Yazı aleti",
-      "answer": "KALEM"
+      "direction": "across",
+      "row": 1,
+      "col": 8,
+      "length": 3,
+      "clue": "Baştaki kıllar",
+      "answer": "SAÇ"
     },
     {
       "number": 4,
       "direction": "across",
-      "row": 4,
-      "col": 1,
-      "length": 3,
-      "clue": "Mülk, eşya",
-      "answer": "MAL"
+      "row": 2,
+      "col": 3,
+      "length": 4,
+      "clue": "Yassı ekmek",
+      "answer": "PİDE"
     },
     {
       "number": 5,
-      "direction": "down",
-      "row": 5,
-      "col": 5,
+      "direction": "across",
+      "row": 3,
+      "col": 6,
       "length": 4,
-      "clue": "Raylı taşıt",
-      "answer": "TREN"
+      "clue": "Uykuda hayal",
+      "answer": "RÜYA"
     },
     {
       "number": 6,
+      "direction": "down",
+      "row": 3,
+      "col": 8,
+      "length": 3,
+      "clue": "Mekan, konum",
+      "answer": "YER"
+    },
+    {
+      "number": 7,
       "direction": "across",
-      "row": 6,
-      "col": 0,
-      "length": 6,
-      "clue": "Gökten su damlaları",
-      "answer": "YAĞMUR"
+      "row": 4,
+      "col": 3,
+      "length": 4,
+      "clue": "Çukur yemek kabı",
+      "answer": "KASE"
     },
     {
       "number": 7,
       "direction": "down",
-      "row": 6,
-      "col": 1,
-      "length": 4,
-      "clue": "Elektrik hareketi",
-      "answer": "AKIM"
-    },
-    {
-      "number": 8,
-      "direction": "across",
-      "row": 9,
-      "col": 0,
-      "length": 4,
-      "clue": "Yaşam süresi",
-      "answer": "ÖMÜR"
+      "row": 4,
+      "col": 3,
+      "length": 3,
+      "clue": "Damar sıvısı",
+      "answer": "KAN"
     },
     {
       "number": 8,
       "direction": "down",
-      "row": 9,
-      "col": 0,
-      "length": 4,
-      "clue": "Üstünü kapatan",
-      "answer": "ÖRTÜ"
+      "row": 4,
+      "col": 5,
+      "length": 5,
+      "clue": "Büyük oda",
+      "answer": "SALON"
     },
     {
       "number": 9,
-      "direction": "down",
-      "row": 9,
-      "col": 3,
-      "length": 5,
-      "clue": "Programlanabilir makine",
-      "answer": "ROBOT"
-    },
-    {
-      "number": 10,
       "direction": "across",
-      "row": 11,
-      "col": 3,
-      "length": 3,
-      "clue": "On yüzlük sayı",
-      "answer": "BİN"
-    },
-    {
-      "number": 11,
-      "direction": "across",
-      "row": 13,
-      "col": 1,
-      "length": 3,
-      "clue": "Bahçe engeli",
-      "answer": "ÇİT"
-    },
-    {
-      "number": 11,
-      "direction": "down",
-      "row": 13,
-      "col": 1,
-      "length": 3,
-      "clue": "Devir, dönem",
-      "answer": "ÇAĞ"
+      "row": 5,
+      "col": 0,
+      "length": 4,
+      "clue": "Siyah renk",
+      "answer": "KARA"
     }
   ]
 }

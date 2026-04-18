@@ -2,15 +2,12 @@
   "id": 6,
   "title": "Bölüm 6",
   "difficulty": "Kolay",
-  "grid_size_r": 6,
-  "grid_size_c": 12,
+  "grid_size_r": 9,
+  "grid_size_c": 9,
   "grid": [
     [
       0,
       0,
-      0,
-      0,
-      0,
       1,
       0,
       0,
@@ -20,43 +17,12 @@
       0
     ],
     [
-      1,
       0,
       0,
       1,
       1,
       1,
       1,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      1,
-      1,
-      1,
-      1,
-      0,
-      1,
-      0,
-      1,
-      1,
-      1,
-      1,
-      0
-    ],
-    [
-      1,
-      0,
-      0,
-      1,
-      0,
-      1,
-      1,
-      1,
-      0,
       0,
       0,
       0
@@ -65,9 +31,17 @@
       0,
       0,
       1,
-      1,
+      0,
       1,
       0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
       0,
       1,
       1,
@@ -77,15 +51,56 @@
     ],
     [
       0,
+      1,
       0,
       0,
       1,
       0,
       0,
       0,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
       0,
       0,
       0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
       0,
       0
     ]
@@ -95,91 +110,82 @@
       "number": 1,
       "direction": "down",
       "row": 0,
-      "col": 5,
+      "col": 2,
       "length": 4,
-      "clue": "Silahlı kuvvetler",
-      "answer": "ORDU"
+      "clue": "Toprak eşme",
+      "answer": "KAZI"
     },
     {
       "number": 2,
-      "direction": "down",
-      "row": 1,
-      "col": 0,
-      "length": 3,
-      "clue": "Yüksek arazi şekli",
-      "answer": "DAĞ"
-    },
-    {
-      "number": 3,
-      "direction": "down",
-      "row": 1,
-      "col": 3,
-      "length": 5,
-      "clue": "Gölge ağacı",
-      "answer": "ÇINAR"
-    },
-    {
-      "number": 3,
       "direction": "across",
       "row": 1,
-      "col": 3,
-      "length": 4,
-      "clue": "Çözüm yolu",
-      "answer": "ÇARE"
-    },
-    {
-      "number": 4,
-      "direction": "across",
-      "row": 2,
-      "col": 0,
+      "col": 2,
       "length": 4,
       "clue": "Av yapan kişi",
       "answer": "AVCI"
     },
     {
-      "number": 5,
+      "number": 3,
+      "direction": "down",
+      "row": 1,
+      "col": 4,
+      "length": 5,
+      "clue": "Geniş ana yol",
+      "answer": "CADDE"
+    },
+    {
+      "number": 4,
       "direction": "down",
       "row": 2,
-      "col": 7,
+      "col": 8,
       "length": 3,
-      "clue": "Su ile yıkanma",
-      "answer": "DUŞ"
+      "clue": "Ses çıkaran metal",
+      "answer": "ÇAN"
     },
     {
       "number": 5,
       "direction": "across",
-      "row": 2,
-      "col": 7,
-      "length": 4,
-      "clue": "Tahta oyunu",
-      "answer": "DAMA"
+      "row": 3,
+      "col": 4,
+      "length": 5,
+      "clue": "Yaşadığımız gezegen",
+      "answer": "DÜNYA"
     },
     {
       "number": 6,
-      "direction": "across",
-      "row": 3,
-      "col": 5,
-      "length": 3,
-      "clue": "Yüce, büyük",
-      "answer": "ULU"
+      "direction": "down",
+      "row": 4,
+      "col": 1,
+      "length": 4,
+      "clue": "Üçten sonra gelen",
+      "answer": "DÖRT"
     },
     {
       "number": 7,
       "direction": "across",
-      "row": 4,
-      "col": 2,
-      "length": 3,
-      "clue": "Bitki gövdesi",
-      "answer": "SAP"
+      "row": 5,
+      "col": 0,
+      "length": 5,
+      "clue": "Işık arkası",
+      "answer": "GÖLGE"
     },
     {
       "number": 8,
+      "direction": "down",
+      "row": 5,
+      "col": 3,
+      "length": 4,
+      "clue": "Deniz taşıtı",
+      "answer": "GEMİ"
+    },
+    {
+      "number": 9,
       "direction": "across",
-      "row": 4,
-      "col": 7,
-      "length": 5,
-      "clue": "Tatlı madde",
-      "answer": "ŞEKER"
+      "row": 8,
+      "col": 3,
+      "length": 4,
+      "clue": "Tedavi maddesi",
+      "answer": "İLAÇ"
     }
   ]
 }

@@ -2,18 +2,86 @@
   "id": 19,
   "title": "Bölüm 19",
   "difficulty": "Kolay",
-  "grid_size_r": 12,
-  "grid_size_c": 10,
+  "grid_size_r": 11,
+  "grid_size_c": 8,
   "grid": [
     [
       0,
       0,
       0,
       0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
       0,
       1,
       0,
       0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
       1,
       0
     ],
@@ -24,130 +92,28 @@
       0,
       0,
       1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
       1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
       1,
       1,
       1
-    ],
-    [
-      0,
-      0,
-      0,
-      1,
-      1,
-      1,
-      0,
-      0,
-      1,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      1,
-      0,
-      1,
-      0,
-      0,
-      1,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      1,
-      0,
-      1,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      1,
-      1,
-      1,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      1,
-      1,
-      1,
-      1,
-      1,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      0,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      0,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      0,
-      1,
-      1,
-      1,
-      1,
-      0,
-      0
     ]
   ],
   "words": [
@@ -155,91 +121,82 @@
       "number": 1,
       "direction": "down",
       "row": 0,
-      "col": 5,
+      "col": 4,
       "length": 5,
-      "clue": "Ölçü, ebat",
-      "answer": "BOYUT"
+      "clue": "Bitkinin ürünü",
+      "answer": "MEYVE"
     },
     {
       "number": 2,
       "direction": "down",
-      "row": 0,
-      "col": 8,
+      "row": 4,
+      "col": 1,
+      "length": 3,
+      "clue": "Rüya, hayal",
+      "answer": "DÜŞ"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 4,
+      "col": 3,
       "length": 4,
-      "clue": "Talih, baht",
-      "answer": "ŞANS"
+      "clue": "Küçük akarsu",
+      "answer": "DERE"
     },
     {
       "number": 3,
       "direction": "across",
-      "row": 1,
-      "col": 5,
-      "length": 5,
-      "clue": "Ağaçlık alan",
-      "answer": "ORMAN"
-    },
-    {
-      "number": 4,
-      "direction": "across",
-      "row": 2,
-      "col": 3,
-      "length": 3,
-      "clue": "Uzunluk, endam",
-      "answer": "BOY"
-    },
-    {
-      "number": 4,
-      "direction": "down",
-      "row": 2,
+      "row": 4,
       "col": 3,
       "length": 4,
-      "clue": "Renk veren madde",
-      "answer": "BOYA"
+      "clue": "Sıkıntı, üzüntü",
+      "answer": "DERT"
     },
     {
-      "number": 5,
+      "number": 4,
       "direction": "across",
       "row": 5,
       "col": 0,
       "length": 4,
-      "clue": "Bağlama aracı",
-      "answer": "TOKA"
+      "clue": "Zaman aralığı",
+      "answer": "SÜRE"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 6,
+      "col": 5,
+      "length": 5,
+      "clue": "Kitap yazan",
+      "answer": "YAZAR"
     },
     {
       "number": 6,
-      "direction": "down",
-      "row": 5,
+      "direction": "across",
+      "row": 7,
       "col": 2,
-      "length": 4,
-      "clue": "Büyük sert taş",
-      "answer": "KAYA"
+      "length": 5,
+      "clue": "Bilme isteği",
+      "answer": "MERAK"
     },
     {
       "number": 7,
       "direction": "across",
-      "row": 8,
-      "col": 1,
-      "length": 5,
-      "clue": "Algılama sistemi",
-      "answer": "RADAR"
+      "row": 9,
+      "col": 3,
+      "length": 3,
+      "clue": "Ev bölümü",
+      "answer": "ODA"
     },
     {
       "number": 8,
-      "direction": "down",
-      "row": 8,
-      "col": 4,
-      "length": 4,
-      "clue": "Ateşin parlak kısmı",
-      "answer": "ALEV"
-    },
-    {
-      "number": 9,
       "direction": "across",
-      "row": 11,
-      "col": 4,
-      "length": 4,
-      "clue": "Çiçek süs kabı",
-      "answer": "VAZO"
+      "row": 10,
+      "col": 5,
+      "length": 3,
+      "clue": "Can, maneviyat",
+      "answer": "RUH"
     }
   ]
 }

@@ -2,8 +2,8 @@
   "id": 5,
   "title": "Bölüm 5",
   "difficulty": "Kolay",
-  "grid_size_r": 8,
-  "grid_size_c": 12,
+  "grid_size_r": 10,
+  "grid_size_c": 7,
   "grid": [
     [
       0,
@@ -12,11 +12,15 @@
       1,
       0,
       0,
+      0
+    ],
+    [
+      0,
       0,
       1,
-      0,
-      0,
-      0,
+      1,
+      1,
+      1,
       0
     ],
     [
@@ -26,47 +30,9 @@
       1,
       0,
       0,
-      0,
-      1,
-      0,
-      0,
-      0,
       0
     ],
     [
-      0,
-      0,
-      0,
-      1,
-      1,
-      1,
-      1,
-      1,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      1,
-      0,
-      1,
-      0,
-      0,
-      1,
-      1,
-      1,
-      0,
-      0
-    ],
-    [
-      0,
-      1,
-      1,
-      1,
-      1,
       0,
       0,
       0,
@@ -79,8 +45,21 @@
       0,
       0,
       1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
       0,
       0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
       0,
       0,
       1,
@@ -90,28 +69,27 @@
       1
     ],
     [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1
+    ],
+    [
       1,
       1,
       1,
+      0,
       1,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
+      1,
+      1
     ],
     [
       0,
       0,
       1,
-      0,
-      0,
-      0,
-      0,
-      0,
       0,
       0,
       0,
@@ -124,90 +102,81 @@
       "direction": "down",
       "row": 0,
       "col": 3,
-      "length": 3,
-      "clue": "Gizli bilgi",
-      "answer": "SIR"
+      "length": 5,
+      "clue": "Evin yeşil alanı",
+      "answer": "BAHÇE"
     },
     {
       "number": 2,
-      "direction": "down",
-      "row": 0,
-      "col": 7,
+      "direction": "across",
+      "row": 1,
+      "col": 2,
       "length": 4,
-      "clue": "Zodyak işareti",
-      "answer": "BURÇ"
+      "clue": "Zaman ölçer",
+      "answer": "SAAT"
     },
     {
       "number": 3,
       "direction": "across",
-      "row": 2,
-      "col": 3,
-      "length": 5,
-      "clue": "Algılama sistemi",
-      "answer": "RADAR"
+      "row": 4,
+      "col": 2,
+      "length": 3,
+      "clue": "Giyside küçük kese",
+      "answer": "CEP"
     },
     {
       "number": 4,
       "direction": "down",
-      "row": 2,
+      "row": 4,
       "col": 4,
-      "length": 3,
-      "clue": "Üstün karşıtı",
-      "answer": "ALT"
+      "length": 5,
+      "clue": "Uçak kullanan",
+      "answer": "PİLOT"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 6,
+      "col": 2,
+      "length": 5,
+      "clue": "Suda yaşayan canlı",
+      "answer": "BALIK"
     },
     {
       "number": 5,
       "direction": "down",
-      "row": 3,
+      "row": 6,
       "col": 2,
-      "length": 5,
-      "clue": "İki yakayı birleştiren",
-      "answer": "KÖPRÜ"
+      "length": 4,
+      "clue": "Felaket, kötülük",
+      "answer": "BELA"
     },
     {
       "number": 6,
-      "direction": "across",
-      "row": 3,
-      "col": 7,
+      "direction": "down",
+      "row": 6,
+      "col": 6,
       "length": 3,
-      "clue": "Devir, dönem",
-      "answer": "ÇAĞ"
+      "clue": "Damar sıvısı",
+      "answer": "KAN"
     },
     {
       "number": 7,
-      "direction": "down",
-      "row": 3,
-      "col": 8,
+      "direction": "across",
+      "row": 8,
+      "col": 0,
       "length": 3,
-      "clue": "Yakışıklı, gösterişli",
-      "answer": "AFİ"
+      "clue": "Karalarla çevrili su",
+      "answer": "GÖL"
     },
     {
       "number": 8,
       "direction": "across",
-      "row": 4,
-      "col": 1,
-      "length": 4,
-      "clue": "Üçten sonra gelen",
-      "answer": "DÖRT"
-    },
-    {
-      "number": 9,
-      "direction": "across",
-      "row": 5,
-      "col": 7,
-      "length": 5,
-      "clue": "En yüksek nokta",
-      "answer": "ZİRVE"
-    },
-    {
-      "number": 10,
-      "direction": "across",
-      "row": 6,
-      "col": 0,
-      "length": 4,
-      "clue": "Vatan",
-      "answer": "YURT"
+      "row": 8,
+      "col": 4,
+      "length": 3,
+      "clue": "Cilt, deri",
+      "answer": "TEN"
     }
   ]
 }

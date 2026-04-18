@@ -2,18 +2,38 @@
   "id": 29,
   "title": "Bölüm 29",
   "difficulty": "Orta",
-  "grid_size_r": 12,
-  "grid_size_c": 11,
+  "grid_size_r": 9,
+  "grid_size_c": 9,
   "grid": [
     [
       0,
       0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
       1,
       0,
       0,
+      0
+    ],
+    [
       0,
       0,
       0,
+      1,
+      0,
+      1,
       0,
       0,
       0
@@ -22,51 +42,10 @@
       0,
       0,
       1,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      1,
-      1,
-      1,
       1,
       1,
       1,
       0,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      1,
-      1,
-      1,
-      1,
-      0,
-      0,
-      0,
-      1,
       0,
       0
     ],
@@ -77,18 +56,36 @@
       1,
       0,
       0,
-      1,
       0,
-      1,
       0,
       0
     ],
     [
       0,
       1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
       1,
       1,
       1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
       0,
       1,
       1,
@@ -97,188 +94,107 @@
       1
     ],
     [
-      0,
-      1,
-      0,
-      1,
-      0,
-      0,
-      1,
-      0,
-      0,
-      1,
-      0
-    ],
-    [
-      0,
-      1,
-      0,
-      1,
-      1,
       1,
       1,
       1,
       0,
       1,
-      0
-    ],
-    [
-      0,
-      1,
       0,
       0,
       1,
-      0,
-      0,
-      0,
-      0,
-      1,
-      0
-    ],
-    [
-      0,
-      1,
-      0,
-      0,
-      1,
-      1,
-      1,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      1,
-      0,
-      0,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0,
       0
     ]
   ],
   "words": [
     {
       "number": 1,
-      "direction": "down",
+      "direction": "across",
       "row": 0,
-      "col": 2,
+      "col": 3,
       "length": 5,
-      "clue": "İple oynatılan",
-      "answer": "KUKLA"
+      "clue": "En küçük işaret",
+      "answer": "NOKTA"
     },
     {
       "number": 2,
-      "direction": "across",
-      "row": 2,
-      "col": 0,
-      "length": 6,
-      "clue": "Anlatılan olay",
-      "answer": "HİKAYE"
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "length": 4,
+      "clue": "Yüksek yapı",
+      "answer": "KULE"
     },
     {
       "number": 3,
-      "direction": "across",
-      "row": 4,
-      "col": 1,
-      "length": 4,
-      "clue": "Çiçek süs kabı",
-      "answer": "VAZO"
+      "direction": "down",
+      "row": 2,
+      "col": 3,
+      "length": 5,
+      "clue": "Kutlama tatlısı",
+      "answer": "PASTA"
     },
     {
       "number": 4,
-      "direction": "down",
-      "row": 4,
-      "col": 3,
-      "length": 5,
-      "clue": "En yüksek nokta",
-      "answer": "ZİRVE"
+      "direction": "across",
+      "row": 3,
+      "col": 2,
+      "length": 4,
+      "clue": "Çözüm yolu",
+      "answer": "ÇARE"
     },
     {
       "number": 5,
       "direction": "down",
-      "row": 4,
-      "col": 8,
-      "length": 3,
-      "clue": "Mektup pulu",
-      "answer": "PUL"
+      "row": 5,
+      "col": 1,
+      "length": 4,
+      "clue": "Solunan gaz",
+      "answer": "HAVA"
     },
     {
       "number": 6,
-      "direction": "down",
-      "row": 5,
-      "col": 6,
-      "length": 4,
-      "clue": "Türk simgesi çiçek",
-      "answer": "LALE"
-    },
-    {
-      "number": 7,
       "direction": "across",
       "row": 6,
-      "col": 1,
-      "length": 4,
-      "clue": "Zodyak işareti",
-      "answer": "BURÇ"
+      "col": 0,
+      "length": 5,
+      "clue": "Günün başı",
+      "answer": "SABAH"
     },
     {
       "number": 7,
       "direction": "down",
       "row": 6,
-      "col": 1,
-      "length": 6,
-      "clue": "Güzel öten kuş",
-      "answer": "BÜLBÜL"
+      "col": 4,
+      "length": 3,
+      "clue": "Güzel, tatlı",
+      "answer": "HOŞ"
     },
     {
       "number": 8,
-      "direction": "across",
+      "direction": "down",
       "row": 6,
-      "col": 6,
-      "length": 5,
-      "clue": "Harita kitabı",
-      "answer": "ATLAS"
+      "col": 7,
+      "length": 3,
+      "clue": "Damar sıvısı",
+      "answer": "KAN"
     },
     {
       "number": 9,
-      "direction": "down",
-      "row": 6,
-      "col": 9,
-      "length": 4,
-      "clue": "Yemek pişiren",
-      "answer": "AŞÇI"
+      "direction": "across",
+      "row": 7,
+      "col": 4,
+      "length": 5,
+      "clue": "Vücut bölümü",
+      "answer": "ORGAN"
     },
     {
       "number": 10,
       "direction": "across",
       "row": 8,
-      "col": 3,
-      "length": 5,
-      "clue": "Temel buğday gıdası",
-      "answer": "EKMEK"
-    },
-    {
-      "number": 11,
-      "direction": "down",
-      "row": 8,
-      "col": 4,
-      "length": 4,
-      "clue": "Miyavlayan evcil",
-      "answer": "KEDİ"
-    },
-    {
-      "number": 12,
-      "direction": "across",
-      "row": 10,
-      "col": 4,
+      "col": 0,
       "length": 3,
-      "clue": "Evin çatısı",
-      "answer": "DAM"
+      "clue": "Göz üstü kıl şeridi",
+      "answer": "KAŞ"
     }
   ]
 }

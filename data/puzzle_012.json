@@ -2,43 +2,25 @@
   "id": 12,
   "title": "Bölüm 12",
   "difficulty": "Kolay",
-  "grid_size_r": 10,
-  "grid_size_c": 9,
+  "grid_size_r": 6,
+  "grid_size_c": 12,
   "grid": [
     [
       0,
       0,
-      1,
       0,
       0,
       0,
       0,
       0,
-      0
-    ],
-    [
       0,
-      1,
-      1,
-      1,
-      1,
-      0,
-      0,
-      1,
-      0
-    ],
-    [
-      0,
-      0,
-      1,
-      0,
-      1,
       1,
       1,
       1,
       1
     ],
     [
+      1,
       0,
       0,
       0,
@@ -47,37 +29,20 @@
       0,
       0,
       1,
-      0
-    ],
-    [
-      0,
-      0,
-      1,
-      1,
-      1,
-      1,
-      0,
-      1,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      1,
-      0,
-      0,
       0,
       0,
       0
     ],
     [
+      1,
+      0,
       0,
       1,
       0,
       1,
-      0,
-      0,
+      1,
+      1,
+      1,
       0,
       0,
       0
@@ -88,15 +53,21 @@
       1,
       1,
       0,
+      1,
       0,
+      0,
+      1,
       0,
       0,
       0
     ],
     [
       0,
-      1,
       0,
+      0,
+      1,
+      1,
+      1,
       0,
       0,
       0,
@@ -109,6 +80,9 @@
       1,
       1,
       1,
+      0,
+      0,
+      0,
       0,
       0,
       0,
@@ -121,91 +95,82 @@
       "number": 1,
       "direction": "down",
       "row": 0,
-      "col": 2,
-      "length": 3,
-      "clue": "Havadaki rutubet",
-      "answer": "NEM"
+      "col": 8,
+      "length": 4,
+      "clue": "Eğlence faaliyeti",
+      "answer": "OYUN"
+    },
+    {
+      "number": 1,
+      "direction": "across",
+      "row": 0,
+      "col": 8,
+      "length": 4,
+      "clue": "Silahlı kuvvetler",
+      "answer": "ORDU"
     },
     {
       "number": 2,
-      "direction": "across",
+      "direction": "down",
       "row": 1,
-      "col": 1,
-      "length": 4,
-      "clue": "İlerinin zıttı",
-      "answer": "GERİ"
+      "col": 0,
+      "length": 3,
+      "clue": "Bina bölümü",
+      "answer": "KAT"
     },
     {
       "number": 3,
       "direction": "down",
       "row": 1,
-      "col": 4,
+      "col": 5,
       "length": 4,
-      "clue": "Böcekten kumaş",
-      "answer": "İPEK"
+      "clue": "Başarı karşılığı",
+      "answer": "ÖDÜL"
     },
     {
       "number": 4,
       "direction": "down",
-      "row": 1,
-      "col": 7,
+      "row": 2,
+      "col": 3,
       "length": 4,
-      "clue": "Konaklama yeri",
-      "answer": "OTEL"
+      "clue": "Gömlek boyun kısmı",
+      "answer": "YAKA"
     },
     {
       "number": 5,
       "direction": "across",
       "row": 2,
-      "col": 4,
-      "length": 5,
-      "clue": "Mektup servisi",
-      "answer": "POSTA"
+      "col": 5,
+      "length": 4,
+      "clue": "Boş olmayan",
+      "answer": "DOLU"
     },
     {
       "number": 6,
       "direction": "across",
-      "row": 4,
-      "col": 2,
+      "row": 3,
+      "col": 0,
       "length": 4,
-      "clue": "Katlanır bıçak",
-      "answer": "ÇAKI"
+      "clue": "Bağlama aracı",
+      "answer": "TOKA"
     },
     {
       "number": 7,
-      "direction": "down",
+      "direction": "across",
       "row": 4,
       "col": 3,
-      "length": 4,
-      "clue": "Av yapan kişi",
-      "answer": "AVCI"
+      "length": 3,
+      "clue": "Üst beden uzvu",
+      "answer": "KOL"
     },
     {
       "number": 8,
-      "direction": "down",
-      "row": 6,
-      "col": 1,
-      "length": 4,
-      "clue": "Adet, parça",
-      "answer": "TANE"
-    },
-    {
-      "number": 9,
       "direction": "across",
-      "row": 7,
+      "row": 5,
       "col": 0,
       "length": 4,
-      "clue": "Yazılmış metin",
-      "answer": "YAZI"
-    },
-    {
-      "number": 10,
-      "direction": "across",
-      "row": 9,
-      "col": 0,
-      "length": 4,
-      "clue": "Kez, kere",
-      "answer": "DEFA"
+      "clue": "Suça yaptırım",
+      "answer": "CEZA"
     }
   ]
 }

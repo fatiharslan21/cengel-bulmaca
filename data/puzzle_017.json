@@ -2,16 +2,27 @@
   "id": 17,
   "title": "Bölüm 17",
   "difficulty": "Kolay",
-  "grid_size_r": 10,
-  "grid_size_c": 11,
+  "grid_size_r": 6,
+  "grid_size_c": 10,
   "grid": [
     [
       0,
       0,
+      1,
       0,
       1,
       0,
       0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
       0,
       0,
       0,
@@ -22,24 +33,34 @@
       1,
       1,
       1,
-      1,
-      1,
       0,
-      0,
+      1,
       0,
       0,
       1,
-      0
+      0,
+      1
     ],
     [
       0,
       0,
       0,
-      1,
-      0,
       0,
       1,
       1,
+      1,
+      1,
+      0,
+      1
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
       1,
       1,
       1
@@ -47,93 +68,14 @@
     [
       0,
       0,
-      1,
-      1,
-      1,
-      1,
-      1,
-      0,
-      0,
-      1,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      1,
-      0,
-      0,
-      1,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
       0,
       0,
       0,
       0,
       0,
-      1,
-      1,
-      1,
       0,
       0,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      0,
-      0,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      1,
-      1,
-      1,
-      1,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      0,
-      0,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      1,
-      1,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0
+      1
     ]
   ],
   "words": [
@@ -141,91 +83,82 @@
       "number": 1,
       "direction": "down",
       "row": 0,
-      "col": 3,
-      "length": 5,
-      "clue": "Büyük oda",
-      "answer": "SALON"
+      "col": 2,
+      "length": 3,
+      "clue": "Çiğneme organı",
+      "answer": "DİŞ"
     },
     {
       "number": 2,
-      "direction": "across",
-      "row": 1,
-      "col": 0,
+      "direction": "down",
+      "row": 0,
+      "col": 4,
       "length": 5,
-      "clue": "Bilme isteği",
-      "answer": "MERAK"
+      "clue": "Temel buğday gıdası",
+      "answer": "EKMEK"
     },
     {
       "number": 3,
-      "direction": "down",
+      "direction": "across",
       "row": 1,
-      "col": 9,
+      "col": 2,
       "length": 3,
-      "clue": "Dev kara hayvanı",
-      "answer": "FİL"
-    },
-    {
-      "number": 4,
-      "direction": "down",
-      "row": 2,
-      "col": 6,
-      "length": 4,
-      "clue": "Tahta oyunu",
-      "answer": "DAMA"
+      "clue": "Birinci, baştaki",
+      "answer": "İLK"
     },
     {
       "number": 4,
       "direction": "across",
       "row": 2,
-      "col": 6,
-      "length": 5,
-      "clue": "Tuzlu büyük su",
-      "answer": "DENİZ"
+      "col": 0,
+      "length": 3,
+      "clue": "İçi dolu olmayan",
+      "answer": "BOŞ"
     },
     {
       "number": 5,
-      "direction": "across",
-      "row": 3,
-      "col": 2,
-      "length": 5,
-      "clue": "En küçük işaret",
-      "answer": "NOKTA"
+      "direction": "down",
+      "row": 2,
+      "col": 7,
+      "length": 3,
+      "clue": "Adalet, doğruluk",
+      "answer": "HAK"
     },
     {
       "number": 6,
       "direction": "down",
-      "row": 5,
-      "col": 5,
-      "length": 5,
-      "clue": "Uyulması gereken",
-      "answer": "KURAL"
-    },
-    {
-      "number": 6,
-      "direction": "across",
-      "row": 5,
-      "col": 5,
-      "length": 3,
-      "clue": "Bina bölümü",
-      "answer": "KAT"
+      "row": 2,
+      "col": 9,
+      "length": 4,
+      "clue": "Yüksek yapı",
+      "answer": "KULE"
     },
     {
       "number": 7,
       "direction": "across",
-      "row": 7,
-      "col": 3,
+      "row": 3,
+      "col": 4,
       "length": 4,
-      "clue": "Çözüm yolu",
-      "answer": "ÇARE"
+      "clue": "Kırmızı meyve",
+      "answer": "ELMA"
     },
     {
       "number": 8,
       "direction": "across",
-      "row": 9,
-      "col": 3,
+      "row": 4,
+      "col": 1,
+      "length": 4,
+      "clue": "Yeşil alan",
+      "answer": "PARK"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 4,
+      "col": 7,
       "length": 3,
-      "clue": "Üst beden uzvu",
-      "answer": "KOL"
+      "clue": "Seramik toprağı",
+      "answer": "KİL"
     }
   ]
 }
