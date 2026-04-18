@@ -152,7 +152,7 @@
     // 1. URL'den hangi bölümde olduğumuzu anla (Örn: play.html?id=5)
     const urlParams = new URLSearchParams(window.location.search);
     const levelId = parseInt(urlParams.get('id')) || 1;
-    const totalLevels = 500; // Toplam bulmaca sayın
+    const totalLevels = 750; // Toplam bulmaca sayın
     const dailyKey = urlParams.get('daily') || null;
     window.CB_DAILY_KEY = dailyKey; // play.js bunu kontrol eder
 

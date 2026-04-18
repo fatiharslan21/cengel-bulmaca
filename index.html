@@ -48,10 +48,7 @@
         </div>
     </div>
 
-    <div class="hero-badge">
-        <span class="hb-dot"></span>
-        <span><b>500</b> bulmaca · Türkçe &amp; eski Türkçe · Her gün yeni</span>
-    </div>
+    <div class="hero-badge" style="display:none"></div>
 
     <h1 class="hero-headline">
         Harf harf<br>
@@ -63,7 +60,7 @@
 
     <div class="hero-stats-row">
         <div class="stat-cell">
-            <span class="stat-num" id="hs-total">500</span>
+            <span class="stat-num" id="hs-total">750</span>
             <span class="stat-lbl">Bulmaca</span>
         </div>
         <div class="stat-cell">
@@ -133,12 +130,12 @@
     <button class="tab diff-zor-tab" data-d="Zor">
         <span class="tab-emoji">⚡</span>
         <span class="tab-label">Zor</span>
-        <span class="tab-stat" id="stat-Zor">0/125</span>
+        <span class="tab-stat" id="stat-Zor">0/250</span>
     </button>
     <button class="tab diff-cok-zor-tab" data-d="Çok Zor">
         <span class="tab-emoji">💎</span>
         <span class="tab-label">Çok Zor</span>
-        <span class="tab-stat" id="stat-Çok Zor">0/125</span>
+        <span class="tab-stat" id="stat-Çok Zor">0/250</span>
     </button>
 </nav>
 <div class="difficulty-banner" id="diff-banner">
@@ -150,7 +147,7 @@
         </div>
         <div class="db-stat">
             <span class="db-stat-num" id="db-stat-num">0</span>
-            <span class="db-stat-lbl">/125</span>
+            <span class="db-stat-lbl" id="db-stat-total">/125</span>
         </div>
     </div>
 </div>
@@ -201,9 +198,18 @@ if(themeToggle) {
 }
 // PYTHON DÖNGÜLERİ YERİNE JAVASCRIPT KART OLUŞTURUCU
 const levelsContainer = document.getElementById('levels-container');
-const difficulties = ['Kolay', 'Orta', 'Zor', 'Çok Zor'];
+const LEVEL_PLAN = [
+    { name: 'Kolay', count: 125 },
+    { name: 'Orta', count: 125 },
+    { name: 'Zor', count: 250 },
+    { name: 'Çok Zor', count: 250 }
+];
+const TOTAL_LEVELS = LEVEL_PLAN.reduce((s, x) => s + x.count, 0);
+const DIFF_TOTALS = Object.fromEntries(LEVEL_PLAN.map(x => [x.name, x.count]));
+document.getElementById('hs-total').textContent = TOTAL_LEVELS;
 
-difficulties.forEach((diff, index) => {
+let cursor = 1;
+LEVEL_PLAN.forEach(({ name: diff, count }) => {
     const section = document.createElement('section');
     section.className = `sec ${diff !== 'Kolay' ? 'hide' : ''}`;
     section.dataset.d = diff;
@@ -211,9 +217,8 @@ difficulties.forEach((diff, index) => {
     const grid = document.createElement('div');
     grid.className = 'grid-list';
 
-    // Her zorluk için 125 bölüm (Toplam 500)
-    const start = index * 125 + 1;
-    const end = (index + 1) * 125;
+    const start = cursor;
+    const end = cursor + count - 1;
 
     for (let i = start; i <= end; i++) {
         // LİNK DÜZELTİLDİ: /bulmaca/1 yerine play.html?id=1
@@ -234,6 +239,7 @@ difficulties.forEach((diff, index) => {
     }
     section.appendChild(grid);
     levelsContainer.appendChild(section);
+    cursor = end + 1;
 });
 
 // TAB SİSTEMİ VE ANİMASYONLAR
@@ -252,7 +258,12 @@ document.querySelectorAll('.tab').forEach(t=>{t.onclick=()=>{
     if(typeof updateBanner === 'function') {
         updateBanner(diff);
         const el = document.getElementById('stat-' + diff);
-        if(el) document.getElementById('db-stat-num').textContent = el.textContent.split('/')[0];
+        if(el) {
+            const [done, total] = el.textContent.split('/');
+            document.getElementById('db-stat-num').textContent = done;
+            const totalLbl = document.getElementById('db-stat-total');
+            if(totalLbl) totalLbl.textContent = '/' + total;
+        }
     }
 }});
 
@@ -297,8 +308,8 @@ function refreshScores(){
         const text = document.getElementById('global-progress-text');
         const fill = document.getElementById('ps-fill');
         if(completedCount > 0) {
-            const pct = (completedCount / 500) * 100;
-            text.innerHTML = `<b>${completedCount}</b>/500 tamamlandı · <span style="color:var(--green)">%${pct|0}</span>`;
+            const pct = (completedCount / TOTAL_LEVELS) * 100;
+            text.innerHTML = `<b>${completedCount}</b>/${TOTAL_LEVELS} tamamlandı · <span style="color:var(--green)">%${pct|0}</span>`;
             fill.style.width = pct + '%';
             strip.style.display = 'block';
         } else {
@@ -316,6 +327,7 @@ window.addEventListener('cbScoresSynced', refreshScores);
 <script src="./js/auth.js"></script>
 <script src="./js/welcome.js"></script>
 <script src="./js/scoreboard.js"></script>
+<script src="./js/profile.js"></script>
 <script>
 // USER CHIP
 const userChip = document.getElementById('user-chip');
@@ -326,12 +338,13 @@ function refreshUserChip(user) {
     const name = user?.name || 'Giriş yok';
     userChip.querySelector('.uc-avatar').textContent = name[0].toUpperCase();
     userChip.querySelector('.uc-name').textContent = name.split(' ')[0];
-    userChip.title = user ? (name + ' — çıkış yapmak için tıkla') : 'Giriş yap';
+    userChip.title = user ? (name + ' — profili aç') : 'Giriş yap';
 }
 if(window.CBAuth) window.CBAuth.onAuthChange(refreshUserChip);
 
 userChip?.addEventListener('click', () => {
-    if(window.CBAuth?.isLoggedIn()) { window.CBAuth.signOut(); window.CBWelcome?.open({mode:'login', forced:true}); } else { window.CBWelcome?.open({mode:'login', forced:true}); }
+    if(window.CBProfile) { window.CBProfile.open(); return; }
+    if(window.CBWelcome) window.CBWelcome.open({mode:'login', forced:true});
 });
 sbBtn.addEventListener('click', () => window.CBScoreboard.open());
 
@@ -359,20 +372,26 @@ function updateDiffStats() {
     try {
         const s = JSON.parse(localStorage.getItem('cb') || '{}');
         const counts = { 'Kolay': 0, 'Orta': 0, 'Zor': 0, 'Çok Zor': 0 };
+        const bounds = [];
+        let start = 1;
+        LEVEL_PLAN.forEach(p => {
+            bounds.push({ name: p.name, start, end: start + p.count - 1 });
+            start += p.count;
+        });
         Object.keys(s).forEach(id => {
-            const idx = parseInt(id);
-            if(idx <= 125) counts['Kolay']++;
-            else if(idx <= 250) counts['Orta']++;
-            else if(idx <= 375) counts['Zor']++;
-            else if(idx <= 500) counts['Çok Zor']++;
+            const idx = parseInt(id, 10);
+            const b = bounds.find(x => idx >= x.start && idx <= x.end);
+            if(b) counts[b.name]++;
         });
         Object.entries(counts).forEach(([d, c]) => {
             const el = document.getElementById('stat-' + d);
-            if(el) el.textContent = `${c}/125`;
+            if(el) el.textContent = `${c}/${DIFF_TOTALS[d]}`;
             if(c > 0) document.querySelector(`.tab[data-d="${d}"]`)?.classList.add('has-progress');
         });
         const active = document.querySelector('.tab.on')?.dataset.d || 'Kolay';
         document.getElementById('db-stat-num').textContent = counts[active];
+        const totalLbl = document.getElementById('db-stat-total');
+        if(totalLbl) totalLbl.textContent = `/${DIFF_TOTALS[active]}`;
     } catch(e) {}
 }
 
@@ -389,6 +408,7 @@ function guardAuthNavigation(e) {
 }
 document.querySelectorAll('a.card').forEach(a => a.addEventListener('click', guardAuthNavigation));
 document.getElementById('daily-card')?.addEventListener('click', guardAuthNavigation);
+document.getElementById('weekly-card')?.addEventListener('click', guardAuthNavigation);
 
 function refreshContinueCard(){
     try {
@@ -444,12 +464,15 @@ refreshWeeklyChallenge();
     const dateKey = `${now.getFullYear()}-${String(now.getMonth()+1).padStart(2,'0')}-${String(now.getDate()).padStart(2,'0')}`;
     const epoch = new Date(2026, 0, 1);
     const daysSince = Math.floor((now - epoch) / 86400000);
-    const puzzleId = ((daysSince * 37 + 13) % 500) + 1;
+    const puzzleId = ((daysSince * 37 + 13) % TOTAL_LEVELS) + 1;
 
     let diff = 'Kolay';
-    if(puzzleId > 375) diff = 'Çok Zor';
-    else if(puzzleId > 250) diff = 'Zor';
-    else if(puzzleId > 125) diff = 'Orta';
+    const b1 = LEVEL_PLAN[0].count;
+    const b2 = b1 + LEVEL_PLAN[1].count;
+    const b3 = b2 + LEVEL_PLAN[2].count;
+    if(puzzleId > b3) diff = 'Çok Zor';
+    else if(puzzleId > b2) diff = 'Zor';
+    else if(puzzleId > b1) diff = 'Orta';
     const emoji = {'Kolay':'🌱','Orta':'🔥','Zor':'⚡','Çok Zor':'💎'}[diff];
 
     document.getElementById('daily-date').textContent =
