@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+    <title>Giriş — Çengel Bulmaca</title>
+    <link rel="stylesheet" href="./css/app.css">
+    <script src="./js/firebase-config.js" onerror="console.info('firebase-config.js bulunamadı; yerel mod.')"></script>
+</head>
+<body>
+<div class="grain"></div>
+<div class="wrap" style="min-height:100vh;display:flex;align-items:center;justify-content:center;">
+    <div class="welcome-modal" style="max-width:460px;">
+        <div class="welcome-logo">Ç</div>
+        <h1 class="welcome-title">Çengel Bulmaca</h1>
+        <p class="welcome-sub">Önce giriş yap, sonra ana ekrandan bulmaca seç.</p>
+        <button id="open-login" class="welcome-btn welcome-submit">Kayıt Ol / Giriş Yap</button>
+    </div>
+</div>
+
+<script src="./js/auth.js"></script>
+<script src="./js/welcome.js"></script>
+<script>
+(function(){
+    const next = new URLSearchParams(window.location.search).get('next');
+    const goMain = () => {
+        if(next) { window.location.href = decodeURIComponent(next); return; }
+        window.location.href = 'index.html';
+    };
+
+    function check(){
+        if(window.CBAuth?.isLoggedIn()) { goMain(); return; }
+        window.CBWelcome?.open({ forced:true, mode:'login' });
+    }
+
+    document.getElementById('open-login')?.addEventListener('click', () => {
+        window.CBWelcome?.open({ forced:true, mode:'login' });
+    });
+
+    setTimeout(check, 200);
+})();
+</script>
+</body>
+</html>
