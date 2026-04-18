@@ -501,6 +501,65 @@ function showWowToast(text, type='info') {
     setTimeout(() => { t.style.display = 'none'; }, 2600);
 }
 
+// GİRİŞ ZORUNLULUĞU
+function guardAuthNavigation(e) {
+    if(window.CBWelcome && !window.CBWelcome.requireAuth({ mode: 'login' })) {
+        e.preventDefault();
+        return false;
+    }
+    return true;
+}
+document.querySelectorAll('a.card').forEach(a => a.addEventListener('click', guardAuthNavigation));
+document.getElementById('daily-card')?.addEventListener('click', guardAuthNavigation);
+document.getElementById('weekly-card')?.addEventListener('click', guardAuthNavigation);
+
+function refreshContinueCard(){
+    try {
+        const last = JSON.parse(localStorage.getItem('cb_last') || 'null');
+        const card = document.getElementById('continue-card');
+        if(!card || !last || !last.id) return;
+        card.style.display = 'flex';
+        card.href = `play.html?id=${last.id}`;
+        document.getElementById('continue-title').textContent = `Bölüm ${String(last.id).padStart(3,'0')}`;
+        document.getElementById('continue-status').textContent = last.when ? `Son giriş: ${last.when}` : 'Kaldığın yerden devam et';
+        card.addEventListener('click', guardAuthNavigation);
+    } catch(e) {}
+}
+refreshContinueCard();
+
+function showWowToast(text, type='info') {
+    const t = document.getElementById('wow-toast');
+    if(!t) return;
+    t.textContent = text;
+    t.className = `wow-toast show ${type}`;
+    t.style.display = 'block';
+    setTimeout(() => { t.classList.remove('show'); }, 2200);
+    setTimeout(() => { t.style.display = 'none'; }, 2600);
+}
+
+function refreshWeeklyChallenge() {
+    try {
+        const card = document.getElementById('weekly-card');
+        if(!card) return;
+        const local = JSON.parse(localStorage.getItem('cb_scores_local') || '{}');
+        const now = new Date();
+        const day = (now.getDay() + 6) % 7;
+        const monday = new Date(now);
+        monday.setDate(now.getDate() - day);
+        monday.setHours(0,0,0,0);
+        const startTs = monday.getTime();
+        let solved = 0;
+        Object.values(local).forEach(v => { if(v && v.completedAt && v.completedAt >= startTs) solved++; });
+        const target = 10;
+        const xpReward = Math.min(target, solved) * 20;
+        document.getElementById('weekly-status').textContent = `${solved} / ${target}`;
+        document.getElementById('weekly-reward').textContent = `+${xpReward} XP`;
+        if(solved >= target) card.classList.add('done');
+        else card.classList.remove('done');
+    } catch(e) {}
+}
+refreshWeeklyChallenge();
+
 // ─── GÜNÜN BULMACASI ───
 (function(){
     const TR_MONTHS = ['Ocak','Şubat','Mart','Nisan','Mayıs','Haziran','Temmuz','Ağustos','Eylül','Ekim','Kasım','Aralık'];
