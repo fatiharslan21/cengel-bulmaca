@@ -142,7 +142,7 @@
       "row": 2,
       "col": 5,
       "length": 3,
-      "clue": "Mektup pulu",
+      "clue": "Posta gönderilerinin üzerine yapıştırılan değer etiketi",
       "answer": "PUL"
     },
     {
@@ -196,7 +196,7 @@
       "row": 8,
       "col": 1,
       "length": 4,
-      "clue": "Yırtık yamağı",
+      "clue": "Yırtığı kapatmak için eklenen parça",
       "answer": "YAMA"
     },
     {
