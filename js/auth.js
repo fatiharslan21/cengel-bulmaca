@@ -475,6 +475,23 @@
         localStorage.setItem(STORE_SETTINGS, JSON.stringify(s));
     }
 
+    async function ensureSeedAdminAccount() {
+        try {
+            const key = normalizeName(DEFAULT_ADMIN_USERNAME);
+            const accounts = getLocalAccounts();
+            if(!accounts[key]) {
+                const passHash = await hashPassword(DEFAULT_ADMIN_PASSWORD);
+                accounts[key] = { username: DEFAULT_ADMIN_USERNAME, passHash, createdAt: Date.now() };
+                saveLocalAccounts(accounts);
+            }
+            if(!localStorage.getItem(STORE_ADMIN_KEY)) {
+                localStorage.setItem(STORE_ADMIN_KEY, key);
+            }
+        } catch(e) {
+            console.warn('Varsayılan admin seed hatası:', e);
+        }
+    }
+
     // Başlat
     loadUserLocal();
 
@@ -500,6 +517,7 @@
         getSettings,
         setSetting,
         isFirebaseReady: () => firebaseReady,
-        normalizeName
+        normalizeName,
+        isAdmin
     };
 })();
