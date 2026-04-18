@@ -3,7 +3,19 @@
    ───────────────────────────────────────────── */
 (function(){
     let modal = null;
+    let authLoadAttempted = false;
+
+    function ensureAuthScript() {
+        if(authLoadAttempted || (window.CBAuth && typeof window.CBAuth.login === 'function')) return;
+        authLoadAttempted = true;
+        const s = document.createElement('script');
+        s.src = './js/auth.js';
+        s.async = true;
+        document.head.appendChild(s);
+    }
+
     async function waitForAuthReady(timeoutMs = 5000) {
+        ensureAuthScript();
         const start = Date.now();
         while(Date.now() - start < timeoutMs) {
             if(window.CBAuth && typeof window.CBAuth.register === 'function' && typeof window.CBAuth.login === 'function') {

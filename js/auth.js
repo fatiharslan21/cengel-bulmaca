@@ -19,6 +19,13 @@
 
     const listeners = new Set();
     const notify = () => listeners.forEach(fn => { try { fn(currentUser); } catch(e){} });
+    const dynamicImport = (url) => {
+        try {
+            return (new Function('u', 'return import(u)'))(url);
+        } catch(e) {
+            return Promise.reject(e);
+        }
+    };
 
     function normalizeName(name) {
         return (name || '').trim().toLowerCase()
@@ -116,7 +123,7 @@
         const fails = (guard.fails || 0) + 1;
         let lockUntil = guard.lockUntil || 0;
         if(fails >= 5) {
-            lockUntil = now + 30_000;
+            lockUntil = now + 30000;
         }
         setUserGuard(key, { fails, lockUntil });
     }
@@ -124,11 +131,11 @@
     async function initFirebase() {
         if(!firebaseConfig || !firebaseConfig.apiKey || firebaseConfig.apiKey.startsWith('YOUR_')) return false;
         try {
-            const { initializeApp } = await import('https://www.gstatic.com/firebasejs/10.13.2/firebase-app.js');
+            const { initializeApp } = await dynamicImport('https://www.gstatic.com/firebasejs/10.13.2/firebase-app.js');
             const { getAuth, signInAnonymously, onAuthStateChanged } =
-                await import('https://www.gstatic.com/firebasejs/10.13.2/firebase-auth.js');
+                await dynamicImport('https://www.gstatic.com/firebasejs/10.13.2/firebase-auth.js');
             const { getFirestore, doc, setDoc, getDoc, collection, query, orderBy, limit, getDocs, serverTimestamp } =
-                await import('https://www.gstatic.com/firebasejs/10.13.2/firebase-firestore.js');
+                await dynamicImport('https://www.gstatic.com/firebasejs/10.13.2/firebase-firestore.js');
 
             app = initializeApp(firebaseConfig);
             auth = getAuth(app);
