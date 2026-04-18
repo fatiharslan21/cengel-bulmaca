@@ -38,6 +38,40 @@ function playSFX(type) {
     else if(type === 'hint') tone(800, 0.12, 'sine', .05, 1200);
 }
 
+function getThemeFX() {
+    const t = document.body.dataset.theme || (document.body.classList.contains('dark-mode') ? 'dark' : 'light');
+    if(t === 'ocean') {
+        return {
+            burst: ['#0EA5E9','#22D3EE','#14B8A6','#67E8F9'],
+            glow: 'rgba(14,165,233,.45)',
+            stream: 'rgba(34,211,238,.65)',
+            stars: ['🌊','✨','🫧']
+        };
+    }
+    if(t === 'sunset') {
+        return {
+            burst: ['#FB923C','#F97316','#F43F5E','#FDBA74'],
+            glow: 'rgba(249,115,22,.45)',
+            stream: 'rgba(251,146,60,.7)',
+            stars: ['🌇','✨','🔥']
+        };
+    }
+    if(t === 'dark') {
+        return {
+            burst: ['#60A5FA','#A78BFA','#22D3EE','#C4B5FD'],
+            glow: 'rgba(96,165,250,.4)',
+            stream: 'rgba(167,139,250,.7)',
+            stars: ['🌙','✨','💫']
+        };
+    }
+    return {
+        burst: ['#16A34A','#22C55E','#4ADE80','#3B82F6'],
+        glow: 'rgba(22,163,74,.4)',
+        stream: 'rgba(59,130,246,.65)',
+        stars: ['⭐','✨','💫']
+    };
+}
+
 function burstParticles(x, y, colors = ['#16A34A','#22C55E','#4ADE80']) {
     for(let i = 0; i < 12; i++) {
         const p = document.createElement('div');
@@ -59,7 +93,8 @@ function burstParticles(x, y, colors = ['#16A34A','#22C55E','#4ADE80']) {
 }
 
 function starBurst(x, y) {
-    ['⭐', '✨', '💫'].forEach((s, i) => {
+    const symbols = getThemeFX().stars;
+    symbols.forEach((s, i) => {
         setTimeout(() => {
             const el = document.createElement('div');
             el.className = 'star-burst';
@@ -82,6 +117,7 @@ function showCombo(text) {
 let sel=null,dir="across",ug={},rev=new Set(),wrg=new Set(),slv=new Set(),lck=new Set();
 let hc=0,tm=0,tint=null,run=false,acl=null;
 let lastSolveTime = 0, streakCount = 0;
+let flowTimer = null;
 const R=P.grid_size_r,C=P.grid_size_c;
 
 function TR(c){
@@ -97,10 +133,23 @@ function saveLastPlayed(done=false){
     }catch(e){}
 }
 
-function init(){saveLastPlayed(false);mkGrid();mkClues();setupKB();updProg()}
+function init(){
+    saveLastPlayed(false);
+    mkGrid();
+    mkClues();
+    setupKB();
+    setupMicroInteractions();
+    updProg();
+}
 
 function mkGrid(){
     const g=document.getElementById('grid');
+    const frame = document.querySelector('.grid-frame');
+    if(frame && !frame.querySelector('.word-flow')) {
+        const wf = document.createElement('div');
+        wf.className = 'word-flow';
+        frame.appendChild(wf);
+    }
     g.style.setProperty('--cols', C);
     const nums={};
     P.words.forEach(w=>{const k=`${w.row}-${w.col}`;if(!nums[k])nums[k]=w.number});
@@ -138,6 +187,7 @@ function fitGrid(){
     } else {
         frame.classList.remove('show-hint');
     }
+    drawWordFlow();
 }
 
 function mkClues(){
@@ -178,6 +228,46 @@ function setupKB(){
         const k=b.dataset.k;
         onK({key:k==='BS'?'Backspace':k,length:k.length,preventDefault:()=>{}});
     }));
+}
+
+function setupMicroInteractions(){
+    const cards = document.querySelectorAll('.grid-frame, .clue-strip, .toolbar, .progress-bar, .play-hdr');
+    cards.forEach(card => {
+        card.classList.add('micro-card');
+        card.addEventListener('mousemove', (e) => {
+            if(window.innerWidth <= 900) return;
+            const rect = card.getBoundingClientRect();
+            const px = ((e.clientX - rect.left) / rect.width - .5) * 2;
+            const py = ((e.clientY - rect.top) / rect.height - .5) * 2;
+            card.style.setProperty('--rx', `${(-py * 2.2).toFixed(2)}deg`);
+            card.style.setProperty('--ry', `${(px * 2.6).toFixed(2)}deg`);
+            card.style.setProperty('--mx', `${((e.clientX - rect.left) / rect.width) * 100}%`);
+            card.style.setProperty('--my', `${((e.clientY - rect.top) / rect.height) * 100}%`);
+        });
+        card.addEventListener('mouseleave', () => {
+            card.style.setProperty('--rx', '0deg');
+            card.style.setProperty('--ry', '0deg');
+            card.style.setProperty('--mx', '50%');
+            card.style.setProperty('--my', '0%');
+        });
+    });
+
+    const pressables = document.querySelectorAll('.key, .tool, .icon-btn, .nav-btn, .mbtn');
+    const press = (el) => {
+        el.classList.remove('spring-release');
+        el.classList.add('spring-press');
+    };
+    const release = (el) => {
+        el.classList.remove('spring-press');
+        el.classList.add('spring-release');
+        setTimeout(() => el.classList.remove('spring-release'), 220);
+    };
+    pressables.forEach(el => {
+        el.addEventListener('pointerdown', () => press(el));
+        el.addEventListener('pointerup', () => release(el));
+        el.addEventListener('pointerleave', () => release(el));
+        el.addEventListener('pointercancel', () => release(el));
+    });
 }
 
 function clickC(r,c){
@@ -310,6 +400,7 @@ function chkComp(){
                 const rect = targetCell.getBoundingClientRect();
                 const cx = rect.left + rect.width/2;
                 const cy = rect.top + rect.height/2;
+                const fx = getThemeFX();
 
                 // Combo sistemi
                 const now = Date.now();
@@ -327,7 +418,8 @@ function chkComp(){
                 setTimeout(() => floater.remove(), 1200);
 
                 // Particle burst
-                burstParticles(cx, cy);
+                burstParticles(cx, cy, fx.burst);
+                glowPulse(cx, cy, fx.glow);
                 starBurst(cx, cy);
 
                 // Combo badge
@@ -471,6 +563,7 @@ function updUI(){
         if(acl&&acl.number===n&&acl.direction===d)el.classList.add('on');
         if(slv.has(`${n}-${d}`))el.classList.add('sv');
     });
+    drawWordFlow();
 }
 
 function updProg(){
@@ -478,10 +571,58 @@ function updProg(){
     document.getElementById('pf').style.width=`${(slv.size/P.words.length)*100}%`;
 }
 
+function drawWordFlow() {
+    const frame = document.querySelector('.grid-frame');
+    const flow = frame ? frame.querySelector('.word-flow') : null;
+    if(!frame || !flow) return;
+    if(!acl || !sel) {
+        flow.classList.remove('on');
+        return;
+    }
+    const cells = wCells(acl);
+    if(!cells.length) return;
+    const [sr, sc] = cells[0].split('-').map(Number);
+    const [er, ec] = cells[cells.length - 1].split('-').map(Number);
+    const sEl = getCell(sr, sc);
+    const eEl = getCell(er, ec);
+    if(!sEl || !eEl) return;
+
+    const fr = frame.getBoundingClientRect();
+    const rs = sEl.getBoundingClientRect();
+    const re = eEl.getBoundingClientRect();
+    const x1 = rs.left + rs.width / 2 - fr.left;
+    const y1 = rs.top + rs.height / 2 - fr.top;
+    const x2 = re.left + re.width / 2 - fr.left;
+    const y2 = re.top + re.height / 2 - fr.top;
+    const len = Math.hypot(x2 - x1, y2 - y1);
+    const angle = Math.atan2(y2 - y1, x2 - x1) * 180 / Math.PI;
+    const fx = getThemeFX();
+    flow.style.setProperty('--x', `${x1}px`);
+    flow.style.setProperty('--y', `${y1}px`);
+    flow.style.setProperty('--len', `${len}px`);
+    flow.style.setProperty('--ang', `${angle}deg`);
+    flow.style.setProperty('--stream-color', fx.stream);
+    flow.classList.add('on');
+
+    clearTimeout(flowTimer);
+    flowTimer = setTimeout(() => flow.classList.remove('on'), 1600);
+}
+
+function glowPulse(x, y, glowColor) {
+    const g = document.createElement('div');
+    g.className = 'sync-glow';
+    g.style.left = `${x}px`;
+    g.style.top = `${y}px`;
+    g.style.setProperty('--glow-color', glowColor || 'rgba(22,163,74,.4)');
+    document.body.appendChild(g);
+    setTimeout(() => g.remove(), 620);
+}
+
 // ─── WIN ───
 function showWin(){
     clearInterval(tint);const sc=calcSc();
     const perfect = hc === 0;
+    const fx = getThemeFX();
 
     // Zafer sesi + titreşim + flash
     playSFX('win');
@@ -493,7 +634,7 @@ function showWin(){
     document.body.appendChild(flash);
     setTimeout(() => flash.remove(), 800);
 
-    // GÜNCELLEME: Tüm hücreleri sırayla kutlama dalgasıyla yeşile boya
+    // Stage-1: Grid pulse wave
     const allCells = document.querySelectorAll('.cell:not(.bk)');
     allCells.forEach((cell, index) => {
         setTimeout(() => {
@@ -507,13 +648,14 @@ function showWin(){
             // Rastgele particle burst
             if(index % 3 === 0) {
                 const rect = cell.getBoundingClientRect();
-                burstParticles(rect.left + rect.width/2, rect.top + rect.height/2,
-                    ['#EAB308','#F59E0B','#22C55E','#3B82F6']);
+                burstParticles(rect.left + rect.width/2, rect.top + rect.height/2, fx.burst);
             }
         }, index * 18);
     });
-    // ... (orijinal showWin kodunun geri kalanı aynen devam etsin)
-    document.getElementById('fs').textContent=sc;
+    document.querySelector('.modal')?.classList.add('win-stage');
+
+    // Stage-2: score count up
+    animateCounter(document.getElementById('fs'), 0, sc, 950);
     document.getElementById('ft').textContent=fmt(tm);
     document.getElementById('fh').textContent=hc;
     const m={"Kolay":1,"Orta":1.5,"Zor":2,"Çok Zor":3}[P.difficulty]||1;
@@ -543,11 +685,32 @@ function showWin(){
     }
 
     const xpInfo = grantXP(sc, perfect);
-    showXPFloater(xpInfo);
+    setTimeout(() => showXPFloater(xpInfo), 650);
+    setTimeout(() => {
+        const modal = document.querySelector('.modal');
+        if(modal) {
+            modal.classList.remove('win-stage');
+            modal.classList.add('win-stage-final');
+            setTimeout(() => modal.classList.remove('win-stage-final'), 700);
+        }
+    }, 1100);
     rememberSeenClues();
 
     saveLastPlayed(true);
     document.getElementById('modal').style.display='flex';
+}
+
+function animateCounter(el, from, to, duration=900){
+    if(!el) return;
+    const start = performance.now();
+    const diff = to - from;
+    const tick = (now) => {
+        const p = Math.min(1, (now - start) / duration);
+        const eased = 1 - Math.pow(1 - p, 3);
+        el.textContent = Math.round(from + diff * eased);
+        if(p < 1) requestAnimationFrame(tick);
+    };
+    requestAnimationFrame(tick);
 }
 
 function spawnConfetti(){
