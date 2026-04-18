@@ -3,6 +3,16 @@
    ───────────────────────────────────────────── */
 (function(){
     let modal = null;
+    async function waitForAuthReady(timeoutMs = 5000) {
+        const start = Date.now();
+        while(Date.now() - start < timeoutMs) {
+            if(window.CBAuth && typeof window.CBAuth.register === 'function' && typeof window.CBAuth.login === 'function') {
+                return true;
+            }
+            await new Promise(r => setTimeout(r, 80));
+        }
+        return false;
+    }
 
     function build() {
         if(modal) return modal;
@@ -85,6 +95,10 @@
 
             let result = null;
             try {
+                const ready = await waitForAuthReady(5000);
+                if(!ready) {
+                    throw new Error('Giriş servisi başlatılamadı. Tarayıcıyı kapatıp tekrar aç ve yeniden dene.');
+                }
                 const fn = mode === 'register' ? window.CBAuth?.register : window.CBAuth?.login;
                 if(typeof fn !== 'function') {
                     throw new Error('Giriş servisi hazır değil. Sayfayı yenileyip tekrar deneyin.');
