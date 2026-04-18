@@ -175,7 +175,8 @@
             
             const diffEl = document.getElementById('ui-puzzle-diff');
             if(data.difficulty) {
-                diffEl.textContent = data.difficulty;
+                const emoji = {'Kolay':'🌱','Orta':'🔥','Zor':'⚡','Çok Zor':'💎'}[data.difficulty] || '';
+                diffEl.textContent = emoji + ' ' + data.difficulty;
                 diffEl.className = `play-diff diff-${data.difficulty.toLowerCase().replace(' ', '-')}`;
             }
 
@@ -195,10 +196,13 @@
                 modalNextBtn.style.display = 'inline-flex';
             }
 
-            // Auth + Scoreboard yükle
+            // Auth + Welcome + Scoreboard yükle (sırayla)
             const authScript = document.createElement('script');
             authScript.src = './js/auth.js';
             document.body.appendChild(authScript);
+            const welScript = document.createElement('script');
+            welScript.src = './js/welcome.js';
+            document.body.appendChild(welScript);
             const sbScript = document.createElement('script');
             sbScript.src = './js/scoreboard.js';
             document.body.appendChild(sbScript);

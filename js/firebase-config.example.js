@@ -1,13 +1,14 @@
 /* ─────────────────────────────────────────────
-   Firebase Yapılandırma Şablonu
+   Firebase Yapılandırma Şablonu (OPSİYONEL)
    ─────────────────────────────────────────────
-   1) https://console.firebase.google.com adresinde yeni proje oluşturun.
-   2) Bu projeye bir "Web App" ekleyin → config'i kopyalayın.
-   3) Authentication → Sign-in method → Google → Etkinleştir.
-   4) Firestore Database → Create database (production veya test modu).
-   5) Bu dosyayı firebase-config.js olarak kopyalayın ve kendi değerlerinizi yazın.
+   Oyun Firebase olmadan da çalışır - o zaman skorlar sadece
+   senin tarayıcında saklanır. Bulut scoreboard istiyorsan:
 
-   Firestore kuralları (basit öneri — production için sıkılaştırın):
+   1) https://console.firebase.google.com > yeni proje
+   2) Web app ekle, config'i kopyala
+   3) Authentication > Sign-in method > Anonymous > Enable
+   4) Firestore Database > Create (eur3 lokasyon)
+   5) Firestore > Rules'a şunu yapıştır:
 
    rules_version = '2';
    service cloud.firestore {
@@ -18,6 +19,13 @@
        }
      }
    }
+
+   6) Authentication > Settings > Authorized domains'e
+      sitenin domain'ini ekle (örn. cengelbulmacaa.netlify.app)
+   7) Bu dosyayı firebase-config.js olarak kaydet ve değerleri doldur.
+
+   ÖNEMLİ: "window.CB_FIREBASE_CONFIG" adı DEĞİŞMEMELİ.
+   "const firebaseConfig = ..." yazma, çalışmaz!
    ───────────────────────────────────────────── */
 window.CB_FIREBASE_CONFIG = {
     apiKey: "YOUR_API_KEY",

@@ -20,9 +20,12 @@
         <div class="logo-mark">Ç</div>
         <span>Çengel Bulmaca</span>
     </div>
-    <div class="hdr-r" style="display: flex; align-items: center; gap: 8px;">
+    <div class="hdr-r" style="display: flex; align-items: center; gap: 6px;">
         <button class="sb-btn" id="open-scoreboard" title="Puan Tablosu">🏆 Skor</button>
-        <button class="auth-btn" id="auth-btn" title="Giriş">Giriş</button>
+        <button class="user-chip" id="user-chip" title="İsmi değiştir">
+            <span class="uc-avatar">?</span>
+            <span class="uc-name">Misafir</span>
+        </button>
         <button class="theme-btn" id="theme-toggle" title="Gece/Gündüz Modu">🌙</button>
     </div>
 </header>
@@ -38,20 +41,41 @@
     <div class="hero-line"></div>
 </section>
 
-<nav class="tabs">
-    <button class="tab on" data-d="Kolay">
-        <span class="tab-dot diff-kolay"></span>Kolay
+<nav class="tabs tabs-new">
+    <button class="tab on diff-kolay-tab" data-d="Kolay">
+        <span class="tab-emoji">🌱</span>
+        <span class="tab-label">Kolay</span>
+        <span class="tab-stat" id="stat-Kolay">0/25</span>
     </button>
-    <button class="tab" data-d="Orta">
-        <span class="tab-dot diff-orta"></span>Orta
+    <button class="tab diff-orta-tab" data-d="Orta">
+        <span class="tab-emoji">🔥</span>
+        <span class="tab-label">Orta</span>
+        <span class="tab-stat" id="stat-Orta">0/25</span>
     </button>
-    <button class="tab" data-d="Zor">
-        <span class="tab-dot diff-zor"></span>Zor
+    <button class="tab diff-zor-tab" data-d="Zor">
+        <span class="tab-emoji">⚡</span>
+        <span class="tab-label">Zor</span>
+        <span class="tab-stat" id="stat-Zor">0/25</span>
     </button>
-    <button class="tab" data-d="Çok Zor">
-        <span class="tab-dot diff-cok-zor"></span>Çok Zor
+    <button class="tab diff-cok-zor-tab" data-d="Çok Zor">
+        <span class="tab-emoji">💎</span>
+        <span class="tab-label">Çok Zor</span>
+        <span class="tab-stat" id="stat-Çok Zor">0/25</span>
     </button>
 </nav>
+<div class="difficulty-banner" id="diff-banner">
+    <div class="db-inner">
+        <span class="db-icon" id="db-icon">🌱</span>
+        <div class="db-text">
+            <h3 id="db-title">Kolay</h3>
+            <p id="db-sub">Isınma turları. Çözüp kendine güven kazan.</p>
+        </div>
+        <div class="db-stat">
+            <span class="db-stat-num" id="db-stat-num">0</span>
+            <span class="db-stat-lbl">/25</span>
+        </div>
+    </div>
+</div>
 
 <div id="levels-container"></div>
 
@@ -136,14 +160,20 @@ difficulties.forEach((diff, index) => {
 document.querySelectorAll('.tab').forEach(t=>{t.onclick=()=>{
     document.querySelectorAll('.tab').forEach(x=>x.classList.remove('on'));
     t.classList.add('on');
+    const diff = t.dataset.d;
     document.querySelectorAll('.sec').forEach(s=>{
-        const show = s.dataset.d === t.dataset.d;
+        const show = s.dataset.d === diff;
         s.classList.toggle('hide', !show);
         if(show) s.querySelectorAll('.card').forEach((c,i)=>{
             c.style.animation='none';c.offsetHeight;
-            c.style.animation=`cardIn .4s ease ${i*30}ms both`;
+            c.style.animation=`cardIn .4s ease ${i*25}ms both`;
         });
     });
+    if(typeof updateBanner === 'function') {
+        updateBanner(diff);
+        const el = document.getElementById('stat-' + diff);
+        if(el) document.getElementById('db-stat-num').textContent = el.textContent.split('/')[0];
+    }
 }});
 
 // LOCALSTORAGE PUAN KONTROLÜ
@@ -176,39 +206,70 @@ try{
 </script>
 
 <script src="./js/auth.js"></script>
+<script src="./js/welcome.js"></script>
 <script src="./js/scoreboard.js"></script>
 <script>
-// AUTH BUTONU + SCOREBOARD
-const authBtn = document.getElementById('auth-btn');
+// USER CHIP
+const userChip = document.getElementById('user-chip');
 const sbBtn = document.getElementById('open-scoreboard');
 
-function refreshAuthBtn(user) {
-    if(user) {
-        const initial = (user.name || '?')[0].toUpperCase();
-        const avatar = user.photoURL
-            ? `<img src="${user.photoURL}" alt="">`
-            : `<span class="auth-btn-icon">${initial}</span>`;
-        authBtn.innerHTML = avatar + '<span>' + (user.name || 'Kullanıcı').split(' ')[0] + '</span>';
-        authBtn.title = user.name;
-    } else {
-        authBtn.innerHTML = 'Giriş';
-    }
+function refreshUserChip(user) {
+    if(!userChip) return;
+    const name = user?.name || 'Misafir';
+    userChip.querySelector('.uc-avatar').textContent = name[0].toUpperCase();
+    userChip.querySelector('.uc-name').textContent = name.split(' ')[0];
+    userChip.title = name + ' — isim değiştirmek için tıkla';
 }
+if(window.CBAuth) window.CBAuth.onAuthChange(refreshUserChip);
 
-if(window.CBAuth) {
-    window.CBAuth.onAuthChange(refreshAuthBtn);
-}
-
-authBtn.addEventListener('click', async () => {
-    const user = window.CBAuth && window.CBAuth.getUser();
-    if(user) {
-        window.CBScoreboard.open();
-    } else {
-        if(window.CBAuth) await window.CBAuth.signIn();
-    }
+userChip?.addEventListener('click', () => {
+    if(window.CBWelcome) window.CBWelcome.open({ mode: 'edit' });
 });
-
 sbBtn.addEventListener('click', () => window.CBScoreboard.open());
+
+// ZORLUK BANNERİ + İSTATİSTİK
+const DIFF_INFO = {
+    'Kolay':    { emoji: '🌱', sub: 'Isınma turları. Çözüp kendine güven kazan.' },
+    'Orta':     { emoji: '🔥', sub: 'Biraz düşün, biraz zorla. Tam kıvamında.' },
+    'Zor':      { emoji: '⚡', sub: 'Kelime hazinen test ediliyor. Sabır iste.' },
+    'Çok Zor':  { emoji: '💎', sub: 'Zirve oyuncuları için. İpuçlarını hazır tut.' }
+};
+const banner = document.getElementById('diff-banner');
+function updateBanner(diff) {
+    const info = DIFF_INFO[diff];
+    document.getElementById('db-icon').textContent = info.emoji;
+    document.getElementById('db-title').textContent = diff;
+    document.getElementById('db-sub').textContent = info.sub;
+    banner.dataset.d = diff;
+    // Animasyonu tekrarlat
+    banner.classList.remove('animate-in');
+    void banner.offsetWidth;
+    banner.classList.add('animate-in');
+}
+
+function updateDiffStats() {
+    try {
+        const s = JSON.parse(localStorage.getItem('cb') || '{}');
+        const counts = { 'Kolay': 0, 'Orta': 0, 'Zor': 0, 'Çok Zor': 0 };
+        Object.keys(s).forEach(id => {
+            const idx = parseInt(id);
+            if(idx <= 25) counts['Kolay']++;
+            else if(idx <= 50) counts['Orta']++;
+            else if(idx <= 75) counts['Zor']++;
+            else counts['Çok Zor']++;
+        });
+        Object.entries(counts).forEach(([d, c]) => {
+            const el = document.getElementById('stat-' + d);
+            if(el) el.textContent = `${c}/25`;
+            if(c > 0) document.querySelector(`.tab[data-d="${d}"]`)?.classList.add('has-progress');
+        });
+        const active = document.querySelector('.tab.on')?.dataset.d || 'Kolay';
+        document.getElementById('db-stat-num').textContent = counts[active];
+    } catch(e) {}
+}
+
+updateBanner('Kolay');
+updateDiffStats();
 </script>
 </body>
 </html>
