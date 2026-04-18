@@ -107,7 +107,7 @@
                     ${avatar}
                     <div class="sb-row-info">
                         <div class="sb-row-name">${displayName}${isMe ? ' <span class="sb-you">sen</span>' : ''}</div>
-                        <div class="sb-row-sub">${e.completedCount}/750 tamamlandı</div>
+                        <div class="sb-row-sub">${e.completedCount}/500 tamamlandı</div>
                     </div>
                     <div class="sb-row-score">${e.totalScore.toLocaleString('tr')}</div>
                 </div>
@@ -129,7 +129,7 @@
                     <div class="sb-row-avatar sb-avatar-fallback">${(me.name||'?')[0].toUpperCase()}</div>
                     <div class="sb-row-info">
                         <div class="sb-row-name">${escapeHtml(me.name)} <span class="sb-you">sen</span></div>
-                        <div class="sb-row-sub">${count}/750 tamamlandı</div>
+                        <div class="sb-row-sub">${count}/500 tamamlandı</div>
                     </div>
                     <div class="sb-row-score">${total.toLocaleString('tr')}</div>
                 </div>

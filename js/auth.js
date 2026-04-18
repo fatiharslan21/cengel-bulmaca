@@ -10,6 +10,8 @@
     const STORE_ACCOUNTS_LOCAL = 'cb_accounts_local';
     const STORE_AUTH_GUARD = 'cb_auth_guard';
     const STORE_ADMIN_KEY = 'cb_admin_key';
+    const DEFAULT_ADMIN_USERNAME = 'fatih';
+    const DEFAULT_ADMIN_PASSWORD = 'Aa053150.';
 
     const firebaseConfig = window.CB_FIREBASE_CONFIG || window.firebaseConfig || null;
 
@@ -484,10 +486,27 @@
         localStorage.setItem(STORE_SETTINGS, JSON.stringify(s));
     }
 
+    async function ensureSeedAdminAccount() {
+        try {
+            const key = normalizeName(DEFAULT_ADMIN_USERNAME);
+            const accounts = getLocalAccounts();
+            if(!accounts[key]) {
+                const passHash = await hashPassword(DEFAULT_ADMIN_PASSWORD);
+                accounts[key] = { username: DEFAULT_ADMIN_USERNAME, passHash, createdAt: Date.now() };
+                saveLocalAccounts(accounts);
+            }
+            if(!localStorage.getItem(STORE_ADMIN_KEY)) {
+                localStorage.setItem(STORE_ADMIN_KEY, key);
+            }
+        } catch(e) {
+            console.warn('Varsayılan admin seed hatası:', e);
+        }
+    }
+
     // Başlat
     loadUserLocal();
 
-    initPromise = initFirebase().then(async ready => {
+    initPromise = ensureSeedAdminAccount().then(() => initFirebase()).then(async ready => {
         if(!ready) { console.info('[Çengel] Firebase yok/kapalı — hesaplar bu cihazda tutulur.'); return; }
         if(currentUser?.key) {
             await loadUserFromCloud(currentUser.key);

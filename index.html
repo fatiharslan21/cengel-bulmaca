@@ -117,17 +117,6 @@
     <div class="daily-right"><div class="daily-play">Devam →</div></div>
 </a>
 
-<a class="daily-card" id="unique-card" href="#" style="margin-top:10px; display:none;">
-    <div class="daily-left">
-        <div class="daily-badge">✨ TEKRARSIZ ÖNERİ</div>
-        <div class="daily-date" id="unique-title">Öneri hazırlanıyor</div>
-        <div class="daily-meta">
-            <span class="daily-status" id="unique-status">Daha az tekrar içeren bulmaca seçilir.</span>
-        </div>
-    </div>
-    <div class="daily-right"><div class="daily-play">Oyna →</div></div>
-</a>
-
 <nav class="tabs tabs-new">
     <button class="tab on diff-kolay-tab" data-d="Kolay">
         <span class="tab-emoji">🌱</span>
@@ -221,8 +210,8 @@ const levelsContainer = document.getElementById('levels-container');
 const LEVEL_PLAN = [
     { name: 'Kolay', count: 125 },
     { name: 'Orta', count: 125 },
-    { name: 'Zor', count: 250 },
-    { name: 'Çok Zor', count: 250 }
+    { name: 'Zor', count: 125 },
+    { name: 'Çok Zor', count: 125 }
 ];
 const TOTAL_LEVELS = LEVEL_PLAN.reduce((s, x) => s + x.count, 0);
 const DIFF_TOTALS = Object.fromEntries(LEVEL_PLAN.map(x => [x.name, x.count]));
@@ -373,7 +362,7 @@ userChip?.addEventListener('click', () => {
 });
 sbBtn.addEventListener('click', () => window.CBScoreboard.open());
 adminBtn?.addEventListener('click', () => {
-    if(window.CBProfile) window.CBProfile.open({ admin: true });
+    window.location.href = 'admin.html';
 });
 
 // ZORLUK BANNERİ + İSTATİSTİK
@@ -498,6 +487,42 @@ async function recommendNonRepeatingLevel(diff) {
         uniqCard.style.display = 'none';
     }
 }
+
+function showWowToast(text, type='info') {
+    const t = document.getElementById('wow-toast');
+    if(!t) return;
+    t.textContent = text;
+    t.className = `wow-toast show ${type}`;
+    t.style.display = 'block';
+    setTimeout(() => { t.classList.remove('show'); }, 2200);
+    setTimeout(() => { t.style.display = 'none'; }, 2600);
+}
+
+// GİRİŞ ZORUNLULUĞU
+function guardAuthNavigation(e) {
+    if(window.CBWelcome && !window.CBWelcome.requireAuth({ mode: 'login' })) {
+        e.preventDefault();
+        return false;
+    }
+    return true;
+}
+document.querySelectorAll('a.card').forEach(a => a.addEventListener('click', guardAuthNavigation));
+document.getElementById('daily-card')?.addEventListener('click', guardAuthNavigation);
+
+function refreshContinueCard(){
+    try {
+        const last = JSON.parse(localStorage.getItem('cb_last') || 'null');
+        const card = document.getElementById('continue-card');
+        if(!card || !last || !last.id) return;
+        card.style.display = 'flex';
+        card.href = `play.html?id=${last.id}`;
+        document.getElementById('continue-title').textContent = `Bölüm ${String(last.id).padStart(3,'0')}`;
+        document.getElementById('continue-status').textContent = last.when ? `Son giriş: ${last.when}` : 'Kaldığın yerden devam et';
+        card.addEventListener('click', guardAuthNavigation);
+    } catch(e) {}
+}
+refreshContinueCard();
+
 
 function showWowToast(text, type='info') {
     const t = document.getElementById('wow-toast');
