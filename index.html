@@ -97,6 +97,28 @@
     </div>
 </a>
 
+<a class="daily-card" id="continue-card" href="#" style="display:none; margin-top:10px;">
+    <div class="daily-left">
+        <div class="daily-badge">⏯ DEVAM ET</div>
+        <div class="daily-date" id="continue-title">Kaldığın yer</div>
+        <div class="daily-meta">
+            <span class="daily-status" id="continue-status">Son oynadığın bulmacadan devam et</span>
+        </div>
+    </div>
+    <div class="daily-right"><div class="daily-play">Devam →</div></div>
+</a>
+
+<a class="daily-card" id="weekly-card" href="#" style="margin-top:10px;">
+    <div class="daily-left">
+        <div class="daily-badge">🎯 HAFTALIK GÖREV</div>
+        <div class="daily-date" id="weekly-title">Bu hafta 10 bulmaca çöz</div>
+        <div class="daily-meta">
+            <span class="daily-status" id="weekly-status">0 / 10</span>
+        </div>
+    </div>
+    <div class="daily-right"><div class="daily-play" id="weekly-reward">+0 XP</div></div>
+</a>
+
 <nav class="tabs tabs-new">
     <button class="tab on diff-kolay-tab" data-d="Kolay">
         <span class="tab-emoji">🌱</span>
@@ -154,6 +176,8 @@
     <div class="footer-line"></div>
     <p>Çengel Bulmaca © 2026</p>
 </footer>
+
+<div id="wow-toast" class="wow-toast" style="display:none"></div>
 
 </div>
 
@@ -299,15 +323,15 @@ const sbBtn = document.getElementById('open-scoreboard');
 
 function refreshUserChip(user) {
     if(!userChip) return;
-    const name = user?.name || 'Misafir';
+    const name = user?.name || 'Giriş yok';
     userChip.querySelector('.uc-avatar').textContent = name[0].toUpperCase();
     userChip.querySelector('.uc-name').textContent = name.split(' ')[0];
-    userChip.title = name + ' — isim değiştirmek için tıkla';
+    userChip.title = user ? (name + ' — çıkış yapmak için tıkla') : 'Giriş yap';
 }
 if(window.CBAuth) window.CBAuth.onAuthChange(refreshUserChip);
 
 userChip?.addEventListener('click', () => {
-    if(window.CBWelcome) window.CBWelcome.open({ mode: 'edit' });
+    if(window.CBAuth?.isLoggedIn()) { window.CBAuth.signOut(); window.CBWelcome?.open({mode:'login', forced:true}); } else { window.CBWelcome?.open({mode:'login', forced:true}); }
 });
 sbBtn.addEventListener('click', () => window.CBScoreboard.open());
 
@@ -354,6 +378,64 @@ function updateDiffStats() {
 
 updateBanner('Kolay');
 updateDiffStats();
+
+// GİRİŞ ZORUNLULUĞU
+function guardAuthNavigation(e) {
+    if(window.CBWelcome && !window.CBWelcome.requireAuth({ mode: 'login' })) {
+        e.preventDefault();
+        return false;
+    }
+    return true;
+}
+document.querySelectorAll('a.card').forEach(a => a.addEventListener('click', guardAuthNavigation));
+document.getElementById('daily-card')?.addEventListener('click', guardAuthNavigation);
+
+function refreshContinueCard(){
+    try {
+        const last = JSON.parse(localStorage.getItem('cb_last') || 'null');
+        const card = document.getElementById('continue-card');
+        if(!card || !last || !last.id) return;
+        card.style.display = 'flex';
+        card.href = `play.html?id=${last.id}`;
+        document.getElementById('continue-title').textContent = `Bölüm ${String(last.id).padStart(3,'0')}`;
+        document.getElementById('continue-status').textContent = last.when ? `Son giriş: ${last.when}` : 'Kaldığın yerden devam et';
+        card.addEventListener('click', guardAuthNavigation);
+    } catch(e) {}
+}
+refreshContinueCard();
+
+function showWowToast(text, type='info') {
+    const t = document.getElementById('wow-toast');
+    if(!t) return;
+    t.textContent = text;
+    t.className = `wow-toast show ${type}`;
+    t.style.display = 'block';
+    setTimeout(() => { t.classList.remove('show'); }, 2200);
+    setTimeout(() => { t.style.display = 'none'; }, 2600);
+}
+
+function refreshWeeklyChallenge() {
+    try {
+        const card = document.getElementById('weekly-card');
+        if(!card) return;
+        const local = JSON.parse(localStorage.getItem('cb_scores_local') || '{}');
+        const now = new Date();
+        const day = (now.getDay() + 6) % 7;
+        const monday = new Date(now);
+        monday.setDate(now.getDate() - day);
+        monday.setHours(0,0,0,0);
+        const startTs = monday.getTime();
+        let solved = 0;
+        Object.values(local).forEach(v => { if(v && v.completedAt && v.completedAt >= startTs) solved++; });
+        const target = 10;
+        const xpReward = Math.min(target, solved) * 20;
+        document.getElementById('weekly-status').textContent = `${solved} / ${target}`;
+        document.getElementById('weekly-reward').textContent = `+${xpReward} XP`;
+        if(solved >= target) card.classList.add('done');
+        else card.classList.remove('done');
+    } catch(e) {}
+}
+refreshWeeklyChallenge();
 
 // ─── GÜNÜN BULMACASI ───
 (function(){
@@ -402,6 +484,12 @@ updateDiffStats();
         if(streak > 0) {
             streakEl.style.display = 'flex';
             document.getElementById('ds-num').textContent = streak;
+            const key = `cb_streak_toast_${dateKey}`;
+            const shown = localStorage.getItem(key);
+            if(!shown && [3,7,14].includes(streak)) {
+                showWowToast(`🔥 ${streak} gün seri! Efsane gidiyorsun!`, 'success');
+                localStorage.setItem(key, '1');
+            }
         } else {
             streakEl.style.display = 'none';
         }
