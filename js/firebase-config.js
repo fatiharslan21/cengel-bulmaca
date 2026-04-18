@@ -20,10 +20,10 @@
    }
    ───────────────────────────────────────────── */
 window.CB_FIREBASE_CONFIG = {
-    apiKey: "YOUR_API_KEY",
-    authDomain: "YOUR_PROJECT.firebaseapp.com",
-    projectId: "YOUR_PROJECT_ID",
-    storageBucket: "YOUR_PROJECT.appspot.com",
-    messagingSenderId: "YOUR_SENDER_ID",
-    appId: "YOUR_APP_ID"
+    apiKey: "AIzaSyABC123...",          // Adım 2'den
+    authDomain: "cengel-bulmaca.firebaseapp.com",
+    projectId: "cengel-bulmaca",
+    storageBucket: "cengel-bulmaca.appspot.com",
+    messagingSenderId: "123456789",
+    appId: "1:123:web:abc123"
 };
