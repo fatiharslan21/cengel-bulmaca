@@ -1,16 +1,5 @@
 /* ─────────────────────────────────────────────
-   Çengel Bulmaca — İsim-bazlı kimlik + bulut senkronizasyonu
-   ------------------------------------------------------------
-   Kullanıcı kimliği = normalize edilmiş ad (küçük harf, aksansız).
-   Aynı isim → aynı profil (farklı cihazlardan bile).
-   İsim değişirse yerel skorlar sıfırlanır, yeni isim için bulutta
-   kayıt varsa geri yüklenir.
-
-   Not (Firestore Rules): users koleksiyonu için:
-     match /users/{userId} {
-       allow read: if request.auth != null;
-       allow write: if request.auth != null;  // isim-bazlı anahtar
-     }
+   Çengel Bulmaca — Kullanıcı adı/şifre kimlik + bulut senkronizasyonu
    ───────────────────────────────────────────── */
 (function(){
     const STORE_USER = 'cb_user';
@@ -18,6 +7,8 @@
     const STORE_SETTINGS = 'cb_settings';
     const STORE_CB = 'cb';
     const STORE_DAILY = 'cb_daily';
+    const STORE_ACCOUNTS_LOCAL = 'cb_accounts_local';
+    const STORE_AUTH_GUARD = 'cb_auth_guard';
 
     const firebaseConfig = window.CB_FIREBASE_CONFIG || window.firebaseConfig || null;
 
@@ -28,22 +19,37 @@
 
     const listeners = new Set();
     const notify = () => listeners.forEach(fn => { try { fn(currentUser); } catch(e){} });
+    const dynamicImport = (url) => {
+        try {
+            return (new Function('u', 'return import(u)'))(url);
+        } catch(e) {
+            return Promise.reject(e);
+        }
+    };
 
     function normalizeName(name) {
         return (name || '').trim().toLowerCase()
-            .normalize('NFD').replace(/\p{Diacritic}/gu, '')
+            .normalize('NFD').replace(/[\u0300-\u036f]/g, '')
             .replace(/[^a-z0-9]+/g, '_')
             .replace(/^_+|_+$/g, '')
             .slice(0, 40);
     }
 
+    async function hashPassword(password) {
+        const encoder = new TextEncoder();
+        const data = encoder.encode(password);
+        const hashBuffer = await crypto.subtle.digest('SHA-256', data);
+        return [...new Uint8Array(hashBuffer)].map(b => b.toString(16).padStart(2, '0')).join('');
+    }
+
     function saveUserLocal(user) {
         if(user) {
             const data = {
-                uid: user.key || user.uid || ('local_' + Date.now()),
+                uid: user.key,
                 key: user.key,
-                name: (user.name || '').trim() || 'Misafir',
-                createdAt: user.createdAt || Date.now()
+                name: user.name,
+                createdAt: user.createdAt || Date.now(),
+                loggedInAt: Date.now()
             };
             localStorage.setItem(STORE_USER, JSON.stringify(data));
             currentUser = data;
@@ -67,14 +73,69 @@
         localStorage.removeItem(STORE_SCORES);
     }
 
+    function getLocalAccounts() {
+        try {
+            return JSON.parse(localStorage.getItem(STORE_ACCOUNTS_LOCAL) || '{}');
+        } catch(e) {
+            return {};
+        }
+    }
+
+    function saveLocalAccounts(accounts) {
+        localStorage.setItem(STORE_ACCOUNTS_LOCAL, JSON.stringify(accounts));
+    }
+
+    function getAuthGuard() {
+        try { return JSON.parse(localStorage.getItem(STORE_AUTH_GUARD) || '{}'); } catch(e) { return {}; }
+    }
+
+    function saveAuthGuard(state) {
+        localStorage.setItem(STORE_AUTH_GUARD, JSON.stringify(state));
+    }
+
+    function getUserGuard(key) {
+        const g = getAuthGuard();
+        return g[key] || { fails: 0, lockUntil: 0 };
+    }
+
+    function setUserGuard(key, guard) {
+        const g = getAuthGuard();
+        g[key] = guard;
+        saveAuthGuard(g);
+    }
+
+    function clearUserGuard(key) {
+        const g = getAuthGuard();
+        delete g[key];
+        saveAuthGuard(g);
+    }
+
+    function getRemainingLockSeconds(key) {
+        const now = Date.now();
+        const guard = getUserGuard(key);
+        const diff = (guard.lockUntil || 0) - now;
+        return diff > 0 ? Math.ceil(diff / 1000) : 0;
+    }
+
+    function registerFailedAttempt(key) {
+        const now = Date.now();
+        const guard = getUserGuard(key);
+        const fails = (guard.fails || 0) + 1;
+        let lockUntil = guard.lockUntil || 0;
+        if(fails >= 5) {
+            lockUntil = now + 30000;
+        }
+        setUserGuard(key, { fails, lockUntil });
+    }
+
     async function initFirebase() {
         if(!firebaseConfig || !firebaseConfig.apiKey || firebaseConfig.apiKey.startsWith('YOUR_')) return false;
         try {
-            const { initializeApp } = await import('https://www.gstatic.com/firebasejs/10.13.2/firebase-app.js');
+            const { initializeApp } = await dynamicImport('https://www.gstatic.com/firebasejs/10.13.2/firebase-app.js');
             const { getAuth, signInAnonymously, onAuthStateChanged } =
-                await import('https://www.gstatic.com/firebasejs/10.13.2/firebase-auth.js');
+                await dynamicImport('https://www.gstatic.com/firebasejs/10.13.2/firebase-auth.js');
             const { getFirestore, doc, setDoc, getDoc, collection, query, orderBy, limit, getDocs, serverTimestamp } =
-                await import('https://www.gstatic.com/firebasejs/10.13.2/firebase-firestore.js');
+                await dynamicImport('https://www.gstatic.com/firebasejs/10.13.2/firebase-firestore.js');
 
             app = initializeApp(firebaseConfig);
             auth = getAuth(app);
@@ -88,7 +149,20 @@
                 return false;
             }
             await new Promise((resolve) => {
-                onAuthStateChanged(auth, () => resolve());
+                let done = false;
+                const finish = () => {
+                    if(done) return;
+                    done = true;
+                    resolve();
+                };
+                const t = setTimeout(() => {
+                    console.warn('[Çengel] Firebase auth state bekleme zaman aşımı; local moda düşülüyor.');
+                    finish();
+                }, 4000);
+                onAuthStateChanged(auth, () => {
+                    clearTimeout(t);
+                    finish();
+                });
             });
 
             firebaseReady = true;
@@ -97,6 +171,126 @@
             console.warn('[Çengel] Firebase init hatası:', err.message);
             return false;
         }
+    }
+
+    async function getCloudAccount(key) {
+        if(!firebaseReady || !key) return null;
+        try {
+            const { doc, getDoc } = window._cbFB;
+            const ref = doc(db, 'accounts', key);
+            const snap = await getDoc(ref);
+            if(!snap.exists()) return null;
+            return snap.data();
+        } catch(e) {
+            console.warn('Hesap bulut okuma hatası:', e);
+            return null;
+        }
+    }
+
+    async function upsertCloudAccount(key, username, passHash) {
+        if(!firebaseReady || !key) return false;
+        try {
+            const { doc, setDoc, serverTimestamp } = window._cbFB;
+            const ref = doc(db, 'accounts', key);
+            await setDoc(ref, {
+                username,
+                passHash,
+                updatedAt: serverTimestamp(),
+                createdAt: serverTimestamp()
+            }, { merge: true });
+            return true;
+        } catch(e) {
+            console.warn('Hesap bulut yazma hatası:', e);
+            return false;
+        }
+    }
+
+    function validateCredentials(username, password) {
+        const clean = (username || '').trim();
+        if(clean.length < 3) return { ok: false, message: 'Kullanıcı adı en az 3 karakter olmalı.' };
+        if(password.length < 4) return { ok: false, message: 'Şifre en az 4 karakter olmalı.' };
+        const key = normalizeName(clean);
+        if(!key) return { ok: false, message: 'Geçerli bir kullanıcı adı girin.' };
+        return { ok: true, username: clean, key };
+    }
+
+    async function register(username, password) {
+        const v = validateCredentials(username, password);
+        if(!v.ok) return v;
+
+        if(initPromise) { try { await initPromise; } catch(e){} }
+
+        const accounts = getLocalAccounts();
+        if(accounts[v.key]) return { ok: false, message: 'Bu kullanıcı adı zaten kayıtlı.' };
+
+        if(firebaseReady) {
+            const existingCloud = await getCloudAccount(v.key);
+            if(existingCloud) return { ok: false, message: 'Bu kullanıcı adı zaten kayıtlı.' };
+        }
+
+        const passHash = await hashPassword(password);
+        accounts[v.key] = {
+            username: v.username,
+            passHash,
+            createdAt: Date.now()
+        };
+        saveLocalAccounts(accounts);
+        await upsertCloudAccount(v.key, v.username, passHash);
+
+        clearLocalScores();
+        await loadUserFromCloud(v.key);
+        saveUserLocal({ key: v.key, name: v.username, createdAt: Date.now() });
+        await syncUserMetaToCloud();
+        clearUserGuard(v.key);
+        return { ok: true, mode: 'register' };
+    }
+
+    async function login(username, password) {
+        const v = validateCredentials(username, password);
+        if(!v.ok) return v;
+
+        if(initPromise) { try { await initPromise; } catch(e){} }
+
+        const lockedFor = getRemainingLockSeconds(v.key);
+        if(lockedFor > 0) return { ok: false, message: `Çok fazla hatalı deneme. ${lockedFor} sn sonra tekrar dene.` };
+
+        const passHash = await hashPassword(password);
+        let account = null;
+
+        if(firebaseReady) {
+            account = await getCloudAccount(v.key);
+        }
+        if(!account) {
+            const accounts = getLocalAccounts();
+            account = accounts[v.key] || null;
+        }
+
+        if(!account) {
+            registerFailedAttempt(v.key);
+            return { ok: false, message: 'Kullanıcı bulunamadı. Önce kayıt ol.' };
+        }
+        if(account.passHash !== passHash) {
+            registerFailedAttempt(v.key);
+            return { ok: false, message: 'Şifre hatalı.' };
+        }
+
+        clearUserGuard(v.key);
+
+        const sameUser = currentUser?.key === v.key;
+        if(!sameUser) {
+            clearLocalScores();
+            await loadUserFromCloud(v.key);
+        }
+
+        saveUserLocal({ key: v.key, name: account.username || v.username, createdAt: account.createdAt || Date.now() });
+        await syncUserMetaToCloud();
+        await syncLocalScoresToCloud();
+        return { ok: true, mode: 'login' };
+    }
+
+    function signOut() {
+        saveUserLocal(null);
+        clearLocalScores();
     }
 
     // Buluttan kullanıcı verisini yerel localStorage'a yükle
@@ -136,37 +330,6 @@
         }
     }
 
-    async function setName(name) {
-        const clean = (name || '').trim();
-        if(!clean) return { ok: false };
-        const newKey = normalizeName(clean);
-        if(!newKey) return { ok: false };
-
-        // Firebase başlatılıyorsa bekle (buluttaki kayıt eksiksiz yüklensin)
-        if(initPromise) { try { await initPromise; } catch(e){} }
-
-        const prevKey = currentUser?.key;
-        const sameUser = prevKey === newKey;
-
-        if(!sameUser) {
-            // Farklı kullanıcıya geçiş — yerel skorları temizle
-            clearLocalScores();
-            // Bulutta bu isimle kayıt varsa yükle
-            if(firebaseReady) {
-                await loadUserFromCloud(newKey);
-            }
-        }
-
-        saveUserLocal({
-            key: newKey,
-            name: clean,
-            createdAt: sameUser ? currentUser?.createdAt : Date.now()
-        });
-
-        if(firebaseReady) await syncUserMetaToCloud();
-        return { ok: true, changed: !sameUser };
-    }
-
     async function syncUserMetaToCloud() {
         if(!firebaseReady || !currentUser?.key) return;
         try {
@@ -180,6 +343,8 @@
     }
 
     async function saveScore(puzzleId, score, time, hints, difficulty, dailyKey = null) {
+        if(!currentUser?.key) return;
+
         const entry = {
             score: score|0,
             time: time|0,
@@ -333,26 +498,23 @@
     // Başlat
     loadUserLocal();
 
-    // Eski kullanıcı verisi varsa ama key yoksa normalize et (geriye dönük uyum)
-    if(currentUser && !currentUser.key && currentUser.name) {
-        currentUser.key = normalizeName(currentUser.name);
-        saveUserLocal(currentUser);
-    }
-
     initPromise = initFirebase().then(async ready => {
-        if(!ready) { console.info('[Çengel] Firebase yok/kapalı — skorlar sadece yerel.'); return; }
+        if(!ready) { console.info('[Çengel] Firebase yok/kapalı — hesaplar bu cihazda tutulur.'); return; }
         if(currentUser?.key) {
             await loadUserFromCloud(currentUser.key);
             await syncLocalScoresToCloud();
-            // Buluttan yüklenen skorlar yerele yansıdı — UI dinliyorsa güncellesin
             window.dispatchEvent(new CustomEvent('cbScoresSynced'));
         }
+    }).catch((err) => {
+        console.warn('[Çengel] initPromise hata verdi, local moda geçiliyor:', err?.message || err);
     });
 
     window.CBAuth = {
-        setName,
-        signOut: () => { saveUserLocal(null); clearLocalScores(); },
+        register,
+        login,
+        signOut,
         getUser: () => currentUser,
+        isLoggedIn: () => !!currentUser?.key,
         saveScore,
         getLeaderboard,
         maskName,

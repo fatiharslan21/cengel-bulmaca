@@ -121,19 +121,28 @@
 <script>
     // TEMA KONTROLCÜSÜ
     const themeToggle = document.getElementById('theme-toggle');
-    const currentTheme = localStorage.getItem('theme');
-    
-    if (currentTheme === 'dark') {
-        document.body.classList.add('dark-mode');
-        if(themeToggle) themeToggle.textContent = '☀️';
+    const THEMES = ['light', 'dark', 'ocean', 'sunset'];
+    const THEME_ICONS = { light: '🌞', dark: '🌙', ocean: '🌊', sunset: '🌇' };
+    const currentTheme = localStorage.getItem('theme') || 'light';
+
+    function applyTheme(t) {
+        document.body.classList.remove('dark-mode', 'theme-ocean', 'theme-sunset');
+        document.body.dataset.theme = t;
+        if(t === 'dark') document.body.classList.add('dark-mode');
+        if(t === 'ocean') document.body.classList.add('theme-ocean');
+        if(t === 'sunset') document.body.classList.add('theme-sunset');
+        if(themeToggle) themeToggle.textContent = THEME_ICONS[t] || '🎨';
+        localStorage.setItem('theme', t);
     }
+
+    applyTheme(currentTheme);
     
     if(themeToggle) {
         themeToggle.addEventListener('click', () => {
-            document.body.classList.toggle('dark-mode');
-            const isDark = document.body.classList.contains('dark-mode');
-            themeToggle.textContent = isDark ? '☀️' : '🌙';
-            localStorage.setItem('theme', isDark ? 'dark' : 'light');
+            const cur = document.body.dataset.theme || 'light';
+            const idx = THEMES.indexOf(cur);
+            const next = THEMES[(idx + 1) % THEMES.length];
+            applyTheme(next);
         });
     }
 
@@ -156,6 +165,34 @@
     const dailyKey = urlParams.get('daily') || null;
     window.CB_DAILY_KEY = dailyKey; // play.js bunu kontrol eder
 
+    // Kayıt/giriş zorunlu
+    function redirectToLogin() {
+        const next = encodeURIComponent(window.location.pathname + window.location.search);
+        window.location.href = `login.html?next=${next}`;
+    }
+
+    // Auth + Welcome + Scoreboard yükle (önce)
+    const authScript = document.createElement('script');
+    authScript.src = './js/auth.js';
+    document.body.appendChild(authScript);
+
+    const welScript = document.createElement('script');
+    welScript.src = './js/welcome.js';
+    document.body.appendChild(welScript);
+
+    const sbScript = document.createElement('script');
+    sbScript.src = './js/scoreboard.js';
+    document.body.appendChild(sbScript);
+
+    function ensureAuthAndLoad() {
+        if(!window.CBAuth || !window.CBAuth.isLoggedIn || !window.CBAuth.isLoggedIn()) {
+            redirectToLogin();
+            return;
+        }
+        loadPuzzle();
+    }
+
+    function loadPuzzle() {
     // Dosya adını bul (Örn: 5 ise "puzzle_005.json" olur)
     // Eğer senin json isimlerin puzzle_1.json gibiyse burayı şu şekilde değiştir: `puzzle_${levelId}.json`
     const fileName = `puzzle_${levelId.toString().padStart(3, '0')}.json`;
@@ -203,17 +240,6 @@
                 modalNextBtn.style.display = 'inline-flex';
             }
 
-            // Auth + Welcome + Scoreboard yükle (sırayla)
-            const authScript = document.createElement('script');
-            authScript.src = './js/auth.js';
-            document.body.appendChild(authScript);
-            const welScript = document.createElement('script');
-            welScript.src = './js/welcome.js';
-            document.body.appendChild(welScript);
-            const sbScript = document.createElement('script');
-            sbScript.src = './js/scoreboard.js';
-            document.body.appendChild(sbScript);
-
             // 6. JSON başarıyla çekildikten sonra oyun motorunu (play.js) sayfanın içine yükle
             const script = document.createElement('script');
             script.src = './js/play.js';
@@ -223,6 +249,9 @@
             console.error("Bulmaca yükleme hatası:", error);
             document.getElementById('grid').innerHTML = `<p style="padding: 2rem; text-align: center; color: red;">Bulmaca yüklenemedi. Lütfen URL'yi kontrol edin.</p>`;
         });
+    }
+
+    setTimeout(ensureAuthAndLoad, 150);
 </script>
 </body>
 </html>
