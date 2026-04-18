@@ -1556,26 +1556,3 @@ footer p { font-size: 11px; color: var(--ash); font-weight: 500; }
 .profile-actions { display:flex; justify-content:flex-end; }
 .profile-logout { padding: 9px 14px; }
 @media (max-width:560px){ .profile-stats{ grid-template-columns: repeat(2, 1fr);} }
-.admin-box {
-    border: 1px dashed var(--stone);
-    border-radius: 12px;
-    padding: 10px;
-    margin-bottom: 10px;
-    background: var(--white);
-}
-.admin-box h3 { margin: 0 0 4px; font-size: 14px; color: var(--ink); }
-.admin-box p { margin: 0 0 8px; font-size: 11px; color: var(--ash); }
-.admin-actions { display:flex; gap:8px; flex-wrap:wrap; margin-bottom: 8px; }
-.admin-btn { padding: 8px 10px; font-size: 12px; }
-.admin-log {
-    margin: 0;
-    max-height: 160px;
-    overflow: auto;
-    font-size: 11px;
-    line-height: 1.4;
-    background: var(--sand);
-    border: 1px solid var(--stone);
-    border-radius: 10px;
-    padding: 8px;
-    white-space: pre-wrap;
-}

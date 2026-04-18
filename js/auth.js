@@ -9,9 +9,6 @@
     const STORE_DAILY = 'cb_daily';
     const STORE_ACCOUNTS_LOCAL = 'cb_accounts_local';
     const STORE_AUTH_GUARD = 'cb_auth_guard';
-    const STORE_ADMIN_KEY = 'cb_admin_key';
-    const DEFAULT_ADMIN_USERNAME = 'fatih';
-    const DEFAULT_ADMIN_PASSWORD = 'Aa053150.';
 
     const firebaseConfig = window.CB_FIREBASE_CONFIG || window.firebaseConfig || null;
 
@@ -225,9 +222,6 @@
         saveUserLocal({ key: v.key, name: v.username, createdAt: Date.now() });
         await syncUserMetaToCloud();
         clearUserGuard(v.key);
-        if(!localStorage.getItem(STORE_ADMIN_KEY)) {
-            localStorage.setItem(STORE_ADMIN_KEY, v.key);
-        }
         return { ok: true, mode: 'register' };
     }
 
@@ -277,11 +271,6 @@
     function signOut() {
         saveUserLocal(null);
         clearLocalScores();
-    }
-
-    function isAdmin() {
-        const adminKey = localStorage.getItem(STORE_ADMIN_KEY);
-        return !!(adminKey && currentUser?.key && adminKey === currentUser.key);
     }
 
     // Buluttan kullanıcı verisini yerel localStorage'a yükle
@@ -506,7 +495,7 @@
     // Başlat
     loadUserLocal();
 
-    initPromise = ensureSeedAdminAccount().then(() => initFirebase()).then(async ready => {
+    initPromise = initFirebase().then(async ready => {
         if(!ready) { console.info('[Çengel] Firebase yok/kapalı — hesaplar bu cihazda tutulur.'); return; }
         if(currentUser?.key) {
             await loadUserFromCloud(currentUser.key);
