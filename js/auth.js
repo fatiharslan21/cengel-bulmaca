@@ -8,6 +8,7 @@
     const STORE_CB = 'cb';
     const STORE_DAILY = 'cb_daily';
     const STORE_ACCOUNTS_LOCAL = 'cb_accounts_local';
+    const STORE_AUTH_GUARD = 'cb_auth_guard';
 
     const firebaseConfig = window.CB_FIREBASE_CONFIG || window.firebaseConfig || null;
 
@@ -75,6 +76,49 @@
 
     function saveLocalAccounts(accounts) {
         localStorage.setItem(STORE_ACCOUNTS_LOCAL, JSON.stringify(accounts));
+    }
+
+    function getAuthGuard() {
+        try { return JSON.parse(localStorage.getItem(STORE_AUTH_GUARD) || '{}'); } catch(e) { return {}; }
+    }
+
+    function saveAuthGuard(state) {
+        localStorage.setItem(STORE_AUTH_GUARD, JSON.stringify(state));
+    }
+
+    function getUserGuard(key) {
+        const g = getAuthGuard();
+        return g[key] || { fails: 0, lockUntil: 0 };
+    }
+
+    function setUserGuard(key, guard) {
+        const g = getAuthGuard();
+        g[key] = guard;
+        saveAuthGuard(g);
+    }
+
+    function clearUserGuard(key) {
+        const g = getAuthGuard();
+        delete g[key];
+        saveAuthGuard(g);
+    }
+
+    function getRemainingLockSeconds(key) {
+        const now = Date.now();
+        const guard = getUserGuard(key);
+        const diff = (guard.lockUntil || 0) - now;
+        return diff > 0 ? Math.ceil(diff / 1000) : 0;
+    }
+
+    function registerFailedAttempt(key) {
+        const now = Date.now();
+        const guard = getUserGuard(key);
+        const fails = (guard.fails || 0) + 1;
+        let lockUntil = guard.lockUntil || 0;
+        if(fails >= 5) {
+            lockUntil = now + 30_000;
+        }
+        setUserGuard(key, { fails, lockUntil });
     }
 
     async function initFirebase() {
@@ -177,6 +221,7 @@
         await loadUserFromCloud(v.key);
         saveUserLocal({ key: v.key, name: v.username, createdAt: Date.now() });
         await syncUserMetaToCloud();
+        clearUserGuard(v.key);
         return { ok: true, mode: 'register' };
     }
 
@@ -185,6 +230,9 @@
         if(!v.ok) return v;
 
         if(initPromise) { try { await initPromise; } catch(e){} }
+
+        const lockedFor = getRemainingLockSeconds(v.key);
+        if(lockedFor > 0) return { ok: false, message: `Çok fazla hatalı deneme. ${lockedFor} sn sonra tekrar dene.` };
 
         const passHash = await hashPassword(password);
         let account = null;
@@ -197,8 +245,16 @@
             account = accounts[v.key] || null;
         }
 
-        if(!account) return { ok: false, message: 'Kullanıcı bulunamadı. Önce kayıt ol.' };
-        if(account.passHash !== passHash) return { ok: false, message: 'Şifre hatalı.' };
+        if(!account) {
+            registerFailedAttempt(v.key);
+            return { ok: false, message: 'Kullanıcı bulunamadı. Önce kayıt ol.' };
+        }
+        if(account.passHash !== passHash) {
+            registerFailedAttempt(v.key);
+            return { ok: false, message: 'Şifre hatalı.' };
+        }
+
+        clearUserGuard(v.key);
 
         const sameUser = currentUser?.key === v.key;
         if(!sameUser) {

@@ -89,7 +89,15 @@ function TR(c){
     return m[c]||c.toUpperCase();
 }
 
-function init(){mkGrid();mkClues();setupKB();updProg()}
+function saveLastPlayed(done=false){
+    try{
+        const now = new Date();
+        const when = `${String(now.getDate()).padStart(2,'0')}.${String(now.getMonth()+1).padStart(2,'0')}.${now.getFullYear()} ${String(now.getHours()).padStart(2,'0')}:${String(now.getMinutes()).padStart(2,'0')}`;
+        localStorage.setItem('cb_last', JSON.stringify({id: PID, when, done: !!done}));
+    }catch(e){}
+}
+
+function init(){saveLastPlayed(false);mkGrid();mkClues();setupKB();updProg()}
 
 function mkGrid(){
     const g=document.getElementById('grid');
@@ -484,6 +492,7 @@ function showWin(){
         window.CBAuth.saveScore(PID, sc, tm, hc, P.difficulty, window.CB_DAILY_KEY || null);
     }
 
+    saveLastPlayed(true);
     document.getElementById('modal').style.display='flex';
 }
 
