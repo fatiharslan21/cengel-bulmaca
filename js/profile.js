@@ -154,10 +154,16 @@
         };
     }
 
-    function open() {
+    function open(opts = {}) {
         build();
         render();
         modalEl.classList.add('show');
+        if(opts.admin) {
+            setTimeout(() => {
+                const el = modalEl.querySelector('#profile-admin');
+                if(el) el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+            }, 120);
+        }
     }
 
     function close() {

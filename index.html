@@ -32,6 +32,7 @@
         <span>Çengel Bulmaca</span>
     </div>
     <div class="hdr-r" style="display: flex; align-items: center; gap: 6px;">
+        <button class="sb-btn" id="open-admin" title="Admin Pipeline" style="display:none;">🛠 Admin</button>
         <button class="sb-btn" id="open-scoreboard" title="Puan Tablosu">🏆 Skor</button>
         <button class="user-chip" id="user-chip" title="İsmi değiştir">
             <span class="uc-avatar">?</span>
@@ -352,6 +353,7 @@ window.addEventListener('cbScoresSynced', refreshScores);
 // USER CHIP
 const userChip = document.getElementById('user-chip');
 const sbBtn = document.getElementById('open-scoreboard');
+const adminBtn = document.getElementById('open-admin');
 
 function refreshUserChip(user) {
     if(!userChip) return;
@@ -359,6 +361,9 @@ function refreshUserChip(user) {
     userChip.querySelector('.uc-avatar').textContent = name[0].toUpperCase();
     userChip.querySelector('.uc-name').textContent = name.split(' ')[0];
     userChip.title = user ? (name + ' — profili aç') : 'Giriş yap';
+    if(adminBtn && window.CBAuth?.isAdmin) {
+        adminBtn.style.display = window.CBAuth.isAdmin() ? 'inline-flex' : 'none';
+    }
 }
 if(window.CBAuth) window.CBAuth.onAuthChange(refreshUserChip);
 
@@ -367,6 +372,9 @@ userChip?.addEventListener('click', () => {
     if(window.CBWelcome) window.CBWelcome.open({mode:'login', forced:true});
 });
 sbBtn.addEventListener('click', () => window.CBScoreboard.open());
+adminBtn?.addEventListener('click', () => {
+    if(window.CBProfile) window.CBProfile.open({ admin: true });
+});
 
 // ZORLUK BANNERİ + İSTATİSTİK
 const DIFF_INFO = {
@@ -500,65 +508,6 @@ function showWowToast(text, type='info') {
     setTimeout(() => { t.classList.remove('show'); }, 2200);
     setTimeout(() => { t.style.display = 'none'; }, 2600);
 }
-
-// GİRİŞ ZORUNLULUĞU
-function guardAuthNavigation(e) {
-    if(window.CBWelcome && !window.CBWelcome.requireAuth({ mode: 'login' })) {
-        e.preventDefault();
-        return false;
-    }
-    return true;
-}
-document.querySelectorAll('a.card').forEach(a => a.addEventListener('click', guardAuthNavigation));
-document.getElementById('daily-card')?.addEventListener('click', guardAuthNavigation);
-document.getElementById('weekly-card')?.addEventListener('click', guardAuthNavigation);
-
-function refreshContinueCard(){
-    try {
-        const last = JSON.parse(localStorage.getItem('cb_last') || 'null');
-        const card = document.getElementById('continue-card');
-        if(!card || !last || !last.id) return;
-        card.style.display = 'flex';
-        card.href = `play.html?id=${last.id}`;
-        document.getElementById('continue-title').textContent = `Bölüm ${String(last.id).padStart(3,'0')}`;
-        document.getElementById('continue-status').textContent = last.when ? `Son giriş: ${last.when}` : 'Kaldığın yerden devam et';
-        card.addEventListener('click', guardAuthNavigation);
-    } catch(e) {}
-}
-refreshContinueCard();
-
-function showWowToast(text, type='info') {
-    const t = document.getElementById('wow-toast');
-    if(!t) return;
-    t.textContent = text;
-    t.className = `wow-toast show ${type}`;
-    t.style.display = 'block';
-    setTimeout(() => { t.classList.remove('show'); }, 2200);
-    setTimeout(() => { t.style.display = 'none'; }, 2600);
-}
-
-function refreshWeeklyChallenge() {
-    try {
-        const card = document.getElementById('weekly-card');
-        if(!card) return;
-        const local = JSON.parse(localStorage.getItem('cb_scores_local') || '{}');
-        const now = new Date();
-        const day = (now.getDay() + 6) % 7;
-        const monday = new Date(now);
-        monday.setDate(now.getDate() - day);
-        monday.setHours(0,0,0,0);
-        const startTs = monday.getTime();
-        let solved = 0;
-        Object.values(local).forEach(v => { if(v && v.completedAt && v.completedAt >= startTs) solved++; });
-        const target = 10;
-        const xpReward = Math.min(target, solved) * 20;
-        document.getElementById('weekly-status').textContent = `${solved} / ${target}`;
-        document.getElementById('weekly-reward').textContent = `+${xpReward} XP`;
-        if(solved >= target) card.classList.add('done');
-        else card.classList.remove('done');
-    } catch(e) {}
-}
-refreshWeeklyChallenge();
 
 // ─── GÜNÜN BULMACASI ───
 (function(){
