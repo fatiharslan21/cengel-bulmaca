@@ -138,11 +138,24 @@ function mkClues(){
     P.words.filter(w=>w.direction==='down').sort((x,y)=>x.number-y.number).forEach(w=>{const e=mkCI(w);e.classList.add('cid');d.appendChild(e)});
 }
 
+function firstEditableCell(w){
+    for(let i=0;i<w.length;i++){
+        const r=w.direction==='down'?w.row+i:w.row;
+        const c=w.direction==='across'?w.col+i:w.col;
+        const k=`${r}-${c}`;
+        if(lck.has(k)) continue;
+        const current = ug[k];
+        const expected = TR(w.answer[i]);
+        if(!current || TR(current)!==expected) return {row:r,col:c};
+    }
+    return {row:w.row,col:w.col};
+}
+
 function mkCI(w){
     const e=document.createElement('div');
     e.className='ci';e.dataset.n=w.number;e.dataset.d=w.direction;
     e.innerHTML=`<span class="cin">${w.number}.</span>${w.clue}`;
-    e.addEventListener('click',()=>{sel={row:w.row,col:w.col};dir=w.direction;acl=w;if(!run)startTm();updUI();
+    e.addEventListener('click',()=>{dir=w.direction;acl=w;sel=firstEditableCell(w);if(!run)startTm();updUI();
         e.scrollIntoView({block:'nearest',behavior:'smooth'})});
     return e;
 }
@@ -166,7 +179,7 @@ function clickC(r,c){
     if(!run)startTm();
     let w=findW(r,c,dir);
     if(!w){const alt=dir==='across'?'down':'across';w=findW(r,c,alt);if(w)dir=alt}
-    if(w)acl=w;
+    if(w){acl=w; if(sel && sel.row===r && sel.col===c && ug[`${r}-${c}`]) sel=firstEditableCell(w);}
     updUI();
 }
 
