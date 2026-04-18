@@ -232,51 +232,61 @@ document.querySelectorAll('.tab').forEach(t=>{t.onclick=()=>{
     }
 }});
 
-// LOCALSTORAGE PUAN KONTROLÜ
-// LOCALSTORAGE PUAN KONTROLÜ VE GENEL İLERLEME
-try{
-    const s=JSON.parse(localStorage.getItem('cb')||'{}');
-    let completedCount = 0;
-    let totalScore = 0;
-
-    Object.entries(s).forEach(([id,d])=>{
-        const e=document.getElementById('s'+id);
-        if(e){
-            e.textContent='✓ '+d.s+'p';
-            e.classList.add('has');
-            completedCount++;
-            totalScore += (d.s || 0);
-        }
-        const c=document.getElementById('c'+id);if(c)c.classList.add('done');
-    });
-
-    // Hero istatistikleri — sayaç animasyonuyla
-    function animateCount(el, target, dur=900) {
-        if(!el) return;
-        const start = 0;
-        const t0 = performance.now();
-        function tick(t) {
-            const p = Math.min(1, (t - t0) / dur);
-            const eased = 1 - Math.pow(1-p, 3);
-            el.textContent = Math.floor(start + (target - start) * eased).toLocaleString('tr');
-            if(p < 1) requestAnimationFrame(tick);
-        }
-        requestAnimationFrame(tick);
+// LOCALSTORAGE PUAN KONTROLÜ + HERO İSTATİSTİK
+function animateCount(el, target, dur=900) {
+    if(!el) return;
+    const start = parseInt((el.textContent||'0').replace(/\D/g,'')) || 0;
+    const t0 = performance.now();
+    function tick(t) {
+        const p = Math.min(1, (t - t0) / dur);
+        const eased = 1 - Math.pow(1-p, 3);
+        el.textContent = Math.floor(start + (target - start) * eased).toLocaleString('tr');
+        if(p < 1) requestAnimationFrame(tick);
     }
-    animateCount(document.getElementById('hs-done'), completedCount);
-    animateCount(document.getElementById('hs-score'), totalScore);
+    requestAnimationFrame(tick);
+}
 
-    // İlerleme şeridi
-    if(completedCount > 0) {
+function refreshScores(){
+    try{
+        const s=JSON.parse(localStorage.getItem('cb')||'{}');
+        let completedCount = 0, totalScore = 0;
+
+        // Önce hepsini temizle (farklı kullanıcıdan arta kalmasın)
+        document.querySelectorAll('.card-score.has').forEach(e => { e.textContent=''; e.classList.remove('has'); });
+        document.querySelectorAll('.card.done').forEach(c => c.classList.remove('done'));
+
+        Object.entries(s).forEach(([id,d])=>{
+            const e=document.getElementById('s'+id);
+            if(e){
+                e.textContent='✓ '+d.s+'p';
+                e.classList.add('has');
+                completedCount++;
+                totalScore += (d.s || 0);
+            }
+            const c=document.getElementById('c'+id);if(c)c.classList.add('done');
+        });
+
+        animateCount(document.getElementById('hs-done'), completedCount);
+        animateCount(document.getElementById('hs-score'), totalScore);
+
         const strip = document.getElementById('progress-strip');
         const text = document.getElementById('global-progress-text');
         const fill = document.getElementById('ps-fill');
-        const pct = (completedCount / 500) * 100;
-        text.innerHTML = `<b>${completedCount}</b>/500 tamamlandı · <span style="color:var(--green)">%${pct|0}</span>`;
-        fill.style.width = pct + '%';
-        strip.style.display = 'block';
-    }
-}catch(e){}
+        if(completedCount > 0) {
+            const pct = (completedCount / 500) * 100;
+            text.innerHTML = `<b>${completedCount}</b>/500 tamamlandı · <span style="color:var(--green)">%${pct|0}</span>`;
+            fill.style.width = pct + '%';
+            strip.style.display = 'block';
+        } else {
+            strip.style.display = 'none';
+        }
+
+        if(typeof updateDiffStats === 'function') updateDiffStats();
+    }catch(e){}
+}
+refreshScores();
+// Firebase'den skorlar sonradan geldiyse yeniden çiz
+window.addEventListener('cbScoresSynced', refreshScores);
 </script>
 
 <script src="./js/auth.js"></script>
@@ -350,13 +360,10 @@ updateDiffStats();
     const TR_MONTHS = ['Ocak','Şubat','Mart','Nisan','Mayıs','Haziran','Temmuz','Ağustos','Eylül','Ekim','Kasım','Aralık'];
     const now = new Date();
     const dateKey = `${now.getFullYear()}-${String(now.getMonth()+1).padStart(2,'0')}-${String(now.getDate()).padStart(2,'0')}`;
-
-    // Günden deterministik bulmaca seç (tüm zorluklardan döngü)
     const epoch = new Date(2026, 0, 1);
     const daysSince = Math.floor((now - epoch) / 86400000);
     const puzzleId = ((daysSince * 37 + 13) % 500) + 1;
 
-    // Zorluk grubunu belirle
     let diff = 'Kolay';
     if(puzzleId > 375) diff = 'Çok Zor';
     else if(puzzleId > 250) diff = 'Zor';
@@ -367,32 +374,40 @@ updateDiffStats();
         `${now.getDate()} ${TR_MONTHS[now.getMonth()]} ${now.getFullYear()}`;
     document.getElementById('daily-diff').textContent = `${emoji} ${diff}`;
 
-    // Çözüldü mü?
-    const daily = JSON.parse(localStorage.getItem('cb_daily') || '{}');
     const card = document.getElementById('daily-card');
-    const status = document.getElementById('daily-status');
-
-    if(daily[dateKey]) {
-        status.textContent = `✓ ${daily[dateKey].s} puan`;
-        card.classList.add('done');
-    }
-
     card.href = `play.html?id=${puzzleId}&daily=${dateKey}`;
 
-    // Seri hesapla
-    const dates = Object.keys(daily).sort().reverse();
-    let streak = 0;
-    const today = new Date(now.getFullYear(), now.getMonth(), now.getDate());
-    for(let i = 0; i < dates.length; i++) {
-        const d = new Date(dates[i]);
-        const diffDays = Math.floor((today - d) / 86400000);
-        if(diffDays === i) streak++;
-        else break;
+    function refreshDaily(){
+        const daily = JSON.parse(localStorage.getItem('cb_daily') || '{}');
+        const status = document.getElementById('daily-status');
+        const streakEl = document.getElementById('daily-streak');
+
+        if(daily[dateKey]) {
+            status.textContent = `✓ ${daily[dateKey].s} puan`;
+            card.classList.add('done');
+        } else {
+            status.textContent = 'Henüz çözülmedi';
+            card.classList.remove('done');
+        }
+
+        const dates = Object.keys(daily).sort().reverse();
+        let streak = 0;
+        const today = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+        for(let i = 0; i < dates.length; i++) {
+            const d = new Date(dates[i]);
+            const diffDays = Math.floor((today - d) / 86400000);
+            if(diffDays === i) streak++;
+            else break;
+        }
+        if(streak > 0) {
+            streakEl.style.display = 'flex';
+            document.getElementById('ds-num').textContent = streak;
+        } else {
+            streakEl.style.display = 'none';
+        }
     }
-    if(streak > 0) {
-        document.getElementById('daily-streak').style.display = 'flex';
-        document.getElementById('ds-num').textContent = streak;
-    }
+    refreshDaily();
+    window.addEventListener('cbScoresSynced', refreshDaily);
 })();
 </script>
 </body>

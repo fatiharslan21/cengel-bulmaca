@@ -1,27 +1,47 @@
 /* ─────────────────────────────────────────────
-   Çengel Bulmaca — Kullanıcı + Scoreboard Motoru
-   İsim-bazlı giriş. Firebase (Anonymous Auth + Firestore) varsa
-   skorlar buluta yazılır. Yoksa localStorage'a.
+   Çengel Bulmaca — İsim-bazlı kimlik + bulut senkronizasyonu
+   ------------------------------------------------------------
+   Kullanıcı kimliği = normalize edilmiş ad (küçük harf, aksansız).
+   Aynı isim → aynı profil (farklı cihazlardan bile).
+   İsim değişirse yerel skorlar sıfırlanır, yeni isim için bulutta
+   kayıt varsa geri yüklenir.
+
+   Not (Firestore Rules): users koleksiyonu için:
+     match /users/{userId} {
+       allow read: if request.auth != null;
+       allow write: if request.auth != null;  // isim-bazlı anahtar
+     }
    ───────────────────────────────────────────── */
 (function(){
     const STORE_USER = 'cb_user';
     const STORE_SCORES = 'cb_scores_local';
     const STORE_SETTINGS = 'cb_settings';
+    const STORE_CB = 'cb';
+    const STORE_DAILY = 'cb_daily';
 
     const firebaseConfig = window.CB_FIREBASE_CONFIG || window.firebaseConfig || null;
 
     let app, auth, db;
     let currentUser = null;
     let firebaseReady = false;
-    let cloudUid = null;
+    let initPromise = null;
 
     const listeners = new Set();
     const notify = () => listeners.forEach(fn => { try { fn(currentUser); } catch(e){} });
 
+    function normalizeName(name) {
+        return (name || '').trim().toLowerCase()
+            .normalize('NFD').replace(/\p{Diacritic}/gu, '')
+            .replace(/[^a-z0-9]+/g, '_')
+            .replace(/^_+|_+$/g, '')
+            .slice(0, 40);
+    }
+
     function saveUserLocal(user) {
         if(user) {
             const data = {
-                uid: user.uid || ('local_' + Date.now()),
+                uid: user.key || user.uid || ('local_' + Date.now()),
+                key: user.key,
                 name: (user.name || '').trim() || 'Misafir',
                 createdAt: user.createdAt || Date.now()
             };
@@ -41,6 +61,12 @@
         } catch(e) {}
     }
 
+    function clearLocalScores() {
+        localStorage.removeItem(STORE_CB);
+        localStorage.removeItem(STORE_DAILY);
+        localStorage.removeItem(STORE_SCORES);
+    }
+
     async function initFirebase() {
         if(!firebaseConfig || !firebaseConfig.apiKey || firebaseConfig.apiKey.startsWith('YOUR_')) return false;
         try {
@@ -56,22 +82,13 @@
 
             window._cbFB = { doc, setDoc, getDoc, collection, query, orderBy, limit, getDocs, serverTimestamp };
 
-            // Sessizce anonim giriş
-            try {
-                await signInAnonymously(auth);
-            } catch(e) {
-                console.warn('[Çengel] Anonim giriş başarısız. Firebase konsolunda Authentication > Sign-in method > Anonymous aktif mi?', e.message);
+            try { await signInAnonymously(auth); }
+            catch(e) {
+                console.warn('[Çengel] Anonim giriş başarısız:', e.message);
                 return false;
             }
-
             await new Promise((resolve) => {
-                onAuthStateChanged(auth, (user) => {
-                    if(user) {
-                        cloudUid = user.uid;
-                        if(currentUser) syncUserToCloud();
-                    }
-                    resolve();
-                });
+                onAuthStateChanged(auth, () => resolve());
             });
 
             firebaseReady = true;
@@ -82,37 +99,87 @@
         }
     }
 
-    async function syncUserToCloud() {
-        if(!firebaseReady || !cloudUid || !currentUser) return;
+    // Buluttan kullanıcı verisini yerel localStorage'a yükle
+    async function loadUserFromCloud(key) {
+        if(!firebaseReady || !key) return false;
         try {
-            const { doc, setDoc, getDoc, serverTimestamp } = window._cbFB;
-            const userRef = doc(db, 'users', cloudUid);
-            const snap = await getDoc(userRef);
-            const prev = snap.exists() ? snap.data() : {};
+            const { doc, getDoc } = window._cbFB;
+            const ref = doc(db, 'users', key);
+            const snap = await getDoc(ref);
+            if(!snap.exists()) return false;
+            const d = snap.data();
 
-            // İsim değiştiyse güncelle
-            if(prev.name !== currentUser.name) {
-                await setDoc(userRef, {
-                    name: currentUser.name,
-                    updatedAt: serverTimestamp()
-                }, { merge: true });
+            const puzzles = d.puzzles || {};
+            const cb = {};
+            const local = {};
+            for(const [id, data] of Object.entries(puzzles)) {
+                cb[id] = { s: data.score, t: data.time, h: data.hints };
+                local[id] = data;
             }
-        } catch(e) { console.warn('User sync hatası:', e); }
+            if(Object.keys(cb).length) {
+                localStorage.setItem(STORE_CB, JSON.stringify(cb));
+                localStorage.setItem(STORE_SCORES, JSON.stringify(local));
+            }
+
+            const daily = d.daily || {};
+            const cbDaily = {};
+            for(const [dateKey, data] of Object.entries(daily)) {
+                cbDaily[dateKey] = { s: data.score, t: data.time, h: data.hints, id: data.id };
+            }
+            if(Object.keys(cbDaily).length) {
+                localStorage.setItem(STORE_DAILY, JSON.stringify(cbDaily));
+            }
+            return true;
+        } catch(e) {
+            console.warn('Bulut okuma hatası:', e);
+            return false;
+        }
     }
 
     async function setName(name) {
         const clean = (name || '').trim();
-        if(!clean) return false;
+        if(!clean) return { ok: false };
+        const newKey = normalizeName(clean);
+        if(!newKey) return { ok: false };
+
+        // Firebase başlatılıyorsa bekle (buluttaki kayıt eksiksiz yüklensin)
+        if(initPromise) { try { await initPromise; } catch(e){} }
+
+        const prevKey = currentUser?.key;
+        const sameUser = prevKey === newKey;
+
+        if(!sameUser) {
+            // Farklı kullanıcıya geçiş — yerel skorları temizle
+            clearLocalScores();
+            // Bulutta bu isimle kayıt varsa yükle
+            if(firebaseReady) {
+                await loadUserFromCloud(newKey);
+            }
+        }
+
         saveUserLocal({
-            uid: currentUser?.uid || ('local_' + Date.now()),
+            key: newKey,
             name: clean,
-            createdAt: currentUser?.createdAt || Date.now()
+            createdAt: sameUser ? currentUser?.createdAt : Date.now()
         });
-        if(firebaseReady) await syncUserToCloud();
-        return true;
+
+        if(firebaseReady) await syncUserMetaToCloud();
+        return { ok: true, changed: !sameUser };
     }
 
-    async function saveScore(puzzleId, score, time, hints, difficulty) {
+    async function syncUserMetaToCloud() {
+        if(!firebaseReady || !currentUser?.key) return;
+        try {
+            const { doc, setDoc, serverTimestamp } = window._cbFB;
+            const ref = doc(db, 'users', currentUser.key);
+            await setDoc(ref, {
+                name: currentUser.name,
+                updatedAt: serverTimestamp()
+            }, { merge: true });
+        } catch(e) { console.warn('Meta sync hatası:', e); }
+    }
+
+    async function saveScore(puzzleId, score, time, hints, difficulty, dailyKey = null) {
         const entry = {
             score: score|0,
             time: time|0,
@@ -127,36 +194,46 @@
             localStorage.setItem(STORE_SCORES, JSON.stringify(all));
         }
 
-        if(firebaseReady && cloudUid && currentUser) {
-            try {
-                const { doc, setDoc, getDoc, serverTimestamp } = window._cbFB;
-                const userRef = doc(db, 'users', cloudUid);
-                const snap = await getDoc(userRef);
-                const prev = snap.exists() ? (snap.data().puzzles || {}) : {};
+        if(!firebaseReady || !currentUser?.key) return;
+        try {
+            const { doc, setDoc, getDoc, serverTimestamp } = window._cbFB;
+            const ref = doc(db, 'users', currentUser.key);
+            const snap = await getDoc(ref);
+            const existing = snap.exists() ? snap.data() : {};
+            const puzzles = existing.puzzles || {};
+            const daily = existing.daily || {};
 
-                if(!prev[puzzleId] || prev[puzzleId].score < score) {
-                    prev[puzzleId] = entry;
-                    const totalScore = Object.values(prev).reduce((s, x) => s + (x.score || 0), 0);
-                    const completedCount = Object.keys(prev).length;
-                    await setDoc(userRef, {
-                        name: currentUser.name,
-                        puzzles: prev,
-                        totalScore,
-                        completedCount,
-                        updatedAt: serverTimestamp()
-                    }, { merge: true });
-                }
-            } catch(e) { console.warn('Cloud save hatası:', e); }
-        }
+            let changed = false;
+            if(!puzzles[puzzleId] || puzzles[puzzleId].score < score) {
+                puzzles[puzzleId] = entry;
+                changed = true;
+            }
+            if(dailyKey && (!daily[dailyKey] || daily[dailyKey].score < score)) {
+                daily[dailyKey] = { ...entry, id: puzzleId };
+                changed = true;
+            }
+            if(!changed) return;
+
+            const totalScore = Object.values(puzzles).reduce((s, x) => s + (x.score || 0), 0);
+            await setDoc(ref, {
+                name: currentUser.name,
+                puzzles, daily,
+                totalScore,
+                completedCount: Object.keys(puzzles).length,
+                updatedAt: serverTimestamp()
+            }, { merge: true });
+        } catch(e) { console.warn('Skor bulut kaydı hatası:', e); }
     }
 
     async function syncLocalScoresToCloud() {
-        if(!firebaseReady || !cloudUid || !currentUser) return;
+        if(!firebaseReady || !currentUser?.key) return;
         try {
-            const oldScores = JSON.parse(localStorage.getItem('cb') || '{}');
+            const oldScores = JSON.parse(localStorage.getItem(STORE_CB) || '{}');
             const newScores = JSON.parse(localStorage.getItem(STORE_SCORES) || '{}');
+            const localDaily = JSON.parse(localStorage.getItem(STORE_DAILY) || '{}');
+
             const merged = {};
-            for(const [id, d] of Object.entries({...oldScores, ...newScores})) {
+            for(const [id, d] of Object.entries({ ...oldScores, ...newScores })) {
                 merged[id] = {
                     score: d.s || d.score || 0,
                     time: d.t || d.time || 0,
@@ -164,31 +241,38 @@
                     difficulty: d.difficulty || 'Kolay'
                 };
             }
-            if(Object.keys(merged).length === 0) return;
+            if(Object.keys(merged).length === 0 && Object.keys(localDaily).length === 0) return;
 
             const { doc, setDoc, getDoc, serverTimestamp } = window._cbFB;
-            const userRef = doc(db, 'users', cloudUid);
-            const snap = await getDoc(userRef);
-            const existing = snap.exists() ? (snap.data().puzzles || {}) : {};
+            const ref = doc(db, 'users', currentUser.key);
+            const snap = await getDoc(ref);
+            const existing = snap.exists() ? snap.data() : {};
+            const puzzles = existing.puzzles || {};
+            const daily = existing.daily || {};
 
             let changed = false;
             for(const [id, data] of Object.entries(merged)) {
-                if(!existing[id] || existing[id].score < data.score) {
-                    existing[id] = data;
-                    changed = true;
+                if(!puzzles[id] || puzzles[id].score < data.score) {
+                    puzzles[id] = data; changed = true;
                 }
             }
-            if(changed) {
-                const totalScore = Object.values(existing).reduce((s, x) => s + (x.score || 0), 0);
-                await setDoc(userRef, {
-                    name: currentUser.name,
-                    puzzles: existing,
-                    totalScore,
-                    completedCount: Object.keys(existing).length,
-                    updatedAt: serverTimestamp()
-                }, { merge: true });
+            for(const [k, d] of Object.entries(localDaily)) {
+                const data = { score: d.s || 0, time: d.t || 0, hints: d.h || 0, id: d.id };
+                if(!daily[k] || daily[k].score < data.score) {
+                    daily[k] = data; changed = true;
+                }
             }
-        } catch(e) { console.warn('Sync hatası:', e); }
+            if(!changed) return;
+
+            const totalScore = Object.values(puzzles).reduce((s, x) => s + (x.score || 0), 0);
+            await setDoc(ref, {
+                name: currentUser.name,
+                puzzles, daily,
+                totalScore,
+                completedCount: Object.keys(puzzles).length,
+                updatedAt: serverTimestamp()
+            }, { merge: true });
+        } catch(e) { console.warn('Toplu sync hatası:', e); }
     }
 
     async function getLeaderboard(topN = 50) {
@@ -216,9 +300,9 @@
 
     function localLeaderboard() {
         const user = currentUser || { uid: 'guest', name: 'Sen' };
-        const oldScores = JSON.parse(localStorage.getItem('cb') || '{}');
+        const oldScores = JSON.parse(localStorage.getItem(STORE_CB) || '{}');
         const newScores = JSON.parse(localStorage.getItem(STORE_SCORES) || '{}');
-        const merged = {...oldScores, ...newScores};
+        const merged = { ...oldScores, ...newScores };
         const total = Object.values(merged).reduce((s, x) => s + (x.s || x.score || 0), 0);
         const count = Object.keys(merged).length;
         return [{ uid: user.uid, name: user.name, totalScore: total, completedCount: count }];
@@ -248,14 +332,26 @@
 
     // Başlat
     loadUserLocal();
-    initFirebase().then(ready => {
-        if(ready && currentUser) syncLocalScoresToCloud();
-        if(!ready) console.info('[Çengel] Firebase yok/kapalı — skorlar sadece yerel.');
+
+    // Eski kullanıcı verisi varsa ama key yoksa normalize et (geriye dönük uyum)
+    if(currentUser && !currentUser.key && currentUser.name) {
+        currentUser.key = normalizeName(currentUser.name);
+        saveUserLocal(currentUser);
+    }
+
+    initPromise = initFirebase().then(async ready => {
+        if(!ready) { console.info('[Çengel] Firebase yok/kapalı — skorlar sadece yerel.'); return; }
+        if(currentUser?.key) {
+            await loadUserFromCloud(currentUser.key);
+            await syncLocalScoresToCloud();
+            // Buluttan yüklenen skorlar yerele yansıdı — UI dinliyorsa güncellesin
+            window.dispatchEvent(new CustomEvent('cbScoresSynced'));
+        }
     });
 
     window.CBAuth = {
         setName,
-        signOut: () => { saveUserLocal(null); },
+        signOut: () => { saveUserLocal(null); clearLocalScores(); },
         getUser: () => currentUser,
         saveScore,
         getLeaderboard,
@@ -263,6 +359,7 @@
         onAuthChange,
         getSettings,
         setSetting,
-        isFirebaseReady: () => firebaseReady
+        isFirebaseReady: () => firebaseReady,
+        normalizeName
     };
 })();

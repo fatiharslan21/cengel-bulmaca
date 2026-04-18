@@ -13,9 +13,12 @@
    rules_version = '2';
    service cloud.firestore {
      match /databases/{database}/documents {
+       // Kullanıcı belgeleri artık normalize edilmiş isimle anahtarlanıyor
+       // (örn. "Ahmet" → users/ahmet). Anonim girişle herkes yazabilir —
+       // aynı ismi giren herkes aynı profili paylaşır (seçilen davranış).
        match /users/{userId} {
          allow read: if request.auth != null;
-         allow write: if request.auth != null && request.auth.uid == userId;
+         allow write: if request.auth != null;
        }
      }
    }
