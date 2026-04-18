@@ -32,6 +32,7 @@
         <span>Çengel Bulmaca</span>
     </div>
     <div class="hdr-r" style="display: flex; align-items: center; gap: 6px;">
+        <button class="sb-btn" id="open-admin" title="Admin Pipeline" style="display:none;">🛠 Admin</button>
         <button class="sb-btn" id="open-scoreboard" title="Puan Tablosu">🏆 Skor</button>
         <button class="user-chip" id="user-chip" title="İsmi değiştir">
             <span class="uc-avatar">?</span>
@@ -71,7 +72,7 @@
 
     <div class="hero-stats-row">
         <div class="stat-cell">
-            <span class="stat-num" id="hs-total">500</span>
+            <span class="stat-num" id="hs-total">750</span>
             <span class="stat-lbl">Bulmaca</span>
         </div>
         <div class="stat-cell">
@@ -130,12 +131,12 @@
     <button class="tab diff-zor-tab" data-d="Zor">
         <span class="tab-emoji">⚡</span>
         <span class="tab-label">Zor</span>
-        <span class="tab-stat" id="stat-Zor">0/125</span>
+        <span class="tab-stat" id="stat-Zor">0/250</span>
     </button>
     <button class="tab diff-cok-zor-tab" data-d="Çok Zor">
         <span class="tab-emoji">💎</span>
         <span class="tab-label">Çok Zor</span>
-        <span class="tab-stat" id="stat-Çok Zor">0/125</span>
+        <span class="tab-stat" id="stat-Çok Zor">0/250</span>
     </button>
 </nav>
 <div class="difficulty-banner" id="diff-banner">
@@ -273,6 +274,7 @@ document.querySelectorAll('.tab').forEach(t=>{t.onclick=()=>{
             if(totalLbl) totalLbl.textContent = '/' + total;
         }
     }
+    recommendNonRepeatingLevel(diff);
 }});
 
 // LOCALSTORAGE PUAN KONTROLÜ + HERO İSTATİSTİK
@@ -340,6 +342,7 @@ window.addEventListener('cbScoresSynced', refreshScores);
 // USER CHIP
 const userChip = document.getElementById('user-chip');
 const sbBtn = document.getElementById('open-scoreboard');
+const adminBtn = document.getElementById('open-admin');
 
 function refreshUserChip(user) {
     if(!userChip) return;
@@ -355,6 +358,9 @@ userChip?.addEventListener('click', () => {
     if(window.CBWelcome) window.CBWelcome.open({mode:'login', forced:true});
 });
 sbBtn.addEventListener('click', () => window.CBScoreboard.open());
+adminBtn?.addEventListener('click', () => {
+    window.location.href = 'admin.html';
+});
 
 // ZORLUK BANNERİ + İSTATİSTİK
 const DIFF_INFO = {
@@ -405,6 +411,125 @@ function updateDiffStats() {
 
 updateBanner('Kolay');
 updateDiffStats();
+recommendNonRepeatingLevel('Kolay');
+
+// GİRİŞ ZORUNLULUĞU
+function guardAuthNavigation(e) {
+    if(window.CBWelcome && !window.CBWelcome.requireAuth({ mode: 'login' })) {
+        e.preventDefault();
+        return false;
+    }
+    return true;
+}
+document.querySelectorAll('a.card').forEach(a => a.addEventListener('click', guardAuthNavigation));
+document.getElementById('daily-card')?.addEventListener('click', guardAuthNavigation);
+document.getElementById('unique-card')?.addEventListener('click', guardAuthNavigation);
+
+function refreshContinueCard(){
+    try {
+        const last = JSON.parse(localStorage.getItem('cb_last') || 'null');
+        const card = document.getElementById('continue-card');
+        if(!card || !last || !last.id) return;
+        card.style.display = 'flex';
+        card.href = `play.html?id=${last.id}`;
+        document.getElementById('continue-title').textContent = `Bölüm ${String(last.id).padStart(3,'0')}`;
+        document.getElementById('continue-status').textContent = last.when ? `Son giriş: ${last.when}` : 'Kaldığın yerden devam et';
+        card.addEventListener('click', guardAuthNavigation);
+    } catch(e) {}
+}
+refreshContinueCard();
+
+function diffRange(diff) {
+    let start = 1;
+    for(const p of LEVEL_PLAN) {
+        const end = start + p.count - 1;
+        if(p.name === diff) return { start, end };
+        start = end + 1;
+    }
+    return { start: 1, end: TOTAL_LEVELS };
+}
+
+async function recommendNonRepeatingLevel(diff) {
+    const uniqCard = document.getElementById('unique-card');
+    if(!uniqCard) return;
+    try {
+        const seen = JSON.parse(localStorage.getItem('cb_seen_clues') || '{}');
+        const solved = JSON.parse(localStorage.getItem('cb_scores_local') || '{}');
+        const { start, end } = diffRange(diff);
+        const candidates = [];
+        for (let i = start; i <= end; i++) if(!solved[i]) candidates.push(i);
+        if(candidates.length === 0) { uniqCard.style.display = 'none'; return; }
+
+        const sample = [];
+        const step = Math.max(1, Math.floor(candidates.length / 18));
+        for(let i=0; i<candidates.length && sample.length<18; i+=step) sample.push(candidates[i]);
+
+        let best = null;
+        for (const id of sample) {
+            const file = `./data/puzzle_${id.toString().padStart(3,'0')}.json`;
+            try {
+                const r = await fetch(file);
+                if(!r.ok) continue;
+                const pz = await r.json();
+                const repeatScore = (pz.words || []).reduce((s, w) => s + (seen[(w.clue || '').trim()] || 0), 0);
+                if(!best || repeatScore < best.repeatScore) best = { id, repeatScore };
+            } catch(_) {}
+        }
+        if(!best) { uniqCard.style.display = 'none'; return; }
+        uniqCard.style.display = 'flex';
+        uniqCard.href = `play.html?id=${best.id}`;
+        document.getElementById('unique-title').textContent = `Bölüm ${String(best.id).padStart(3,'0')} (${diff})`;
+        document.getElementById('unique-status').textContent = `Tekrar skoru: ${best.repeatScore} (düşük daha iyi)`;
+    } catch(e) {
+        uniqCard.style.display = 'none';
+    }
+}
+
+function showWowToast(text, type='info') {
+    const t = document.getElementById('wow-toast');
+    if(!t) return;
+    t.textContent = text;
+    t.className = `wow-toast show ${type}`;
+    t.style.display = 'block';
+    setTimeout(() => { t.classList.remove('show'); }, 2200);
+    setTimeout(() => { t.style.display = 'none'; }, 2600);
+}
+
+// GİRİŞ ZORUNLULUĞU
+function guardAuthNavigation(e) {
+    if(window.CBWelcome && !window.CBWelcome.requireAuth({ mode: 'login' })) {
+        e.preventDefault();
+        return false;
+    }
+    return true;
+}
+document.querySelectorAll('a.card').forEach(a => a.addEventListener('click', guardAuthNavigation));
+document.getElementById('daily-card')?.addEventListener('click', guardAuthNavigation);
+
+function refreshContinueCard(){
+    try {
+        const last = JSON.parse(localStorage.getItem('cb_last') || 'null');
+        const card = document.getElementById('continue-card');
+        if(!card || !last || !last.id) return;
+        card.style.display = 'flex';
+        card.href = `play.html?id=${last.id}`;
+        document.getElementById('continue-title').textContent = `Bölüm ${String(last.id).padStart(3,'0')}`;
+        document.getElementById('continue-status').textContent = last.when ? `Son giriş: ${last.when}` : 'Kaldığın yerden devam et';
+        card.addEventListener('click', guardAuthNavigation);
+    } catch(e) {}
+}
+refreshContinueCard();
+
+
+function showWowToast(text, type='info') {
+    const t = document.getElementById('wow-toast');
+    if(!t) return;
+    t.textContent = text;
+    t.className = `wow-toast show ${type}`;
+    t.style.display = 'block';
+    setTimeout(() => { t.classList.remove('show'); }, 2200);
+    setTimeout(() => { t.style.display = 'none'; }, 2600);
+}
 
 // GİRİŞ ZORUNLULUĞU
 function guardAuthNavigation(e) {
