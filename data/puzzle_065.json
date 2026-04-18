@@ -1,16 +1,13 @@
 {
   "id": 65,
   "title": "Bölüm 65",
-  "difficulty": "Zor",
-  "grid_size_r": 8,
-  "grid_size_c": 10,
+  "difficulty": "Kolay",
+  "grid_size_r": 9,
+  "grid_size_c": 7,
   "grid": [
     [
       0,
-      1,
-      1,
-      1,
-      1,
+      0,
       1,
       0,
       0,
@@ -19,84 +16,72 @@
     ],
     [
       0,
-      0,
-      0,
-      0,
-      0,
+      1,
+      1,
+      1,
       1,
       0,
-      1,
-      0,
-      0
+      1
     ],
     [
       0,
       0,
-      0,
-      0,
-      0,
       1,
       0,
-      1,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      0,
-      1,
-      1,
-      1,
       1,
       1,
       1
     ],
     [
-      1,
-      1,
-      1,
-      1,
+      0,
+      0,
       1,
       0,
+      1,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
       0,
       1,
       0,
       0
     ],
     [
-      1,
-      0,
-      0,
       0,
       1,
-      1,
-      1,
-      1,
       0,
+      1,
+      1,
+      1,
       0
     ],
     [
       1,
       1,
       1,
-      0,
       1,
       0,
-      0,
-      1,
       0,
       0
     ],
     [
+      0,
+      1,
+      0,
       1,
       0,
       0,
+      0
+    ],
+    [
+      0,
       1,
-      1,
-      1,
-      1,
+      0,
+      0,
       0,
       0,
       0
@@ -105,93 +90,84 @@
   "words": [
     {
       "number": 1,
-      "direction": "across",
+      "direction": "down",
       "row": 0,
-      "col": 1,
+      "col": 2,
       "length": 5,
-      "clue": "Bilme, anlayış",
-      "answer": "İRFAN"
+      "clue": "Bilme isteği",
+      "answer": "MERAK"
     },
     {
       "number": 2,
-      "direction": "down",
-      "row": 0,
-      "col": 5,
+      "direction": "across",
+      "row": 1,
+      "col": 1,
       "length": 4,
-      "clue": "Müzik işareti",
-      "answer": "NOTA"
+      "clue": "Şehir",
+      "answer": "KENT"
     },
     {
       "number": 3,
       "direction": "down",
       "row": 1,
-      "col": 7,
-      "length": 6,
-      "clue": "Güç, kuvvet",
-      "answer": "KUDRET"
-    },
-    {
-      "number": 4,
-      "direction": "down",
-      "row": 3,
       "col": 4,
-      "length": 5,
-      "clue": "Evin yeşil alanı",
-      "answer": "BAHÇE"
-    },
-    {
-      "number": 4,
-      "direction": "across",
-      "row": 3,
-      "col": 4,
-      "length": 6,
-      "clue": "İçecek kabı",
-      "answer": "BARDAK"
-    },
-    {
-      "number": 5,
-      "direction": "across",
-      "row": 4,
-      "col": 0,
       "length": 5,
       "clue": "Zar masa oyunu",
       "answer": "TAVLA"
     },
     {
-      "number": 5,
+      "number": 4,
       "direction": "down",
-      "row": 4,
-      "col": 0,
-      "length": 4,
-      "clue": "Bağlama aracı",
-      "answer": "TOKA"
+      "row": 1,
+      "col": 6,
+      "length": 3,
+      "clue": "Kırmızı taneli meyve",
+      "answer": "NAR"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 2,
+      "col": 4,
+      "length": 3,
+      "clue": "İki şey arası boşluk",
+      "answer": "ARA"
     },
     {
       "number": 6,
-      "direction": "across",
+      "direction": "down",
       "row": 5,
-      "col": 4,
+      "col": 1,
       "length": 4,
-      "clue": "Ev, konut",
-      "answer": "HANE"
+      "clue": "Ayrım, değişiklik",
+      "answer": "FARK"
     },
     {
       "number": 7,
       "direction": "across",
-      "row": 6,
-      "col": 0,
+      "row": 5,
+      "col": 3,
       "length": 3,
-      "clue": "Kanatlı uçan hayvan",
-      "answer": "KUŞ"
+      "clue": "Gitme, burada dur",
+      "answer": "KAL"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 5,
+      "col": 3,
+      "length": 3,
+      "clue": "En soğuk mevsim",
+      "answer": "KIŞ"
     },
     {
       "number": 8,
       "direction": "across",
-      "row": 7,
-      "col": 3,
+      "row": 6,
+      "col": 0,
       "length": 4,
-      "clue": "Küçük yükselti",
-      "answer": "TEPE"
+      "clue": "Katlanır bıçak",
+      "answer": "ÇAKI"
     }
   ]
 }

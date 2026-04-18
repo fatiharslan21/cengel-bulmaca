@@ -1,9 +1,9 @@
 {
   "id": 64,
   "title": "Bölüm 64",
-  "difficulty": "Zor",
-  "grid_size_r": 8,
-  "grid_size_c": 12,
+  "difficulty": "Kolay",
+  "grid_size_r": 11,
+  "grid_size_c": 10,
   "grid": [
     [
       0,
@@ -12,11 +12,9 @@
       0,
       0,
       0,
-      0,
       1,
       0,
       0,
-      1,
       0
     ],
     [
@@ -27,6 +25,16 @@
       0,
       0,
       1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
       1,
       1,
       1,
@@ -37,61 +45,15 @@
       0,
       0,
       0,
-      1,
-      0,
-      0,
-      0,
-      1,
       0,
       0,
       1,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      0,
-      1,
-      0
-    ],
-    [
-      0,
-      1,
-      0,
-      1,
-      0,
-      1,
-      0,
-      0,
-      0,
-      0,
-      1,
-      0
-    ],
-    [
-      1,
-      1,
-      1,
-      1,
-      0,
-      1,
-      0,
-      0,
       0,
       0,
       0,
       0
     ],
     [
-      0,
-      1,
       0,
       1,
       0,
@@ -107,12 +69,70 @@
       1,
       1,
       1,
+      1,
       0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
       0,
       1,
       0,
       0,
       0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
       0,
       0,
       0
@@ -123,91 +143,82 @@
       "number": 1,
       "direction": "down",
       "row": 0,
-      "col": 7,
-      "length": 4,
-      "clue": "Türk simgesi çiçek",
-      "answer": "LALE"
+      "col": 6,
+      "length": 3,
+      "clue": "Tırnak törpüsü",
+      "answer": "EĞE"
     },
     {
       "number": 2,
       "direction": "down",
-      "row": 0,
-      "col": 10,
+      "row": 2,
+      "col": 5,
+      "length": 3,
+      "clue": "Konuşma organı",
+      "answer": "DİL"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 2,
+      "col": 5,
       "length": 5,
-      "clue": "Yas, acı",
-      "answer": "MATEM"
+      "clue": "Tuzlu büyük su",
+      "answer": "DENİZ"
     },
     {
       "number": 3,
-      "direction": "across",
-      "row": 1,
-      "col": 6,
-      "length": 6,
-      "clue": "Bitkinin yeşil organı",
-      "answer": "YAPRAK"
-    },
-    {
-      "number": 4,
-      "direction": "down",
-      "row": 2,
-      "col": 3,
-      "length": 5,
-      "clue": "Talih, yükselme",
-      "answer": "İKBAL"
-    },
-    {
-      "number": 5,
-      "direction": "across",
-      "row": 3,
-      "col": 3,
-      "length": 6,
-      "clue": "Nasip, pay",
-      "answer": "KISMET"
-    },
-    {
-      "number": 6,
-      "direction": "down",
-      "row": 3,
-      "col": 5,
-      "length": 5,
-      "clue": "Esenleme sözü",
-      "answer": "SELAM"
-    },
-    {
-      "number": 7,
       "direction": "down",
       "row": 4,
       "col": 1,
       "length": 4,
-      "clue": "Bayat olmayan",
-      "answer": "TAZE"
+      "clue": "Şehir",
+      "answer": "KENT"
     },
     {
-      "number": 8,
+      "number": 4,
+      "direction": "across",
+      "row": 4,
+      "col": 3,
+      "length": 3,
+      "clue": "Dev kara hayvanı",
+      "answer": "FİL"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 4,
+      "col": 3,
+      "length": 4,
+      "clue": "Ayrım, değişiklik",
+      "answer": "FARK"
+    },
+    {
+      "number": 5,
       "direction": "across",
       "row": 5,
       "col": 0,
       "length": 4,
-      "clue": "Utanma duygusu",
-      "answer": "HAYA"
+      "clue": "Suça yaptırım",
+      "answer": "CEZA"
     },
     {
-      "number": 9,
-      "direction": "across",
-      "row": 6,
-      "col": 5,
-      "length": 3,
-      "clue": "Sunma, takdim",
-      "answer": "ARZ"
-    },
-    {
-      "number": 10,
+      "number": 6,
       "direction": "across",
       "row": 7,
-      "col": 0,
-      "length": 3,
-      "clue": "Birinci tekil kişi",
-      "answer": "BEN"
+      "col": 3,
+      "length": 4,
+      "clue": "Baş, kelle",
+      "answer": "KAFA"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 7,
+      "col": 6,
+      "length": 4,
+      "clue": "İstek, dilek",
+      "answer": "ARZU"
     }
   ]
 }

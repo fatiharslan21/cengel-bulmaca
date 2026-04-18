@@ -1,93 +1,47 @@
 {
   "id": 81,
   "title": "Bölüm 81",
-  "difficulty": "Çok Zor",
-  "grid_size_r": 12,
-  "grid_size_c": 9,
+  "difficulty": "Kolay",
+  "grid_size_r": 9,
+  "grid_size_c": 4,
   "grid": [
     [
       0,
-      0,
-      0,
-      0,
-      0,
-      0,
       1,
-      0,
-      0
+      1,
+      1
     ],
     [
       0,
       0,
-      0,
-      1,
-      1,
-      1,
-      1,
       1,
       0
     ],
     [
       0,
-      0,
+      1,
+      1,
+      1
+    ],
+    [
       0,
       1,
       0,
+      1
+    ],
+    [
       0,
       1,
-      0,
-      0
+      1,
+      1
     ],
     [
       0,
       0,
-      0,
-      1,
-      0,
-      1,
-      0,
-      0,
-      0
-    ],
-    [
-      1,
-      1,
-      1,
-      1,
-      0,
-      1,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      1,
-      1,
-      1,
-      1,
       1,
       0
     ],
     [
-      0,
-      0,
-      0,
-      0,
-      0,
-      1,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      0,
-      1,
       1,
       1,
       1,
@@ -97,137 +51,96 @@
       0,
       0,
       0,
-      0,
-      0,
-      1,
-      0,
-      0,
       1
     ],
     [
       0,
       0,
       0,
-      0,
-      0,
-      0,
-      1,
-      1,
-      1
-    ],
-    [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      1
-    ],
-    [
-      0,
-      0,
-      0,
-      0,
-      0,
-      1,
-      1,
-      1,
       1
     ]
   ],
   "words": [
     {
       "number": 1,
+      "direction": "across",
+      "row": 0,
+      "col": 1,
+      "length": 3,
+      "clue": "Güzel, tatlı",
+      "answer": "HOŞ"
+    },
+    {
+      "number": 2,
       "direction": "down",
       "row": 0,
-      "col": 6,
+      "col": 2,
       "length": 3,
-      "clue": "Baştaki kıllar",
-      "answer": "SAÇ"
+      "clue": "İğneyle süsleme",
+      "answer": "OYA"
     },
     {
-      "number": 2,
-      "direction": "down",
-      "row": 1,
-      "col": 3,
-      "length": 5,
-      "clue": "Başlangıç tarihi",
-      "answer": "MİLAT"
-    },
-    {
-      "number": 2,
+      "number": 3,
       "direction": "across",
-      "row": 1,
-      "col": 3,
-      "length": 5,
-      "clue": "Örnek, benzer",
-      "answer": "MİSAL"
+      "row": 2,
+      "col": 1,
+      "length": 3,
+      "clue": "Evin çatısı",
+      "answer": "DAM"
     },
     {
       "number": 3,
       "direction": "down",
-      "row": 3,
-      "col": 5,
-      "length": 6,
-      "clue": "Yetinme, razı olma",
-      "answer": "KANAAT"
+      "row": 2,
+      "col": 1,
+      "length": 3,
+      "clue": "Buz tutma",
+      "answer": "DON"
     },
     {
       "number": 4,
-      "direction": "across",
-      "row": 4,
-      "col": 0,
-      "length": 4,
-      "clue": "Gönül huzuru",
-      "answer": "SAFA"
+      "direction": "down",
+      "row": 2,
+      "col": 3,
+      "length": 3,
+      "clue": "Fitilli aydınlatma",
+      "answer": "MUM"
     },
     {
       "number": 5,
       "direction": "across",
-      "row": 5,
-      "col": 3,
-      "length": 5,
-      "clue": "Issız, boş",
-      "answer": "TENHA"
+      "row": 4,
+      "col": 1,
+      "length": 3,
+      "clue": "Havadaki rutubet",
+      "answer": "NEM"
     },
     {
       "number": 6,
-      "direction": "across",
-      "row": 7,
-      "col": 4,
-      "length": 5,
-      "clue": "Maç yöneticisi",
-      "answer": "HAKEM"
+      "direction": "down",
+      "row": 4,
+      "col": 2,
+      "length": 3,
+      "clue": "Tırnak törpüsü",
+      "answer": "EĞE"
     },
     {
       "number": 7,
-      "direction": "down",
-      "row": 7,
-      "col": 8,
-      "length": 5,
-      "clue": "Seslerle sanat",
-      "answer": "MÜZİK"
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "length": 4,
+      "clue": "Raylı taşıt",
+      "answer": "TREN"
     },
     {
       "number": 8,
-      "direction": "across",
-      "row": 9,
-      "col": 6,
+      "direction": "down",
+      "row": 6,
+      "col": 3,
       "length": 3,
-      "clue": "Donmuş su",
-      "answer": "BUZ"
-    },
-    {
-      "number": 9,
-      "direction": "across",
-      "row": 11,
-      "col": 5,
-      "length": 4,
-      "clue": "Yeşil alan",
-      "answer": "PARK"
+      "clue": "İşve, cilve",
+      "answer": "NAZ"
     }
   ]
 }

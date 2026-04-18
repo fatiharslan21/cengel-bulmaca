@@ -1,0 +1,200 @@
+{
+  "id": 456,
+  "title": "Bölüm 456",
+  "difficulty": "Çok Zor",
+  "grid_size_r": 11,
+  "grid_size_c": 7,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "length": 6,
+      "clue": "Özlü söz",
+      "answer": "VECİZE"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "length": 5,
+      "clue": "Yeni bilgi",
+      "answer": "HABER"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "length": 5,
+      "clue": "Uysal, yumuşak",
+      "answer": "MUNİS"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "length": 4,
+      "clue": "Sivri dikiş aracı",
+      "answer": "İĞNE"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 5,
+      "col": 2,
+      "length": 6,
+      "clue": "Boşuna, yararsız",
+      "answer": "NAFİLE"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 6,
+      "col": 4,
+      "length": 3,
+      "clue": "Omuz örtüsü",
+      "answer": "ŞAL"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 6,
+      "col": 5,
+      "length": 3,
+      "clue": "Elin iç kısmı",
+      "answer": "AYA"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 8,
+      "col": 2,
+      "length": 5,
+      "clue": "Esin, sezgi",
+      "answer": "İLHAM"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 9,
+      "col": 0,
+      "length": 3,
+      "clue": "Ağacın kolu",
+      "answer": "DAL"
+    },
+    {
+      "number": 10,
+      "direction": "across",
+      "row": 10,
+      "col": 2,
+      "length": 4,
+      "clue": "Ölüm vakti",
+      "answer": "ECEL"
+    }
+  ]
+}

@@ -1,72 +1,22 @@
 {
   "id": 42,
   "title": "Bölüm 42",
-  "difficulty": "Orta",
-  "grid_size_r": 9,
-  "grid_size_c": 10,
+  "difficulty": "Kolay",
+  "grid_size_r": 10,
+  "grid_size_c": 9,
   "grid": [
     [
       0,
-      1,
-      1,
-      1,
-      1,
-      1,
       0,
       0,
       0,
-      0
+      0,
+      0,
+      0,
+      0,
+      1
     ],
     [
-      0,
-      1,
-      0,
-      0,
-      0,
-      1,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      1,
-      0,
-      1,
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      1,
-      0,
-      0,
-      0,
-      0,
-      1,
-      0,
-      1,
-      0
-    ],
-    [
-      1,
-      1,
-      1,
-      1,
-      1,
-      0,
-      1,
-      0,
-      1,
-      0
-    ],
-    [
-      0,
       0,
       0,
       0,
@@ -83,7 +33,6 @@
       0,
       0,
       0,
-      0,
       1,
       0,
       0,
@@ -93,117 +42,161 @@
       0,
       0,
       0,
+      1,
+      1,
+      1,
       0,
       0,
-      0,
-      0,
-      0,
-      0,
-      1
+      0
     ],
     [
       0,
       0,
       0,
+      1,
       0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
       0,
       0,
       1,
       1,
       1,
-      1
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
     ]
   ],
   "words": [
     {
       "number": 1,
-      "direction": "across",
-      "row": 0,
-      "col": 1,
-      "length": 5,
-      "clue": "Günün başı",
-      "answer": "SABAH"
-    },
-    {
-      "number": 1,
       "direction": "down",
       "row": 0,
-      "col": 1,
-      "length": 5,
-      "clue": "Yenilebilen bitki",
-      "answer": "SEBZE"
+      "col": 8,
+      "length": 3,
+      "clue": "Baştaki kıllar",
+      "answer": "SAÇ"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 1,
+      "col": 5,
+      "length": 4,
+      "clue": "Kısa dinlenme",
+      "answer": "MOLA"
     },
     {
       "number": 2,
       "direction": "down",
-      "row": 0,
+      "row": 1,
       "col": 5,
       "length": 3,
-      "clue": "Çizgi, yol",
-      "answer": "HAT"
+      "clue": "Eflatun renk",
+      "answer": "MOR"
     },
     {
       "number": 3,
       "direction": "across",
-      "row": 2,
+      "row": 3,
+      "col": 3,
+      "length": 3,
+      "clue": "Beyaz yağış",
+      "answer": "KAR"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 3,
       "col": 3,
       "length": 4,
-      "clue": "Müzik işareti",
-      "answer": "NOTA"
+      "clue": "Su kabı",
+      "answer": "KOVA"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "length": 4,
+      "clue": "Ateşin parlak kısmı",
+      "answer": "ALEV"
     },
     {
       "number": 4,
       "direction": "down",
-      "row": 2,
-      "col": 6,
+      "row": 5,
+      "col": 0,
       "length": 5,
-      "clue": "Dört tekerlekli taşıt",
-      "answer": "ARABA"
+      "clue": "Konum bilgisi",
+      "answer": "ADRES"
     },
     {
       "number": 5,
-      "direction": "down",
-      "row": 3,
-      "col": 8,
-      "length": 3,
-      "clue": "Güç, kolay değil",
-      "answer": "ZOR"
+      "direction": "across",
+      "row": 6,
+      "col": 3,
+      "length": 4,
+      "clue": "Elektrik hareketi",
+      "answer": "AKIM"
     },
     {
       "number": 6,
-      "direction": "across",
-      "row": 4,
-      "col": 0,
-      "length": 5,
-      "clue": "Etraf, çepeçevre",
-      "answer": "ÇEVRE"
-    },
-    {
-      "number": 7,
-      "direction": "across",
-      "row": 5,
-      "col": 6,
-      "length": 4,
-      "clue": "Zodyak işareti",
-      "answer": "BURÇ"
-    },
-    {
-      "number": 8,
       "direction": "down",
-      "row": 5,
-      "col": 9,
-      "length": 4,
-      "clue": "Bodur ağaç",
-      "answer": "ÇALI"
-    },
-    {
-      "number": 9,
-      "direction": "across",
-      "row": 8,
-      "col": 6,
-      "length": 4,
-      "clue": "Altın rengi",
-      "answer": "SARI"
+      "row": 6,
+      "col": 4,
+      "length": 3,
+      "clue": "Bina bölümü",
+      "answer": "KAT"
     }
   ]
 }

@@ -1,45 +1,19 @@
 {
   "id": 38,
   "title": "Bölüm 38",
-  "difficulty": "Orta",
-  "grid_size_r": 10,
+  "difficulty": "Kolay",
+  "grid_size_r": 7,
   "grid_size_c": 11,
   "grid": [
     [
+      0,
+      1,
+      0,
       1,
       0,
       0,
       0,
       0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      1,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      1,
-      0,
-      0,
-      1,
-      1,
-      1,
-      1,
-      1,
       0,
       0,
       0
@@ -52,45 +26,32 @@
       0,
       0,
       0,
-      1,
       0,
+      1,
       0,
       0
     ],
     [
-      1,
-      0,
       0,
       1,
-      0,
       0,
       1,
       1,
       1,
       1,
-      0
-    ],
-    [
-      0,
-      0,
       0,
       1,
-      0,
-      0,
-      0,
-      1,
-      0,
       0,
       0
     ],
     [
       0,
       0,
-      1,
-      1,
-      1,
-      1,
       0,
+      0,
+      0,
+      0,
+      1,
       1,
       1,
       1,
@@ -99,39 +60,39 @@
     [
       0,
       0,
-      0,
+      1,
+      1,
+      1,
+      1,
       1,
       0,
       0,
       0,
-      0,
-      1,
-      0,
-      1
+      0
     ],
     [
       0,
       0,
-      0,
-      0,
-      0,
+      1,
       0,
       0,
       0,
       1,
       0,
-      1
+      0,
+      0,
+      0
     ],
     [
       0,
       0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
       1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
       0,
       0
     ]
@@ -141,91 +102,82 @@
       "number": 1,
       "direction": "down",
       "row": 0,
-      "col": 0,
-      "length": 5,
-      "clue": "Nefesli çalgı",
-      "answer": "ZURNA"
-    },
-    {
-      "number": 2,
-      "direction": "across",
-      "row": 2,
-      "col": 3,
-      "length": 5,
-      "clue": "Ölçü, ebat",
-      "answer": "BOYUT"
+      "col": 1,
+      "length": 3,
+      "clue": "İçi dolu olmayan",
+      "answer": "BOŞ"
     },
     {
       "number": 2,
       "direction": "down",
-      "row": 2,
+      "row": 0,
       "col": 3,
-      "length": 6,
-      "clue": "Ülke simgesi",
-      "answer": "BAYRAK"
+      "length": 3,
+      "clue": "Çizgi, yol",
+      "answer": "HAT"
     },
     {
       "number": 3,
-      "direction": "down",
-      "row": 2,
-      "col": 7,
-      "length": 5,
-      "clue": "Ekin alanı",
-      "answer": "TARLA"
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "length": 4,
+      "clue": "Bağlama aracı",
+      "answer": "TOKA"
     },
     {
       "number": 4,
-      "direction": "across",
-      "row": 3,
-      "col": 0,
-      "length": 4,
-      "clue": "Müzik işareti",
-      "answer": "NOTA"
+      "direction": "down",
+      "row": 1,
+      "col": 8,
+      "length": 3,
+      "clue": "Çeşit, tür",
+      "answer": "TÜR"
     },
     {
       "number": 5,
       "direction": "across",
-      "row": 4,
-      "col": 6,
+      "row": 2,
+      "col": 3,
       "length": 4,
-      "clue": "Üstünü kapatan",
-      "answer": "ÖRTÜ"
+      "clue": "Bayat olmayan",
+      "answer": "TAZE"
     },
     {
       "number": 6,
-      "direction": "across",
-      "row": 6,
-      "col": 2,
+      "direction": "down",
+      "row": 2,
+      "col": 6,
       "length": 4,
-      "clue": "Yapışkan şerit",
-      "answer": "BANT"
+      "clue": "Sanat yapıtı",
+      "answer": "ESER"
     },
     {
       "number": 7,
       "direction": "across",
-      "row": 6,
-      "col": 7,
-      "length": 4,
-      "clue": "Yürüyüş mesafesi",
-      "answer": "ADIM"
+      "row": 3,
+      "col": 6,
+      "length": 5,
+      "clue": "Hükümdar konutu",
+      "answer": "SARAY"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 4,
+      "col": 2,
+      "length": 5,
+      "clue": "Ani vuruş",
+      "answer": "DARBE"
     },
     {
       "number": 8,
       "direction": "down",
-      "row": 6,
-      "col": 8,
-      "length": 4,
-      "clue": "Boş olmayan",
-      "answer": "DOLU"
-    },
-    {
-      "number": 9,
-      "direction": "down",
-      "row": 6,
-      "col": 10,
+      "row": 4,
+      "col": 2,
       "length": 3,
-      "clue": "Eflatun renk",
-      "answer": "MOR"
+      "clue": "Yüksek arazi şekli",
+      "answer": "DAĞ"
     }
   ]
 }

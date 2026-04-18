@@ -1,17 +1,32 @@
 {
   "id": 72,
   "title": "Bölüm 72",
-  "difficulty": "Zor",
+  "difficulty": "Kolay",
   "grid_size_r": 9,
-  "grid_size_c": 9,
+  "grid_size_c": 11,
   "grid": [
     [
       0,
-      1,
+      0,
+      0,
       0,
       1,
       0,
       0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
       0,
       0,
       0
@@ -24,15 +39,6 @@
       1,
       0,
       0,
-      0,
-      0
-    ],
-    [
-      0,
-      1,
-      0,
-      1,
-      0,
       1,
       0,
       0,
@@ -41,27 +47,7 @@
     [
       0,
       0,
-      0,
       1,
-      1,
-      1,
-      1,
-      0,
-      0
-    ],
-    [
-      1,
-      1,
-      1,
-      1,
-      0,
-      1,
-      0,
-      1,
-      0
-    ],
-    [
-      0,
       0,
       1,
       0,
@@ -72,31 +58,63 @@
       1
     ],
     [
-      0,
-      0,
-      1,
-      0,
-      0,
-      1,
-      0,
-      1,
-      0
-    ],
-    [
-      0,
       1,
       1,
       1,
       1,
       0,
+      0,
+      0,
+      1,
       0,
       0,
       0
     ],
     [
+      1,
       0,
       0,
       1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      0,
       0,
       0,
       0,
@@ -110,91 +128,82 @@
       "number": 1,
       "direction": "down",
       "row": 0,
-      "col": 1,
-      "length": 3,
-      "clue": "Hava gibi madde",
-      "answer": "GAZ"
+      "col": 4,
+      "length": 4,
+      "clue": "Bağlama aracı",
+      "answer": "TOKA"
     },
     {
       "number": 2,
-      "direction": "down",
-      "row": 0,
-      "col": 3,
-      "length": 5,
-      "clue": "Taşıma, aktarma",
-      "answer": "NAKİL"
+      "direction": "across",
+      "row": 1,
+      "col": 4,
+      "length": 4,
+      "clue": "Silahlı kuvvetler",
+      "answer": "ORDU"
     },
     {
       "number": 3,
-      "direction": "across",
+      "direction": "down",
       "row": 1,
-      "col": 0,
-      "length": 5,
-      "clue": "Günün başı",
-      "answer": "SABAH"
+      "col": 7,
+      "length": 4,
+      "clue": "Havada uçan taşıt",
+      "answer": "UÇAK"
     },
     {
       "number": 4,
-      "direction": "down",
+      "direction": "across",
       "row": 2,
-      "col": 5,
+      "col": 0,
       "length": 5,
-      "clue": "Alın yazısı",
-      "answer": "KADER"
+      "clue": "Üflemeli ses aleti",
+      "answer": "DÜDÜK"
     },
     {
       "number": 5,
-      "direction": "across",
-      "row": 3,
-      "col": 3,
-      "length": 4,
-      "clue": "Açıklama",
-      "answer": "İZAH"
+      "direction": "down",
+      "row": 2,
+      "col": 2,
+      "length": 3,
+      "clue": "Buz tutma",
+      "answer": "DON"
     },
     {
       "number": 6,
       "direction": "across",
+      "row": 3,
+      "col": 6,
+      "length": 5,
+      "clue": "Aydınlatma aracı",
+      "answer": "LAMBA"
+    },
+    {
+      "number": 7,
+      "direction": "across",
       "row": 4,
       "col": 0,
       "length": 4,
-      "clue": "Ölüm vakti",
-      "answer": "ECEL"
+      "clue": "Yapı, bina",
+      "answer": "BİNA"
     },
     {
       "number": 7,
       "direction": "down",
       "row": 4,
-      "col": 2,
+      "col": 0,
       "length": 5,
-      "clue": "En sert taş",
-      "answer": "ELMAS"
+      "clue": "Gökyüzü su kümeleri",
+      "answer": "BULUT"
     },
     {
       "number": 8,
       "direction": "down",
       "row": 4,
-      "col": 7,
-      "length": 3,
-      "clue": "İçine konan kab",
-      "answer": "KAP"
-    },
-    {
-      "number": 9,
-      "direction": "across",
-      "row": 5,
-      "col": 4,
-      "length": 5,
-      "clue": "Bilme isteği",
-      "answer": "MERAK"
-    },
-    {
-      "number": 10,
-      "direction": "across",
-      "row": 7,
-      "col": 1,
+      "col": 3,
       "length": 4,
-      "clue": "Adet, parça",
-      "answer": "TANE"
+      "clue": "Ateşin parlak kısmı",
+      "answer": "ALEV"
     }
   ]
 }

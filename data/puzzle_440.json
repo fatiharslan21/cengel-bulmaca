@@ -1,0 +1,244 @@
+{
+  "id": 440,
+  "title": "Bölüm 440",
+  "difficulty": "Çok Zor",
+  "grid_size_r": 11,
+  "grid_size_c": 11,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "length": 5,
+      "clue": "İyilik, bolluk",
+      "answer": "NİMET"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "length": 3,
+      "clue": "Bal yapan böcek",
+      "answer": "ARI"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "length": 6,
+      "clue": "Nasip, pay",
+      "answer": "KISMET"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 4,
+      "col": 0,
+      "length": 5,
+      "clue": "İki yakayı birleştiren",
+      "answer": "KÖPRÜ"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 4,
+      "col": 4,
+      "length": 5,
+      "clue": "Temel buğday gıdası",
+      "answer": "EKMEK"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 5,
+      "col": 8,
+      "length": 4,
+      "clue": "Başka, özge",
+      "answer": "GAYR"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 5,
+      "col": 8,
+      "length": 3,
+      "clue": "Karalarla çevrili su",
+      "answer": "GÖL"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 6,
+      "col": 2,
+      "length": 5,
+      "clue": "En sert taş",
+      "answer": "ELMAS"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 8,
+      "col": 4,
+      "length": 5,
+      "clue": "Alın yazısı",
+      "answer": "KADER"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 8,
+      "col": 6,
+      "length": 3,
+      "clue": "Çiğneme organı",
+      "answer": "DİŞ"
+    }
+  ]
+}

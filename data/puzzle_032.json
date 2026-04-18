@@ -1,15 +1,30 @@
 {
   "id": 32,
   "title": "Bölüm 32",
-  "difficulty": "Orta",
-  "grid_size_r": 11,
-  "grid_size_c": 9,
+  "difficulty": "Kolay",
+  "grid_size_r": 5,
+  "grid_size_c": 11,
   "grid": [
     [
       0,
       0,
       0,
+      1,
+      1,
+      1,
       0,
+      0,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
       1,
       1,
       1,
@@ -17,65 +32,12 @@
       0
     ],
     [
-      0,
-      0,
       1,
-      0,
-      1,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      1,
-      0,
-      1,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      1,
-      1,
-      1,
-      1,
-      1,
-      0,
-      0,
-      0,
-      1
-    ],
-    [
-      0,
-      0,
-      1,
-      0,
-      1,
-      0,
-      0,
-      0,
-      1
-    ],
-    [
-      0,
       0,
       0,
       1,
       1,
       1,
-      1,
-      1,
-      1
-    ],
-    [
-      0,
-      0,
-      0,
-      0,
       0,
       0,
       1,
@@ -83,140 +45,113 @@
       0
     ],
     [
-      0,
-      0,
-      0,
-      0,
       1,
       1,
       1,
       1,
-      1
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
     ],
     [
-      0,
-      0,
-      0,
+      1,
       0,
       0,
       1,
       0,
       0,
-      1
-    ],
-    [
       0,
       0,
       0,
       0,
-      0,
-      1,
-      0,
-      0,
-      1
-    ],
-    [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      1
+      0
     ]
   ],
   "words": [
     {
       "number": 1,
-      "direction": "down",
-      "row": 0,
-      "col": 4,
-      "length": 6,
-      "clue": "Ülke yönetimi",
-      "answer": "DEVLET"
-    },
-    {
-      "number": 1,
       "direction": "across",
       "row": 0,
-      "col": 4,
+      "col": 3,
       "length": 3,
-      "clue": "Rüya, hayal",
-      "answer": "DÜŞ"
+      "clue": "Havadaki rutubet",
+      "answer": "NEM"
     },
     {
       "number": 2,
       "direction": "down",
-      "row": 1,
-      "col": 2,
-      "length": 4,
-      "clue": "Renk veren madde",
-      "answer": "BOYA"
+      "row": 0,
+      "col": 5,
+      "length": 3,
+      "clue": "Mülk, eşya",
+      "answer": "MAL"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "length": 3,
+      "clue": "Gizli bilgi",
+      "answer": "SIR"
     },
     {
       "number": 3,
       "direction": "across",
-      "row": 3,
-      "col": 0,
-      "length": 5,
-      "clue": "Gerçek olmayan düş",
-      "answer": "HAYAL"
+      "row": 0,
+      "col": 8,
+      "length": 3,
+      "clue": "Baştaki kıllar",
+      "answer": "SAÇ"
     },
     {
       "number": 4,
       "direction": "down",
-      "row": 3,
-      "col": 8,
-      "length": 3,
-      "clue": "Demir korozyonu",
-      "answer": "PAS"
+      "row": 1,
+      "col": 0,
+      "length": 4,
+      "clue": "Yakın olmayan",
+      "answer": "UZAK"
     },
     {
       "number": 5,
       "direction": "across",
-      "row": 5,
+      "row": 1,
+      "col": 5,
+      "length": 4,
+      "clue": "Av yapan kişi",
+      "answer": "AVCI"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 2,
       "col": 3,
-      "length": 6,
-      "clue": "Toplu taşıma",
-      "answer": "OTOBÜS"
+      "length": 3,
+      "clue": "Vücudun orta bölümü",
+      "answer": "BEL"
     },
     {
       "number": 6,
       "direction": "down",
-      "row": 5,
-      "col": 6,
+      "row": 2,
+      "col": 3,
       "length": 3,
-      "clue": "Çok miktarda",
-      "answer": "BOL"
+      "clue": "Arı ürünü tatlı",
+      "answer": "BAL"
     },
     {
       "number": 7,
       "direction": "across",
-      "row": 7,
-      "col": 4,
-      "length": 5,
-      "clue": "Suda yaşayan canlı",
-      "answer": "BALIK"
-    },
-    {
-      "number": 8,
-      "direction": "down",
-      "row": 7,
-      "col": 5,
-      "length": 3,
-      "clue": "Sunma, takdim",
-      "answer": "ARZ"
-    },
-    {
-      "number": 9,
-      "direction": "down",
-      "row": 7,
-      "col": 8,
+      "row": 3,
+      "col": 0,
       "length": 4,
-      "clue": "Yüksek yapı",
-      "answer": "KULE"
+      "clue": "Yansıtıcı cam",
+      "answer": "AYNA"
     }
   ]
 }

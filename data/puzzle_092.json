@@ -1,9 +1,9 @@
 {
   "id": 92,
   "title": "Bölüm 92",
-  "difficulty": "Çok Zor",
+  "difficulty": "Kolay",
   "grid_size_r": 11,
-  "grid_size_c": 11,
+  "grid_size_c": 10,
   "grid": [
     [
       0,
@@ -13,9 +13,20 @@
       0,
       0,
       0,
+      1,
+      0,
+      0
+    ],
+    [
       0,
       0,
       0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
       1
     ],
     [
@@ -26,59 +37,54 @@
       0,
       0,
       0,
+      1,
+      0,
+      0
+    ],
+    [
       0,
       0,
       0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
       1
     ],
     [
       0,
       0,
       0,
-      0,
+      1,
+      1,
+      1,
       1,
       0,
-      1,
       0,
-      0,
-      0,
-      1
+      0
     ],
     [
       0,
       0,
       0,
       1,
-      1,
-      1,
-      1,
-      0,
-      0,
-      0,
-      1
-    ],
-    [
-      0,
-      1,
       0,
       0,
       1,
-      0,
-      1,
-      1,
-      1,
-      1,
-      1
-    ],
-    [
-      1,
-      1,
-      1,
-      1,
-      1,
-      0,
-      1,
-      0,
       0,
       0,
       0
@@ -87,13 +93,12 @@
       0,
       1,
       0,
-      0,
       1,
       0,
-      0,
-      0,
-      0,
-      0,
+      1,
+      1,
+      1,
+      1,
       0
     ],
     [
@@ -103,8 +108,7 @@
       1,
       0,
       0,
-      0,
-      0,
+      1,
       0,
       0,
       0
@@ -119,27 +123,12 @@
       0,
       0,
       0,
-      0,
       0
     ],
     [
       0,
-      0,
-      1,
-      1,
-      1,
-      1,
       1,
       0,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      1,
       0,
       0,
       0,
@@ -154,91 +143,82 @@
       "number": 1,
       "direction": "down",
       "row": 0,
-      "col": 10,
+      "col": 7,
       "length": 5,
-      "clue": "Yemek kabı",
-      "answer": "TABAK"
+      "clue": "Hükümdar konutu",
+      "answer": "SARAY"
     },
     {
       "number": 2,
-      "direction": "down",
-      "row": 2,
-      "col": 4,
-      "length": 5,
-      "clue": "Yas, acı",
-      "answer": "MATEM"
+      "direction": "across",
+      "row": 1,
+      "col": 6,
+      "length": 4,
+      "clue": "Katlanır bıçak",
+      "answer": "ÇAKI"
     },
     {
       "number": 3,
       "direction": "down",
-      "row": 2,
+      "row": 4,
+      "col": 6,
+      "length": 5,
+      "clue": "Ağaçlık alan",
+      "answer": "ORMAN"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 4,
       "col": 6,
       "length": 4,
-      "clue": "Ferahlatıcı bitki",
-      "answer": "NANE"
+      "clue": "Eğlence faaliyeti",
+      "answer": "OYUN"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 5,
+      "col": 3,
+      "length": 5,
+      "clue": "En sert taş",
+      "answer": "ELMAS"
     },
     {
       "number": 4,
       "direction": "across",
-      "row": 3,
+      "row": 5,
       "col": 3,
       "length": 4,
-      "clue": "Ateş aleti",
-      "answer": "MAŞA"
+      "clue": "Buyruk, komut",
+      "answer": "EMİR"
     },
     {
       "number": 5,
       "direction": "down",
-      "row": 4,
+      "row": 7,
       "col": 1,
-      "length": 5,
-      "clue": "Amaç, arzu",
-      "answer": "MERAM"
+      "length": 4,
+      "clue": "Vatan",
+      "answer": "YURT"
     },
     {
       "number": 6,
       "direction": "across",
-      "row": 4,
-      "col": 6,
-      "length": 5,
-      "clue": "İnce, kibar",
-      "answer": "NAZİK"
+      "row": 7,
+      "col": 5,
+      "length": 4,
+      "clue": "Yeşil alan",
+      "answer": "PARK"
     },
     {
       "number": 7,
       "direction": "across",
-      "row": 5,
-      "col": 0,
-      "length": 5,
-      "clue": "Etraf, çepeçevre",
-      "answer": "ÇEVRE"
-    },
-    {
-      "number": 8,
-      "direction": "across",
-      "row": 7,
+      "row": 8,
       "col": 0,
       "length": 4,
-      "clue": "Ses, seda",
-      "answer": "SADA"
-    },
-    {
-      "number": 9,
-      "direction": "down",
-      "row": 7,
-      "col": 3,
-      "length": 4,
-      "clue": "Ateşin parlak kısmı",
-      "answer": "ALEV"
-    },
-    {
-      "number": 10,
-      "direction": "across",
-      "row": 9,
-      "col": 2,
-      "length": 5,
-      "clue": "Küçük deniz taşıtı",
-      "answer": "TEKNE"
+      "clue": "Ödül bardağı",
+      "answer": "KUPA"
     }
   ]
 }

@@ -1,25 +1,18 @@
 {
   "id": 63,
   "title": "Bölüm 63",
-  "difficulty": "Zor",
-  "grid_size_r": 12,
-  "grid_size_c": 8,
+  "difficulty": "Kolay",
+  "grid_size_r": 9,
+  "grid_size_c": 11,
   "grid": [
     [
       0,
-      1,
-      1,
-      1,
+      0,
       1,
       0,
       0,
-      0
-    ],
-    [
       0,
       0,
-      0,
-      1,
       0,
       0,
       0,
@@ -28,6 +21,22 @@
     [
       0,
       0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
       0,
       1,
       0,
@@ -38,6 +47,22 @@
     [
       0,
       0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
       0,
       1,
       1,
@@ -48,28 +73,24 @@
     [
       0,
       0,
+      1,
+      1,
+      1,
+      1,
+      1,
       0,
       0,
-      0,
-      0,
-      0,
-      1
+      1,
+      0
     ],
     [
       0,
       0,
       1,
-      1,
-      1,
-      1,
-      1,
-      1
-    ],
-    [
       0,
-      1,
       0,
-      1,
+      0,
+      0,
       0,
       0,
       1,
@@ -81,13 +102,6 @@
       1,
       1,
       0,
-      1,
-      1,
-      1
-    ],
-    [
-      0,
-      1,
       0,
       0,
       0,
@@ -97,27 +111,10 @@
     ],
     [
       0,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
       0,
       1,
       0,
       0,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      1,
       0,
       0,
       0,
@@ -129,93 +126,84 @@
   "words": [
     {
       "number": 1,
-      "direction": "across",
+      "direction": "down",
       "row": 0,
-      "col": 1,
+      "col": 2,
       "length": 4,
-      "clue": "Yapılması gereken iş",
-      "answer": "ÖDEV"
+      "clue": "Katlanır bıçak",
+      "answer": "ÇAKI"
     },
     {
       "number": 2,
       "direction": "down",
-      "row": 0,
-      "col": 3,
-      "length": 4,
-      "clue": "Yük hayvanı",
-      "answer": "EŞEK"
+      "row": 1,
+      "col": 4,
+      "length": 5,
+      "clue": "Yurt, memleket",
+      "answer": "VATAN"
     },
     {
       "number": 3,
       "direction": "across",
-      "row": 3,
-      "col": 3,
+      "row": 2,
+      "col": 0,
       "length": 5,
-      "clue": "Söz, laf",
-      "answer": "KELAM"
+      "clue": "En küçük işaret",
+      "answer": "NOKTA"
     },
     {
       "number": 4,
       "direction": "down",
-      "row": 3,
-      "col": 7,
-      "length": 3,
-      "clue": "Eflatun renk",
-      "answer": "MOR"
+      "row": 2,
+      "col": 6,
+      "length": 4,
+      "clue": "Anlama yeteneği",
+      "answer": "ZEKA"
     },
     {
       "number": 5,
-      "direction": "across",
-      "row": 5,
-      "col": 2,
-      "length": 6,
-      "clue": "Beğenme, övme",
-      "answer": "TAKDİR"
+      "direction": "down",
+      "row": 3,
+      "col": 9,
+      "length": 5,
+      "clue": "Bilme isteği",
+      "answer": "MERAK"
     },
     {
       "number": 6,
-      "direction": "down",
+      "direction": "across",
+      "row": 4,
+      "col": 6,
+      "length": 5,
+      "clue": "Yazı aleti",
+      "answer": "KALEM"
+    },
+    {
+      "number": 7,
+      "direction": "across",
       "row": 5,
-      "col": 3,
-      "length": 3,
-      "clue": "Koruyucu ilaç",
-      "answer": "AŞI"
+      "col": 2,
+      "length": 5,
+      "clue": "Yaşadığımız gezegen",
+      "answer": "DÜNYA"
     },
     {
       "number": 7,
       "direction": "down",
       "row": 5,
-      "col": 6,
+      "col": 2,
       "length": 4,
-      "clue": "İnanç",
-      "answer": "İMAN"
+      "clue": "Hörgüçlü hayvan",
+      "answer": "DEVE"
     },
     {
       "number": 8,
-      "direction": "down",
-      "row": 6,
-      "col": 1,
-      "length": 6,
-      "clue": "İçecek kabı",
-      "answer": "BARDAK"
-    },
-    {
-      "number": 9,
       "direction": "across",
       "row": 7,
       "col": 0,
       "length": 4,
-      "clue": "Bodur ağaç",
-      "answer": "ÇALI"
-    },
-    {
-      "number": 10,
-      "direction": "across",
-      "row": 7,
-      "col": 5,
-      "length": 3,
-      "clue": "Hava gibi madde",
-      "answer": "GAZ"
+      "clue": "Solunan gaz",
+      "answer": "HAVA"
     }
   ]
 }

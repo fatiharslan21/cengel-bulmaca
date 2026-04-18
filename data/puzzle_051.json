@@ -1,11 +1,12 @@
 {
   "id": 51,
   "title": "Bölüm 51",
-  "difficulty": "Zor",
-  "grid_size_r": 10,
-  "grid_size_c": 8,
+  "difficulty": "Kolay",
+  "grid_size_r": 9,
+  "grid_size_c": 9,
   "grid": [
     [
+      0,
       0,
       0,
       0,
@@ -17,9 +18,43 @@
     ],
     [
       0,
+      0,
+      0,
+      0,
+      0,
+      0,
       1,
+      1,
+      1
+    ],
+    [
       0,
       0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
       0,
       1,
       1,
@@ -29,65 +64,17 @@
       1,
       1,
       1,
-      1,
-      1,
-      0,
-      1,
-      0
-    ],
-    [
       0,
       1,
       0,
       1,
       0,
-      0,
-      1,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      1,
-      0,
-      0,
-      1,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      1,
-      1,
-      1,
-      1,
       0
     ],
     [
       0,
       0,
       1,
-      0,
-      1,
-      0,
-      0,
-      0
-    ],
-    [
-      1,
-      1,
-      1,
-      0,
-      1,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
       1,
       1,
       1,
@@ -100,6 +87,18 @@
       0,
       1,
       0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
       1,
       0,
       0,
@@ -111,91 +110,82 @@
       "number": 1,
       "direction": "down",
       "row": 0,
-      "col": 6,
-      "length": 6,
-      "clue": "Okyanus memelisi",
-      "answer": "BALİNA"
+      "col": 7,
+      "length": 5,
+      "clue": "Evin yeşil alanı",
+      "answer": "BAHÇE"
     },
     {
       "number": 2,
-      "direction": "down",
+      "direction": "across",
       "row": 1,
-      "col": 1,
+      "col": 6,
       "length": 3,
-      "clue": "Sert kayaç parçası",
-      "answer": "TAŞ"
+      "clue": "Kırmızı taneli meyve",
+      "answer": "NAR"
     },
     {
       "number": 3,
-      "direction": "across",
-      "row": 1,
-      "col": 5,
-      "length": 3,
-      "clue": "Ses çıkaran metal",
-      "answer": "ÇAN"
+      "direction": "down",
+      "row": 4,
+      "col": 4,
+      "length": 5,
+      "clue": "İple oynatılan",
+      "answer": "KUKLA"
     },
     {
       "number": 4,
       "direction": "across",
-      "row": 2,
-      "col": 0,
-      "length": 5,
-      "clue": "Deniz kıyısı",
-      "answer": "SAHİL"
+      "row": 4,
+      "col": 6,
+      "length": 3,
+      "clue": "Yaklaşma eylemi",
+      "answer": "GEL"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 4,
+      "col": 6,
+      "length": 3,
+      "clue": "24 saatlik süre",
+      "answer": "GÜN"
     },
     {
       "number": 5,
-      "direction": "down",
-      "row": 2,
-      "col": 3,
-      "length": 4,
-      "clue": "İnanç",
-      "answer": "İMAN"
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "length": 3,
+      "clue": "Ömür süresi",
+      "answer": "YAŞ"
     },
     {
       "number": 6,
-      "direction": "across",
+      "direction": "down",
       "row": 5,
-      "col": 3,
-      "length": 4,
-      "clue": "Seslenme",
-      "answer": "NİDA"
+      "col": 2,
+      "length": 3,
+      "clue": "Lider, baş aşçı",
+      "answer": "ŞEF"
     },
     {
       "number": 7,
-      "direction": "down",
-      "row": 5,
-      "col": 4,
+      "direction": "across",
+      "row": 6,
+      "col": 2,
       "length": 5,
-      "clue": "Talih, yükselme",
-      "answer": "İKBAL"
+      "clue": "Vaktinden önce",
+      "answer": "ERKEN"
     },
     {
       "number": 8,
-      "direction": "down",
-      "row": 6,
-      "col": 2,
-      "length": 4,
-      "clue": "Geniş düzlük",
-      "answer": "ALAN"
-    },
-    {
-      "number": 9,
-      "direction": "across",
-      "row": 7,
-      "col": 0,
-      "length": 3,
-      "clue": "Dikenli güzel çiçek",
-      "answer": "GÜL"
-    },
-    {
-      "number": 10,
       "direction": "across",
       "row": 8,
-      "col": 2,
-      "length": 4,
-      "clue": "Gövdeli bitki",
-      "answer": "AĞAÇ"
+      "col": 3,
+      "length": 3,
+      "clue": "Ün, şöhret",
+      "answer": "ŞAN"
     }
   ]
 }

@@ -1,118 +1,81 @@
 {
   "id": 93,
   "title": "Bölüm 93",
-  "difficulty": "Çok Zor",
-  "grid_size_r": 11,
-  "grid_size_c": 11,
+  "difficulty": "Kolay",
+  "grid_size_r": 10,
+  "grid_size_c": 8,
   "grid": [
     [
       0,
-      0,
-      0,
-      0,
-      0,
-      0,
       1,
       1,
       1,
-      1,
-      0
-    ],
-    [
       0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      1,
       0,
       0,
       0
     ],
     [
       0,
+      1,
       0,
       0,
       0,
       0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
       1,
       0,
       1,
       0,
+      0
+    ],
+    [
+      0,
       1,
+      0,
+      1,
+      1,
+      1,
+      0,
       0
     ],
     [
       0,
       0,
       0,
+      1,
       0,
       1,
+      0,
+      0
+    ],
+    [
       1,
       1,
       1,
+      1,
+      0,
       1,
       1,
       1
     ],
     [
-      0,
-      0,
-      0,
-      1,
-      0,
-      1,
-      0,
-      1,
-      0,
-      1,
-      0
-    ],
-    [
-      0,
-      0,
-      1,
-      1,
-      1,
-      1,
-      1,
-      0,
-      0,
-      1,
-      0
-    ],
-    [
-      0,
-      1,
-      0,
-      1,
-      0,
       1,
       0,
       0,
       0,
+      0,
+      1,
       0,
       0
     ],
     [
-      0,
-      1,
-      1,
-      1,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      1,
-      0,
       1,
       0,
       0,
@@ -123,10 +86,7 @@
       0
     ],
     [
-      0,
       1,
-      0,
-      0,
       0,
       0,
       0,
@@ -137,11 +97,8 @@
     ],
     [
       1,
-      1,
-      1,
-      1,
-      1,
-      1,
+      0,
+      0,
       0,
       0,
       0,
@@ -152,93 +109,84 @@
   "words": [
     {
       "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "length": 4,
+      "clue": "Ateşin parlak kısmı",
+      "answer": "ALEV"
+    },
+    {
+      "number": 1,
       "direction": "across",
       "row": 0,
-      "col": 6,
-      "length": 4,
-      "clue": "Düzen, oyun",
-      "answer": "HİLE"
+      "col": 1,
+      "length": 3,
+      "clue": "Hatıra, geçmiş olay",
+      "answer": "ANI"
     },
     {
       "number": 2,
-      "direction": "down",
-      "row": 0,
-      "col": 7,
-      "length": 5,
-      "clue": "Esin, sezgi",
-      "answer": "İLHAM"
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "length": 4,
+      "clue": "Sıkıntı, üzüntü",
+      "answer": "DERT"
     },
     {
       "number": 3,
       "direction": "down",
       "row": 2,
-      "col": 5,
-      "length": 5,
-      "clue": "Bilme isteği",
-      "answer": "MERAK"
+      "col": 3,
+      "length": 4,
+      "clue": "Bayat olmayan",
+      "answer": "TAZE"
     },
     {
       "number": 4,
       "direction": "down",
       "row": 2,
-      "col": 9,
-      "length": 4,
-      "clue": "Çaba, gayret",
-      "answer": "CEHD"
+      "col": 5,
+      "length": 5,
+      "clue": "Gölge ağacı",
+      "answer": "ÇINAR"
     },
     {
       "number": 5,
       "direction": "across",
       "row": 3,
-      "col": 4,
-      "length": 7,
-      "clue": "Gevşeklik",
-      "answer": "REHAVET"
+      "col": 3,
+      "length": 3,
+      "clue": "Koruyucu ilaç",
+      "answer": "AŞI"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "length": 4,
+      "clue": "Yassı ekmek",
+      "answer": "PİDE"
     },
     {
       "number": 6,
       "direction": "down",
-      "row": 4,
-      "col": 3,
+      "row": 5,
+      "col": 0,
       "length": 5,
-      "clue": "Sayısal işlem",
-      "answer": "HESAP"
+      "clue": "Mektup servisi",
+      "answer": "POSTA"
     },
     {
       "number": 7,
       "direction": "across",
       "row": 5,
-      "col": 2,
-      "length": 5,
-      "clue": "Yer, mahal",
-      "answer": "MEKAN"
-    },
-    {
-      "number": 8,
-      "direction": "down",
-      "row": 6,
-      "col": 1,
-      "length": 5,
-      "clue": "Nefesli çalgı",
-      "answer": "ZURNA"
-    },
-    {
-      "number": 9,
-      "direction": "across",
-      "row": 7,
-      "col": 1,
-      "length": 4,
-      "clue": "Havada uçan taşıt",
-      "answer": "UÇAK"
-    },
-    {
-      "number": 10,
-      "direction": "across",
-      "row": 10,
-      "col": 0,
-      "length": 6,
-      "clue": "Yetinme, razı olma",
-      "answer": "KANAAT"
+      "col": 5,
+      "length": 3,
+      "clue": "Dört tarafı suyla çevrili kara",
+      "answer": "ADA"
     }
   ]
 }

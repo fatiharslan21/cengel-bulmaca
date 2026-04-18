@@ -41,26 +41,46 @@
     <div class="hero-line"></div>
 </section>
 
+<a class="daily-card" id="daily-card" href="#">
+    <div class="daily-left">
+        <div class="daily-badge">✨ GÜNÜN BULMACASI</div>
+        <div class="daily-date" id="daily-date"></div>
+        <div class="daily-meta">
+            <span class="daily-diff" id="daily-diff">—</span>
+            <span class="daily-sep">·</span>
+            <span class="daily-status" id="daily-status">Henüz çözülmedi</span>
+        </div>
+    </div>
+    <div class="daily-right">
+        <div class="daily-streak" id="daily-streak" style="display:none">
+            <span class="ds-icon">🔥</span>
+            <span class="ds-num" id="ds-num">0</span>
+            <span class="ds-lbl">gün seri</span>
+        </div>
+        <div class="daily-play">Oyna →</div>
+    </div>
+</a>
+
 <nav class="tabs tabs-new">
     <button class="tab on diff-kolay-tab" data-d="Kolay">
         <span class="tab-emoji">🌱</span>
         <span class="tab-label">Kolay</span>
-        <span class="tab-stat" id="stat-Kolay">0/25</span>
+        <span class="tab-stat" id="stat-Kolay">0/125</span>
     </button>
     <button class="tab diff-orta-tab" data-d="Orta">
         <span class="tab-emoji">🔥</span>
         <span class="tab-label">Orta</span>
-        <span class="tab-stat" id="stat-Orta">0/25</span>
+        <span class="tab-stat" id="stat-Orta">0/125</span>
     </button>
     <button class="tab diff-zor-tab" data-d="Zor">
         <span class="tab-emoji">⚡</span>
         <span class="tab-label">Zor</span>
-        <span class="tab-stat" id="stat-Zor">0/25</span>
+        <span class="tab-stat" id="stat-Zor">0/125</span>
     </button>
     <button class="tab diff-cok-zor-tab" data-d="Çok Zor">
         <span class="tab-emoji">💎</span>
         <span class="tab-label">Çok Zor</span>
-        <span class="tab-stat" id="stat-Çok Zor">0/25</span>
+        <span class="tab-stat" id="stat-Çok Zor">0/125</span>
     </button>
 </nav>
 <div class="difficulty-banner" id="diff-banner">
@@ -72,7 +92,7 @@
         </div>
         <div class="db-stat">
             <span class="db-stat-num" id="db-stat-num">0</span>
-            <span class="db-stat-lbl">/25</span>
+            <span class="db-stat-lbl">/125</span>
         </div>
     </div>
 </div>
@@ -131,9 +151,9 @@ difficulties.forEach((diff, index) => {
     const grid = document.createElement('div');
     grid.className = 'grid-list';
 
-    // Her zorluk için 25 bölüm (Toplam 100)
-    const start = index * 25 + 1;
-    const end = (index + 1) * 25;
+    // Her zorluk için 125 bölüm (Toplam 500)
+    const start = index * 125 + 1;
+    const end = (index + 1) * 125;
 
     for (let i = start; i <= end; i++) {
         // LİNK DÜZELTİLDİ: /bulmaca/1 yerine play.html?id=1
@@ -197,8 +217,8 @@ try{
         const strip = document.getElementById('progress-strip');
         const text = document.getElementById('global-progress-text');
         const fill = document.getElementById('ps-fill');
-        const pct = (completedCount / 100) * 100;
-        text.innerHTML = `<b>${completedCount}</b>/100 tamamlandı · <span style="color:var(--green)">%${pct|0}</span>`;
+        const pct = (completedCount / 500) * 100;
+        text.innerHTML = `<b>${completedCount}</b>/500 tamamlandı · <span style="color:var(--green)">%${pct|0}</span>`;
         fill.style.width = pct + '%';
         strip.style.display = 'block';
     }
@@ -253,14 +273,14 @@ function updateDiffStats() {
         const counts = { 'Kolay': 0, 'Orta': 0, 'Zor': 0, 'Çok Zor': 0 };
         Object.keys(s).forEach(id => {
             const idx = parseInt(id);
-            if(idx <= 25) counts['Kolay']++;
-            else if(idx <= 50) counts['Orta']++;
-            else if(idx <= 75) counts['Zor']++;
-            else counts['Çok Zor']++;
+            if(idx <= 125) counts['Kolay']++;
+            else if(idx <= 250) counts['Orta']++;
+            else if(idx <= 375) counts['Zor']++;
+            else if(idx <= 500) counts['Çok Zor']++;
         });
         Object.entries(counts).forEach(([d, c]) => {
             const el = document.getElementById('stat-' + d);
-            if(el) el.textContent = `${c}/25`;
+            if(el) el.textContent = `${c}/125`;
             if(c > 0) document.querySelector(`.tab[data-d="${d}"]`)?.classList.add('has-progress');
         });
         const active = document.querySelector('.tab.on')?.dataset.d || 'Kolay';
@@ -270,6 +290,56 @@ function updateDiffStats() {
 
 updateBanner('Kolay');
 updateDiffStats();
+
+// ─── GÜNÜN BULMACASI ───
+(function(){
+    const TR_MONTHS = ['Ocak','Şubat','Mart','Nisan','Mayıs','Haziran','Temmuz','Ağustos','Eylül','Ekim','Kasım','Aralık'];
+    const now = new Date();
+    const dateKey = `${now.getFullYear()}-${String(now.getMonth()+1).padStart(2,'0')}-${String(now.getDate()).padStart(2,'0')}`;
+
+    // Günden deterministik bulmaca seç (tüm zorluklardan döngü)
+    const epoch = new Date(2026, 0, 1);
+    const daysSince = Math.floor((now - epoch) / 86400000);
+    const puzzleId = ((daysSince * 37 + 13) % 500) + 1;
+
+    // Zorluk grubunu belirle
+    let diff = 'Kolay';
+    if(puzzleId > 375) diff = 'Çok Zor';
+    else if(puzzleId > 250) diff = 'Zor';
+    else if(puzzleId > 125) diff = 'Orta';
+    const emoji = {'Kolay':'🌱','Orta':'🔥','Zor':'⚡','Çok Zor':'💎'}[diff];
+
+    document.getElementById('daily-date').textContent =
+        `${now.getDate()} ${TR_MONTHS[now.getMonth()]} ${now.getFullYear()}`;
+    document.getElementById('daily-diff').textContent = `${emoji} ${diff}`;
+
+    // Çözüldü mü?
+    const daily = JSON.parse(localStorage.getItem('cb_daily') || '{}');
+    const card = document.getElementById('daily-card');
+    const status = document.getElementById('daily-status');
+
+    if(daily[dateKey]) {
+        status.textContent = `✓ ${daily[dateKey].s} puan`;
+        card.classList.add('done');
+    }
+
+    card.href = `play.html?id=${puzzleId}&daily=${dateKey}`;
+
+    // Seri hesapla
+    const dates = Object.keys(daily).sort().reverse();
+    let streak = 0;
+    const today = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+    for(let i = 0; i < dates.length; i++) {
+        const d = new Date(dates[i]);
+        const diffDays = Math.floor((today - d) / 86400000);
+        if(diffDays === i) streak++;
+        else break;
+    }
+    if(streak > 0) {
+        document.getElementById('daily-streak').style.display = 'flex';
+        document.getElementById('ds-num').textContent = streak;
+    }
+})();
 </script>
 </body>
 </html>

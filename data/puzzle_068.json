@@ -1,9 +1,9 @@
 {
   "id": 68,
   "title": "Bölüm 68",
-  "difficulty": "Zor",
-  "grid_size_r": 10,
-  "grid_size_c": 11,
+  "difficulty": "Kolay",
+  "grid_size_r": 5,
+  "grid_size_c": 10,
   "grid": [
     [
       0,
@@ -11,126 +11,56 @@
       0,
       0,
       0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      1,
+      1,
       1,
       0,
-      0,
+      1,
+      1,
       1,
       0,
+      1,
       0
     ],
     [
       0,
       0,
       1,
-      0,
-      0,
-      1,
-      1,
-      1,
-      1,
-      1,
-      0
-    ],
-    [
-      0,
-      1,
-      1,
-      1,
       1,
       1,
       0,
-      0,
       1,
-      0,
-      0
-    ],
-    [
-      1,
-      0,
-      1,
-      0,
-      0,
-      1,
-      0,
-      0,
       1,
       1,
       1
     ],
     [
-      1,
-      1,
-      1,
-      1,
-      0,
-      1,
       0,
       0,
-      0,
-      0,
-      0
-    ],
-    [
       1,
       0,
       1,
       0,
       1,
-      1,
-      1,
-      1,
-      1,
       0,
+      1,
       0
     ],
     [
       0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
+      1,
+      1,
       1,
       0,
       0,
-      0
-    ],
-    [
       0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      1,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      1,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      1,
       0,
       0,
       0
@@ -141,91 +71,82 @@
       "number": 1,
       "direction": "down",
       "row": 0,
-      "col": 5,
-      "length": 6,
-      "clue": "Anlatılan olay",
-      "answer": "HİKAYE"
+      "col": 8,
+      "length": 4,
+      "clue": "Çiçek süs kabı",
+      "answer": "VAZO"
     },
     {
       "number": 2,
-      "direction": "down",
-      "row": 0,
-      "col": 8,
-      "length": 4,
-      "clue": "Zaman ölçer",
-      "answer": "SAAT"
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "length": 3,
+      "clue": "Evin çatısı",
+      "answer": "DAM"
     },
     {
       "number": 3,
       "direction": "down",
       "row": 1,
       "col": 2,
-      "length": 5,
-      "clue": "Temizlik maddesi",
-      "answer": "SABUN"
+      "length": 4,
+      "clue": "Kısa dinlenme",
+      "answer": "MOLA"
     },
     {
       "number": 4,
       "direction": "across",
       "row": 1,
-      "col": 5,
-      "length": 5,
-      "clue": "Talih, yükselme",
-      "answer": "İKBAL"
+      "col": 4,
+      "length": 3,
+      "clue": "Rüya, hayal",
+      "answer": "DÜŞ"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 1,
+      "col": 4,
+      "length": 3,
+      "clue": "Ağacın kolu",
+      "answer": "DAL"
     },
     {
       "number": 5,
-      "direction": "across",
-      "row": 2,
-      "col": 1,
-      "length": 5,
-      "clue": "Yemek aracı",
-      "answer": "KAŞIK"
+      "direction": "down",
+      "row": 1,
+      "col": 6,
+      "length": 3,
+      "clue": "Ün, şöhret",
+      "answer": "ŞAN"
     },
     {
       "number": 6,
-      "direction": "down",
-      "row": 3,
-      "col": 0,
+      "direction": "across",
+      "row": 2,
+      "col": 2,
       "length": 3,
-      "clue": "Uzunluk, endam",
-      "answer": "BOY"
+      "clue": "Ev bölümü",
+      "answer": "ODA"
     },
     {
       "number": 7,
       "direction": "across",
-      "row": 3,
-      "col": 8,
-      "length": 3,
-      "clue": "Bin kilogram",
-      "answer": "TON"
+      "row": 2,
+      "col": 6,
+      "length": 4,
+      "clue": "İstek, dilek",
+      "answer": "ARZU"
     },
     {
       "number": 8,
       "direction": "across",
       "row": 4,
-      "col": 0,
-      "length": 4,
-      "clue": "Eğitim kurumu",
-      "answer": "OKUL"
-    },
-    {
-      "number": 9,
-      "direction": "across",
-      "row": 5,
-      "col": 4,
-      "length": 5,
-      "clue": "Yer, konum",
-      "answer": "MEVKİ"
-    },
-    {
-      "number": 10,
-      "direction": "down",
-      "row": 5,
-      "col": 7,
-      "length": 5,
-      "clue": "Sayfalardan eser",
-      "answer": "KİTAP"
+      "col": 1,
+      "length": 3,
+      "clue": "Bina bölümü",
+      "answer": "KAT"
     }
   ]
 }

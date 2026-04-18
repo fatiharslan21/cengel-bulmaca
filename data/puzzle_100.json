@@ -1,111 +1,18 @@
 {
   "id": 100,
   "title": "Bölüm 100",
-  "difficulty": "Çok Zor",
-  "grid_size_r": 10,
-  "grid_size_c": 11,
+  "difficulty": "Kolay",
+  "grid_size_r": 9,
+  "grid_size_c": 9,
   "grid": [
     [
       0,
       0,
       0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      1
-    ],
-    [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      1
-    ],
-    [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      1
-    ],
-    [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
       1,
       0,
       0,
       0,
-      1
-    ],
-    [
-      0,
-      0,
-      0,
-      0,
-      1,
-      1,
-      1,
-      1,
-      1,
-      0,
-      1
-    ],
-    [
-      0,
-      0,
-      1,
-      0,
-      1,
-      0,
-      1,
-      0,
-      1,
-      0,
-      1
-    ],
-    [
-      0,
-      0,
-      1,
-      0,
-      1,
-      0,
-      1,
-      0,
-      1,
-      1,
-      1
-    ],
-    [
-      1,
-      1,
-      1,
-      1,
-      1,
-      0,
-      0,
-      0,
-      1,
       0,
       0
     ],
@@ -114,20 +21,82 @@
       0,
       0,
       1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
       0,
       0,
       1,
       1,
       1,
+      0,
+      0,
+      0
+    ],
+    [
       1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
       0
     ],
     [
       0,
       0,
-      0,
       1,
       0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
       0,
       0,
       0,
@@ -141,91 +110,82 @@
       "number": 1,
       "direction": "down",
       "row": 0,
-      "col": 10,
-      "length": 7,
-      "clue": "Üzülme",
-      "answer": "TEESSÜR"
+      "col": 3,
+      "length": 5,
+      "clue": "Suyla ıslanmış",
+      "answer": "ISLAK"
     },
     {
       "number": 2,
-      "direction": "down",
-      "row": 3,
-      "col": 6,
-      "length": 4,
-      "clue": "Geniş düzlük",
-      "answer": "ALAN"
-    },
-    {
-      "number": 3,
-      "direction": "down",
-      "row": 4,
-      "col": 4,
-      "length": 4,
-      "clue": "Zaman aralığı",
-      "answer": "SÜRE"
+      "direction": "across",
+      "row": 1,
+      "col": 3,
+      "length": 3,
+      "clue": "Baştaki kıllar",
+      "answer": "SAÇ"
     },
     {
       "number": 3,
       "direction": "across",
-      "row": 4,
-      "col": 4,
-      "length": 5,
-      "clue": "Büyük oda",
-      "answer": "SALON"
+      "row": 2,
+      "col": 1,
+      "length": 3,
+      "clue": "Omuz örtüsü",
+      "answer": "ŞAL"
     },
     {
       "number": 4,
       "direction": "down",
-      "row": 4,
-      "col": 8,
-      "length": 5,
-      "clue": "İnce, kibar",
-      "answer": "NAZİK"
+      "row": 3,
+      "col": 0,
+      "length": 3,
+      "clue": "Bahçe engeli",
+      "answer": "ÇİT"
     },
     {
       "number": 5,
-      "direction": "down",
-      "row": 5,
-      "col": 2,
+      "direction": "across",
+      "row": 3,
+      "col": 3,
       "length": 3,
-      "clue": "Kurak kumluk arazi",
-      "answer": "ÇÖL"
+      "clue": "Dört tarafı suyla çevrili kara",
+      "answer": "ADA"
     },
     {
       "number": 6,
-      "direction": "across",
-      "row": 6,
-      "col": 8,
+      "direction": "down",
+      "row": 3,
+      "col": 5,
       "length": 3,
-      "clue": "Oyun küpü",
-      "answer": "ZAR"
+      "clue": "İki şey arası boşluk",
+      "answer": "ARA"
     },
     {
       "number": 7,
       "direction": "across",
-      "row": 7,
+      "row": 4,
       "col": 0,
-      "length": 5,
-      "clue": "Işık arkası",
-      "answer": "GÖLGE"
+      "length": 4,
+      "clue": "Böcekten kumaş",
+      "answer": "İPEK"
     },
     {
       "number": 8,
       "direction": "down",
-      "row": 7,
-      "col": 3,
-      "length": 3,
-      "clue": "Hava gibi madde",
-      "answer": "GAZ"
+      "row": 4,
+      "col": 2,
+      "length": 5,
+      "clue": "Temel buğday gıdası",
+      "answer": "EKMEK"
     },
     {
       "number": 9,
       "direction": "across",
-      "row": 8,
-      "col": 6,
+      "row": 5,
+      "col": 5,
       "length": 4,
-      "clue": "Gömlek boyun kısmı",
-      "answer": "YAKA"
+      "clue": "Gövdeli bitki",
+      "answer": "AĞAÇ"
     }
   ]
 }

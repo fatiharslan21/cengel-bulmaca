@@ -1,9 +1,9 @@
 {
   "id": 85,
   "title": "Bölüm 85",
-  "difficulty": "Çok Zor",
+  "difficulty": "Kolay",
   "grid_size_r": 9,
-  "grid_size_c": 12,
+  "grid_size_c": 9,
   "grid": [
     [
       0,
@@ -12,9 +12,61 @@
       0,
       0,
       0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
       0,
       1,
       0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
       0,
       0,
       0
@@ -27,18 +79,12 @@
       1,
       1,
       1,
-      1,
-      1,
-      0,
       0,
       0
     ],
     [
       0,
       0,
-      0,
-      0,
-      1,
       0,
       0,
       1,
@@ -53,79 +99,6 @@
       1,
       1,
       1,
-      0,
-      0,
-      1,
-      0,
-      1,
-      0,
-      1
-    ],
-    [
-      0,
-      0,
-      0,
-      0,
-      1,
-      0,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1
-    ],
-    [
-      0,
-      0,
-      1,
-      1,
-      1,
-      1,
-      0,
-      1,
-      0,
-      1,
-      0,
-      1
-    ],
-    [
-      0,
-      0,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      1,
-      0,
-      1
-    ],
-    [
-      0,
-      0,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      1,
-      0,
-      0
-    ],
-    [
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      0,
-      0,
       0,
       0,
       0,
@@ -137,91 +110,82 @@
       "number": 1,
       "direction": "down",
       "row": 0,
-      "col": 7,
-      "length": 6,
-      "clue": "Güçlük, eziyet",
-      "answer": "ZAHMET"
+      "col": 6,
+      "length": 4,
+      "clue": "Kırmızı meyve",
+      "answer": "ELMA"
     },
     {
       "number": 2,
       "direction": "down",
       "row": 1,
-      "col": 4,
-      "length": 5,
-      "clue": "Bitkinin ürünü",
-      "answer": "MEYVE"
-    },
-    {
-      "number": 2,
-      "direction": "across",
-      "row": 1,
-      "col": 4,
-      "length": 5,
-      "clue": "Başlangıç tarihi",
-      "answer": "MİLAT"
+      "col": 3,
+      "length": 4,
+      "clue": "Ayrım, değişiklik",
+      "answer": "FARK"
     },
     {
       "number": 3,
       "direction": "across",
-      "row": 3,
-      "col": 2,
-      "length": 3,
-      "clue": "Uzunluk, endam",
-      "answer": "BOY"
+      "row": 1,
+      "col": 5,
+      "length": 4,
+      "clue": "Tedavi maddesi",
+      "answer": "İLAÇ"
     },
     {
       "number": 4,
-      "direction": "down",
+      "direction": "across",
       "row": 3,
-      "col": 9,
-      "length": 5,
-      "clue": "Hasım, muhalif",
-      "answer": "RAKİP"
+      "col": 3,
+      "length": 4,
+      "clue": "Uykuda hayal",
+      "answer": "RÜYA"
     },
     {
       "number": 5,
       "direction": "down",
       "row": 3,
-      "col": 11,
+      "col": 5,
       "length": 4,
-      "clue": "Eşya kabı",
-      "answer": "KUTU"
+      "clue": "Kuş evi",
+      "answer": "YUVA"
     },
     {
       "number": 6,
       "direction": "across",
       "row": 4,
-      "col": 6,
-      "length": 6,
-      "clue": "Alçakgönüllülük",
-      "answer": "TEVAZU"
+      "col": 0,
+      "length": 4,
+      "clue": "Bacak ucu",
+      "answer": "AYAK"
     },
     {
       "number": 7,
       "direction": "across",
-      "row": 5,
-      "col": 2,
-      "length": 4,
-      "clue": "Özlenen istek",
-      "answer": "EMEL"
+      "row": 6,
+      "col": 4,
+      "length": 3,
+      "clue": "Evin çatısı",
+      "answer": "DAM"
     },
     {
       "number": 7,
       "direction": "down",
-      "row": 5,
-      "col": 2,
-      "length": 4,
-      "clue": "Keder, acı",
-      "answer": "ELEM"
+      "row": 6,
+      "col": 4,
+      "length": 3,
+      "clue": "Yön değiştir",
+      "answer": "DÖN"
     },
     {
       "number": 8,
       "direction": "across",
       "row": 8,
-      "col": 0,
-      "length": 6,
-      "clue": "Üst giysi",
-      "answer": "GÖMLEK"
+      "col": 2,
+      "length": 3,
+      "clue": "Hayat, yaşam",
+      "answer": "CAN"
     }
   ]
 }

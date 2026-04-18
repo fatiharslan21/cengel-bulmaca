@@ -1,36 +1,38 @@
 {
   "id": 37,
   "title": "Bölüm 37",
-  "difficulty": "Orta",
-  "grid_size_r": 7,
-  "grid_size_c": 12,
+  "difficulty": "Kolay",
+  "grid_size_r": 10,
+  "grid_size_c": 8,
   "grid": [
     [
       0,
       0,
-      0,
-      0,
       1,
       0,
       0,
       0,
       0,
+      0
+    ],
+    [
+      0,
       1,
+      1,
+      1,
+      1,
+      0,
       0,
       0
     ],
     [
       0,
       0,
-      0,
       1,
-      1,
-      1,
-      0,
-      0,
       0,
       1,
       0,
+      1,
       0
     ],
     [
@@ -39,18 +41,11 @@
       0,
       0,
       1,
-      0,
-      0,
-      0,
-      0,
       1,
       1,
       1
     ],
     [
-      0,
-      0,
-      0,
       1,
       1,
       1,
@@ -58,6 +53,45 @@
       1,
       0,
       1,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
       0,
       0
     ],
@@ -65,40 +99,8 @@
       0,
       0,
       0,
-      1,
       0,
       1,
-      0,
-      0,
-      0,
-      1,
-      1,
-      1
-    ],
-    [
-      0,
-      0,
-      0,
-      1,
-      0,
-      1,
-      1,
-      1,
-      1,
-      1,
-      0,
-      0
-    ],
-    [
-      1,
-      1,
-      1,
-      1,
-      1,
-      0,
-      0,
-      0,
-      0,
       0,
       0,
       0
@@ -109,91 +111,82 @@
       "number": 1,
       "direction": "down",
       "row": 0,
-      "col": 4,
-      "length": 4,
-      "clue": "Otlak alan",
-      "answer": "MERA"
+      "col": 2,
+      "length": 3,
+      "clue": "Rüzgar, esinti",
+      "answer": "YEL"
     },
     {
       "number": 2,
-      "direction": "down",
-      "row": 0,
-      "col": 9,
-      "length": 6,
-      "clue": "Anlatılan olay",
-      "answer": "HİKAYE"
+      "direction": "across",
+      "row": 1,
+      "col": 1,
+      "length": 4,
+      "clue": "Karanlık zaman",
+      "answer": "GECE"
     },
     {
       "number": 3,
-      "direction": "across",
+      "direction": "down",
       "row": 1,
-      "col": 3,
-      "length": 3,
-      "clue": "İşitilen titreşim",
-      "answer": "SES"
+      "col": 4,
+      "length": 5,
+      "clue": "Temel buğday gıdası",
+      "answer": "EKMEK"
     },
     {
       "number": 4,
-      "direction": "across",
-      "row": 2,
-      "col": 9,
-      "length": 3,
-      "clue": "Damar sıvısı",
-      "answer": "KAN"
-    },
-    {
-      "number": 5,
-      "direction": "across",
-      "row": 3,
-      "col": 3,
-      "length": 5,
-      "clue": "Günün başı",
-      "answer": "SABAH"
-    },
-    {
-      "number": 5,
       "direction": "down",
+      "row": 2,
+      "col": 6,
+      "length": 3,
+      "clue": "Benekli, alacalı",
+      "answer": "ALA"
+    },
+    {
+      "number": 5,
+      "direction": "across",
       "row": 3,
-      "col": 3,
+      "col": 4,
       "length": 4,
-      "clue": "Zaman aralığı",
-      "answer": "SÜRE"
+      "clue": "Kısa dinlenme",
+      "answer": "MOLA"
     },
     {
       "number": 6,
-      "direction": "down",
-      "row": 3,
-      "col": 5,
-      "length": 3,
-      "clue": "Dokuma kumaş parçası",
-      "answer": "BEZ"
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "length": 5,
+      "clue": "Evin yeşil alanı",
+      "answer": "BAHÇE"
     },
     {
       "number": 7,
-      "direction": "across",
+      "direction": "down",
       "row": 4,
-      "col": 9,
-      "length": 3,
-      "clue": "Mekan, konum",
-      "answer": "YER"
+      "col": 1,
+      "length": 5,
+      "clue": "Dört tekerlekli taşıt",
+      "answer": "ARABA"
     },
     {
       "number": 8,
-      "direction": "across",
-      "row": 5,
-      "col": 5,
-      "length": 5,
-      "clue": "En yüksek nokta",
-      "answer": "ZİRVE"
+      "direction": "down",
+      "row": 7,
+      "col": 4,
+      "length": 3,
+      "clue": "Çizgi, yol",
+      "answer": "HAT"
     },
     {
       "number": 9,
       "direction": "across",
-      "row": 6,
+      "row": 8,
       "col": 0,
       "length": 5,
-      "clue": "Soluk alma verme",
-      "answer": "NEFES"
+      "clue": "Ekin alanı",
+      "answer": "TARLA"
     }
   ]
 }

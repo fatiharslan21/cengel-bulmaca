@@ -1,31 +1,11 @@
 {
   "id": 62,
   "title": "Bölüm 62",
-  "difficulty": "Zor",
-  "grid_size_r": 6,
-  "grid_size_c": 12,
+  "difficulty": "Kolay",
+  "grid_size_r": 10,
+  "grid_size_c": 6,
   "grid": [
     [
-      1,
-      0,
-      1,
-      1,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      1,
-      0,
-      1,
-      0,
-      0,
-      0,
       0,
       1,
       1,
@@ -34,45 +14,19 @@
       1
     ],
     [
-      1,
+      0,
       0,
       1,
-      0,
-      1,
-      1,
-      1,
-      1,
-      0,
       0,
       0,
       0
     ],
     [
-      1,
-      1,
-      1,
-      0,
-      1,
       0,
       0,
       1,
       0,
       0,
-      0,
-      0
-    ],
-    [
-      1,
-      0,
-      1,
-      0,
-      1,
-      0,
-      1,
-      1,
-      1,
-      1,
-      1,
       0
     ],
     [
@@ -81,105 +35,138 @@
       1,
       1,
       1,
+      1
+    ],
+    [
+      0,
       1,
       0,
       0,
       0,
-      0,
-      0,
       0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      1
     ]
   ],
   "words": [
     {
       "number": 1,
-      "direction": "down",
-      "row": 0,
-      "col": 0,
-      "length": 5,
-      "clue": "Seslerle sanat",
-      "answer": "MÜZİK"
-    },
-    {
-      "number": 2,
-      "direction": "down",
-      "row": 0,
-      "col": 2,
-      "length": 6,
-      "clue": "Okyanus memelisi",
-      "answer": "BALİNA"
-    },
-    {
-      "number": 2,
       "direction": "across",
       "row": 0,
+      "col": 1,
+      "length": 5,
+      "clue": "Sayfalardan eser",
+      "answer": "KİTAP"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 0,
       "col": 2,
+      "length": 4,
+      "clue": "Sivri dikiş aracı",
+      "answer": "İĞNE"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 3,
+      "col": 1,
+      "length": 5,
+      "clue": "Yaşadığımız gezegen",
+      "answer": "DÜNYA"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 3,
+      "col": 1,
+      "length": 5,
+      "clue": "Tuzlu büyük su",
+      "answer": "DENİZ"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 5,
+      "col": 1,
       "length": 3,
-      "clue": "İlk doğal sayı",
-      "answer": "BİR"
-    },
-    {
-      "number": 3,
-      "direction": "down",
-      "row": 1,
-      "col": 7,
-      "length": 4,
-      "clue": "Savunma yapısı",
-      "answer": "KALE"
-    },
-    {
-      "number": 3,
-      "direction": "across",
-      "row": 1,
-      "col": 7,
-      "length": 5,
-      "clue": "Yazı aleti",
-      "answer": "KALEM"
-    },
-    {
-      "number": 4,
-      "direction": "down",
-      "row": 2,
-      "col": 4,
-      "length": 4,
-      "clue": "Geçmiş zaman",
-      "answer": "MAZİ"
-    },
-    {
-      "number": 4,
-      "direction": "across",
-      "row": 2,
-      "col": 4,
-      "length": 4,
-      "clue": "Yemek mobilyası",
-      "answer": "MASA"
+      "clue": "Kırmızı taneli meyve",
+      "answer": "NAR"
     },
     {
       "number": 5,
-      "direction": "across",
-      "row": 3,
-      "col": 0,
-      "length": 3,
-      "clue": "Kötünün zıttı",
-      "answer": "İYİ"
+      "direction": "down",
+      "row": 5,
+      "col": 5,
+      "length": 5,
+      "clue": "Ölçü, ebat",
+      "answer": "BOYUT"
     },
     {
       "number": 6,
       "direction": "across",
-      "row": 4,
-      "col": 6,
-      "length": 5,
-      "clue": "Esas, kök",
-      "answer": "TEMEL"
+      "row": 7,
+      "col": 0,
+      "length": 3,
+      "clue": "Çizgi, yol",
+      "answer": "HAT"
     },
     {
       "number": 7,
+      "direction": "down",
+      "row": 7,
+      "col": 2,
+      "length": 3,
+      "clue": "Damaktaki lezzet",
+      "answer": "TAT"
+    },
+    {
+      "number": 8,
       "direction": "across",
-      "row": 5,
-      "col": 1,
-      "length": 5,
-      "clue": "Şans, baht",
-      "answer": "TALİH"
+      "row": 8,
+      "col": 2,
+      "length": 4,
+      "clue": "İstek, dilek",
+      "answer": "ARZU"
     }
   ]
 }

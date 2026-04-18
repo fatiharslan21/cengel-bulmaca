@@ -1,27 +1,25 @@
 {
   "id": 71,
   "title": "Bölüm 71",
-  "difficulty": "Zor",
-  "grid_size_r": 11,
-  "grid_size_c": 10,
+  "difficulty": "Kolay",
+  "grid_size_r": 7,
+  "grid_size_c": 9,
   "grid": [
     [
       0,
       1,
       0,
-      0,
-      1,
-      1,
       1,
       0,
+      1,
       0,
+      1,
       0
     ],
     [
-      0,
       1,
-      0,
-      0,
+      1,
+      1,
       1,
       0,
       1,
@@ -30,10 +28,20 @@
       1
     ],
     [
+      0,
+      1,
+      0,
       1,
       1,
       1,
+      0,
       1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
       1,
       0,
       1,
@@ -43,99 +51,36 @@
     ],
     [
       0,
-      1,
       0,
       0,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
       0,
       0,
       1,
       1,
       1,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      1,
-      1,
-      1,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      1,
-      0,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0
+      1
     ],
     [
       0,
       0,
       0,
       0,
-      1,
       0,
       0,
       0,
       0,
-      0
+      1
     ],
     [
       0,
       0,
       0,
       0,
-      1,
       0,
       0,
       0,
       0,
-      0
+      1
     ]
   ],
   "words": [
@@ -144,90 +89,81 @@
       "direction": "down",
       "row": 0,
       "col": 1,
-      "length": 4,
-      "clue": "Böcekten kumaş",
-      "answer": "İPEK"
-    },
-    {
-      "number": 2,
-      "direction": "across",
-      "row": 0,
-      "col": 4,
       "length": 3,
-      "clue": "Uzunluk, endam",
-      "answer": "BOY"
+      "clue": "Güç, kolay değil",
+      "answer": "ZOR"
     },
     {
       "number": 2,
       "direction": "down",
       "row": 0,
-      "col": 4,
-      "length": 5,
-      "clue": "Gökyüzü su kümeleri",
-      "answer": "BULUT"
+      "col": 3,
+      "length": 4,
+      "clue": "Katlanır bıçak",
+      "answer": "ÇAKI"
     },
     {
       "number": 3,
       "direction": "down",
       "row": 0,
-      "col": 6,
-      "length": 3,
-      "clue": "Rüzgar, esinti",
-      "answer": "YEL"
+      "col": 5,
+      "length": 5,
+      "clue": "Gökyüzü su kümeleri",
+      "answer": "BULUT"
     },
     {
       "number": 4,
-      "direction": "across",
-      "row": 1,
-      "col": 6,
-      "length": 4,
-      "clue": "Yük hayvanı",
-      "answer": "EŞEK"
+      "direction": "down",
+      "row": 0,
+      "col": 7,
+      "length": 3,
+      "clue": "Göllü doğu ili",
+      "answer": "VAN"
     },
     {
       "number": 5,
       "direction": "across",
-      "row": 2,
+      "row": 1,
       "col": 0,
-      "length": 5,
-      "clue": "Yok olma",
-      "answer": "ZEVAL"
+      "length": 4,
+      "clue": "Su kabı",
+      "answer": "KOVA"
     },
     {
       "number": 6,
       "direction": "across",
-      "row": 4,
-      "col": 2,
-      "length": 3,
-      "clue": "Beyaz besin sıvısı",
-      "answer": "SÜT"
-    },
-    {
-      "number": 6,
-      "direction": "down",
-      "row": 4,
-      "col": 2,
-      "length": 5,
-      "clue": "Hayal, ilüzyon",
-      "answer": "SERAP"
+      "row": 1,
+      "col": 5,
+      "length": 4,
+      "clue": "Havada uçan taşıt",
+      "answer": "UÇAK"
     },
     {
       "number": 7,
       "direction": "across",
-      "row": 7,
-      "col": 1,
-      "length": 4,
-      "clue": "Utanma duygusu",
-      "answer": "HAYA"
+      "row": 2,
+      "col": 3,
+      "length": 3,
+      "clue": "Gitme, burada dur",
+      "answer": "KAL"
     },
     {
       "number": 8,
-      "direction": "down",
-      "row": 7,
-      "col": 4,
+      "direction": "across",
+      "row": 4,
+      "col": 5,
       "length": 4,
-      "clue": "İstek, dilek",
-      "answer": "ARZU"
+      "clue": "Anadolu halkı",
+      "answer": "TÜRK"
+    },
+    {
+      "number": 9,
+      "direction": "down",
+      "row": 4,
+      "col": 8,
+      "length": 3,
+      "clue": "Yanık kalıntısı",
+      "answer": "KÜL"
     }
   ]
 }

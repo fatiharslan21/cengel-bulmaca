@@ -545,7 +545,13 @@
 @media (max-width: 768px) {
     .play-main { flex-direction: column; margin: 6px 10px 0; gap: 10px; }
     .grid-col { align-self: stretch; width: 100%; }
-    .clue-col { max-height: 180px; min-width: 0; }
+    /* Mobilde alt soru listesi gereksiz — üstteki clue-strip zaten
+       seçili hücrenin sorusunu gösteriyor. Klavye yukarı çıksın diye gizle. */
+    .clue-col { display: none; }
+    .clue-strip {
+        position: sticky; top: 0; z-index: 20;
+        padding: 10px 14px; font-size: 13px;
+    }
     .grid-frame { padding: 6px; }
     .keyboard { max-width: 100%; padding: 0 4px; }
     .kb-r { gap: 2px; }

@@ -1,52 +1,37 @@
 {
   "id": 96,
   "title": "Bölüm 96",
-  "difficulty": "Çok Zor",
-  "grid_size_r": 11,
-  "grid_size_c": 10,
+  "difficulty": "Kolay",
+  "grid_size_r": 9,
+  "grid_size_c": 9,
   "grid": [
     [
       0,
       0,
       0,
+      1,
       0,
       0,
       0,
+      0,
+      0
+    ],
+    [
       0,
       0,
       1,
+      1,
+      1,
+      0,
+      0,
+      0,
       0
     ],
     [
       0,
       0,
       0,
-      0,
-      0,
-      0,
-      0,
-      0,
       1,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      1,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      0,
-      0,
       0,
       0,
       1,
@@ -55,22 +40,9 @@
     ],
     [
       0,
-      0,
-      0,
-      0,
-      1,
-      1,
-      1,
       1,
       0,
-      0
-    ],
-    [
       1,
-      0,
-      0,
-      0,
-      0,
       0,
       0,
       1,
@@ -79,62 +51,57 @@
     ],
     [
       1,
+      1,
+      1,
+      1,
+      1,
       0,
+      1,
       0,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
       0
     ],
     [
-      1,
-      0,
       0,
       1,
       0,
       0,
-      0,
-      0,
       1,
+      1,
+      1,
+      0,
       0
     ],
     [
-      1,
-      1,
-      1,
-      1,
       0,
       0,
       0,
       0,
       1,
+      0,
+      0,
+      0,
       0
     ],
     [
-      1,
-      0,
-      0,
-      0,
       0,
       0,
       0,
       1,
       1,
-      1
+      1,
+      0,
+      0,
+      0
     ],
     [
       0,
       0,
       0,
       0,
-      0,
-      0,
-      0,
-      0,
       1,
+      0,
+      0,
+      0,
       0
     ]
   ],
@@ -143,91 +110,82 @@
       "number": 1,
       "direction": "down",
       "row": 0,
-      "col": 8,
-      "length": 4,
-      "clue": "Utanma duygusu",
-      "answer": "HAYA"
-    },
-    {
-      "number": 2,
-      "direction": "down",
-      "row": 3,
-      "col": 7,
-      "length": 4,
-      "clue": "Ödül bardağı",
-      "answer": "KUPA"
+      "col": 3,
+      "length": 5,
+      "clue": "Evin yeşil alanı",
+      "answer": "BAHÇE"
     },
     {
       "number": 2,
       "direction": "across",
-      "row": 3,
-      "col": 7,
+      "row": 1,
+      "col": 2,
       "length": 3,
-      "clue": "Damar sıvısı",
-      "answer": "KAN"
+      "clue": "Çizgi, yol",
+      "answer": "HAT"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 2,
+      "col": 6,
+      "length": 4,
+      "clue": "Vatan",
+      "answer": "YURT"
     },
     {
       "number": 3,
       "direction": "across",
-      "row": 4,
-      "col": 4,
-      "length": 4,
-      "clue": "Sıvı geçen tüp",
-      "answer": "BORU"
+      "row": 2,
+      "col": 6,
+      "length": 3,
+      "clue": "Rüzgar, esinti",
+      "answer": "YEL"
     },
     {
       "number": 4,
       "direction": "down",
-      "row": 5,
-      "col": 0,
-      "length": 5,
-      "clue": "Utanç, çekinme",
-      "answer": "HİCAP"
+      "row": 3,
+      "col": 1,
+      "length": 3,
+      "clue": "Evin çatısı",
+      "answer": "DAM"
     },
     {
       "number": 5,
       "direction": "across",
-      "row": 6,
-      "col": 3,
-      "length": 6,
-      "clue": "Ayrılık acısı",
-      "answer": "HİCRAN"
-    },
-    {
-      "number": 5,
-      "direction": "down",
-      "row": 6,
-      "col": 3,
-      "length": 3,
-      "clue": "Asla, kesinlikle hayır",
-      "answer": "HİÇ"
+      "row": 4,
+      "col": 0,
+      "length": 5,
+      "clue": "Yazı aleti",
+      "answer": "KALEM"
     },
     {
       "number": 6,
       "direction": "down",
-      "row": 6,
-      "col": 8,
+      "row": 4,
+      "col": 4,
       "length": 5,
-      "clue": "Bakış, göz",
-      "answer": "NAZAR"
+      "clue": "Hayal ürünü hikaye",
+      "answer": "MASAL"
     },
     {
       "number": 7,
       "direction": "across",
-      "row": 8,
-      "col": 0,
-      "length": 4,
-      "clue": "Gövdeli bitki",
-      "answer": "AĞAÇ"
+      "row": 5,
+      "col": 4,
+      "length": 3,
+      "clue": "Bir şeye ilişkin",
+      "answer": "AİT"
     },
     {
       "number": 8,
       "direction": "across",
-      "row": 9,
-      "col": 7,
+      "row": 7,
+      "col": 3,
       "length": 3,
-      "clue": "Beyaz yağış",
-      "answer": "KAR"
+      "clue": "Hayat, yaşam",
+      "answer": "CAN"
     }
   ]
 }

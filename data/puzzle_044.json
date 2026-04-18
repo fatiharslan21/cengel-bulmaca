@@ -1,19 +1,36 @@
 {
   "id": 44,
   "title": "Bölüm 44",
-  "difficulty": "Orta",
-  "grid_size_r": 12,
-  "grid_size_c": 11,
+  "difficulty": "Kolay",
+  "grid_size_r": 11,
+  "grid_size_c": 8,
   "grid": [
     [
       0,
       0,
       0,
       0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
       0,
       0,
       0,
       0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
       0,
       1,
       0
@@ -22,23 +39,7 @@
       0,
       0,
       0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
       1,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
       1,
       1,
       1,
@@ -48,12 +49,19 @@
       0,
       0,
       0,
-      0,
-      0,
+      1,
       0,
       0,
       1,
+      0
+    ],
+    [
       0,
+      1,
+      1,
+      1,
+      1,
+      1,
       0,
       0
     ],
@@ -61,13 +69,20 @@
       0,
       0,
       0,
-      0,
-      0,
-      1,
-      0,
       1,
       0,
       0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
       0
     ],
     [
@@ -76,11 +91,8 @@
       0,
       0,
       1,
-      1,
-      1,
-      1,
       0,
-      0,
+      1,
       0
     ],
     [
@@ -88,51 +100,9 @@
       0,
       0,
       0,
-      0,
       1,
       0,
       1,
-      1,
-      1,
-      0
-    ],
-    [
-      1,
-      0,
-      0,
-      1,
-      0,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      1,
-      0,
-      1,
-      1,
-      1,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      1,
-      0,
-      0,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
       0
     ],
     [
@@ -141,22 +111,6 @@
       1,
       1,
       1,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      1,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
       0,
       0,
       0
@@ -167,91 +121,82 @@
       "number": 1,
       "direction": "down",
       "row": 0,
-      "col": 9,
-      "length": 3,
-      "clue": "Dikenli güzel çiçek",
-      "answer": "GÜL"
+      "col": 4,
+      "length": 4,
+      "clue": "Kuş evi",
+      "answer": "YUVA"
     },
     {
       "number": 2,
       "direction": "down",
       "row": 2,
-      "col": 7,
-      "length": 5,
-      "clue": "El kol eklemi",
-      "answer": "BİLEK"
+      "col": 6,
+      "length": 3,
+      "clue": "Mülk, eşya",
+      "answer": "MAL"
     },
     {
-      "number": 2,
+      "number": 3,
       "direction": "across",
-      "row": 2,
-      "col": 7,
-      "length": 4,
-      "clue": "Felaket, kötülük",
-      "answer": "BELA"
+      "row": 3,
+      "col": 3,
+      "length": 5,
+      "clue": "Günün başı",
+      "answer": "SABAH"
     },
     {
       "number": 3,
       "direction": "down",
-      "row": 4,
-      "col": 5,
+      "row": 3,
+      "col": 3,
       "length": 5,
-      "clue": "Işık arkası",
-      "answer": "GÖLGE"
+      "clue": "Temizlik maddesi",
+      "answer": "SABUN"
     },
     {
       "number": 4,
       "direction": "across",
       "row": 5,
-      "col": 4,
-      "length": 4,
-      "clue": "Yüzeylerin birleşimi",
-      "answer": "KÖŞE"
+      "col": 1,
+      "length": 5,
+      "clue": "Yemek kabı",
+      "answer": "TABAK"
     },
     {
       "number": 5,
-      "direction": "across",
+      "direction": "down",
       "row": 6,
-      "col": 7,
-      "length": 3,
-      "clue": "En soğuk mevsim",
-      "answer": "KIŞ"
+      "col": 6,
+      "length": 4,
+      "clue": "Deniz taşıtı",
+      "answer": "GEMİ"
     },
     {
       "number": 6,
-      "direction": "down",
+      "direction": "across",
       "row": 7,
-      "col": 0,
-      "length": 5,
-      "clue": "Geniş ana yol",
-      "answer": "CADDE"
+      "col": 3,
+      "length": 4,
+      "clue": "Ferahlatıcı bitki",
+      "answer": "NANE"
     },
     {
       "number": 7,
       "direction": "down",
       "row": 7,
-      "col": 3,
+      "col": 4,
       "length": 4,
-      "clue": "Ateş aleti",
-      "answer": "MAŞA"
+      "clue": "Bacak ucu",
+      "answer": "AYAK"
     },
     {
       "number": 8,
       "direction": "across",
-      "row": 8,
-      "col": 2,
-      "length": 4,
-      "clue": "Küçük kemirgen",
-      "answer": "FARE"
-    },
-    {
-      "number": 9,
-      "direction": "across",
       "row": 10,
       "col": 0,
       "length": 5,
-      "clue": "Sürdürme",
-      "answer": "DEVAM"
+      "clue": "Sadık evcil hayvan",
+      "answer": "KÖPEK"
     }
   ]
 }

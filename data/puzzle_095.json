@@ -1,20 +1,17 @@
 {
   "id": 95,
   "title": "Bölüm 95",
-  "difficulty": "Çok Zor",
-  "grid_size_r": 9,
-  "grid_size_c": 11,
+  "difficulty": "Kolay",
+  "grid_size_r": 8,
+  "grid_size_c": 8,
   "grid": [
     [
       0,
       0,
       0,
       1,
+      0,
       1,
-      1,
-      0,
-      0,
-      0,
       0,
       0
     ],
@@ -22,9 +19,6 @@
       0,
       0,
       0,
-      0,
-      0,
-      1,
       1,
       1,
       1,
@@ -33,16 +27,13 @@
     ],
     [
       0,
-      0,
-      0,
-      0,
+      1,
       0,
       1,
       0,
-      0,
-      0,
       1,
-      0
+      0,
+      1
     ],
     [
       1,
@@ -50,74 +41,46 @@
       1,
       1,
       0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
       1,
       0,
+      1,
       1,
       1,
       1,
       1
     ],
     [
-      1,
-      0,
-      0,
-      1,
-      1,
-      1,
-      1,
-      0,
-      0,
-      1,
-      0
-    ],
-    [
-      1,
-      0,
       0,
       1,
       0,
       0,
-      0,
-      0,
+      1,
       0,
       0,
       0
     ],
     [
+      0,
+      0,
+      0,
+      0,
       1,
-      0,
-      0,
-      1,
-      0,
-      0,
-      0,
-      0,
       0,
       0,
       0
     ],
     [
-      1,
-      0,
-      0,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      1,
       0,
       1,
       1,
       1,
       1,
-      1,
-      0,
       0,
       0,
       0
@@ -126,93 +89,84 @@
   "words": [
     {
       "number": 1,
-      "direction": "across",
+      "direction": "down",
       "row": 0,
       "col": 3,
-      "length": 3,
-      "clue": "Omuz örtüsü",
-      "answer": "ŞAL"
+      "length": 5,
+      "clue": "Temizlik maddesi",
+      "answer": "SABUN"
     },
     {
       "number": 2,
       "direction": "down",
       "row": 0,
       "col": 5,
-      "length": 5,
-      "clue": "Aydınlatma aracı",
-      "answer": "LAMBA"
+      "length": 3,
+      "clue": "Durum, vaziyet",
+      "answer": "HAL"
     },
     {
       "number": 3,
       "direction": "across",
       "row": 1,
-      "col": 5,
-      "length": 5,
-      "clue": "Sakin, huzurlu",
-      "answer": "ASUDE"
+      "col": 3,
+      "length": 4,
+      "clue": "Geniş düzlük",
+      "answer": "ALAN"
     },
     {
       "number": 4,
       "direction": "down",
-      "row": 1,
-      "col": 9,
+      "row": 2,
+      "col": 1,
       "length": 4,
-      "clue": "Özlenen istek",
-      "answer": "EMEL"
+      "clue": "Kızarmış sandviç",
+      "answer": "TOST"
     },
     {
       "number": 5,
+      "direction": "down",
+      "row": 2,
+      "col": 7,
+      "length": 3,
+      "clue": "Demir korozyonu",
+      "answer": "PAS"
+    },
+    {
+      "number": 6,
       "direction": "across",
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "Yürüyüş mesafesi",
-      "answer": "ADIM"
-    },
-    {
-      "number": 5,
-      "direction": "down",
-      "row": 3,
-      "col": 0,
-      "length": 6,
-      "clue": "Başkent",
-      "answer": "ANKARA"
-    },
-    {
-      "number": 6,
-      "direction": "down",
-      "row": 3,
-      "col": 3,
-      "length": 6,
-      "clue": "Giz, bilmece",
-      "answer": "MUAMMA"
+      "clue": "Cevap bekleyen",
+      "answer": "SORU"
     },
     {
       "number": 7,
       "direction": "across",
-      "row": 3,
-      "col": 7,
-      "length": 4,
-      "clue": "Ölüm vakti",
-      "answer": "ECEL"
+      "row": 4,
+      "col": 3,
+      "length": 5,
+      "clue": "Soluk alma verme",
+      "answer": "NEFES"
     },
     {
       "number": 8,
-      "direction": "across",
+      "direction": "down",
       "row": 4,
-      "col": 3,
+      "col": 4,
       "length": 4,
-      "clue": "Yakın olmayan",
-      "answer": "UZAK"
+      "clue": "Kırmızı meyve",
+      "answer": "ELMA"
     },
     {
       "number": 9,
       "direction": "across",
-      "row": 8,
-      "col": 2,
-      "length": 5,
-      "clue": "Şans, baht",
-      "answer": "TALİH"
+      "row": 7,
+      "col": 1,
+      "length": 4,
+      "clue": "Yapı, bina",
+      "answer": "BİNA"
     }
   ]
 }

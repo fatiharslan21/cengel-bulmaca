@@ -1,66 +1,30 @@
 {
   "id": 83,
   "title": "Bölüm 83",
-  "difficulty": "Çok Zor",
-  "grid_size_r": 11,
-  "grid_size_c": 10,
+  "difficulty": "Kolay",
+  "grid_size_r": 10,
+  "grid_size_c": 6,
   "grid": [
     [
       0,
-      0,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
       0,
       0,
       1,
-      0,
-      0,
       0,
       0,
       0
     ],
     [
       0,
-      0,
-      0,
-      0,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      0,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      0,
       1,
       1,
-      1,
-      1,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      0,
-      1,
-      0,
-      0,
       1,
       1,
       1
@@ -70,19 +34,11 @@
       0,
       0,
       0,
-      0,
       1,
-      0,
-      1,
-      0,
       0
     ],
     [
       0,
-      0,
-      0,
-      0,
-      1,
       1,
       1,
       1,
@@ -92,37 +48,17 @@
     [
       0,
       0,
-      0,
       1,
       0,
       1,
-      0,
-      0,
-      0,
       0
     ],
     [
-      0,
-      0,
-      0,
-      1,
-      1,
-      1,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
       1,
       0,
       1,
-      1,
-      1,
-      1,
+      0,
+      0,
       0
     ],
     [
@@ -131,9 +67,21 @@
       1,
       1,
       0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
       0,
       0,
       0,
+      1,
       0,
       0
     ]
@@ -141,93 +89,84 @@
   "words": [
     {
       "number": 1,
-      "direction": "down",
+      "direction": "across",
       "row": 0,
-      "col": 4,
-      "length": 5,
-      "clue": "Soluk alma verme",
-      "answer": "NEFES"
+      "col": 1,
+      "length": 4,
+      "clue": "Boş olmayan",
+      "answer": "DOLU"
     },
     {
       "number": 2,
-      "direction": "across",
-      "row": 3,
-      "col": 4,
-      "length": 4,
-      "clue": "Yük hayvanı",
-      "answer": "EŞEK"
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "length": 3,
+      "clue": "Ev bölümü",
+      "answer": "ODA"
     },
     {
       "number": 3,
-      "direction": "down",
-      "row": 3,
-      "col": 7,
-      "length": 4,
-      "clue": "Ödül bardağı",
-      "answer": "KUPA"
+      "direction": "across",
+      "row": 2,
+      "col": 1,
+      "length": 5,
+      "clue": "Maç yöneticisi",
+      "answer": "HAKEM"
     },
     {
       "number": 4,
-      "direction": "across",
-      "row": 4,
-      "col": 7,
-      "length": 3,
-      "clue": "Yüce, büyük",
-      "answer": "ULU"
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "length": 4,
+      "clue": "Sanat yapıtı",
+      "answer": "ESER"
     },
     {
       "number": 5,
-      "direction": "down",
-      "row": 5,
-      "col": 5,
-      "length": 5,
-      "clue": "Kabir",
-      "answer": "MEZAR"
+      "direction": "across",
+      "row": 4,
+      "col": 1,
+      "length": 4,
+      "clue": "Ses birimi",
+      "answer": "HECE"
     },
     {
       "number": 6,
-      "direction": "across",
-      "row": 6,
-      "col": 4,
-      "length": 5,
-      "clue": "Söz, laf",
-      "answer": "KELAM"
+      "direction": "down",
+      "row": 4,
+      "col": 2,
+      "length": 4,
+      "clue": "Kırmızı meyve",
+      "answer": "ELMA"
     },
     {
       "number": 7,
       "direction": "down",
-      "row": 7,
-      "col": 3,
-      "length": 4,
-      "clue": "Bağlama aracı",
-      "answer": "TOKA"
+      "row": 6,
+      "col": 0,
+      "length": 3,
+      "clue": "Seramik toprağı",
+      "answer": "KİL"
     },
     {
       "number": 8,
       "direction": "across",
-      "row": 8,
-      "col": 3,
-      "length": 3,
-      "clue": "İğneyle süsleme",
-      "answer": "OYA"
+      "row": 7,
+      "col": 0,
+      "length": 4,
+      "clue": "Tedavi maddesi",
+      "answer": "İLAÇ"
     },
     {
       "number": 9,
-      "direction": "across",
-      "row": 9,
-      "col": 5,
-      "length": 4,
-      "clue": "Uykuda hayal",
-      "answer": "RÜYA"
-    },
-    {
-      "number": 10,
-      "direction": "across",
-      "row": 10,
-      "col": 0,
-      "length": 4,
-      "clue": "Türk parası",
-      "answer": "LİRA"
+      "direction": "down",
+      "row": 7,
+      "col": 3,
+      "length": 3,
+      "clue": "Sıcak içecek",
+      "answer": "ÇAY"
     }
   ]
 }

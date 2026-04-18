@@ -1,67 +1,47 @@
 {
   "id": 46,
   "title": "Bölüm 46",
-  "difficulty": "Orta",
+  "difficulty": "Kolay",
   "grid_size_r": 9,
-  "grid_size_c": 11,
+  "grid_size_c": 7,
   "grid": [
     [
-      1,
-      1,
-      1,
-      1,
-      0,
-      1,
       0,
       0,
+      0,
+      1,
       0,
       0,
       0
     ],
     [
-      0,
-      0,
-      0,
       1,
       0,
       1,
+      1,
+      1,
       0,
-      0,
-      0,
-      0,
-      1
+      0
     ],
     [
+      1,
       0,
-      0,
-      1,
-      1,
-      1,
-      1,
       0,
       1,
       0,
       0,
-      1
+      0
     ],
     [
-      0,
-      0,
-      0,
       1,
-      0,
       1,
       1,
       1,
       0,
       0,
-      1
+      0
     ],
     [
-      0,
-      1,
-      1,
-      1,
       0,
       1,
       0,
@@ -72,52 +52,36 @@
     ],
     [
       0,
-      0,
       1,
       0,
       0,
       0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
       0,
       1,
       0,
-      0,
+      1,
       0
     ],
     [
       0,
       0,
       1,
-      0,
-      0,
-      0,
-      0,
       1,
-      0,
-      0,
+      1,
+      1,
       0
     ],
     [
       0,
       0,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
       0,
       1,
-      0,
-      0,
-      0,
-      0,
-      0,
       0,
       0,
       0
@@ -126,93 +90,84 @@
   "words": [
     {
       "number": 1,
-      "direction": "across",
-      "row": 0,
-      "col": 0,
-      "length": 4,
-      "clue": "Yüksek yapı",
-      "answer": "KULE"
-    },
-    {
-      "number": 2,
       "direction": "down",
       "row": 0,
       "col": 3,
       "length": 5,
-      "clue": "Vaktinden önce",
-      "answer": "ERKEN"
+      "clue": "Bitkinin renkli kısmı",
+      "answer": "ÇİÇEK"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 1,
+      "col": 0,
+      "length": 3,
+      "clue": "Bir şeye ilişkin",
+      "answer": "AİT"
     },
     {
       "number": 3,
-      "direction": "down",
-      "row": 0,
-      "col": 5,
-      "length": 5,
-      "clue": "Ağaçlık alan",
-      "answer": "ORMAN"
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "length": 3,
+      "clue": "Çiğneme organı",
+      "answer": "DİŞ"
     },
     {
       "number": 4,
-      "direction": "down",
-      "row": 1,
-      "col": 10,
+      "direction": "across",
+      "row": 3,
+      "col": 0,
       "length": 4,
-      "clue": "Sıvı geçen tüp",
-      "answer": "BORU"
+      "clue": "Adet, parça",
+      "answer": "TANE"
     },
     {
       "number": 5,
-      "direction": "across",
-      "row": 2,
-      "col": 2,
-      "length": 4,
-      "clue": "Elektrik hareketi",
-      "answer": "AKIM"
+      "direction": "down",
+      "row": 3,
+      "col": 1,
+      "length": 3,
+      "clue": "Sunma, takdim",
+      "answer": "ARZ"
     },
     {
       "number": 6,
-      "direction": "down",
-      "row": 2,
-      "col": 7,
-      "length": 5,
-      "clue": "Ambalajlı koli",
-      "answer": "PAKET"
+      "direction": "across",
+      "row": 4,
+      "col": 3,
+      "length": 4,
+      "clue": "Eşya kabı",
+      "answer": "KUTU"
     },
     {
       "number": 7,
-      "direction": "across",
-      "row": 3,
+      "direction": "down",
+      "row": 4,
       "col": 5,
-      "length": 3,
-      "clue": "Toprak sahibi",
-      "answer": "AĞA"
+      "length": 4,
+      "clue": "Kızarmış sandviç",
+      "answer": "TOST"
     },
     {
       "number": 8,
-      "direction": "across",
-      "row": 4,
-      "col": 1,
+      "direction": "down",
+      "row": 6,
+      "col": 3,
       "length": 3,
-      "clue": "Göllü doğu ili",
-      "answer": "VAN"
+      "clue": "Yaklaşma eylemi",
+      "answer": "GEL"
     },
     {
       "number": 9,
-      "direction": "down",
-      "row": 4,
-      "col": 2,
-      "length": 5,
-      "clue": "Konum bilgisi",
-      "answer": "ADRES"
-    },
-    {
-      "number": 10,
       "direction": "across",
-      "row": 4,
-      "col": 7,
+      "row": 7,
+      "col": 2,
       "length": 4,
-      "clue": "Zarif su kuşu",
-      "answer": "KUĞU"
+      "clue": "Şehir",
+      "answer": "KENT"
     }
   ]
 }

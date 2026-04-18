@@ -1,45 +1,27 @@
 {
   "id": 60,
   "title": "Bölüm 60",
-  "difficulty": "Zor",
-  "grid_size_r": 8,
-  "grid_size_c": 8,
+  "difficulty": "Kolay",
+  "grid_size_r": 9,
+  "grid_size_c": 9,
   "grid": [
     [
       0,
+      0,
+      0,
       1,
       0,
       1,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      1,
-      1,
-      1,
-      1,
-      0,
       0,
       0,
       0
     ],
     [
       0,
-      1,
       0,
-      1,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
       1,
       1,
       1,
-      0,
       1,
       0,
       1,
@@ -47,8 +29,9 @@
     ],
     [
       0,
-      1,
       0,
+      0,
+      1,
       0,
       1,
       1,
@@ -56,21 +39,12 @@
       1
     ],
     [
-      1,
-      1,
-      1,
-      1,
-      1,
       0,
-      1,
-      0
-    ],
-    [
+      0,
       0,
       0,
       0,
       1,
-      0,
       0,
       1,
       0
@@ -80,9 +54,54 @@
       1,
       1,
       1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
       0,
       0,
       1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
       0
     ]
   ],
@@ -91,91 +110,82 @@
       "number": 1,
       "direction": "down",
       "row": 0,
-      "col": 1,
-      "length": 6,
-      "clue": "Boşuna, yararsız",
-      "answer": "NAFİLE"
+      "col": 3,
+      "length": 3,
+      "clue": "Uzunluk, endam",
+      "answer": "BOY"
     },
     {
       "number": 2,
       "direction": "down",
       "row": 0,
-      "col": 3,
-      "length": 3,
-      "clue": "Sert kayaç parçası",
-      "answer": "TAŞ"
+      "col": 5,
+      "length": 5,
+      "clue": "Kutlama tatlısı",
+      "answer": "PASTA"
     },
     {
       "number": 3,
       "direction": "across",
       "row": 1,
-      "col": 0,
+      "col": 2,
       "length": 4,
-      "clue": "Yırtık yamağı",
-      "answer": "YAMA"
+      "clue": "Kısa dinlenme",
+      "answer": "MOLA"
     },
     {
       "number": 4,
-      "direction": "across",
-      "row": 3,
-      "col": 0,
-      "length": 3,
-      "clue": "Seramik toprağı",
-      "answer": "KİL"
-    },
-    {
-      "number": 5,
       "direction": "down",
-      "row": 3,
-      "col": 4,
-      "length": 3,
-      "clue": "On yüzlük sayı",
-      "answer": "BİN"
-    },
-    {
-      "number": 6,
-      "direction": "down",
-      "row": 3,
-      "col": 6,
-      "length": 5,
-      "clue": "Günün başı",
-      "answer": "SABAH"
-    },
-    {
-      "number": 7,
-      "direction": "across",
-      "row": 4,
-      "col": 4,
-      "length": 4,
-      "clue": "Açıklama",
-      "answer": "İZAH"
-    },
-    {
-      "number": 8,
-      "direction": "across",
-      "row": 5,
-      "col": 0,
-      "length": 5,
-      "clue": "Yer, mahal",
-      "answer": "MEKAN"
-    },
-    {
-      "number": 9,
-      "direction": "down",
-      "row": 5,
-      "col": 3,
+      "row": 1,
+      "col": 7,
       "length": 3,
       "clue": "Sunma, takdim",
       "answer": "ARZ"
     },
     {
-      "number": 10,
+      "number": 5,
       "direction": "across",
-      "row": 7,
+      "row": 2,
+      "col": 5,
+      "length": 4,
+      "clue": "Zaman aralığı",
+      "answer": "SÜRE"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 4,
+      "col": 1,
+      "length": 5,
+      "clue": "Yaşadığımız gezegen",
+      "answer": "DÜNYA"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 4,
       "col": 1,
       "length": 3,
-      "clue": "Çehre; sayı 100",
-      "answer": "YÜZ"
+      "clue": "Konuşma organı",
+      "answer": "DİL"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "length": 3,
+      "clue": "Benekli, alacalı",
+      "answer": "ALA"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 6,
+      "col": 2,
+      "length": 3,
+      "clue": "Elin iç kısmı",
+      "answer": "AYA"
     }
   ]
 }

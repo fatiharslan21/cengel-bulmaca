@@ -1,45 +1,75 @@
 {
   "id": 98,
   "title": "Bölüm 98",
-  "difficulty": "Çok Zor",
-  "grid_size_r": 7,
-  "grid_size_c": 10,
+  "difficulty": "Kolay",
+  "grid_size_r": 8,
+  "grid_size_c": 9,
   "grid": [
     [
       0,
       0,
       0,
       0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
       0,
       1,
       1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
       1,
       1,
       1
     ],
     [
       0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
       1,
       0,
-      0
-    ],
-    [
       0,
-      1,
       0,
-      1,
       0,
-      1,
-      1,
-      1,
       0,
-      0
+      0,
+      1
     ],
     [
       1,
@@ -47,43 +77,17 @@
       1,
       1,
       0,
-      1,
       0,
       0,
       0,
-      0
+      1
     ],
     [
       0,
       1,
       0,
-      1,
-      1,
-      1,
-      1,
-      1,
-      0,
-      0
-    ],
-    [
-      1,
-      1,
-      1,
       0,
       0,
-      1,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      1,
-      0,
-      1,
-      1,
-      1,
       0,
       0,
       0,
@@ -93,93 +97,84 @@
   "words": [
     {
       "number": 1,
-      "direction": "across",
+      "direction": "down",
       "row": 0,
-      "col": 5,
-      "length": 5,
-      "clue": "İç rahatlığı",
-      "answer": "HUZUR"
+      "col": 4,
+      "length": 3,
+      "clue": "İşve, cilve",
+      "answer": "NAZ"
     },
     {
       "number": 2,
       "direction": "down",
-      "row": 0,
-      "col": 7,
-      "length": 3,
-      "clue": "Oyun küpü",
-      "answer": "ZAR"
-    },
-    {
-      "number": 3,
-      "direction": "down",
       "row": 2,
-      "col": 1,
-      "length": 5,
-      "clue": "Esenleme sözü",
-      "answer": "SELAM"
-    },
-    {
-      "number": 4,
-      "direction": "down",
-      "row": 2,
-      "col": 3,
-      "length": 3,
-      "clue": "Geniş olmayan",
-      "answer": "DAR"
-    },
-    {
-      "number": 5,
-      "direction": "down",
-      "row": 2,
-      "col": 5,
-      "length": 5,
-      "clue": "Yer, mahal",
-      "answer": "MEKAN"
-    },
-    {
-      "number": 5,
-      "direction": "across",
-      "row": 2,
-      "col": 5,
+      "col": 2,
       "length": 3,
       "clue": "Eflatun renk",
       "answer": "MOR"
     },
     {
-      "number": 6,
+      "number": 2,
       "direction": "across",
+      "row": 2,
+      "col": 2,
+      "length": 5,
+      "clue": "Seslerle sanat",
+      "answer": "MÜZİK"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 2,
+      "col": 6,
+      "length": 3,
+      "clue": "İçine konan kab",
+      "answer": "KAP"
+    },
+    {
+      "number": 4,
+      "direction": "down",
       "row": 3,
+      "col": 8,
+      "length": 4,
+      "clue": "Sanat yapıtı",
+      "answer": "ESER"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 4,
       "col": 0,
       "length": 4,
-      "clue": "Kez, kere",
-      "answer": "DEFA"
+      "clue": "Vatan",
+      "answer": "YURT"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 4,
+      "col": 1,
+      "length": 4,
+      "clue": "Yakın olmayan",
+      "answer": "UZAK"
     },
     {
       "number": 7,
       "direction": "across",
       "row": 4,
-      "col": 3,
-      "length": 5,
-      "clue": "Hasım, muhalif",
-      "answer": "RAKİP"
+      "col": 6,
+      "length": 3,
+      "clue": "Demir korozyonu",
+      "answer": "PAS"
     },
     {
       "number": 8,
       "direction": "across",
-      "row": 5,
-      "col": 0,
-      "length": 3,
-      "clue": "Hayat, yaşam",
-      "answer": "CAN"
-    },
-    {
-      "number": 9,
-      "direction": "across",
       "row": 6,
-      "col": 3,
-      "length": 3,
-      "clue": "Bin kilogram",
-      "answer": "TON"
+      "col": 0,
+      "length": 4,
+      "clue": "Yemek mobilyası",
+      "answer": "MASA"
     }
   ]
 }

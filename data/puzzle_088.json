@@ -1,72 +1,16 @@
 {
   "id": 88,
   "title": "Bölüm 88",
-  "difficulty": "Çok Zor",
+  "difficulty": "Kolay",
   "grid_size_r": 10,
-  "grid_size_c": 11,
+  "grid_size_c": 7,
   "grid": [
     [
-      1,
       0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      1,
-      0,
-      0,
-      0,
-      1,
-      0,
-      1,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      1,
-      1,
-      1,
-      1,
-      1,
-      0,
-      1,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      1,
-      0,
-      0,
-      0,
-      1,
-      0,
-      1,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      1,
-      1,
-      1,
       0,
       1,
       1,
       1,
-      1,
-      0,
       0,
       0
     ],
@@ -75,11 +19,7 @@
       0,
       0,
       0,
-      0,
-      0,
-      0,
       1,
-      0,
       0,
       0
     ],
@@ -88,144 +28,155 @@
       0,
       0,
       0,
-      0,
-      0,
-      0,
       1,
       0,
-      1,
       0
     ],
     [
       0,
-      0,
-      0,
-      0,
-      0,
-      0,
       1,
-      1,
+      0,
+      0,
       1,
       1,
       1
     ],
     [
+      1,
+      1,
+      1,
+      1,
+      1,
       0,
-      0,
-      0,
-      0,
-      0,
-      0,
+      0
+    ],
+    [
       0,
       1,
       0,
       1,
+      0,
+      0,
       0
     ],
     [
       0,
       0,
+      1,
+      1,
+      1,
       0,
-      0,
-      0,
-      0,
+      0
+    ],
+    [
       0,
       0,
       1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
       1,
-      1
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
     ]
   ],
   "words": [
     {
       "number": 1,
-      "direction": "down",
+      "direction": "across",
       "row": 0,
-      "col": 0,
-      "length": 5,
-      "clue": "İnce, kibar",
-      "answer": "NAZİK"
+      "col": 2,
+      "length": 3,
+      "clue": "Buz tutma",
+      "answer": "DON"
     },
     {
       "number": 2,
       "direction": "down",
-      "row": 1,
+      "row": 0,
       "col": 4,
-      "length": 4,
-      "clue": "Deniz taşıtı",
-      "answer": "GEMİ"
+      "length": 5,
+      "clue": "En küçük işaret",
+      "answer": "NOKTA"
     },
     {
       "number": 3,
       "direction": "down",
-      "row": 1,
-      "col": 6,
-      "length": 4,
-      "clue": "Uykuda hayal",
-      "answer": "RÜYA"
+      "row": 3,
+      "col": 1,
+      "length": 3,
+      "clue": "Adalet, doğruluk",
+      "answer": "HAK"
     },
     {
       "number": 4,
       "direction": "across",
-      "row": 2,
-      "col": 0,
-      "length": 5,
-      "clue": "Topluluk, küme",
-      "answer": "ZÜMRE"
+      "row": 3,
+      "col": 4,
+      "length": 3,
+      "clue": "Lezzet verici",
+      "answer": "TUZ"
     },
     {
       "number": 5,
       "direction": "across",
       "row": 4,
       "col": 0,
-      "length": 3,
-      "clue": "Gitme, burada dur",
-      "answer": "KAL"
+      "length": 5,
+      "clue": "Aydınlatma aracı",
+      "answer": "LAMBA"
     },
     {
       "number": 6,
-      "direction": "across",
+      "direction": "down",
       "row": 4,
-      "col": 4,
-      "length": 4,
-      "clue": "Bildirme, hüküm",
-      "answer": "İLAM"
+      "col": 3,
+      "length": 3,
+      "clue": "Vücudun orta bölümü",
+      "answer": "BEL"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 6,
+      "col": 2,
+      "length": 3,
+      "clue": "Benekli, alacalı",
+      "answer": "ALA"
     },
     {
       "number": 7,
       "direction": "down",
-      "row": 4,
-      "col": 7,
-      "length": 5,
-      "clue": "Yas, acı",
-      "answer": "MATEM"
+      "row": 6,
+      "col": 2,
+      "length": 4,
+      "clue": "İstek, dilek",
+      "answer": "ARZU"
     },
     {
       "number": 8,
-      "direction": "down",
-      "row": 6,
-      "col": 9,
-      "length": 4,
-      "clue": "Kez, kere",
-      "answer": "DEFA"
-    },
-    {
-      "number": 9,
       "direction": "across",
-      "row": 7,
-      "col": 6,
-      "length": 5,
-      "clue": "Soluk alma verme",
-      "answer": "NEFES"
-    },
-    {
-      "number": 10,
-      "direction": "across",
-      "row": 9,
-      "col": 8,
+      "row": 8,
+      "col": 0,
       "length": 3,
-      "clue": "Omuz örtüsü",
-      "answer": "ŞAL"
+      "clue": "Görme organı",
+      "answer": "GÖZ"
     }
   ]
 }

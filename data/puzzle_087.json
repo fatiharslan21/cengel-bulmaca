@@ -1,8 +1,8 @@
 {
   "id": 87,
   "title": "Bölüm 87",
-  "difficulty": "Çok Zor",
-  "grid_size_r": 10,
+  "difficulty": "Kolay",
+  "grid_size_r": 9,
   "grid_size_c": 10,
   "grid": [
     [
@@ -12,18 +12,6 @@
       0,
       0,
       1,
-      0,
-      0,
-      1,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      0,
-      1,
-      1,
       1,
       1,
       1,
@@ -38,6 +26,18 @@
       1,
       0,
       0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
       1,
       0
     ],
@@ -46,67 +46,7 @@
       0,
       0,
       0,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1
-    ],
-    [
       0,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      1,
-      0
-    ],
-    [
-      0,
-      1,
-      0,
-      0,
-      1,
-      0,
-      0,
-      0,
-      1,
-      0
-    ],
-    [
-      0,
-      1,
-      0,
-      0,
-      1,
-      0,
-      0,
-      1,
-      1,
-      1
-    ],
-    [
-      1,
-      1,
-      1,
-      1,
-      1,
-      0,
-      0,
-      1,
-      0,
-      0
-    ],
-    [
-      0,
-      1,
-      0,
-      0,
-      1,
       0,
       0,
       1,
@@ -118,11 +58,59 @@
       0,
       0,
       1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
       1,
       1,
       1,
       1,
       1,
+      0,
+      0,
+      0,
+      0,
       0
     ]
   ],
@@ -132,90 +120,81 @@
       "direction": "down",
       "row": 0,
       "col": 5,
-      "length": 4,
-      "clue": "Işık, aydınlık",
-      "answer": "ZİYA"
+      "length": 3,
+      "clue": "Nesil, aile kökeni",
+      "answer": "SOY"
+    },
+    {
+      "number": 1,
+      "direction": "across",
+      "row": 0,
+      "col": 5,
+      "length": 5,
+      "clue": "Günün başı",
+      "answer": "SABAH"
     },
     {
       "number": 2,
-      "direction": "down",
-      "row": 0,
-      "col": 8,
-      "length": 7,
-      "clue": "Beyaz kır çiçeği",
-      "answer": "PAPATYA"
+      "direction": "across",
+      "row": 2,
+      "col": 5,
+      "length": 4,
+      "clue": "Yazılmış metin",
+      "answer": "YAZI"
     },
     {
       "number": 3,
-      "direction": "across",
-      "row": 1,
-      "col": 4,
-      "length": 6,
-      "clue": "Ayrılık acısı",
-      "answer": "HİCRAN"
+      "direction": "down",
+      "row": 2,
+      "col": 7,
+      "length": 5,
+      "clue": "Nefesli çalgı",
+      "answer": "ZURNA"
     },
     {
       "number": 4,
+      "direction": "down",
+      "row": 4,
+      "col": 3,
+      "length": 5,
+      "clue": "Geniş ana yol",
+      "answer": "CADDE"
+    },
+    {
+      "number": 5,
       "direction": "across",
-      "row": 3,
-      "col": 4,
-      "length": 6,
-      "clue": "Bitkinin yeşil organı",
-      "answer": "YAPRAK"
+      "row": 5,
+      "col": 5,
+      "length": 4,
+      "clue": "Yansıtıcı cam",
+      "answer": "AYNA"
     },
     {
       "number": 5,
       "direction": "down",
-      "row": 4,
-      "col": 1,
-      "length": 5,
-      "clue": "Vaktinden önce",
-      "answer": "ERKEN"
+      "row": 5,
+      "col": 5,
+      "length": 3,
+      "clue": "Koruyucu ilaç",
+      "answer": "AŞI"
     },
     {
       "number": 6,
-      "direction": "down",
-      "row": 5,
-      "col": 4,
-      "length": 5,
-      "clue": "Pay, nasip",
-      "answer": "HİSSE"
-    },
-    {
-      "number": 7,
-      "direction": "down",
-      "row": 6,
-      "col": 7,
-      "length": 4,
-      "clue": "Renk veren madde",
-      "answer": "BOYA"
-    },
-    {
-      "number": 7,
       "direction": "across",
       "row": 6,
-      "col": 7,
+      "col": 3,
       "length": 3,
-      "clue": "Üzüm bahçesi",
-      "answer": "BAĞ"
+      "clue": "Rüya, hayal",
+      "answer": "DÜŞ"
     },
     {
-      "number": 8,
+      "number": 7,
       "direction": "across",
-      "row": 7,
+      "row": 8,
       "col": 0,
       "length": 5,
-      "clue": "Soluk alma verme",
-      "answer": "NEFES"
-    },
-    {
-      "number": 9,
-      "direction": "across",
-      "row": 9,
-      "col": 3,
-      "length": 6,
-      "clue": "Sevgi, acıma",
-      "answer": "ŞEFKAT"
+      "clue": "Sadık evcil hayvan",
+      "answer": "KÖPEK"
     }
   ]
 }
