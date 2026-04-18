@@ -10,8 +10,14 @@
 
     // Firebase config: Aşağıdaki değerleri Firebase konsolundan al.
     // https://console.firebase.google.com > Proje ayarları > Web uygulaması
-    // Firestore + Google Authentication aktif olmalı.
-    const firebaseConfig = window.CB_FIREBASE_CONFIG || null;
+    // firebase-config.js içinde şöyle tanımlayın:
+    //   window.CB_FIREBASE_CONFIG = { apiKey: "...", ... };
+    // ÖNEMLİ: `const firebaseConfig = {...}` yazmayın — bu dışarıdan görünmez.
+    const firebaseConfig = window.CB_FIREBASE_CONFIG || window.firebaseConfig || null;
+
+    if (firebaseConfig && (!firebaseConfig.apiKey || firebaseConfig.apiKey.startsWith('YOUR_'))) {
+        console.warn('[Çengel] firebase-config.js değerleri doldurulmamış.');
+    }
 
     let app, auth, db, provider;
     let currentUser = null;
