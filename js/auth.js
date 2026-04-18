@@ -9,6 +9,7 @@
     const STORE_DAILY = 'cb_daily';
     const STORE_ACCOUNTS_LOCAL = 'cb_accounts_local';
     const STORE_AUTH_GUARD = 'cb_auth_guard';
+    const STORE_ADMIN_KEY = 'cb_admin_key';
 
     const firebaseConfig = window.CB_FIREBASE_CONFIG || window.firebaseConfig || null;
 
@@ -222,6 +223,9 @@
         saveUserLocal({ key: v.key, name: v.username, createdAt: Date.now() });
         await syncUserMetaToCloud();
         clearUserGuard(v.key);
+        if(!localStorage.getItem(STORE_ADMIN_KEY)) {
+            localStorage.setItem(STORE_ADMIN_KEY, v.key);
+        }
         return { ok: true, mode: 'register' };
     }
 
@@ -271,6 +275,11 @@
     function signOut() {
         saveUserLocal(null);
         clearLocalScores();
+    }
+
+    function isAdmin() {
+        const adminKey = localStorage.getItem(STORE_ADMIN_KEY);
+        return !!(adminKey && currentUser?.key && adminKey === currentUser.key);
     }
 
     // Buluttan kullanıcı verisini yerel localStorage'a yükle
@@ -500,6 +509,7 @@
         getSettings,
         setSetting,
         isFirebaseReady: () => firebaseReady,
-        normalizeName
+        normalizeName,
+        isAdmin
     };
 })();

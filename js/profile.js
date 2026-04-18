@@ -17,6 +17,7 @@
                 <div class="profile-user" id="profile-user"></div>
                 <div class="profile-stats" id="profile-stats"></div>
                 <div class="profile-achievements" id="profile-achievements"></div>
+                <div class="profile-admin" id="profile-admin" style="display:none;"></div>
                 <div class="profile-actions">
                     <button class="welcome-btn profile-logout" id="profile-logout">Çıkış Yap</button>
                 </div>
@@ -70,6 +71,7 @@
         const userBox = modalEl.querySelector('#profile-user');
         const statsBox = modalEl.querySelector('#profile-stats');
         const achBox = modalEl.querySelector('#profile-achievements');
+        const adminBox = modalEl.querySelector('#profile-admin');
 
         userBox.innerHTML = `
             <div class="pu-avatar">${(st.user?.name || '?')[0].toUpperCase()}</div>
@@ -99,6 +101,57 @@
                 <div><b>${a.t}</b><small>${a.d}</small></div>
             </div>
         `).join('');
+
+        if(window.CBAuth?.isAdmin && window.CBAuth.isAdmin()) {
+            adminBox.style.display = 'block';
+            adminBox.innerHTML = `
+                <div class="admin-box">
+                    <h3>🛠 Admin Pipeline</h3>
+                    <p>Bu panel sadece admin hesapta görünür.</p>
+                    <div class="admin-actions">
+                        <button class="welcome-btn admin-btn" id="admin-repeat">Tekrar Analizi</button>
+                        <button class="welcome-btn admin-btn" id="admin-template">Şablon İndir</button>
+                    </div>
+                    <pre class="admin-log" id="admin-log">Hazır.</pre>
+                </div>
+            `;
+            setupAdminTools();
+        } else {
+            adminBox.style.display = 'none';
+            adminBox.innerHTML = '';
+        }
+    }
+
+    function setupAdminTools() {
+        const log = modalEl.querySelector('#admin-log');
+        const repeatBtn = modalEl.querySelector('#admin-repeat');
+        const tplBtn = modalEl.querySelector('#admin-template');
+        if(!log || !repeatBtn || !tplBtn) return;
+
+        repeatBtn.onclick = () => {
+            const seen = JSON.parse(localStorage.getItem('cb_seen_clues') || '{}');
+            const top = Object.entries(seen).sort((a,b) => b[1]-a[1]).slice(0, 12);
+            if(top.length === 0) {
+                log.textContent = 'Henüz analiz için veri yok.';
+                return;
+            }
+            log.textContent = top.map(([k,v], i) => `${i+1}. (${v}x) ${k}`).join('\n');
+        };
+
+        tplBtn.onclick = () => {
+            const template = {
+                title: 'Yeni Zor Bulmaca',
+                difficulty: 'Zor',
+                rules: ['Cevabı ipucunda geçirme', 'Önceki clue tekrarını en aza indir', 'Yeni kelime havuzu kullan'],
+                words: [{ clue: '', answer: '', direction: 'across', row: 0, col: 0, length: 0 }]
+            };
+            const blob = new Blob([JSON.stringify(template, null, 2)], { type: 'application/json' });
+            const a = document.createElement('a');
+            a.href = URL.createObjectURL(blob);
+            a.download = 'admin_puzzle_template.json';
+            a.click();
+            setTimeout(() => URL.revokeObjectURL(a.href), 500);
+        };
     }
 
     function open() {

@@ -423,6 +423,18 @@ function showXPFloater(info){
     setTimeout(() => box.remove(), 2000);
 }
 
+function rememberSeenClues() {
+    try {
+        const seen = JSON.parse(localStorage.getItem('cb_seen_clues') || '{}');
+        P.words.forEach(w => {
+            const clue = (w.clue || '').trim();
+            if(!clue) return;
+            seen[clue] = (seen[clue] || 0) + 1;
+        });
+        localStorage.setItem('cb_seen_clues', JSON.stringify(seen));
+    } catch(e) {}
+}
+
 function calcSc(){
     const m={"Kolay":1,"Orta":1.5,"Zor":2,"Çok Zor":3}[P.difficulty]||1;
     let tb;if(tm<=60)tb=200;else if(tm<=300)tb=Math.max(0,200-((tm-60)/30|0)*10);
@@ -532,6 +544,7 @@ function showWin(){
 
     const xpInfo = grantXP(sc, perfect);
     showXPFloater(xpInfo);
+    rememberSeenClues();
 
     saveLastPlayed(true);
     document.getElementById('modal').style.display='flex';
