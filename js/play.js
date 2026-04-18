@@ -387,6 +387,42 @@ function doDir(){
 function startTm(){run=true;tint=setInterval(()=>{tm++;document.getElementById('tm').textContent=fmt(tm)},1000)}
 const fmt=s=>`${Math.floor(s/60).toString().padStart(2,'0')}:${(s%60).toString().padStart(2,'0')}`;
 
+
+function getXPState(){
+    try { return JSON.parse(localStorage.getItem('cb_xp') || '{"xp":0,"level":1}'); } catch(e){ return {xp:0, level:1}; }
+}
+
+function xpForLevel(level){
+    return 120 + (level - 1) * 80;
+}
+
+function grantXP(baseScore, perfect=false){
+    const st = getXPState();
+    let gain = Math.max(10, Math.round(baseScore / 10));
+    if(perfect) gain += 50;
+    let xp = (st.xp || 0) + gain;
+    let level = st.level || 1;
+    let leveledUp = false;
+    while(xp >= xpForLevel(level)) {
+        xp -= xpForLevel(level);
+        level += 1;
+        leveledUp = true;
+    }
+    localStorage.setItem('cb_xp', JSON.stringify({ xp, level }));
+    return { gain, level, xp, next: xpForLevel(level), leveledUp };
+}
+
+function showXPFloater(info){
+    const box = document.createElement('div');
+    box.className = 'combo-badge';
+    box.style.top = '18%';
+    box.textContent = info.leveledUp
+        ? `⭐ LEVEL ${info.level}! +${info.gain} XP`
+        : `+${info.gain} XP · Lv.${info.level} (${info.xp}/${info.next})`;
+    document.body.appendChild(box);
+    setTimeout(() => box.remove(), 2000);
+}
+
 function calcSc(){
     const m={"Kolay":1,"Orta":1.5,"Zor":2,"Çok Zor":3}[P.difficulty]||1;
     let tb;if(tm<=60)tb=200;else if(tm<=300)tb=Math.max(0,200-((tm-60)/30|0)*10);
@@ -433,9 +469,11 @@ function updProg(){
 // ─── WIN ───
 function showWin(){
     clearInterval(tint);const sc=calcSc();
+    const perfect = hc === 0;
 
     // Zafer sesi + titreşim + flash
     playSFX('win');
+    if(perfect) showCombo('MÜKEMMEL ÇÖZÜM!');
     if(navigator.vibrate) navigator.vibrate([100, 50, 100, 50, 200]);
 
     const flash = document.createElement('div');
@@ -469,7 +507,7 @@ function showWin(){
     const m={"Kolay":1,"Orta":1.5,"Zor":2,"Çok Zor":3}[P.difficulty]||1;
     let tb;if(tm<=60)tb=200;else if(tm<=300)tb=Math.max(0,200-((tm-60)/30|0)*10);else tb=Math.max(0,100-((tm-300)/60|0)*15);
     document.getElementById('mbd').innerHTML=
-        `📝 Kelime: ${P.words.length} × 10 = <b>${P.words.length*10}</b><br>⚡ Süre: <b>+${tb}</b> (${fmt(tm)})<br>🎯 Çarpan: <b>×${m}</b>${hc?'<br>💡 İpucu: <b>-'+hc*15+'</b>':''}`;
+        `📝 Kelime: ${P.words.length} × 10 = <b>${P.words.length*10}</b><br>⚡ Süre: <b>+${tb}</b> (${fmt(tm)})<br>🎯 Çarpan: <b>×${m}</b>${hc?'<br>💡 İpucu: <b>-'+hc*15+'</b>':''}${perfect?'<br>🌟 Mükemmel Çözüm: <b>+50 XP</b>':''}`;
     try{const s=JSON.parse(localStorage.getItem('cb')||'{}');
     if(!s[PID]||sc>s[PID].s){s[PID]={s:sc,t:tm,h:hc};localStorage.setItem('cb',JSON.stringify(s))}}catch(e){}
 
@@ -491,6 +529,9 @@ function showWin(){
     if(window.CBAuth && window.CBAuth.saveScore) {
         window.CBAuth.saveScore(PID, sc, tm, hc, P.difficulty, window.CB_DAILY_KEY || null);
     }
+
+    const xpInfo = grantXP(sc, perfect);
+    showXPFloater(xpInfo);
 
     saveLastPlayed(true);
     document.getElementById('modal').style.display='flex';
