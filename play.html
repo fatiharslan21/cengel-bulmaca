@@ -7,6 +7,7 @@
 <link rel="stylesheet" href="./css/app.css"> <link rel="stylesheet" href="./css/play.css">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif&family=Manrope:wght@400;500;600;700;800&family=JetBrains+Mono:wght@500;700&display=swap" rel="stylesheet">
+<script src="./js/firebase-config.js" onerror="console.info('firebase-config.js yok; yerel mod.')"></script>
 </head>
 <body>
 <div class="grain"></div>
@@ -17,9 +18,12 @@
         <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><path d="M19 12H5M12 19l-7-7 7-7"/></svg>
     </a>
     <div class="play-title">
-        <button class="theme-btn" id="theme-toggle" title="Gece/Gündüz Modu">🌙</button>
         <h1>Bölüm <span class="ui-puzzle-id">...</span></h1>
         <span class="play-diff" id="ui-puzzle-diff">Yükleniyor</span>
+    </div>
+    <div class="play-actions">
+        <button class="icon-btn" id="sound-toggle" title="Ses">🔊</button>
+        <button class="theme-btn" id="theme-toggle" title="Tema">🌙</button>
     </div>
     <div class="play-stats">
         <div class="ps">
@@ -106,7 +110,8 @@
         <div class="modal-detail" id="mbd"></div>
         <div class="modal-actions">
             <a href="#" class="mbtn mbtn-primary" id="modal-btn-next" style="display:none;">Sonraki Bölüm →</a>
-            <a href="index.html" class="mbtn mbtn-ghost">Tüm Bölümler</a>
+            <button type="button" class="mbtn mbtn-ghost" onclick="window.CBScoreboard && window.CBScoreboard.open()">🏆 Skor</button>
+            <a href="index.html" class="mbtn mbtn-ghost">Ana Sayfa</a>
         </div>
     </div>
 </div>
@@ -131,6 +136,19 @@
             localStorage.setItem('theme', isDark ? 'dark' : 'light');
         });
     }
+
+    // SES TOGGLE
+    const soundBtn = document.getElementById('sound-toggle');
+    const _settings = () => { try { return JSON.parse(localStorage.getItem('cb_settings') || '{}'); } catch(e) { return {}; } };
+    const _saveSettings = (s) => localStorage.setItem('cb_settings', JSON.stringify(s));
+    const curSettings = _settings();
+    if(curSettings.sound === false) soundBtn.textContent = '🔇';
+    soundBtn.addEventListener('click', () => {
+        const s = _settings();
+        s.sound = s.sound === false ? true : false;
+        _saveSettings(s);
+        soundBtn.textContent = s.sound === false ? '🔇' : '🔊';
+    });
     // 1. URL'den hangi bölümde olduğumuzu anla (Örn: play.html?id=5)
     const urlParams = new URLSearchParams(window.location.search);
     const levelId = parseInt(urlParams.get('id')) || 1;
@@ -176,6 +194,14 @@
                 modalNextBtn.href = `play.html?id=${levelId + 1}`;
                 modalNextBtn.style.display = 'inline-flex';
             }
+
+            // Auth + Scoreboard yükle
+            const authScript = document.createElement('script');
+            authScript.src = './js/auth.js';
+            document.body.appendChild(authScript);
+            const sbScript = document.createElement('script');
+            sbScript.src = './js/scoreboard.js';
+            document.body.appendChild(sbScript);
 
             // 6. JSON başarıyla çekildikten sonra oyun motorunu (play.js) sayfanın içine yükle
             const script = document.createElement('script');

@@ -7,6 +7,9 @@
     <link rel="stylesheet" href="./css/app.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <!-- Firebase yapılandırması: ./js/firebase-config.js dosyasını oluşturup
+         window.CB_FIREBASE_CONFIG = {...} tanımlayabilirsiniz. -->
+    <script src="./js/firebase-config.js" onerror="console.info('firebase-config.js bulunamadı; yerel mod.')"></script>
 </head>
 <body>
 <div class="grain"></div>
@@ -17,12 +20,16 @@
         <div class="logo-mark">Ç</div>
         <span>Çengel Bulmaca</span>
     </div>
-    <div class="hdr-r" style="display: flex; flex-direction: column; align-items: flex-end; gap: 4px;">
+    <div class="hdr-r" style="display: flex; align-items: center; gap: 8px;">
+        <button class="sb-btn" id="open-scoreboard" title="Puan Tablosu">🏆 Skor</button>
+        <button class="auth-btn" id="auth-btn" title="Giriş">Giriş</button>
         <button class="theme-btn" id="theme-toggle" title="Gece/Gündüz Modu">🌙</button>
-        <span class="total-badge">100 bölüm</span>
-        <span id="global-progress" style="font-size: 10px; color: var(--green); font-weight: 700; display: none;"></span>
     </div>
 </header>
+<div id="progress-strip" class="progress-strip" style="display:none;">
+    <div class="ps-text"><span id="global-progress-text"></span></div>
+    <div class="ps-track"><div class="ps-fill" id="ps-fill"></div></div>
+</div>
 
 <section class="hero">
     <p class="hero-over">TÜRKÇE KELİME OYUNU</p>
@@ -155,13 +162,53 @@ try{
         const c=document.getElementById('c'+id);if(c)c.classList.add('done');
     });
 
-    // GÜNCELLEME: Eğer en az 1 bölüm bittiyse skoru göster
+    // İlerleme şeridi
     if(completedCount > 0) {
-        const progBadge = document.getElementById('global-progress');
-        progBadge.textContent = `${completedCount}/100 Tamamlandı`;
-        progBadge.style.display = 'block';
+        const strip = document.getElementById('progress-strip');
+        const text = document.getElementById('global-progress-text');
+        const fill = document.getElementById('ps-fill');
+        const pct = (completedCount / 100) * 100;
+        text.innerHTML = `<b>${completedCount}</b>/100 tamamlandı · <span style="color:var(--green)">%${pct|0}</span>`;
+        fill.style.width = pct + '%';
+        strip.style.display = 'block';
     }
 }catch(e){}
+</script>
+
+<script src="./js/auth.js"></script>
+<script src="./js/scoreboard.js"></script>
+<script>
+// AUTH BUTONU + SCOREBOARD
+const authBtn = document.getElementById('auth-btn');
+const sbBtn = document.getElementById('open-scoreboard');
+
+function refreshAuthBtn(user) {
+    if(user) {
+        const initial = (user.name || '?')[0].toUpperCase();
+        const avatar = user.photoURL
+            ? `<img src="${user.photoURL}" alt="">`
+            : `<span class="auth-btn-icon">${initial}</span>`;
+        authBtn.innerHTML = avatar + '<span>' + (user.name || 'Kullanıcı').split(' ')[0] + '</span>';
+        authBtn.title = user.name;
+    } else {
+        authBtn.innerHTML = 'Giriş';
+    }
+}
+
+if(window.CBAuth) {
+    window.CBAuth.onAuthChange(refreshAuthBtn);
+}
+
+authBtn.addEventListener('click', async () => {
+    const user = window.CBAuth && window.CBAuth.getUser();
+    if(user) {
+        window.CBScoreboard.open();
+    } else {
+        if(window.CBAuth) await window.CBAuth.signIn();
+    }
+});
+
+sbBtn.addEventListener('click', () => window.CBScoreboard.open());
 </script>
 </body>
 </html>

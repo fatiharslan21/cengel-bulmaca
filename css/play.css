@@ -28,6 +28,21 @@
 .back-btn:active { transform: scale(.92); }
 
 .play-title { flex: 1; text-align: center; }
+.play-actions {
+    display: flex; align-items: center; gap: 4px;
+}
+.icon-btn {
+    background: transparent;
+    border: none;
+    width: 34px; height: 34px;
+    border-radius: 10px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: all .2s var(--ease);
+    display: inline-flex; align-items: center; justify-content: center;
+}
+.icon-btn:hover { background: var(--sand); transform: scale(1.1); }
+.icon-btn:active { transform: scale(.9); }
 .play-title h1 { font-size: 15px; font-weight: 700; letter-spacing: -.02em; }
 .play-diff {
     display: inline-block;
@@ -112,43 +127,68 @@
 .grid-frame {
     background: var(--white);
     border: 1px solid var(--stone);
-    border-radius: 12px;
-    padding: 6px;
-    box-shadow: 0 2px 12px rgba(0,0,0,.04), 0 0 0 1px rgba(0,0,0,.02);
+    border-radius: 14px;
+    padding: 8px;
+    box-shadow: 0 2px 16px rgba(0,0,0,.05), 0 0 0 1px rgba(0,0,0,.02);
+    position: relative;
+    overflow: hidden;
+}
+.grid-frame::before {
+    content: '';
+    position: absolute; inset: 0;
+    background: radial-gradient(circle at 50% 0%, var(--accent-light), transparent 60%);
+    opacity: .35;
+    pointer-events: none;
 }
 
-.grid-scroll { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+.grid-scroll {
+    overflow: auto;
+    -webkit-overflow-scrolling: touch;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    z-index: 1;
+}
 
 .grid {
     display: inline-grid;
     gap: 2px;
     background: var(--stone);
-    border-radius: 6px;
-    padding: 1px;
+    border-radius: 8px;
+    padding: 2px;
+    --cell-size: 34px;
+    grid-template-columns: repeat(var(--cols, 10), var(--cell-size));
+    touch-action: manipulation;
 }
 
 /* ─── CELLS ─── */
 .cell {
-    width: 34px; height: 34px;
+    width: var(--cell-size); height: var(--cell-size);
     display: flex; align-items: center; justify-content: center;
     position: relative;
-    border-radius: 3px;
+    border-radius: 4px;
     cursor: pointer;
     user-select: none;
     background: var(--white);
-    transition: background .12s, transform .1s, box-shadow .12s;
+    transition: background .18s var(--ease), transform .12s var(--ease), box-shadow .18s var(--ease);
 }
 
 .cell.bk { background: var(--ink); cursor: default; border-radius: 2px; }
 
 .cell.sel {
     background: var(--accent);
-    box-shadow: 0 0 0 2px var(--accent), 0 0 16px rgba(29,78,216,.15);
+    box-shadow: 0 0 0 2px var(--accent), 0 4px 20px rgba(29,78,216,.35);
     z-index: 2;
-    transform: scale(1.02);
+    transform: scale(1.06);
+    animation: cellPulse 1.6s ease-in-out infinite;
 }
 .cell.sel .lt { color: var(--white); }
-.cell.sel .nm { color: rgba(255,255,255,.6); }
+.cell.sel .nm { color: rgba(255,255,255,.7); }
+
+@keyframes cellPulse {
+    0%, 100% { box-shadow: 0 0 0 2px var(--accent), 0 4px 20px rgba(29,78,216,.35); }
+    50% { box-shadow: 0 0 0 2px var(--accent), 0 4px 28px rgba(29,78,216,.6); }
+}
 
 .cell.iw { background: var(--accent-light); }
 
@@ -156,12 +196,33 @@
 .cell.ok {
     background: var(--green-light);
     pointer-events: none;
-    animation: okPulse .4s var(--ease);
+    animation: okPulse .5s var(--spring);
 }
-.cell.ok .lt { color: var(--green); }
+.cell.ok .lt { color: var(--green); font-weight: 800; }
 
 @keyframes okPulse {
-    0% { background: var(--green-mid); transform: scale(1.06); }
+    0% { background: var(--green-mid); transform: scale(1.15); box-shadow: 0 0 20px rgba(22,163,74,.6); }
+    60% { transform: scale(.95); }
+    100% { background: var(--green-light); transform: scale(1); box-shadow: 0 0 0 rgba(22,163,74,0); }
+}
+
+/* Ripple efekti */
+.cell-ripple {
+    position: absolute;
+    border-radius: 50%;
+    transform: scale(0);
+    background: var(--accent);
+    opacity: .4;
+    pointer-events: none;
+    animation: ripple .5s ease-out forwards;
+}
+@keyframes ripple {
+    to { transform: scale(3); opacity: 0; }
+}
+
+/* Kelime tamamlandığında yeşil dalga */
+@keyframes wordWave {
+    0% { background: var(--green); transform: scale(1.2); }
     100% { background: var(--green-light); transform: scale(1); }
 }
 
@@ -175,14 +236,15 @@
 
 .nm {
     position: absolute; top: 1px; left: 3px;
-    font-size: 7px; font-weight: 700;
+    font-size: calc(var(--cell-size) * 0.22);
+    font-weight: 700;
     color: var(--slate);
     pointer-events: none; line-height: 1;
 }
 
 .lt {
     font-family: var(--mono);
-    font-size: 15px;
+    font-size: calc(var(--cell-size) * 0.5);
     font-weight: 700;
     color: var(--ink);
     pointer-events: none;
@@ -480,21 +542,70 @@
 }
 
 /* ─── RESPONSIVE ─── */
-@media (max-width: 480px) {
-    .play-main { flex-direction: column; margin: 6px 10px 0; }
-    .grid-col { align-self: center; }
-    .clue-col { max-height: 170px; }
-    .cell { width: 30px; height: 30px; }
-    .lt { font-size: 13px; }
-    .nm { font-size: 6px; }
-    .key { width: 27px; padding: 10px 0; font-size: 13px; border-radius: 6px; }
-    .key-bs { width: 40px; }
+@media (max-width: 768px) {
+    .play-main { flex-direction: column; margin: 6px 10px 0; gap: 10px; }
+    .grid-col { align-self: stretch; width: 100%; }
+    .clue-col { max-height: 180px; min-width: 0; }
+    .grid-frame { padding: 6px; }
+    .keyboard { max-width: 100%; padding: 0 4px; }
+    .kb-r { gap: 2px; }
+    .key {
+        flex: 1 1 0;
+        min-width: 0;
+        width: auto;
+        padding: 10px 0;
+        font-size: 13px;
+        border-radius: 7px;
+    }
+    .key-bs { flex: 1.6 1 0; }
     .play-stats { gap: 0; }
     .ps { padding: 0 6px; }
     .ps-v { font-size: 13px; }
     .clue-strip { margin: 6px 10px 0; }
     .modal { padding: 24px 18px; }
+    .toolbar { flex-wrap: wrap; }
+    .tool { padding: 8px 12px; font-size: 11.5px; }
 }
+@media (max-width: 400px) {
+    .play-hdr { padding: 10px 10px; gap: 6px; }
+    .play-title h1 { font-size: 13px; }
+    .play-diff { font-size: 8px; padding: 1px 6px; }
+    .ps { padding: 0 4px; }
+    .ps-v { font-size: 12px; }
+    .ps-l { font-size: 7px; }
+    .clue-t { font-size: 12px; }
+}
+@media (max-width: 380px) {
+    .key { padding: 9px 0; font-size: 12px; }
+}
+
+/* ─── PINCH-ZOOM WRAPPER ─── */
+.grid-zoom {
+    transform-origin: top center;
+    transition: transform .3s var(--ease);
+    display: inline-block;
+}
+
+/* ─── ZOOM CONTROLS ─── */
+.zoom-hint {
+    position: absolute;
+    top: 8px; right: 10px;
+    font-size: 9px;
+    color: var(--ash);
+    background: var(--white);
+    padding: 3px 7px;
+    border-radius: 10px;
+    border: 1px solid var(--stone);
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity .3s;
+    z-index: 5;
+    font-weight: 600;
+    letter-spacing: .05em;
+    text-transform: uppercase;
+}
+.grid-frame:hover .zoom-hint,
+.grid-frame.show-hint .zoom-hint { opacity: 1; }
 
 /* YÜZEN PUAN ANİMASYONU */
 .floating-score {
@@ -502,15 +613,102 @@
     color: var(--green);
     font-family: var(--mono);
     font-weight: 800;
-    font-size: 18px;
+    font-size: 20px;
     pointer-events: none;
     z-index: 1000;
-    text-shadow: 0 2px 10px rgba(22, 163, 74, 0.4);
-    animation: floatUp 1s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+    text-shadow: 0 2px 12px rgba(22, 163, 74, 0.5);
+    animation: floatUp 1.2s cubic-bezier(0.16, 1, 0.3, 1) forwards;
 }
 
 @keyframes floatUp {
-    0% { opacity: 0; transform: translateY(10px) scale(0.5); }
-    20% { opacity: 1; transform: translateY(-5px) scale(1.2); }
-    100% { opacity: 0; transform: translateY(-40px) scale(1); }
+    0% { opacity: 0; transform: translateY(10px) scale(0.4); }
+    15% { opacity: 1; transform: translateY(-5px) scale(1.3); }
+    100% { opacity: 0; transform: translateY(-60px) scale(1); }
+}
+
+/* PARÇACIK (PARTICLE) EFEKTİ */
+.particle {
+    position: fixed;
+    pointer-events: none;
+    z-index: 999;
+    border-radius: 50%;
+    animation: particleFly 1s ease-out forwards;
+}
+@keyframes particleFly {
+    0% { opacity: 1; transform: translate(0,0) scale(1); }
+    100% { opacity: 0; transform: translate(var(--dx,0), var(--dy,0)) scale(0); }
+}
+
+/* STAR BURST - kelime tamamlandığında */
+.star-burst {
+    position: fixed;
+    pointer-events: none;
+    font-size: 24px;
+    z-index: 1000;
+    animation: starBurst 1.2s ease-out forwards;
+}
+@keyframes starBurst {
+    0% { opacity: 0; transform: scale(0) rotate(0); }
+    20% { opacity: 1; transform: scale(1.5) rotate(90deg); }
+    100% { opacity: 0; transform: scale(.5) rotate(360deg) translateY(-40px); }
+}
+
+/* STREAK COMBO BADGE */
+.combo-badge {
+    position: fixed;
+    top: 50%; left: 50%;
+    transform: translate(-50%, -50%) scale(0);
+    background: linear-gradient(135deg, #FFB800, #FF6B00);
+    color: white;
+    padding: 16px 32px;
+    border-radius: 100px;
+    font-family: var(--display);
+    font-size: 28px;
+    font-weight: 700;
+    pointer-events: none;
+    z-index: 2000;
+    box-shadow: 0 8px 32px rgba(255,107,0,.4);
+    animation: comboPop 1.4s var(--spring) forwards;
+    text-shadow: 0 2px 10px rgba(0,0,0,.2);
+    letter-spacing: .02em;
+}
+@keyframes comboPop {
+    0% { transform: translate(-50%, -50%) scale(0) rotate(-15deg); opacity: 0; }
+    30% { transform: translate(-50%, -50%) scale(1.2) rotate(5deg); opacity: 1; }
+    50% { transform: translate(-50%, -50%) scale(1) rotate(0); }
+    80% { transform: translate(-50%, -50%) scale(1); opacity: 1; }
+    100% { transform: translate(-50%, -150%) scale(.8) rotate(-5deg); opacity: 0; }
+}
+
+/* TIMER KRİTİK - kalan süre düşükse */
+.ps-v.critical {
+    color: var(--red) !important;
+    animation: timerFlash 1s ease-in-out infinite;
+}
+@keyframes timerFlash {
+    0%, 100% { opacity: 1; }
+    50% { opacity: .5; }
+}
+
+/* SCREEN FLASH - kazanınca */
+.screen-flash {
+    position: fixed; inset: 0;
+    background: radial-gradient(circle at 50% 50%, rgba(22,163,74,.3), transparent 60%);
+    pointer-events: none; z-index: 150;
+    animation: screenFlash .8s ease-out forwards;
+}
+@keyframes screenFlash {
+    0% { opacity: 0; }
+    20% { opacity: 1; }
+    100% { opacity: 0; }
+}
+
+/* TUŞA BASMA ANİMASYONU */
+.key.pressed {
+    animation: keyPress .15s ease;
+}
+@keyframes keyPress {
+    0% { transform: scale(1); }
+    50% { transform: translateY(3px) scale(.94); background: var(--accent-light); }
+    100% { transform: scale(1); }
 }
