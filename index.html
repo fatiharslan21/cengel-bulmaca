@@ -34,11 +34,47 @@
     <div class="ps-track"><div class="ps-fill" id="ps-fill"></div></div>
 </div>
 
-<section class="hero">
-    <p class="hero-over">TÜRKÇE KELİME OYUNU</p>
-    <h1>Kelimeleri <em>bul</em>,<br>süreyi <em>yen</em>.</h1>
-    <p class="hero-sub">Hızlı çöz, yüksek puan kazan. Her saniye sayıyor.</p>
-    <div class="hero-line"></div>
+<section class="hero-v2">
+    <div class="hero-bg" aria-hidden="true">
+        <div class="hero-blob hb-1"></div>
+        <div class="hero-blob hb-2"></div>
+        <div class="hero-ornament">
+            <span class="ho-cell" style="--i:0">Ç</span>
+            <span class="ho-cell" style="--i:1">E</span>
+            <span class="ho-cell" style="--i:2">N</span>
+            <span class="ho-cell" style="--i:3">G</span>
+            <span class="ho-cell" style="--i:4">E</span>
+            <span class="ho-cell" style="--i:5">L</span>
+        </div>
+    </div>
+
+    <div class="hero-badge">
+        <span class="hb-dot"></span>
+        <span><b>500</b> bulmaca · Türkçe &amp; eski Türkçe · Her gün yeni</span>
+    </div>
+
+    <h1 class="hero-headline">
+        Harf harf<br>
+        <span class="hl-accent">zamana</span><br>
+        meydan oku.
+    </h1>
+
+    <p class="hero-tagline">Çengel bulmacayı yeniden tasarladık. Mobilde akıcı, zor bölümlerde zekice, her gün farklı.</p>
+
+    <div class="hero-stats-row">
+        <div class="stat-cell">
+            <span class="stat-num" id="hs-total">500</span>
+            <span class="stat-lbl">Bulmaca</span>
+        </div>
+        <div class="stat-cell">
+            <span class="stat-num" id="hs-done">0</span>
+            <span class="stat-lbl">Çözdüğün</span>
+        </div>
+        <div class="stat-cell">
+            <span class="stat-num" id="hs-score">0</span>
+            <span class="stat-lbl">Puanın</span>
+        </div>
+    </div>
 </section>
 
 <a class="daily-card" id="daily-card" href="#">
@@ -200,17 +236,35 @@ document.querySelectorAll('.tab').forEach(t=>{t.onclick=()=>{
 // LOCALSTORAGE PUAN KONTROLÜ VE GENEL İLERLEME
 try{
     const s=JSON.parse(localStorage.getItem('cb')||'{}');
-    let completedCount = 0; // GÜNCELLEME: Sayaç eklendi
-    
+    let completedCount = 0;
+    let totalScore = 0;
+
     Object.entries(s).forEach(([id,d])=>{
         const e=document.getElementById('s'+id);
         if(e){
             e.textContent='✓ '+d.s+'p';
             e.classList.add('has');
-            completedCount++; // Tamamlananları say
+            completedCount++;
+            totalScore += (d.s || 0);
         }
         const c=document.getElementById('c'+id);if(c)c.classList.add('done');
     });
+
+    // Hero istatistikleri — sayaç animasyonuyla
+    function animateCount(el, target, dur=900) {
+        if(!el) return;
+        const start = 0;
+        const t0 = performance.now();
+        function tick(t) {
+            const p = Math.min(1, (t - t0) / dur);
+            const eased = 1 - Math.pow(1-p, 3);
+            el.textContent = Math.floor(start + (target - start) * eased).toLocaleString('tr');
+            if(p < 1) requestAnimationFrame(tick);
+        }
+        requestAnimationFrame(tick);
+    }
+    animateCount(document.getElementById('hs-done'), completedCount);
+    animateCount(document.getElementById('hs-score'), totalScore);
 
     // İlerleme şeridi
     if(completedCount > 0) {
