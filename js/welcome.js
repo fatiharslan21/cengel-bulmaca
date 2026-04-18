@@ -19,21 +19,21 @@
                 <h2 class="welcome-title">Hesabınla Devam Et</h2>
                 <p class="welcome-sub">Bölümlere girmek için kayıt olman veya giriş yapman gerekir.</p>
 
-                <div style="display:flex;gap:8px;margin-bottom:10px;">
-                    <button type="button" class="welcome-btn" id="tab-register" style="flex:1;">Kayıt Ol</button>
-                    <button type="button" class="welcome-btn" id="tab-login" style="flex:1;background:var(--panel-2);color:var(--text)">Giriş Yap</button>
+                <div class="auth-tabs">
+                    <button type="button" class="welcome-btn auth-tab is-active" id="tab-register">Kayıt Ol</button>
+                    <button type="button" class="welcome-btn auth-tab" id="tab-login">Giriş Yap</button>
                 </div>
 
                 <form class="welcome-form" id="welcome-form">
                     <input type="text" id="welcome-name" placeholder="Kullanıcı adı" maxlength="24" autocomplete="username" spellcheck="false" required>
-                    <div style="position:relative;">
-                        <input type="password" id="welcome-pass" placeholder="Şifre" minlength="4" autocomplete="current-password" required style="padding-right:42px;">
-                        <button type="button" id="toggle-pass" style="position:absolute;right:8px;top:50%;transform:translateY(-50%);background:none;border:none;cursor:pointer;font-size:16px;">👁️</button>
+                    <div class="pass-wrap">
+                        <input type="password" id="welcome-pass" placeholder="Şifre" minlength="4" autocomplete="current-password" required>
+                        <button type="button" class="pass-toggle" id="toggle-pass" aria-label="Şifreyi göster/gizle">👁️</button>
                     </div>
                     <input type="password" id="welcome-pass2" placeholder="Şifre (tekrar)" minlength="4" autocomplete="new-password" required>
-                    <button type="submit" class="welcome-btn"><span id="welcome-btn-label">Kayıt Ol</span></button>
+                    <button type="submit" class="welcome-btn welcome-submit"><span id="welcome-btn-label">Kayıt Ol</span></button>
                 </form>
-                <p id="welcome-msg" class="welcome-note" style="justify-content:center;min-height:20px"></p>
+                <p id="welcome-msg" class="welcome-note"></p>
             </div>
         `;
         document.body.appendChild(modal);
@@ -50,10 +50,8 @@
 
         function setMode(nextMode) {
             mode = nextMode;
-            const onStyle = 'flex:1;';
-            const offStyle = 'flex:1;background:var(--panel-2);color:var(--text)';
-            registerBtn.setAttribute('style', nextMode === 'register' ? onStyle : offStyle);
-            loginBtn.setAttribute('style', nextMode === 'login' ? onStyle : offStyle);
+            registerBtn.classList.toggle('is-active', nextMode === 'register');
+            loginBtn.classList.toggle('is-active', nextMode === 'login');
             btnLabel.textContent = nextMode === 'register' ? 'Kayıt Ol' : 'Giriş Yap';
             passAgainInput.style.display = nextMode === 'register' ? 'block' : 'none';
             passAgainInput.required = nextMode === 'register';
@@ -77,11 +75,11 @@
 
             if(mode === 'register' && password !== password2) {
                 msg.textContent = 'Şifreler aynı değil.';
-                msg.style.color = '#ef4444';
+                msg.classList.add('error');
                 return;
             }
 
-            const submitBtn = form.querySelector('.welcome-btn');
+            const submitBtn = form.querySelector('.welcome-submit');
             submitBtn.disabled = true;
             btnLabel.textContent = 'Yükleniyor…';
 
@@ -93,7 +91,8 @@
 
             if(result?.ok) {
                 msg.textContent = '✅ Başarılı, yönlendiriliyorsun…';
-                msg.style.color = 'var(--green)';
+                msg.classList.remove('error');
+                msg.classList.add('success');
                 setTimeout(() => {
                     close();
                     window.dispatchEvent(new CustomEvent('cbAuthRequiredResolved'));
@@ -105,7 +104,8 @@
             }
 
             msg.textContent = result?.message || 'İşlem başarısız.';
-            msg.style.color = '#ef4444';
+            msg.classList.remove('success');
+            msg.classList.add('error');
         });
 
         return modal;

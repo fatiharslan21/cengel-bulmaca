@@ -1127,6 +1127,73 @@ footer p { font-size: 11px; color: var(--ash); font-weight: 500; }
     position: relative; z-index: 1;
 }
 
+
+.auth-tabs {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 8px;
+    margin-bottom: 10px;
+    position: relative;
+    z-index: 1;
+}
+.auth-tab {
+    width: 100%;
+    justify-content: center;
+    background: var(--panel-2);
+    color: var(--text);
+    box-shadow: none;
+}
+.auth-tab.is-active {
+    background: linear-gradient(135deg, var(--accent), var(--purple));
+    color: #fff;
+    box-shadow: 0 6px 20px rgba(29,78,216,.3);
+}
+.welcome-form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    position: relative; z-index: 1;
+}
+.welcome-form input,
+.pass-wrap {
+    width: 100%;
+    box-sizing: border-box;
+}
+.pass-wrap {
+    position: relative;
+}
+.pass-wrap input {
+    padding-right: 44px;
+}
+.pass-toggle {
+    position: absolute;
+    right: 8px;
+    top: 50%;
+    transform: translateY(-50%);
+    border: none;
+    background: transparent;
+    cursor: pointer;
+    font-size: 16px;
+}
+.welcome-submit {
+    width: 100%;
+    justify-content: center;
+}
+.welcome-note {
+    margin-top: 16px;
+    font-size: 12px;
+    color: var(--ash);
+    min-height: 18px;
+    display: flex; align-items: center; justify-content: center; gap: 6px;
+    position: relative; z-index: 1;
+}
+.welcome-note.error { color: #ef4444; }
+.welcome-note.success { color: var(--green); }
+@media (max-width: 420px) {
+    .welcome-modal { padding: 28px 16px 18px; border-radius: 18px; }
+    .welcome-title { font-size: 28px; }
+}
+
 /* ═══════════════════════════════════════
    SCOREBOARD / AUTH
    ═══════════════════════════════════════ */
