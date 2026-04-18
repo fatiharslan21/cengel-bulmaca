@@ -38,7 +38,23 @@
             e.preventDefault();
             const name = input.value.trim();
             if(!name) return;
-            await window.CBAuth.setName(name);
+
+            const btn = form.querySelector('.welcome-btn');
+            const btnText = btn.querySelector('span');
+            const prevText = btnText.textContent;
+            btn.disabled = true;
+            btnText.textContent = 'Yükleniyor…';
+
+            const result = await window.CBAuth.setName(name);
+
+            btn.disabled = false;
+            btnText.textContent = prevText;
+
+            if(result?.changed) {
+                // Yeni/farklı kullanıcı — sayfa yenilenerek güncel skorlar yansır
+                window.location.reload();
+                return;
+            }
             close();
         });
         return modal;

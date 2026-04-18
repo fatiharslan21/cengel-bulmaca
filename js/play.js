@@ -468,7 +468,7 @@ function showWin(){
 
     // Scoreboard'a kaydet (auth varsa cloud'a, yoksa local'a)
     if(window.CBAuth && window.CBAuth.saveScore) {
-        window.CBAuth.saveScore(PID, sc, tm, hc, P.difficulty);
+        window.CBAuth.saveScore(PID, sc, tm, hc, P.difficulty, window.CB_DAILY_KEY || null);
     }
 
     document.getElementById('modal').style.display='flex';
