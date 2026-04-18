@@ -161,7 +161,7 @@
       "row": 3,
       "col": 2,
       "length": 3,
-      "clue": "Daire çapı",
+      "clue": "Dairenin merkezinden geçen doğru parçası",
       "answer": "ÇAP"
     },
     {
@@ -170,7 +170,7 @@
       "row": 3,
       "col": 2,
       "length": 5,
-      "clue": "Etraf, çepeçevre",
+      "clue": "Bir şeyin etrafını kuşatan alan",
       "answer": "ÇEVRE"
     },
     {
