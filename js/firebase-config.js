@@ -19,7 +19,7 @@
      }
    }
    ───────────────────────────────────────────── */
-const firebaseConfig = {
+window.CB_FIREBASE_CONFIG = {
   apiKey: "AIzaSyDoUk9ENTW5UALblV3kAIdmdEp9GPhNQI8",
   authDomain: "cengel-bulmaca-84b15.firebaseapp.com",
   projectId: "cengel-bulmaca-84b15",
