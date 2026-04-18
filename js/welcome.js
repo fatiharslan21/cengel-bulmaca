@@ -5,6 +5,76 @@
     let modal = null;
     let authLoadAttempted = false;
 
+    function createFallbackAuth() {
+        if(window.CBAuth && typeof window.CBAuth.login === 'function') return window.CBAuth;
+
+        const STORE_USER = 'cb_user';
+        const STORE_ACCOUNTS = 'cb_accounts_local';
+
+        const normalizeName = (name) => (name || '').trim().toLowerCase()
+            .normalize('NFD').replace(/[\u0300-\u036f]/g, '')
+            .replace(/[^a-z0-9]+/g, '_')
+            .replace(/^_+|_+$/g, '')
+            .slice(0, 40);
+
+        const getAccounts = () => {
+            try { return JSON.parse(localStorage.getItem(STORE_ACCOUNTS) || '{}'); } catch(e) { return {}; }
+        };
+        const setAccounts = (v) => localStorage.setItem(STORE_ACCOUNTS, JSON.stringify(v));
+        const setUser = (key, name) => {
+            localStorage.setItem(STORE_USER, JSON.stringify({ key, uid:key, name, loggedInAt: Date.now() }));
+        };
+        const getUser = () => {
+            try { return JSON.parse(localStorage.getItem(STORE_USER) || 'null'); } catch(e) { return null; }
+        };
+        const clearUser = () => localStorage.removeItem(STORE_USER);
+        const hash = async (pw) => {
+            try {
+                if(window.crypto?.subtle) {
+                    const buf = await crypto.subtle.digest('SHA-256', new TextEncoder().encode(pw));
+                    return [...new Uint8Array(buf)].map(b=>b.toString(16).padStart(2,'0')).join('');
+                }
+            } catch(e) {}
+            return `plain:${pw}`;
+        };
+
+        window.CBAuth = {
+            async register(username, password) {
+                const clean = (username || '').trim();
+                if(clean.length < 3) return { ok:false, message:'Kullanıcı adı en az 3 karakter olmalı.' };
+                if((password || '').length < 4) return { ok:false, message:'Şifre en az 4 karakter olmalı.' };
+                const key = normalizeName(clean);
+                if(!key) return { ok:false, message:'Geçerli bir kullanıcı adı girin.' };
+                const all = getAccounts();
+                if(all[key]) return { ok:false, message:'Bu kullanıcı adı zaten kayıtlı.' };
+                all[key] = { username: clean, passHash: await hash(password), createdAt: Date.now() };
+                setAccounts(all);
+                setUser(key, clean);
+                return { ok:true, mode:'register' };
+            },
+            async login(username, password) {
+                const clean = (username || '').trim();
+                if(clean.length < 3) return { ok:false, message:'Kullanıcı adı en az 3 karakter olmalı.' };
+                if((password || '').length < 4) return { ok:false, message:'Şifre en az 4 karakter olmalı.' };
+                const key = normalizeName(clean);
+                const all = getAccounts();
+                const acc = all[key];
+                if(!acc) return { ok:false, message:'Kullanıcı bulunamadı. Önce kayıt ol.' };
+                const passHash = await hash(password);
+                if(acc.passHash !== passHash) return { ok:false, message:'Şifre hatalı.' };
+                setUser(key, acc.username || clean);
+                return { ok:true, mode:'login' };
+            },
+            signOut() { clearUser(); },
+            getUser() { return getUser(); },
+            isLoggedIn() { return !!getUser()?.key; },
+            onAuthChange(fn) { try { if(typeof fn === 'function') fn(getUser()); } catch(e) {} return () => {}; },
+            saveScore() {},
+            getLeaderboard() { return []; }
+        };
+        return window.CBAuth;
+    }
+
     function ensureAuthScript() {
         if(authLoadAttempted || (window.CBAuth && typeof window.CBAuth.login === 'function')) return;
         authLoadAttempted = true;
@@ -23,7 +93,8 @@
             }
             await new Promise(r => setTimeout(r, 80));
         }
-        return false;
+        createFallbackAuth();
+        return !!(window.CBAuth && typeof window.CBAuth.register === 'function' && typeof window.CBAuth.login === 'function');
     }
 
     function build() {
