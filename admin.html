@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1">
+    <title>Admin Panel — Çengel Bulmaca</title>
+    <link rel="stylesheet" href="./css/app.css">
+    <script src="./js/firebase-config.js" onerror="console.info('firebase-config.js bulunamadı; yerel mod.')"></script>
+</head>
+<body>
+<div class="wrap" style="max-width:920px;padding:24px;">
+    <header style="margin-bottom:14px;display:flex;justify-content:space-between;align-items:center;">
+        <h1 style="font-family:var(--display);">🛠 Admin Panel</h1>
+        <a href="index.html" class="sb-btn">Ana Sayfa</a>
+    </header>
+
+    <section class="info-card" style="padding:16px;margin-bottom:12px;">
+        <h3 style="margin-bottom:8px;">Giriş Bilgisi</h3>
+        <p style="font-size:13px;color:var(--slate);">Kullanıcı adı: <b>fatih</b> · Şifre: <b>Aa053150.</b></p>
+        <button id="admin-login" class="welcome-btn" style="margin-top:8px;">Admin Olarak Giriş Yap</button>
+        <div id="admin-auth-msg" style="margin-top:6px;font-size:12px;color:var(--ash);"></div>
+    </section>
+
+    <section class="info-card" style="padding:16px;">
+        <h3 style="margin-bottom:10px;">Bulmaca Üretim Pipeline</h3>
+        <div class="admin-actions">
+            <button class="welcome-btn admin-btn" id="admin-repeat">Tekrar Analizi</button>
+            <button class="welcome-btn admin-btn" id="admin-template">Yeni Şablon İndir</button>
+        </div>
+        <pre class="admin-log" id="admin-log">Hazır.</pre>
+    </section>
+</div>
+
+<script src="./js/auth.js"></script>
+<script>
+(function(){
+    const loginBtn = document.getElementById('admin-login');
+    const msg = document.getElementById('admin-auth-msg');
+    const log = document.getElementById('admin-log');
+
+    async function ensureAdmin(){
+        if(window.CBAuth?.isLoggedIn() && window.CBAuth?.isAdmin && window.CBAuth.isAdmin()) {
+            msg.textContent = '✅ Admin oturumu aktif.';
+            return true;
+        }
+        msg.textContent = 'Admin girişi gerekli.';
+        return false;
+    }
+
+    loginBtn.addEventListener('click', async () => {
+        const r = await window.CBAuth.login('fatih', 'Aa053150.');
+        if(r?.ok && window.CBAuth.isAdmin()) {
+            msg.textContent = '✅ Admin giriş başarılı.';
+            return;
+        }
+        msg.textContent = r?.message || 'Giriş başarısız.';
+    });
+
+    document.getElementById('admin-repeat').addEventListener('click', async () => {
+        if(!await ensureAdmin()) return;
+        const seen = JSON.parse(localStorage.getItem('cb_seen_clues') || '{}');
+        const top = Object.entries(seen).sort((a,b)=>b[1]-a[1]).slice(0,20);
+        log.textContent = top.length ? top.map((x,i)=>`${i+1}. (${x[1]}x) ${x[0]}`).join('\n') : 'Veri yok.';
+    });
+
+    document.getElementById('admin-template').addEventListener('click', async () => {
+        if(!await ensureAdmin()) return;
+        const template = {
+            title: 'Yeni Çok Zor Bulmaca',
+            difficulty: 'Çok Zor',
+            notes: ['Tekrarı azalt', 'Yeni kelime havuzu', 'Cevap ipucuda geçmesin'],
+            words: [{ clue: '', answer: '', direction: 'across', row: 0, col: 0, length: 0 }]
+        };
+        const blob = new Blob([JSON.stringify(template, null, 2)], { type: 'application/json' });
+        const a = document.createElement('a');
+        a.href = URL.createObjectURL(blob);
+        a.download = 'admin_pipeline_template.json';
+        a.click();
+        setTimeout(() => URL.revokeObjectURL(a.href), 400);
+    });
+
+    ensureAdmin();
+})();
+</script>
+</body>
+</html>
