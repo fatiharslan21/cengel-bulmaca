@@ -299,15 +299,15 @@ const sbBtn = document.getElementById('open-scoreboard');
 
 function refreshUserChip(user) {
     if(!userChip) return;
-    const name = user?.name || 'Misafir';
+    const name = user?.name || 'Giriş yok';
     userChip.querySelector('.uc-avatar').textContent = name[0].toUpperCase();
     userChip.querySelector('.uc-name').textContent = name.split(' ')[0];
-    userChip.title = name + ' — isim değiştirmek için tıkla';
+    userChip.title = user ? (name + ' — çıkış yapmak için tıkla') : 'Giriş yap';
 }
 if(window.CBAuth) window.CBAuth.onAuthChange(refreshUserChip);
 
 userChip?.addEventListener('click', () => {
-    if(window.CBWelcome) window.CBWelcome.open({ mode: 'edit' });
+    if(window.CBAuth?.isLoggedIn()) { window.CBAuth.signOut(); window.CBWelcome?.open({mode:'login', forced:true}); } else { window.CBWelcome?.open({mode:'login', forced:true}); }
 });
 sbBtn.addEventListener('click', () => window.CBScoreboard.open());
 
@@ -354,6 +354,17 @@ function updateDiffStats() {
 
 updateBanner('Kolay');
 updateDiffStats();
+
+// GİRİŞ ZORUNLULUĞU
+function guardAuthNavigation(e) {
+    if(window.CBWelcome && !window.CBWelcome.requireAuth({ mode: 'login' })) {
+        e.preventDefault();
+        return false;
+    }
+    return true;
+}
+document.querySelectorAll('a.card').forEach(a => a.addEventListener('click', guardAuthNavigation));
+document.getElementById('daily-card')?.addEventListener('click', guardAuthNavigation);
 
 // ─── GÜNÜN BULMACASI ───
 (function(){

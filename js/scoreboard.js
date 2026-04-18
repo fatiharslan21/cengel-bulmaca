@@ -54,24 +54,20 @@
                         <div class="sb-me-name">${escapeHtml(user.name)}</div>
                         <div class="sb-me-sub">${window.CBAuth.isFirebaseReady() ? '☁️ Bulut senkronize' : '📱 Yerel oyuncu'}</div>
                     </div>
-                    <button class="sb-signout">İsmi Değiştir</button>
+                    <button class="sb-signout">Çıkış Yap</button>
                 </div>
             `;
             authDiv.querySelector('.sb-signout').onclick = () => {
-                window.CBWelcome && window.CBWelcome.open({ mode: 'edit' });
-                const obs = setInterval(() => {
-                    if(!document.querySelector('.welcome-overlay.show')) {
-                        clearInterval(obs);
-                        render();
-                    }
-                }, 300);
+                if(window.CBAuth){ window.CBAuth.signOut(); }
+                window.CBWelcome && window.CBWelcome.open({ mode: 'login', forced: true });
+                render();
             };
         } else {
             authDiv.innerHTML = `
                 <div class="sb-signin-box">
-                    <p>Henüz isim girilmemiş.</p>
+                    <p>Henüz giriş yapılmamış.</p>
                     <button class="sb-google-btn">
-                        <span>✨</span> İsmini Gir
+                        <span>✨</span> Giriş / Kayıt
                     </button>
                 </div>
             `;
