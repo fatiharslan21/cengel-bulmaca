@@ -1,25 +1,13 @@
 {
   "id": 94,
   "title": "Bölüm 94",
-  "difficulty": "Çok Zor",
+  "difficulty": "Kolay",
   "grid_size_r": 11,
-  "grid_size_c": 9,
+  "grid_size_c": 8,
   "grid": [
     [
       0,
-      0,
-      0,
-      0,
       1,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
       1,
       1,
       1,
@@ -30,29 +18,16 @@
     [
       0,
       0,
-      0,
-      0,
       1,
       0,
-      1,
       0,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      1,
-      1,
-      1,
       1,
       1,
       1
     ],
     [
-      1,
-      1,
-      1,
+      0,
+      0,
       1,
       0,
       0,
@@ -61,35 +36,12 @@
       0
     ],
     [
-      1,
-      0,
       0,
       1,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      1,
-      0,
-      0,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
       1,
       1,
       1,
       1,
-      0,
-      0,
-      0,
       0,
       0
     ],
@@ -101,6 +53,25 @@
       0,
       0,
       0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
       0,
       0
     ],
@@ -109,19 +80,37 @@
       1,
       1,
       1,
-      0,
-      0,
+      1,
       0,
       0,
       0
     ],
     [
       0,
+      0,
+      0,
+      0,
       1,
       0,
       0,
+      0
+    ],
+    [
       0,
       0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
       0,
       0,
       0
@@ -130,93 +119,84 @@
   "words": [
     {
       "number": 1,
-      "direction": "down",
+      "direction": "across",
       "row": 0,
-      "col": 4,
+      "col": 1,
       "length": 4,
-      "clue": "Yırtık yamağı",
-      "answer": "YAMA"
+      "clue": "Eğitim kurumu",
+      "answer": "OKUL"
     },
     {
       "number": 2,
-      "direction": "across",
-      "row": 1,
-      "col": 3,
-      "length": 3,
-      "clue": "Adalet, doğruluk",
-      "answer": "HAK"
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "length": 4,
+      "clue": "Su kabı",
+      "answer": "KOVA"
     },
     {
       "number": 3,
       "direction": "down",
-      "row": 2,
-      "col": 6,
+      "row": 1,
+      "col": 5,
       "length": 3,
-      "clue": "Uzaklaşma eylemi",
-      "answer": "GİT"
+      "clue": "Konuşma organı",
+      "answer": "DİL"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 1,
+      "col": 5,
+      "length": 3,
+      "clue": "Yüksek arazi şekli",
+      "answer": "DAĞ"
     },
     {
       "number": 4,
       "direction": "down",
       "row": 3,
-      "col": 3,
+      "col": 1,
       "length": 5,
-      "clue": "Aşk, tutku",
-      "answer": "SEVDA"
+      "clue": "Bilme isteği",
+      "answer": "MERAK"
     },
     {
       "number": 4,
       "direction": "across",
       "row": 3,
-      "col": 3,
-      "length": 6,
-      "clue": "Kısa an",
-      "answer": "SANİYE"
+      "col": 1,
+      "length": 5,
+      "clue": "Hayal ürünü hikaye",
+      "answer": "MASAL"
     },
     {
       "number": 5,
       "direction": "across",
-      "row": 4,
+      "row": 5,
       "col": 0,
       "length": 4,
-      "clue": "Amaç, maksat",
-      "answer": "GAYE"
-    },
-    {
-      "number": 5,
-      "direction": "down",
-      "row": 4,
-      "col": 0,
-      "length": 4,
-      "clue": "Başka, özge",
-      "answer": "GAYR"
+      "clue": "Üstünü kapatan",
+      "answer": "ÖRTÜ"
     },
     {
       "number": 6,
-      "direction": "across",
-      "row": 7,
-      "col": 0,
-      "length": 4,
-      "clue": "Yalvarma, dilek",
-      "answer": "RİCA"
+      "direction": "down",
+      "row": 6,
+      "col": 4,
+      "length": 5,
+      "clue": "Yazı aleti",
+      "answer": "KALEM"
     },
     {
       "number": 7,
-      "direction": "down",
+      "direction": "across",
       "row": 7,
       "col": 1,
       "length": 4,
-      "clue": "Kalın olmayan",
-      "answer": "İNCE"
-    },
-    {
-      "number": 8,
-      "direction": "across",
-      "row": 9,
-      "col": 1,
-      "length": 3,
-      "clue": "Giyside küçük kese",
-      "answer": "CEP"
+      "clue": "Ödül bardağı",
+      "answer": "KUPA"
     }
   ]
 }

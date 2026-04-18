@@ -1,0 +1,200 @@
+{
+  "id": 141,
+  "title": "Bölüm 141",
+  "difficulty": "Orta",
+  "grid_size_r": 9,
+  "grid_size_c": 9,
+  "grid": [
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "length": 4,
+      "clue": "Felaket, kötülük",
+      "answer": "BELA"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "length": 4,
+      "clue": "Kızarmış sandviç",
+      "answer": "TOST"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "length": 6,
+      "clue": "Yük aracı",
+      "answer": "KAMYON"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 1,
+      "col": 5,
+      "length": 4,
+      "clue": "Bodur ağaç",
+      "answer": "ÇALI"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "length": 5,
+      "clue": "Kutlama tatlısı",
+      "answer": "PASTA"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 3,
+      "col": 2,
+      "length": 4,
+      "clue": "Zaman aralığı",
+      "answer": "SÜRE"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 5,
+      "col": 4,
+      "length": 4,
+      "clue": "Müzikle hareket",
+      "answer": "DANS"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 5,
+      "col": 4,
+      "length": 3,
+      "clue": "Yüksek arazi şekli",
+      "answer": "DAĞ"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 5,
+      "col": 7,
+      "length": 4,
+      "clue": "Zaman ölçer",
+      "answer": "SAAT"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 6,
+      "col": 1,
+      "length": 4,
+      "clue": "Suça yaptırım",
+      "answer": "CEZA"
+    }
+  ]
+}

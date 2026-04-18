@@ -1,18 +1,43 @@
 {
   "id": 40,
   "title": "Bölüm 40",
-  "difficulty": "Orta",
-  "grid_size_r": 9,
-  "grid_size_c": 12,
+  "difficulty": "Kolay",
+  "grid_size_r": 7,
+  "grid_size_c": 11,
   "grid": [
     [
       0,
+      1,
       0,
       0,
       0,
       0,
       0,
       0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
       1,
       0,
       0,
@@ -21,15 +46,40 @@
     ],
     [
       0,
+      1,
       0,
-      0,
-      0,
+      1,
       0,
       0,
       1,
       1,
       1,
       1,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
       0,
       1
     ],
@@ -41,95 +91,10 @@
       0,
       0,
       0,
-      1,
       0,
       0,
       0,
       1
-    ],
-    [
-      0,
-      0,
-      1,
-      0,
-      0,
-      1,
-      1,
-      1,
-      1,
-      0,
-      0,
-      1
-    ],
-    [
-      0,
-      0,
-      1,
-      0,
-      0,
-      1,
-      0,
-      0,
-      1,
-      0,
-      0,
-      1
-    ],
-    [
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      0,
-      0,
-      1,
-      1,
-      1,
-      1
-    ],
-    [
-      0,
-      0,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0,
-      1,
-      0,
-      1,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      1,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      1,
-      0
     ]
   ],
   "words": [
@@ -137,91 +102,82 @@
       "number": 1,
       "direction": "down",
       "row": 0,
-      "col": 7,
-      "length": 4,
-      "clue": "Yapışkan şerit",
-      "answer": "BANT"
+      "col": 1,
+      "length": 5,
+      "clue": "Yemek aracı",
+      "answer": "KAŞIK"
     },
     {
       "number": 2,
       "direction": "across",
       "row": 1,
-      "col": 6,
+      "col": 0,
       "length": 4,
-      "clue": "Çukur yemek kabı",
-      "answer": "KASE"
+      "clue": "Tahta oyunu",
+      "answer": "DAMA"
     },
     {
       "number": 3,
       "direction": "down",
       "row": 1,
-      "col": 11,
+      "col": 3,
       "length": 5,
-      "clue": "Kanatlı kutsal varlık",
-      "answer": "MELEK"
+      "clue": "Harita kitabı",
+      "answer": "ATLAS"
     },
     {
       "number": 4,
       "direction": "down",
-      "row": 3,
-      "col": 2,
+      "row": 1,
+      "col": 6,
       "length": 4,
-      "clue": "Yırtık yamağı",
-      "answer": "YAMA"
+      "clue": "Otlak alan",
+      "answer": "MERA"
     },
     {
-      "number": 5,
-      "direction": "down",
-      "row": 3,
-      "col": 5,
+      "number": 4,
+      "direction": "across",
+      "row": 1,
+      "col": 6,
       "length": 3,
-      "clue": "Beyaz yağış",
-      "answer": "KAR"
+      "clue": "Tropikal meyve",
+      "answer": "MUZ"
     },
     {
       "number": 5,
       "direction": "across",
-      "row": 3,
-      "col": 5,
+      "row": 2,
+      "col": 3,
       "length": 4,
-      "clue": "Eşya kabı",
-      "answer": "KUTU"
+      "clue": "Bayat olmayan",
+      "answer": "TAZE"
     },
     {
       "number": 6,
-      "direction": "down",
+      "direction": "across",
       "row": 3,
-      "col": 8,
-      "length": 4,
-      "clue": "Yakın olmayan",
-      "answer": "UZAK"
+      "col": 6,
+      "length": 5,
+      "clue": "Programlanabilir makine",
+      "answer": "ROBOT"
     },
     {
       "number": 7,
-      "direction": "across",
-      "row": 5,
-      "col": 0,
-      "length": 6,
-      "clue": "Daire çevresi",
-      "answer": "ÇEMBER"
+      "direction": "down",
+      "row": 3,
+      "col": 10,
+      "length": 4,
+      "clue": "Raylı taşıt",
+      "answer": "TREN"
     },
     {
       "number": 8,
       "direction": "across",
       "row": 5,
-      "col": 8,
-      "length": 4,
-      "clue": "Bacak ucu",
-      "answer": "AYAK"
-    },
-    {
-      "number": 9,
-      "direction": "down",
-      "row": 5,
-      "col": 10,
-      "length": 4,
-      "clue": "Av yapan kişi",
-      "answer": "AVCI"
+      "col": 3,
+      "length": 3,
+      "clue": "Gizli bilgi",
+      "answer": "SIR"
     }
   ]
 }

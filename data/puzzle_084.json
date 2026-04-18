@@ -1,8 +1,8 @@
 {
   "id": 84,
   "title": "Bölüm 84",
-  "difficulty": "Çok Zor",
-  "grid_size_r": 12,
+  "difficulty": "Kolay",
+  "grid_size_r": 7,
   "grid_size_c": 10,
   "grid": [
     [
@@ -13,20 +13,8 @@
       0,
       0,
       0,
-      1,
-      1,
-      1
-    ],
-    [
-      0,
-      0,
-      0,
       0,
       1,
-      0,
-      0,
-      1,
-      0,
       0
     ],
     [
@@ -34,19 +22,7 @@
       0,
       0,
       0,
-      1,
       0,
-      0,
-      1,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      0,
-      1,
       1,
       1,
       1,
@@ -58,35 +34,11 @@
       1,
       0,
       0,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      1,
-      0,
-      1,
-      1,
-      1,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      1,
       0,
       1,
       0,
       0,
-      0,
-      0,
-      0,
+      1,
       0
     ],
     [
@@ -95,10 +47,10 @@
       1,
       1,
       0,
+      1,
       0,
       0,
-      0,
-      0,
+      1,
       0
     ],
     [
@@ -109,31 +61,19 @@
       0,
       1,
       0,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
       1,
       1,
-      1,
-      1,
-      0,
-      0,
-      0,
-      0
+      1
     ],
     [
       0,
       0,
       0,
       1,
-      0,
+      1,
       1,
       0,
-      0,
+      1,
       0,
       0
     ],
@@ -143,9 +83,9 @@
       0,
       0,
       0,
+      0,
+      0,
       1,
-      0,
-      0,
       0,
       0
     ]
@@ -155,91 +95,82 @@
       "number": 1,
       "direction": "down",
       "row": 0,
-      "col": 7,
-      "length": 4,
-      "clue": "Deniz taşıtı",
-      "answer": "GEMİ"
-    },
-    {
-      "number": 1,
-      "direction": "across",
-      "row": 0,
-      "col": 7,
-      "length": 3,
-      "clue": "Görme organı",
-      "answer": "GÖZ"
+      "col": 8,
+      "length": 5,
+      "clue": "Geniş ana yol",
+      "answer": "CADDE"
     },
     {
       "number": 2,
       "direction": "down",
       "row": 1,
-      "col": 4,
+      "col": 5,
       "length": 5,
-      "clue": "Yer, konum",
-      "answer": "MEVKİ"
+      "clue": "Uyulması gereken",
+      "answer": "KURAL"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 1,
+      "col": 5,
+      "length": 5,
+      "clue": "Küçük kırmızı meyve",
+      "answer": "KİRAZ"
     },
     {
       "number": 3,
-      "direction": "across",
-      "row": 3,
-      "col": 4,
-      "length": 6,
-      "clue": "Özlü söz",
-      "answer": "VECİZE"
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "length": 3,
+      "clue": "Rüzgar, esinti",
+      "answer": "YEL"
     },
     {
       "number": 4,
-      "direction": "down",
-      "row": 4,
-      "col": 1,
-      "length": 5,
-      "clue": "Amaç, arzu",
-      "answer": "MERAM"
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "length": 4,
+      "clue": "İlerinin zıttı",
+      "answer": "GERİ"
     },
     {
       "number": 5,
-      "direction": "across",
-      "row": 5,
+      "direction": "down",
+      "row": 3,
       "col": 3,
       "length": 3,
-      "clue": "On yüzlük sayı",
-      "answer": "BİN"
-    },
-    {
-      "number": 5,
-      "direction": "down",
-      "row": 5,
-      "col": 3,
-      "length": 6,
-      "clue": "İçecek kabı",
-      "answer": "BARDAK"
+      "clue": "Birinci, baştaki",
+      "answer": "İLK"
     },
     {
       "number": 6,
       "direction": "across",
-      "row": 7,
-      "col": 0,
-      "length": 4,
-      "clue": "Başka, özge",
-      "answer": "GAYR"
+      "row": 4,
+      "col": 7,
+      "length": 3,
+      "clue": "Birinci tekil kişi",
+      "answer": "BEN"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 4,
+      "col": 7,
+      "length": 3,
+      "clue": "Asit karşıtı",
+      "answer": "BAZ"
     },
     {
       "number": 7,
-      "direction": "down",
-      "row": 8,
-      "col": 5,
-      "length": 4,
-      "clue": "Solunan gaz",
-      "answer": "HAVA"
-    },
-    {
-      "number": 8,
       "direction": "across",
-      "row": 9,
-      "col": 2,
-      "length": 4,
-      "clue": "Utanma duygusu",
-      "answer": "HAYA"
+      "row": 5,
+      "col": 3,
+      "length": 3,
+      "clue": "Üst beden uzvu",
+      "answer": "KOL"
     }
   ]
 }

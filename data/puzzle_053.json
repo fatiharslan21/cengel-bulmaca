@@ -1,66 +1,16 @@
 {
   "id": 53,
   "title": "Bölüm 53",
-  "difficulty": "Zor",
+  "difficulty": "Kolay",
   "grid_size_r": 12,
   "grid_size_c": 8,
   "grid": [
     [
-      1,
       0,
       0,
       0,
       0,
       0,
-      0,
-      0
-    ],
-    [
-      1,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      0,
-      0
-    ],
-    [
-      1,
-      0,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      1,
-      0,
-      1,
-      0,
-      1,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      1,
-      1,
-      1,
-      1,
       1,
       0,
       0
@@ -69,61 +19,111 @@
       0,
       0,
       0,
-      0,
-      1,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      0,
-      1,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      1,
-      1,
-      1,
-      1,
-      1,
-      0
-    ],
-    [
-      0,
-      0,
-      1,
-      0,
-      0,
-      0,
-      1,
-      0
-    ],
-    [
-      0,
-      1,
-      1,
-      1,
-      0,
-      0,
-      1,
-      0
-    ],
-    [
-      0,
-      0,
-      1,
       0,
       1,
       1,
       1,
       1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
     ]
   ],
   "words": [
@@ -131,91 +131,82 @@
       "number": 1,
       "direction": "down",
       "row": 0,
-      "col": 0,
-      "length": 5,
-      "clue": "Vücut bölümü",
-      "answer": "ORGAN"
+      "col": 5,
+      "length": 3,
+      "clue": "Mekan, konum",
+      "answer": "YER"
     },
     {
       "number": 2,
       "direction": "across",
-      "row": 2,
-      "col": 0,
-      "length": 6,
-      "clue": "Üst giysi",
-      "answer": "GÖMLEK"
+      "row": 1,
+      "col": 4,
+      "length": 4,
+      "clue": "Şehir",
+      "answer": "KENT"
     },
     {
       "number": 3,
       "direction": "down",
-      "row": 2,
-      "col": 2,
+      "row": 1,
+      "col": 7,
       "length": 4,
-      "clue": "Yemek mobilyası",
-      "answer": "MASA"
+      "clue": "Anadolu halkı",
+      "answer": "TÜRK"
     },
     {
       "number": 4,
+      "direction": "across",
+      "row": 4,
+      "col": 3,
+      "length": 5,
+      "clue": "Suyla ıslanmış",
+      "answer": "ISLAK"
+    },
+    {
+      "number": 5,
       "direction": "down",
       "row": 4,
       "col": 4,
       "length": 5,
-      "clue": "Olgunluk",
-      "answer": "KEMAL"
-    },
-    {
-      "number": 5,
-      "direction": "across",
-      "row": 5,
-      "col": 1,
-      "length": 5,
-      "clue": "İstek",
-      "answer": "TALEP"
+      "clue": "Temizlik maddesi",
+      "answer": "SABUN"
     },
     {
       "number": 6,
       "direction": "down",
-      "row": 8,
-      "col": 2,
-      "length": 4,
-      "clue": "Renk veren madde",
-      "answer": "BOYA"
-    },
-    {
-      "number": 6,
-      "direction": "across",
-      "row": 8,
-      "col": 2,
-      "length": 5,
-      "clue": "Öğrenilen her şey",
-      "answer": "BİLGİ"
+      "row": 4,
+      "col": 6,
+      "length": 3,
+      "clue": "Benekli, alacalı",
+      "answer": "ALA"
     },
     {
       "number": 7,
       "direction": "down",
-      "row": 8,
-      "col": 6,
+      "row": 6,
+      "col": 0,
       "length": 4,
-      "clue": "Sivri dikiş aracı",
-      "answer": "İĞNE"
+      "clue": "Felaket, kötülük",
+      "answer": "BELA"
     },
     {
       "number": 8,
       "direction": "across",
-      "row": 10,
-      "col": 1,
-      "length": 3,
-      "clue": "Kötünün zıttı",
-      "answer": "İYİ"
+      "row": 8,
+      "col": 0,
+      "length": 5,
+      "clue": "Gemi barınağı",
+      "answer": "LİMAN"
     },
     {
       "number": 9,
-      "direction": "across",
-      "row": 11,
-      "col": 4,
+      "direction": "down",
+      "row": 8,
+      "col": 2,
       "length": 4,
-      "clue": "Raylı taşıt",
-      "answer": "TREN"
+      "clue": "Ateş aleti",
+      "answer": "MAŞA"
     }
   ]
 }

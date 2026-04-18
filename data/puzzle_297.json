@@ -1,0 +1,211 @@
+{
+  "id": 297,
+  "title": "Bölüm 297",
+  "difficulty": "Zor",
+  "grid_size_r": 11,
+  "grid_size_c": 8,
+  "grid": [
+    [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 0,
+      "length": 5,
+      "clue": "Kanatlı kutsal varlık",
+      "answer": "MELEK"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 2,
+      "col": 2,
+      "length": 3,
+      "clue": "Sağın karşıtı",
+      "answer": "SOL"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "length": 3,
+      "clue": "Gitme, burada dur",
+      "answer": "KAL"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 4,
+      "col": 1,
+      "length": 5,
+      "clue": "Dört tekerlekli taşıt",
+      "answer": "ARABA"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "length": 4,
+      "clue": "Geçmiş zaman",
+      "answer": "MAZİ"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 6,
+      "col": 3,
+      "length": 4,
+      "clue": "Tedavi maddesi",
+      "answer": "İLAÇ"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 7,
+      "col": 5,
+      "length": 4,
+      "clue": "Müzikle hareket",
+      "answer": "DANS"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "length": 4,
+      "clue": "Yanlış, kusur",
+      "answer": "HATA"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 8,
+      "col": 0,
+      "length": 3,
+      "clue": "Adalet, doğruluk",
+      "answer": "HAK"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 9,
+      "col": 3,
+      "length": 5,
+      "clue": "Gölge ağacı",
+      "answer": "ÇINAR"
+    }
+  ]
+}

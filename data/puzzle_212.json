@@ -1,0 +1,189 @@
+{
+  "id": 212,
+  "title": "Bölüm 212",
+  "difficulty": "Orta",
+  "grid_size_r": 8,
+  "grid_size_c": 9,
+  "grid": [
+    [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 0,
+      "length": 3,
+      "clue": "Giyside küçük kese",
+      "answer": "CEP"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "length": 3,
+      "clue": "Tırnak törpüsü",
+      "answer": "EĞE"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 1,
+      "col": 2,
+      "length": 4,
+      "clue": "Buyruk, komut",
+      "answer": "EMİR"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 1,
+      "col": 5,
+      "length": 4,
+      "clue": "Ayrım, değişiklik",
+      "answer": "FARK"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 2,
+      "col": 2,
+      "length": 5,
+      "clue": "Hayal ürünü hikaye",
+      "answer": "MASAL"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "length": 4,
+      "clue": "İlerinin zıttı",
+      "answer": "GERİ"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 4,
+      "col": 3,
+      "length": 4,
+      "clue": "Sivri dikiş aracı",
+      "answer": "İĞNE"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 4,
+      "col": 5,
+      "length": 4,
+      "clue": "Zarif su kuşu",
+      "answer": "KUĞU"
+    },
+    {
+      "number": 9,
+      "direction": "down",
+      "row": 4,
+      "col": 6,
+      "length": 3,
+      "clue": "Yüce, büyük",
+      "answer": "ULU"
+    },
+    {
+      "number": 10,
+      "direction": "across",
+      "row": 7,
+      "col": 2,
+      "length": 4,
+      "clue": "Ses birimi",
+      "answer": "HECE"
+    }
+  ]
+}

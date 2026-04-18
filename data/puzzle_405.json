@@ -1,0 +1,245 @@
+{
+  "id": 405,
+  "title": "Bölüm 405",
+  "difficulty": "Çok Zor",
+  "grid_size_r": 12,
+  "grid_size_c": 10,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "length": 7,
+      "clue": "Bağlılık, vefa",
+      "answer": "SADAKAT"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 1,
+      "col": 3,
+      "length": 5,
+      "clue": "Bilme, anlayış",
+      "answer": "İRFAN"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 2,
+      "col": 8,
+      "length": 3,
+      "clue": "Ün, şöhret",
+      "answer": "ŞAN"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 3,
+      "col": 5,
+      "length": 5,
+      "clue": "Hükümdar konutu",
+      "answer": "SARAY"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 5,
+      "col": 4,
+      "length": 7,
+      "clue": "Avunma, avuntu",
+      "answer": "TESELLİ"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 6,
+      "col": 3,
+      "length": 6,
+      "clue": "Tutkun, vurgun",
+      "answer": "MEFTUN"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 6,
+      "col": 8,
+      "length": 5,
+      "clue": "İnce söz, espri",
+      "answer": "NÜKTE"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 8,
+      "col": 1,
+      "length": 4,
+      "clue": "Yüzeylerin birleşimi",
+      "answer": "KÖŞE"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 10,
+      "col": 0,
+      "length": 5,
+      "clue": "Esas, kök",
+      "answer": "TEMEL"
+    },
+    {
+      "number": 10,
+      "direction": "across",
+      "row": 10,
+      "col": 6,
+      "length": 4,
+      "clue": "Başlangıcı olmayan",
+      "answer": "EZEL"
+    }
+  ]
+}

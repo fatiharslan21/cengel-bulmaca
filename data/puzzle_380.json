@@ -1,0 +1,201 @@
+{
+  "id": 380,
+  "title": "Bölüm 380",
+  "difficulty": "Çok Zor",
+  "grid_size_r": 10,
+  "grid_size_c": 8,
+  "grid": [
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "length": 5,
+      "clue": "Yenilebilen bitki",
+      "answer": "SEBZE"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "length": 3,
+      "clue": "Çok miktarda",
+      "answer": "BOL"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "length": 4,
+      "clue": "Karşılık, sevap",
+      "answer": "ECİR"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "length": 3,
+      "clue": "Dev kara hayvanı",
+      "answer": "FİL"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "length": 5,
+      "clue": "Talih, yükselme",
+      "answer": "İKBAL"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 3,
+      "col": 4,
+      "length": 4,
+      "clue": "Tesadüf, denk gelme",
+      "answer": "RAST"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 4,
+      "col": 1,
+      "length": 3,
+      "clue": "İlk doğal sayı",
+      "answer": "BİR"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "length": 4,
+      "clue": "Yüce, manevi",
+      "answer": "ULVİ"
+    },
+    {
+      "number": 9,
+      "direction": "down",
+      "row": 6,
+      "col": 2,
+      "length": 4,
+      "clue": "Sözünde durma",
+      "answer": "VEFA"
+    },
+    {
+      "number": 10,
+      "direction": "across",
+      "row": 9,
+      "col": 1,
+      "length": 3,
+      "clue": "Adalet, doğruluk",
+      "answer": "HAK"
+    }
+  ]
+}

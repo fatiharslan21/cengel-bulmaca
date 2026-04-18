@@ -1,17 +1,30 @@
 {
   "id": 48,
   "title": "Bölüm 48",
-  "difficulty": "Orta",
-  "grid_size_r": 6,
+  "difficulty": "Kolay",
+  "grid_size_r": 7,
   "grid_size_c": 11,
   "grid": [
     [
       0,
       0,
+      1,
       0,
       1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
       1,
+      0,
       1,
+      0,
       1,
       0,
       0,
@@ -23,10 +36,49 @@
       1,
       1,
       1,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
       0,
       0,
       0,
       0,
+      0,
+      0,
+      1,
       1,
       1,
       1
@@ -35,51 +87,12 @@
       1,
       0,
       0,
-      1,
-      1,
-      1,
-      1,
-      0,
-      1,
-      0,
-      0
-    ],
-    [
-      1,
       0,
       0,
       0,
       0,
-      1,
       0,
       0,
-      1,
-      0,
-      0
-    ],
-    [
-      1,
-      0,
-      0,
-      0,
-      0,
-      1,
-      1,
-      1,
-      1,
-      1,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      1,
-      1,
-      1,
-      0,
-      0,
-      1,
       0,
       0
     ]
@@ -89,91 +102,82 @@
       "number": 1,
       "direction": "down",
       "row": 0,
-      "col": 3,
+      "col": 2,
       "length": 3,
-      "clue": "Adalet, doğruluk",
-      "answer": "HAK"
+      "clue": "Görme organı",
+      "answer": "GÖZ"
     },
     {
-      "number": 1,
-      "direction": "across",
+      "number": 2,
+      "direction": "down",
       "row": 0,
-      "col": 3,
-      "length": 4,
-      "clue": "Solunan gaz",
-      "answer": "HAVA"
-    },
-    {
-      "number": 2,
-      "direction": "across",
-      "row": 1,
-      "col": 0,
-      "length": 4,
-      "clue": "Siyah renk",
-      "answer": "KARA"
-    },
-    {
-      "number": 2,
-      "direction": "down",
-      "row": 1,
-      "col": 0,
-      "length": 4,
-      "clue": "Zarif su kuşu",
-      "answer": "KUĞU"
-    },
-    {
-      "number": 3,
-      "direction": "down",
-      "row": 1,
-      "col": 8,
+      "col": 4,
       "length": 5,
-      "clue": "Yüzeyin sınırı",
-      "answer": "KENAR"
+      "clue": "İple oynatılan",
+      "answer": "KUKLA"
     },
     {
       "number": 3,
-      "direction": "across",
+      "direction": "down",
       "row": 1,
-      "col": 8,
-      "length": 3,
-      "clue": "Göz üstü kıl şeridi",
-      "answer": "KAŞ"
+      "col": 6,
+      "length": 4,
+      "clue": "Deniz taşıtı",
+      "answer": "GEMİ"
     },
     {
       "number": 4,
       "direction": "across",
       "row": 2,
-      "col": 3,
-      "length": 4,
-      "clue": "Miyavlayan evcil",
-      "answer": "KEDİ"
+      "col": 0,
+      "length": 5,
+      "clue": "Seslerle sanat",
+      "answer": "MÜZİK"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 2,
+      "col": 0,
+      "length": 5,
+      "clue": "Kanatlı kutsal varlık",
+      "answer": "MELEK"
     },
     {
       "number": 5,
       "direction": "down",
       "row": 2,
-      "col": 5,
+      "col": 8,
       "length": 4,
-      "clue": "Yakın arkadaş",
-      "answer": "DOST"
+      "clue": "Siyah renk",
+      "answer": "KARA"
     },
     {
       "number": 6,
       "direction": "across",
-      "row": 4,
-      "col": 5,
+      "row": 3,
+      "col": 4,
       "length": 5,
-      "clue": "Hükümdar konutu",
-      "answer": "SARAY"
+      "clue": "Aydınlatma aracı",
+      "answer": "LAMBA"
     },
     {
       "number": 7,
       "direction": "across",
-      "row": 5,
-      "col": 3,
+      "row": 4,
+      "col": 2,
       "length": 3,
-      "clue": "Damaktaki lezzet",
-      "answer": "TAT"
+      "clue": "Dört tarafı suyla çevrili kara",
+      "answer": "ADA"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 5,
+      "col": 7,
+      "length": 4,
+      "clue": "Çözüm yolu",
+      "answer": "ÇARE"
     }
   ]
 }

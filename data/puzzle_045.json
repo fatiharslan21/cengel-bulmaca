@@ -1,52 +1,56 @@
 {
   "id": 45,
   "title": "Bölüm 45",
-  "difficulty": "Orta",
-  "grid_size_r": 9,
-  "grid_size_c": 10,
+  "difficulty": "Kolay",
+  "grid_size_r": 7,
+  "grid_size_c": 11,
   "grid": [
     [
       0,
       0,
       0,
-      1,
+      0,
+      0,
+      0,
+      0,
       0,
       0,
       1,
-      0,
-      0,
       0
     ],
     [
       0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
       1,
       0,
       1,
-      1,
-      1,
-      1,
-      0,
-      0,
       0
     ],
     [
       1,
       1,
       1,
-      1,
-      0,
       0,
       1,
+      1,
+      1,
+      1,
       0,
-      0,
+      1,
       0
     ],
     [
       0,
-      1,
-      0,
       0,
       1,
+      0,
+      1,
+      0,
       0,
       1,
       1,
@@ -56,20 +60,9 @@
     [
       0,
       0,
-      0,
       1,
       1,
       1,
-      1,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      0,
       1,
       0,
       0,
@@ -80,36 +73,26 @@
     [
       0,
       0,
-      0,
-      0,
       1,
       0,
       0,
-      1,
+      0,
+      0,
+      0,
+      0,
       0,
       0
     ],
     [
       0,
-      0,
-      0,
-      0,
-      1,
       1,
       1,
       1,
       0,
-      0
-    ],
-    [
       0,
       0,
       0,
       0,
-      0,
-      0,
-      0,
-      1,
       0,
       0
     ]
@@ -119,91 +102,82 @@
       "number": 1,
       "direction": "down",
       "row": 0,
-      "col": 3,
+      "col": 9,
+      "length": 4,
+      "clue": "Eğlence faaliyeti",
+      "answer": "OYUN"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 1,
+      "col": 7,
       "length": 3,
       "clue": "Çizgi, yol",
       "answer": "HAT"
     },
     {
-      "number": 2,
-      "direction": "down",
-      "row": 0,
-      "col": 6,
-      "length": 5,
-      "clue": "Geniş ana yol",
-      "answer": "CADDE"
-    },
-    {
       "number": 3,
-      "direction": "down",
-      "row": 1,
-      "col": 1,
+      "direction": "across",
+      "row": 2,
+      "col": 0,
       "length": 3,
-      "clue": "Sıcak içecek",
-      "answer": "ÇAY"
+      "clue": "Bitki gövdesi",
+      "answer": "SAP"
     },
     {
       "number": 4,
-      "direction": "across",
-      "row": 1,
-      "col": 3,
-      "length": 4,
-      "clue": "Yansıtıcı cam",
-      "answer": "AYNA"
+      "direction": "down",
+      "row": 2,
+      "col": 2,
+      "length": 5,
+      "clue": "Mektup servisi",
+      "answer": "POSTA"
     },
     {
       "number": 5,
       "direction": "across",
       "row": 2,
-      "col": 0,
+      "col": 4,
       "length": 4,
-      "clue": "Yapışkan şerit",
-      "answer": "BANT"
+      "clue": "Yırtık yamağı",
+      "answer": "YAMA"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "length": 3,
+      "clue": "Uçurum, yarık",
+      "answer": "YAR"
     },
     {
       "number": 6,
-      "direction": "down",
+      "direction": "across",
       "row": 3,
-      "col": 4,
-      "length": 5,
-      "clue": "Ani vuruş",
-      "answer": "DARBE"
+      "col": 7,
+      "length": 4,
+      "clue": "Adet, parça",
+      "answer": "TANE"
     },
     {
       "number": 7,
       "direction": "across",
-      "row": 3,
-      "col": 6,
+      "row": 4,
+      "col": 2,
       "length": 4,
-      "clue": "Tahta oyunu",
-      "answer": "DAMA"
+      "clue": "Altın rengi",
+      "answer": "SARI"
     },
     {
       "number": 8,
       "direction": "across",
-      "row": 4,
-      "col": 3,
-      "length": 4,
-      "clue": "Ferahlatıcı bitki",
-      "answer": "NANE"
-    },
-    {
-      "number": 9,
-      "direction": "down",
       "row": 6,
-      "col": 7,
+      "col": 1,
       "length": 3,
-      "clue": "Oyun küpü",
-      "answer": "ZAR"
-    },
-    {
-      "number": 10,
-      "direction": "across",
-      "row": 7,
-      "col": 4,
-      "length": 4,
-      "clue": "Kullanılan nesneler",
-      "answer": "EŞYA"
+      "clue": "Sert kayaç parçası",
+      "answer": "TAŞ"
     }
   ]
 }

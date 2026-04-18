@@ -1,17 +1,27 @@
 {
   "id": 35,
   "title": "Bölüm 35",
-  "difficulty": "Orta",
+  "difficulty": "Kolay",
   "grid_size_r": 8,
-  "grid_size_c": 10,
+  "grid_size_c": 9,
   "grid": [
     [
       0,
+      0,
+      0,
+      0,
+      1,
+      1,
       1,
       0,
+      0
+    ],
+    [
       0,
       0,
+      1,
       0,
+      1,
       0,
       0,
       0,
@@ -19,14 +29,13 @@
     ],
     [
       0,
+      0,
       1,
       0,
       1,
       1,
       1,
       1,
-      0,
-      0,
       0
     ],
     [
@@ -34,8 +43,7 @@
       1,
       1,
       1,
-      0,
-      0,
+      1,
       0,
       0,
       0,
@@ -43,11 +51,10 @@
     ],
     [
       0,
-      1,
       0,
       1,
       0,
-      1,
+      0,
       1,
       1,
       1,
@@ -62,31 +69,6 @@
       1,
       0,
       0,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      1,
-      0,
-      0,
-      1,
-      0,
-      0,
-      1,
-      0
-    ],
-    [
-      0,
-      0,
-      1,
-      0,
-      1,
-      1,
-      1,
-      1,
-      1,
       0
     ],
     [
@@ -95,10 +77,20 @@
       0,
       0,
       0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
       0,
       0,
       0,
       1,
+      1,
+      1,
+      1,
+      0,
       0
     ]
   ],
@@ -107,91 +99,82 @@
       "number": 1,
       "direction": "down",
       "row": 0,
-      "col": 1,
+      "col": 4,
       "length": 4,
-      "clue": "Zarif su kuşu",
-      "answer": "KUĞU"
+      "clue": "Renk veren madde",
+      "answer": "BOYA"
+    },
+    {
+      "number": 1,
+      "direction": "across",
+      "row": 0,
+      "col": 4,
+      "length": 3,
+      "clue": "Arı ürünü tatlı",
+      "answer": "BAL"
     },
     {
       "number": 2,
       "direction": "down",
       "row": 1,
-      "col": 3,
-      "length": 4,
-      "clue": "Küçük akarsu",
-      "answer": "DERE"
-    },
-    {
-      "number": 2,
-      "direction": "across",
-      "row": 1,
-      "col": 3,
-      "length": 4,
-      "clue": "Müzikle hareket",
-      "answer": "DANS"
+      "col": 2,
+      "length": 5,
+      "clue": "Bilme isteği",
+      "answer": "MERAK"
     },
     {
       "number": 3,
       "direction": "across",
       "row": 2,
+      "col": 4,
+      "length": 4,
+      "clue": "Yazılmış metin",
+      "answer": "YAZI"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 3,
       "col": 0,
-      "length": 4,
-      "clue": "Sivri dikiş aracı",
-      "answer": "İĞNE"
-    },
-    {
-      "number": 4,
-      "direction": "down",
-      "row": 3,
-      "col": 5,
-      "length": 4,
-      "clue": "Ateş aleti",
-      "answer": "MAŞA"
-    },
-    {
-      "number": 4,
-      "direction": "across",
-      "row": 3,
-      "col": 5,
       "length": 5,
-      "clue": "Kanatlı kutsal varlık",
-      "answer": "MELEK"
-    },
-    {
-      "number": 5,
-      "direction": "across",
-      "row": 4,
-      "col": 2,
-      "length": 4,
-      "clue": "Kez, kere",
-      "answer": "DEFA"
+      "clue": "Nefesli çalgı",
+      "answer": "ZURNA"
     },
     {
       "number": 5,
       "direction": "down",
       "row": 4,
-      "col": 2,
-      "length": 3,
-      "clue": "Yön değiştir",
-      "answer": "DÖN"
+      "col": 5,
+      "length": 4,
+      "clue": "Düz ince levha",
+      "answer": "KART"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 4,
+      "col": 5,
+      "length": 4,
+      "clue": "Ev bedeli",
+      "answer": "KIRA"
     },
     {
       "number": 6,
-      "direction": "down",
+      "direction": "across",
       "row": 5,
-      "col": 8,
-      "length": 3,
-      "clue": "Sıcak mevsim",
-      "answer": "YAZ"
+      "col": 2,
+      "length": 4,
+      "clue": "Siyah renk",
+      "answer": "KARA"
     },
     {
       "number": 7,
       "direction": "across",
-      "row": 6,
-      "col": 4,
-      "length": 5,
-      "clue": "Ekin alanı",
-      "answer": "TARLA"
+      "row": 7,
+      "col": 3,
+      "length": 4,
+      "clue": "Müzik işareti",
+      "answer": "NOTA"
     }
   ]
 }

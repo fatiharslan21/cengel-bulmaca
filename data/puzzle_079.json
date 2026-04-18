@@ -1,27 +1,18 @@
 {
   "id": 79,
   "title": "Bölüm 79",
-  "difficulty": "Çok Zor",
-  "grid_size_r": 10,
-  "grid_size_c": 8,
+  "difficulty": "Kolay",
+  "grid_size_r": 9,
+  "grid_size_c": 9,
   "grid": [
     [
       0,
       0,
       0,
-      1,
       0,
       0,
       0,
-      0
-    ],
-    [
       0,
-      0,
-      1,
-      1,
-      1,
-      1,
       1,
       0
     ],
@@ -29,56 +20,51 @@
       0,
       0,
       0,
+      0,
+      0,
+      0,
       1,
-      0,
-      0,
-      0,
+      1,
       1
     ],
     [
       0,
       0,
       0,
-      1,
-      1,
-      1,
-      1,
-      1
-    ],
-    [
       0,
-      1,
       0,
-      1,
-      0,
-      1,
-      0,
-      1
-    ],
-    [
-      1,
-      1,
-      1,
-      1,
-      0,
-      1,
-      0,
-      1
-    ],
-    [
-      0,
-      1,
       0,
       0,
       1,
-      0,
-      0,
       0
     ],
     [
       0,
+      0,
+      0,
+      0,
       1,
       1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      0,
       1,
       1,
       1,
@@ -88,10 +74,11 @@
     [
       0,
       0,
-      0,
+      1,
       0,
       1,
       0,
+      1,
       0,
       0
     ],
@@ -101,7 +88,19 @@
       1,
       1,
       1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
       1,
+      0,
+      0,
+      0,
+      0,
       0,
       0
     ]
@@ -111,91 +110,82 @@
       "number": 1,
       "direction": "down",
       "row": 0,
-      "col": 3,
-      "length": 6,
-      "clue": "Boşuna, yararsız",
-      "answer": "NAFİLE"
+      "col": 7,
+      "length": 4,
+      "clue": "Ateş aleti",
+      "answer": "MAŞA"
     },
     {
       "number": 2,
       "direction": "across",
       "row": 1,
-      "col": 2,
-      "length": 5,
-      "clue": "Katlanma, dayanma",
-      "answer": "SABIR"
+      "col": 6,
+      "length": 3,
+      "clue": "Oyun küpü",
+      "answer": "ZAR"
     },
     {
       "number": 3,
-      "direction": "down",
-      "row": 2,
-      "col": 7,
+      "direction": "across",
+      "row": 3,
+      "col": 4,
       "length": 4,
-      "clue": "Yüce, manevi",
-      "answer": "ULVİ"
+      "clue": "Bağlama aracı",
+      "answer": "TOKA"
     },
     {
       "number": 4,
-      "direction": "across",
+      "direction": "down",
       "row": 3,
-      "col": 3,
-      "length": 5,
-      "clue": "Talih, yükselme",
-      "answer": "İKBAL"
+      "col": 6,
+      "length": 4,
+      "clue": "Yüzeylerin birleşimi",
+      "answer": "KÖŞE"
     },
     {
       "number": 5,
       "direction": "down",
-      "row": 3,
-      "col": 5,
-      "length": 3,
-      "clue": "Çok miktarda",
-      "answer": "BOL"
+      "row": 4,
+      "col": 2,
+      "length": 5,
+      "clue": "En sert taş",
+      "answer": "ELMAS"
     },
     {
       "number": 6,
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "length": 3,
+      "clue": "Sağın karşıtı",
+      "answer": "SOL"
+    },
+    {
+      "number": 7,
       "direction": "down",
-      "row": 4,
-      "col": 1,
-      "length": 4,
-      "clue": "Yapışkan şerit",
-      "answer": "BANT"
+      "row": 5,
+      "col": 4,
+      "length": 3,
+      "clue": "Lezzet verici",
+      "answer": "TUZ"
     },
     {
       "number": 7,
       "direction": "across",
       "row": 5,
-      "col": 0,
-      "length": 4,
-      "clue": "Amaç, maksat",
-      "answer": "GAYE"
+      "col": 4,
+      "length": 3,
+      "clue": "Sert kayaç parçası",
+      "answer": "TAŞ"
     },
     {
       "number": 8,
-      "direction": "down",
-      "row": 6,
-      "col": 4,
-      "length": 4,
-      "clue": "Kötü, berbat",
-      "answer": "FENA"
-    },
-    {
-      "number": 9,
       "direction": "across",
       "row": 7,
       "col": 1,
-      "length": 5,
-      "clue": "Esas, kök",
-      "answer": "TEMEL"
-    },
-    {
-      "number": 10,
-      "direction": "across",
-      "row": 9,
-      "col": 1,
-      "length": 5,
-      "clue": "Heyecan, kaygı",
-      "answer": "TELAŞ"
+      "length": 4,
+      "clue": "Biçim, üslup",
+      "answer": "TARZ"
     }
   ]
 }

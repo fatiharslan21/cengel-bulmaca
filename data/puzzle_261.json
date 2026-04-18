@@ -1,0 +1,221 @@
+{
+  "id": 261,
+  "title": "Bölüm 261",
+  "difficulty": "Zor",
+  "grid_size_r": 12,
+  "grid_size_c": 8,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 7,
+      "length": 3,
+      "clue": "Seramik toprağı",
+      "answer": "KİL"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 2,
+      "col": 5,
+      "length": 3,
+      "clue": "Mektup pulu",
+      "answer": "PUL"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 2,
+      "col": 6,
+      "length": 4,
+      "clue": "Yöntem, tarz",
+      "answer": "USUL"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 5,
+      "col": 4,
+      "length": 5,
+      "clue": "Gerçek olmayan düş",
+      "answer": "HAYAL"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 5,
+      "col": 4,
+      "length": 4,
+      "clue": "Düzen, oyun",
+      "answer": "HİLE"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 6,
+      "col": 1,
+      "length": 4,
+      "clue": "Ses, seda",
+      "answer": "SADA"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 7,
+      "col": 4,
+      "length": 3,
+      "clue": "Çehre; sayı 100",
+      "answer": "YÜZ"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 8,
+      "col": 1,
+      "length": 4,
+      "clue": "Yırtık yamağı",
+      "answer": "YAMA"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 9,
+      "col": 0,
+      "length": 5,
+      "clue": "Taşıma, aktarma",
+      "answer": "NAKİL"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 11,
+      "col": 1,
+      "length": 3,
+      "clue": "Yakışıklı, gösterişli",
+      "answer": "AFİ"
+    }
+  ]
+}

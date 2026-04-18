@@ -1,27 +1,55 @@
 {
   "id": 75,
   "title": "Bölüm 75",
-  "difficulty": "Zor",
-  "grid_size_r": 12,
-  "grid_size_c": 9,
+  "difficulty": "Kolay",
+  "grid_size_r": 9,
+  "grid_size_c": 8,
   "grid": [
     [
       0,
       0,
       0,
       0,
-      1,
+      0,
       0,
       1,
-      0,
       0
     ],
     [
       0,
       0,
       0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
       1,
       1,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
       1,
       1,
       1,
@@ -29,65 +57,29 @@
     ],
     [
       0,
-      0,
-      0,
-      0,
+      1,
+      1,
+      1,
       1,
       0,
-      1,
       0,
       0
     ],
     [
       0,
       0,
-      0,
-      0,
       1,
       0,
-      0,
-      0,
-      1
+      1,
+      1,
+      1,
+      0
     ],
     [
       0,
-      0,
-      0,
-      0,
       1,
       1,
       1,
-      1,
-      1
-    ],
-    [
-      1,
-      1,
-      1,
-      1,
-      1,
-      0,
-      1,
-      0,
-      1
-    ],
-    [
-      0,
-      0,
-      0,
-      1,
-      0,
-      0,
-      1,
-      0,
-      1
-    ],
-    [
-      0,
-      0,
-      0,
-      1,
-      0,
       0,
       0,
       0,
@@ -97,42 +89,8 @@
       0,
       0,
       1,
-      1,
-      1,
-      1,
-      1,
-      0,
-      0
-    ],
-    [
       0,
       0,
-      0,
-      1,
-      0,
-      1,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      0,
-      0,
-      1,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      0,
-      0,
-      1,
       0,
       0,
       0
@@ -143,91 +101,82 @@
       "number": 1,
       "direction": "down",
       "row": 0,
-      "col": 4,
-      "length": 6,
-      "clue": "Değerli şeyler",
-      "answer": "HAZİNE"
+      "col": 6,
+      "length": 5,
+      "clue": "Bilimsel test",
+      "answer": "DENEY"
     },
     {
       "number": 2,
-      "direction": "down",
-      "row": 0,
-      "col": 6,
+      "direction": "across",
+      "row": 3,
+      "col": 0,
       "length": 3,
-      "clue": "Bahçe engeli",
-      "answer": "ÇİT"
+      "clue": "Asla, kesinlikle hayır",
+      "answer": "HİÇ"
     },
     {
       "number": 3,
-      "direction": "across",
-      "row": 1,
-      "col": 3,
-      "length": 6,
-      "clue": "Kısa an",
-      "answer": "SANİYE"
+      "direction": "down",
+      "row": 3,
+      "col": 1,
+      "length": 3,
+      "clue": "Kötünün zıttı",
+      "answer": "İYİ"
     },
     {
       "number": 4,
       "direction": "down",
       "row": 3,
-      "col": 8,
+      "col": 4,
       "length": 4,
-      "clue": "Ferahlatıcı bitki",
-      "answer": "NANE"
+      "clue": "Anlama yeteneği",
+      "answer": "ZEKA"
     },
     {
       "number": 5,
       "direction": "across",
       "row": 4,
       "col": 4,
-      "length": 5,
-      "clue": "En küçük işaret",
-      "answer": "NOKTA"
+      "length": 4,
+      "clue": "Kullanılan nesneler",
+      "answer": "EŞYA"
     },
     {
       "number": 6,
-      "direction": "down",
-      "row": 4,
-      "col": 6,
-      "length": 3,
-      "clue": "İçine konan kab",
-      "answer": "KAP"
+      "direction": "across",
+      "row": 5,
+      "col": 1,
+      "length": 4,
+      "clue": "Böcekten kumaş",
+      "answer": "İPEK"
     },
     {
       "number": 7,
-      "direction": "across",
+      "direction": "down",
       "row": 5,
-      "col": 0,
-      "length": 5,
-      "clue": "Pay, nasip",
-      "answer": "HİSSE"
+      "col": 2,
+      "length": 4,
+      "clue": "Sayısal değer",
+      "answer": "PUAN"
     },
     {
       "number": 8,
-      "direction": "down",
-      "row": 5,
-      "col": 3,
-      "length": 5,
-      "clue": "Büyük oda",
-      "answer": "SALON"
+      "direction": "across",
+      "row": 6,
+      "col": 4,
+      "length": 3,
+      "clue": "Bir şeye ilişkin",
+      "answer": "AİT"
     },
     {
       "number": 9,
       "direction": "across",
-      "row": 8,
-      "col": 2,
-      "length": 5,
-      "clue": "Ölçü, ebat",
-      "answer": "BOYUT"
-    },
-    {
-      "number": 10,
-      "direction": "down",
-      "row": 8,
-      "col": 5,
-      "length": 4,
-      "clue": "Yöntem, tarz",
-      "answer": "USUL"
+      "row": 7,
+      "col": 1,
+      "length": 3,
+      "clue": "Kafa, vücudun üstü",
+      "answer": "BAŞ"
     }
   ]
 }

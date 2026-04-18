@@ -1,0 +1,233 @@
+{
+  "id": 472,
+  "title": "Bölüm 472",
+  "difficulty": "Çok Zor",
+  "grid_size_r": 12,
+  "grid_size_c": 9,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "length": 3,
+      "clue": "Çok miktarda",
+      "answer": "BOL"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 2,
+      "col": 6,
+      "length": 3,
+      "clue": "Gitme, burada dur",
+      "answer": "KAL"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 2,
+      "col": 7,
+      "length": 5,
+      "clue": "Sakin, huzurlu",
+      "answer": "ASUDE"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 4,
+      "col": 6,
+      "length": 3,
+      "clue": "Mektup pulu",
+      "answer": "PUL"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 6,
+      "col": 1,
+      "length": 4,
+      "clue": "Solunan gaz",
+      "answer": "HAVA"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 6,
+      "col": 3,
+      "length": 4,
+      "clue": "Seslenme",
+      "answer": "NİDA"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 6,
+      "col": 3,
+      "length": 5,
+      "clue": "Ezgi, tını",
+      "answer": "NAĞME"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 9,
+      "col": 1,
+      "length": 3,
+      "clue": "Ced, büyükbaba",
+      "answer": "ATA"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 9,
+      "col": 2,
+      "length": 3,
+      "clue": "İnce parçacıklar",
+      "answer": "TOZ"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 11,
+      "col": 0,
+      "length": 5,
+      "clue": "İç rahatlığı",
+      "answer": "HUZUR"
+    }
+  ]
+}

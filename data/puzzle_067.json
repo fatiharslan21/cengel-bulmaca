@@ -1,15 +1,55 @@
 {
   "id": 67,
   "title": "Bölüm 67",
-  "difficulty": "Zor",
-  "grid_size_r": 8,
-  "grid_size_c": 10,
+  "difficulty": "Kolay",
+  "grid_size_r": 9,
+  "grid_size_c": 11,
   "grid": [
     [
       0,
-      1,
       0,
       1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
       0,
       0,
       0,
@@ -24,19 +64,8 @@
       1,
       0,
       0,
-      1,
       0,
       0,
-      0
-    ],
-    [
-      0,
-      1,
-      0,
-      1,
-      0,
-      0,
-      1,
       0,
       0,
       0
@@ -46,21 +75,10 @@
       0,
       0,
       1,
-      1,
-      1,
-      1,
-      0,
-      1,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
       0,
       1,
       0,
-      0,
+      1,
       1,
       1,
       1
@@ -71,10 +89,24 @@
       1,
       1,
       1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
       0,
       0,
       0,
       1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
       0
     ],
     [
@@ -86,19 +118,8 @@
       1,
       1,
       1,
-      1,
-      0
-    ],
-    [
       0,
       0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      1,
       0
     ]
   ],
@@ -107,91 +128,82 @@
       "number": 1,
       "direction": "down",
       "row": 0,
-      "col": 1,
-      "length": 3,
-      "clue": "Bina bölümü",
-      "answer": "KAT"
+      "col": 2,
+      "length": 5,
+      "clue": "Büyük oda",
+      "answer": "SALON"
     },
     {
       "number": 2,
-      "direction": "down",
-      "row": 0,
-      "col": 3,
-      "length": 4,
-      "clue": "Küçük yükselti",
-      "answer": "TEPE"
-    },
-    {
-      "number": 3,
       "direction": "across",
       "row": 1,
-      "col": 0,
-      "length": 4,
-      "clue": "Adet, parça",
-      "answer": "TANE"
-    },
-    {
-      "number": 4,
-      "direction": "down",
-      "row": 1,
-      "col": 6,
+      "col": 1,
       "length": 3,
       "clue": "Mülk, eşya",
       "answer": "MAL"
     },
     {
-      "number": 5,
+      "number": 3,
       "direction": "across",
-      "row": 3,
+      "row": 4,
+      "col": 0,
+      "length": 4,
+      "clue": "Yapışkan şerit",
+      "answer": "BANT"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 4,
       "col": 3,
       "length": 4,
-      "clue": "Özlenen istek",
-      "answer": "EMEL"
+      "clue": "Raylı taşıt",
+      "answer": "TREN"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 5,
+      "col": 5,
+      "length": 4,
+      "clue": "Kötü, berbat",
+      "answer": "FENA"
     },
     {
       "number": 6,
       "direction": "down",
-      "row": 3,
-      "col": 4,
+      "row": 5,
+      "col": 7,
       "length": 4,
-      "clue": "Geçmiş zaman",
-      "answer": "MAZİ"
+      "clue": "Kalın olmayan",
+      "answer": "İNCE"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 5,
+      "col": 7,
+      "length": 4,
+      "clue": "Böcekten kumaş",
+      "answer": "İPEK"
     },
     {
       "number": 7,
-      "direction": "down",
-      "row": 3,
-      "col": 8,
-      "length": 5,
-      "clue": "Mektup servisi",
-      "answer": "POSTA"
+      "direction": "across",
+      "row": 6,
+      "col": 2,
+      "length": 4,
+      "clue": "Karanlık zaman",
+      "answer": "GECE"
     },
     {
       "number": 8,
       "direction": "across",
-      "row": 4,
-      "col": 7,
-      "length": 3,
-      "clue": "Buz tutma",
-      "answer": "DON"
-    },
-    {
-      "number": 9,
-      "direction": "across",
-      "row": 5,
-      "col": 2,
-      "length": 3,
-      "clue": "Tropikal meyve",
-      "answer": "MUZ"
-    },
-    {
-      "number": 10,
-      "direction": "across",
-      "row": 6,
+      "row": 8,
       "col": 4,
-      "length": 5,
-      "clue": "Namus, iffet",
-      "answer": "İFFET"
+      "length": 4,
+      "clue": "Türk simgesi çiçek",
+      "answer": "LALE"
     }
   ]
 }

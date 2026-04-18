@@ -1,8 +1,8 @@
 {
   "id": 74,
   "title": "Bölüm 74",
-  "difficulty": "Zor",
-  "grid_size_r": 8,
+  "difficulty": "Kolay",
+  "grid_size_r": 12,
   "grid_size_c": 9,
   "grid": [
     [
@@ -12,57 +12,101 @@
       0,
       0,
       0,
-      0,
-      0,
-      1
-    ],
-    [
-      0,
-      1,
-      1,
       1,
       0,
-      1,
-      1,
-      1,
-      1
+      0
     ],
     [
       0,
       0,
+      0,
+      0,
+      0,
+      0,
       1,
       0,
+      0
+    ],
+    [
       0,
       0,
       0,
       0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
       1
     ],
     [
       0,
       0,
-      1,
       0,
       0,
-      1,
-      1,
-      1,
-      1
-    ],
-    [
+      0,
+      0,
       0,
       1,
-      1,
-      1,
-      1,
-      0,
-      1,
-      0,
-      1
+      0
     ],
     [
       0,
       0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
       0,
       0,
       1,
@@ -84,7 +128,7 @@
     ],
     [
       0,
-      0,
+      1,
       0,
       0,
       1,
@@ -99,91 +143,82 @@
       "number": 1,
       "direction": "down",
       "row": 0,
-      "col": 8,
+      "col": 6,
       "length": 5,
-      "clue": "Olgunluk",
-      "answer": "KEMAL"
+      "clue": "Sayfalardan eser",
+      "answer": "KİTAP"
     },
     {
       "number": 2,
       "direction": "across",
-      "row": 1,
-      "col": 1,
+      "row": 4,
+      "col": 6,
       "length": 3,
-      "clue": "Asla, kesinlikle hayır",
-      "answer": "HİÇ"
+      "clue": "Demir korozyonu",
+      "answer": "PAS"
     },
     {
       "number": 3,
       "direction": "down",
-      "row": 1,
-      "col": 2,
+      "row": 4,
+      "col": 7,
       "length": 4,
-      "clue": "Sivri dikiş aracı",
-      "answer": "İĞNE"
+      "clue": "Av yapan kişi",
+      "answer": "AVCI"
     },
     {
       "number": 4,
-      "direction": "across",
-      "row": 1,
+      "direction": "down",
+      "row": 6,
       "col": 5,
       "length": 4,
-      "clue": "Yassı ekmek",
-      "answer": "PİDE"
+      "clue": "Doku hasarı",
+      "answer": "YARA"
     },
     {
       "number": 5,
       "direction": "across",
-      "row": 3,
-      "col": 5,
+      "row": 7,
+      "col": 4,
       "length": 4,
-      "clue": "Kullanılan nesneler",
-      "answer": "EŞYA"
+      "clue": "Yazılmış metin",
+      "answer": "YAZI"
     },
     {
       "number": 6,
       "direction": "down",
-      "row": 3,
-      "col": 6,
+      "row": 9,
+      "col": 1,
+      "length": 3,
+      "clue": "Bina bölümü",
+      "answer": "KAT"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 9,
+      "col": 4,
+      "length": 3,
+      "clue": "Omuz örtüsü",
+      "answer": "ŞAL"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 9,
+      "col": 4,
       "length": 3,
       "clue": "Ün, şöhret",
       "answer": "ŞAN"
     },
     {
-      "number": 7,
-      "direction": "across",
-      "row": 4,
-      "col": 1,
-      "length": 4,
-      "clue": "Ses birimi",
-      "answer": "HECE"
-    },
-    {
       "number": 8,
-      "direction": "down",
-      "row": 4,
-      "col": 4,
-      "length": 4,
-      "clue": "Terbiye, görgü",
-      "answer": "EDEP"
-    },
-    {
-      "number": 9,
       "direction": "across",
-      "row": 5,
-      "col": 4,
-      "length": 3,
-      "clue": "Buz tutma",
-      "answer": "DON"
-    },
-    {
-      "number": 10,
-      "direction": "across",
-      "row": 6,
+      "row": 10,
       "col": 0,
       "length": 5,
-      "clue": "Geniş ana yol",
-      "answer": "CADDE"
+      "clue": "Kutlama tatlısı",
+      "answer": "PASTA"
     }
   ]
 }

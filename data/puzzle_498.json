@@ -1,0 +1,209 @@
+{
+  "id": 498,
+  "title": "Bölüm 498",
+  "difficulty": "Çok Zor",
+  "grid_size_r": 12,
+  "grid_size_c": 7,
+  "grid": [
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "length": 7,
+      "clue": "Hatıra, armağan",
+      "answer": "YADİGAR"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 1,
+      "col": 1,
+      "length": 3,
+      "clue": "İçine konan kab",
+      "answer": "KAP"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 3,
+      "col": 6,
+      "length": 3,
+      "clue": "Yüce, büyük",
+      "answer": "ULU"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 4,
+      "col": 0,
+      "length": 5,
+      "clue": "Temiz, arı",
+      "answer": "NEZİH"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 4,
+      "col": 2,
+      "length": 5,
+      "clue": "Habersiz, aymaz",
+      "answer": "GAFİL"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "length": 3,
+      "clue": "Güç, kolay değil",
+      "answer": "ZOR"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 7,
+      "col": 3,
+      "length": 5,
+      "clue": "Ani vuruş",
+      "answer": "DARBE"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "length": 5,
+      "clue": "Gerçek olmayan düş",
+      "answer": "HAYAL"
+    },
+    {
+      "number": 9,
+      "direction": "down",
+      "row": 8,
+      "col": 6,
+      "length": 4,
+      "clue": "Başarı karşılığı",
+      "answer": "ÖDÜL"
+    },
+    {
+      "number": 10,
+      "direction": "across",
+      "row": 11,
+      "col": 2,
+      "length": 5,
+      "clue": "Olgunluk",
+      "answer": "KEMAL"
+    }
+  ]
+}

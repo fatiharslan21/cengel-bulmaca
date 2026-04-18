@@ -1,0 +1,205 @@
+{
+  "id": 144,
+  "title": "Bölüm 144",
+  "difficulty": "Orta",
+  "grid_size_r": 8,
+  "grid_size_c": 11,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1
+    ],
+    [
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "across",
+      "row": 0,
+      "col": 4,
+      "length": 4,
+      "clue": "Bacak ucu",
+      "answer": "AYAK"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 7,
+      "length": 3,
+      "clue": "Bina bölümü",
+      "answer": "KAT"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 2,
+      "col": 5,
+      "length": 5,
+      "clue": "Sayfalardan eser",
+      "answer": "KİTAP"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 2,
+      "col": 5,
+      "length": 3,
+      "clue": "Beyaz yağış",
+      "answer": "KAR"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 2,
+      "col": 8,
+      "length": 4,
+      "clue": "Hedef, gaye",
+      "answer": "AMAÇ"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 3,
+      "col": 2,
+      "length": 4,
+      "clue": "İstek, dilek",
+      "answer": "ARZU"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 3,
+      "col": 10,
+      "length": 5,
+      "clue": "Gölge ağacı",
+      "answer": "ÇINAR"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "length": 6,
+      "clue": "Saç kesen esnaf",
+      "answer": "BERBER"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 4,
+      "col": 0,
+      "length": 4,
+      "clue": "Yapışkan şerit",
+      "answer": "BANT"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 4,
+      "col": 7,
+      "length": 4,
+      "clue": "Altın rengi",
+      "answer": "SARI"
+    }
+  ]
+}

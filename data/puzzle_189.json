@@ -1,0 +1,209 @@
+{
+  "id": 189,
+  "title": "Bölüm 189",
+  "difficulty": "Orta",
+  "grid_size_r": 12,
+  "grid_size_c": 7,
+  "grid": [
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "across",
+      "row": 0,
+      "col": 2,
+      "length": 4,
+      "clue": "Kalın olmayan",
+      "answer": "İNCE"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "length": 4,
+      "clue": "Müzik işareti",
+      "answer": "NOTA"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 3,
+      "col": 2,
+      "length": 4,
+      "clue": "Kızarmış sandviç",
+      "answer": "TOST"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 3,
+      "col": 2,
+      "length": 3,
+      "clue": "Sert kayaç parçası",
+      "answer": "TAŞ"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 6,
+      "col": 2,
+      "length": 4,
+      "clue": "Biçim, üslup",
+      "answer": "TARZ"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 6,
+      "col": 5,
+      "length": 5,
+      "clue": "En yüksek nokta",
+      "answer": "ZİRVE"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 8,
+      "col": 3,
+      "length": 3,
+      "clue": "Karalarla çevrili su",
+      "answer": "GÖL"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 8,
+      "col": 3,
+      "length": 4,
+      "clue": "İlerinin zıttı",
+      "answer": "GERİ"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 9,
+      "col": 0,
+      "length": 3,
+      "clue": "İçine konan kab",
+      "answer": "KAP"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 10,
+      "col": 0,
+      "length": 4,
+      "clue": "Gerçek, hakiki",
+      "answer": "ASIL"
+    }
+  ]
+}

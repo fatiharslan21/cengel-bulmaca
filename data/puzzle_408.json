@@ -1,0 +1,257 @@
+{
+  "id": 408,
+  "title": "Bölüm 408",
+  "difficulty": "Çok Zor",
+  "grid_size_r": 12,
+  "grid_size_c": 11,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "length": 5,
+      "clue": "İnce söz, espri",
+      "answer": "NÜKTE"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 1,
+      "col": 5,
+      "length": 3,
+      "clue": "Çeşit, tür",
+      "answer": "TÜR"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 4,
+      "col": 5,
+      "length": 3,
+      "clue": "Yaklaşma eylemi",
+      "answer": "GEL"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 4,
+      "col": 7,
+      "length": 5,
+      "clue": "Hoş, ince",
+      "answer": "LATİF"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 6,
+      "col": 4,
+      "length": 5,
+      "clue": "En küçük işaret",
+      "answer": "NOKTA"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 8,
+      "col": 5,
+      "length": 5,
+      "clue": "Bolluk, huzur",
+      "answer": "REFAH"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 8,
+      "col": 5,
+      "length": 4,
+      "clue": "Tesadüf, denk gelme",
+      "answer": "RAST"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 8,
+      "col": 8,
+      "length": 3,
+      "clue": "Bir şeye ilişkin",
+      "answer": "AİT"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 9,
+      "col": 0,
+      "length": 6,
+      "clue": "Okyanus memelisi",
+      "answer": "BALİNA"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 10,
+      "col": 7,
+      "length": 4,
+      "clue": "Yanan ısı ve ışık",
+      "answer": "ATEŞ"
+    }
+  ]
+}

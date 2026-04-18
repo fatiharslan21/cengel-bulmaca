@@ -1,0 +1,188 @@
+{
+  "id": 108,
+  "title": "Bölüm 108",
+  "difficulty": "Kolay",
+  "grid_size_r": 12,
+  "grid_size_c": 6,
+  "grid": [
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "length": 4,
+      "clue": "Renk veren madde",
+      "answer": "BOYA"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "length": 4,
+      "clue": "Kızarmış sandviç",
+      "answer": "TOST"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "length": 3,
+      "clue": "Damar sıvısı",
+      "answer": "KAN"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 3,
+      "col": 0,
+      "length": 4,
+      "clue": "Yüzeylerin birleşimi",
+      "answer": "KÖŞE"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 5,
+      "col": 2,
+      "length": 5,
+      "clue": "Tatlı madde",
+      "answer": "ŞEKER"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "length": 4,
+      "clue": "Sanat yapıtı",
+      "answer": "ESER"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 8,
+      "col": 1,
+      "length": 4,
+      "clue": "Otlak alan",
+      "answer": "MERA"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 8,
+      "col": 4,
+      "length": 4,
+      "clue": "Gerçek, hakiki",
+      "answer": "ASIL"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 11,
+      "col": 2,
+      "length": 4,
+      "clue": "Boş olmayan",
+      "answer": "DOLU"
+    }
+  ]
+}

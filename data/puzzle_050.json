@@ -1,55 +1,35 @@
 {
   "id": 50,
   "title": "Bölüm 50",
-  "difficulty": "Orta",
-  "grid_size_r": 12,
+  "difficulty": "Kolay",
+  "grid_size_r": 10,
   "grid_size_c": 8,
   "grid": [
     [
-      0,
-      0,
-      0,
-      0,
-      0,
       1,
+      0,
+      0,
+      0,
+      0,
+      0,
       0,
       0
     ],
     [
-      0,
-      0,
-      0,
-      0,
-      1,
-      1,
-      1,
-      0
-    ],
-    [
-      0,
-      0,
       1,
       0,
       0,
       1,
+      0,
+      0,
       0,
       0
     ],
     [
-      0,
       1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      0
-    ],
-    [
       0,
       0,
       1,
-      0,
       0,
       0,
       0,
@@ -60,46 +40,36 @@
       1,
       1,
       1,
-      1,
-      1,
-      0,
-      0
-    ],
-    [
-      1,
-      0,
-      1,
       0,
       0,
       0,
-      0,
-      0
-    ],
-    [
-      1,
-      0,
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ],
-    [
-      1,
-      0,
-      0,
-      0,
-      1,
-      0,
-      1,
-      0
+      1
     ],
     [
       0,
       0,
       1,
+      0,
       1,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
       1,
       1,
       1,
@@ -111,8 +81,8 @@
       0,
       0,
       0,
-      0,
       1,
+      0,
       0
     ],
     [
@@ -121,8 +91,18 @@
       0,
       0,
       0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
       0,
       1,
+      0,
       0
     ]
   ],
@@ -131,91 +111,82 @@
       "number": 1,
       "direction": "down",
       "row": 0,
-      "col": 5,
+      "col": 0,
       "length": 4,
-      "clue": "Yemek mobilyası",
-      "answer": "MASA"
+      "clue": "Kez, kere",
+      "answer": "DEFA"
     },
     {
       "number": 2,
-      "direction": "across",
+      "direction": "down",
       "row": 1,
-      "col": 4,
+      "col": 3,
       "length": 3,
-      "clue": "Ağacın kolu",
-      "answer": "DAL"
+      "clue": "Koruyucu ilaç",
+      "answer": "AŞI"
     },
     {
       "number": 3,
-      "direction": "down",
-      "row": 2,
-      "col": 2,
-      "length": 6,
-      "clue": "Bitkinin yeşil organı",
-      "answer": "YAPRAK"
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "length": 4,
+      "clue": "Av yapan kişi",
+      "answer": "AVCI"
     },
     {
       "number": 4,
-      "direction": "across",
+      "direction": "down",
       "row": 3,
-      "col": 1,
-      "length": 6,
-      "clue": "Kürekli tekne",
-      "answer": "SANDAL"
-    },
-    {
-      "number": 5,
-      "direction": "across",
-      "row": 5,
-      "col": 0,
-      "length": 6,
-      "clue": "Saç kesen esnaf",
-      "answer": "BERBER"
+      "col": 2,
+      "length": 3,
+      "clue": "Hayat, yaşam",
+      "answer": "CAN"
     },
     {
       "number": 5,
       "direction": "down",
-      "row": 5,
-      "col": 0,
+      "row": 3,
+      "col": 7,
       "length": 4,
-      "clue": "Zodyak işareti",
-      "answer": "BURÇ"
+      "clue": "Küçük akarsu",
+      "answer": "DERE"
     },
     {
       "number": 6,
-      "direction": "across",
-      "row": 7,
-      "col": 2,
+      "direction": "down",
+      "row": 4,
+      "col": 4,
       "length": 3,
-      "clue": "Göz üstü kıl şeridi",
-      "answer": "KAŞ"
+      "clue": "Vücudun orta bölümü",
+      "answer": "BEL"
     },
     {
       "number": 7,
-      "direction": "down",
-      "row": 7,
-      "col": 4,
-      "length": 3,
-      "clue": "Ün, şöhret",
-      "answer": "ŞAN"
+      "direction": "across",
+      "row": 5,
+      "col": 1,
+      "length": 4,
+      "clue": "Kalın olmayan",
+      "answer": "İNCE"
     },
     {
       "number": 8,
-      "direction": "down",
-      "row": 8,
-      "col": 6,
+      "direction": "across",
+      "row": 6,
+      "col": 4,
       "length": 4,
-      "clue": "İlerinin zıttı",
-      "answer": "GERİ"
+      "clue": "Türk simgesi çiçek",
+      "answer": "LALE"
     },
     {
       "number": 9,
-      "direction": "across",
-      "row": 9,
-      "col": 2,
-      "length": 6,
-      "clue": "Konular listesi",
-      "answer": "GÜNDEM"
+      "direction": "down",
+      "row": 6,
+      "col": 5,
+      "length": 4,
+      "clue": "Yansıtıcı cam",
+      "answer": "AYNA"
     }
   ]
 }

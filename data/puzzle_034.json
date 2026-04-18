@@ -1,13 +1,95 @@
 {
   "id": 34,
   "title": "Bölüm 34",
-  "difficulty": "Orta",
-  "grid_size_r": 9,
-  "grid_size_c": 11,
+  "difficulty": "Kolay",
+  "grid_size_r": 11,
+  "grid_size_c": 10,
   "grid": [
     [
       0,
+      1,
       0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
       0,
       0,
       0,
@@ -16,10 +98,22 @@
       0,
       0,
       1,
+      0,
       0
     ],
     [
       0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
       0,
       0,
       0,
@@ -41,85 +135,6 @@
       0,
       1,
       0,
-      1,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      0,
-      1,
-      0,
-      0,
-      1,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      0,
-      1,
-      0,
-      1,
-      1,
-      1,
-      1,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      0,
-      1,
-      1,
-      1,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      0,
-      1,
-      0,
-      1,
-      1,
-      1,
-      1,
-      0
-    ],
-    [
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      0,
-      1,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      1,
-      0,
-      0,
       0
     ]
   ],
@@ -128,91 +143,82 @@
       "number": 1,
       "direction": "down",
       "row": 0,
-      "col": 9,
-      "length": 3,
-      "clue": "Dokuma kumaş parçası",
-      "answer": "BEZ"
+      "col": 1,
+      "length": 5,
+      "clue": "Bilimsel test",
+      "answer": "DENEY"
     },
     {
       "number": 2,
       "direction": "across",
       "row": 1,
-      "col": 7,
+      "col": 0,
       "length": 4,
-      "clue": "Yük hayvanı",
-      "answer": "EŞEK"
-    },
-    {
-      "number": 2,
-      "direction": "down",
-      "row": 1,
-      "col": 7,
-      "length": 4,
-      "clue": "Buyruk, komut",
-      "answer": "EMİR"
+      "clue": "Felaket, kötülük",
+      "answer": "BELA"
     },
     {
       "number": 3,
       "direction": "down",
-      "row": 3,
+      "row": 2,
       "col": 4,
+      "length": 5,
+      "clue": "Tatlı madde",
+      "answer": "ŞEKER"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 2,
+      "col": 6,
+      "length": 3,
+      "clue": "Mülk, eşya",
+      "answer": "MAL"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 3,
+      "col": 0,
       "length": 5,
       "clue": "Yenilebilen bitki",
       "answer": "SEBZE"
     },
     {
-      "number": 4,
-      "direction": "across",
-      "row": 4,
-      "col": 6,
-      "length": 4,
-      "clue": "İstek, dilek",
-      "answer": "ARZU"
-    },
-    {
-      "number": 4,
-      "direction": "down",
-      "row": 4,
-      "col": 6,
-      "length": 3,
-      "clue": "Üstün karşıtı",
-      "answer": "ALT"
-    },
-    {
-      "number": 5,
-      "direction": "across",
-      "row": 5,
-      "col": 4,
-      "length": 3,
-      "clue": "Çok miktarda",
-      "answer": "BOL"
-    },
-    {
       "number": 6,
       "direction": "across",
-      "row": 6,
-      "col": 6,
-      "length": 4,
-      "clue": "Adet, parça",
-      "answer": "TANE"
+      "row": 4,
+      "col": 4,
+      "length": 3,
+      "clue": "Yanık kalıntısı",
+      "answer": "KÜL"
     },
     {
       "number": 7,
-      "direction": "down",
+      "direction": "across",
       "row": 6,
-      "col": 7,
-      "length": 3,
-      "clue": "Benekli, alacalı",
-      "answer": "ALA"
+      "col": 3,
+      "length": 5,
+      "clue": "Vücut bölümü",
+      "answer": "ORGAN"
     },
     {
       "number": 8,
+      "direction": "down",
+      "row": 6,
+      "col": 7,
+      "length": 5,
+      "clue": "Soluk alma verme",
+      "answer": "NEFES"
+    },
+    {
+      "number": 9,
       "direction": "across",
-      "row": 7,
-      "col": 0,
-      "length": 6,
-      "clue": "Üst giysi",
-      "answer": "GÖMLEK"
+      "row": 9,
+      "col": 6,
+      "length": 4,
+      "clue": "Bitki yapısı",
+      "answer": "SERA"
     }
   ]
 }

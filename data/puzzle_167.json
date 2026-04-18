@@ -1,0 +1,245 @@
+{
+  "id": 167,
+  "title": "Bölüm 167",
+  "difficulty": "Orta",
+  "grid_size_r": 12,
+  "grid_size_c": 10,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "length": 5,
+      "clue": "Ekin alanı",
+      "answer": "TARLA"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 3,
+      "col": 9,
+      "length": 3,
+      "clue": "Lider, baş aşçı",
+      "answer": "ŞEF"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 4,
+      "col": 5,
+      "length": 6,
+      "clue": "Bina çıkıntısı",
+      "answer": "BALKON"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 4,
+      "col": 5,
+      "length": 5,
+      "clue": "Evin yeşil alanı",
+      "answer": "BAHÇE"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 6,
+      "col": 3,
+      "length": 3,
+      "clue": "Mektup pulu",
+      "answer": "PUL"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 8,
+      "col": 0,
+      "length": 4,
+      "clue": "Yakın arkadaş",
+      "answer": "DOST"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 8,
+      "col": 7,
+      "length": 3,
+      "clue": "Giyside küçük kese",
+      "answer": "CEP"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 9,
+      "col": 3,
+      "length": 6,
+      "clue": "Konular listesi",
+      "answer": "GÜNDEM"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 9,
+      "col": 3,
+      "length": 3,
+      "clue": "24 saatlik süre",
+      "answer": "GÜN"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 11,
+      "col": 0,
+      "length": 4,
+      "clue": "Raylı taşıt",
+      "answer": "TREN"
+    }
+  ]
+}

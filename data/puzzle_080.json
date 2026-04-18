@@ -1,8 +1,8 @@
 {
   "id": 80,
   "title": "Bölüm 80",
-  "difficulty": "Çok Zor",
-  "grid_size_r": 11,
+  "difficulty": "Kolay",
+  "grid_size_r": 8,
   "grid_size_c": 10,
   "grid": [
     [
@@ -11,8 +11,32 @@
       0,
       0,
       0,
+      1,
       0,
       0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
       0,
       1,
       0
@@ -24,88 +48,28 @@
       0,
       0,
       0,
-      0,
+      1,
       1,
       1,
       1
     ],
     [
-      1,
-      1,
-      1,
-      1,
       0,
       0,
-      0,
+      1,
+      1,
+      1,
+      1,
+      1,
       0,
       1,
       0
     ],
     [
       0,
-      0,
-      0,
       1,
       0,
       1,
-      0,
-      0,
-      1,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      1,
-      0,
-      1,
-      1,
-      1,
-      1,
-      0
-    ],
-    [
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      0,
-      1,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      1,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      0,
-      0,
-      1,
-      1,
-      1,
-      1,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      0,
       0,
       0,
       1,
@@ -114,25 +78,25 @@
       0
     ],
     [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
       1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
       0,
       0,
       0
     ],
     [
       0,
-      0,
-      0,
-      0,
-      0,
+      1,
       0,
       1,
+      0,
+      0,
+      0,
       0,
       0,
       0
@@ -143,91 +107,82 @@
       "number": 1,
       "direction": "down",
       "row": 0,
-      "col": 8,
-      "length": 5,
-      "clue": "Habersiz, aymaz",
-      "answer": "GAFİL"
+      "col": 5,
+      "length": 3,
+      "clue": "Oyun küpü",
+      "answer": "ZAR"
     },
     {
       "number": 2,
-      "direction": "across",
+      "direction": "down",
       "row": 1,
-      "col": 7,
-      "length": 3,
-      "clue": "Arı ürünü tatlı",
-      "answer": "BAL"
+      "col": 8,
+      "length": 4,
+      "clue": "Ev, konut",
+      "answer": "HANE"
     },
     {
       "number": 3,
       "direction": "across",
       "row": 2,
-      "col": 0,
+      "col": 3,
       "length": 4,
-      "clue": "Burnun algısı",
-      "answer": "KOKU"
+      "clue": "Üçten sonra gelen",
+      "answer": "DÖRT"
     },
     {
       "number": 4,
       "direction": "down",
       "row": 2,
-      "col": 3,
+      "col": 6,
       "length": 4,
-      "clue": "Havada uçan taşıt",
-      "answer": "UÇAK"
+      "clue": "Adet, parça",
+      "answer": "TANE"
     },
     {
       "number": 5,
-      "direction": "down",
+      "direction": "across",
       "row": 3,
-      "col": 5,
-      "length": 3,
-      "clue": "Dokuma kumaş parçası",
-      "answer": "BEZ"
+      "col": 6,
+      "length": 4,
+      "clue": "Yansıtıcı cam",
+      "answer": "AYNA"
     },
     {
       "number": 6,
       "direction": "across",
       "row": 4,
-      "col": 5,
-      "length": 4,
-      "clue": "Ölüm vakti",
-      "answer": "ECEL"
+      "col": 2,
+      "length": 5,
+      "clue": "Büyük oda",
+      "answer": "SALON"
     },
     {
       "number": 7,
       "direction": "down",
       "row": 4,
-      "col": 7,
+      "col": 3,
       "length": 4,
-      "clue": "Karşılık, sevap",
-      "answer": "ECİR"
+      "clue": "Hafif olmayan",
+      "answer": "AĞIR"
     },
     {
       "number": 8,
-      "direction": "across",
+      "direction": "down",
       "row": 5,
-      "col": 0,
-      "length": 6,
-      "clue": "Orta nokta",
-      "answer": "MERKEZ"
+      "col": 1,
+      "length": 3,
+      "clue": "Mülk, eşya",
+      "answer": "MAL"
     },
     {
       "number": 9,
       "direction": "across",
-      "row": 7,
-      "col": 5,
+      "row": 6,
+      "col": 0,
       "length": 4,
-      "clue": "Altın rengi",
-      "answer": "SARI"
-    },
-    {
-      "number": 10,
-      "direction": "down",
-      "row": 7,
-      "col": 6,
-      "length": 4,
-      "clue": "Hedef, gaye",
-      "answer": "AMAÇ"
+      "clue": "Katlanır bıçak",
+      "answer": "ÇAKI"
     }
   ]
 }

@@ -1,0 +1,199 @@
+{
+  "id": 300,
+  "title": "Bölüm 300",
+  "difficulty": "Zor",
+  "grid_size_r": 7,
+  "grid_size_c": 12,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "length": 3,
+      "clue": "İğne yapraklı ağaç",
+      "answer": "ÇAM"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 1,
+      "col": 0,
+      "length": 3,
+      "clue": "Hava gibi madde",
+      "answer": "GAZ"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "length": 4,
+      "clue": "Gömlek boyun kısmı",
+      "answer": "YAKA"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 1,
+      "col": 3,
+      "length": 3,
+      "clue": "Toprak sahibi",
+      "answer": "AĞA"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 1,
+      "col": 8,
+      "length": 5,
+      "clue": "Anlayış",
+      "answer": "İDRAK"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 2,
+      "col": 5,
+      "length": 5,
+      "clue": "İyi haber",
+      "answer": "MÜJDE"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "length": 5,
+      "clue": "Yok olma",
+      "answer": "ZEVAL"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 3,
+      "col": 11,
+      "length": 4,
+      "clue": "Mutlaka yapılması gereken",
+      "answer": "FARZ"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 4,
+      "col": 8,
+      "length": 4,
+      "clue": "Yansıtıcı cam",
+      "answer": "AYNA"
+    },
+    {
+      "number": 10,
+      "direction": "across",
+      "row": 6,
+      "col": 9,
+      "length": 3,
+      "clue": "Sunma, takdim",
+      "answer": "ARZ"
+    }
+  ]
+}

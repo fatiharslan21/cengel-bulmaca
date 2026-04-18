@@ -1,88 +1,14 @@
 {
   "id": 56,
   "title": "Bölüm 56",
-  "difficulty": "Zor",
-  "grid_size_r": 11,
-  "grid_size_c": 12,
+  "difficulty": "Kolay",
+  "grid_size_r": 9,
+  "grid_size_c": 8,
   "grid": [
     [
       0,
       0,
       0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      1
-    ],
-    [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      1,
-      0,
-      1
-    ],
-    [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      1,
-      1,
-      1,
-      1
-    ],
-    [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      1,
-      0,
-      1
-    ],
-    [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      1,
-      0,
-      1
-    ],
-    [
-      0,
-      0,
-      1,
-      0,
-      0,
-      1,
-      1,
       1,
       1,
       1,
@@ -92,24 +18,6 @@
     [
       0,
       0,
-      1,
-      0,
-      0,
-      1,
-      0,
-      1,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
       0,
       1,
       0,
@@ -119,11 +27,57 @@
     ],
     [
       0,
+      0,
+      0,
       1,
       0,
       0,
+      1,
+      0
+    ],
+    [
       0,
       1,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      1,
+      0,
       0,
       0,
       0,
@@ -133,24 +87,6 @@
     ],
     [
       1,
-      1,
-      1,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      1,
-      0,
-      0,
-      0,
       0,
       0,
       0,
@@ -165,91 +101,82 @@
       "number": 1,
       "direction": "down",
       "row": 0,
-      "col": 11,
+      "col": 3,
       "length": 5,
-      "clue": "Yas, acı",
-      "answer": "MATEM"
+      "clue": "Yaşadığımız gezegen",
+      "answer": "DÜNYA"
+    },
+    {
+      "number": 1,
+      "direction": "across",
+      "row": 0,
+      "col": 3,
+      "length": 4,
+      "clue": "Hörgüçlü hayvan",
+      "answer": "DEVE"
     },
     {
       "number": 2,
       "direction": "down",
-      "row": 1,
-      "col": 9,
+      "row": 2,
+      "col": 6,
       "length": 5,
-      "clue": "Küçük deniz taşıtı",
-      "answer": "TEKNE"
+      "clue": "Sadık evcil hayvan",
+      "answer": "KÖPEK"
     },
     {
       "number": 3,
-      "direction": "across",
-      "row": 2,
-      "col": 8,
+      "direction": "down",
+      "row": 3,
+      "col": 1,
       "length": 4,
-      "clue": "Sıkıntı, üzüntü",
-      "answer": "DERT"
+      "clue": "Kuş evi",
+      "answer": "YUVA"
     },
     {
       "number": 4,
-      "direction": "down",
-      "row": 5,
-      "col": 2,
-      "length": 3,
-      "clue": "Evin çatısı",
-      "answer": "DAM"
-    },
-    {
-      "number": 5,
       "direction": "across",
-      "row": 5,
-      "col": 5,
-      "length": 6,
-      "clue": "Nasip, pay",
-      "answer": "KISMET"
+      "row": 4,
+      "col": 1,
+      "length": 4,
+      "clue": "Yakın olmayan",
+      "answer": "UZAK"
     },
     {
       "number": 5,
       "direction": "down",
-      "row": 5,
-      "col": 5,
-      "length": 4,
-      "clue": "Düz ince levha",
-      "answer": "KART"
+      "row": 4,
+      "col": 4,
+      "length": 3,
+      "clue": "Beyaz yağış",
+      "answer": "KAR"
     },
     {
       "number": 6,
-      "direction": "down",
+      "direction": "across",
       "row": 5,
-      "col": 7,
-      "length": 3,
-      "clue": "İşitilen titreşim",
-      "answer": "SES"
+      "col": 4,
+      "length": 4,
+      "clue": "Ateşin parlak kısmı",
+      "answer": "ALEV"
     },
     {
       "number": 7,
       "direction": "across",
-      "row": 7,
+      "row": 6,
       "col": 0,
-      "length": 6,
-      "clue": "Daire çevresi",
-      "answer": "ÇEMBER"
+      "length": 3,
+      "clue": "Asit karşıtı",
+      "answer": "BAZ"
     },
     {
-      "number": 8,
+      "number": 7,
       "direction": "down",
-      "row": 7,
-      "col": 1,
-      "length": 4,
-      "clue": "Özlenen istek",
-      "answer": "EMEL"
-    },
-    {
-      "number": 9,
-      "direction": "across",
-      "row": 9,
+      "row": 6,
       "col": 0,
-      "length": 4,
-      "clue": "Haz, keyif",
-      "answer": "ZEVK"
+      "length": 3,
+      "clue": "Birinci tekil kişi",
+      "answer": "BEN"
     }
   ]
 }

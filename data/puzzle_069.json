@@ -1,35 +1,29 @@
 {
   "id": 69,
   "title": "Bölüm 69",
-  "difficulty": "Zor",
-  "grid_size_r": 9,
-  "grid_size_c": 8,
+  "difficulty": "Kolay",
+  "grid_size_r": 8,
+  "grid_size_c": 10,
   "grid": [
     [
       0,
       0,
-      1,
+      0,
+      0,
       0,
       1,
       0,
       0,
-      0
-    ],
-    [
-      0,
-      1,
-      1,
-      1,
-      1,
-      1,
       0,
       0
     ],
     [
       0,
       0,
-      1,
       0,
+      0,
+      1,
+      1,
       1,
       0,
       0,
@@ -39,6 +33,20 @@
       0,
       0,
       0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
       1,
       1,
       1,
@@ -47,38 +55,22 @@
     ],
     [
       1,
-      1,
-      1,
+      0,
+      0,
+      0,
       1,
       0,
       0,
       1,
+      0,
       0
     ],
     [
+      1,
       0,
       0,
       0,
       1,
-      0,
-      1,
-      1,
-      1
-    ],
-    [
-      0,
-      0,
-      0,
-      0,
-      0,
-      1,
-      0,
-      1
-    ],
-    [
-      0,
-      0,
-      0,
       0,
       0,
       1,
@@ -86,12 +78,26 @@
       1
     ],
     [
+      1,
       0,
       0,
       0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
       0,
       0,
-      0,
+      1,
       0,
       1
     ]
@@ -101,91 +107,82 @@
       "number": 1,
       "direction": "down",
       "row": 0,
-      "col": 2,
-      "length": 3,
-      "clue": "Dokuma kumaş parçası",
-      "answer": "BEZ"
+      "col": 5,
+      "length": 4,
+      "clue": "Kez, kere",
+      "answer": "DEFA"
     },
     {
       "number": 2,
-      "direction": "down",
-      "row": 0,
+      "direction": "across",
+      "row": 1,
       "col": 4,
-      "length": 4,
-      "clue": "Amaç, maksat",
-      "answer": "GAYE"
+      "length": 3,
+      "clue": "Lider, baş aşçı",
+      "answer": "ŞEF"
     },
     {
       "number": 3,
       "direction": "across",
-      "row": 1,
-      "col": 1,
+      "row": 3,
+      "col": 4,
       "length": 5,
-      "clue": "Esenleme sözü",
-      "answer": "SELAM"
+      "clue": "Evin yeşil alanı",
+      "answer": "BAHÇE"
     },
     {
-      "number": 4,
-      "direction": "across",
+      "number": 3,
+      "direction": "down",
       "row": 3,
-      "col": 3,
-      "length": 4,
-      "clue": "Sıkıntı, üzüntü",
-      "answer": "DERT"
+      "col": 4,
+      "length": 5,
+      "clue": "Suda yaşayan canlı",
+      "answer": "BALIK"
     },
     {
       "number": 4,
       "direction": "down",
       "row": 3,
-      "col": 3,
-      "length": 3,
-      "clue": "Ağacın kolu",
-      "answer": "DAL"
+      "col": 7,
+      "length": 5,
+      "clue": "Etraf, çepeçevre",
+      "answer": "ÇEVRE"
     },
     {
       "number": 5,
       "direction": "down",
-      "row": 3,
-      "col": 6,
-      "length": 3,
-      "clue": "Çeşit, tür",
-      "answer": "TÜR"
-    },
-    {
-      "number": 6,
-      "direction": "across",
       "row": 4,
       "col": 0,
       "length": 4,
-      "clue": "Uykuda hayal",
-      "answer": "RÜYA"
+      "clue": "Yeşil alan",
+      "answer": "PARK"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 5,
+      "col": 9,
+      "length": 3,
+      "clue": "Tropikal meyve",
+      "answer": "MUZ"
     },
     {
       "number": 7,
       "direction": "across",
-      "row": 5,
-      "col": 5,
-      "length": 3,
-      "clue": "İki şey arası boşluk",
-      "answer": "ARA"
-    },
-    {
-      "number": 7,
-      "direction": "down",
-      "row": 5,
-      "col": 5,
-      "length": 3,
-      "clue": "Sunma, takdim",
-      "answer": "ARZ"
+      "row": 6,
+      "col": 6,
+      "length": 4,
+      "clue": "Silahlı kuvvetler",
+      "answer": "ORDU"
     },
     {
       "number": 8,
-      "direction": "down",
-      "row": 5,
-      "col": 7,
-      "length": 4,
-      "clue": "İstek, dilek",
-      "answer": "ARZU"
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "length": 5,
+      "clue": "Sadık evcil hayvan",
+      "answer": "KÖPEK"
     }
   ]
 }

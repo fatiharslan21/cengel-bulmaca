@@ -1,22 +1,85 @@
 {
   "id": 82,
   "title": "Bölüm 82",
-  "difficulty": "Çok Zor",
-  "grid_size_r": 9,
-  "grid_size_c": 12,
+  "difficulty": "Kolay",
+  "grid_size_r": 8,
+  "grid_size_c": 9,
   "grid": [
     [
       0,
+      1,
       0,
       0,
       0,
       0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      1,
       0,
       0,
       0,
       0,
       1,
       0,
+      1,
       0
     ],
     [
@@ -24,112 +87,11 @@
       0,
       0,
       0,
-      0,
-      0,
-      0,
-      0,
-      0,
+      1,
+      1,
       1,
       1,
       1
-    ],
-    [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      1,
-      1,
-      1,
-      1,
-      0,
-      1
-    ],
-    [
-      0,
-      0,
-      0,
-      0,
-      1,
-      0,
-      0,
-      0,
-      0,
-      1,
-      0,
-      1
-    ],
-    [
-      1,
-      0,
-      0,
-      0,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      0,
-      0
-    ],
-    [
-      1,
-      1,
-      1,
-      0,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      1,
-      0,
-      1,
-      1,
-      1,
-      1,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
     ]
   ],
   "words": [
@@ -137,91 +99,82 @@
       "number": 1,
       "direction": "down",
       "row": 0,
-      "col": 9,
-      "length": 5,
-      "clue": "Büyük oda",
-      "answer": "SALON"
+      "col": 1,
+      "length": 4,
+      "clue": "Baş, kelle",
+      "answer": "KAFA"
     },
     {
       "number": 2,
       "direction": "across",
       "row": 1,
-      "col": 9,
+      "col": 0,
       "length": 3,
-      "clue": "Sunma, takdim",
-      "answer": "ARZ"
+      "clue": "Oyun küpü",
+      "answer": "ZAR"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "length": 3,
+      "clue": "Adalet, doğruluk",
+      "answer": "HAK"
     },
     {
       "number": 3,
       "direction": "down",
-      "row": 1,
-      "col": 11,
-      "length": 3,
-      "clue": "Güç, kolay değil",
-      "answer": "ZOR"
+      "row": 3,
+      "col": 0,
+      "length": 4,
+      "clue": "Ev, konut",
+      "answer": "HANE"
     },
     {
       "number": 4,
-      "direction": "across",
-      "row": 2,
-      "col": 6,
-      "length": 4,
-      "clue": "Başarı karşılığı",
-      "answer": "ÖDÜL"
+      "direction": "down",
+      "row": 3,
+      "col": 2,
+      "length": 3,
+      "clue": "Üst beden uzvu",
+      "answer": "KOL"
     },
     {
       "number": 5,
       "direction": "down",
       "row": 3,
-      "col": 4,
-      "length": 4,
-      "clue": "Özlenen istek",
-      "answer": "EMEL"
+      "col": 5,
+      "length": 5,
+      "clue": "Ekin alanı",
+      "answer": "TARLA"
     },
     {
       "number": 6,
-      "direction": "down",
+      "direction": "across",
       "row": 4,
-      "col": 0,
-      "length": 3,
-      "clue": "Bina bölümü",
-      "answer": "KAT"
+      "col": 2,
+      "length": 5,
+      "clue": "Vücut bölümü",
+      "answer": "ORGAN"
     },
     {
       "number": 7,
-      "direction": "across",
-      "row": 4,
-      "col": 4,
-      "length": 6,
-      "clue": "Üzgün, kederli",
-      "answer": "MAHZUN"
+      "direction": "down",
+      "row": 5,
+      "col": 7,
+      "length": 3,
+      "clue": "Benekli, alacalı",
+      "answer": "ALA"
     },
     {
       "number": 8,
       "direction": "across",
-      "row": 5,
-      "col": 0,
-      "length": 3,
-      "clue": "Elin iç kısmı",
-      "answer": "AYA"
-    },
-    {
-      "number": 9,
-      "direction": "down",
-      "row": 5,
-      "col": 2,
-      "length": 4,
-      "clue": "Yanan ısı ve ışık",
-      "answer": "ATEŞ"
-    },
-    {
-      "number": 10,
-      "direction": "across",
-      "row": 6,
-      "col": 2,
+      "row": 7,
+      "col": 4,
       "length": 5,
-      "clue": "İstek",
-      "answer": "TALEP"
+      "clue": "Hükümdar konutu",
+      "answer": "SARAY"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "id": 77,
   "title": "Bölüm 77",
-  "difficulty": "Çok Zor",
-  "grid_size_r": 12,
+  "difficulty": "Kolay",
+  "grid_size_r": 10,
   "grid_size_c": 9,
   "grid": [
     [
@@ -10,11 +10,11 @@
       0,
       0,
       0,
-      1,
       0,
       0,
       0,
-      0
+      0,
+      1
     ],
     [
       0,
@@ -25,60 +25,60 @@
       0,
       0,
       0,
-      0
+      1
     ],
     [
       0,
       0,
-      0,
-      0,
+      1,
+      1,
       1,
       0,
-      1,
       0,
-      0
+      0,
+      1
     ],
     [
       0,
       0,
-      0,
-      1,
-      1,
-      1,
       1,
       0,
-      0
-    ],
-    [
       1,
       1,
-      1,
-      1,
-      0,
-      0,
-      1,
-      0,
-      0
-    ],
-    [
-      1,
-      0,
-      0,
-      1,
-      0,
-      0,
       1,
       1,
       1
     ],
     [
       1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
       0,
       1,
       1,
       1,
-      0,
       1,
+      0,
+      0,
       0,
       0
     ],
@@ -86,11 +86,22 @@
       0,
       0,
       0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
       1,
       0,
       0,
       0,
-      1,
       0
     ],
     [
@@ -99,42 +110,9 @@
       1,
       1,
       1,
-      1,
-      1,
-      1,
-      0
-    ],
-    [
       0,
       0,
       0,
-      1,
-      0,
-      0,
-      0,
-      1,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      1,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      1,
       0
     ]
   ],
@@ -143,91 +121,82 @@
       "number": 1,
       "direction": "down",
       "row": 0,
-      "col": 4,
-      "length": 4,
-      "clue": "Ayrılırken selam",
-      "answer": "VEDA"
+      "col": 8,
+      "length": 5,
+      "clue": "El kol eklemi",
+      "answer": "BİLEK"
     },
     {
       "number": 2,
       "direction": "down",
+      "row": 1,
+      "col": 4,
+      "length": 4,
+      "clue": "Yemek pişiren",
+      "answer": "AŞÇI"
+    },
+    {
+      "number": 3,
+      "direction": "across",
       "row": 2,
-      "col": 6,
-      "length": 5,
-      "clue": "Hayal ürünü hikaye",
-      "answer": "MASAL"
-    },
-    {
-      "number": 3,
-      "direction": "across",
-      "row": 3,
-      "col": 3,
-      "length": 4,
-      "clue": "Gönül huzuru",
-      "answer": "SAFA"
-    },
-    {
-      "number": 3,
-      "direction": "down",
-      "row": 3,
-      "col": 3,
-      "length": 7,
-      "clue": "Bağlılık, vefa",
-      "answer": "SADAKAT"
-    },
-    {
-      "number": 4,
-      "direction": "across",
-      "row": 4,
-      "col": 0,
-      "length": 4,
-      "clue": "Siyah renk",
-      "answer": "KARA"
-    },
-    {
-      "number": 4,
-      "direction": "down",
-      "row": 4,
-      "col": 0,
+      "col": 2,
       "length": 3,
-      "clue": "İçine konan kab",
-      "answer": "KAP"
+      "clue": "İçi dolu olmayan",
+      "answer": "BOŞ"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 2,
+      "col": 2,
+      "length": 5,
+      "clue": "Öğrenilen her şey",
+      "answer": "BİLGİ"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 3,
+      "col": 4,
+      "length": 5,
+      "clue": "Etraf, çepeçevre",
+      "answer": "ÇEVRE"
     },
     {
       "number": 5,
       "direction": "across",
-      "row": 5,
-      "col": 6,
+      "row": 4,
+      "col": 0,
       "length": 3,
-      "clue": "Tatlının zıttı",
-      "answer": "ACI"
+      "clue": "Güzergah, patika",
+      "answer": "YOL"
     },
     {
       "number": 6,
       "direction": "across",
       "row": 6,
-      "col": 2,
-      "length": 3,
-      "clue": "Geniş olmayan",
-      "answer": "DAR"
+      "col": 1,
+      "length": 4,
+      "clue": "İki adet, eş",
+      "answer": "ÇİFT"
     },
     {
       "number": 7,
       "direction": "down",
-      "row": 7,
-      "col": 7,
-      "length": 5,
-      "clue": "Heyecan, kaygı",
-      "answer": "TELAŞ"
+      "row": 6,
+      "col": 4,
+      "length": 4,
+      "clue": "Raylı taşıt",
+      "answer": "TREN"
     },
     {
       "number": 8,
       "direction": "across",
-      "row": 8,
+      "row": 9,
       "col": 2,
-      "length": 6,
-      "clue": "Değerli şeyler",
-      "answer": "HAZİNE"
+      "length": 3,
+      "clue": "Bitiş, final",
+      "answer": "SON"
     }
   ]
 }

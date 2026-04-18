@@ -1,146 +1,16 @@
 {
   "id": 86,
   "title": "Bölüm 86",
-  "difficulty": "Çok Zor",
+  "difficulty": "Kolay",
   "grid_size_r": 11,
-  "grid_size_c": 12,
+  "grid_size_c": 8,
   "grid": [
     [
       0,
       0,
       0,
       0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      1
-    ],
-    [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
       1,
-      0,
-      0,
-      0,
-      0,
-      1
-    ],
-    [
-      0,
-      0,
-      0,
-      0,
-      0,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1
-    ],
-    [
-      0,
-      0,
-      0,
-      0,
-      1,
-      0,
-      1,
-      0,
-      0,
-      1,
-      0,
-      1
-    ],
-    [
-      0,
-      0,
-      0,
-      0,
-      1,
-      1,
-      1,
-      1,
-      0,
-      1,
-      0,
-      1
-    ],
-    [
-      0,
-      0,
-      0,
-      0,
-      1,
-      0,
-      0,
-      0,
-      0,
-      1,
-      0,
-      0
-    ],
-    [
-      1,
-      1,
-      1,
-      1,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      0,
-      1,
-      1,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      0,
-      0,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      0,
-      0,
-      1,
-      0,
-      0,
-      0,
       0,
       0,
       0
@@ -151,10 +21,96 @@
       1,
       1,
       1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      1,
+      0,
       1,
       0,
       0,
       0,
+      1,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
       0,
       0,
       0
@@ -165,91 +121,82 @@
       "number": 1,
       "direction": "down",
       "row": 0,
-      "col": 11,
+      "col": 4,
       "length": 5,
-      "clue": "Onur, itibar",
-      "answer": "ŞEREF"
+      "clue": "Yemek kabı",
+      "answer": "TABAK"
     },
     {
       "number": 2,
-      "direction": "down",
+      "direction": "across",
       "row": 1,
-      "col": 6,
+      "col": 1,
       "length": 4,
       "clue": "Kötü, berbat",
       "answer": "FENA"
     },
     {
       "number": 3,
-      "direction": "across",
-      "row": 2,
-      "col": 5,
-      "length": 7,
-      "clue": "Üzülme",
-      "answer": "TEESSÜR"
+      "direction": "down",
+      "row": 3,
+      "col": 6,
+      "length": 5,
+      "clue": "Bitkinin ürünü",
+      "answer": "MEYVE"
     },
     {
       "number": 4,
       "direction": "down",
-      "row": 2,
-      "col": 9,
-      "length": 4,
-      "clue": "Cevap bekleyen",
-      "answer": "SORU"
+      "row": 4,
+      "col": 0,
+      "length": 5,
+      "clue": "Yenilebilen bitki",
+      "answer": "SEBZE"
     },
     {
       "number": 5,
       "direction": "down",
-      "row": 3,
-      "col": 4,
+      "row": 4,
+      "col": 2,
+      "length": 3,
+      "clue": "Çeşit, tür",
+      "answer": "TÜR"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 4,
+      "col": 2,
       "length": 5,
-      "clue": "İyilik, bolluk",
-      "answer": "NİMET"
+      "clue": "Küçük deniz taşıtı",
+      "answer": "TEKNE"
     },
     {
       "number": 6,
       "direction": "across",
-      "row": 4,
-      "col": 4,
-      "length": 4,
-      "clue": "Tedavi maddesi",
-      "answer": "İLAÇ"
+      "row": 6,
+      "col": 0,
+      "length": 3,
+      "clue": "İlk doğal sayı",
+      "answer": "BİR"
     },
     {
       "number": 7,
-      "direction": "across",
+      "direction": "down",
       "row": 6,
-      "col": 0,
+      "col": 4,
       "length": 5,
-      "clue": "Pay, nasip",
-      "answer": "HİSSE"
+      "clue": "Öğrenilen her şey",
+      "answer": "BİLGİ"
     },
     {
       "number": 8,
       "direction": "across",
       "row": 7,
       "col": 4,
-      "length": 3,
-      "clue": "İnce parçacıklar",
-      "answer": "TOZ"
-    },
-    {
-      "number": 9,
-      "direction": "down",
-      "row": 7,
-      "col": 5,
       "length": 4,
-      "clue": "Eğitim kurumu",
-      "answer": "OKUL"
-    },
-    {
-      "number": 10,
-      "direction": "across",
-      "row": 10,
-      "col": 1,
-      "length": 5,
-      "clue": "Örnek, benzer",
-      "answer": "MİSAL"
+      "clue": "Böcekten kumaş",
+      "answer": "İPEK"
     }
   ]
 }

@@ -1,22 +1,17 @@
 {
   "id": 61,
   "title": "Bölüm 61",
-  "difficulty": "Zor",
+  "difficulty": "Kolay",
   "grid_size_r": 9,
-  "grid_size_c": 12,
+  "grid_size_c": 7,
   "grid": [
     [
       0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
       1,
-      0,
-      0,
+      1,
+      1,
+      1,
+      1,
       0
     ],
     [
@@ -25,12 +20,7 @@
       0,
       0,
       0,
-      0,
       1,
-      1,
-      1,
-      0,
-      0,
       0
     ],
     [
@@ -39,24 +29,14 @@
       0,
       0,
       0,
-      0,
       1,
-      0,
-      1,
-      0,
-      0,
       0
     ],
     [
-      1,
       0,
       0,
       0,
-      1,
-      1,
-      1,
       0,
-      1,
       1,
       1,
       1
@@ -64,14 +44,36 @@
     [
       1,
       0,
-      0,
-      0,
       1,
       0,
       1,
       0,
+      0
+    ],
+    [
       1,
       0,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      1,
       0,
       0
     ],
@@ -80,53 +82,6 @@
       1,
       1,
       1,
-      1,
-      0,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      1,
-      0,
-      0,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      1,
-      1,
-      1,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0,
       0,
       0,
       0
@@ -135,93 +90,84 @@
   "words": [
     {
       "number": 1,
+      "direction": "across",
+      "row": 0,
+      "col": 1,
+      "length": 5,
+      "clue": "Temizlik maddesi",
+      "answer": "SABUN"
+    },
+    {
+      "number": 2,
       "direction": "down",
       "row": 0,
-      "col": 8,
-      "length": 5,
-      "clue": "Dört tekerlekli taşıt",
-      "answer": "ARABA"
-    },
-    {
-      "number": 2,
-      "direction": "down",
-      "row": 1,
-      "col": 6,
-      "length": 5,
-      "clue": "Gökyüzü su kümeleri",
-      "answer": "BULUT"
-    },
-    {
-      "number": 2,
-      "direction": "across",
-      "row": 1,
-      "col": 6,
-      "length": 3,
-      "clue": "İlk doğal sayı",
-      "answer": "BİR"
+      "col": 5,
+      "length": 4,
+      "clue": "Müzik işareti",
+      "answer": "NOTA"
     },
     {
       "number": 3,
       "direction": "down",
       "row": 3,
-      "col": 0,
-      "length": 4,
-      "clue": "Çukur yemek kabı",
-      "answer": "KASE"
+      "col": 4,
+      "length": 5,
+      "clue": "Tuzlu büyük su",
+      "answer": "DENİZ"
     },
     {
-      "number": 4,
+      "number": 3,
       "direction": "across",
       "row": 3,
       "col": 4,
       "length": 3,
-      "clue": "Yanık kalıntısı",
-      "answer": "KÜL"
+      "clue": "Geniş olmayan",
+      "answer": "DAR"
     },
     {
       "number": 4,
       "direction": "down",
-      "row": 3,
-      "col": 4,
-      "length": 3,
-      "clue": "Seramik toprağı",
-      "answer": "KİL"
+      "row": 4,
+      "col": 0,
+      "length": 5,
+      "clue": "Yenilebilen bitki",
+      "answer": "SEBZE"
     },
     {
       "number": 5,
-      "direction": "across",
-      "row": 3,
-      "col": 8,
-      "length": 4,
-      "clue": "Talih, şans",
-      "answer": "BAHT"
+      "direction": "down",
+      "row": 4,
+      "col": 2,
+      "length": 3,
+      "clue": "Asit karşıtı",
+      "answer": "BAZ"
     },
     {
       "number": 6,
       "direction": "across",
       "row": 5,
-      "col": 0,
-      "length": 5,
-      "clue": "Deniz kıyısı",
-      "answer": "SAHİL"
+      "col": 2,
+      "length": 4,
+      "clue": "Yansıtıcı cam",
+      "answer": "AYNA"
     },
     {
       "number": 7,
-      "direction": "down",
-      "row": 5,
-      "col": 3,
-      "length": 4,
-      "clue": "Bildirme, hüküm",
-      "answer": "İLAM"
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "length": 3,
+      "clue": "Dokuma kumaş parçası",
+      "answer": "BEZ"
     },
     {
       "number": 8,
       "direction": "across",
-      "row": 7,
-      "col": 2,
+      "row": 8,
+      "col": 0,
       "length": 4,
-      "clue": "Toprak eşme",
-      "answer": "KAZI"
+      "clue": "Kullanılan nesneler",
+      "answer": "EŞYA"
     }
   ]
 }

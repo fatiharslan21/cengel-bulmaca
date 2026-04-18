@@ -452,6 +452,17 @@ function showWin(){
     try{const s=JSON.parse(localStorage.getItem('cb')||'{}');
     if(!s[PID]||sc>s[PID].s){s[PID]={s:sc,t:tm,h:hc};localStorage.setItem('cb',JSON.stringify(s))}}catch(e){}
 
+    // Günün bulmacası ise ayrıca kaydet
+    try{
+        if(window.CB_DAILY_KEY) {
+            const d = JSON.parse(localStorage.getItem('cb_daily') || '{}');
+            if(!d[window.CB_DAILY_KEY] || sc > d[window.CB_DAILY_KEY].s) {
+                d[window.CB_DAILY_KEY] = {s:sc, t:tm, h:hc, id:PID};
+                localStorage.setItem('cb_daily', JSON.stringify(d));
+            }
+        }
+    }catch(e){}
+
     // Confetti
     spawnConfetti();
 

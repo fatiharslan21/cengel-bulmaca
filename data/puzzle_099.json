@@ -1,77 +1,65 @@
 {
   "id": 99,
   "title": "Bölüm 99",
-  "difficulty": "Çok Zor",
-  "grid_size_r": 10,
+  "difficulty": "Kolay",
+  "grid_size_r": 9,
   "grid_size_c": 10,
   "grid": [
     [
-      1,
       0,
       0,
       0,
       0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      1,
       0,
       0,
       0,
       1,
       0,
-      1,
-      0,
-      0,
-      0
-    ],
-    [
-      1,
-      0,
-      0,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      0
-    ],
-    [
-      1,
-      0,
-      0,
-      0,
-      1,
-      0,
-      1,
-      0,
-      1,
-      0
-    ],
-    [
-      1,
-      1,
-      1,
-      1,
-      1,
-      0,
-      0,
-      0,
-      1,
       0
     ],
     [
       0,
       0,
       0,
-      1,
+      0,
+      0,
+      0,
       0,
       1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
       1,
       1,
       1,
@@ -79,48 +67,48 @@
     ],
     [
       0,
-      1,
-      0,
-      1,
-      0,
-      0,
       0,
       0,
       1,
-      0
-    ],
-    [
-      0,
       1,
-      0,
       1,
-      0,
-      0,
-      0,
+      1,
       0,
       0,
       0
     ],
     [
-      0,
       1,
       1,
       1,
+      1,
       0,
       0,
-      0,
+      1,
       0,
       0,
       0
     ],
     [
+      1,
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
       0,
       1,
       0,
       0,
-      0,
-      0,
-      0,
+      1,
       0,
       0,
       0
@@ -131,91 +119,82 @@
       "number": 1,
       "direction": "down",
       "row": 0,
-      "col": 0,
+      "col": 7,
       "length": 5,
-      "clue": "İçten bağlılık",
-      "answer": "HULUS"
+      "clue": "Bilme isteği",
+      "answer": "MERAK"
     },
     {
       "number": 2,
       "direction": "down",
-      "row": 1,
-      "col": 4,
-      "length": 4,
-      "clue": "Anlama yeteneği",
-      "answer": "ZEKA"
+      "row": 2,
+      "col": 9,
+      "length": 3,
+      "clue": "Kurak kumluk arazi",
+      "answer": "ÇÖL"
     },
     {
       "number": 3,
       "direction": "down",
-      "row": 1,
+      "row": 4,
       "col": 6,
-      "length": 3,
-      "clue": "Ced, büyükbaba",
-      "answer": "ATA"
+      "length": 5,
+      "clue": "Harita kitabı",
+      "answer": "ATLAS"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 4,
+      "col": 6,
+      "length": 4,
+      "clue": "Düşünme yetisi",
+      "answer": "AKIL"
     },
     {
       "number": 4,
       "direction": "across",
-      "row": 2,
+      "row": 5,
       "col": 3,
-      "length": 6,
-      "clue": "Tutkun, vurgun",
-      "answer": "MEFTUN"
+      "length": 4,
+      "clue": "Yakın arkadaş",
+      "answer": "DOST"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 5,
+      "col": 3,
+      "length": 4,
+      "clue": "Müzikle hareket",
+      "answer": "DANS"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "length": 4,
+      "clue": "Büyük sert taş",
+      "answer": "KAYA"
     },
     {
       "number": 5,
       "direction": "down",
-      "row": 2,
-      "col": 8,
-      "length": 5,
-      "clue": "Yakarma",
-      "answer": "NİYAZ"
+      "row": 6,
+      "col": 0,
+      "length": 3,
+      "clue": "Üst beden uzvu",
+      "answer": "KOL"
     },
     {
       "number": 6,
       "direction": "across",
-      "row": 4,
-      "col": 0,
-      "length": 5,
-      "clue": "Aşk, tutku",
-      "answer": "SEVDA"
-    },
-    {
-      "number": 7,
-      "direction": "down",
-      "row": 4,
-      "col": 3,
-      "length": 5,
-      "clue": "İç, iç yüz",
-      "answer": "DERUN"
-    },
-    {
-      "number": 8,
-      "direction": "across",
-      "row": 5,
+      "row": 7,
       "col": 5,
-      "length": 5,
-      "clue": "En sert taş",
-      "answer": "ELMAS"
-    },
-    {
-      "number": 9,
-      "direction": "down",
-      "row": 6,
-      "col": 1,
-      "length": 4,
-      "clue": "İddia, tez",
-      "answer": "DAVA"
-    },
-    {
-      "number": 10,
-      "direction": "across",
-      "row": 8,
-      "col": 1,
       "length": 3,
-      "clue": "Göllü doğu ili",
-      "answer": "VAN"
+      "clue": "İşve, cilve",
+      "answer": "NAZ"
     }
   ]
 }

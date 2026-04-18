@@ -1,19 +1,22 @@
 {
   "id": 29,
   "title": "Bölüm 29",
-  "difficulty": "Orta",
-  "grid_size_r": 9,
-  "grid_size_c": 9,
+  "difficulty": "Kolay",
+  "grid_size_r": 7,
+  "grid_size_c": 12,
   "grid": [
     [
       0,
       0,
       0,
+      0,
+      0,
       1,
       1,
       1,
-      1,
-      1,
+      0,
+      0,
+      0,
       0
     ],
     [
@@ -25,36 +28,6 @@
       1,
       0,
       0,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      1,
-      0,
-      1,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      1,
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      1,
-      0,
       0,
       0,
       0,
@@ -62,30 +35,25 @@
     ],
     [
       0,
-      1,
+      0,
       0,
       1,
       0,
+      1,
+      0,
+      1,
       0,
       0,
       0,
       0
     ],
     [
-      1,
-      1,
-      1,
-      1,
-      1,
       0,
       0,
       1,
-      0
-    ],
-    [
-      0,
       1,
-      0,
+      1,
+      1,
       0,
       1,
       1,
@@ -94,14 +62,45 @@
       1
     ],
     [
+      0,
+      0,
+      0,
+      1,
+      0,
       1,
       1,
       1,
       0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
       1,
       0,
       0,
+      0,
       1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
       0
     ]
   ],
@@ -110,25 +109,34 @@
       "number": 1,
       "direction": "across",
       "row": 0,
-      "col": 3,
+      "col": 5,
+      "length": 3,
+      "clue": "Harici, dış yüzey",
+      "answer": "DIŞ"
+    },
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 5,
       "length": 5,
-      "clue": "En küçük işaret",
-      "answer": "NOKTA"
+      "clue": "Eşya mobilyası",
+      "answer": "DOLAP"
     },
     {
       "number": 2,
       "direction": "down",
-      "row": 0,
-      "col": 5,
+      "row": 2,
+      "col": 3,
       "length": 4,
-      "clue": "Yüksek yapı",
-      "answer": "KULE"
+      "clue": "Müzik işareti",
+      "answer": "NOTA"
     },
     {
       "number": 3,
       "direction": "down",
       "row": 2,
-      "col": 3,
+      "col": 7,
       "length": 5,
       "clue": "Kutlama tatlısı",
       "answer": "PASTA"
@@ -139,62 +147,44 @@
       "row": 3,
       "col": 2,
       "length": 4,
-      "clue": "Çözüm yolu",
-      "answer": "ÇARE"
+      "clue": "Su kabı",
+      "answer": "KOVA"
     },
     {
       "number": 5,
-      "direction": "down",
+      "direction": "across",
+      "row": 3,
+      "col": 7,
+      "length": 5,
+      "clue": "Dört tekerlekli taşıt",
+      "answer": "ARABA"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 4,
+      "col": 5,
+      "length": 3,
+      "clue": "Demir korozyonu",
+      "answer": "PAS"
+    },
+    {
+      "number": 7,
+      "direction": "across",
       "row": 5,
-      "col": 1,
+      "col": 0,
       "length": 4,
       "clue": "Solunan gaz",
       "answer": "HAVA"
     },
     {
-      "number": 6,
-      "direction": "across",
-      "row": 6,
-      "col": 0,
-      "length": 5,
-      "clue": "Günün başı",
-      "answer": "SABAH"
-    },
-    {
-      "number": 7,
-      "direction": "down",
-      "row": 6,
-      "col": 4,
-      "length": 3,
-      "clue": "Güzel, tatlı",
-      "answer": "HOŞ"
-    },
-    {
       "number": 8,
-      "direction": "down",
+      "direction": "across",
       "row": 6,
-      "col": 7,
-      "length": 3,
-      "clue": "Damar sıvısı",
-      "answer": "KAN"
-    },
-    {
-      "number": 9,
-      "direction": "across",
-      "row": 7,
-      "col": 4,
-      "length": 5,
-      "clue": "Vücut bölümü",
-      "answer": "ORGAN"
-    },
-    {
-      "number": 10,
-      "direction": "across",
-      "row": 8,
-      "col": 0,
-      "length": 3,
-      "clue": "Göz üstü kıl şeridi",
-      "answer": "KAŞ"
+      "col": 6,
+      "length": 4,
+      "clue": "Rakam ifadesi",
+      "answer": "SAYI"
     }
   ]
 }

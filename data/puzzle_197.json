@@ -1,0 +1,173 @@
+{
+  "id": 197,
+  "title": "Bölüm 197",
+  "difficulty": "Orta",
+  "grid_size_r": 6,
+  "grid_size_c": 10,
+  "grid": [
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "length": 6,
+      "clue": "İçecek kabı",
+      "answer": "BARDAK"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 0,
+      "col": 6,
+      "length": 4,
+      "clue": "Böcekten kumaş",
+      "answer": "İPEK"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 0,
+      "col": 9,
+      "length": 4,
+      "clue": "Toprak eşme",
+      "answer": "KAZI"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "length": 3,
+      "clue": "Kaygan besin",
+      "answer": "YAĞ"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 1,
+      "col": 5,
+      "length": 5,
+      "clue": "Vaktinden önce",
+      "answer": "ERKEN"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 2,
+      "col": 7,
+      "length": 3,
+      "clue": "Uçurum, yarık",
+      "answer": "YAR"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 2,
+      "col": 7,
+      "length": 3,
+      "clue": "Çehre; sayı 100",
+      "answer": "YÜZ"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 3,
+      "col": 3,
+      "length": 3,
+      "clue": "En soğuk mevsim",
+      "answer": "KIŞ"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 3,
+      "col": 3,
+      "length": 5,
+      "clue": "İple oynatılan",
+      "answer": "KUKLA"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "length": 4,
+      "clue": "Bodur ağaç",
+      "answer": "ÇALI"
+    }
+  ]
+}

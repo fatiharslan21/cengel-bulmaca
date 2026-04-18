@@ -152,7 +152,9 @@
     // 1. URL'den hangi bölümde olduğumuzu anla (Örn: play.html?id=5)
     const urlParams = new URLSearchParams(window.location.search);
     const levelId = parseInt(urlParams.get('id')) || 1;
-    const totalLevels = 100; // Toplam bulmaca sayın
+    const totalLevels = 500; // Toplam bulmaca sayın
+    const dailyKey = urlParams.get('daily') || null;
+    window.CB_DAILY_KEY = dailyKey; // play.js bunu kontrol eder
 
     // Dosya adını bul (Örn: 5 ise "puzzle_005.json" olur)
     // Eğer senin json isimlerin puzzle_1.json gibiyse burayı şu şekilde değiştir: `puzzle_${levelId}.json`
@@ -169,8 +171,13 @@
             window.PID = levelId;
             
             // 4. HTML'deki dinamik yazıları güncelle
-            document.title = `Bölüm ${levelId} — Çengel Bulmaca`;
-            document.querySelectorAll('.ui-puzzle-id').forEach(el => el.textContent = levelId);
+            const titlePrefix = dailyKey ? '✨ Günün' : 'Bölüm';
+            document.title = `${titlePrefix} ${levelId} — Çengel Bulmaca`;
+            document.querySelectorAll('.ui-puzzle-id').forEach(el => el.textContent = dailyKey ? '✨' : levelId);
+            if(dailyKey) {
+                const h1 = document.querySelector('.play-title h1');
+                if(h1) h1.innerHTML = 'Günün Bulmacası';
+            }
             document.getElementById('ptxt').textContent = `0 / ${data.words.length}`;
             
             const diffEl = document.getElementById('ui-puzzle-diff');
@@ -180,16 +187,16 @@
                 diffEl.className = `play-diff diff-${data.difficulty.toLowerCase().replace(' ', '-')}`;
             }
 
-            // 5. İleri/Geri butonlarının linklerini ayarla
+            // 5. İleri/Geri butonlarının linklerini ayarla (günlük modda gizle)
             const prevBtn = document.getElementById('btn-prev');
             const nextBtn = document.getElementById('btn-next');
             const modalNextBtn = document.getElementById('modal-btn-next');
-            
-            if (levelId > 1) {
+
+            if (!dailyKey && levelId > 1) {
                 prevBtn.href = `play.html?id=${levelId - 1}`;
                 prevBtn.style.display = 'inline-flex';
             }
-            if (levelId < totalLevels) {
+            if (!dailyKey && levelId < totalLevels) {
                 nextBtn.href = `play.html?id=${levelId + 1}`;
                 nextBtn.style.display = 'inline-flex';
                 modalNextBtn.href = `play.html?id=${levelId + 1}`;

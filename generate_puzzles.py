@@ -408,12 +408,12 @@ def generate_all():
     # Zorluk = kelime dağarcığı. Grid boyutu hepsi için mobil dostu.
     # (diff, count, max_sz, (min_len,max_len), target_words, pool_builder)
     cfgs = [
-        ("Kolay",   25, 12, (3,5),  9,  lambda: basic),
-        ("Orta",    25, 12, (3,6),  10, lambda: basic),
+        ("Kolay",   125, 12, (3,5),  9,  lambda: basic),
+        ("Orta",    125, 12, (3,6),  10, lambda: basic),
         # Zor: günlük kelimelerin yanına eski Türkçe karıştır
-        ("Zor",     25, 12, (3,6),  10, lambda: basic + archaic + archaic),
+        ("Zor",     125, 12, (3,6),  10, lambda: basic + archaic + archaic),
         # Çok Zor: ağırlıklı eski/edebî kelimeler
-        ("Çok Zor", 25, 12, (3,7),  10, lambda: basic + archaic*2 + literary*3),
+        ("Çok Zor", 125, 12, (3,7),  10, lambda: basic + archaic*2 + literary*3),
     ]
 
     pid=0; tw=0

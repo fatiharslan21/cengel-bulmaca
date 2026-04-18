@@ -1,0 +1,185 @@
+{
+  "id": 355,
+  "title": "Bölüm 355",
+  "difficulty": "Zor",
+  "grid_size_r": 6,
+  "grid_size_c": 12,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "length": 4,
+      "clue": "Ses, seda",
+      "answer": "SADA"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 7,
+      "length": 5,
+      "clue": "Katlanma, dayanma",
+      "answer": "SABIR"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 0,
+      "col": 10,
+      "length": 4,
+      "clue": "Ayrılırken selam",
+      "answer": "VEDA"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 1,
+      "col": 4,
+      "length": 4,
+      "clue": "Baş, kelle",
+      "answer": "KAFA"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 1,
+      "col": 9,
+      "length": 3,
+      "clue": "Giyside küçük kese",
+      "answer": "CEP"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 3,
+      "col": 1,
+      "length": 5,
+      "clue": "Kutlama tatlısı",
+      "answer": "PASTA"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 3,
+      "col": 2,
+      "length": 3,
+      "clue": "Sunma, takdim",
+      "answer": "ARZ"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 3,
+      "col": 7,
+      "length": 5,
+      "clue": "Suyla ıslanmış",
+      "answer": "ISLAK"
+    },
+    {
+      "number": 9,
+      "direction": "down",
+      "row": 3,
+      "col": 11,
+      "length": 3,
+      "clue": "Damar sıvısı",
+      "answer": "KAN"
+    },
+    {
+      "number": 10,
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "length": 6,
+      "clue": "Değerli şeyler",
+      "answer": "HAZİNE"
+    }
+  ]
+}

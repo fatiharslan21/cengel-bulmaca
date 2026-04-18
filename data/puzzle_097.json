@@ -1,50 +1,26 @@
 {
   "id": 97,
   "title": "Bölüm 97",
-  "difficulty": "Çok Zor",
-  "grid_size_r": 11,
-  "grid_size_c": 12,
+  "difficulty": "Kolay",
+  "grid_size_r": 9,
+  "grid_size_c": 7,
   "grid": [
     [
       0,
       0,
       0,
+      1,
       0,
       0,
-      0,
-      0,
-      1,
-      1,
-      1,
-      1,
       1
     ],
     [
       0,
       0,
-      0,
-      0,
-      0,
-      1,
-      0,
-      1,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      0,
-      0,
-      1,
-      0,
       1,
       1,
       1,
-      1,
+      0,
       1
     ],
     [
@@ -52,9 +28,31 @@
       0,
       0,
       1,
+      0,
+      0,
+      1
+    ],
+    [
+      1,
+      0,
+      0,
       1,
       1,
       1,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
       1,
       0,
       0,
@@ -63,14 +61,9 @@
     ],
     [
       0,
-      0,
-      0,
-      0,
       1,
-      0,
-      0,
-      0,
-      0,
+      1,
+      1,
       0,
       0,
       0
@@ -78,12 +71,7 @@
     [
       0,
       0,
-      0,
-      0,
       1,
-      0,
-      0,
-      0,
       0,
       0,
       0,
@@ -91,70 +79,9 @@
     ],
     [
       0,
-      0,
-      0,
       1,
       1,
       1,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      1,
-      0,
-      0,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      1,
-      0,
-      0,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      1,
-      1,
-      1,
-      1,
-      1,
-      0,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0,
       0,
       0,
       0
@@ -165,91 +92,82 @@
       "number": 1,
       "direction": "down",
       "row": 0,
-      "col": 7,
-      "length": 4,
-      "clue": "Gökyüzü",
-      "answer": "SEMA"
-    },
-    {
-      "number": 1,
-      "direction": "across",
-      "row": 0,
-      "col": 7,
+      "col": 3,
       "length": 5,
-      "clue": "Büyük oda",
-      "answer": "SALON"
+      "clue": "Bitkinin renkli kısmı",
+      "answer": "ÇİÇEK"
     },
     {
       "number": 2,
       "direction": "down",
-      "row": 1,
-      "col": 5,
-      "length": 3,
-      "clue": "Ün, şöhret",
-      "answer": "ŞAN"
+      "row": 0,
+      "col": 6,
+      "length": 4,
+      "clue": "Sanat yapıtı",
+      "answer": "ESER"
     },
     {
       "number": 3,
       "direction": "across",
-      "row": 2,
-      "col": 7,
-      "length": 5,
-      "clue": "Uysal, yumuşak",
-      "answer": "MUNİS"
+      "row": 1,
+      "col": 2,
+      "length": 3,
+      "clue": "Asla, kesinlikle hayır",
+      "answer": "HİÇ"
     },
     {
       "number": 4,
-      "direction": "across",
+      "direction": "down",
       "row": 3,
-      "col": 3,
-      "length": 5,
-      "clue": "Issız, boş",
-      "answer": "TENHA"
+      "col": 0,
+      "length": 3,
+      "clue": "Devir, dönem",
+      "answer": "ÇAĞ"
     },
     {
       "number": 5,
-      "direction": "down",
+      "direction": "across",
       "row": 3,
-      "col": 4,
+      "col": 3,
       "length": 4,
-      "clue": "Kullanılan nesneler",
-      "answer": "EŞYA"
+      "clue": "Buyruk, komut",
+      "answer": "EMİR"
     },
     {
       "number": 6,
       "direction": "across",
-      "row": 6,
-      "col": 3,
+      "row": 4,
+      "col": 0,
       "length": 4,
-      "clue": "Görkemli yapı",
-      "answer": "ŞATO"
-    },
-    {
-      "number": 6,
-      "direction": "down",
-      "row": 6,
-      "col": 3,
-      "length": 5,
-      "clue": "Gün ağarması",
-      "answer": "ŞAFAK"
+      "clue": "Bacak ucu",
+      "answer": "AYAK"
     },
     {
       "number": 7,
       "direction": "down",
-      "row": 6,
-      "col": 6,
-      "length": 4,
-      "clue": "Silahlı kuvvetler",
-      "answer": "ORDU"
+      "row": 4,
+      "col": 2,
+      "length": 5,
+      "clue": "Dört tekerlekli taşıt",
+      "answer": "ARABA"
     },
     {
       "number": 8,
       "direction": "across",
-      "row": 9,
-      "col": 0,
-      "length": 5,
-      "clue": "Vücut bölümü",
-      "answer": "ORGAN"
+      "row": 6,
+      "col": 1,
+      "length": 3,
+      "clue": "Ömür süresi",
+      "answer": "YAŞ"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 8,
+      "col": 1,
+      "length": 3,
+      "clue": "Adalet, doğruluk",
+      "answer": "HAK"
     }
   ]
 }
