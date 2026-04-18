@@ -19,11 +19,13 @@
      }
    }
    ───────────────────────────────────────────── */
-window.CB_FIREBASE_CONFIG = {
-    apiKey: "AIzaSyDoUk9ENTW5UALblV3kAIdmdEp9GPhNQI8",          // Adım 2'den
-    authDomain: "cengel-bulmaca.firebaseapp.com",
-    projectId: "cengel-bulmaca",
-    storageBucket: "cengel-bulmaca.appspot.com",
-    messagingSenderId: "123456789",
-    appId: "1:123:web:abc123"
+const firebaseConfig = {
+  apiKey: "AIzaSyDoUk9ENTW5UALblV3kAIdmdEp9GPhNQI8",
+  authDomain: "cengel-bulmaca-84b15.firebaseapp.com",
+  projectId: "cengel-bulmaca-84b15",
+  storageBucket: "cengel-bulmaca-84b15.firebasestorage.app",
+  messagingSenderId: "443687712832",
+  appId: "1:443687712832:web:1d4ad64239114490be07a5",
+  measurementId: "G-BFVYS5W60X"
 };
+
