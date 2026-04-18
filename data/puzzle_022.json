@@ -2,67 +2,20 @@
   "id": 22,
   "title": "Bölüm 22",
   "difficulty": "Kolay",
-  "grid_size_r": 10,
-  "grid_size_c": 8,
+  "grid_size_r": 7,
+  "grid_size_c": 11,
   "grid": [
     [
       0,
       0,
-      0,
-      0,
-      0,
-      0,
-      1,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      1,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      0,
-      1,
-      1,
-      1,
-      0
-    ],
-    [
-      0,
-      0,
       1,
       0,
       1,
       0,
-      1,
-      0
-    ],
-    [
-      1,
-      1,
-      1,
-      1,
-      1,
       0,
       0,
-      0
-    ],
-    [
       0,
       0,
-      1,
-      0,
-      1,
-      0,
-      1,
       0
     ],
     [
@@ -70,7 +23,10 @@
       1,
       1,
       1,
+      1,
       0,
+      1,
+      1,
       1,
       1,
       1
@@ -78,31 +34,66 @@
     [
       0,
       0,
+      1,
+      0,
+      1,
       0,
       1,
       0,
       0,
-      1,
+      0,
       0
     ],
     [
       0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
       0,
       0,
       1,
-      1,
-      1,
-      1,
+      0,
+      0,
+      0,
       0
     ],
     [
       0,
-      0,
-      0,
-      0,
-      0,
+      1,
       0,
       1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
       0
     ]
   ],
@@ -111,91 +102,82 @@
       "number": 1,
       "direction": "down",
       "row": 0,
-      "col": 6,
-      "length": 4,
-      "clue": "Eşya kabı",
-      "answer": "KUTU"
+      "col": 2,
+      "length": 3,
+      "clue": "Bitiş, final",
+      "answer": "SON"
     },
     {
       "number": 2,
       "direction": "down",
-      "row": 2,
+      "row": 0,
       "col": 4,
       "length": 4,
-      "clue": "Deniz taşıtı",
-      "answer": "GEMİ"
-    },
-    {
-      "number": 2,
-      "direction": "across",
-      "row": 2,
-      "col": 4,
-      "length": 3,
-      "clue": "Uzaklaşma eylemi",
-      "answer": "GİT"
+      "clue": "Solunan gaz",
+      "answer": "HAVA"
     },
     {
       "number": 3,
-      "direction": "down",
-      "row": 3,
-      "col": 2,
+      "direction": "across",
+      "row": 1,
+      "col": 1,
       "length": 4,
-      "clue": "Kırmızı meyve",
-      "answer": "ELMA"
+      "clue": "Bağlama aracı",
+      "answer": "TOKA"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 1,
+      "col": 6,
+      "length": 4,
+      "clue": "Çukur yemek kabı",
+      "answer": "KASE"
     },
     {
       "number": 4,
       "direction": "across",
-      "row": 4,
-      "col": 0,
+      "row": 1,
+      "col": 6,
       "length": 5,
-      "clue": "Yazı aleti",
-      "answer": "KALEM"
+      "clue": "Yüzeyin sınırı",
+      "answer": "KENAR"
     },
     {
       "number": 5,
       "direction": "down",
-      "row": 5,
-      "col": 6,
-      "length": 5,
-      "clue": "Yurt, memleket",
-      "answer": "VATAN"
+      "row": 3,
+      "col": 1,
+      "length": 4,
+      "clue": "Kızarmış sandviç",
+      "answer": "TOST"
     },
     {
       "number": 6,
       "direction": "across",
-      "row": 6,
-      "col": 1,
+      "row": 3,
+      "col": 3,
+      "length": 4,
+      "clue": "Müzikle hareket",
+      "answer": "DANS"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 3,
+      "col": 3,
       "length": 3,
-      "clue": "Oyun küpü",
-      "answer": "ZAR"
+      "clue": "Su ile yıkanma",
+      "answer": "DUŞ"
     },
     {
       "number": 7,
-      "direction": "down",
-      "row": 6,
-      "col": 3,
-      "length": 3,
-      "clue": "Can, maneviyat",
-      "answer": "RUH"
-    },
-    {
-      "number": 8,
       "direction": "across",
-      "row": 6,
-      "col": 5,
-      "length": 3,
-      "clue": "Ömür süresi",
-      "answer": "YAŞ"
-    },
-    {
-      "number": 9,
-      "direction": "across",
-      "row": 8,
-      "col": 3,
+      "row": 4,
+      "col": 0,
       "length": 4,
-      "clue": "Solunan gaz",
-      "answer": "HAVA"
+      "clue": "Burnun algısı",
+      "answer": "KOKU"
     }
   ]
 }

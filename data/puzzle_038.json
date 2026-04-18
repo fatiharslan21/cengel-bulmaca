@@ -2,13 +2,13 @@
   "id": 38,
   "title": "Bölüm 38",
   "difficulty": "Orta",
-  "grid_size_r": 11,
+  "grid_size_r": 10,
   "grid_size_c": 11,
   "grid": [
     [
-      0,
-      0,
       1,
+      0,
+      0,
       0,
       0,
       0,
@@ -19,13 +19,91 @@
       0
     ],
     [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
       0,
       1,
       1,
       1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
       0,
       0,
       1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
       0,
       1,
       0,
@@ -34,117 +112,26 @@
     [
       0,
       0,
-      1,
       0,
       0,
       0,
-      1,
-      1,
-      1,
-      1,
-      1
-    ],
-    [
       0,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
+      0,
       0,
       1,
       0,
       1
     ],
     [
-      1,
       0,
       0,
-      0,
-      1,
-      0,
-      0,
-      0,
-      1,
-      0,
-      0
-    ],
-    [
-      1,
-      1,
-      1,
-      1,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      1,
-      0,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      1,
-      0,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      1,
-      1,
-      1,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      1,
-      1,
-      1,
       0,
       0,
       0,
       0,
       0,
       0,
+      1,
       0,
       0
     ]
@@ -154,118 +141,91 @@
       "number": 1,
       "direction": "down",
       "row": 0,
+      "col": 0,
+      "length": 5,
+      "clue": "Nefesli çalgı",
+      "answer": "ZURNA"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 2,
+      "col": 3,
+      "length": 5,
+      "clue": "Ölçü, ebat",
+      "answer": "BOYUT"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 2,
+      "col": 3,
+      "length": 6,
+      "clue": "Ülke simgesi",
+      "answer": "BAYRAK"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 2,
+      "col": 7,
+      "length": 5,
+      "clue": "Ekin alanı",
+      "answer": "TARLA"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "length": 4,
+      "clue": "Müzik işareti",
+      "answer": "NOTA"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 4,
+      "col": 6,
+      "length": 4,
+      "clue": "Üstünü kapatan",
+      "answer": "ÖRTÜ"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 6,
       "col": 2,
+      "length": 4,
+      "clue": "Yapışkan şerit",
+      "answer": "BANT"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 6,
+      "col": 7,
+      "length": 4,
+      "clue": "Yürüyüş mesafesi",
+      "answer": "ADIM"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 6,
+      "col": 8,
       "length": 4,
       "clue": "Boş olmayan",
       "answer": "DOLU"
     },
     {
-      "number": 2,
-      "direction": "across",
-      "row": 1,
-      "col": 1,
-      "length": 3,
-      "clue": "Güç, kolay değil",
-      "answer": "ZOR"
-    },
-    {
-      "number": 3,
-      "direction": "down",
-      "row": 1,
-      "col": 6,
-      "length": 3,
-      "clue": "Durum, vaziyet",
-      "answer": "HAL"
-    },
-    {
-      "number": 4,
-      "direction": "down",
-      "row": 1,
-      "col": 8,
-      "length": 4,
-      "clue": "Ayrım, değişiklik",
-      "answer": "FARK"
-    },
-    {
-      "number": 5,
-      "direction": "down",
-      "row": 1,
-      "col": 10,
-      "length": 3,
-      "clue": "Ses çıkaran metal",
-      "answer": "ÇAN"
-    },
-    {
-      "number": 6,
-      "direction": "across",
-      "row": 2,
-      "col": 6,
-      "length": 5,
-      "clue": "Dört tekerlekli taşıt",
-      "answer": "ARABA"
-    },
-    {
-      "number": 7,
-      "direction": "across",
-      "row": 3,
-      "col": 1,
-      "length": 6,
-      "clue": "Popüler top oyunu",
-      "answer": "FUTBOL"
-    },
-    {
-      "number": 8,
-      "direction": "down",
-      "row": 3,
-      "col": 4,
-      "length": 3,
-      "clue": "Arı ürünü tatlı",
-      "answer": "BAL"
-    },
-    {
       "number": 9,
       "direction": "down",
-      "row": 4,
-      "col": 0,
-      "length": 4,
-      "clue": "Yaşam süresi",
-      "answer": "ÖMÜR"
-    },
-    {
-      "number": 10,
-      "direction": "across",
-      "row": 5,
-      "col": 0,
-      "length": 5,
-      "clue": "Hayal ürünü hikaye",
-      "answer": "MASAL"
-    },
-    {
-      "number": 11,
-      "direction": "down",
-      "row": 5,
-      "col": 2,
-      "length": 6,
-      "clue": "Kürekli tekne",
-      "answer": "SANDAL"
-    },
-    {
-      "number": 12,
-      "direction": "across",
-      "row": 9,
-      "col": 2,
-      "length": 4,
-      "clue": "Elektrik hareketi",
-      "answer": "AKIM"
-    },
-    {
-      "number": 13,
-      "direction": "across",
-      "row": 10,
-      "col": 0,
+      "row": 6,
+      "col": 10,
       "length": 3,
-      "clue": "Vücudun orta bölümü",
-      "answer": "BEL"
+      "clue": "Eflatun renk",
+      "answer": "MOR"
     }
   ]
 }

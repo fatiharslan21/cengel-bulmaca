@@ -2,14 +2,14 @@
   "id": 1,
   "title": "Bölüm 1",
   "difficulty": "Kolay",
-  "grid_size_r": 8,
+  "grid_size_r": 11,
   "grid_size_c": 9,
   "grid": [
     [
-      0,
       1,
-      0,
-      0,
+      1,
+      1,
+      1,
       0,
       0,
       0,
@@ -17,78 +17,111 @@
       0
     ],
     [
-      1,
-      1,
-      1,
       0,
       0,
       0,
+      1,
+      1,
+      1,
       1,
       0,
       0
     ],
     [
       0,
-      1,
+      0,
       0,
       1,
       0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
       1,
       1,
       1,
       1
     ],
     [
-      1,
-      1,
-      1,
-      1,
       0,
       0,
       1,
+      0,
+      0,
+      0,
+      0,
       0,
       0
     ],
     [
       0,
+      1,
+      1,
+      1,
+      1,
+      1,
       0,
       0,
-      1,
-      0,
-      1,
-      1,
-      1,
       0
     ],
     [
       0,
-      0,
-      0,
       1,
       0,
-      1,
       0,
-      1,
+      0,
+      0,
+      0,
+      0,
       0
     ],
     [
       0,
-      0,
-      0,
-      1,
-      1,
       1,
       0,
-      1,
+      0,
+      0,
+      0,
+      0,
+      0,
       0
     ],
     [
       0,
-      0,
-      0,
-      0,
-      0,
       1,
+      0,
+      0,
+      0,
+      0,
       0,
       0,
       0
@@ -97,93 +130,84 @@
   "words": [
     {
       "number": 1,
-      "direction": "down",
+      "direction": "across",
       "row": 0,
-      "col": 1,
+      "col": 0,
       "length": 4,
-      "clue": "Kötü, berbat",
-      "answer": "FENA"
+      "clue": "Kızarmış sandviç",
+      "answer": "TOST"
     },
     {
       "number": 2,
-      "direction": "across",
-      "row": 1,
-      "col": 0,
-      "length": 3,
-      "clue": "Vücudun orta bölümü",
-      "answer": "BEL"
-    },
-    {
-      "number": 3,
       "direction": "down",
-      "row": 1,
-      "col": 6,
+      "row": 0,
+      "col": 3,
       "length": 4,
       "clue": "Bağlama aracı",
       "answer": "TOKA"
     },
     {
+      "number": 3,
+      "direction": "across",
+      "row": 1,
+      "col": 3,
+      "length": 4,
+      "clue": "Eğlence faaliyeti",
+      "answer": "OYUN"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 3,
+      "col": 2,
+      "length": 3,
+      "clue": "Daire çapı",
+      "answer": "ÇAP"
+    },
+    {
       "number": 4,
       "direction": "down",
-      "row": 2,
-      "col": 3,
+      "row": 3,
+      "col": 2,
       "length": 5,
-      "clue": "Tuzlu büyük su",
-      "answer": "DENİZ"
+      "clue": "Etraf, çepeçevre",
+      "answer": "ÇEVRE"
     },
     {
       "number": 5,
-      "direction": "across",
-      "row": 2,
-      "col": 5,
-      "length": 4,
-      "clue": "Sıvı geçen tüp",
-      "answer": "BORU"
-    },
-    {
-      "number": 6,
-      "direction": "across",
+      "direction": "down",
       "row": 3,
-      "col": 0,
-      "length": 4,
-      "clue": "Çukur yemek kabı",
-      "answer": "KASE"
-    },
-    {
-      "number": 7,
-      "direction": "across",
-      "row": 4,
-      "col": 5,
-      "length": 3,
-      "clue": "Bitki gövdesi",
-      "answer": "SAP"
-    },
-    {
-      "number": 7,
-      "direction": "down",
-      "row": 4,
-      "col": 5,
-      "length": 4,
-      "clue": "Altın rengi",
-      "answer": "SARI"
-    },
-    {
-      "number": 8,
-      "direction": "down",
-      "row": 4,
-      "col": 7,
+      "col": 4,
       "length": 3,
       "clue": "Demir korozyonu",
       "answer": "PAS"
     },
     {
-      "number": 9,
+      "number": 6,
       "direction": "across",
-      "row": 6,
-      "col": 3,
-      "length": 3,
-      "clue": "Güç, kolay değil",
-      "answer": "ZOR"
+      "row": 5,
+      "col": 4,
+      "length": 5,
+      "clue": "Büyük oda",
+      "answer": "SALON"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 7,
+      "col": 1,
+      "length": 5,
+      "clue": "Tuzlu büyük su",
+      "answer": "DENİZ"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 7,
+      "col": 1,
+      "length": 4,
+      "clue": "Müzikle hareket",
+      "answer": "DANS"
     }
   ]
 }

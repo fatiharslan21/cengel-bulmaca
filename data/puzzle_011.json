@@ -2,21 +2,16 @@
   "id": 11,
   "title": "Bölüm 11",
   "difficulty": "Kolay",
-  "grid_size_r": 12,
-  "grid_size_c": 6,
+  "grid_size_r": 8,
+  "grid_size_c": 9,
   "grid": [
     [
       0,
-      1,
-      1,
-      1,
-      1,
-      1
-    ],
-    [
       0,
       0,
       1,
+      0,
+      0,
       0,
       0,
       0
@@ -25,38 +20,31 @@
       0,
       0,
       1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
       0,
       0,
       0
     ],
     [
       1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ],
-    [
-      1,
       0,
       0,
       1,
-      0,
-      0
-    ],
-    [
       1,
       1,
-      1,
-      1,
-      1,
-      0
-    ],
-    [
-      0,
-      1,
-      0,
       1,
       0,
       0
@@ -65,11 +53,17 @@
       1,
       1,
       1,
+      1,
+      0,
+      1,
       0,
       0,
       0
     ],
     [
+      1,
+      0,
+      1,
       0,
       0,
       1,
@@ -78,25 +72,23 @@
       1
     ],
     [
-      0,
+      1,
       0,
       1,
+      0,
+      0,
+      0,
       0,
       0,
       0
     ],
     [
       0,
-      0,
+      1,
+      1,
+      1,
       1,
       0,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      1,
       0,
       0,
       0
@@ -105,93 +97,84 @@
   "words": [
     {
       "number": 1,
-      "direction": "across",
+      "direction": "down",
       "row": 0,
-      "col": 1,
+      "col": 3,
       "length": 5,
-      "clue": "Yeni bilgi",
-      "answer": "HABER"
+      "clue": "Gökyüzü su kümeleri",
+      "answer": "BULUT"
     },
     {
       "number": 2,
-      "direction": "down",
-      "row": 0,
-      "col": 2,
-      "length": 4,
-      "clue": "Gövdeli bitki",
-      "answer": "AĞAÇ"
-    },
-    {
-      "number": 3,
       "direction": "across",
-      "row": 3,
-      "col": 0,
+      "row": 1,
+      "col": 2,
       "length": 3,
-      "clue": "Kuvvet, enerji",
-      "answer": "GÜÇ"
+      "clue": "Kanatlı uçan hayvan",
+      "answer": "KUŞ"
     },
     {
       "number": 3,
       "direction": "down",
       "row": 3,
       "col": 0,
-      "length": 3,
-      "clue": "Uzaklaşma eylemi",
-      "answer": "GİT"
+      "length": 4,
+      "clue": "Yürüyüş mesafesi",
+      "answer": "ADIM"
     },
     {
       "number": 4,
-      "direction": "down",
-      "row": 4,
+      "direction": "across",
+      "row": 3,
       "col": 3,
-      "length": 3,
-      "clue": "Benekli, alacalı",
-      "answer": "ALA"
+      "length": 4,
+      "clue": "Yakın olmayan",
+      "answer": "UZAK"
     },
     {
       "number": 5,
-      "direction": "across",
-      "row": 5,
-      "col": 0,
-      "length": 5,
-      "clue": "Zar masa oyunu",
-      "answer": "TAVLA"
-    },
-    {
-      "number": 6,
       "direction": "down",
-      "row": 5,
-      "col": 1,
+      "row": 3,
+      "col": 5,
       "length": 3,
       "clue": "Elin iç kısmı",
       "answer": "AYA"
     },
     {
-      "number": 7,
+      "number": 6,
       "direction": "across",
-      "row": 7,
+      "row": 4,
       "col": 0,
-      "length": 3,
-      "clue": "Demir korozyonu",
-      "answer": "PAS"
+      "length": 4,
+      "clue": "Yakın arkadaş",
+      "answer": "DOST"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 4,
+      "col": 2,
+      "length": 4,
+      "clue": "Zaman aralığı",
+      "answer": "SÜRE"
     },
     {
       "number": 8,
-      "direction": "down",
-      "row": 7,
-      "col": 2,
-      "length": 5,
-      "clue": "Büyük oda",
-      "answer": "SALON"
+      "direction": "across",
+      "row": 5,
+      "col": 5,
+      "length": 4,
+      "clue": "Av yapan kişi",
+      "answer": "AVCI"
     },
     {
       "number": 9,
       "direction": "across",
-      "row": 8,
-      "col": 2,
+      "row": 7,
+      "col": 1,
       "length": 4,
-      "clue": "Av yapan kişi",
-      "answer": "AVCI"
+      "clue": "Ses birimi",
+      "answer": "HECE"
     }
   ]
 }

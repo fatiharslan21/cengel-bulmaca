@@ -3,60 +3,37 @@
   "title": "Bölüm 32",
   "difficulty": "Orta",
   "grid_size_r": 11,
-  "grid_size_c": 12,
+  "grid_size_c": 9,
   "grid": [
     [
       0,
       0,
       0,
       0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
       1,
+      1,
+      1,
+      0,
       0
     ],
     [
       0,
       0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
+      1,
       0,
       1,
+      0,
+      0,
+      0,
       0
     ],
     [
       0,
       0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      1,
-      1,
-      1,
-      1,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
       1,
       0,
       1,
+      0,
       0,
       0,
       0
@@ -65,11 +42,30 @@
       1,
       1,
       1,
+      1,
+      1,
       0,
+      0,
+      0,
+      1
+    ],
+    [
       0,
       0,
       1,
       0,
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
       1,
       1,
       1,
@@ -78,29 +74,12 @@
     [
       0,
       0,
-      1,
       0,
-      0,
-      0,
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      1,
-      1,
-      1,
-      1,
-      1,
       0,
       0,
       0,
       1,
+      0,
       0
     ],
     [
@@ -109,27 +88,32 @@
       0,
       0,
       1,
-      0,
       1,
-      0,
-      0,
-      0,
       1,
-      0
+      1,
+      1
     ],
     [
       0,
       0,
       0,
       0,
-      1,
       0,
       1,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
       1,
-      1,
-      1,
-      1,
-      0
+      0,
+      0,
+      1
     ],
     [
       0,
@@ -140,24 +124,7 @@
       0,
       0,
       0,
-      0,
-      0,
-      1,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      1,
-      1,
-      1,
-      0
+      1
     ]
   ],
   "words": [
@@ -165,118 +132,91 @@
       "number": 1,
       "direction": "down",
       "row": 0,
-      "col": 10,
+      "col": 4,
+      "length": 6,
+      "clue": "Ülke yönetimi",
+      "answer": "DEVLET"
+    },
+    {
+      "number": 1,
+      "direction": "across",
+      "row": 0,
+      "col": 4,
       "length": 3,
-      "clue": "İşitilen titreşim",
-      "answer": "SES"
+      "clue": "Rüya, hayal",
+      "answer": "DÜŞ"
     },
     {
       "number": 2,
-      "direction": "across",
-      "row": 2,
-      "col": 7,
+      "direction": "down",
+      "row": 1,
+      "col": 2,
       "length": 4,
-      "clue": "Müzikle hareket",
-      "answer": "DANS"
+      "clue": "Renk veren madde",
+      "answer": "BOYA"
     },
     {
       "number": 3,
-      "direction": "down",
-      "row": 2,
-      "col": 8,
-      "length": 4,
-      "clue": "Yanan ısı ve ışık",
-      "answer": "ATEŞ"
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "length": 5,
+      "clue": "Gerçek olmayan düş",
+      "answer": "HAYAL"
     },
     {
       "number": 4,
       "direction": "down",
       "row": 3,
-      "col": 6,
-      "length": 6,
-      "clue": "Anlatılan olay",
-      "answer": "HİKAYE"
+      "col": 8,
+      "length": 3,
+      "clue": "Demir korozyonu",
+      "answer": "PAS"
     },
     {
       "number": 5,
       "direction": "across",
-      "row": 4,
-      "col": 0,
-      "length": 3,
-      "clue": "Uzaklaşma eylemi",
-      "answer": "GİT"
+      "row": 5,
+      "col": 3,
+      "length": 6,
+      "clue": "Toplu taşıma",
+      "answer": "OTOBÜS"
     },
     {
       "number": 6,
       "direction": "down",
-      "row": 4,
-      "col": 2,
+      "row": 5,
+      "col": 6,
       "length": 3,
-      "clue": "Hekimlik bilimi",
-      "answer": "TIP"
+      "clue": "Çok miktarda",
+      "answer": "BOL"
     },
     {
       "number": 7,
       "direction": "across",
-      "row": 4,
-      "col": 8,
-      "length": 4,
-      "clue": "Sanat yapıtı",
-      "answer": "ESER"
+      "row": 7,
+      "col": 4,
+      "length": 5,
+      "clue": "Suda yaşayan canlı",
+      "answer": "BALIK"
     },
     {
       "number": 8,
-      "direction": "across",
-      "row": 5,
-      "col": 6,
+      "direction": "down",
+      "row": 7,
+      "col": 5,
       "length": 3,
-      "clue": "En soğuk mevsim",
-      "answer": "KIŞ"
+      "clue": "Sunma, takdim",
+      "answer": "ARZ"
     },
     {
       "number": 9,
-      "direction": "across",
-      "row": 6,
-      "col": 2,
-      "length": 5,
-      "clue": "Mektup servisi",
-      "answer": "POSTA"
-    },
-    {
-      "number": 10,
       "direction": "down",
-      "row": 6,
-      "col": 4,
-      "length": 3,
-      "clue": "Baştaki kıllar",
-      "answer": "SAÇ"
-    },
-    {
-      "number": 11,
-      "direction": "down",
-      "row": 6,
-      "col": 10,
-      "length": 5,
-      "clue": "Sayısal işlem",
-      "answer": "HESAP"
-    },
-    {
-      "number": 12,
-      "direction": "across",
-      "row": 8,
-      "col": 6,
-      "length": 5,
-      "clue": "En sert taş",
-      "answer": "ELMAS"
-    },
-    {
-      "number": 13,
-      "direction": "across",
-      "row": 10,
+      "row": 7,
       "col": 8,
-      "length": 3,
-      "clue": "Daire çapı",
-      "answer": "ÇAP"
+      "length": 4,
+      "clue": "Yüksek yapı",
+      "answer": "KULE"
     }
   ]
 }

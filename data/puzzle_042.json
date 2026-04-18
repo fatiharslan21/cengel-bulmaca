@@ -2,18 +2,16 @@
   "id": 42,
   "title": "Bölüm 42",
   "difficulty": "Orta",
-  "grid_size_r": 13,
-  "grid_size_c": 12,
+  "grid_size_r": 9,
+  "grid_size_c": 10,
   "grid": [
     [
       0,
-      0,
-      0,
-      0,
-      0,
       1,
-      0,
-      0,
+      1,
+      1,
+      1,
+      1,
       0,
       0,
       0,
@@ -21,16 +19,50 @@
     ],
     [
       0,
-      0,
-      0,
-      0,
-      1,
-      1,
       1,
       0,
       0,
       0,
+      1,
       0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      1,
       0
     ],
     [
@@ -39,9 +71,7 @@
       0,
       0,
       0,
-      1,
       0,
-      1,
       1,
       1,
       1,
@@ -53,41 +83,11 @@
       0,
       0,
       0,
-      1,
-      0,
       0,
       1,
       0,
       0,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      0,
-      0,
-      1,
-      0,
-      0,
-      1,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      0,
-      0,
-      1,
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
+      1
     ],
     [
       0,
@@ -97,25 +97,9 @@
       0,
       0,
       0,
-      1,
       0,
       0,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      0,
-      0,
-      1,
-      1,
-      1,
-      1,
-      1,
-      0,
-      0
+      1
     ],
     [
       0,
@@ -124,187 +108,102 @@
       0,
       0,
       0,
-      0,
-      1,
-      0,
-      1,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
       1,
       1,
       1,
-      1,
-      1,
-      1,
-      0,
-      1,
-      0,
-      0
-    ],
-    [
-      0,
-      1,
-      0,
-      1,
-      0,
-      1,
-      0,
-      0,
-      0,
-      1,
-      0,
-      0
-    ],
-    [
-      1,
-      1,
-      1,
-      1,
-      0,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      1,
-      0,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
+      1
     ]
   ],
   "words": [
     {
       "number": 1,
+      "direction": "across",
+      "row": 0,
+      "col": 1,
+      "length": 5,
+      "clue": "Günün başı",
+      "answer": "SABAH"
+    },
+    {
+      "number": 1,
       "direction": "down",
       "row": 0,
-      "col": 5,
-      "length": 6,
-      "clue": "İçecek kabı",
-      "answer": "BARDAK"
+      "col": 1,
+      "length": 5,
+      "clue": "Yenilebilen bitki",
+      "answer": "SEBZE"
     },
     {
       "number": 2,
-      "direction": "across",
-      "row": 1,
-      "col": 4,
+      "direction": "down",
+      "row": 0,
+      "col": 5,
       "length": 3,
-      "clue": "Yüksek arazi şekli",
-      "answer": "DAĞ"
+      "clue": "Çizgi, yol",
+      "answer": "HAT"
     },
     {
       "number": 3,
       "direction": "across",
       "row": 2,
-      "col": 7,
-      "length": 5,
-      "clue": "Geniş ana yol",
-      "answer": "CADDE"
+      "col": 3,
+      "length": 4,
+      "clue": "Müzik işareti",
+      "answer": "NOTA"
     },
     {
       "number": 4,
       "direction": "down",
       "row": 2,
-      "col": 8,
-      "length": 4,
-      "clue": "İstek, dilek",
-      "answer": "ARZU"
+      "col": 6,
+      "length": 5,
+      "clue": "Dört tekerlekli taşıt",
+      "answer": "ARABA"
     },
     {
       "number": 5,
-      "direction": "across",
-      "row": 5,
-      "col": 5,
-      "length": 4,
-      "clue": "Burnun algısı",
-      "answer": "KOKU"
+      "direction": "down",
+      "row": 3,
+      "col": 8,
+      "length": 3,
+      "clue": "Güç, kolay değil",
+      "answer": "ZOR"
     },
     {
       "number": 6,
-      "direction": "down",
-      "row": 5,
-      "col": 7,
+      "direction": "across",
+      "row": 4,
+      "col": 0,
       "length": 5,
-      "clue": "Uyulması gereken",
-      "answer": "KURAL"
+      "clue": "Etraf, çepeçevre",
+      "answer": "ÇEVRE"
     },
     {
       "number": 7,
       "direction": "across",
-      "row": 7,
-      "col": 5,
-      "length": 5,
-      "clue": "Ani vuruş",
-      "answer": "DARBE"
+      "row": 5,
+      "col": 6,
+      "length": 4,
+      "clue": "Zodyak işareti",
+      "answer": "BURÇ"
     },
     {
       "number": 8,
       "direction": "down",
-      "row": 7,
+      "row": 5,
       "col": 9,
       "length": 4,
-      "clue": "Kırmızı meyve",
-      "answer": "ELMA"
+      "clue": "Bodur ağaç",
+      "answer": "ÇALI"
     },
     {
       "number": 9,
       "direction": "across",
-      "row": 9,
-      "col": 2,
-      "length": 6,
-      "clue": "Popüler top oyunu",
-      "answer": "FUTBOL"
-    },
-    {
-      "number": 10,
-      "direction": "down",
-      "row": 9,
-      "col": 3,
+      "row": 8,
+      "col": 6,
       "length": 4,
-      "clue": "Yakın olmayan",
-      "answer": "UZAK"
-    },
-    {
-      "number": 11,
-      "direction": "down",
-      "row": 9,
-      "col": 5,
-      "length": 3,
-      "clue": "Vücudun orta bölümü",
-      "answer": "BEL"
-    },
-    {
-      "number": 12,
-      "direction": "down",
-      "row": 10,
-      "col": 1,
-      "length": 3,
-      "clue": "Mülk, eşya",
-      "answer": "MAL"
-    },
-    {
-      "number": 13,
-      "direction": "across",
-      "row": 11,
-      "col": 0,
-      "length": 4,
-      "clue": "Ateş aleti",
-      "answer": "MAŞA"
+      "clue": "Altın rengi",
+      "answer": "SARI"
     }
   ]
 }

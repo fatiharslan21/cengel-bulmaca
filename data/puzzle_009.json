@@ -2,15 +2,27 @@
   "id": 9,
   "title": "Bölüm 9",
   "difficulty": "Kolay",
-  "grid_size_r": 7,
-  "grid_size_c": 8,
+  "grid_size_r": 9,
+  "grid_size_c": 9,
   "grid": [
     [
       0,
       0,
       0,
+      0,
+      0,
+      0,
+      0,
       1,
-      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
       1,
       1,
       1
@@ -18,37 +30,8 @@
     [
       0,
       0,
-      1,
       0,
       0,
-      0,
-      1,
-      0
-    ],
-    [
-      0,
-      0,
-      1,
-      0,
-      1,
-      1,
-      1,
-      0
-    ],
-    [
-      1,
-      1,
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ],
-    [
-      1,
-      0,
-      1,
       0,
       1,
       0,
@@ -56,14 +39,59 @@
       0
     ],
     [
-      1,
-      0,
       0,
       1,
       1,
       1,
+      0,
       1,
-      1
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
     ],
     [
       1,
@@ -72,100 +100,92 @@
       0,
       0,
       0,
-      1,
+      0,
+      0,
       0
     ]
   ],
   "words": [
     {
       "number": 1,
-      "direction": "across",
+      "direction": "down",
       "row": 0,
-      "col": 3,
-      "length": 5,
-      "clue": "Suyla ıslanmış",
-      "answer": "ISLAK"
+      "col": 7,
+      "length": 4,
+      "clue": "Biçim, üslup",
+      "answer": "TARZ"
     },
     {
       "number": 2,
-      "direction": "down",
-      "row": 0,
+      "direction": "across",
+      "row": 1,
       "col": 6,
+      "length": 3,
+      "clue": "Bitki gövdesi",
+      "answer": "SAP"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 2,
+      "col": 5,
+      "length": 4,
+      "clue": "Ayrım, değişiklik",
+      "answer": "FARK"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 3,
+      "col": 1,
+      "length": 3,
+      "clue": "Yön değiştir",
+      "answer": "DÖN"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 3,
+      "col": 3,
+      "length": 3,
+      "clue": "İşve, cilve",
+      "answer": "NAZ"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 3,
+      "col": 5,
       "length": 3,
       "clue": "Sunma, takdim",
       "answer": "ARZ"
     },
     {
-      "number": 3,
-      "direction": "down",
-      "row": 1,
-      "col": 2,
-      "length": 4,
-      "clue": "Sıvı geçen tüp",
-      "answer": "BORU"
-    },
-    {
-      "number": 4,
-      "direction": "across",
-      "row": 2,
-      "col": 4,
-      "length": 3,
-      "clue": "İnce parçacıklar",
-      "answer": "TOZ"
-    },
-    {
-      "number": 4,
-      "direction": "down",
-      "row": 2,
-      "col": 4,
-      "length": 4,
-      "clue": "Adet, parça",
-      "answer": "TANE"
-    },
-    {
-      "number": 5,
-      "direction": "across",
-      "row": 3,
-      "col": 0,
-      "length": 5,
-      "clue": "Ekin alanı",
-      "answer": "TARLA"
-    },
-    {
-      "number": 5,
-      "direction": "down",
-      "row": 3,
-      "col": 0,
-      "length": 4,
-      "clue": "Kızarmış sandviç",
-      "answer": "TOST"
-    },
-    {
-      "number": 6,
-      "direction": "down",
-      "row": 4,
-      "col": 6,
-      "length": 3,
-      "clue": "Göllü doğu ili",
-      "answer": "VAN"
-    },
-    {
       "number": 7,
       "direction": "across",
       "row": 5,
-      "col": 3,
+      "col": 1,
       "length": 5,
-      "clue": "Yüzeyin sınırı",
-      "answer": "KENAR"
+      "clue": "Seslerle sanat",
+      "answer": "MÜZİK"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 5,
+      "col": 1,
+      "length": 4,
+      "clue": "Ateş aleti",
+      "answer": "MAŞA"
     },
     {
       "number": 8,
       "direction": "across",
-      "row": 6,
+      "row": 8,
       "col": 0,
       "length": 3,
-      "clue": "Bin kilogram",
-      "answer": "TON"
+      "clue": "Daire çapı",
+      "answer": "ÇAP"
     }
   ]
 }

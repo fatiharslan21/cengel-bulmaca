@@ -2,7 +2,7 @@
   "id": 66,
   "title": "Bölüm 66",
   "difficulty": "Zor",
-  "grid_size_r": 17,
+  "grid_size_r": 10,
   "grid_size_c": 11,
   "grid": [
     [
@@ -13,10 +13,10 @@
       0,
       0,
       0,
-      1,
       0,
       0,
-      0
+      0,
+      1
     ],
     [
       0,
@@ -24,53 +24,16 @@
       0,
       0,
       0,
-      0,
-      0,
       1,
       0,
       0,
-      0
+      0,
+      0,
+      1
     ],
     [
       0,
       0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      1,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      1,
-      0,
-      1,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      1,
-      1,
-      1,
-      1,
-      1,
-      0,
-      1,
-      0
-    ],
-    [
       1,
       1,
       1,
@@ -79,34 +42,6 @@
       0,
       0,
       0,
-      0,
-      1,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      1,
-      0,
-      0,
-      0,
-      1,
-      0,
-      1,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      1,
-      0,
-      0,
-      0,
-      1,
-      1,
-      1,
       1
     ],
     [
@@ -114,73 +49,47 @@
       0,
       0,
       1,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      1
+    ],
+    [
       1,
       1,
       1,
       1,
       0,
       1,
-      0
+      1,
+      1,
+      1,
+      1,
+      1
     ],
     [
       0,
+      1,
+      0,
+      0,
       0,
       0,
       0,
       0,
       1,
       0,
-      1,
-      0,
-      0,
-      0
+      1
     ],
     [
       0,
-      0,
-      0,
-      0,
-      0,
-      1,
-      0,
-      0,
-      0,
-      1,
-      0
-    ],
-    [
-      0,
-      0,
-      1,
-      1,
-      1,
-      1,
       1,
       0,
       0,
       1,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
       1,
-      0,
-      1,
-      0,
-      0,
-      0,
-      1,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      1,
-      0,
-      0,
       1,
       1,
       1,
@@ -189,22 +98,9 @@
     ],
     [
       0,
-      0,
-      0,
-      1,
-      1,
-      1,
       1,
       0,
       0,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      1,
       0,
       0,
       1,
@@ -219,10 +115,23 @@
       0,
       0,
       0,
+      0,
       1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
       1,
-      1,
-      1,
+      0,
+      0,
       0,
       0
     ]
@@ -232,145 +141,91 @@
       "number": 1,
       "direction": "down",
       "row": 0,
-      "col": 7,
-      "length": 5,
-      "clue": "Üflemeli ses aleti",
-      "answer": "DÜDÜK"
+      "col": 10,
+      "length": 6,
+      "clue": "Güç, kuvvet",
+      "answer": "KUDRET"
     },
     {
       "number": 2,
       "direction": "down",
-      "row": 3,
-      "col": 9,
-      "length": 6,
-      "clue": "Ülke simgesi",
-      "answer": "BAYRAK"
-    },
-    {
-      "number": 3,
-      "direction": "down",
-      "row": 4,
-      "col": 3,
-      "length": 5,
-      "clue": "Bitkinin ürünü",
-      "answer": "MEYVE"
-    },
-    {
-      "number": 3,
-      "direction": "across",
-      "row": 4,
-      "col": 3,
-      "length": 5,
-      "clue": "Kanatlı kutsal varlık",
-      "answer": "MELEK"
-    },
-    {
-      "number": 4,
-      "direction": "across",
-      "row": 5,
-      "col": 0,
-      "length": 4,
-      "clue": "Yüzeylerin birleşimi",
-      "answer": "KÖŞE"
-    },
-    {
-      "number": 5,
-      "direction": "down",
-      "row": 6,
-      "col": 7,
-      "length": 4,
-      "clue": "Yapı, bina",
-      "answer": "BİNA"
-    },
-    {
-      "number": 6,
-      "direction": "across",
-      "row": 7,
-      "col": 7,
-      "length": 4,
-      "clue": "Tedavi maddesi",
-      "answer": "İLAÇ"
-    },
-    {
-      "number": 7,
-      "direction": "across",
-      "row": 8,
-      "col": 3,
-      "length": 5,
-      "clue": "Vaktinden önce",
-      "answer": "ERKEN"
-    },
-    {
-      "number": 8,
-      "direction": "down",
-      "row": 8,
+      "row": 1,
       "col": 5,
-      "length": 5,
-      "clue": "Küçük kırmızı meyve",
-      "answer": "KİRAZ"
+      "length": 4,
+      "clue": "Türk simgesi çiçek",
+      "answer": "LALE"
     },
     {
-      "number": 9,
-      "direction": "down",
-      "row": 10,
-      "col": 9,
+      "number": 3,
+      "direction": "across",
+      "row": 2,
+      "col": 2,
       "length": 4,
       "clue": "Kısa dinlenme",
       "answer": "MOLA"
     },
     {
-      "number": 10,
-      "direction": "across",
-      "row": 11,
-      "col": 2,
-      "length": 5,
-      "clue": "Sürdürme",
-      "answer": "DEVAM"
-    },
-    {
-      "number": 11,
+      "number": 4,
       "direction": "down",
-      "row": 11,
+      "row": 2,
       "col": 3,
-      "length": 5,
-      "clue": "En sert taş",
-      "answer": "ELMAS"
+      "length": 3,
+      "clue": "İğneyle süsleme",
+      "answer": "OYA"
     },
     {
-      "number": 12,
+      "number": 5,
       "direction": "down",
-      "row": 13,
-      "col": 6,
+      "row": 3,
+      "col": 8,
       "length": 4,
-      "clue": "Büyük sert taş",
-      "answer": "KAYA"
+      "clue": "Çiçek süs kabı",
+      "answer": "VAZO"
     },
     {
-      "number": 12,
+      "number": 6,
       "direction": "across",
-      "row": 13,
-      "col": 6,
+      "row": 4,
+      "col": 0,
       "length": 4,
-      "clue": "Siyah renk",
-      "answer": "KARA"
+      "clue": "Kez, kere",
+      "answer": "DEFA"
     },
     {
-      "number": 13,
-      "direction": "across",
-      "row": 14,
-      "col": 3,
+      "number": 7,
+      "direction": "down",
+      "row": 4,
+      "col": 1,
       "length": 4,
-      "clue": "Yansıtıcı cam",
-      "answer": "AYNA"
+      "clue": "Ölüm vakti",
+      "answer": "ECEL"
     },
     {
-      "number": 14,
+      "number": 8,
       "direction": "across",
-      "row": 16,
+      "row": 4,
       "col": 5,
+      "length": 6,
+      "clue": "Söylence, mit",
+      "answer": "EFSANE"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 6,
+      "col": 4,
+      "length": 6,
+      "clue": "Yük aracı",
+      "answer": "KAMYON"
+    },
+    {
+      "number": 10,
+      "direction": "down",
+      "row": 6,
+      "col": 6,
       "length": 4,
-      "clue": "Talih, baht",
-      "answer": "ŞANS"
+      "clue": "Otlak alan",
+      "answer": "MERA"
     }
   ]
 }

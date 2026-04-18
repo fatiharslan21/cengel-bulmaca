@@ -2,15 +2,15 @@
   "id": 25,
   "title": "Bölüm 25",
   "difficulty": "Kolay",
-  "grid_size_r": 7,
+  "grid_size_r": 8,
   "grid_size_c": 9,
   "grid": [
     [
       0,
+      0,
+      0,
       1,
-      1,
-      1,
-      1,
+      0,
       0,
       0,
       0,
@@ -20,34 +20,12 @@
       0,
       0,
       1,
-      0,
+      1,
       1,
       0,
       0,
-      0,
+      1,
       0
-    ],
-    [
-      1,
-      1,
-      1,
-      0,
-      1,
-      0,
-      0,
-      0,
-      1
-    ],
-    [
-      0,
-      0,
-      1,
-      1,
-      1,
-      1,
-      0,
-      0,
-      1
     ],
     [
       0,
@@ -62,6 +40,28 @@
     ],
     [
       0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      1,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      1,
       1,
       1,
       1,
@@ -72,12 +72,23 @@
       0
     ],
     [
-      0,
-      0,
-      0,
       1,
       0,
       1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
       0,
       0,
       0
@@ -86,93 +97,84 @@
   "words": [
     {
       "number": 1,
-      "direction": "across",
+      "direction": "down",
       "row": 0,
-      "col": 1,
+      "col": 3,
       "length": 4,
-      "clue": "Eğitim kurumu",
-      "answer": "OKUL"
+      "clue": "Görkemli yapı",
+      "answer": "ŞATO"
     },
     {
       "number": 2,
-      "direction": "down",
-      "row": 0,
+      "direction": "across",
+      "row": 1,
       "col": 2,
-      "length": 4,
-      "clue": "Siyah renk",
-      "answer": "KARA"
+      "length": 3,
+      "clue": "Bina bölümü",
+      "answer": "KAT"
     },
     {
       "number": 3,
       "direction": "down",
-      "row": 0,
-      "col": 4,
+      "row": 1,
+      "col": 7,
       "length": 4,
-      "clue": "Türk parası",
-      "answer": "LİRA"
+      "clue": "Geniş düzlük",
+      "answer": "ALAN"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 2,
+      "col": 5,
+      "length": 4,
+      "clue": "Eşya kabı",
+      "answer": "KUTU"
     },
     {
       "number": 4,
       "direction": "across",
       "row": 2,
-      "col": 0,
-      "length": 3,
-      "clue": "Uçurum, yarık",
-      "answer": "YAR"
+      "col": 5,
+      "length": 4,
+      "clue": "Yüksek yapı",
+      "answer": "KULE"
     },
     {
       "number": 5,
-      "direction": "down",
-      "row": 2,
-      "col": 8,
-      "length": 3,
-      "clue": "Çeşit, tür",
-      "answer": "TÜR"
-    },
-    {
-      "number": 6,
       "direction": "across",
       "row": 3,
       "col": 2,
       "length": 4,
-      "clue": "Bacak ucu",
-      "answer": "AYAK"
+      "clue": "Cevap bekleyen",
+      "answer": "SORU"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 3,
+      "col": 2,
+      "length": 4,
+      "clue": "Zaman aralığı",
+      "answer": "SÜRE"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 4,
+      "col": 0,
+      "length": 4,
+      "clue": "Yaşam süresi",
+      "answer": "ÖMÜR"
     },
     {
       "number": 7,
-      "direction": "down",
-      "row": 3,
-      "col": 3,
-      "length": 4,
-      "clue": "Vatan",
-      "answer": "YURT"
-    },
-    {
-      "number": 8,
-      "direction": "down",
-      "row": 3,
-      "col": 5,
-      "length": 4,
-      "clue": "Baş, kelle",
-      "answer": "KAFA"
-    },
-    {
-      "number": 9,
-      "direction": "across",
-      "row": 4,
-      "col": 5,
-      "length": 4,
-      "clue": "Hafif olmayan",
-      "answer": "AĞIR"
-    },
-    {
-      "number": 10,
       "direction": "across",
       "row": 5,
-      "col": 1,
-      "length": 3,
-      "clue": "Oyun küpü",
-      "answer": "ZAR"
+      "col": 0,
+      "length": 4,
+      "clue": "Otlak alan",
+      "answer": "MERA"
     }
   ]
 }

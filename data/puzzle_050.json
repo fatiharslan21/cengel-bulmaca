@@ -2,17 +2,53 @@
   "id": 50,
   "title": "Bölüm 50",
   "difficulty": "Orta",
-  "grid_size_r": 11,
-  "grid_size_c": 12,
+  "grid_size_r": 12,
+  "grid_size_c": 8,
   "grid": [
     [
       0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
       1,
       0,
       0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
       0,
       0,
-      0,
+      1,
       0,
       0,
       0,
@@ -24,17 +60,12 @@
       1,
       1,
       1,
-      0,
-      0,
-      0,
-      0,
-      0,
+      1,
       1,
       0,
       0
     ],
     [
-      0,
       1,
       0,
       1,
@@ -42,6 +73,33 @@
       0,
       0,
       0,
+      0
+    ],
+    [
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
       1,
       1,
       1,
@@ -49,114 +107,22 @@
     ],
     [
       0,
-      1,
-      0,
-      1,
       0,
       0,
-      1,
-      0,
-      0,
-      1,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      1,
-      1,
-      1,
-      0,
-      1,
-      0,
-      0,
-      1,
-      0,
-      0
-    ],
-    [
-      1,
-      1,
-      1,
       0,
       0,
       0,
       1,
-      1,
-      1,
-      1,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      1,
-      0,
-      0,
-      0,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      1,
-      1,
-      1,
-      1,
-      1,
-      0,
-      0,
-      0,
-      0,
       0
     ],
     [
       0,
       0,
       0,
-      1,
-      0,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
       0,
       0,
       0,
       1,
-      0,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
       0
     ]
   ],
@@ -165,118 +131,91 @@
       "number": 1,
       "direction": "down",
       "row": 0,
-      "col": 1,
+      "col": 5,
       "length": 4,
-      "clue": "Altın rengi",
-      "answer": "SARI"
+      "clue": "Yemek mobilyası",
+      "answer": "MASA"
     },
     {
       "number": 2,
       "direction": "across",
       "row": 1,
-      "col": 0,
-      "length": 4,
-      "clue": "Ferahlatıcı bitki",
-      "answer": "NANE"
+      "col": 4,
+      "length": 3,
+      "clue": "Ağacın kolu",
+      "answer": "DAL"
     },
     {
       "number": 3,
       "direction": "down",
-      "row": 1,
-      "col": 3,
-      "length": 4,
-      "clue": "Buyruk, komut",
-      "answer": "EMİR"
+      "row": 2,
+      "col": 2,
+      "length": 6,
+      "clue": "Bitkinin yeşil organı",
+      "answer": "YAPRAK"
     },
     {
       "number": 4,
-      "direction": "down",
-      "row": 1,
-      "col": 9,
-      "length": 5,
-      "clue": "Ani vuruş",
-      "answer": "DARBE"
+      "direction": "across",
+      "row": 3,
+      "col": 1,
+      "length": 6,
+      "clue": "Kürekli tekne",
+      "answer": "SANDAL"
     },
     {
       "number": 5,
       "direction": "across",
-      "row": 2,
-      "col": 8,
+      "row": 5,
+      "col": 0,
+      "length": 6,
+      "clue": "Saç kesen esnaf",
+      "answer": "BERBER"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 5,
+      "col": 0,
       "length": 4,
-      "clue": "Düz ince levha",
-      "answer": "KART"
+      "clue": "Zodyak işareti",
+      "answer": "BURÇ"
     },
     {
       "number": 6,
-      "direction": "down",
-      "row": 3,
-      "col": 6,
-      "length": 5,
-      "clue": "Vaktinden önce",
-      "answer": "ERKEN"
-    },
-    {
-      "number": 7,
       "direction": "across",
-      "row": 4,
+      "row": 7,
       "col": 2,
       "length": 3,
-      "clue": "Bal yapan böcek",
-      "answer": "ARI"
+      "clue": "Göz üstü kıl şeridi",
+      "answer": "KAŞ"
     },
     {
       "number": 7,
       "direction": "down",
-      "row": 4,
-      "col": 2,
-      "length": 4,
-      "clue": "Ateşin parlak kısmı",
-      "answer": "ALEV"
+      "row": 7,
+      "col": 4,
+      "length": 3,
+      "clue": "Ün, şöhret",
+      "answer": "ŞAN"
     },
     {
       "number": 8,
-      "direction": "across",
-      "row": 5,
-      "col": 0,
-      "length": 3,
-      "clue": "Karalarla çevrili su",
-      "answer": "GÖL"
+      "direction": "down",
+      "row": 8,
+      "col": 6,
+      "length": 4,
+      "clue": "İlerinin zıttı",
+      "answer": "GERİ"
     },
     {
       "number": 9,
       "direction": "across",
-      "row": 5,
-      "col": 6,
-      "length": 4,
-      "clue": "Yüksek yapı",
-      "answer": "KULE"
-    },
-    {
-      "number": 10,
-      "direction": "across",
-      "row": 7,
+      "row": 9,
       "col": 2,
-      "length": 5,
-      "clue": "Yurt, memleket",
-      "answer": "VATAN"
-    },
-    {
-      "number": 11,
-      "direction": "down",
-      "row": 7,
-      "col": 3,
-      "length": 4,
-      "clue": "Geniş düzlük",
-      "answer": "ALAN"
-    },
-    {
-      "number": 12,
-      "direction": "down",
-      "row": 7,
-      "col": 5,
-      "length": 3,
-      "clue": "Koruyucu ilaç",
-      "answer": "AŞI"
+      "length": 6,
+      "clue": "Konular listesi",
+      "answer": "GÜNDEM"
     }
   ]
 }

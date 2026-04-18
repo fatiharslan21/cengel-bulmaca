@@ -181,6 +181,75 @@ WORDS=[
 ("TELEFON","İletişim cihazı"),("YAĞMUR","Gökten su damlaları"),
 ]
 
+# Eski Türkçe / Osmanlıca (Zor seviye)
+ARCHAIC_WORDS=[
+("ARZ","Sunma, takdim"),("BAHT","Talih, şans"),
+("CEHD","Çaba, gayret"),("DAVA","İddia, tez"),
+("ELEM","Keder, acı"),("EMEL","Özlenen istek"),
+("ECEL","Ölüm vakti"),("EDEP","Terbiye, görgü"),
+("FARZ","Mutlaka yapılması gereken"),("FENA","Kötü, berbat"),
+("GAYE","Amaç, maksat"),("HATA","Yanlış, kusur"),
+("HAYA","Utanma duygusu"),("HİLE","Düzen, oyun"),
+("HİSSE","Pay, nasip"),("İDRAK","Anlayış"),
+("İFFET","Namus, iffet"),("İKBAL","Talih, yükselme"),
+("İLAM","Bildirme, hüküm"),("İMAN","İnanç"),
+("İRFAN","Bilme, anlayış"),("İZAH","Açıklama"),
+("KADER","Alın yazısı"),("KEDER","Üzüntü"),
+("KELAM","Söz, laf"),("KEMAL","Olgunluk"),
+("KISMET","Nasip, pay"),("KUDRET","Güç, kuvvet"),
+("LİSAN","Dil, konuşma"),("LÜTUF","İyilik, bağış"),
+("MAHŞER","Kıyamet yeri"),("MATEM","Yas, acı"),
+("MAZİ","Geçmiş zaman"),("MEKAN","Yer, mahal"),
+("MELAL","Hüzün, usanç"),("MERAM","Amaç, arzu"),
+("MEVKİ","Yer, konum"),("MEZAR","Kabir"),
+("MİSAL","Örnek, benzer"),("MÜJDE","İyi haber"),
+("NAFİLE","Boşuna, yararsız"),("NAKİL","Taşıma, aktarma"),
+("NAZAR","Bakış, göz"),("NİDA","Seslenme"),
+("NİMET","İyilik, bolluk"),("NİYAZ","Yakarma"),
+("PERDE","Örtü, perde"),("RAKİP","Hasım, muhalif"),
+("REFAH","Bolluk, huzur"),("RİCA","Yalvarma, dilek"),
+("SABIR","Katlanma, dayanma"),("SADA","Ses, seda"),
+("SAFA","Gönül huzuru"),("SANİYE","Kısa an"),
+("SELAM","Esenleme sözü"),("SERAP","Hayal, ilüzyon"),
+("ŞEREF","Onur, itibar"),("ŞEVK","Arzu, istek"),
+("ŞÖHRET","Ün, nam"),("TABİ","Uyan, bağlı"),
+("TAKDİR","Beğenme, övme"),("TALEP","İstek"),
+("TALİH","Şans, baht"),("TEMEL","Esas, kök"),
+("USUL","Yöntem, tarz"),("VAHİM","Ağır, kötü"),
+("VAKİT","Zaman, süre"),("VEDA","Ayrılırken selam"),
+("VEFA","Sözünde durma"),("ZAHMET","Güçlük, eziyet"),
+("ZEVAL","Yok olma"),("ZEVK","Haz, keyif"),
+]
+
+# Edebî / Nadir (Çok Zor seviye)
+LITERARY_WORDS=[
+("ASUDE","Sakin, huzurlu"),("BEDİA","Eşsiz güzellik"),
+("CEVAP","Yanıt, karşılık"),("DERUN","İç, iç yüz"),
+("ECİR","Karşılık, sevap"),("EZEL","Başlangıcı olmayan"),
+("FİGAN","Feryat, ağlama"),("FIRAK","Ayrılık"),
+("GAFİL","Habersiz, aymaz"),("GAYR","Başka, özge"),
+("HASRET","Özlem, göresi"),("HİCAP","Utanç, çekinme"),
+("HİCRAN","Ayrılık acısı"),("HULUS","İçten bağlılık"),
+("HUZUR","İç rahatlığı"),("İLHAM","Esin, sezgi"),
+("KANAAT","Yetinme, razı olma"),("LATİF","Hoş, ince"),
+("MAHLAS","Takma ad, isim"),("MAHZUN","Üzgün, kederli"),
+("MANA","Anlam, mana"),("MEFTUN","Tutkun, vurgun"),
+("MİLAT","Başlangıç tarihi"),("MUAMMA","Giz, bilmece"),
+("MUNİS","Uysal, yumuşak"),("NAĞME","Ezgi, tını"),
+("NAZİK","İnce, kibar"),("NEZİH","Temiz, arı"),
+("NÜKTE","İnce söz, espri"),("RAST","Tesadüf, denk gelme"),
+("REHAVET","Gevşeklik"),("RİYA","İkiyüzlülük"),
+("SADAKAT","Bağlılık, vefa"),("SEMA","Gökyüzü"),
+("SEVDA","Aşk, tutku"),("SUKUT","Düşme, sessizlik"),
+("ŞAFAK","Gün ağarması"),("ŞEFKAT","Sevgi, acıma"),
+("TECELLİ","Görünme, belirme"),("TEESSÜR","Üzülme"),
+("TELAŞ","Heyecan, kaygı"),("TENHA","Issız, boş"),
+("TESELLİ","Avunma, avuntu"),("TEVAZU","Alçakgönüllülük"),
+("ULVİ","Yüce, manevi"),("VECİZE","Özlü söz"),
+("YADİGAR","Hatıra, armağan"),("ZAAF","Güçsüzlük"),
+("ZİYA","Işık, aydınlık"),("ZÜMRE","Topluluk, küme"),
+]
+
 class Builder:
     def __init__(self, max_sz=20):
         self.mx = max_sz
@@ -322,30 +391,49 @@ class Builder:
                 "grid_size_r":h,"grid_size_c":w,"grid":grid,"words":wd}
 
 
+def _dedupe(words_list):
+    """Aynı kelimenin tekrarını at"""
+    seen = {}
+    for w,c in words_list:
+        if all(ch in VALID for ch in w) and w not in seen:
+            seen[w] = (w,c)
+    return list(seen.values())
+
 def generate_all():
-    os.makedirs("static/data", exist_ok=True)
-    pool = list({w:(w,c) for w,c in WORDS if all(ch in VALID for ch in w)}.values())
-    
-    cfgs=[("Kolay",25,14,(3,5),10),("Orta",25,16,(3,6),13),
-          ("Zor",25,18,(4,7),16),("Çok Zor",25,20,(4,10),19)]
-    
+    os.makedirs("data", exist_ok=True)
+    basic = _dedupe(WORDS)
+    archaic = _dedupe(ARCHAIC_WORDS)
+    literary = _dedupe(LITERARY_WORDS)
+
+    # Zorluk = kelime dağarcığı. Grid boyutu hepsi için mobil dostu.
+    # (diff, count, max_sz, (min_len,max_len), target_words, pool_builder)
+    cfgs = [
+        ("Kolay",   25, 12, (3,5),  9,  lambda: basic),
+        ("Orta",    25, 12, (3,6),  10, lambda: basic),
+        # Zor: günlük kelimelerin yanına eski Türkçe karıştır
+        ("Zor",     25, 12, (3,6),  10, lambda: basic + archaic + archaic),
+        # Çok Zor: ağırlıklı eski/edebî kelimeler
+        ("Çok Zor", 25, 12, (3,7),  10, lambda: basic + archaic*2 + literary*3),
+    ]
+
     pid=0; tw=0
-    for diff,cnt,msz,(mn,mx),tgt in cfgs:
-        filt=[(w,c) for w,c in pool if mn<=len(w)<=mx]
+    for diff,cnt,msz,(mn,mx),tgt,pool_fn in cfgs:
+        raw_pool = pool_fn()
+        filt=[(w,c) for w,c in raw_pool if mn<=len(w)<=mx]
         for i in range(cnt):
             pid+=1
             best=None
-            for _ in range(8):
+            for _ in range(10):
                 random.shuffle(filt)
                 b=Builder(msz)
-                n=b.build(filt[:70],tgt)
+                b.build(filt[:80],tgt)
                 d=b.to_json(pid,f"Bölüm {pid}",diff)
                 if d and (best is None or len(d["words"])>len(best["words"])):
                     best=d
                 if best and len(best["words"])>=tgt:
                     break
             if best:
-                with open(f"static/data/puzzle_{pid:03d}.json","w",encoding="utf-8") as f:
+                with open(f"data/puzzle_{pid:03d}.json","w",encoding="utf-8") as f:
                     json.dump(best,f,ensure_ascii=False,indent=2)
                 tw+=len(best["words"])
         print(f"  ✓ {diff}: {cnt} bölüm")
@@ -354,25 +442,28 @@ def generate_all():
 
 def add_levels(count=1):
     """100 sonrası Çok Zor bölüm ekle"""
-    pool = list({w:(w,c) for w,c in WORDS if all(ch in VALID for ch in w)}.values())
-    filt=[(w,c) for w,c in pool if 4<=len(w)<=10]
-    
-    files=glob.glob(os.path.join("static","data","puzzle_*.json"))
+    basic = _dedupe(WORDS)
+    archaic = _dedupe(ARCHAIC_WORDS)
+    literary = _dedupe(LITERARY_WORDS)
+    raw_pool = basic + archaic*2 + literary*3
+    filt=[(w,c) for w,c in raw_pool if 3<=len(w)<=7]
+
+    files=glob.glob(os.path.join("data","puzzle_*.json"))
     nxt = max(int(os.path.basename(f)[7:10]) for f in files)+1 if files else 1
-    
+
     for i in range(count):
         pid=nxt+i
         random.seed(pid*37+13)
         best=None
-        for _ in range(8):
+        for _ in range(10):
             random.shuffle(filt)
-            b=Builder(20)
-            b.build(filt[:70],19)
+            b=Builder(12)
+            b.build(filt[:80],10)
             d=b.to_json(pid,f"Bölüm {pid}","Çok Zor")
             if d and (best is None or len(d["words"])>len(best["words"])):
                 best=d
         if best:
-            with open(f"static/data/puzzle_{pid:03d}.json","w",encoding="utf-8") as f:
+            with open(f"data/puzzle_{pid:03d}.json","w",encoding="utf-8") as f:
                 json.dump(best,f,ensure_ascii=False,indent=2)
             print(f"  ✅ Bölüm {pid} ({len(best['words'])} kelime)")
 

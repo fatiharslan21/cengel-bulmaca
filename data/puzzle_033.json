@@ -3,7 +3,7 @@
   "title": "Bölüm 33",
   "difficulty": "Orta",
   "grid_size_r": 11,
-  "grid_size_c": 11,
+  "grid_size_c": 9,
   "grid": [
     [
       0,
@@ -13,41 +13,43 @@
       0,
       0,
       0,
+      1,
+      0
+    ],
+    [
       0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
       1,
       1,
       1
     ],
     [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      1,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      1,
-      1,
-      1,
-      0,
-      0
-    ],
-    [
-      0,
-      1,
-      0,
       1,
       1,
       1,
@@ -55,58 +57,7 @@
       0,
       1,
       0,
-      0
-    ],
-    [
-      0,
       1,
-      0,
-      1,
-      0,
-      0,
-      1,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      1,
-      1,
-      1,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      1,
-      0,
-      1,
-      1,
-      1,
-      1,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      1,
-      0,
-      0,
-      0,
-      1,
-      0,
-      0,
-      0,
-      0,
       0
     ],
     [
@@ -115,6 +66,15 @@
       0,
       1,
       0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
       1,
       0,
       0,
@@ -129,24 +89,42 @@
       1,
       1,
       1,
-      1,
-      0,
       0,
       0,
       0
     ],
     [
-      1,
+      0,
       1,
       1,
       1,
       0,
-      0,
-      0,
-      0,
+      1,
       0,
       0,
       0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
     ]
   ],
   "words": [
@@ -154,118 +132,91 @@
       "number": 1,
       "direction": "down",
       "row": 0,
-      "col": 8,
-      "length": 4,
-      "clue": "Ev bedeli",
-      "answer": "KIRA"
-    },
-    {
-      "number": 1,
-      "direction": "across",
-      "row": 0,
-      "col": 8,
-      "length": 3,
-      "clue": "Kanatlı uçan hayvan",
-      "answer": "KUŞ"
+      "col": 7,
+      "length": 5,
+      "clue": "Büyük oda",
+      "answer": "SALON"
     },
     {
       "number": 2,
       "direction": "down",
-      "row": 2,
-      "col": 6,
-      "length": 3,
-      "clue": "Kaygan besin",
-      "answer": "YAĞ"
-    },
-    {
-      "number": 2,
-      "direction": "across",
-      "row": 2,
-      "col": 6,
-      "length": 3,
-      "clue": "Mekan, konum",
-      "answer": "YER"
+      "row": 1,
+      "col": 5,
+      "length": 5,
+      "clue": "Aydınlatma aracı",
+      "answer": "LAMBA"
     },
     {
       "number": 3,
       "direction": "down",
       "row": 3,
-      "col": 1,
-      "length": 5,
-      "clue": "Hayal ürünü hikaye",
-      "answer": "MASAL"
+      "col": 3,
+      "length": 6,
+      "clue": "Yırtıcı büyük kuş",
+      "answer": "KARTAL"
     },
     {
-      "number": 4,
-      "direction": "down",
+      "number": 3,
+      "direction": "across",
       "row": 3,
       "col": 3,
-      "length": 4,
-      "clue": "Siyah renk",
-      "answer": "KARA"
+      "length": 6,
+      "clue": "Yük aracı",
+      "answer": "KAMYON"
     },
     {
       "number": 4,
       "direction": "across",
-      "row": 3,
-      "col": 3,
+      "row": 4,
+      "col": 0,
       "length": 4,
-      "clue": "Ödül bardağı",
-      "answer": "KUPA"
+      "clue": "Müzik işareti",
+      "answer": "NOTA"
     },
     {
       "number": 5,
       "direction": "across",
-      "row": 5,
-      "col": 0,
-      "length": 4,
-      "clue": "Sanat yapıtı",
-      "answer": "ESER"
+      "row": 6,
+      "col": 1,
+      "length": 3,
+      "clue": "Beyaz besin sıvısı",
+      "answer": "SÜT"
     },
     {
       "number": 6,
       "direction": "across",
-      "row": 6,
+      "row": 7,
       "col": 3,
-      "length": 4,
-      "clue": "Bacak ucu",
-      "answer": "AYAK"
+      "length": 3,
+      "clue": "Yakışıklı, gösterişli",
+      "answer": "AFİ"
     },
     {
       "number": 7,
       "direction": "down",
-      "row": 6,
+      "row": 7,
       "col": 5,
       "length": 4,
-      "clue": "Av yapan kişi",
-      "answer": "AVCI"
+      "clue": "Kalın olmayan",
+      "answer": "İNCE"
     },
     {
       "number": 8,
-      "direction": "down",
+      "direction": "across",
       "row": 8,
-      "col": 3,
+      "col": 1,
       "length": 3,
-      "clue": "Demir korozyonu",
-      "answer": "PAS"
+      "clue": "Kurak kumluk arazi",
+      "answer": "ÇÖL"
     },
     {
       "number": 9,
       "direction": "across",
-      "row": 9,
-      "col": 3,
-      "length": 4,
-      "clue": "Hafif olmayan",
-      "answer": "AĞIR"
-    },
-    {
-      "number": 10,
-      "direction": "across",
       "row": 10,
-      "col": 0,
-      "length": 4,
-      "clue": "Talih, baht",
-      "answer": "ŞANS"
+      "col": 4,
+      "length": 5,
+      "clue": "Etraf, çepeçevre",
+      "answer": "ÇEVRE"
     }
   ]
 }

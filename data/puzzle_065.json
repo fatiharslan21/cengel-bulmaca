@@ -2,16 +2,16 @@
   "id": 65,
   "title": "Bölüm 65",
   "difficulty": "Zor",
-  "grid_size_r": 18,
+  "grid_size_r": 8,
   "grid_size_c": 10,
   "grid": [
     [
       0,
-      0,
-      0,
       1,
-      0,
-      0,
+      1,
+      1,
+      1,
+      1,
       0,
       0,
       0,
@@ -21,48 +21,12 @@
       0,
       0,
       0,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      1,
       0,
       0,
       1,
       0,
       1,
-      0
-    ],
-    [
       0,
-      0,
-      0,
-      1,
-      1,
-      1,
-      1,
-      0,
-      1,
       0
     ],
     [
@@ -71,69 +35,33 @@
       0,
       0,
       0,
+      1,
       0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
       1,
       1,
       1,
       1
     ],
     [
-      0,
-      0,
-      0,
       1,
-      1,
-      1,
-      1,
-      0,
-      1,
-      0
-    ],
-    [
-      0,
-      1,
-      0,
-      1,
-      0,
-      0,
-      0,
-      0,
-      1,
-      0
-    ],
-    [
-      0,
       1,
       1,
       1,
       1,
       0,
       0,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
       1,
-      0,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      1,
-      1,
-      1,
-      1,
-      0,
-      0,
-      0,
-      0,
       0,
       0
     ],
@@ -142,34 +70,10 @@
       0,
       0,
       0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      1,
-      0,
       1,
       1,
       1,
       1,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      1,
-      0,
-      0,
-      1,
-      0,
-      1,
-      0,
-      0,
       0,
       0
     ],
@@ -177,46 +81,22 @@
       1,
       1,
       1,
-      1,
       0,
       1,
       0,
       0,
+      1,
       0,
       0
     ],
     [
-      0,
-      1,
-      0,
-      1,
-      0,
       1,
       0,
       0,
-      0,
-      0
-    ],
-    [
-      0,
       1,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
       1,
-      0,
-      0,
-      0,
-      0,
-      0,
+      1,
+      1,
       0,
       0,
       0
@@ -225,147 +105,93 @@
   "words": [
     {
       "number": 1,
-      "direction": "down",
+      "direction": "across",
       "row": 0,
-      "col": 3,
+      "col": 1,
       "length": 5,
-      "clue": "Harita kitabı",
-      "answer": "ATLAS"
+      "clue": "Bilme, anlayış",
+      "answer": "İRFAN"
     },
     {
       "number": 2,
       "direction": "down",
-      "row": 3,
-      "col": 6,
+      "row": 0,
+      "col": 5,
       "length": 4,
-      "clue": "Yapışkan şerit",
-      "answer": "BANT"
+      "clue": "Müzik işareti",
+      "answer": "NOTA"
     },
     {
       "number": 3,
       "direction": "down",
+      "row": 1,
+      "col": 7,
+      "length": 6,
+      "clue": "Güç, kuvvet",
+      "answer": "KUDRET"
+    },
+    {
+      "number": 4,
+      "direction": "down",
       "row": 3,
-      "col": 8,
+      "col": 4,
       "length": 5,
-      "clue": "Yüzeyin sınırı",
-      "answer": "KENAR"
+      "clue": "Evin yeşil alanı",
+      "answer": "BAHÇE"
     },
     {
       "number": 4,
       "direction": "across",
-      "row": 4,
-      "col": 3,
-      "length": 4,
-      "clue": "Bitki yapısı",
-      "answer": "SERA"
+      "row": 3,
+      "col": 4,
+      "length": 6,
+      "clue": "İçecek kabı",
+      "answer": "BARDAK"
     },
     {
       "number": 5,
       "direction": "across",
-      "row": 5,
-      "col": 6,
-      "length": 4,
-      "clue": "Ferahlatıcı bitki",
-      "answer": "NANE"
+      "row": 4,
+      "col": 0,
+      "length": 5,
+      "clue": "Zar masa oyunu",
+      "answer": "TAVLA"
     },
     {
-      "number": 6,
+      "number": 5,
       "direction": "down",
-      "row": 6,
-      "col": 3,
-      "length": 5,
-      "clue": "Yaşadığımız gezegen",
-      "answer": "DÜNYA"
+      "row": 4,
+      "col": 0,
+      "length": 4,
+      "clue": "Bağlama aracı",
+      "answer": "TOKA"
     },
     {
       "number": 6,
       "direction": "across",
-      "row": 6,
-      "col": 3,
+      "row": 5,
+      "col": 4,
       "length": 4,
-      "clue": "Sıkıntı, üzüntü",
-      "answer": "DERT"
+      "clue": "Ev, konut",
+      "answer": "HANE"
     },
     {
       "number": 7,
-      "direction": "down",
-      "row": 7,
-      "col": 1,
-      "length": 4,
-      "clue": "Yassı ekmek",
-      "answer": "PİDE"
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "length": 3,
+      "clue": "Kanatlı uçan hayvan",
+      "answer": "KUŞ"
     },
     {
       "number": 8,
       "direction": "across",
-      "row": 8,
-      "col": 1,
-      "length": 4,
-      "clue": "Sivri dikiş aracı",
-      "answer": "İĞNE"
-    },
-    {
-      "number": 9,
-      "direction": "down",
-      "row": 10,
-      "col": 0,
-      "length": 5,
-      "clue": "Seslerle sanat",
-      "answer": "MÜZİK"
-    },
-    {
-      "number": 9,
-      "direction": "across",
-      "row": 10,
-      "col": 0,
-      "length": 4,
-      "clue": "Otlak alan",
-      "answer": "MERA"
-    },
-    {
-      "number": 10,
-      "direction": "across",
-      "row": 12,
-      "col": 2,
-      "length": 4,
-      "clue": "Düz ince levha",
-      "answer": "KART"
-    },
-    {
-      "number": 11,
-      "direction": "down",
-      "row": 12,
+      "row": 7,
       "col": 3,
       "length": 4,
-      "clue": "Hafif olmayan",
-      "answer": "AĞIR"
-    },
-    {
-      "number": 12,
-      "direction": "down",
-      "row": 12,
-      "col": 5,
-      "length": 4,
-      "clue": "Bayat olmayan",
-      "answer": "TAZE"
-    },
-    {
-      "number": 13,
-      "direction": "across",
-      "row": 14,
-      "col": 0,
-      "length": 4,
-      "clue": "Toprak eşme",
-      "answer": "KAZI"
-    },
-    {
-      "number": 14,
-      "direction": "down",
-      "row": 14,
-      "col": 1,
-      "length": 4,
-      "clue": "Yemek pişiren",
-      "answer": "AŞÇI"
+      "clue": "Küçük yükselti",
+      "answer": "TEPE"
     }
   ]
 }

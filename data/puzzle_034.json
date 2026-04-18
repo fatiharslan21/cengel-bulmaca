@@ -2,19 +2,20 @@
   "id": 34,
   "title": "Bölüm 34",
   "difficulty": "Orta",
-  "grid_size_r": 15,
-  "grid_size_c": 10,
+  "grid_size_r": 9,
+  "grid_size_c": 11,
   "grid": [
     [
       0,
       0,
       0,
       0,
-      1,
+      0,
+      0,
+      0,
+      0,
       0,
       1,
-      0,
-      0,
       0
     ],
     [
@@ -22,32 +23,9 @@
       0,
       0,
       0,
-      1,
-      0,
-      1,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      1,
-      1,
-      1,
-      0,
-      1,
-      0,
-      0,
-      0
-    ],
-    [
       0,
       0,
       0,
-      1,
-      0,
-      1,
       1,
       1,
       1,
@@ -56,16 +34,6 @@
     [
       0,
       0,
-      1,
-      1,
-      1,
-      1,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
       0,
       0,
       0,
@@ -73,68 +41,7 @@
       0,
       1,
       0,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
       1,
-      0,
-      0,
-      1,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      1,
-      1,
-      1,
-      1,
-      1,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      1,
-      0,
-      0,
-      1,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      1,
-      1,
-      1,
-      0,
-      1,
-      0,
-      1,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      1,
-      1,
-      1,
-      1,
-      1,
-      0,
-      0,
       0
     ],
     [
@@ -143,6 +50,7 @@
       0,
       0,
       1,
+      0,
       0,
       1,
       0,
@@ -157,6 +65,20 @@
       1,
       0,
       1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
       0,
       0,
       0
@@ -166,7 +88,21 @@
       0,
       0,
       0,
+      1,
       0,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
       0,
       1,
       0,
@@ -174,6 +110,7 @@
       0
     ],
     [
+      0,
       0,
       0,
       0,
@@ -191,118 +128,91 @@
       "number": 1,
       "direction": "down",
       "row": 0,
-      "col": 4,
+      "col": 9,
       "length": 3,
-      "clue": "Tropikal meyve",
-      "answer": "MUZ"
+      "clue": "Dokuma kumaş parçası",
+      "answer": "BEZ"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 1,
+      "col": 7,
+      "length": 4,
+      "clue": "Yük hayvanı",
+      "answer": "EŞEK"
     },
     {
       "number": 2,
       "direction": "down",
-      "row": 0,
-      "col": 6,
+      "row": 1,
+      "col": 7,
       "length": 4,
-      "clue": "Felaket, kötülük",
-      "answer": "BELA"
+      "clue": "Buyruk, komut",
+      "answer": "EMİR"
     },
     {
       "number": 3,
+      "direction": "down",
+      "row": 3,
+      "col": 4,
+      "length": 5,
+      "clue": "Yenilebilen bitki",
+      "answer": "SEBZE"
+    },
+    {
+      "number": 4,
       "direction": "across",
-      "row": 2,
-      "col": 2,
-      "length": 3,
-      "clue": "Donmuş su",
-      "answer": "BUZ"
+      "row": 4,
+      "col": 6,
+      "length": 4,
+      "clue": "İstek, dilek",
+      "answer": "ARZU"
     },
     {
       "number": 4,
       "direction": "down",
-      "row": 2,
-      "col": 3,
+      "row": 4,
+      "col": 6,
       "length": 3,
-      "clue": "Yüce, büyük",
-      "answer": "ULU"
-    },
-    {
-      "number": 5,
-      "direction": "down",
-      "row": 3,
-      "col": 5,
-      "length": 6,
-      "clue": "Yırtıcı büyük kuş",
-      "answer": "KARTAL"
+      "clue": "Üstün karşıtı",
+      "answer": "ALT"
     },
     {
       "number": 5,
       "direction": "across",
-      "row": 3,
-      "col": 5,
-      "length": 5,
-      "clue": "Yemek aracı",
-      "answer": "KAŞIK"
+      "row": 5,
+      "col": 4,
+      "length": 3,
+      "clue": "Çok miktarda",
+      "answer": "BOL"
     },
     {
       "number": 6,
       "direction": "across",
-      "row": 4,
-      "col": 2,
+      "row": 6,
+      "col": 6,
       "length": 4,
-      "clue": "Ödül bardağı",
-      "answer": "KUPA"
+      "clue": "Adet, parça",
+      "answer": "TANE"
     },
     {
       "number": 7,
       "direction": "down",
       "row": 6,
-      "col": 2,
-      "length": 5,
-      "clue": "En küçük işaret",
-      "answer": "NOKTA"
+      "col": 7,
+      "length": 3,
+      "clue": "Benekli, alacalı",
+      "answer": "ALA"
     },
     {
       "number": 8,
       "direction": "across",
       "row": 7,
-      "col": 2,
-      "length": 5,
-      "clue": "Ağaçlık alan",
-      "answer": "ORMAN"
-    },
-    {
-      "number": 9,
-      "direction": "across",
-      "row": 9,
       "col": 0,
-      "length": 3,
-      "clue": "Beyaz besin sıvısı",
-      "answer": "SÜT"
-    },
-    {
-      "number": 10,
-      "direction": "down",
-      "row": 9,
-      "col": 4,
-      "length": 4,
-      "clue": "Görkemli yapı",
-      "answer": "ŞATO"
-    },
-    {
-      "number": 11,
-      "direction": "down",
-      "row": 9,
-      "col": 6,
       "length": 6,
-      "clue": "Ülke simgesi",
-      "answer": "BAYRAK"
-    },
-    {
-      "number": 12,
-      "direction": "across",
-      "row": 10,
-      "col": 2,
-      "length": 5,
-      "clue": "Dört tekerlekli taşıt",
-      "answer": "ARABA"
+      "clue": "Üst giysi",
+      "answer": "GÖMLEK"
     }
   ]
 }

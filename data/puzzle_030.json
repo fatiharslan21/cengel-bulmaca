@@ -2,8 +2,8 @@
   "id": 30,
   "title": "Bölüm 30",
   "difficulty": "Orta",
-  "grid_size_r": 10,
-  "grid_size_c": 12,
+  "grid_size_r": 12,
+  "grid_size_c": 10,
   "grid": [
     [
       0,
@@ -11,22 +11,6 @@
       0,
       0,
       0,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      0,
-      0,
-      1,
-      0,
       0,
       0,
       0,
@@ -37,12 +21,10 @@
       0,
       0,
       0,
-      1,
-      1,
-      1,
-      1,
       0,
-      1,
+      0,
+      0,
+      0,
       1,
       1,
       1
@@ -54,25 +36,9 @@
       0,
       0,
       0,
-      1,
-      0,
-      1,
-      0,
-      1,
-      0
-    ],
-    [
-      1,
-      1,
-      1,
-      1,
-      1,
-      0,
-      1,
-      1,
-      1,
       0,
       0,
+      1,
       0
     ],
     [
@@ -80,27 +46,23 @@
       0,
       0,
       0,
+      0,
       1,
       1,
       1,
-      0,
-      0,
-      0,
-      0,
+      1,
       0
     ],
     [
       0,
       0,
+      0,
+      0,
+      0,
+      0,
       1,
+      0,
       1,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
       0
     ],
     [
@@ -110,6 +72,52 @@
       1,
       0,
       0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      1,
+      0,
       0,
       0,
       0,
@@ -120,11 +128,9 @@
     [
       0,
       0,
+      1,
       0,
-      1,
-      1,
-      1,
-      1,
+      0,
       0,
       0,
       0,
@@ -134,9 +140,7 @@
     [
       0,
       0,
-      0,
       1,
-      0,
       0,
       0,
       0,
@@ -151,118 +155,91 @@
       "number": 1,
       "direction": "down",
       "row": 0,
-      "col": 5,
-      "length": 3,
-      "clue": "İnce parçacıklar",
-      "answer": "TOZ"
+      "col": 8,
+      "length": 5,
+      "clue": "El kol eklemi",
+      "answer": "BİLEK"
     },
     {
       "number": 2,
-      "direction": "down",
+      "direction": "across",
       "row": 1,
-      "col": 10,
+      "col": 7,
       "length": 3,
-      "clue": "Tatlının zıttı",
-      "answer": "ACI"
+      "clue": "Çiğneme organı",
+      "answer": "DİŞ"
     },
     {
       "number": 3,
       "direction": "across",
-      "row": 2,
-      "col": 3,
+      "row": 3,
+      "col": 5,
       "length": 4,
-      "clue": "Çiçek süs kabı",
-      "answer": "VAZO"
+      "clue": "Küçük akarsu",
+      "answer": "DERE"
     },
     {
       "number": 4,
       "direction": "down",
-      "row": 2,
+      "row": 3,
       "col": 6,
-      "length": 4,
-      "clue": "Silahlı kuvvetler",
-      "answer": "ORDU"
-    },
-    {
-      "number": 5,
-      "direction": "across",
-      "row": 2,
-      "col": 8,
-      "length": 4,
-      "clue": "Karanlık zaman",
-      "answer": "GECE"
+      "length": 5,
+      "clue": "En sert taş",
+      "answer": "ELMAS"
     },
     {
       "number": 5,
       "direction": "down",
-      "row": 2,
-      "col": 8,
+      "row": 5,
+      "col": 3,
       "length": 3,
-      "clue": "Yaklaşma eylemi",
-      "answer": "GEL"
+      "clue": "İğneyle süsleme",
+      "answer": "OYA"
     },
     {
       "number": 6,
-      "direction": "across",
-      "row": 4,
+      "direction": "down",
+      "row": 6,
       "col": 0,
-      "length": 5,
-      "clue": "Ambalajlı koli",
-      "answer": "PAKET"
+      "length": 4,
+      "clue": "Yeşil alan",
+      "answer": "PARK"
     },
     {
       "number": 7,
-      "direction": "down",
-      "row": 4,
-      "col": 4,
-      "length": 3,
-      "clue": "Lezzet verici",
-      "answer": "TUZ"
+      "direction": "across",
+      "row": 6,
+      "col": 3,
+      "length": 4,
+      "clue": "Kuş evi",
+      "answer": "YUVA"
     },
     {
       "number": 8,
       "direction": "across",
-      "row": 4,
-      "col": 6,
-      "length": 3,
-      "clue": "Konuşma organı",
-      "answer": "DİL"
+      "row": 7,
+      "col": 0,
+      "length": 4,
+      "clue": "Yansıtıcı cam",
+      "answer": "AYNA"
     },
     {
       "number": 9,
-      "direction": "across",
-      "row": 5,
-      "col": 4,
-      "length": 3,
-      "clue": "Yüce, büyük",
-      "answer": "ULU"
+      "direction": "down",
+      "row": 7,
+      "col": 2,
+      "length": 5,
+      "clue": "Soluk alma verme",
+      "answer": "NEFES"
     },
     {
       "number": 10,
       "direction": "across",
-      "row": 6,
-      "col": 2,
-      "length": 3,
-      "clue": "Tropikal meyve",
-      "answer": "MUZ"
-    },
-    {
-      "number": 11,
-      "direction": "down",
-      "row": 6,
-      "col": 3,
+      "row": 7,
+      "col": 6,
       "length": 4,
-      "clue": "Yakın olmayan",
-      "answer": "UZAK"
-    },
-    {
-      "number": 12,
-      "direction": "across",
-      "row": 8,
-      "col": 3,
-      "length": 4,
-      "clue": "Av yapan kişi",
-      "answer": "AVCI"
+      "clue": "Rakam ifadesi",
+      "answer": "SAYI"
     }
   ]
 }
