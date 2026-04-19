@@ -42,11 +42,20 @@
    ve Firestore'a yazılır. Bu profesyonel bir kimlik doğrulama değildir;
    yarışma skorları için yeterli, ciddi kullanıcı verileri için değil.
    ───────────────────────────────────────────── */
-window.CB_FIREBASE_CONFIG = {
-    apiKey: "YOUR_API_KEY",
-    authDomain: "YOUR_PROJECT.firebaseapp.com",
-    projectId: "YOUR_PROJECT_ID",
-    storageBucket: "YOUR_PROJECT.appspot.com",
-    messagingSenderId: "YOUR_SENDER_ID",
-    appId: "YOUR_APP_ID"
+// Import the functions you need from the SDKs you need
+import { initializeApp } from "firebase/app";
+// TODO: Add SDKs for Firebase products that you want to use
+// https://firebase.google.com/docs/web/setup#available-libraries
+
+// Your web app's Firebase configuration
+const firebaseConfig = {
+  apiKey: "AIzaSyDpYRlDMBdbUC-_CpakNhJA0E6INvBB9v8",
+  authDomain: "cengel-88b2a.firebaseapp.com",
+  projectId: "cengel-88b2a",
+  storageBucket: "cengel-88b2a.firebasestorage.app",
+  messagingSenderId: "1014223942881",
+  appId: "1:1014223942881:web:14e952bbb2fdc9ce5ab3a0"
 };
+
+// Initialize Firebase
+const app = initializeApp(firebaseConfig);
