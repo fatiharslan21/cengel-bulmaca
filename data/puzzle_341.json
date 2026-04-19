@@ -156,7 +156,7 @@
       "row": 0,
       "col": 8,
       "length": 3,
-      "clue": "Günlük dilde Oyun küpü olarak bilinen kavram",
+      "clue": "Üzerinde nokta bulunan, oyunlarda atılan altı yüzlü küçük küp.",
       "answer": "ZAR"
     },
     {
@@ -165,7 +165,7 @@
       "row": 0,
       "col": 10,
       "length": 5,
-      "clue": "Günlük dilde İyilik ya da bağış olarak bilinen kavram",
+      "clue": "Karşılık beklemeden yapılan iyilik; bir büyüğün bahşettiği ihsan.",
       "answer": "LÜTUF"
     },
     {
@@ -174,7 +174,7 @@
       "row": 2,
       "col": 5,
       "length": 6,
-      "clue": "Günlük dilde Güç ya da kuvvet olarak bilinen kavram",
+      "clue": "Bir işi yapabilme gücü; insanda ya da doğada bulunan büyük kuvvet.",
       "answer": "KUDRET"
     },
     {
@@ -183,7 +183,7 @@
       "row": 2,
       "col": 5,
       "length": 6,
-      "clue": "Yük aracı karşılığı olarak kullanılan kelime",
+      "clue": "Uzun kasasında büyük yükler taşıyan, dört tekerlekten fazlası olan taşıt.",
       "answer": "KAMYON"
     },
     {
@@ -192,7 +192,7 @@
       "row": 2,
       "col": 7,
       "length": 3,
-      "clue": "Bulmacada Çiğneme organı karşılığını veren yanıt",
+      "clue": "Ağızda bulunan, yiyecekleri kopartıp öğütmeye yarayan sert beyaz yapı.",
       "answer": "DİŞ"
     },
     {
@@ -201,7 +201,7 @@
       "row": 3,
       "col": 2,
       "length": 4,
-      "clue": "İnsanların yaşadığı veya çalıştığı yapı",
+      "clue": "İnsanların içinde oturduğu ya da çalıştığı, taş ve betondan yapılmış yapı.",
       "answer": "BİNA"
     },
     {
@@ -210,7 +210,7 @@
       "row": 3,
       "col": 2,
       "length": 4,
-      "clue": "Günlük dilde Felaket ya da kötülük olarak bilinen kavram",
+      "clue": "İnsanın başına habersizce gelen ağır dert, büyük sıkıntı ya da musibet.",
       "answer": "BELA"
     },
     {
@@ -219,7 +219,7 @@
       "row": 5,
       "col": 0,
       "length": 4,
-      "clue": "Günlük dilde Düzen ya da oyun olarak bilinen kavram",
+      "clue": "Birini aldatmak için yapılan gizli düzen; dolap çevirme.",
       "answer": "HİLE"
     },
     {
@@ -228,7 +228,7 @@
       "row": 7,
       "col": 3,
       "length": 3,
-      "clue": "On yüzlük sayı anlamına gelen sözcük",
+      "clue": "Yüzlerin onunun bir araya gelmesiyle oluşan dört basamaklı sayı.",
       "answer": "BİN"
     },
     {
@@ -237,7 +237,7 @@
       "row": 7,
       "col": 4,
       "length": 4,
-      "clue": "Bildirme ya da hüküm anlamına gelen sözcük",
+      "clue": "Mahkemenin verdiği kararı bildiren, yazılı resmi belge.",
       "answer": "İLAM"
     }
   ]

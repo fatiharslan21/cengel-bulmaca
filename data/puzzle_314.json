@@ -130,7 +130,7 @@
       "row": 0,
       "col": 5,
       "length": 4,
-      "clue": "Çukur yemek kabı anlamına gelen sözcük",
+      "clue": "Çorba, salata ya da yoğurt konulan, yuvarlak ve çukur küçük yemek kabı.",
       "answer": "KASE"
     },
     {
@@ -139,7 +139,7 @@
       "row": 1,
       "col": 4,
       "length": 4,
-      "clue": "Amaç ya da maksat için kullanılan yaygın ifade",
+      "clue": "Bir işe girişirken göz önünde tutulan, ulaşılmak istenen son hedef.",
       "answer": "GAYE"
     },
     {
@@ -148,7 +148,7 @@
       "row": 2,
       "col": 0,
       "length": 3,
-      "clue": "Günlük dilde Bitki gövdesi olarak bilinen kavram",
+      "clue": "Bitkinin çiçek ya da yaprağını gövdeye bağlayan uzun ve ince bölüm.",
       "answer": "SAP"
     },
     {
@@ -157,7 +157,7 @@
       "row": 3,
       "col": 4,
       "length": 5,
-      "clue": "Bulmacada Hüzün ya da usanç karşılığını veren yanıt",
+      "clue": "İçe işleyen hafif hüzün; kimseye belli edilmeyen sessiz usanç.",
       "answer": "MELAL"
     },
     {
@@ -166,7 +166,7 @@
       "row": 3,
       "col": 4,
       "length": 5,
-      "clue": "Günlük dilde Yer ya da konum olarak bilinen kavram",
+      "clue": "Bir kimsenin toplumdaki yeri, konumu ya da makamı.",
       "answer": "MEVKİ"
     },
     {
@@ -175,7 +175,7 @@
       "row": 3,
       "col": 7,
       "length": 3,
-      "clue": "Yakışıklı ya da gösterişli anlamına gelen sözcük",
+      "clue": "Halk ağzında yakışıklı, gösterişli kimse için kullanılan eski bir sözcük.",
       "answer": "AFİ"
     },
     {
@@ -184,7 +184,7 @@
       "row": 4,
       "col": 0,
       "length": 5,
-      "clue": "Pencereyi örtmek için asılan kumaş",
+      "clue": "Pencereyi örtmek için asılan, ışığı ve dışarıdan görünmeyi engelleyen kumaş.",
       "answer": "PERDE"
     },
     {
@@ -193,7 +193,7 @@
       "row": 5,
       "col": 6,
       "length": 5,
-      "clue": "Bulmacada Gemi barınağı karşılığını veren yanıt",
+      "clue": "Gemilerin yük boşalttığı, fırtınadan korunarak demirlediği deniz kıyısı.",
       "answer": "LİMAN"
     },
     {
@@ -202,7 +202,7 @@
       "row": 5,
       "col": 9,
       "length": 4,
-      "clue": "Bulmacada Yansıtıcı cam karşılığını veren yanıt",
+      "clue": "Karşısına geçenin görüntüsünü aynen yansıtan sırlanmış cam yüzey.",
       "answer": "AYNA"
     },
     {
@@ -211,7 +211,7 @@
       "row": 6,
       "col": 2,
       "length": 3,
-      "clue": "Bulmacada Adalet ya da doğruluk karşılığını veren yanıt",
+      "clue": "Kişinin yasal olarak sahip olduğu; alması ya da yapması gereken şey.",
       "answer": "HAK"
     }
   ]

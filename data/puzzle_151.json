@@ -112,7 +112,7 @@
       "row": 0,
       "col": 4,
       "length": 4,
-      "clue": "Bulmacada Sanat yapıtı karşılığını veren yanıt",
+      "clue": "Bir sanatçının ya da yazarın ortaya koyduğu özgün yapıt.",
       "answer": "ESER"
     },
     {
@@ -121,7 +121,7 @@
       "row": 1,
       "col": 2,
       "length": 6,
-      "clue": "Daire çevresi anlamına gelen sözcük",
+      "clue": "Bir merkezden eşit uzaklıktaki noktaların oluşturduğu kapalı eğri.",
       "answer": "ÇEMBER"
     },
     {
@@ -130,7 +130,7 @@
       "row": 3,
       "col": 1,
       "length": 4,
-      "clue": "Yaşam süresi karşılığı olarak kullanılan kelime",
+      "clue": "Bir canlının doğumundan ölümüne kadar geçen toplam yaşam süresi.",
       "answer": "ÖMÜR"
     },
     {
@@ -139,7 +139,7 @@
       "row": 5,
       "col": 4,
       "length": 3,
-      "clue": "Günlük dilde Bitki gövdesi olarak bilinen kavram",
+      "clue": "Bitkinin çiçek ya da yaprağını gövdeye bağlayan uzun ve ince bölüm.",
       "answer": "SAP"
     },
     {
@@ -148,7 +148,7 @@
       "row": 5,
       "col": 5,
       "length": 3,
-      "clue": "Yakışıklı ya da gösterişli anlamına gelen sözcük",
+      "clue": "Halk ağzında yakışıklı, gösterişli kimse için kullanılan eski bir sözcük.",
       "answer": "AFİ"
     },
     {
@@ -157,7 +157,7 @@
       "row": 6,
       "col": 0,
       "length": 4,
-      "clue": "Anadolu halkı için kullanılan yaygın ifade",
+      "clue": "Anadolu ve çevresinde yaşayan, Orta Asya kökenli büyük millet.",
       "answer": "TÜRK"
     },
     {
@@ -166,7 +166,7 @@
       "row": 6,
       "col": 3,
       "length": 3,
-      "clue": "Seramik toprağı karşılığı olarak kullanılan kelime",
+      "clue": "Çanak çömlek yapımında kullanılan, suyla yumuşayan yapışkan toprak.",
       "answer": "KİL"
     },
     {
@@ -175,7 +175,7 @@
       "row": 7,
       "col": 3,
       "length": 3,
-      "clue": "Kötünün zıttı karşılığı olarak kullanılan kelime",
+      "clue": "Hoşa giden, yararlı ve olumlu olan; kötünün tam karşıtı olan nitelik.",
       "answer": "İYİ"
     },
     {
@@ -184,7 +184,7 @@
       "row": 8,
       "col": 1,
       "length": 3,
-      "clue": "Arı ürünü tatlı için kullanılan yaygın ifade",
+      "clue": "Arıların çiçeklerden topladığı nektarı işleyerek yaptığı koyu, tatlı gıda.",
       "answer": "BAL"
     },
     {
@@ -193,7 +193,7 @@
       "row": 8,
       "col": 2,
       "length": 3,
-      "clue": "Bulmacada Koruyucu ilaç karşılığını veren yanıt",
+      "clue": "Bir hastalığa karşı bağışıklık kazandırmak için vücuda verilen ilaç.",
       "answer": "AŞI"
     }
   ]

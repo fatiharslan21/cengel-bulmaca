@@ -104,7 +104,7 @@
       "row": 0,
       "col": 4,
       "length": 3,
-      "clue": "Günlük dilde Güç ya da kolay değil olarak bilinen kavram",
+      "clue": "Üstesinden gelinmesi emek isteyen; kolayın tam karşıtı sayılan güç iş.",
       "answer": "ZOR"
     },
     {
@@ -113,7 +113,7 @@
       "row": 0,
       "col": 5,
       "length": 3,
-      "clue": "Bulmacada Ev bölümü karşılığını veren yanıt",
+      "clue": "Bir evin ya da binanın duvarlarla ayrılmış, belirli amaçla kullanılan bölümü.",
       "answer": "ODA"
     },
     {
@@ -122,7 +122,7 @@
       "row": 1,
       "col": 1,
       "length": 4,
-      "clue": "Bulmacada Yassı ekmek karşılığını veren yanıt",
+      "clue": "Fırında pişirilen, üstüne malzeme serilen, ince ve yassı hamur işi.",
       "answer": "PİDE"
     },
     {
@@ -131,7 +131,7 @@
       "row": 2,
       "col": 0,
       "length": 3,
-      "clue": "Konuşma organı anlamına gelen sözcük",
+      "clue": "Ağız içindeki kaslı organ; aynı zamanda insanların konuşarak anlaştığı sistem.",
       "answer": "DİL"
     },
     {
@@ -140,7 +140,7 @@
       "row": 2,
       "col": 4,
       "length": 4,
-      "clue": "Bulmacada Raylı taşıt karşılığını veren yanıt",
+      "clue": "Raylar üzerinde hareket eden, vagonları çeken büyük motorlu araç.",
       "answer": "TREN"
     },
     {
@@ -149,7 +149,7 @@
       "row": 2,
       "col": 4,
       "length": 4,
-      "clue": "Biçim ya da üslup için kullanılan yaygın ifade",
+      "clue": "Bir kişinin ya da akımın kendine özgü yapma biçimi; üslup.",
       "answer": "TARZ"
     },
     {
@@ -158,7 +158,7 @@
       "row": 2,
       "col": 7,
       "length": 5,
-      "clue": "En yüksek nokta karşılığı olarak kullanılan kelime",
+      "clue": "Bir dağın en yüksek noktası; ulaşılabilecek en üst basamak.",
       "answer": "ZİRVE"
     },
     {
@@ -167,7 +167,7 @@
       "row": 4,
       "col": 0,
       "length": 6,
-      "clue": "Günlük dilde Saç kesen esnaf olarak bilinen kavram",
+      "clue": "Erkeklerin saçını kesip sakalını düzelten, dükkânında çalışan esnaf.",
       "answer": "BERBER"
     },
     {
@@ -176,7 +176,7 @@
       "row": 4,
       "col": 0,
       "length": 3,
-      "clue": "Uzunluk ya da endam için kullanılan yaygın ifade",
+      "clue": "İnsanın başından ayağına kadar olan uzunluğu; endam ya da kamet.",
       "answer": "BOY"
     },
     {
@@ -185,7 +185,7 @@
       "row": 6,
       "col": 6,
       "length": 5,
-      "clue": "Tatlı madde için kullanılan yaygın ifade",
+      "clue": "Kamıştan ya da pancardan elde edilen; çay ve tatlılara katılan tatlı madde.",
       "answer": "ŞEKER"
     }
   ]

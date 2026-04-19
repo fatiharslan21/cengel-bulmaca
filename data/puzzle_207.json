@@ -139,7 +139,7 @@
       "row": 0,
       "col": 10,
       "length": 6,
-      "clue": "Konular listesi için kullanılan yaygın ifade",
+      "clue": "Bir toplantıda ya da günde ele alınacak konuların sıralı listesi.",
       "answer": "GÜNDEM"
     },
     {
@@ -148,7 +148,7 @@
       "row": 1,
       "col": 8,
       "length": 3,
-      "clue": "Birinci ya da baştaki anlamına gelen sözcük",
+      "clue": "Bir sıranın en başında bulunan; sondan önce hiçbir şey olmayan sırada birinci.",
       "answer": "İLK"
     },
     {
@@ -157,7 +157,7 @@
       "row": 2,
       "col": 3,
       "length": 4,
-      "clue": "Zaman aralığı için kullanılan yaygın ifade",
+      "clue": "Bir olayın başlangıcı ile sonu arasında geçen zaman aralığı.",
       "answer": "SÜRE"
     },
     {
@@ -166,7 +166,7 @@
       "row": 2,
       "col": 3,
       "length": 6,
-      "clue": "Günlük dilde Kürekli tekne olarak bilinen kavram",
+      "clue": "İnsan ya da kürek gücüyle suda yol alan küçük açık deniz teknesi.",
       "answer": "SANDAL"
     },
     {
@@ -175,7 +175,7 @@
       "row": 3,
       "col": 8,
       "length": 4,
-      "clue": "Miyavlayan evcil anlamına gelen sözcük",
+      "clue": "Miyavlayarak seslenen, pençeleri keskin, evlerde beslenen tüylü memeli hayvan.",
       "answer": "KEDİ"
     },
     {
@@ -184,7 +184,7 @@
       "row": 4,
       "col": 1,
       "length": 5,
-      "clue": "Bulmacada Seslerle sanat karşılığını veren yanıt",
+      "clue": "Seslerin belli bir düzen içinde bir araya getirilmesiyle oluşan sanat.",
       "answer": "MÜZİK"
     },
     {
@@ -193,7 +193,7 @@
       "row": 4,
       "col": 1,
       "length": 3,
-      "clue": "Eflatun renk için kullanılan yaygın ifade",
+      "clue": "Kırmızı ile mavinin karışımından elde edilen, menekşe renginde koyu ton.",
       "answer": "MOR"
     },
     {
@@ -202,7 +202,7 @@
       "row": 4,
       "col": 6,
       "length": 3,
-      "clue": "Kaygan besin karşılığı olarak kullanılan kelime",
+      "clue": "Bitkilerden ya da hayvanlardan elde edilen; suda çözünmeyen kaygan madde.",
       "answer": "YAĞ"
     },
     {
@@ -211,7 +211,7 @@
       "row": 5,
       "col": 3,
       "length": 5,
-      "clue": "En sert taş karşılığı olarak kullanılan kelime",
+      "clue": "Doğada bulunan en sert madde; takılarda kullanılan değerli kıymetli taş.",
       "answer": "ELMAS"
     },
     {
@@ -220,7 +220,7 @@
       "row": 7,
       "col": 0,
       "length": 3,
-      "clue": "Bulmacada Bahçe engeli karşılığını veren yanıt",
+      "clue": "Bahçeyi ya da tarlayı çevreleyen, tahta veya telden yapılmış alçak engel.",
       "answer": "ÇİT"
     }
   ]

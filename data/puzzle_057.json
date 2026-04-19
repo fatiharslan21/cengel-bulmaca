@@ -113,7 +113,7 @@
       "row": 0,
       "col": 5,
       "length": 3,
-      "clue": "Evin çatısı anlamına gelen sözcük",
+      "clue": "Yapının üstünü kapatan, yağmurdan ve güneşten koruyan çatı kısmı.",
       "answer": "DAM"
     },
     {
@@ -122,7 +122,7 @@
       "row": 1,
       "col": 3,
       "length": 5,
-      "clue": "Günlük dilde Bilimsel test olarak bilinen kavram",
+      "clue": "Bir varsayımı doğrulamak amacıyla yapılan, kontrollü bilimsel çalışma.",
       "answer": "DENEY"
     },
     {
@@ -131,7 +131,7 @@
       "row": 2,
       "col": 3,
       "length": 5,
-      "clue": "Temel buğday gıdası anlamına gelen sözcük",
+      "clue": "Undan mayalanıp fırında pişirilerek yapılan, sofranın temel besini.",
       "answer": "EKMEK"
     },
     {
@@ -140,7 +140,7 @@
       "row": 2,
       "col": 7,
       "length": 3,
-      "clue": "Yanık kalıntısı için kullanılan yaygın ifade",
+      "clue": "Bir şeyin yanıp bitmesinin ardından geriye kalan kurumuş toz madde.",
       "answer": "KÜL"
     },
     {
@@ -149,7 +149,7 @@
       "row": 4,
       "col": 0,
       "length": 4,
-      "clue": "Kalın olmayan anlamına gelen sözcük",
+      "clue": "Kalınlığı az olan; zarif ve narin yapıda bulunan; kalının karşıtı.",
       "answer": "İNCE"
     },
     {
@@ -158,7 +158,7 @@
       "row": 5,
       "col": 3,
       "length": 3,
-      "clue": "Bulmacada Rüzgar ya da esinti karşılığını veren yanıt",
+      "clue": "Havanın bir yönden diğerine doğru hissedilebilir akışı; rüzgâr.",
       "answer": "YEL"
     },
     {
@@ -167,7 +167,7 @@
       "row": 5,
       "col": 4,
       "length": 4,
-      "clue": "Kullanılan nesneler anlamına gelen sözcük",
+      "clue": "Evde ya da iş yerinde gündelik hayatta kullanılan nesnelerin tümü.",
       "answer": "EŞYA"
     },
     {
@@ -176,7 +176,7 @@
       "row": 7,
       "col": 2,
       "length": 5,
-      "clue": "Günlük dilde Ölçü ya da ebat olarak bilinen kavram",
+      "clue": "Bir cismin uzunluk, genişlik ve yükseklik gibi ölçülebilen özelliği.",
       "answer": "BOYUT"
     },
     {
@@ -185,7 +185,7 @@
       "row": 7,
       "col": 2,
       "length": 3,
-      "clue": "Günlük dilde Üzüm bahçesi olarak bilinen kavram",
+      "clue": "Üzüm yetiştirilen tarla; aynı zamanda düğümle tutturma eylemi.",
       "answer": "BAĞ"
     }
   ]

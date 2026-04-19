@@ -103,7 +103,7 @@
       "row": 0,
       "col": 2,
       "length": 4,
-      "clue": "Bulmacada Yazılmış metin karşılığını veren yanıt",
+      "clue": "Kalemin kâğıda bıraktığı; harflerden oluşan okunabilir işaretler.",
       "answer": "YAZI"
     },
     {
@@ -112,7 +112,7 @@
       "row": 0,
       "col": 4,
       "length": 5,
-      "clue": "Ani vuruş anlamına gelen sözcük",
+      "clue": "Ani ve sert bir hareketle yapılan vuruş; çarpma sonucu alınan sarsıntı.",
       "answer": "DARBE"
     },
     {
@@ -121,7 +121,7 @@
       "row": 0,
       "col": 4,
       "length": 4,
-      "clue": "Üçten sonra gelen için kullanılan yaygın ifade",
+      "clue": "Üçten sonra gelen, mevsim ve yön sayısına denk gelen doğal sayı.",
       "answer": "DÖRT"
     },
     {
@@ -130,7 +130,7 @@
       "row": 0,
       "col": 7,
       "length": 3,
-      "clue": "Aynı özellikleri taşıyan canlı grubu",
+      "clue": "Aynı ortak özellikleri taşıyan canlıların oluşturduğu sınıflama birimi.",
       "answer": "TÜR"
     },
     {
@@ -139,7 +139,7 @@
       "row": 1,
       "col": 2,
       "length": 3,
-      "clue": "Dört tarafı suyla çevrili kara",
+      "clue": "Dört bir yanı suyla çevrili, denizin ortasında kalmış toprak parçası.",
       "answer": "ADA"
     },
     {
@@ -148,7 +148,7 @@
       "row": 3,
       "col": 6,
       "length": 3,
-      "clue": "Günlük dilde Bitki gövdesi olarak bilinen kavram",
+      "clue": "Bitkinin çiçek ya da yaprağını gövdeye bağlayan uzun ve ince bölüm.",
       "answer": "SAP"
     },
     {
@@ -157,7 +157,7 @@
       "row": 4,
       "col": 3,
       "length": 4,
-      "clue": "Günlük dilde Kez ya da kere olarak bilinen kavram",
+      "clue": "Bir olayın kaçıncı kez yaşandığını anlatmak için kullanılan kez sözcüğü.",
       "answer": "DEFA"
     },
     {
@@ -166,7 +166,7 @@
       "row": 4,
       "col": 3,
       "length": 5,
-      "clue": "Günlük dilde Bilimsel test olarak bilinen kavram",
+      "clue": "Bir varsayımı doğrulamak amacıyla yapılan, kontrollü bilimsel çalışma.",
       "answer": "DENEY"
     },
     {
@@ -175,7 +175,7 @@
       "row": 6,
       "col": 0,
       "length": 4,
-      "clue": "Bulmacada Eğlence faaliyeti karşılığını veren yanıt",
+      "clue": "Boş zamanlarda eğlence ya da öğrenme amacıyla kurallara göre oynanan etkinlik.",
       "answer": "OYUN"
     }
   ]

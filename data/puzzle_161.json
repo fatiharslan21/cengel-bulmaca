@@ -145,7 +145,7 @@
       "row": 0,
       "col": 2,
       "length": 4,
-      "clue": "Yemek pişiren karşılığı olarak kullanılan kelime",
+      "clue": "Mutfakta yemek pişirmeyi meslek edinmiş, lezzetten anlayan kişi.",
       "answer": "AŞÇI"
     },
     {
@@ -154,7 +154,7 @@
       "row": 0,
       "col": 4,
       "length": 6,
-      "clue": "Okyanus memelisi için kullanılan yaygın ifade",
+      "clue": "Okyanuslarda yaşayan, dünyanın en büyük sayılan memeli deniz canlısı.",
       "answer": "BALİNA"
     },
     {
@@ -163,7 +163,7 @@
       "row": 1,
       "col": 4,
       "length": 4,
-      "clue": "İstek ya da dilek için kullanılan yaygın ifade",
+      "clue": "İçten duyulan istek, gönülden beklenen dilek veya özlem.",
       "answer": "ARZU"
     },
     {
@@ -172,7 +172,7 @@
       "row": 2,
       "col": 2,
       "length": 3,
-      "clue": "Kurak kumluk arazi anlamına gelen sözcük",
+      "clue": "Yağış almadığı için kum ve kayalarla kaplı, bitkisi çok seyrek olan bölge.",
       "answer": "ÇÖL"
     },
     {
@@ -181,7 +181,7 @@
       "row": 3,
       "col": 6,
       "length": 3,
-      "clue": "Tropikal meyve karşılığı olarak kullanılan kelime",
+      "clue": "Sarı kabuklu, uzun, yumuşak iç gövdeli tropikal meyve.",
       "answer": "MUZ"
     },
     {
@@ -190,7 +190,7 @@
       "row": 3,
       "col": 6,
       "length": 4,
-      "clue": "Günlük dilde Yemek mobilyası olarak bilinen kavram",
+      "clue": "Üzerinde yemek yemek ya da çalışmak için kullanılan ayaklı düz mobilya.",
       "answer": "MASA"
     },
     {
@@ -199,7 +199,7 @@
       "row": 5,
       "col": 1,
       "length": 6,
-      "clue": "Yırtıcı büyük kuş için kullanılan yaygın ifade",
+      "clue": "Geniş kanatlarıyla yükseklerde süzülen, keskin gözlü yırtıcı büyük kuş.",
       "answer": "KARTAL"
     },
     {
@@ -208,7 +208,7 @@
       "row": 5,
       "col": 3,
       "length": 4,
-      "clue": "Biçim ya da üslup için kullanılan yaygın ifade",
+      "clue": "Bir kişinin ya da akımın kendine özgü yapma biçimi; üslup.",
       "answer": "TARZ"
     },
     {
@@ -217,7 +217,7 @@
       "row": 5,
       "col": 3,
       "length": 3,
-      "clue": "Bulmacada Hekimlik bilimi karşılığını veren yanıt",
+      "clue": "Hastalıkların tanısı ve iyileştirilmesiyle uğraşan hekimlik bilim dalı.",
       "answer": "TIP"
     },
     {
@@ -226,7 +226,7 @@
       "row": 6,
       "col": 0,
       "length": 4,
-      "clue": "Altın rengi için kullanılan yaygın ifade",
+      "clue": "Limon ve altın tonlarında olan, güneşi çağrıştıran canlı sıcak renk.",
       "answer": "SARI"
     }
   ]

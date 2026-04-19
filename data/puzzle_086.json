@@ -123,7 +123,7 @@
       "row": 0,
       "col": 4,
       "length": 5,
-      "clue": "Yemek kabı anlamına gelen sözcük",
+      "clue": "Yemeklerin servis edildiği, yuvarlak ve yassı porselen ya da cam kap.",
       "answer": "TABAK"
     },
     {
@@ -132,7 +132,7 @@
       "row": 1,
       "col": 1,
       "length": 4,
-      "clue": "Kötü ya da berbat karşılığı olarak kullanılan kelime",
+      "clue": "Niteliği kötü olan, insanın içini bunaltan; iyi sözcüğünün zıttı.",
       "answer": "FENA"
     },
     {
@@ -141,7 +141,7 @@
       "row": 3,
       "col": 6,
       "length": 5,
-      "clue": "Günlük dilde Bitkinin ürünü olarak bilinen kavram",
+      "clue": "Bitkinin çiçeğinin olgunlaşmasıyla oluşan, genellikle yenilebilir ürün.",
       "answer": "MEYVE"
     },
     {
@@ -150,7 +150,7 @@
       "row": 4,
       "col": 0,
       "length": 5,
-      "clue": "Yenilebilen bitki için kullanılan yaygın ifade",
+      "clue": "Mutfağa giren, bitki kökleri ve yapraklarından oluşan yenilebilir besin.",
       "answer": "SEBZE"
     },
     {
@@ -159,7 +159,7 @@
       "row": 4,
       "col": 2,
       "length": 3,
-      "clue": "Aynı özellikleri taşıyan canlı grubu",
+      "clue": "Aynı ortak özellikleri taşıyan canlıların oluşturduğu sınıflama birimi.",
       "answer": "TÜR"
     },
     {
@@ -168,7 +168,7 @@
       "row": 4,
       "col": 2,
       "length": 5,
-      "clue": "Küçük deniz taşıtı anlamına gelen sözcük",
+      "clue": "Yelkenli ya da motorlu olup denizde kısa yolculuklara çıkan küçük gemi.",
       "answer": "TEKNE"
     },
     {
@@ -177,7 +177,7 @@
       "row": 6,
       "col": 0,
       "length": 3,
-      "clue": "İlk doğal sayı için kullanılan yaygın ifade",
+      "clue": "Sayıların başlangıcı olan, tek adedi gösteren ilk doğal rakam.",
       "answer": "BİR"
     },
     {
@@ -186,7 +186,7 @@
       "row": 6,
       "col": 4,
       "length": 5,
-      "clue": "Bulmacada Öğrenilen her şey karşılığını veren yanıt",
+      "clue": "Okuyarak, yaşayarak ya da öğrenerek elde edilen her türlü öğrenim ürünü.",
       "answer": "BİLGİ"
     },
     {
@@ -195,7 +195,7 @@
       "row": 7,
       "col": 4,
       "length": 4,
-      "clue": "Böcekten kumaş anlamına gelen sözcük",
+      "clue": "Kozadan elde edilen, parlak dokulu ve dayanıklı, değerli kumaş lifi.",
       "answer": "İPEK"
     }
   ]

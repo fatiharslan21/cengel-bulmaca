@@ -121,7 +121,7 @@
       "row": 0,
       "col": 2,
       "length": 4,
-      "clue": "Günlük dilde Yanlış ya da kusur olarak bilinen kavram",
+      "clue": "İstemeden yapılan yanlış; doğru olandan sapmanın yol açtığı kusur.",
       "answer": "HATA"
     },
     {
@@ -130,7 +130,7 @@
       "row": 1,
       "col": 2,
       "length": 4,
-      "clue": "İstek ya da dilek için kullanılan yaygın ifade",
+      "clue": "İçten duyulan istek, gönülden beklenen dilek veya özlem.",
       "answer": "ARZU"
     },
     {
@@ -139,7 +139,7 @@
       "row": 1,
       "col": 7,
       "length": 6,
-      "clue": "Üst giysi karşılığı olarak kullanılan kelime",
+      "clue": "Yakalı, düğmeli ve kollu olan, üstten giyilen ince kumaş giysi.",
       "answer": "GÖMLEK"
     },
     {
@@ -148,7 +148,7 @@
       "row": 1,
       "col": 7,
       "length": 3,
-      "clue": "Bulmacada Kuvvet ya da enerji karşılığını veren yanıt",
+      "clue": "Bir işi yapabilme yeteneği; fiziksel ya da manevi olarak sahip olunan kuvvet.",
       "answer": "GÜÇ"
     },
     {
@@ -157,7 +157,7 @@
       "row": 3,
       "col": 1,
       "length": 4,
-      "clue": "Günlük dilde Yemek mobilyası olarak bilinen kavram",
+      "clue": "Üzerinde yemek yemek ya da çalışmak için kullanılan ayaklı düz mobilya.",
       "answer": "MASA"
     },
     {
@@ -166,7 +166,7 @@
       "row": 3,
       "col": 4,
       "length": 5,
-      "clue": "Harita kitabı karşılığı olarak kullanılan kelime",
+      "clue": "Dünyanın farklı bölgelerini gösteren haritaların toplandığı büyük kitap.",
       "answer": "ATLAS"
     },
     {
@@ -175,7 +175,7 @@
       "row": 4,
       "col": 4,
       "length": 5,
-      "clue": "Ekin alanı anlamına gelen sözcük",
+      "clue": "Üzerinde buğday, arpa ya da sebze yetiştirilen sürülmüş geniş toprak.",
       "answer": "TARLA"
     },
     {
@@ -184,7 +184,7 @@
       "row": 5,
       "col": 1,
       "length": 4,
-      "clue": "Bağlama aracı anlamına gelen sözcük",
+      "clue": "Saçı ya da kemeri tutturmaya yarayan, klips gibi açılıp kapanan küçük süs.",
       "answer": "TOKA"
     },
     {
@@ -193,7 +193,7 @@
       "row": 6,
       "col": 1,
       "length": 5,
-      "clue": "Bulmacada Ağaçlık alan karşılığını veren yanıt",
+      "clue": "Geniş bir alana yayılmış, iç içe büyümüş ağaçlardan oluşan doğal yaşam.",
       "answer": "ORMAN"
     },
     {
@@ -202,7 +202,7 @@
       "row": 8,
       "col": 0,
       "length": 4,
-      "clue": "Günlük dilde Yeşil alan olarak bilinen kavram",
+      "clue": "Şehir içinde insanların dinlenip yürüdüğü, ağaçlıklı kamusal yeşil alan.",
       "answer": "PARK"
     }
   ]

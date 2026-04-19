@@ -125,7 +125,7 @@
       "row": 0,
       "col": 10,
       "length": 4,
-      "clue": "Günlük dilde Katlanır bıçak olarak bilinen kavram",
+      "clue": "Katlanabilen küçük bıçak; çoğunlukla cepte taşınan, sivri uçlu el aleti.",
       "answer": "ÇAKI"
     },
     {
@@ -134,7 +134,7 @@
       "row": 1,
       "col": 7,
       "length": 4,
-      "clue": "Altın rengi için kullanılan yaygın ifade",
+      "clue": "Limon ve altın tonlarında olan, güneşi çağrıştıran canlı sıcak renk.",
       "answer": "SARI"
     },
     {
@@ -143,7 +143,7 @@
       "row": 1,
       "col": 7,
       "length": 5,
-      "clue": "Günün başı anlamına gelen sözcük",
+      "clue": "Güneşin doğmasıyla başlayıp öğleye kadar süren günün ilk dilimi.",
       "answer": "SABAH"
     },
     {
@@ -152,7 +152,7 @@
       "row": 2,
       "col": 5,
       "length": 3,
-      "clue": "Bulmacada Ev bölümü karşılığını veren yanıt",
+      "clue": "Bir evin ya da binanın duvarlarla ayrılmış, belirli amaçla kullanılan bölümü.",
       "answer": "ODA"
     },
     {
@@ -161,7 +161,7 @@
       "row": 4,
       "col": 5,
       "length": 3,
-      "clue": "Günlük dilde Bal yapan böcek olarak bilinen kavram",
+      "clue": "Çiçeklerden topladığı nektarı bala dönüştüren, iğneli küçük böcek.",
       "answer": "ARI"
     },
     {
@@ -170,7 +170,7 @@
       "row": 4,
       "col": 5,
       "length": 4,
-      "clue": "Yemek pişiren karşılığı olarak kullanılan kelime",
+      "clue": "Mutfakta yemek pişirmeyi meslek edinmiş, lezzetten anlayan kişi.",
       "answer": "AŞÇI"
     },
     {
@@ -179,7 +179,7 @@
       "row": 5,
       "col": 3,
       "length": 3,
-      "clue": "Günlük dilde Harici ya da dış yüzey olarak bilinen kavram",
+      "clue": "İçin karşıtı; bir şeyin çevresini gören, dışarıya bakan yüzü.",
       "answer": "DIŞ"
     },
     {
@@ -188,7 +188,7 @@
       "row": 5,
       "col": 3,
       "length": 3,
-      "clue": "Yön değiştir karşılığı olarak kullanılan kelime",
+      "clue": "Bulunduğun yerden geri çevril; ya da bir eksen etrafında hareket et.",
       "answer": "DÖN"
     },
     {
@@ -197,7 +197,7 @@
       "row": 6,
       "col": 5,
       "length": 3,
-      "clue": "Kurak kumluk arazi anlamına gelen sözcük",
+      "clue": "Yağış almadığı için kum ve kayalarla kaplı, bitkisi çok seyrek olan bölge.",
       "answer": "ÇÖL"
     },
     {
@@ -206,7 +206,7 @@
       "row": 7,
       "col": 0,
       "length": 4,
-      "clue": "Bulmacada Eğlence faaliyeti karşılığını veren yanıt",
+      "clue": "Boş zamanlarda eğlence ya da öğrenme amacıyla kurallara göre oynanan etkinlik.",
       "answer": "OYUN"
     }
   ]

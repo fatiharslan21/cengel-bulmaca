@@ -109,7 +109,7 @@
       "row": 0,
       "col": 4,
       "length": 5,
-      "clue": "Kutlama tatlısı anlamına gelen sözcük",
+      "clue": "Kat kat hamuru kremayla birleştirilen, doğum günlerinde kesilen tatlı.",
       "answer": "PASTA"
     },
     {
@@ -118,7 +118,7 @@
       "row": 0,
       "col": 6,
       "length": 3,
-      "clue": "Günlük dilde En soğuk mevsim olarak bilinen kavram",
+      "clue": "Yılın en soğuk, en karlı ve gündüzlerin en kısa olduğu dört mevsimden biri.",
       "answer": "KIŞ"
     },
     {
@@ -127,7 +127,7 @@
       "row": 1,
       "col": 3,
       "length": 4,
-      "clue": "Bodur ağaç anlamına gelen sözcük",
+      "clue": "Boyu kısa, dalları sık ve odunsu olan, çok dallı bodur bitki.",
       "answer": "ÇALI"
     },
     {
@@ -136,7 +136,7 @@
       "row": 3,
       "col": 7,
       "length": 5,
-      "clue": "Olgunluk için kullanılan yaygın ifade",
+      "clue": "Bir şeyin eksiksiz, kusursuz ve en üst düzeyde olgunlaşmış hali.",
       "answer": "KEMAL"
     },
     {
@@ -145,7 +145,7 @@
       "row": 4,
       "col": 1,
       "length": 3,
-      "clue": "İşitilen titreşim anlamına gelen sözcük",
+      "clue": "Kulağımıza ulaşan her türlü titreşim; konuşma ve müziğin temeli.",
       "answer": "SES"
     },
     {
@@ -154,7 +154,7 @@
       "row": 4,
       "col": 3,
       "length": 6,
-      "clue": "Güçlük ya da eziyet anlamına gelen sözcük",
+      "clue": "Bir işi başarmak için katlanılan güçlük; çekilen eziyet.",
       "answer": "ZAHMET"
     },
     {
@@ -163,7 +163,7 @@
       "row": 4,
       "col": 3,
       "length": 4,
-      "clue": "Günlük dilde Haz ya da keyif olarak bilinen kavram",
+      "clue": "Yapılan ya da tadılan şeyden alınan; insanın içini hoşnut eden keyif.",
       "answer": "ZEVK"
     },
     {
@@ -172,7 +172,7 @@
       "row": 4,
       "col": 5,
       "length": 4,
-      "clue": "Ses birimi için kullanılan yaygın ifade",
+      "clue": "Bir kelimeyi bir nefeste söyleyebildiğimiz en küçük ses birimi.",
       "answer": "HECE"
     },
     {
@@ -181,7 +181,7 @@
       "row": 5,
       "col": 0,
       "length": 4,
-      "clue": "Karanlık zaman anlamına gelen sözcük",
+      "clue": "Güneşin batmasından doğmasına kadar süren karanlık zaman dilimi.",
       "answer": "GECE"
     },
     {
@@ -190,7 +190,7 @@
       "row": 6,
       "col": 7,
       "length": 3,
-      "clue": "Günlük dilde Bal yapan böcek olarak bilinen kavram",
+      "clue": "Çiçeklerden topladığı nektarı bala dönüştüren, iğneli küçük böcek.",
       "answer": "ARI"
     }
   ]

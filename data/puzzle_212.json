@@ -101,7 +101,7 @@
       "row": 0,
       "col": 0,
       "length": 3,
-      "clue": "Giyside küçük kese karşılığı olarak kullanılan kelime",
+      "clue": "Pantolon ya da ceketin içine dikilmiş, ufak eşya konulan küçük kese.",
       "answer": "CEP"
     },
     {
@@ -110,7 +110,7 @@
       "row": 1,
       "col": 0,
       "length": 3,
-      "clue": "Tırnak törpüsü için kullanılan yaygın ifade",
+      "clue": "Metal ya da tırnak gibi sert yüzeyleri aşındırarak düzelten dişli alet.",
       "answer": "EĞE"
     },
     {
@@ -119,7 +119,7 @@
       "row": 1,
       "col": 2,
       "length": 4,
-      "clue": "Günlük dilde Buyruk ya da komut olarak bilinen kavram",
+      "clue": "Yetkili bir kimsenin yerine getirilmek üzere verdiği kesin buyruk.",
       "answer": "EMİR"
     },
     {
@@ -128,7 +128,7 @@
       "row": 1,
       "col": 5,
       "length": 4,
-      "clue": "Ayrım ya da değişiklik anlamına gelen sözcük",
+      "clue": "İki şeyin birbirinden ayrıldığı yön; aralarındaki benzemezlik.",
       "answer": "FARK"
     },
     {
@@ -137,7 +137,7 @@
       "row": 2,
       "col": 2,
       "length": 5,
-      "clue": "Hayal ürünü hikaye karşılığı olarak kullanılan kelime",
+      "clue": "Hayal ürünü kahramanların yer aldığı, 'bir varmış bir yokmuş'la başlayan öykü.",
       "answer": "MASAL"
     },
     {
@@ -146,7 +146,7 @@
       "row": 4,
       "col": 0,
       "length": 4,
-      "clue": "Günlük dilde İlerinin zıttı olarak bilinen kavram",
+      "clue": "İlerinin zıttı; arkaya ya da başlangıca doğru olan yön.",
       "answer": "GERİ"
     },
     {
@@ -155,7 +155,7 @@
       "row": 4,
       "col": 3,
       "length": 4,
-      "clue": "Sivri dikiş aracı anlamına gelen sözcük",
+      "clue": "Ucu sivri, arkası delikli; dikiş dikmek için ipliği geçiren ince metal araç.",
       "answer": "İĞNE"
     },
     {
@@ -164,7 +164,7 @@
       "row": 4,
       "col": 5,
       "length": 4,
-      "clue": "Günlük dilde Zarif su kuşu olarak bilinen kavram",
+      "clue": "Uzun beyaz boynuyla su yüzeyinde zarafetle süzülen büyük göl kuşu.",
       "answer": "KUĞU"
     },
     {
@@ -173,7 +173,7 @@
       "row": 4,
       "col": 6,
       "length": 3,
-      "clue": "Yüce ya da büyük anlamına gelen sözcük",
+      "clue": "Yüceliğiyle saygı uyandıran; hem büyük hem görkemli olan varlık.",
       "answer": "ULU"
     },
     {
@@ -182,7 +182,7 @@
       "row": 7,
       "col": 2,
       "length": 4,
-      "clue": "Ses birimi için kullanılan yaygın ifade",
+      "clue": "Bir kelimeyi bir nefeste söyleyebildiğimiz en küçük ses birimi.",
       "answer": "HECE"
     }
   ]

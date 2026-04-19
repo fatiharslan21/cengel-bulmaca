@@ -103,7 +103,7 @@
       "row": 0,
       "col": 3,
       "length": 4,
-      "clue": "Bulmacada Kırmızı meyve karşılığını veren yanıt",
+      "clue": "Kabuğu kırmızı, sarı ya da yeşil olabilen, sulu ve çıtır meyve.",
       "answer": "ELMA"
     },
     {
@@ -112,7 +112,7 @@
       "row": 3,
       "col": 3,
       "length": 4,
-      "clue": "Elektrik hareketi için kullanılan yaygın ifade",
+      "clue": "Belirli bir yönde hareket eden elektrik yükü ya da suyun sürüklenişi.",
       "answer": "AKIM"
     },
     {
@@ -121,7 +121,7 @@
       "row": 3,
       "col": 4,
       "length": 4,
-      "clue": "Bulmacada Ev bedeli karşılığını veren yanıt",
+      "clue": "Bir evin ya da iş yerinin kullanımı için sahibine ödenen aylık ücret.",
       "answer": "KIRA"
     },
     {
@@ -130,7 +130,7 @@
       "row": 4,
       "col": 1,
       "length": 4,
-      "clue": "Doku hasarı anlamına gelen sözcük",
+      "clue": "Bir kesik ya da darbe sonucu bedende oluşan açık doku hasarı.",
       "answer": "YARA"
     },
     {
@@ -139,7 +139,7 @@
       "row": 5,
       "col": 0,
       "length": 3,
-      "clue": "Sert kayaç parçası için kullanılan yaygın ifade",
+      "clue": "Toprağın içinden çıkan, sert ve ağır olan doğal kayaç parçası.",
       "answer": "TAŞ"
     },
     {
@@ -148,7 +148,7 @@
       "row": 6,
       "col": 3,
       "length": 4,
-      "clue": "Ses birimi için kullanılan yaygın ifade",
+      "clue": "Bir kelimeyi bir nefeste söyleyebildiğimiz en küçük ses birimi.",
       "answer": "HECE"
     },
     {
@@ -157,7 +157,7 @@
       "row": 6,
       "col": 3,
       "length": 3,
-      "clue": "Çizgi ya da yol anlamına gelen sözcük",
+      "clue": "Bir noktadan diğerine uzanan düz çizgi; yol ya da güzergâh.",
       "answer": "HAT"
     },
     {
@@ -166,7 +166,7 @@
       "row": 7,
       "col": 0,
       "length": 4,
-      "clue": "Günlük dilde Adet ya da parça olarak bilinen kavram",
+      "clue": "Sayılabilen nesnelerin her biri; küçük parça ya da adet.",
       "answer": "TANE"
     },
     {
@@ -175,7 +175,7 @@
       "row": 9,
       "col": 0,
       "length": 4,
-      "clue": "Sivri dikiş aracı anlamına gelen sözcük",
+      "clue": "Ucu sivri, arkası delikli; dikiş dikmek için ipliği geçiren ince metal araç.",
       "answer": "İĞNE"
     }
   ]

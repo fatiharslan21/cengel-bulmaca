@@ -153,7 +153,7 @@
       "row": 0,
       "col": 8,
       "length": 4,
-      "clue": "Çukur yemek kabı anlamına gelen sözcük",
+      "clue": "Çorba, salata ya da yoğurt konulan, yuvarlak ve çukur küçük yemek kabı.",
       "answer": "KASE"
     },
     {
@@ -162,7 +162,7 @@
       "row": 1,
       "col": 10,
       "length": 7,
-      "clue": "Hatıra ya da armağan için kullanılan yaygın ifade",
+      "clue": "Sevilen birinden hatıra kalan; onu anmamızı sağlayan değerli eşya.",
       "answer": "YADİGAR"
     },
     {
@@ -171,7 +171,7 @@
       "row": 3,
       "col": 5,
       "length": 4,
-      "clue": "Bağlama aracı anlamına gelen sözcük",
+      "clue": "Saçı ya da kemeri tutturmaya yarayan, klips gibi açılıp kapanan küçük süs.",
       "answer": "TOKA"
     },
     {
@@ -180,7 +180,7 @@
       "row": 3,
       "col": 7,
       "length": 3,
-      "clue": "Hayat ya da yaşam anlamına gelen sözcük",
+      "clue": "İnsanı yaşatan soluk, ruh; bedenin yaşamını sürdürmesini sağlayan güç.",
       "answer": "CAN"
     },
     {
@@ -189,7 +189,7 @@
       "row": 3,
       "col": 7,
       "length": 4,
-      "clue": "Bulmacada Çaba ya da gayret karşılığını veren yanıt",
+      "clue": "Bir işi başarmak için gösterilen büyük çaba, gayret ve çalışma.",
       "answer": "CEHD"
     },
     {
@@ -198,7 +198,7 @@
       "row": 4,
       "col": 4,
       "length": 4,
-      "clue": "Günlük dilde Renk veren madde olarak bilinen kavram",
+      "clue": "Bir yüzeye sürüldüğünde ona istenilen rengi veren sıvı ya da toz madde.",
       "answer": "BOYA"
     },
     {
@@ -207,7 +207,7 @@
       "row": 5,
       "col": 3,
       "length": 5,
-      "clue": "Bir şeyin etrafını kuşatan alan",
+      "clue": "Bir alanın ya da cismin dört bir yanını saran dış sınır; etraf.",
       "answer": "ÇEVRE"
     },
     {
@@ -216,7 +216,7 @@
       "row": 6,
       "col": 2,
       "length": 5,
-      "clue": "Bulmacada Hüzün ya da usanç karşılığını veren yanıt",
+      "clue": "İçe işleyen hafif hüzün; kimseye belli edilmeyen sessiz usanç.",
       "answer": "MELAL"
     },
     {
@@ -225,7 +225,7 @@
       "row": 6,
       "col": 9,
       "length": 3,
-      "clue": "Evin çatısı anlamına gelen sözcük",
+      "clue": "Yapının üstünü kapatan, yağmurdan ve güneşten koruyan çatı kısmı.",
       "answer": "DAM"
     },
     {
@@ -234,7 +234,7 @@
       "row": 8,
       "col": 0,
       "length": 5,
-      "clue": "Topluluk ya da küme için kullanılan yaygın ifade",
+      "clue": "Aynı ortak özellikleri paylaşan kişilerden oluşan topluluk; grup.",
       "answer": "ZÜMRE"
     }
   ]

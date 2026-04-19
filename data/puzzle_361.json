@@ -134,7 +134,7 @@
       "row": 0,
       "col": 3,
       "length": 6,
-      "clue": "Yırtıcı büyük kuş için kullanılan yaygın ifade",
+      "clue": "Geniş kanatlarıyla yükseklerde süzülen, keskin gözlü yırtıcı büyük kuş.",
       "answer": "KARTAL"
     },
     {
@@ -143,7 +143,7 @@
       "row": 1,
       "col": 2,
       "length": 3,
-      "clue": "Bulmacada Sıcak mevsim karşılığını veren yanıt",
+      "clue": "Dört mevsimin en sıcağı; okulların kapandığı, tatillerin geldiği zaman.",
       "answer": "YAZ"
     },
     {
@@ -152,7 +152,7 @@
       "row": 3,
       "col": 5,
       "length": 4,
-      "clue": "Bulmacada Toprak eşme karşılığını veren yanıt",
+      "clue": "Toprağın altında kalmış eski eserleri çıkarmak için yapılan eşme işi.",
       "answer": "KAZI"
     },
     {
@@ -161,7 +161,7 @@
       "row": 3,
       "col": 5,
       "length": 4,
-      "clue": "Günlük dilde Zarif su kuşu olarak bilinen kavram",
+      "clue": "Uzun beyaz boynuyla su yüzeyinde zarafetle süzülen büyük göl kuşu.",
       "answer": "KUĞU"
     },
     {
@@ -170,7 +170,7 @@
       "row": 4,
       "col": 3,
       "length": 3,
-      "clue": "Tek renk olmayan, benekli görünüm",
+      "clue": "Birden çok rengin bir arada bulunduğu, benekli ya da karışık görünüm.",
       "answer": "ALA"
     },
     {
@@ -179,7 +179,7 @@
       "row": 5,
       "col": 1,
       "length": 3,
-      "clue": "Yaklaşma eylemi karşılığı olarak kullanılan kelime",
+      "clue": "Bulunduğun yerden buraya doğru yaklaş; git sözcüğünün tam zıttı eylem.",
       "answer": "GEL"
     },
     {
@@ -188,7 +188,7 @@
       "row": 5,
       "col": 1,
       "length": 6,
-      "clue": "Konular listesi için kullanılan yaygın ifade",
+      "clue": "Bir toplantıda ya da günde ele alınacak konuların sıralı listesi.",
       "answer": "GÜNDEM"
     },
     {
@@ -197,7 +197,7 @@
       "row": 5,
       "col": 5,
       "length": 3,
-      "clue": "Günlük dilde Oyun küpü olarak bilinen kavram",
+      "clue": "Üzerinde nokta bulunan, oyunlarda atılan altı yüzlü küçük küp.",
       "answer": "ZAR"
     },
     {
@@ -206,7 +206,7 @@
       "row": 8,
       "col": 0,
       "length": 4,
-      "clue": "Terbiye ya da görgü karşılığı olarak kullanılan kelime",
+      "clue": "Görgü kurallarına uygun davranış; terbiyeli ve ölçülü olma hali.",
       "answer": "EDEP"
     },
     {
@@ -215,7 +215,7 @@
       "row": 10,
       "col": 1,
       "length": 4,
-      "clue": "Geçmiş zaman karşılığı olarak kullanılan kelime",
+      "clue": "Geride kalan zaman; yaşanmış olayların artık değiştirilemeyen bölümü.",
       "answer": "MAZİ"
     }
   ]

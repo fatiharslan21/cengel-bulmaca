@@ -109,7 +109,7 @@
       "row": 0,
       "col": 0,
       "length": 5,
-      "clue": "Bulmacada Kanatlı kutsal varlık karşılığını veren yanıt",
+      "clue": "Dinlerde iyilikle görevlendirilmiş, kanatlı olduğuna inanılan kutsal varlık.",
       "answer": "MELEK"
     },
     {
@@ -118,7 +118,7 @@
       "row": 0,
       "col": 0,
       "length": 5,
-      "clue": "Günlük dilde Bitkinin ürünü olarak bilinen kavram",
+      "clue": "Bitkinin çiçeğinin olgunlaşmasıyla oluşan, genellikle yenilebilir ürün.",
       "answer": "MEYVE"
     },
     {
@@ -127,7 +127,7 @@
       "row": 3,
       "col": 2,
       "length": 4,
-      "clue": "Bulmacada Kırmızı meyve karşılığını veren yanıt",
+      "clue": "Kabuğu kırmızı, sarı ya da yeşil olabilen, sulu ve çıtır meyve.",
       "answer": "ELMA"
     },
     {
@@ -136,7 +136,7 @@
       "row": 3,
       "col": 2,
       "length": 5,
-      "clue": "Vaktinden önce karşılığı olarak kullanılan kelime",
+      "clue": "Belirlenen vaktin öncesinde gelme; geç kalmanın tersi durumu.",
       "answer": "ERKEN"
     },
     {
@@ -145,7 +145,7 @@
       "row": 4,
       "col": 0,
       "length": 3,
-      "clue": "Yanık kalıntısı için kullanılan yaygın ifade",
+      "clue": "Bir şeyin yanıp bitmesinin ardından geriye kalan kurumuş toz madde.",
       "answer": "KÜL"
     },
     {
@@ -154,7 +154,7 @@
       "row": 4,
       "col": 9,
       "length": 3,
-      "clue": "Gizli bilgi için kullanılan yaygın ifade",
+      "clue": "Başkalarıyla paylaşılmayan; yalnızca bir kişinin bildiği gizli bilgi.",
       "answer": "SIR"
     },
     {
@@ -163,7 +163,7 @@
       "row": 5,
       "col": 4,
       "length": 3,
-      "clue": "Yüksek arazi şekli için kullanılan yaygın ifade",
+      "clue": "Çevresine göre belirgin biçimde yükselen, taşlık ve kayalık büyük arazi.",
       "answer": "DAĞ"
     },
     {
@@ -172,7 +172,7 @@
       "row": 5,
       "col": 6,
       "length": 3,
-      "clue": "Kaygan besin karşılığı olarak kullanılan kelime",
+      "clue": "Bitkilerden ya da hayvanlardan elde edilen; suda çözünmeyen kaygan madde.",
       "answer": "YAĞ"
     },
     {
@@ -181,7 +181,7 @@
       "row": 5,
       "col": 6,
       "length": 4,
-      "clue": "Bulmacada Yazılmış metin karşılığını veren yanıt",
+      "clue": "Kalemin kâğıda bıraktığı; harflerden oluşan okunabilir işaretler.",
       "answer": "YAZI"
     },
     {
@@ -190,7 +190,7 @@
       "row": 6,
       "col": 2,
       "length": 5,
-      "clue": "Bulmacada Dört tekerlekli taşıt karşılığını veren yanıt",
+      "clue": "Tekerlekleri üstünde insan ya da yük taşıyan motorlu kara taşıtı.",
       "answer": "ARABA"
     }
   ]

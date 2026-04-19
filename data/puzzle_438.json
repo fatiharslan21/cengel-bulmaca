@@ -157,7 +157,7 @@
       "row": 0,
       "col": 4,
       "length": 5,
-      "clue": "Kutlama tatlısı anlamına gelen sözcük",
+      "clue": "Kat kat hamuru kremayla birleştirilen, doğum günlerinde kesilen tatlı.",
       "answer": "PASTA"
     },
     {
@@ -166,7 +166,7 @@
       "row": 0,
       "col": 7,
       "length": 3,
-      "clue": "Bulmacada Adalet ya da doğruluk karşılığını veren yanıt",
+      "clue": "Kişinin yasal olarak sahip olduğu; alması ya da yapması gereken şey.",
       "answer": "HAK"
     },
     {
@@ -175,7 +175,7 @@
       "row": 1,
       "col": 4,
       "length": 6,
-      "clue": "Başkent karşılığı olarak kullanılan kelime",
+      "clue": "Türkiye Cumhuriyeti'nin başkenti ve İç Anadolu'nun en büyük şehri.",
       "answer": "ANKARA"
     },
     {
@@ -184,7 +184,7 @@
       "row": 2,
       "col": 0,
       "length": 5,
-      "clue": "Günlük dilde Uysal ya da yumuşak olarak bilinen kavram",
+      "clue": "Yumuşak huylu, kolay geçinilen; sert tavır göstermeyen uysal kimse.",
       "answer": "MUNİS"
     },
     {
@@ -193,7 +193,7 @@
       "row": 4,
       "col": 3,
       "length": 4,
-      "clue": "Ferahlatıcı bitki anlamına gelen sözcük",
+      "clue": "Serinletici kokusuyla tanınan, çaya ve yemeklere katılan yeşil yapraklı ot.",
       "answer": "NANE"
     },
     {
@@ -202,7 +202,7 @@
       "row": 4,
       "col": 6,
       "length": 4,
-      "clue": "Terbiye ya da görgü karşılığı olarak kullanılan kelime",
+      "clue": "Görgü kurallarına uygun davranış; terbiyeli ve ölçülü olma hali.",
       "answer": "EDEP"
     },
     {
@@ -211,7 +211,7 @@
       "row": 7,
       "col": 2,
       "length": 5,
-      "clue": "Sayfalardan eser karşılığı olarak kullanılan kelime",
+      "clue": "Sayfalardan oluşan, üzerine bilgi ya da hikâye yazılmış ciltli eser.",
       "answer": "KİTAP"
     },
     {
@@ -220,7 +220,7 @@
       "row": 7,
       "col": 4,
       "length": 5,
-      "clue": "İki yakayı birleştiren için kullanılan yaygın ifade",
+      "clue": "Bir nehrin ya da vadinin iki yakasını birbirine bağlayan geçit yapısı.",
       "answer": "KÖPRÜ"
     },
     {
@@ -229,7 +229,7 @@
       "row": 7,
       "col": 4,
       "length": 5,
-      "clue": "Günlük dilde Alın yazısı olarak bilinen kavram",
+      "clue": "İnsanın başına geleceği önceden yazıldığına inanılan alın yazısı.",
       "answer": "KADER"
     },
     {
@@ -238,7 +238,7 @@
       "row": 8,
       "col": 1,
       "length": 4,
-      "clue": "Günlük dilde Işık ya da aydınlık olarak bilinen kavram",
+      "clue": "Karanlığı dağıtan; göze hoş gelen aydınlatıcı parıltı.",
       "answer": "ZİYA"
     }
   ]

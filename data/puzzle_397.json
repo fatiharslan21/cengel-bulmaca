@@ -109,7 +109,7 @@
       "row": 0,
       "col": 3,
       "length": 4,
-      "clue": "Bulmacada Başarı karşılığı karşılığını veren yanıt",
+      "clue": "Başarı gösteren kimseye, çabasının karşılığı olarak verilen değerli armağan.",
       "answer": "ÖDÜL"
     },
     {
@@ -118,7 +118,7 @@
       "row": 0,
       "col": 9,
       "length": 5,
-      "clue": "Ani vuruş anlamına gelen sözcük",
+      "clue": "Ani ve sert bir hareketle yapılan vuruş; çarpma sonucu alınan sarsıntı.",
       "answer": "DARBE"
     },
     {
@@ -127,7 +127,7 @@
       "row": 1,
       "col": 0,
       "length": 6,
-      "clue": "Konular listesi için kullanılan yaygın ifade",
+      "clue": "Bir toplantıda ya da günde ele alınacak konuların sıralı listesi.",
       "answer": "GÜNDEM"
     },
     {
@@ -136,7 +136,7 @@
       "row": 1,
       "col": 5,
       "length": 5,
-      "clue": "Bulmacada Seslerle sanat karşılığını veren yanıt",
+      "clue": "Seslerin belli bir düzen içinde bir araya getirilmesiyle oluşan sanat.",
       "answer": "MÜZİK"
     },
     {
@@ -145,7 +145,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "Başlangıcı olmayan için kullanılan yaygın ifade",
+      "clue": "Başlangıcı bulunmayan, öncesi olmayan sonsuz geçmiş zaman.",
       "answer": "EZEL"
     },
     {
@@ -154,7 +154,7 @@
       "row": 3,
       "col": 2,
       "length": 5,
-      "clue": "Temel buğday gıdası anlamına gelen sözcük",
+      "clue": "Undan mayalanıp fırında pişirilerek yapılan, sofranın temel besini.",
       "answer": "EKMEK"
     },
     {
@@ -163,7 +163,7 @@
       "row": 3,
       "col": 7,
       "length": 5,
-      "clue": "Yemek kabı anlamına gelen sözcük",
+      "clue": "Yemeklerin servis edildiği, yuvarlak ve yassı porselen ya da cam kap.",
       "answer": "TABAK"
     },
     {
@@ -172,7 +172,7 @@
       "row": 4,
       "col": 4,
       "length": 6,
-      "clue": "Günlük dilde Anlatılan olay olarak bilinen kavram",
+      "clue": "Başı, ortası ve sonu olan; yaşanmış ya da kurmaca kısa anlatı.",
       "answer": "HİKAYE"
     },
     {
@@ -181,7 +181,7 @@
       "row": 6,
       "col": 0,
       "length": 4,
-      "clue": "Bulmacada Konaklama yeri karşılığını veren yanıt",
+      "clue": "Yolcuların ücret karşılığı geceyi geçirdiği, odaları olan konaklama işletmesi.",
       "answer": "OTEL"
     },
     {
@@ -190,7 +190,7 @@
       "row": 6,
       "col": 6,
       "length": 4,
-      "clue": "Bulmacada Yazılmış metin karşılığını veren yanıt",
+      "clue": "Kalemin kâğıda bıraktığı; harflerden oluşan okunabilir işaretler.",
       "answer": "YAZI"
     }
   ]

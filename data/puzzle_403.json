@@ -157,7 +157,7 @@
       "row": 0,
       "col": 3,
       "length": 5,
-      "clue": "Ezgi ya da tını anlamına gelen sözcük",
+      "clue": "Bir ezginin kulağa hoş gelen melodik sesi; tiz tatlı tını.",
       "answer": "NAĞME"
     },
     {
@@ -166,7 +166,7 @@
       "row": 1,
       "col": 2,
       "length": 3,
-      "clue": "Dairenin merkezinden geçen doğru parçası",
+      "clue": "Bir çemberin merkezinden geçerek onu iki eşit yaya bölen doğru parça.",
       "answer": "ÇAP"
     },
     {
@@ -175,7 +175,7 @@
       "row": 3,
       "col": 1,
       "length": 4,
-      "clue": "Günlük dilde Haz ya da keyif olarak bilinen kavram",
+      "clue": "Yapılan ya da tadılan şeyden alınan; insanın içini hoşnut eden keyif.",
       "answer": "ZEVK"
     },
     {
@@ -184,7 +184,7 @@
       "row": 4,
       "col": 0,
       "length": 4,
-      "clue": "Karanlık zaman anlamına gelen sözcük",
+      "clue": "Güneşin batmasından doğmasına kadar süren karanlık zaman dilimi.",
       "answer": "GECE"
     },
     {
@@ -193,7 +193,7 @@
       "row": 4,
       "col": 5,
       "length": 5,
-      "clue": "Topluluk ya da küme için kullanılan yaygın ifade",
+      "clue": "Aynı ortak özellikleri paylaşan kişilerden oluşan topluluk; grup.",
       "answer": "ZÜMRE"
     },
     {
@@ -202,7 +202,7 @@
       "row": 4,
       "col": 8,
       "length": 7,
-      "clue": "Gevşeklik anlamına gelen sözcük",
+      "clue": "Kasları çözülmüş gibi hissettiren ağır gevşeklik; uyuşukluk hali.",
       "answer": "REHAVET"
     },
     {
@@ -211,7 +211,7 @@
       "row": 6,
       "col": 1,
       "length": 5,
-      "clue": "Günlük dilde Yazı aleti olarak bilinen kavram",
+      "clue": "Ucundan mürekkep ya da grafit akıtarak kâğıda yazı yazmayı sağlayan araç.",
       "answer": "KALEM"
     },
     {
@@ -220,7 +220,7 @@
       "row": 7,
       "col": 5,
       "length": 5,
-      "clue": "Algılama sistemi karşılığı olarak kullanılan kelime",
+      "clue": "Radyo dalgalarını yollayıp yansımasını ölçerek uzaktaki nesneleri belirleyen sistem.",
       "answer": "RADAR"
     },
     {
@@ -229,7 +229,7 @@
       "row": 8,
       "col": 2,
       "length": 4,
-      "clue": "Bulmacada Bayat olmayan karşılığını veren yanıt",
+      "clue": "Yeni toplanmış, bayatlamamış; canlılığını yeni yeni yitirmemiş olan.",
       "answer": "TAZE"
     },
     {
@@ -238,7 +238,7 @@
       "row": 8,
       "col": 2,
       "length": 4,
-      "clue": "Bağlama aracı anlamına gelen sözcük",
+      "clue": "Saçı ya da kemeri tutturmaya yarayan, klips gibi açılıp kapanan küçük süs.",
       "answer": "TOKA"
     }
   ]

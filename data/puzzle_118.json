@@ -123,7 +123,7 @@
       "row": 0,
       "col": 8,
       "length": 4,
-      "clue": "Anlama yeteneği için kullanılan yaygın ifade",
+      "clue": "Yeni durumlara hızla uyum sağlayıp doğru kararlar verebilme yeteneği.",
       "answer": "ZEKA"
     },
     {
@@ -132,7 +132,7 @@
       "row": 1,
       "col": 6,
       "length": 5,
-      "clue": "Bulmacada Seslerle sanat karşılığını veren yanıt",
+      "clue": "Seslerin belli bir düzen içinde bir araya getirilmesiyle oluşan sanat.",
       "answer": "MÜZİK"
     },
     {
@@ -141,7 +141,7 @@
       "row": 2,
       "col": 5,
       "length": 4,
-      "clue": "Anadolu halkı için kullanılan yaygın ifade",
+      "clue": "Anadolu ve çevresinde yaşayan, Orta Asya kökenli büyük millet.",
       "answer": "TÜRK"
     },
     {
@@ -150,7 +150,7 @@
       "row": 5,
       "col": 0,
       "length": 3,
-      "clue": "Günlük dilde Damaktaki lezzet olarak bilinen kavram",
+      "clue": "Dilin damak aracılığıyla algıladığı; acı, ekşi, tuzlu gibi duyusal nitelik.",
       "answer": "TAT"
     },
     {
@@ -159,7 +159,7 @@
       "row": 5,
       "col": 2,
       "length": 4,
-      "clue": "Müzikle hareket karşılığı olarak kullanılan kelime",
+      "clue": "Müziğin ritmine uyarak, düzenli vücut hareketleriyle yapılan sanatsal eylem.",
       "answer": "DANS"
     },
     {
@@ -168,7 +168,7 @@
       "row": 5,
       "col": 2,
       "length": 5,
-      "clue": "Üflemeli ses aleti karşılığı olarak kullanılan kelime",
+      "clue": "İçine üflenince tiz bir ses çıkaran, ince ve boru biçimli küçük alet.",
       "answer": "DÜDÜK"
     },
     {
@@ -177,7 +177,7 @@
       "row": 6,
       "col": 0,
       "length": 3,
-      "clue": "Elin iç kısmı anlamına gelen sözcük",
+      "clue": "Elin iç tarafı; parmakların bittiği yerden bileğe kadar uzanan bölüm.",
       "answer": "AYA"
     },
     {
@@ -186,7 +186,7 @@
       "row": 7,
       "col": 4,
       "length": 3,
-      "clue": "Bulmacada Mesafe ya da açıklık karşılığını veren yanıt",
+      "clue": "İki şeyin birbirinden ayrıldığı boşluk; kısa mola süresi.",
       "answer": "ARA"
     },
     {
@@ -195,7 +195,7 @@
       "row": 8,
       "col": 2,
       "length": 4,
-      "clue": "Zaman aralığı için kullanılan yaygın ifade",
+      "clue": "Bir olayın başlangıcı ile sonu arasında geçen zaman aralığı.",
       "answer": "SÜRE"
     }
   ]

@@ -101,7 +101,7 @@
       "row": 0,
       "col": 3,
       "length": 4,
-      "clue": "Görkemli yapı karşılığı olarak kullanılan kelime",
+      "clue": "Ortaçağ Avrupası'nda soyluların yaşadığı kuleli, büyük taştan yapılı konak.",
       "answer": "ŞATO"
     },
     {
@@ -110,7 +110,7 @@
       "row": 1,
       "col": 2,
       "length": 3,
-      "clue": "Bulmacada Bina bölümü karşılığını veren yanıt",
+      "clue": "Bir binanın birbirinin üzerine gelen yatay bölümlerinden her biri.",
       "answer": "KAT"
     },
     {
@@ -119,7 +119,7 @@
       "row": 1,
       "col": 7,
       "length": 4,
-      "clue": "Günlük dilde Geniş düzlük olarak bilinen kavram",
+      "clue": "Üzerinde yapı bulunmayan, belli sınırlarla çevrili geniş açık düzlük.",
       "answer": "ALAN"
     },
     {
@@ -128,7 +128,7 @@
       "row": 2,
       "col": 5,
       "length": 4,
-      "clue": "Eşya kabı karşılığı olarak kullanılan kelime",
+      "clue": "İçine eşya konulan, çoğu zaman kapağı olan, dikdörtgen ya da kare biçimli hazne.",
       "answer": "KUTU"
     },
     {
@@ -137,7 +137,7 @@
       "row": 2,
       "col": 5,
       "length": 4,
-      "clue": "Bulmacada Yüksek yapı karşılığını veren yanıt",
+      "clue": "Çevresindeki yapılardan çok daha yüksek olan, dar ve uzun yapı.",
       "answer": "KULE"
     },
     {
@@ -146,7 +146,7 @@
       "row": 3,
       "col": 2,
       "length": 4,
-      "clue": "Cevap bekleyen karşılığı olarak kullanılan kelime",
+      "clue": "Bilinmeyen bir bilgiyi öğrenmek için karşıya yöneltilen cümle.",
       "answer": "SORU"
     },
     {
@@ -155,7 +155,7 @@
       "row": 3,
       "col": 2,
       "length": 4,
-      "clue": "Zaman aralığı için kullanılan yaygın ifade",
+      "clue": "Bir olayın başlangıcı ile sonu arasında geçen zaman aralığı.",
       "answer": "SÜRE"
     },
     {
@@ -164,7 +164,7 @@
       "row": 4,
       "col": 0,
       "length": 4,
-      "clue": "Yaşam süresi karşılığı olarak kullanılan kelime",
+      "clue": "Bir canlının doğumundan ölümüne kadar geçen toplam yaşam süresi.",
       "answer": "ÖMÜR"
     },
     {
@@ -173,7 +173,7 @@
       "row": 5,
       "col": 0,
       "length": 4,
-      "clue": "Bulmacada Otlak alan karşılığını veren yanıt",
+      "clue": "Hayvanların otlayıp beslenmesi için ayrılmış, doğal otlarla kaplı geniş alan.",
       "answer": "MERA"
     }
   ]

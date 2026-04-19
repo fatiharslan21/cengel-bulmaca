@@ -157,7 +157,7 @@
       "row": 0,
       "col": 6,
       "length": 5,
-      "clue": "Ekin alanı anlamına gelen sözcük",
+      "clue": "Üzerinde buğday, arpa ya da sebze yetiştirilen sürülmüş geniş toprak.",
       "answer": "TARLA"
     },
     {
@@ -166,7 +166,7 @@
       "row": 3,
       "col": 9,
       "length": 3,
-      "clue": "Günlük dilde Lider ya da baş aşçı olarak bilinen kavram",
+      "clue": "Bir ekibin başında bulunup işleri yöneten kişi; mutfağın baş aşçısı.",
       "answer": "ŞEF"
     },
     {
@@ -175,7 +175,7 @@
       "row": 4,
       "col": 5,
       "length": 6,
-      "clue": "Bina çıkıntısı karşılığı olarak kullanılan kelime",
+      "clue": "Bir binanın üst katlarından dışarı uzanan, parmaklıkla çevrili çıkıntı.",
       "answer": "BALKON"
     },
     {
@@ -184,7 +184,7 @@
       "row": 4,
       "col": 5,
       "length": 5,
-      "clue": "Evin yeşil alanı anlamına gelen sözcük",
+      "clue": "Ev ya da yapı yakınında çiçek, sebze ve ağaç yetiştirilen yeşil alan.",
       "answer": "BAHÇE"
     },
     {
@@ -193,7 +193,7 @@
       "row": 6,
       "col": 3,
       "length": 3,
-      "clue": "Posta gönderilerinin üzerine yapıştırılan değer etiketi",
+      "clue": "Mektupların üzerine yapıştırılan, postanın ücretini belgeleyen küçük kâğıt.",
       "answer": "PUL"
     },
     {
@@ -202,7 +202,7 @@
       "row": 8,
       "col": 0,
       "length": 4,
-      "clue": "Bulmacada Yakın arkadaş karşılığını veren yanıt",
+      "clue": "Kötü günde de yanında olan, gönülden sevilen yakın arkadaş.",
       "answer": "DOST"
     },
     {
@@ -211,7 +211,7 @@
       "row": 8,
       "col": 7,
       "length": 3,
-      "clue": "Giyside küçük kese karşılığı olarak kullanılan kelime",
+      "clue": "Pantolon ya da ceketin içine dikilmiş, ufak eşya konulan küçük kese.",
       "answer": "CEP"
     },
     {
@@ -220,7 +220,7 @@
       "row": 9,
       "col": 3,
       "length": 6,
-      "clue": "Konular listesi için kullanılan yaygın ifade",
+      "clue": "Bir toplantıda ya da günde ele alınacak konuların sıralı listesi.",
       "answer": "GÜNDEM"
     },
     {
@@ -229,7 +229,7 @@
       "row": 9,
       "col": 3,
       "length": 3,
-      "clue": "24 saatlik süre karşılığı olarak kullanılan kelime",
+      "clue": "Yirmi dört saate denk gelen; sabahtan akşama uzanan zaman dilimi.",
       "answer": "GÜN"
     },
     {
@@ -238,7 +238,7 @@
       "row": 11,
       "col": 0,
       "length": 4,
-      "clue": "Bulmacada Raylı taşıt karşılığını veren yanıt",
+      "clue": "Raylar üzerinde hareket eden, vagonları çeken büyük motorlu araç.",
       "answer": "TREN"
     }
   ]

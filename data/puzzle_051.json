@@ -112,7 +112,7 @@
       "row": 0,
       "col": 7,
       "length": 5,
-      "clue": "Evin yeşil alanı anlamına gelen sözcük",
+      "clue": "Ev ya da yapı yakınında çiçek, sebze ve ağaç yetiştirilen yeşil alan.",
       "answer": "BAHÇE"
     },
     {
@@ -121,7 +121,7 @@
       "row": 1,
       "col": 6,
       "length": 3,
-      "clue": "Kırmızı taneli meyve karşılığı olarak kullanılan kelime",
+      "clue": "İçi kırmızı tanelerle dolu, kalın kabuklu, sonbahar aylarının meyvesi.",
       "answer": "NAR"
     },
     {
@@ -130,7 +130,7 @@
       "row": 4,
       "col": 4,
       "length": 5,
-      "clue": "İple oynatılan karşılığı olarak kullanılan kelime",
+      "clue": "İp ya da parmaklarla oynatılan, tiyatro sahnesinde canlanan figürlü bebek.",
       "answer": "KUKLA"
     },
     {
@@ -139,7 +139,7 @@
       "row": 4,
       "col": 6,
       "length": 3,
-      "clue": "Yaklaşma eylemi karşılığı olarak kullanılan kelime",
+      "clue": "Bulunduğun yerden buraya doğru yaklaş; git sözcüğünün tam zıttı eylem.",
       "answer": "GEL"
     },
     {
@@ -148,7 +148,7 @@
       "row": 4,
       "col": 6,
       "length": 3,
-      "clue": "24 saatlik süre karşılığı olarak kullanılan kelime",
+      "clue": "Yirmi dört saate denk gelen; sabahtan akşama uzanan zaman dilimi.",
       "answer": "GÜN"
     },
     {
@@ -157,7 +157,7 @@
       "row": 5,
       "col": 0,
       "length": 3,
-      "clue": "Ömür süresi anlamına gelen sözcük",
+      "clue": "İnsanın doğduğu günden bu yana geçen toplam yıl; ömürdeki basamak.",
       "answer": "YAŞ"
     },
     {
@@ -166,7 +166,7 @@
       "row": 5,
       "col": 2,
       "length": 3,
-      "clue": "Günlük dilde Lider ya da baş aşçı olarak bilinen kavram",
+      "clue": "Bir ekibin başında bulunup işleri yöneten kişi; mutfağın baş aşçısı.",
       "answer": "ŞEF"
     },
     {
@@ -175,7 +175,7 @@
       "row": 6,
       "col": 2,
       "length": 5,
-      "clue": "Vaktinden önce karşılığı olarak kullanılan kelime",
+      "clue": "Belirlenen vaktin öncesinde gelme; geç kalmanın tersi durumu.",
       "answer": "ERKEN"
     },
     {
@@ -184,7 +184,7 @@
       "row": 8,
       "col": 3,
       "length": 3,
-      "clue": "Günlük dilde Ün ya da şöhret olarak bilinen kavram",
+      "clue": "Yaptıklarıyla uzaklarda bile tanınıp bilinir olmanın verdiği büyük ün.",
       "answer": "ŞAN"
     }
   ]

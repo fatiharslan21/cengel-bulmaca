@@ -121,7 +121,7 @@
       "row": 0,
       "col": 0,
       "length": 4,
-      "clue": "Eşya kabı karşılığı olarak kullanılan kelime",
+      "clue": "İçine eşya konulan, çoğu zaman kapağı olan, dikdörtgen ya da kare biçimli hazne.",
       "answer": "KUTU"
     },
     {
@@ -130,7 +130,7 @@
       "row": 2,
       "col": 0,
       "length": 4,
-      "clue": "Bulmacada Küçük yükselti karşılığını veren yanıt",
+      "clue": "Dağdan daha alçak, çevresine göre yüksek görünen küçük yükselti.",
       "answer": "TEPE"
     },
     {
@@ -139,7 +139,7 @@
       "row": 2,
       "col": 2,
       "length": 5,
-      "clue": "Mektup servisi için kullanılan yaygın ifade",
+      "clue": "Mektup ve paketlerin toplanıp yerine ulaştırıldığı geleneksel iletişim hizmeti.",
       "answer": "POSTA"
     },
     {
@@ -148,7 +148,7 @@
       "row": 2,
       "col": 8,
       "length": 5,
-      "clue": "Bir şeyin etrafını kuşatan alan",
+      "clue": "Bir alanın ya da cismin dört bir yanını saran dış sınır; etraf.",
       "answer": "ÇEVRE"
     },
     {
@@ -157,7 +157,7 @@
       "row": 3,
       "col": 5,
       "length": 4,
-      "clue": "Günlük dilde Yüzeylerin birleşimi olarak bilinen kavram",
+      "clue": "İki duvarın ya da iki kenarın birleştiği noktada oluşan açılı yer.",
       "answer": "KÖŞE"
     },
     {
@@ -166,7 +166,7 @@
       "row": 3,
       "col": 5,
       "length": 5,
-      "clue": "Sadık evcil hayvan anlamına gelen sözcük",
+      "clue": "İnsana sadakatiyle bilinen, havlayarak seslenen evcil dört ayaklı.",
       "answer": "KÖPEK"
     },
     {
@@ -175,7 +175,7 @@
       "row": 6,
       "col": 1,
       "length": 5,
-      "clue": "Evin yeşil alanı anlamına gelen sözcük",
+      "clue": "Ev ya da yapı yakınında çiçek, sebze ve ağaç yetiştirilen yeşil alan.",
       "answer": "BAHÇE"
     },
     {
@@ -184,7 +184,7 @@
       "row": 6,
       "col": 3,
       "length": 3,
-      "clue": "Bulmacada Asla ya da kesinlikle hayır karşılığını veren yanıt",
+      "clue": "Olumsuzluğu pekiştiren söz; asla ve kesinlikle bulunmama durumu.",
       "answer": "HİÇ"
     },
     {
@@ -193,7 +193,7 @@
       "row": 6,
       "col": 7,
       "length": 3,
-      "clue": "Giyside küçük kese karşılığı olarak kullanılan kelime",
+      "clue": "Pantolon ya da ceketin içine dikilmiş, ufak eşya konulan küçük kese.",
       "answer": "CEP"
     }
   ]

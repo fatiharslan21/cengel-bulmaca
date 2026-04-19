@@ -121,7 +121,7 @@
       "row": 0,
       "col": 3,
       "length": 3,
-      "clue": "Yön değiştir karşılığı olarak kullanılan kelime",
+      "clue": "Bulunduğun yerden geri çevril; ya da bir eksen etrafında hareket et.",
       "answer": "DÖN"
     },
     {
@@ -130,7 +130,7 @@
       "row": 0,
       "col": 3,
       "length": 3,
-      "clue": "Günlük dilde Buz tutma olarak bilinen kavram",
+      "clue": "Havanın ısısının düşmesiyle suların yüzeyde buz tutması olayı.",
       "answer": "DON"
     },
     {
@@ -139,7 +139,7 @@
       "row": 1,
       "col": 6,
       "length": 5,
-      "clue": "Bulmacada Deniz kıyısı karşılığını veren yanıt",
+      "clue": "Denizin ya da gölün karaya kavuştuğu kumlu ve taşlı kıyı şeridi.",
       "answer": "SAHİL"
     },
     {
@@ -148,7 +148,7 @@
       "row": 2,
       "col": 3,
       "length": 4,
-      "clue": "Müzik işareti için kullanılan yaygın ifade",
+      "clue": "Müzik eserlerinde seslerin yükseklik ve uzunluğunu gösteren küçük simge.",
       "answer": "NOTA"
     },
     {
@@ -157,7 +157,7 @@
       "row": 3,
       "col": 9,
       "length": 3,
-      "clue": "Bulmacada Vücudun orta bölümü karşılığını veren yanıt",
+      "clue": "Göğüs kafesi ile kalçalar arasında kalan, vücudun orta kısmı.",
       "answer": "BEL"
     },
     {
@@ -166,7 +166,7 @@
       "row": 4,
       "col": 2,
       "length": 4,
-      "clue": "Düz ince levha anlamına gelen sözcük",
+      "clue": "İnce mukavvadan yapılmış, üzerine yazı yazılan ya da baskı yapılan levha.",
       "answer": "KART"
     },
     {
@@ -175,7 +175,7 @@
       "row": 5,
       "col": 4,
       "length": 6,
-      "clue": "Güzel öten kuş için kullanılan yaygın ifade",
+      "clue": "Geceleri ötüşüyle tanınan, sesi şiirlere konu olmuş küçük kahverengi kuş.",
       "answer": "BÜLBÜL"
     },
     {
@@ -184,7 +184,7 @@
       "row": 5,
       "col": 4,
       "length": 3,
-      "clue": "Kafa ya da vücudun üstü için kullanılan yaygın ifade",
+      "clue": "İnsanın boynundan yukarısı, beynin ve yüzün bulunduğu vücut bölümü.",
       "answer": "BAŞ"
     },
     {
@@ -193,7 +193,7 @@
       "row": 5,
       "col": 7,
       "length": 4,
-      "clue": "Günlük dilde Sıvı geçen tüp olarak bilinen kavram",
+      "clue": "İçinden su, gaz ya da başka sıvıların geçtiği içi boş uzun silindir.",
       "answer": "BORU"
     },
     {
@@ -202,7 +202,7 @@
       "row": 6,
       "col": 0,
       "length": 5,
-      "clue": "Ekin alanı anlamına gelen sözcük",
+      "clue": "Üzerinde buğday, arpa ya da sebze yetiştirilen sürülmüş geniş toprak.",
       "answer": "TARLA"
     }
   ]

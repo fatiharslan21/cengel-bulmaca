@@ -90,7 +90,7 @@
       "row": 0,
       "col": 2,
       "length": 3,
-      "clue": "Bulmacada Mesafe ya da açıklık karşılığını veren yanıt",
+      "clue": "İki şeyin birbirinden ayrıldığı boşluk; kısa mola süresi.",
       "answer": "ARA"
     },
     {
@@ -99,7 +99,7 @@
       "row": 0,
       "col": 5,
       "length": 5,
-      "clue": "Temel buğday gıdası anlamına gelen sözcük",
+      "clue": "Undan mayalanıp fırında pişirilerek yapılan, sofranın temel besini.",
       "answer": "EKMEK"
     },
     {
@@ -108,7 +108,7 @@
       "row": 1,
       "col": 5,
       "length": 3,
-      "clue": "Kanatlı uçan hayvan anlamına gelen sözcük",
+      "clue": "Gövdesi tüylerle kaplı, kanatları yardımıyla uçabilen yumurtlayan canlı.",
       "answer": "KUŞ"
     },
     {
@@ -117,7 +117,7 @@
       "row": 2,
       "col": 2,
       "length": 4,
-      "clue": "Elektrik hareketi için kullanılan yaygın ifade",
+      "clue": "Belirli bir yönde hareket eden elektrik yükü ya da suyun sürüklenişi.",
       "answer": "AKIM"
     },
     {
@@ -126,7 +126,7 @@
       "row": 2,
       "col": 3,
       "length": 5,
-      "clue": "Sadık evcil hayvan anlamına gelen sözcük",
+      "clue": "İnsana sadakatiyle bilinen, havlayarak seslenen evcil dört ayaklı.",
       "answer": "KÖPEK"
     },
     {
@@ -135,7 +135,7 @@
       "row": 2,
       "col": 8,
       "length": 5,
-      "clue": "Aydınlatma aracı karşılığı olarak kullanılan kelime",
+      "clue": "İçindeki ampulle çalışan, karanlık odayı aydınlatan elektrikli araç.",
       "answer": "LAMBA"
     },
     {
@@ -144,7 +144,7 @@
       "row": 3,
       "col": 5,
       "length": 4,
-      "clue": "Kullanılan nesneler anlamına gelen sözcük",
+      "clue": "Evde ya da iş yerinde gündelik hayatta kullanılan nesnelerin tümü.",
       "answer": "EŞYA"
     },
     {
@@ -153,7 +153,7 @@
       "row": 4,
       "col": 1,
       "length": 3,
-      "clue": "Bulmacada Durum ya da vaziyet karşılığını veren yanıt",
+      "clue": "Bir kimsenin ya da şeyin bulunduğu durum, vaziyet ya da keyif.",
       "answer": "HAL"
     },
     {
@@ -162,7 +162,7 @@
       "row": 5,
       "col": 0,
       "length": 4,
-      "clue": "Ferahlatıcı bitki anlamına gelen sözcük",
+      "clue": "Serinletici kokusuyla tanınan, çaya ve yemeklere katılan yeşil yapraklı ot.",
       "answer": "NANE"
     }
   ]

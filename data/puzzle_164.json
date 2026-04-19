@@ -143,7 +143,7 @@
       "row": 0,
       "col": 7,
       "length": 5,
-      "clue": "Küçük deniz taşıtı anlamına gelen sözcük",
+      "clue": "Yelkenli ya da motorlu olup denizde kısa yolculuklara çıkan küçük gemi.",
       "answer": "TEKNE"
     },
     {
@@ -152,7 +152,7 @@
       "row": 1,
       "col": 6,
       "length": 5,
-      "clue": "Günlük dilde Bitkinin ürünü olarak bilinen kavram",
+      "clue": "Bitkinin çiçeğinin olgunlaşmasıyla oluşan, genellikle yenilebilir ürün.",
       "answer": "MEYVE"
     },
     {
@@ -161,7 +161,7 @@
       "row": 2,
       "col": 0,
       "length": 4,
-      "clue": "Bulmacada Çiçek süs kabı karşılığını veren yanıt",
+      "clue": "İçine çiçek konulmak üzere yapılmış, ince uzun boyunlu süs kabı.",
       "answer": "VAZO"
     },
     {
@@ -170,7 +170,7 @@
       "row": 2,
       "col": 3,
       "length": 3,
-      "clue": "Bulmacada Ev bölümü karşılığını veren yanıt",
+      "clue": "Bir evin ya da binanın duvarlarla ayrılmış, belirli amaçla kullanılan bölümü.",
       "answer": "ODA"
     },
     {
@@ -179,7 +179,7 @@
       "row": 3,
       "col": 5,
       "length": 6,
-      "clue": "Günlük dilde Kürekli tekne olarak bilinen kavram",
+      "clue": "İnsan ya da kürek gücüyle suda yol alan küçük açık deniz teknesi.",
       "answer": "SANDAL"
     },
     {
@@ -188,7 +188,7 @@
       "row": 3,
       "col": 5,
       "length": 3,
-      "clue": "Baştaki kıllar anlamına gelen sözcük",
+      "clue": "Başımızın derisinde biten, her birinin kökten uzayan ince tel kıl.",
       "answer": "SAÇ"
     },
     {
@@ -197,7 +197,7 @@
       "row": 3,
       "col": 9,
       "length": 3,
-      "clue": "Bulmacada Mesafe ya da açıklık karşılığını veren yanıt",
+      "clue": "İki şeyin birbirinden ayrıldığı boşluk; kısa mola süresi.",
       "answer": "ARA"
     },
     {
@@ -206,7 +206,7 @@
       "row": 4,
       "col": 2,
       "length": 4,
-      "clue": "Yırtığı kapatmak için eklenen parça",
+      "clue": "Eskiyip yırtılan giysiyi onarmak için üstüne dikilen küçük kumaş parçası.",
       "answer": "YAMA"
     },
     {
@@ -215,7 +215,7 @@
       "row": 5,
       "col": 8,
       "length": 3,
-      "clue": "Göz üstü kıl şeridi anlamına gelen sözcük",
+      "clue": "Gözün hemen üstünde bulunan, yaklaşık yay biçimindeki kıl kümesi.",
       "answer": "KAŞ"
     },
     {
@@ -224,7 +224,7 @@
       "row": 5,
       "col": 8,
       "length": 5,
-      "clue": "Günlük dilde Yemek aracı olarak bilinen kavram",
+      "clue": "Çorba, pilav gibi yemekleri ağza götürmek için kullanılan çukur sap.",
       "answer": "KAŞIK"
     }
   ]

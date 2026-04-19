@@ -112,7 +112,7 @@
       "row": 0,
       "col": 2,
       "length": 5,
-      "clue": "Tuzlu büyük su karşılığı olarak kullanılan kelime",
+      "clue": "Kıtaları birbirinden ayıran, tuzlu sulardan oluşan uçsuz bucaksız kütle.",
       "answer": "DENİZ"
     },
     {
@@ -121,7 +121,7 @@
       "row": 1,
       "col": 1,
       "length": 4,
-      "clue": "Şehir anlamına gelen sözcük",
+      "clue": "Nüfusu kalabalık, altyapısı gelişmiş, şehir niteliğindeki yerleşim yeri.",
       "answer": "KENT"
     },
     {
@@ -130,7 +130,7 @@
       "row": 4,
       "col": 0,
       "length": 3,
-      "clue": "Asit karşıtı için kullanılan yaygın ifade",
+      "clue": "Kimyada asitle tepkimeye girerek tuz oluşturan, karşıt özellikli madde.",
       "answer": "BAZ"
     },
     {
@@ -139,7 +139,7 @@
       "row": 4,
       "col": 1,
       "length": 3,
-      "clue": "Tek renk olmayan, benekli görünüm",
+      "clue": "Birden çok rengin bir arada bulunduğu, benekli ya da karışık görünüm.",
       "answer": "ALA"
     },
     {
@@ -148,7 +148,7 @@
       "row": 5,
       "col": 3,
       "length": 6,
-      "clue": "Yırtıcı büyük kuş için kullanılan yaygın ifade",
+      "clue": "Geniş kanatlarıyla yükseklerde süzülen, keskin gözlü yırtıcı büyük kuş.",
       "answer": "KARTAL"
     },
     {
@@ -157,7 +157,7 @@
       "row": 6,
       "col": 0,
       "length": 5,
-      "clue": "Yemek kabı anlamına gelen sözcük",
+      "clue": "Yemeklerin servis edildiği, yuvarlak ve yassı porselen ya da cam kap.",
       "answer": "TABAK"
     },
     {
@@ -166,7 +166,7 @@
       "row": 8,
       "col": 0,
       "length": 4,
-      "clue": "Bulmacada Zaman ölçer karşılığını veren yanıt",
+      "clue": "Akrep, yelkovan ve rakamlarla anı gösteren; zamanı ölçen günlük araç.",
       "answer": "SAAT"
     },
     {
@@ -175,7 +175,7 @@
       "row": 8,
       "col": 1,
       "length": 3,
-      "clue": "Yakışıklı ya da gösterişli anlamına gelen sözcük",
+      "clue": "Halk ağzında yakışıklı, gösterişli kimse için kullanılan eski bir sözcük.",
       "answer": "AFİ"
     },
     {
@@ -184,7 +184,7 @@
       "row": 8,
       "col": 5,
       "length": 3,
-      "clue": "Kırmızı taneli meyve karşılığı olarak kullanılan kelime",
+      "clue": "İçi kırmızı tanelerle dolu, kalın kabuklu, sonbahar aylarının meyvesi.",
       "answer": "NAR"
     },
     {
@@ -193,7 +193,7 @@
       "row": 9,
       "col": 3,
       "length": 4,
-      "clue": "Bulmacada Hedef ya da gaye karşılığını veren yanıt",
+      "clue": "Bir işin başında konulan, ulaşılmak istenen hedef ya da gaye.",
       "answer": "AMAÇ"
     }
   ]

@@ -157,7 +157,7 @@
       "row": 0,
       "col": 9,
       "length": 3,
-      "clue": "Bulmacada Damar sıvısı karşılığını veren yanıt",
+      "clue": "Damarlarda dolaşarak vücuda oksijen taşıyan kırmızı renkli canlı sıvı.",
       "answer": "KAN"
     },
     {
@@ -166,7 +166,7 @@
       "row": 1,
       "col": 5,
       "length": 5,
-      "clue": "Aydınlatma aracı karşılığı olarak kullanılan kelime",
+      "clue": "İçindeki ampulle çalışan, karanlık odayı aydınlatan elektrikli araç.",
       "answer": "LAMBA"
     },
     {
@@ -175,7 +175,7 @@
       "row": 1,
       "col": 6,
       "length": 3,
-      "clue": "Bulmacada Mesafe ya da açıklık karşılığını veren yanıt",
+      "clue": "İki şeyin birbirinden ayrıldığı boşluk; kısa mola süresi.",
       "answer": "ARA"
     },
     {
@@ -184,7 +184,7 @@
       "row": 2,
       "col": 4,
       "length": 6,
-      "clue": "Ülke simgesi için kullanılan yaygın ifade",
+      "clue": "Bir ülkeyi simgeleyen, özel renk ve işaretler taşıyan kumaş parçası.",
       "answer": "BAYRAK"
     },
     {
@@ -193,7 +193,7 @@
       "row": 3,
       "col": 3,
       "length": 5,
-      "clue": "Bulmacada Yurt ya da memleket karşılığını veren yanıt",
+      "clue": "Bir milletin üzerinde yaşayıp kendine yurt bildiği ata toprağı.",
       "answer": "VATAN"
     },
     {
@@ -202,7 +202,7 @@
       "row": 5,
       "col": 2,
       "length": 4,
-      "clue": "Küçük akarsu anlamına gelen sözcük",
+      "clue": "Dağlardan doğan, ırmağa ya da göle dökülen küçük doğal akarsu.",
       "answer": "DERE"
     },
     {
@@ -211,7 +211,7 @@
       "row": 6,
       "col": 1,
       "length": 3,
-      "clue": "İşitilen titreşim anlamına gelen sözcük",
+      "clue": "Kulağımıza ulaşan her türlü titreşim; konuşma ve müziğin temeli.",
       "answer": "SES"
     },
     {
@@ -220,7 +220,7 @@
       "row": 7,
       "col": 0,
       "length": 5,
-      "clue": "Bilme isteği için kullanılan yaygın ifade",
+      "clue": "Bilinmeyen bir şeyi öğrenmek için insanın içine düşen güçlü istek.",
       "answer": "MERAK"
     },
     {
@@ -229,7 +229,7 @@
       "row": 7,
       "col": 3,
       "length": 5,
-      "clue": "Günlük dilde Konum bilgisi olarak bilinen kavram",
+      "clue": "Bir kimseye veya yere ulaşabilmek için gereken açık konum bilgisi.",
       "answer": "ADRES"
     },
     {
@@ -238,7 +238,7 @@
       "row": 10,
       "col": 3,
       "length": 4,
-      "clue": "Bulmacada Sanat yapıtı karşılığını veren yanıt",
+      "clue": "Bir sanatçının ya da yazarın ortaya koyduğu özgün yapıt.",
       "answer": "ESER"
     }
   ]

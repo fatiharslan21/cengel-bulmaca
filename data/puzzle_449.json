@@ -133,7 +133,7 @@
       "row": 0,
       "col": 1,
       "length": 6,
-      "clue": "Bulmacada Takma ad ya da isim karşılığını veren yanıt",
+      "clue": "Sanatçıların, özellikle şairlerin gerçek adları yerine kullandığı takma ad.",
       "answer": "MAHLAS"
     },
     {
@@ -142,7 +142,7 @@
       "row": 0,
       "col": 3,
       "length": 5,
-      "clue": "Kutlama tatlısı anlamına gelen sözcük",
+      "clue": "Kat kat hamuru kremayla birleştirilen, doğum günlerinde kesilen tatlı.",
       "answer": "PASTA"
     },
     {
@@ -151,7 +151,7 @@
       "row": 1,
       "col": 0,
       "length": 4,
-      "clue": "İddia ya da tez karşılığı olarak kullanılan kelime",
+      "clue": "Bir hakkı aramak için mahkemeye başvurularak açılan hukuki süreç.",
       "answer": "DAVA"
     },
     {
@@ -160,7 +160,7 @@
       "row": 1,
       "col": 6,
       "length": 3,
-      "clue": "Günlük dilde Ateş közü olarak bilinen kavram",
+      "clue": "Alevi sönmüş ama sıcaklığı ve kızıllığı süren yanmakta olan parça.",
       "answer": "KOR"
     },
     {
@@ -169,7 +169,7 @@
       "row": 2,
       "col": 3,
       "length": 5,
-      "clue": "Büyük oda için kullanılan yaygın ifade",
+      "clue": "Evin misafir ağırlanan en büyük odası ya da toplantı yapılan geniş mekân.",
       "answer": "SALON"
     },
     {
@@ -178,7 +178,7 @@
       "row": 4,
       "col": 3,
       "length": 3,
-      "clue": "Hatıra ya da geçmiş olay karşılığı olarak kullanılan kelime",
+      "clue": "Geçmişte yaşanmış ve zihinde iz bırakmış olayların hatırlanması.",
       "answer": "ANI"
     },
     {
@@ -187,7 +187,7 @@
       "row": 4,
       "col": 4,
       "length": 5,
-      "clue": "Günlük dilde Yakarma olarak bilinen kavram",
+      "clue": "Alçakgönüllülükle yapılan yalvarış; Tanrı'dan dilenen istek.",
       "answer": "NİYAZ"
     },
     {
@@ -196,7 +196,7 @@
       "row": 6,
       "col": 2,
       "length": 6,
-      "clue": "Gökten su damlaları için kullanılan yaygın ifade",
+      "clue": "Bulutlardaki su damlalarının yer çekimiyle gökten yağması.",
       "answer": "YAĞMUR"
     },
     {
@@ -205,7 +205,7 @@
       "row": 7,
       "col": 1,
       "length": 4,
-      "clue": "Gönül huzuru anlamına gelen sözcük",
+      "clue": "İçten duyulan gönül rahatlığı; keder bırakmayan tatlı neşe.",
       "answer": "SAFA"
     },
     {
@@ -214,7 +214,7 @@
       "row": 11,
       "col": 0,
       "length": 3,
-      "clue": "Beyaz yağış için kullanılan yaygın ifade",
+      "clue": "Soğuk havada bulutlardan düşen, altıgen kristallerden oluşan beyaz yağış.",
       "answer": "KAR"
     }
   ]

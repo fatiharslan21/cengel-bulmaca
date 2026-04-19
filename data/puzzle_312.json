@@ -133,7 +133,7 @@
       "row": 0,
       "col": 0,
       "length": 6,
-      "clue": "Güçlük ya da eziyet anlamına gelen sözcük",
+      "clue": "Bir işi başarmak için katlanılan güçlük; çekilen eziyet.",
       "answer": "ZAHMET"
     },
     {
@@ -142,7 +142,7 @@
       "row": 0,
       "col": 3,
       "length": 5,
-      "clue": "İyi haber anlamına gelen sözcük",
+      "clue": "Sevinçle karşılanan, umut veren yeni gelen güzel haber.",
       "answer": "MÜJDE"
     },
     {
@@ -151,7 +151,7 @@
       "row": 0,
       "col": 5,
       "length": 4,
-      "clue": "Uyan ya da bağlı karşılığı olarak kullanılan kelime",
+      "clue": "Bir kurala, şahsa ya da düzene bağlı olan; ona uymak durumunda kalan.",
       "answer": "TABİ"
     },
     {
@@ -160,7 +160,7 @@
       "row": 3,
       "col": 1,
       "length": 4,
-      "clue": "Hörgüçlü hayvan için kullanılan yaygın ifade",
+      "clue": "Sırtında hörgücü bulunan, çölde uzun süre susuzluğa dayanabilen büyük hayvan.",
       "answer": "DEVE"
     },
     {
@@ -169,7 +169,7 @@
       "row": 4,
       "col": 1,
       "length": 4,
-      "clue": "Ölüm vakti karşılığı olarak kullanılan kelime",
+      "clue": "Her canlı için önceden belirlendiğine inanılan ölüm zamanı.",
       "answer": "ECEL"
     },
     {
@@ -178,7 +178,7 @@
       "row": 6,
       "col": 0,
       "length": 5,
-      "clue": "Esenleme sözü için kullanılan yaygın ifade",
+      "clue": "Birbirini gören iki kişinin hal hatır sormak için söylediği esenlik dileği.",
       "answer": "SELAM"
     },
     {
@@ -187,7 +187,7 @@
       "row": 6,
       "col": 3,
       "length": 4,
-      "clue": "Gövdeli bitki karşılığı olarak kullanılan kelime",
+      "clue": "Toprağa kök salmış, gövdesi odunlaşmış, uzun ömürlü büyük bitki.",
       "answer": "AĞAÇ"
     },
     {
@@ -196,7 +196,7 @@
       "row": 6,
       "col": 6,
       "length": 4,
-      "clue": "Tahta oyunu anlamına gelen sözcük",
+      "clue": "Siyah beyaz karelere yerleştirilen taşlarla iki kişi arasında oynanan oyun.",
       "answer": "DAMA"
     },
     {
@@ -205,7 +205,7 @@
       "row": 7,
       "col": 6,
       "length": 4,
-      "clue": "Hafif olmayan için kullanılan yaygın ifade",
+      "clue": "Kaldırılması güç olan, hafif sözcüğünün zıttı sayılan kütle durumu.",
       "answer": "AĞIR"
     },
     {
@@ -214,7 +214,7 @@
       "row": 8,
       "col": 2,
       "length": 5,
-      "clue": "Bulmacada Yas ya da acı karşılığını veren yanıt",
+      "clue": "Kaybedilen bir yakının ardından tutulan koyu yas; siyahlar giyme hali.",
       "answer": "MATEM"
     }
   ]

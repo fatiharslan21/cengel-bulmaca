@@ -167,7 +167,7 @@
       "row": 0,
       "col": 4,
       "length": 4,
-      "clue": "Arzu ya da istek için kullanılan yaygın ifade",
+      "clue": "İçten doğan büyük istek; insanı coşturan şiddetli arzu ve heves.",
       "answer": "ŞEVK"
     },
     {
@@ -176,7 +176,7 @@
       "row": 2,
       "col": 7,
       "length": 6,
-      "clue": "Güçlük ya da eziyet anlamına gelen sözcük",
+      "clue": "Bir işi başarmak için katlanılan güçlük; çekilen eziyet.",
       "answer": "ZAHMET"
     },
     {
@@ -185,7 +185,7 @@
       "row": 3,
       "col": 4,
       "length": 5,
-      "clue": "Günlük dilde Yüzeyin sınırı olarak bilinen kavram",
+      "clue": "Bir yüzeyin ya da nesnenin dış sınırını oluşturan uç bölüm.",
       "answer": "KENAR"
     },
     {
@@ -194,7 +194,7 @@
       "row": 4,
       "col": 2,
       "length": 6,
-      "clue": "Ün ya da nam anlamına gelen sözcük",
+      "clue": "Herkesin duyup tanıdığı; adını çevresinin çok ötesine taşıyan ün.",
       "answer": "ŞÖHRET"
     },
     {
@@ -203,7 +203,7 @@
       "row": 5,
       "col": 7,
       "length": 5,
-      "clue": "Günlük dilde Yer ya da konum olarak bilinen kavram",
+      "clue": "Bir kimsenin toplumdaki yeri, konumu ya da makamı.",
       "answer": "MEVKİ"
     },
     {
@@ -212,7 +212,7 @@
       "row": 6,
       "col": 2,
       "length": 6,
-      "clue": "Günlük dilde Değerli şeyler olarak bilinen kavram",
+      "clue": "Değerli eşyaların ya da paraların saklandığı gizli büyük birikim.",
       "answer": "HAZİNE"
     },
     {
@@ -221,7 +221,7 @@
       "row": 6,
       "col": 5,
       "length": 5,
-      "clue": "Bulmacada Talih ya da yükselme karşılığını veren yanıt",
+      "clue": "Hayatta yükselme, talih kuşunun başa konması; mevki sahibi olma.",
       "answer": "İKBAL"
     },
     {
@@ -230,7 +230,7 @@
       "row": 7,
       "col": 7,
       "length": 3,
-      "clue": "Aynı özellikleri taşıyan canlı grubu",
+      "clue": "Aynı ortak özellikleri taşıyan canlıların oluşturduğu sınıflama birimi.",
       "answer": "TÜR"
     },
     {
@@ -239,7 +239,7 @@
       "row": 9,
       "col": 0,
       "length": 4,
-      "clue": "Günlük dilde Yanlış ya da kusur olarak bilinen kavram",
+      "clue": "İstemeden yapılan yanlış; doğru olandan sapmanın yol açtığı kusur.",
       "answer": "HATA"
     },
     {
@@ -248,7 +248,7 @@
       "row": 9,
       "col": 5,
       "length": 3,
-      "clue": "Sunma ya da takdim anlamına gelen sözcük",
+      "clue": "Bir üstün ya da yetkilinin önüne saygıyla sunma, takdim etme eylemi.",
       "answer": "ARZ"
     }
   ]

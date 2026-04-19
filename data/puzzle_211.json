@@ -109,7 +109,7 @@
       "row": 0,
       "col": 1,
       "length": 3,
-      "clue": "Omuz örtüsü anlamına gelen sözcük",
+      "clue": "Omuzlara atılan ya da başa örtülen, yumuşak geniş kumaş parçası.",
       "answer": "ŞAL"
     },
     {
@@ -118,7 +118,7 @@
       "row": 2,
       "col": 0,
       "length": 3,
-      "clue": "Birinci ya da baştaki anlamına gelen sözcük",
+      "clue": "Bir sıranın en başında bulunan; sondan önce hiçbir şey olmayan sırada birinci.",
       "answer": "İLK"
     },
     {
@@ -127,7 +127,7 @@
       "row": 2,
       "col": 2,
       "length": 6,
-      "clue": "Yük aracı karşılığı olarak kullanılan kelime",
+      "clue": "Uzun kasasında büyük yükler taşıyan, dört tekerlekten fazlası olan taşıt.",
       "answer": "KAMYON"
     },
     {
@@ -136,7 +136,7 @@
       "row": 3,
       "col": 2,
       "length": 3,
-      "clue": "Yakışıklı ya da gösterişli anlamına gelen sözcük",
+      "clue": "Halk ağzında yakışıklı, gösterişli kimse için kullanılan eski bir sözcük.",
       "answer": "AFİ"
     },
     {
@@ -145,7 +145,7 @@
       "row": 5,
       "col": 0,
       "length": 5,
-      "clue": "Günlük dilde Gerçek olmayan düş olarak bilinen kavram",
+      "clue": "Zihinde canlandırılan, gerçekleşmesi beklenen ya da umulan görüntü.",
       "answer": "HAYAL"
     },
     {
@@ -154,7 +154,7 @@
       "row": 7,
       "col": 0,
       "length": 5,
-      "clue": "Bulmacada Yaşadığımız gezegen karşılığını veren yanıt",
+      "clue": "Üzerinde yaşadığımız, Güneş'in çevresinde dönen mavi yeşil gezegen.",
       "answer": "DÜNYA"
     },
     {
@@ -163,7 +163,7 @@
       "row": 7,
       "col": 0,
       "length": 3,
-      "clue": "Günlük dilde Harici ya da dış yüzey olarak bilinen kavram",
+      "clue": "İçin karşıtı; bir şeyin çevresini gören, dışarıya bakan yüzü.",
       "answer": "DIŞ"
     },
     {
@@ -172,7 +172,7 @@
       "row": 7,
       "col": 4,
       "length": 3,
-      "clue": "Tek renk olmayan, benekli görünüm",
+      "clue": "Birden çok rengin bir arada bulunduğu, benekli ya da karışık görünüm.",
       "answer": "ALA"
     },
     {
@@ -181,7 +181,7 @@
       "row": 9,
       "col": 3,
       "length": 3,
-      "clue": "Arı ürünü tatlı için kullanılan yaygın ifade",
+      "clue": "Arıların çiçeklerden topladığı nektarı işleyerek yaptığı koyu, tatlı gıda.",
       "answer": "BAL"
     },
     {
@@ -190,7 +190,7 @@
       "row": 9,
       "col": 3,
       "length": 3,
-      "clue": "Günlük dilde Üzüm bahçesi olarak bilinen kavram",
+      "clue": "Üzüm yetiştirilen tarla; aynı zamanda düğümle tutturma eylemi.",
       "answer": "BAĞ"
     }
   ]

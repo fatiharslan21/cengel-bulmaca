@@ -133,7 +133,7 @@
       "row": 0,
       "col": 3,
       "length": 4,
-      "clue": "Bulmacada Seslenme karşılığını veren yanıt",
+      "clue": "Birine seslenmek için çıkarılan yüksek ses; çağırmak amaçlı bağırma.",
       "answer": "NİDA"
     },
     {
@@ -142,7 +142,7 @@
       "row": 1,
       "col": 2,
       "length": 5,
-      "clue": "Bulmacada Pay ya da nasip karşılığını veren yanıt",
+      "clue": "Ortak bir malın ya da işin her birine düşen pay; nasip.",
       "answer": "HİSSE"
     },
     {
@@ -151,7 +151,7 @@
       "row": 2,
       "col": 1,
       "length": 5,
-      "clue": "Bolluk ya da huzur için kullanılan yaygın ifade",
+      "clue": "Geçim sıkıntısı çekmeden, bolluk içinde sürdürülen rahat ve huzurlu yaşam.",
       "answer": "REFAH"
     },
     {
@@ -160,7 +160,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "Sözünde durma karşılığı olarak kullanılan kelime",
+      "clue": "Dostluğunu ve sevgisini zaman geçse bile sürdürme; söze sadakat.",
       "answer": "VEFA"
     },
     {
@@ -169,7 +169,7 @@
       "row": 5,
       "col": 0,
       "length": 5,
-      "clue": "İnce ya da kibar karşılığı olarak kullanılan kelime",
+      "clue": "Kırıcı olmayan, incelikli davranışları olan; kibar ve görgülü kimse.",
       "answer": "NAZİK"
     },
     {
@@ -178,7 +178,7 @@
       "row": 5,
       "col": 4,
       "length": 4,
-      "clue": "Ödül bardağı anlamına gelen sözcük",
+      "clue": "Bir yarışmanın galibine ödül olarak verilen, ayaklı madeni kadeh.",
       "answer": "KUPA"
     },
     {
@@ -187,7 +187,7 @@
       "row": 7,
       "col": 2,
       "length": 4,
-      "clue": "Ses ya da seda karşılığı olarak kullanılan kelime",
+      "clue": "Uzaktan duyulan insan ya da doğa sesi; boğumlu ses dalgası.",
       "answer": "SADA"
     },
     {
@@ -196,7 +196,7 @@
       "row": 8,
       "col": 2,
       "length": 4,
-      "clue": "Gövdeli bitki karşılığı olarak kullanılan kelime",
+      "clue": "Toprağa kök salmış, gövdesi odunlaşmış, uzun ömürlü büyük bitki.",
       "answer": "AĞAÇ"
     },
     {
@@ -205,7 +205,7 @@
       "row": 8,
       "col": 7,
       "length": 4,
-      "clue": "Bildirme ya da hüküm anlamına gelen sözcük",
+      "clue": "Mahkemenin verdiği kararı bildiren, yazılı resmi belge.",
       "answer": "İLAM"
     },
     {
@@ -214,7 +214,7 @@
       "row": 10,
       "col": 1,
       "length": 7,
-      "clue": "Çalışkan böcek karşılığı olarak kullanılan kelime",
+      "clue": "Sürüler halinde yaşayan, küçük gövdesine rağmen iri yükleri taşıyan böcek.",
       "answer": "KARINCA"
     }
   ]

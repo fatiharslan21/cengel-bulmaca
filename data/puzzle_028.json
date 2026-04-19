@@ -103,7 +103,7 @@
       "row": 0,
       "col": 0,
       "length": 5,
-      "clue": "Günlük dilde Konum bilgisi olarak bilinen kavram",
+      "clue": "Bir kimseye veya yere ulaşabilmek için gereken açık konum bilgisi.",
       "answer": "ADRES"
     },
     {
@@ -112,7 +112,7 @@
       "row": 0,
       "col": 4,
       "length": 4,
-      "clue": "Bulmacada Zaman ölçer karşılığını veren yanıt",
+      "clue": "Akrep, yelkovan ve rakamlarla anı gösteren; zamanı ölçen günlük araç.",
       "answer": "SAAT"
     },
     {
@@ -121,7 +121,7 @@
       "row": 0,
       "col": 6,
       "length": 3,
-      "clue": "Kafa ya da vücudun üstü için kullanılan yaygın ifade",
+      "clue": "İnsanın boynundan yukarısı, beynin ve yüzün bulunduğu vücut bölümü.",
       "answer": "BAŞ"
     },
     {
@@ -130,7 +130,7 @@
       "row": 1,
       "col": 4,
       "length": 4,
-      "clue": "Bulmacada Hedef ya da gaye karşılığını veren yanıt",
+      "clue": "Bir işin başında konulan, ulaşılmak istenen hedef ya da gaye.",
       "answer": "AMAÇ"
     },
     {
@@ -139,7 +139,7 @@
       "row": 3,
       "col": 2,
       "length": 3,
-      "clue": "Bulmacada Uzaklaşma eylemi karşılığını veren yanıt",
+      "clue": "Bulunduğun yerden uzaklaşarak başka bir yere doğru yönel; gel'in zıttı.",
       "answer": "GİT"
     },
     {
@@ -148,7 +148,7 @@
       "row": 3,
       "col": 2,
       "length": 3,
-      "clue": "Bulmacada Dikenli güzel çiçek karşılığını veren yanıt",
+      "clue": "Dikenli gövdesi ve hoş kokulu taç yapraklarıyla bilinen bahçe çiçeği.",
       "answer": "GÜL"
     },
     {
@@ -157,7 +157,7 @@
       "row": 5,
       "col": 0,
       "length": 4,
-      "clue": "Günlük dilde Kısa dinlenme olarak bilinen kavram",
+      "clue": "Çalışmaya ya da yolculuğa kısa bir süre ara vererek dinlenme anı.",
       "answer": "MOLA"
     },
     {
@@ -166,7 +166,7 @@
       "row": 5,
       "col": 1,
       "length": 4,
-      "clue": "Bulmacada Konaklama yeri karşılığını veren yanıt",
+      "clue": "Yolcuların ücret karşılığı geceyi geçirdiği, odaları olan konaklama işletmesi.",
       "answer": "OTEL"
     },
     {
@@ -175,7 +175,7 @@
       "row": 5,
       "col": 3,
       "length": 4,
-      "clue": "Hafif olmayan için kullanılan yaygın ifade",
+      "clue": "Kaldırılması güç olan, hafif sözcüğünün zıttı sayılan kütle durumu.",
       "answer": "AĞIR"
     }
   ]

@@ -111,7 +111,7 @@
       "row": 0,
       "col": 5,
       "length": 3,
-      "clue": "Bulmacada İğne yapraklı ağaç karşılığını veren yanıt",
+      "clue": "İğne yaprakları yıl boyu yeşil kalan, kozalak veren, uzun ömürlü ağaç.",
       "answer": "ÇAM"
     },
     {
@@ -120,7 +120,7 @@
       "row": 1,
       "col": 0,
       "length": 3,
-      "clue": "Hava gibi madde için kullanılan yaygın ifade",
+      "clue": "Belli bir şekli ve hacmi olmayan, her yöne yayılabilen madde hali.",
       "answer": "GAZ"
     },
     {
@@ -129,7 +129,7 @@
       "row": 1,
       "col": 2,
       "length": 4,
-      "clue": "Gömlek boyun kısmı için kullanılan yaygın ifade",
+      "clue": "Gömleğin boynu çevreleyen üst kısmı; ceketin de boyuna değen kenarı.",
       "answer": "YAKA"
     },
     {
@@ -138,7 +138,7 @@
       "row": 1,
       "col": 3,
       "length": 3,
-      "clue": "Günlük dilde Toprak sahibi olarak bilinen kavram",
+      "clue": "Eskiden köylerde geniş topraklara sahip, sözü geçen nüfuzlu kişi.",
       "answer": "AĞA"
     },
     {
@@ -147,7 +147,7 @@
       "row": 1,
       "col": 8,
       "length": 5,
-      "clue": "Günlük dilde Anlayış olarak bilinen kavram",
+      "clue": "Bir şeyin anlamını kavrama; olup biteni zihinde anlamlandırma yeteneği.",
       "answer": "İDRAK"
     },
     {
@@ -156,7 +156,7 @@
       "row": 2,
       "col": 5,
       "length": 5,
-      "clue": "İyi haber anlamına gelen sözcük",
+      "clue": "Sevinçle karşılanan, umut veren yeni gelen güzel haber.",
       "answer": "MÜJDE"
     },
     {
@@ -165,7 +165,7 @@
       "row": 3,
       "col": 0,
       "length": 5,
-      "clue": "Bulmacada Yok olma karşılığını veren yanıt",
+      "clue": "Varlığı yerinde durmayıp sona ermesi; yokluğa geçme hali.",
       "answer": "ZEVAL"
     },
     {
@@ -174,7 +174,7 @@
       "row": 3,
       "col": 11,
       "length": 4,
-      "clue": "Bulmacada Mutlaka yapılması gereken karşılığını veren yanıt",
+      "clue": "Dinde kesinlikle yerine getirilmesi emredilen, zorunlu olan yükümlülük.",
       "answer": "FARZ"
     },
     {
@@ -183,7 +183,7 @@
       "row": 4,
       "col": 8,
       "length": 4,
-      "clue": "Bulmacada Yansıtıcı cam karşılığını veren yanıt",
+      "clue": "Karşısına geçenin görüntüsünü aynen yansıtan sırlanmış cam yüzey.",
       "answer": "AYNA"
     },
     {
@@ -192,7 +192,7 @@
       "row": 6,
       "col": 9,
       "length": 3,
-      "clue": "Sunma ya da takdim anlamına gelen sözcük",
+      "clue": "Bir üstün ya da yetkilinin önüne saygıyla sunma, takdim etme eylemi.",
       "answer": "ARZ"
     }
   ]

@@ -157,7 +157,7 @@
       "row": 0,
       "col": 6,
       "length": 4,
-      "clue": "Bulmacada Seslenme karşılığını veren yanıt",
+      "clue": "Birine seslenmek için çıkarılan yüksek ses; çağırmak amaçlı bağırma.",
       "answer": "NİDA"
     },
     {
@@ -166,7 +166,7 @@
       "row": 2,
       "col": 3,
       "length": 6,
-      "clue": "Okyanus memelisi için kullanılan yaygın ifade",
+      "clue": "Okyanuslarda yaşayan, dünyanın en büyük sayılan memeli deniz canlısı.",
       "answer": "BALİNA"
     },
     {
@@ -175,7 +175,7 @@
       "row": 3,
       "col": 3,
       "length": 4,
-      "clue": "Bulmacada Yansıtıcı cam karşılığını veren yanıt",
+      "clue": "Karşısına geçenin görüntüsünü aynen yansıtan sırlanmış cam yüzey.",
       "answer": "AYNA"
     },
     {
@@ -184,7 +184,7 @@
       "row": 4,
       "col": 0,
       "length": 4,
-      "clue": "Bulmacada Konaklama yeri karşılığını veren yanıt",
+      "clue": "Yolcuların ücret karşılığı geceyi geçirdiği, odaları olan konaklama işletmesi.",
       "answer": "OTEL"
     },
     {
@@ -193,7 +193,7 @@
       "row": 5,
       "col": 6,
       "length": 3,
-      "clue": "Arı ürünü tatlı için kullanılan yaygın ifade",
+      "clue": "Arıların çiçeklerden topladığı nektarı işleyerek yaptığı koyu, tatlı gıda.",
       "answer": "BAL"
     },
     {
@@ -202,7 +202,7 @@
       "row": 5,
       "col": 6,
       "length": 4,
-      "clue": "İnsanların yaşadığı veya çalıştığı yapı",
+      "clue": "İnsanların içinde oturduğu ya da çalıştığı, taş ve betondan yapılmış yapı.",
       "answer": "BİNA"
     },
     {
@@ -211,7 +211,7 @@
       "row": 7,
       "col": 2,
       "length": 5,
-      "clue": "Örnek ya da benzer için kullanılan yaygın ifade",
+      "clue": "Anlatılanı somutlaştırmak için verilen örnek; kıyas noktası.",
       "answer": "MİSAL"
     },
     {
@@ -220,7 +220,7 @@
       "row": 7,
       "col": 2,
       "length": 5,
-      "clue": "Hayal ürünü hikaye karşılığı olarak kullanılan kelime",
+      "clue": "Hayal ürünü kahramanların yer aldığı, 'bir varmış bir yokmuş'la başlayan öykü.",
       "answer": "MASAL"
     },
     {
@@ -229,7 +229,7 @@
       "row": 7,
       "col": 5,
       "length": 3,
-      "clue": "Yakışıklı ya da gösterişli anlamına gelen sözcük",
+      "clue": "Halk ağzında yakışıklı, gösterişli kimse için kullanılan eski bir sözcük.",
       "answer": "AFİ"
     },
     {
@@ -238,7 +238,7 @@
       "row": 10,
       "col": 1,
       "length": 4,
-      "clue": "Talih ya da şans için kullanılan yaygın ifade",
+      "clue": "İnsanın başına gelenleri belirlediğine inanılan şans, talih ya da kader.",
       "answer": "BAHT"
     }
   ]

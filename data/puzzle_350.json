@@ -130,7 +130,7 @@
       "row": 0,
       "col": 5,
       "length": 4,
-      "clue": "Keder ya da acı karşılığı olarak kullanılan kelime",
+      "clue": "Gönle çöken derin üzüntü, insanı içten içe yiyen keder.",
       "answer": "ELEM"
     },
     {
@@ -139,7 +139,7 @@
       "row": 0,
       "col": 5,
       "length": 4,
-      "clue": "Yük hayvanı için kullanılan yaygın ifade",
+      "clue": "Uzun kulaklı, sabırlı; köylerde yük taşımada kullanılan küçük binek hayvanı.",
       "answer": "EŞEK"
     },
     {
@@ -148,7 +148,7 @@
       "row": 1,
       "col": 3,
       "length": 3,
-      "clue": "Bulmacada Vücudun orta bölümü karşılığını veren yanıt",
+      "clue": "Göğüs kafesi ile kalçalar arasında kalan, vücudun orta kısmı.",
       "answer": "BEL"
     },
     {
@@ -157,7 +157,7 @@
       "row": 1,
       "col": 3,
       "length": 3,
-      "clue": "Çok miktarda karşılığı olarak kullanılan kelime",
+      "clue": "Yeteri kadarının üstünde, çokça bulunan; dar sözcüğünün zıttı sayılan.",
       "answer": "BOL"
     },
     {
@@ -166,7 +166,7 @@
       "row": 2,
       "col": 8,
       "length": 6,
-      "clue": "Bulmacada Orta nokta karşılığını veren yanıt",
+      "clue": "Bir dairenin ya da bir alanın tam ortasında bulunan ana nokta.",
       "answer": "MERKEZ"
     },
     {
@@ -175,7 +175,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "Bulmacada Yöntem ya da tarz karşılığını veren yanıt",
+      "clue": "Bir işin belirli kurallar içinde yapılmasını sağlayan yol; yöntem.",
       "answer": "USUL"
     },
     {
@@ -184,7 +184,7 @@
       "row": 3,
       "col": 5,
       "length": 5,
-      "clue": "Bulmacada Yas ya da acı karşılığını veren yanıt",
+      "clue": "Kaybedilen bir yakının ardından tutulan koyu yas; siyahlar giyme hali.",
       "answer": "MATEM"
     },
     {
@@ -193,7 +193,7 @@
       "row": 5,
       "col": 6,
       "length": 4,
-      "clue": "Günlük dilde Burnun algısı olarak bilinen kavram",
+      "clue": "Burnumuzla algıladığımız, havada yayılan hoş ya da keskin tanecikler.",
       "answer": "KOKU"
     },
     {
@@ -202,7 +202,7 @@
       "row": 5,
       "col": 6,
       "length": 4,
-      "clue": "Bulmacada Yüksek yapı karşılığını veren yanıt",
+      "clue": "Çevresindeki yapılardan çok daha yüksek olan, dar ve uzun yapı.",
       "answer": "KULE"
     },
     {
@@ -211,7 +211,7 @@
       "row": 7,
       "col": 8,
       "length": 3,
-      "clue": "Günlük dilde Oyun küpü olarak bilinen kavram",
+      "clue": "Üzerinde nokta bulunan, oyunlarda atılan altı yüzlü küçük küp.",
       "answer": "ZAR"
     }
   ]

@@ -109,7 +109,7 @@
       "row": 0,
       "col": 1,
       "length": 6,
-      "clue": "Konular listesi için kullanılan yaygın ifade",
+      "clue": "Bir toplantıda ya da günde ele alınacak konuların sıralı listesi.",
       "answer": "GÜNDEM"
     },
     {
@@ -118,7 +118,7 @@
       "row": 1,
       "col": 0,
       "length": 4,
-      "clue": "Zaman aralığı için kullanılan yaygın ifade",
+      "clue": "Bir olayın başlangıcı ile sonu arasında geçen zaman aralığı.",
       "answer": "SÜRE"
     },
     {
@@ -127,7 +127,7 @@
       "row": 1,
       "col": 5,
       "length": 5,
-      "clue": "Günlük dilde Yemek aracı olarak bilinen kavram",
+      "clue": "Çorba, pilav gibi yemekleri ağza götürmek için kullanılan çukur sap.",
       "answer": "KAŞIK"
     },
     {
@@ -136,7 +136,7 @@
       "row": 1,
       "col": 7,
       "length": 3,
-      "clue": "Bulmacada İğne yapraklı ağaç karşılığını veren yanıt",
+      "clue": "İğne yaprakları yıl boyu yeşil kalan, kozalak veren, uzun ömürlü ağaç.",
       "answer": "ÇAM"
     },
     {
@@ -145,7 +145,7 @@
       "row": 2,
       "col": 5,
       "length": 3,
-      "clue": "Günlük dilde Ced ya da büyükbaba olarak bilinen kavram",
+      "clue": "Soyun büyüklerinden sayılan dede ya da daha öncesinden gelen büyük.",
       "answer": "ATA"
     },
     {
@@ -154,7 +154,7 @@
       "row": 3,
       "col": 3,
       "length": 3,
-      "clue": "Yüksek arazi şekli için kullanılan yaygın ifade",
+      "clue": "Çevresine göre belirgin biçimde yükselen, taşlık ve kayalık büyük arazi.",
       "answer": "DAĞ"
     },
     {
@@ -163,7 +163,7 @@
       "row": 3,
       "col": 3,
       "length": 3,
-      "clue": "Bulmacada Su ile yıkanma karşılığını veren yanıt",
+      "clue": "Üstten sıkılan su ile yıkanmak üzere banyoya yerleştirilmiş düzenek.",
       "answer": "DUŞ"
     },
     {
@@ -172,7 +172,7 @@
       "row": 4,
       "col": 0,
       "length": 4,
-      "clue": "Günlük dilde Bitki yapısı olarak bilinen kavram",
+      "clue": "İçerisi camla kaplı; mevsim dışında bile bitki yetiştirilen ısıtılmış yapı.",
       "answer": "SERA"
     },
     {
@@ -181,7 +181,7 @@
       "row": 4,
       "col": 9,
       "length": 4,
-      "clue": "Yakın olmayan karşılığı olarak kullanılan kelime",
+      "clue": "Aradaki mesafenin çok olduğu; yakınlığı hissedilmeyen ötelerdeki yer.",
       "answer": "UZAK"
     },
     {
@@ -190,7 +190,7 @@
       "row": 5,
       "col": 5,
       "length": 5,
-      "clue": "Günlük dilde Küçük kırmızı meyve olarak bilinen kavram",
+      "clue": "Saplı, parlak, kırmızı kabuklu; ilkbaharın sonunda olgunlaşan tatlı meyve.",
       "answer": "KİRAZ"
     }
   ]

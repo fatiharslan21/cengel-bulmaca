@@ -145,7 +145,7 @@
       "row": 0,
       "col": 6,
       "length": 5,
-      "clue": "Sayfalardan eser karşılığı olarak kullanılan kelime",
+      "clue": "Sayfalardan oluşan, üzerine bilgi ya da hikâye yazılmış ciltli eser.",
       "answer": "KİTAP"
     },
     {
@@ -154,7 +154,7 @@
       "row": 4,
       "col": 6,
       "length": 3,
-      "clue": "Demir korozyonu karşılığı olarak kullanılan kelime",
+      "clue": "Demirin hava ve nemle temas ederek zamanla üzerinde oluşturduğu kızıl tabaka.",
       "answer": "PAS"
     },
     {
@@ -163,7 +163,7 @@
       "row": 4,
       "col": 7,
       "length": 4,
-      "clue": "Av yapan kişi anlamına gelen sözcük",
+      "clue": "Kırda ya da ormanda silahla veya tuzakla av peşinde koşan kişi.",
       "answer": "AVCI"
     },
     {
@@ -172,7 +172,7 @@
       "row": 6,
       "col": 5,
       "length": 4,
-      "clue": "Doku hasarı anlamına gelen sözcük",
+      "clue": "Bir kesik ya da darbe sonucu bedende oluşan açık doku hasarı.",
       "answer": "YARA"
     },
     {
@@ -181,7 +181,7 @@
       "row": 7,
       "col": 4,
       "length": 4,
-      "clue": "Bulmacada Yazılmış metin karşılığını veren yanıt",
+      "clue": "Kalemin kâğıda bıraktığı; harflerden oluşan okunabilir işaretler.",
       "answer": "YAZI"
     },
     {
@@ -190,7 +190,7 @@
       "row": 9,
       "col": 1,
       "length": 3,
-      "clue": "Bulmacada Bina bölümü karşılığını veren yanıt",
+      "clue": "Bir binanın birbirinin üzerine gelen yatay bölümlerinden her biri.",
       "answer": "KAT"
     },
     {
@@ -199,7 +199,7 @@
       "row": 9,
       "col": 4,
       "length": 3,
-      "clue": "Omuz örtüsü anlamına gelen sözcük",
+      "clue": "Omuzlara atılan ya da başa örtülen, yumuşak geniş kumaş parçası.",
       "answer": "ŞAL"
     },
     {
@@ -208,7 +208,7 @@
       "row": 9,
       "col": 4,
       "length": 3,
-      "clue": "Günlük dilde Ün ya da şöhret olarak bilinen kavram",
+      "clue": "Yaptıklarıyla uzaklarda bile tanınıp bilinir olmanın verdiği büyük ün.",
       "answer": "ŞAN"
     },
     {
@@ -217,7 +217,7 @@
       "row": 10,
       "col": 0,
       "length": 5,
-      "clue": "Kutlama tatlısı anlamına gelen sözcük",
+      "clue": "Kat kat hamuru kremayla birleştirilen, doğum günlerinde kesilen tatlı.",
       "answer": "PASTA"
     }
   ]

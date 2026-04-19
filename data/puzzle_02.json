@@ -208,7 +208,7 @@
       "row": 0,
       "col": 0,
       "length": 8,
-      "clue": "Boğaziçi'nin iki yakasına kurulu şehir",
+      "clue": "İki yakası boğazla ayrılan, Asya ile Avrupa'yı buluşturan büyük şehir.",
       "answer": "İSTANBUL"
     },
     {
@@ -217,7 +217,7 @@
       "row": 2,
       "col": 0,
       "length": 5,
-      "clue": "Bulmacada Akan tatlı su yolu karşılığını veren yanıt",
+      "clue": "Birçok dereyi içine alarak denize ulaşan, uzun ve geniş tatlı su yolu.",
       "answer": "NEHİR"
     },
     {
@@ -226,7 +226,7 @@
       "row": 2,
       "col": 7,
       "length": 6,
-      "clue": "Lav püskürten dağ karşılığı olarak kullanılan kelime",
+      "clue": "İçinden kızgın lavlar fışkırtan, zirvesi patlayan alevli büyük dağ.",
       "answer": "VOLKAN"
     },
     {
@@ -235,7 +235,7 @@
       "row": 4,
       "col": 0,
       "length": 5,
-      "clue": "Küçük yapay su birikintisi",
+      "clue": "Küçük bir vadiye set çekerek oluşturulan, sulamada kullanılan yapay havuz.",
       "answer": "GÖLET"
     },
     {
@@ -244,7 +244,7 @@
       "row": 4,
       "col": 7,
       "length": 5,
-      "clue": "Yüksek düzlük, yaz otlağı",
+      "clue": "Yaz aylarında otlak olarak kullanılan, serin havalı yüksek düzlük.",
       "answer": "YAYLA"
     },
     {
@@ -253,7 +253,7 @@
       "row": 6,
       "col": 0,
       "length": 4,
-      "clue": "İki dağ arasındaki çukur alan",
+      "clue": "İki dağın arasında kalan; genellikle içinden dere akan uzun çukur alan.",
       "answer": "VADİ"
     },
     {
@@ -262,7 +262,7 @@
       "row": 6,
       "col": 6,
       "length": 4,
-      "clue": "Küçük yükselti ya da doruk anlamına gelen sözcük",
+      "clue": "Dağdan daha alçak, çevresine göre yüksek görünen küçük yükselti.",
       "answer": "TEPE"
     },
     {
@@ -271,7 +271,7 @@
       "row": 8,
       "col": 0,
       "length": 4,
-      "clue": "Bulmacada Sert ya da büyük taş kütlesi karşılığını veren yanıt",
+      "clue": "Toprağın üstünde ya da altında bulunan, kolay parçalanmayan büyük taş.",
       "answer": "KAYA"
     },
     {
@@ -280,7 +280,7 @@
       "row": 8,
       "col": 6,
       "length": 5,
-      "clue": "İzmir'deki tatil ilçesi; su akan yapı",
+      "clue": "Musluğundan sürekli ya da aralıklı su akan, genellikle taştan yapılmış yapı.",
       "answer": "ÇEŞME"
     },
     {
@@ -289,7 +289,7 @@
       "row": 10,
       "col": 0,
       "length": 3,
-      "clue": "Her tarafı suyla çevrili kara parçası",
+      "clue": "Dört bir yanı suyla çevrili, denizin ortasında kalmış toprak parçası.",
       "answer": "ADA"
     },
     {
@@ -298,7 +298,7 @@
       "row": 10,
       "col": 5,
       "length": 4,
-      "clue": "Deniz kıyısında kumluk alan",
+      "clue": "Denizin kıyısındaki kumluk alan; insanların yüzüp güneşlendiği sahil.",
       "answer": "PLAJ"
     },
     {
@@ -307,7 +307,7 @@
       "row": 1,
       "col": 5,
       "length": 5,
-      "clue": "Büyük akarsu ya da nehir için kullanılan yaygın ifade",
+      "clue": "Kollarını yan derelerden alan, denize ya da göle dökülen büyük akarsu.",
       "answer": "IRMAK"
     }
   ]

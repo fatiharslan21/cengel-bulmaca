@@ -157,7 +157,7 @@
       "row": 0,
       "col": 2,
       "length": 5,
-      "clue": "Bolluk ya da huzur için kullanılan yaygın ifade",
+      "clue": "Geçim sıkıntısı çekmeden, bolluk içinde sürdürülen rahat ve huzurlu yaşam.",
       "answer": "REFAH"
     },
     {
@@ -166,7 +166,7 @@
       "row": 1,
       "col": 1,
       "length": 5,
-      "clue": "Günlük dilde Yer ya da konum olarak bilinen kavram",
+      "clue": "Bir kimsenin toplumdaki yeri, konumu ya da makamı.",
       "answer": "MEVKİ"
     },
     {
@@ -175,7 +175,7 @@
       "row": 3,
       "col": 0,
       "length": 3,
-      "clue": "Elin iç kısmı anlamına gelen sözcük",
+      "clue": "Elin iç tarafı; parmakların bittiği yerden bileğe kadar uzanan bölüm.",
       "answer": "AYA"
     },
     {
@@ -184,7 +184,7 @@
       "row": 3,
       "col": 5,
       "length": 5,
-      "clue": "Habersiz ya da aymaz anlamına gelen sözcük",
+      "clue": "Çevresinde olanlardan haberi olmayan, dalgın ve dikkatsiz kimse.",
       "answer": "GAFİL"
     },
     {
@@ -193,7 +193,7 @@
       "row": 4,
       "col": 2,
       "length": 5,
-      "clue": "Utanç ya da çekinme anlamına gelen sözcük",
+      "clue": "Uygunsuz bir durumda duyulan utanç; insanın yüzünü gizleme isteği.",
       "answer": "HİCAP"
     },
     {
@@ -202,7 +202,7 @@
       "row": 5,
       "col": 8,
       "length": 4,
-      "clue": "Bulmacada Raylı taşıt karşılığını veren yanıt",
+      "clue": "Raylar üzerinde hareket eden, vagonları çeken büyük motorlu araç.",
       "answer": "TREN"
     },
     {
@@ -211,7 +211,7 @@
       "row": 7,
       "col": 3,
       "length": 7,
-      "clue": "Renkli kanatlı böcek karşılığı olarak kullanılan kelime",
+      "clue": "Tırtılken metamorfoz geçirip renkli kanatlara kavuşan zarif böcek.",
       "answer": "KELEBEK"
     },
     {
@@ -220,7 +220,7 @@
       "row": 7,
       "col": 3,
       "length": 5,
-      "clue": "Olgunluk için kullanılan yaygın ifade",
+      "clue": "Bir şeyin eksiksiz, kusursuz ve en üst düzeyde olgunlaşmış hali.",
       "answer": "KEMAL"
     },
     {
@@ -229,7 +229,7 @@
       "row": 7,
       "col": 6,
       "length": 4,
-      "clue": "Bulmacada Kırmızı meyve karşılığını veren yanıt",
+      "clue": "Kabuğu kırmızı, sarı ya da yeşil olabilen, sulu ve çıtır meyve.",
       "answer": "ELMA"
     },
     {
@@ -238,7 +238,7 @@
       "row": 10,
       "col": 6,
       "length": 3,
-      "clue": "Bulmacada Mesafe ya da açıklık karşılığını veren yanıt",
+      "clue": "İki şeyin birbirinden ayrıldığı boşluk; kısa mola süresi.",
       "answer": "ARA"
     }
   ]

@@ -123,7 +123,7 @@
       "row": 0,
       "col": 7,
       "length": 4,
-      "clue": "Bulmacada Otlak alan karşılığını veren yanıt",
+      "clue": "Hayvanların otlayıp beslenmesi için ayrılmış, doğal otlarla kaplı geniş alan.",
       "answer": "MERA"
     },
     {
@@ -132,7 +132,7 @@
       "row": 1,
       "col": 3,
       "length": 3,
-      "clue": "Bulmacada Dokuma kumaş parçası karşılığını veren yanıt",
+      "clue": "Silmek, temizlemek ya da örtmek için kullanılan dokuma kumaş parçası.",
       "answer": "BEZ"
     },
     {
@@ -141,7 +141,7 @@
       "row": 2,
       "col": 2,
       "length": 6,
-      "clue": "Günlük dilde Saç kesen esnaf olarak bilinen kavram",
+      "clue": "Erkeklerin saçını kesip sakalını düzelten, dükkânında çalışan esnaf.",
       "answer": "BERBER"
     },
     {
@@ -150,7 +150,7 @@
       "row": 2,
       "col": 5,
       "length": 5,
-      "clue": "El kol eklemi karşılığı olarak kullanılan kelime",
+      "clue": "Kolla eli birbirine bağlayan, küçük kemiklerden oluşan eklem bölgesi.",
       "answer": "BİLEK"
     },
     {
@@ -159,7 +159,7 @@
       "row": 5,
       "col": 2,
       "length": 5,
-      "clue": "Sadık evcil hayvan anlamına gelen sözcük",
+      "clue": "İnsana sadakatiyle bilinen, havlayarak seslenen evcil dört ayaklı.",
       "answer": "KÖPEK"
     },
     {
@@ -168,7 +168,7 @@
       "row": 5,
       "col": 2,
       "length": 3,
-      "clue": "Beyaz yağış için kullanılan yaygın ifade",
+      "clue": "Soğuk havada bulutlardan düşen, altıgen kristallerden oluşan beyaz yağış.",
       "answer": "KAR"
     },
     {
@@ -177,7 +177,7 @@
       "row": 6,
       "col": 0,
       "length": 3,
-      "clue": "Hava gibi madde için kullanılan yaygın ifade",
+      "clue": "Belli bir şekli ve hacmi olmayan, her yöne yayılabilen madde hali.",
       "answer": "GAZ"
     },
     {
@@ -186,7 +186,7 @@
       "row": 7,
       "col": 0,
       "length": 5,
-      "clue": "Günlük dilde Konum bilgisi olarak bilinen kavram",
+      "clue": "Bir kimseye veya yere ulaşabilmek için gereken açık konum bilgisi.",
       "answer": "ADRES"
     },
     {
@@ -195,7 +195,7 @@
       "row": 7,
       "col": 4,
       "length": 4,
-      "clue": "Bulmacada Rakam ifadesi karşılığını veren yanıt",
+      "clue": "Bir miktarı ya da sırayı belirten; rakamlarla yazılan matematik kavramı.",
       "answer": "SAYI"
     },
     {
@@ -204,7 +204,7 @@
       "row": 8,
       "col": 4,
       "length": 3,
-      "clue": "Bulmacada Mesafe ya da açıklık karşılığını veren yanıt",
+      "clue": "İki şeyin birbirinden ayrıldığı boşluk; kısa mola süresi.",
       "answer": "ARA"
     }
   ]

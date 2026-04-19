@@ -123,7 +123,7 @@
       "row": 0,
       "col": 5,
       "length": 4,
-      "clue": "Bulmacada Otlak alan karşılığını veren yanıt",
+      "clue": "Hayvanların otlayıp beslenmesi için ayrılmış, doğal otlarla kaplı geniş alan.",
       "answer": "MERA"
     },
     {
@@ -132,7 +132,7 @@
       "row": 1,
       "col": 1,
       "length": 4,
-      "clue": "Müzik işareti için kullanılan yaygın ifade",
+      "clue": "Müzik eserlerinde seslerin yükseklik ve uzunluğunu gösteren küçük simge.",
       "answer": "NOTA"
     },
     {
@@ -141,7 +141,7 @@
       "row": 2,
       "col": 0,
       "length": 4,
-      "clue": "Kızarmış sandviç anlamına gelen sözcük",
+      "clue": "Ekmeğin arasına peynir konup ısıtılarak kızartılan sandviç çeşidi.",
       "answer": "TOST"
     },
     {
@@ -150,7 +150,7 @@
       "row": 3,
       "col": 4,
       "length": 5,
-      "clue": "Günlük dilde Yüzeyin sınırı olarak bilinen kavram",
+      "clue": "Bir yüzeyin ya da nesnenin dış sınırını oluşturan uç bölüm.",
       "answer": "KENAR"
     },
     {
@@ -159,7 +159,7 @@
       "row": 3,
       "col": 4,
       "length": 3,
-      "clue": "Bulmacada Bina bölümü karşılığını veren yanıt",
+      "clue": "Bir binanın birbirinin üzerine gelen yatay bölümlerinden her biri.",
       "answer": "KAT"
     },
     {
@@ -168,7 +168,7 @@
       "row": 4,
       "col": 0,
       "length": 5,
-      "clue": "Geniş ana yol için kullanılan yaygın ifade",
+      "clue": "Şehirlerde iki yanı binalarla çevrili, taşıtların geçtiği geniş ana yol.",
       "answer": "CADDE"
     },
     {
@@ -177,7 +177,7 @@
       "row": 4,
       "col": 2,
       "length": 5,
-      "clue": "Üflemeli ses aleti karşılığı olarak kullanılan kelime",
+      "clue": "İçine üflenince tiz bir ses çıkaran, ince ve boru biçimli küçük alet.",
       "answer": "DÜDÜK"
     },
     {
@@ -186,7 +186,7 @@
       "row": 6,
       "col": 7,
       "length": 4,
-      "clue": "Bulmacada Toprak eşme karşılığını veren yanıt",
+      "clue": "Toprağın altında kalmış eski eserleri çıkarmak için yapılan eşme işi.",
       "answer": "KAZI"
     },
     {
@@ -195,7 +195,7 @@
       "row": 7,
       "col": 4,
       "length": 5,
-      "clue": "Algılama sistemi karşılığı olarak kullanılan kelime",
+      "clue": "Radyo dalgalarını yollayıp yansımasını ölçerek uzaktaki nesneleri belirleyen sistem.",
       "answer": "RADAR"
     }
   ]

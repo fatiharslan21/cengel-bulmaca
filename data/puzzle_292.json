@@ -97,7 +97,7 @@
       "row": 0,
       "col": 2,
       "length": 5,
-      "clue": "Bulmacada Suyla ıslanmış karşılığını veren yanıt",
+      "clue": "Su veya başka bir sıvıyla temas edip kurumamış olan nemli yüzey.",
       "answer": "ISLAK"
     },
     {
@@ -106,7 +106,7 @@
       "row": 1,
       "col": 0,
       "length": 4,
-      "clue": "Bulmacada Yakın arkadaş karşılığını veren yanıt",
+      "clue": "Kötü günde de yanında olan, gönülden sevilen yakın arkadaş.",
       "answer": "DOST"
     },
     {
@@ -115,7 +115,7 @@
       "row": 1,
       "col": 8,
       "length": 4,
-      "clue": "Arzu ya da istek için kullanılan yaygın ifade",
+      "clue": "İçten doğan büyük istek; insanı coşturan şiddetli arzu ve heves.",
       "answer": "ŞEVK"
     },
     {
@@ -124,7 +124,7 @@
       "row": 2,
       "col": 5,
       "length": 4,
-      "clue": "Bulmacada Raylı taşıt karşılığını veren yanıt",
+      "clue": "Raylar üzerinde hareket eden, vagonları çeken büyük motorlu araç.",
       "answer": "TREN"
     },
     {
@@ -133,7 +133,7 @@
       "row": 2,
       "col": 5,
       "length": 5,
-      "clue": "Esas ya da kök anlamına gelen sözcük",
+      "clue": "Bir yapının ayakta durmasını sağlayan, toprağa gömülü olan ilk bölümü.",
       "answer": "TEMEL"
     },
     {
@@ -142,7 +142,7 @@
       "row": 3,
       "col": 0,
       "length": 3,
-      "clue": "Dört tarafı suyla çevrili kara",
+      "clue": "Dört bir yanı suyla çevrili, denizin ortasında kalmış toprak parçası.",
       "answer": "ADA"
     },
     {
@@ -151,7 +151,7 @@
       "row": 3,
       "col": 0,
       "length": 3,
-      "clue": "Sunma ya da takdim anlamına gelen sözcük",
+      "clue": "Bir üstün ya da yetkilinin önüne saygıyla sunma, takdim etme eylemi.",
       "answer": "ARZ"
     },
     {
@@ -160,7 +160,7 @@
       "row": 4,
       "col": 2,
       "length": 4,
-      "clue": "Çukur yemek kabı anlamına gelen sözcük",
+      "clue": "Çorba, salata ya da yoğurt konulan, yuvarlak ve çukur küçük yemek kabı.",
       "answer": "KASE"
     },
     {
@@ -169,7 +169,7 @@
       "row": 4,
       "col": 3,
       "length": 3,
-      "clue": "Bulmacada Koruyucu ilaç karşılığını veren yanıt",
+      "clue": "Bir hastalığa karşı bağışıklık kazandırmak için vücuda verilen ilaç.",
       "answer": "AŞI"
     },
     {
@@ -178,7 +178,7 @@
       "row": 6,
       "col": 1,
       "length": 3,
-      "clue": "Bulmacada Tatlının zıttı karşılığını veren yanıt",
+      "clue": "Tatlının tam karşıtı olan, biberin ya da kederin bıraktığı keskin duygu.",
       "answer": "ACI"
     }
   ]

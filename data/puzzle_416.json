@@ -143,7 +143,7 @@
       "row": 0,
       "col": 6,
       "length": 4,
-      "clue": "Ses birimi için kullanılan yaygın ifade",
+      "clue": "Bir kelimeyi bir nefeste söyleyebildiğimiz en küçük ses birimi.",
       "answer": "HECE"
     },
     {
@@ -152,7 +152,7 @@
       "row": 0,
       "col": 8,
       "length": 3,
-      "clue": "Kaygan besin karşılığı olarak kullanılan kelime",
+      "clue": "Bitkilerden ya da hayvanlardan elde edilen; suda çözünmeyen kaygan madde.",
       "answer": "YAĞ"
     },
     {
@@ -161,7 +161,7 @@
       "row": 0,
       "col": 9,
       "length": 6,
-      "clue": "Başkent karşılığı olarak kullanılan kelime",
+      "clue": "Türkiye Cumhuriyeti'nin başkenti ve İç Anadolu'nun en büyük şehri.",
       "answer": "ANKARA"
     },
     {
@@ -170,7 +170,7 @@
       "row": 3,
       "col": 6,
       "length": 5,
-      "clue": "En sert taş karşılığı olarak kullanılan kelime",
+      "clue": "Doğada bulunan en sert madde; takılarda kullanılan değerli kıymetli taş.",
       "answer": "ELMAS"
     },
     {
@@ -179,7 +179,7 @@
       "row": 4,
       "col": 0,
       "length": 5,
-      "clue": "Günlük dilde Küçük kırmızı meyve olarak bilinen kavram",
+      "clue": "Saplı, parlak, kırmızı kabuklu; ilkbaharın sonunda olgunlaşan tatlı meyve.",
       "answer": "KİRAZ"
     },
     {
@@ -188,7 +188,7 @@
       "row": 4,
       "col": 4,
       "length": 5,
-      "clue": "Nefesli çalgı için kullanılan yaygın ifade",
+      "clue": "Düğünlerde davulla birlikte çalınan, ince tiz sesli üflemeli halk çalgısı.",
       "answer": "ZURNA"
     },
     {
@@ -197,7 +197,7 @@
       "row": 5,
       "col": 6,
       "length": 5,
-      "clue": "Ayrılık anlamına gelen sözcük",
+      "clue": "Birbirinden ayrı düşen sevgililerin yaşadığı acı dolu ayrılık.",
       "answer": "FIRAK"
     },
     {
@@ -206,7 +206,7 @@
       "row": 5,
       "col": 8,
       "length": 5,
-      "clue": "Bolluk ya da huzur için kullanılan yaygın ifade",
+      "clue": "Geçim sıkıntısı çekmeden, bolluk içinde sürdürülen rahat ve huzurlu yaşam.",
       "answer": "REFAH"
     },
     {
@@ -215,7 +215,7 @@
       "row": 5,
       "col": 10,
       "length": 3,
-      "clue": "Bulmacada İçine konan kab karşılığını veren yanıt",
+      "clue": "İçine sıvı ya da katı maddeler konulan her türlü şekilli eşya.",
       "answer": "KAP"
     },
     {
@@ -224,7 +224,7 @@
       "row": 8,
       "col": 3,
       "length": 7,
-      "clue": "Bağlılık ya da vefa için kullanılan yaygın ifade",
+      "clue": "Sevdiğine ya da inandığına ömür boyu bağlı kalma; vefa göstermek.",
       "answer": "SADAKAT"
     }
   ]

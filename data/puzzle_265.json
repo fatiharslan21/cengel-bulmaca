@@ -113,7 +113,7 @@
       "row": 0,
       "col": 3,
       "length": 4,
-      "clue": "Tahta oyunu anlamına gelen sözcük",
+      "clue": "Siyah beyaz karelere yerleştirilen taşlarla iki kişi arasında oynanan oyun.",
       "answer": "DAMA"
     },
     {
@@ -122,7 +122,7 @@
       "row": 0,
       "col": 7,
       "length": 4,
-      "clue": "Amaç ya da maksat için kullanılan yaygın ifade",
+      "clue": "Bir işe girişirken göz önünde tutulan, ulaşılmak istenen son hedef.",
       "answer": "GAYE"
     },
     {
@@ -131,7 +131,7 @@
       "row": 1,
       "col": 0,
       "length": 4,
-      "clue": "Bulmacada Deniz taşıtı karşılığını veren yanıt",
+      "clue": "Denizde yük ya da yolcu taşımak için yapılmış büyük su taşıtı.",
       "answer": "GEMİ"
     },
     {
@@ -140,7 +140,7 @@
       "row": 2,
       "col": 5,
       "length": 3,
-      "clue": "Bulmacada Uzaklaşma eylemi karşılığını veren yanıt",
+      "clue": "Bulunduğun yerden uzaklaşarak başka bir yere doğru yönel; gel'in zıttı.",
       "answer": "GİT"
     },
     {
@@ -149,7 +149,7 @@
       "row": 3,
       "col": 2,
       "length": 5,
-      "clue": "Günlük dilde Yakarma olarak bilinen kavram",
+      "clue": "Alçakgönüllülükle yapılan yalvarış; Tanrı'dan dilenen istek.",
       "answer": "NİYAZ"
     },
     {
@@ -158,7 +158,7 @@
       "row": 3,
       "col": 2,
       "length": 6,
-      "clue": "Boşuna ya da yararsız için kullanılan yaygın ifade",
+      "clue": "Harcanan çabaya değmeyen; hiçbir yarar sağlamayan boş uğraş.",
       "answer": "NAFİLE"
     },
     {
@@ -167,7 +167,7 @@
       "row": 4,
       "col": 0,
       "length": 3,
-      "clue": "Kötünün zıttı karşılığı olarak kullanılan kelime",
+      "clue": "Hoşa giden, yararlı ve olumlu olan; kötünün tam karşıtı olan nitelik.",
       "answer": "İYİ"
     },
     {
@@ -176,7 +176,7 @@
       "row": 5,
       "col": 4,
       "length": 5,
-      "clue": "Kabir için kullanılan yaygın ifade",
+      "clue": "Ölünün toprağa verildiği, başında taş bulunan defin yeri; kabir.",
       "answer": "MEZAR"
     },
     {
@@ -185,7 +185,7 @@
       "row": 6,
       "col": 1,
       "length": 5,
-      "clue": "Günlük dilde Alın yazısı olarak bilinen kavram",
+      "clue": "İnsanın başına geleceği önceden yazıldığına inanılan alın yazısı.",
       "answer": "KADER"
     },
     {
@@ -194,7 +194,7 @@
       "row": 8,
       "col": 3,
       "length": 4,
-      "clue": "Biçim ya da üslup için kullanılan yaygın ifade",
+      "clue": "Bir kişinin ya da akımın kendine özgü yapma biçimi; üslup.",
       "answer": "TARZ"
     }
   ]

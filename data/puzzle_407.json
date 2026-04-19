@@ -181,7 +181,7 @@
       "row": 0,
       "col": 6,
       "length": 5,
-      "clue": "İyilik ya da bolluk için kullanılan yaygın ifade",
+      "clue": "Yararlanılan, şükür duyulan değerli varlık; insana verilmiş lütuf.",
       "answer": "NİMET"
     },
     {
@@ -190,7 +190,7 @@
       "row": 0,
       "col": 6,
       "length": 5,
-      "clue": "Bakış ya da göz anlamına gelen sözcük",
+      "clue": "Kötü bakışın bir kimseye uğursuzluk getireceğine duyulan halk inancı.",
       "answer": "NAZAR"
     },
     {
@@ -199,7 +199,7 @@
       "row": 0,
       "col": 9,
       "length": 4,
-      "clue": "Terbiye ya da görgü karşılığı olarak kullanılan kelime",
+      "clue": "Görgü kurallarına uygun davranış; terbiyeli ve ölçülü olma hali.",
       "answer": "EDEP"
     },
     {
@@ -208,7 +208,7 @@
       "row": 1,
       "col": 3,
       "length": 4,
-      "clue": "Gönül huzuru anlamına gelen sözcük",
+      "clue": "İçten duyulan gönül rahatlığı; keder bırakmayan tatlı neşe.",
       "answer": "SAFA"
     },
     {
@@ -217,7 +217,7 @@
       "row": 2,
       "col": 8,
       "length": 4,
-      "clue": "Gökyüzü anlamına gelen sözcük",
+      "clue": "Başımızın üstünde uzanan mavi kubbe; yıldızları barındıran gökyüzü.",
       "answer": "SEMA"
     },
     {
@@ -226,7 +226,7 @@
       "row": 3,
       "col": 4,
       "length": 6,
-      "clue": "Kısa an anlamına gelen sözcük",
+      "clue": "Dakikanın altmışta biri; zamanın en küçük günlük ölçü birimi.",
       "answer": "SANİYE"
     },
     {
@@ -235,7 +235,7 @@
       "row": 4,
       "col": 3,
       "length": 6,
-      "clue": "Özlem ya da göresi karşılığı olarak kullanılan kelime",
+      "clue": "Uzakta olan bir sevgiliyi ya da yeri özlemenin içe işleyen duygusu.",
       "answer": "HASRET"
     },
     {
@@ -244,7 +244,7 @@
       "row": 6,
       "col": 4,
       "length": 4,
-      "clue": "Sivri dikiş aracı anlamına gelen sözcük",
+      "clue": "Ucu sivri, arkası delikli; dikiş dikmek için ipliği geçiren ince metal araç.",
       "answer": "İĞNE"
     },
     {
@@ -253,7 +253,7 @@
       "row": 7,
       "col": 1,
       "length": 5,
-      "clue": "Günlük dilde İstek olarak bilinen kavram",
+      "clue": "Bir kimsenin bir şey için yaptığı istek; dile getirilen açık dilek.",
       "answer": "TALEP"
     },
     {
@@ -262,7 +262,7 @@
       "row": 8,
       "col": 0,
       "length": 6,
-      "clue": "Kıyamet yeri için kullanılan yaygın ifade",
+      "clue": "Dinde kıyamet sonrası ölülerin toplanacağına inanılan büyük buluşma yeri.",
       "answer": "MAHŞER"
     }
   ]

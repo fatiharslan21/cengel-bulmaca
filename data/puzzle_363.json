@@ -156,7 +156,7 @@
       "row": 0,
       "col": 7,
       "length": 4,
-      "clue": "Ferahlatıcı bitki anlamına gelen sözcük",
+      "clue": "Serinletici kokusuyla tanınan, çaya ve yemeklere katılan yeşil yapraklı ot.",
       "answer": "NANE"
     },
     {
@@ -165,7 +165,7 @@
       "row": 1,
       "col": 6,
       "length": 3,
-      "clue": "Bulmacada Sıcak mevsim karşılığını veren yanıt",
+      "clue": "Dört mevsimin en sıcağı; okulların kapandığı, tatillerin geldiği zaman.",
       "answer": "YAZ"
     },
     {
@@ -174,7 +174,7 @@
       "row": 3,
       "col": 7,
       "length": 4,
-      "clue": "Günlük dilde Buyruk ya da komut olarak bilinen kavram",
+      "clue": "Yetkili bir kimsenin yerine getirilmek üzere verdiği kesin buyruk.",
       "answer": "EMİR"
     },
     {
@@ -183,7 +183,7 @@
       "row": 3,
       "col": 8,
       "length": 5,
-      "clue": "Bulmacada Seslerle sanat karşılığını veren yanıt",
+      "clue": "Seslerin belli bir düzen içinde bir araya getirilmesiyle oluşan sanat.",
       "answer": "MÜZİK"
     },
     {
@@ -192,7 +192,7 @@
       "row": 6,
       "col": 6,
       "length": 5,
-      "clue": "Bulmacada Yok olma karşılığını veren yanıt",
+      "clue": "Varlığı yerinde durmayıp sona ermesi; yokluğa geçme hali.",
       "answer": "ZEVAL"
     },
     {
@@ -201,7 +201,7 @@
       "row": 7,
       "col": 1,
       "length": 3,
-      "clue": "Bulmacada Rüzgar ya da esinti karşılığını veren yanıt",
+      "clue": "Havanın bir yönden diğerine doğru hissedilebilir akışı; rüzgâr.",
       "answer": "YEL"
     },
     {
@@ -210,7 +210,7 @@
       "row": 7,
       "col": 5,
       "length": 4,
-      "clue": "Arzu ya da istek için kullanılan yaygın ifade",
+      "clue": "İçten doğan büyük istek; insanı coşturan şiddetli arzu ve heves.",
       "answer": "ŞEVK"
     },
     {
@@ -219,7 +219,7 @@
       "row": 8,
       "col": 0,
       "length": 4,
-      "clue": "Bulmacada Çaba ya da gayret karşılığını veren yanıt",
+      "clue": "Bir işi başarmak için gösterilen büyük çaba, gayret ve çalışma.",
       "answer": "CEHD"
     },
     {
@@ -228,7 +228,7 @@
       "row": 8,
       "col": 3,
       "length": 3,
-      "clue": "Konuşma organı anlamına gelen sözcük",
+      "clue": "Ağız içindeki kaslı organ; aynı zamanda insanların konuşarak anlaştığı sistem.",
       "answer": "DİL"
     },
     {
@@ -237,7 +237,7 @@
       "row": 9,
       "col": 3,
       "length": 5,
-      "clue": "Bulmacada Talih ya da yükselme karşılığını veren yanıt",
+      "clue": "Hayatta yükselme, talih kuşunun başa konması; mevki sahibi olma.",
       "answer": "İKBAL"
     }
   ]

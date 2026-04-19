@@ -130,7 +130,7 @@
       "row": 0,
       "col": 7,
       "length": 3,
-      "clue": "Dairenin merkezinden geçen doğru parçası",
+      "clue": "Bir çemberin merkezinden geçerek onu iki eşit yaya bölen doğru parça.",
       "answer": "ÇAP"
     },
     {
@@ -139,7 +139,7 @@
       "row": 1,
       "col": 4,
       "length": 4,
-      "clue": "Utanma duygusu anlamına gelen sözcük",
+      "clue": "Ayıp sayılan bir şey karşısında insanın yüzünü kızartan çekinme duygusu.",
       "answer": "HAYA"
     },
     {
@@ -148,7 +148,7 @@
       "row": 1,
       "col": 5,
       "length": 5,
-      "clue": "Günlük dilde Konum bilgisi olarak bilinen kavram",
+      "clue": "Bir kimseye veya yere ulaşabilmek için gereken açık konum bilgisi.",
       "answer": "ADRES"
     },
     {
@@ -157,7 +157,7 @@
       "row": 3,
       "col": 2,
       "length": 6,
-      "clue": "Günlük dilde Beğenme ya da övme olarak bilinen kavram",
+      "clue": "Bir kişinin emeğini ya da başarısını görüp açıkça beğenip övme.",
       "answer": "TAKDİR"
     },
     {
@@ -166,7 +166,7 @@
       "row": 4,
       "col": 1,
       "length": 5,
-      "clue": "Geniş ana yol için kullanılan yaygın ifade",
+      "clue": "Şehirlerde iki yanı binalarla çevrili, taşıtların geçtiği geniş ana yol.",
       "answer": "CADDE"
     },
     {
@@ -175,7 +175,7 @@
       "row": 4,
       "col": 9,
       "length": 4,
-      "clue": "Bulmacada Yazılmış metin karşılığını veren yanıt",
+      "clue": "Kalemin kâğıda bıraktığı; harflerden oluşan okunabilir işaretler.",
       "answer": "YAZI"
     },
     {
@@ -184,7 +184,7 @@
       "row": 5,
       "col": 5,
       "length": 6,
-      "clue": "Günlük dilde Kürekli tekne olarak bilinen kavram",
+      "clue": "İnsan ya da kürek gücüyle suda yol alan küçük açık deniz teknesi.",
       "answer": "SANDAL"
     },
     {
@@ -193,7 +193,7 @@
       "row": 5,
       "col": 6,
       "length": 4,
-      "clue": "Günlük dilde Bacak ucu olarak bilinen kavram",
+      "clue": "Bacağın bileğinden aşağısı; üzerine basarak yürümemizi sağlayan uzuv.",
       "answer": "AYAK"
     },
     {
@@ -202,7 +202,7 @@
       "row": 6,
       "col": 0,
       "length": 4,
-      "clue": "Ayrılırken selam için kullanılan yaygın ifade",
+      "clue": "Bir kimseyle ayrılırken söylenen son söz; ayrılık selamı.",
       "answer": "VEDA"
     },
     {
@@ -211,7 +211,7 @@
       "row": 8,
       "col": 0,
       "length": 5,
-      "clue": "Hükümdar konutu anlamına gelen sözcük",
+      "clue": "Padişah veya hükümdarların oturduğu, görkemli mimarisi olan büyük yapı.",
       "answer": "SARAY"
     }
   ]

@@ -123,7 +123,7 @@
       "row": 0,
       "col": 4,
       "length": 4,
-      "clue": "Utanma duygusu anlamına gelen sözcük",
+      "clue": "Ayıp sayılan bir şey karşısında insanın yüzünü kızartan çekinme duygusu.",
       "answer": "HAYA"
     },
     {
@@ -132,7 +132,7 @@
       "row": 1,
       "col": 3,
       "length": 5,
-      "clue": "Bulmacada Şans ya da baht karşılığını veren yanıt",
+      "clue": "İnsanın ömür boyu karşılaştığı iyi ya da kötü raslantıların tümü; baht.",
       "answer": "TALİH"
     },
     {
@@ -141,7 +141,7 @@
       "row": 3,
       "col": 3,
       "length": 3,
-      "clue": "Günlük dilde Üzüm bahçesi olarak bilinen kavram",
+      "clue": "Üzüm yetiştirilen tarla; aynı zamanda düğümle tutturma eylemi.",
       "answer": "BAĞ"
     },
     {
@@ -150,7 +150,7 @@
       "row": 3,
       "col": 3,
       "length": 3,
-      "clue": "On yüzlük sayı anlamına gelen sözcük",
+      "clue": "Yüzlerin onunun bir araya gelmesiyle oluşan dört basamaklı sayı.",
       "answer": "BİN"
     },
     {
@@ -159,7 +159,7 @@
       "row": 3,
       "col": 7,
       "length": 3,
-      "clue": "Dev kara hayvanı karşılığı olarak kullanılan kelime",
+      "clue": "Hortumuyla tanınan, kulakları iri, kara hayvanlarının en büyüklerinden biri.",
       "answer": "FİL"
     },
     {
@@ -168,7 +168,7 @@
       "row": 5,
       "col": 3,
       "length": 5,
-      "clue": "Bulmacada Taşıma ya da aktarma karşılığını veren yanıt",
+      "clue": "Bir şeyin bir yerden başka bir yere taşınması; aktarma işlemi.",
       "answer": "NAKİL"
     },
     {
@@ -177,7 +177,7 @@
       "row": 5,
       "col": 4,
       "length": 4,
-      "clue": "Günlük dilde Yanan ısı ve ışık olarak bilinen kavram",
+      "clue": "Yanmakta olan bir maddenin çıkardığı ısı, ışık ve alevin tümü.",
       "answer": "ATEŞ"
     },
     {
@@ -186,7 +186,7 @@
       "row": 5,
       "col": 6,
       "length": 5,
-      "clue": "Bilme ya da anlayış karşılığı olarak kullanılan kelime",
+      "clue": "Bilginin ötesinde, deneyim ve sezgiyle kazanılan derin anlayış.",
       "answer": "İRFAN"
     },
     {
@@ -195,7 +195,7 @@
       "row": 6,
       "col": 1,
       "length": 5,
-      "clue": "Hayal ya da ilüzyon karşılığı olarak kullanılan kelime",
+      "clue": "Çölde ya da sıcakta gerçekte olmayan bir görüntü olarak algılanan yanılsama.",
       "answer": "SERAP"
     },
     {
@@ -204,7 +204,7 @@
       "row": 7,
       "col": 0,
       "length": 5,
-      "clue": "Küçük deniz taşıtı anlamına gelen sözcük",
+      "clue": "Yelkenli ya da motorlu olup denizde kısa yolculuklara çıkan küçük gemi.",
       "answer": "TEKNE"
     }
   ]

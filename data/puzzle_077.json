@@ -123,7 +123,7 @@
       "row": 0,
       "col": 8,
       "length": 5,
-      "clue": "El kol eklemi karşılığı olarak kullanılan kelime",
+      "clue": "Kolla eli birbirine bağlayan, küçük kemiklerden oluşan eklem bölgesi.",
       "answer": "BİLEK"
     },
     {
@@ -132,7 +132,7 @@
       "row": 1,
       "col": 4,
       "length": 4,
-      "clue": "Yemek pişiren karşılığı olarak kullanılan kelime",
+      "clue": "Mutfakta yemek pişirmeyi meslek edinmiş, lezzetten anlayan kişi.",
       "answer": "AŞÇI"
     },
     {
@@ -141,7 +141,7 @@
       "row": 2,
       "col": 2,
       "length": 3,
-      "clue": "Günlük dilde İçi dolu olmayan olarak bilinen kavram",
+      "clue": "İçinde hiçbir şey bulunmayan, doluluğu olmayan kap ya da mekân.",
       "answer": "BOŞ"
     },
     {
@@ -150,7 +150,7 @@
       "row": 2,
       "col": 2,
       "length": 5,
-      "clue": "Bulmacada Öğrenilen her şey karşılığını veren yanıt",
+      "clue": "Okuyarak, yaşayarak ya da öğrenerek elde edilen her türlü öğrenim ürünü.",
       "answer": "BİLGİ"
     },
     {
@@ -159,7 +159,7 @@
       "row": 3,
       "col": 4,
       "length": 5,
-      "clue": "Bir şeyin etrafını kuşatan alan",
+      "clue": "Bir alanın ya da cismin dört bir yanını saran dış sınır; etraf.",
       "answer": "ÇEVRE"
     },
     {
@@ -168,7 +168,7 @@
       "row": 4,
       "col": 0,
       "length": 3,
-      "clue": "Bulmacada Güzergah ya da patika karşılığını veren yanıt",
+      "clue": "İki yerleşim birimini birbirine bağlayan; üzerinde gidilen döşeli güzergâh.",
       "answer": "YOL"
     },
     {
@@ -177,7 +177,7 @@
       "row": 6,
       "col": 1,
       "length": 4,
-      "clue": "İki adet ya da eş karşılığı olarak kullanılan kelime",
+      "clue": "Birbirinin eşi olan iki şeyden oluşan takım; tekin karşıtı sayı grubu.",
       "answer": "ÇİFT"
     },
     {
@@ -186,7 +186,7 @@
       "row": 6,
       "col": 4,
       "length": 4,
-      "clue": "Bulmacada Raylı taşıt karşılığını veren yanıt",
+      "clue": "Raylar üzerinde hareket eden, vagonları çeken büyük motorlu araç.",
       "answer": "TREN"
     },
     {
@@ -195,7 +195,7 @@
       "row": 9,
       "col": 2,
       "length": 3,
-      "clue": "Bitiş ya da final için kullanılan yaygın ifade",
+      "clue": "Bir işin ya da sürecin bittiği nokta; final ve kapanış anı.",
       "answer": "SON"
     }
   ]

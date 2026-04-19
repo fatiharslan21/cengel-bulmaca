@@ -121,7 +121,7 @@
       "row": 0,
       "col": 2,
       "length": 6,
-      "clue": "Boşuna ya da yararsız için kullanılan yaygın ifade",
+      "clue": "Harcanan çabaya değmeyen; hiçbir yarar sağlamayan boş uğraş.",
       "answer": "NAFİLE"
     },
     {
@@ -130,7 +130,7 @@
       "row": 0,
       "col": 5,
       "length": 4,
-      "clue": "Ses birimi için kullanılan yaygın ifade",
+      "clue": "Bir kelimeyi bir nefeste söyleyebildiğimiz en küçük ses birimi.",
       "answer": "HECE"
     },
     {
@@ -139,7 +139,7 @@
       "row": 1,
       "col": 1,
       "length": 5,
-      "clue": "Geniş ana yol için kullanılan yaygın ifade",
+      "clue": "Şehirlerde iki yanı binalarla çevrili, taşıtların geçtiği geniş ana yol.",
       "answer": "CADDE"
     },
     {
@@ -148,7 +148,7 @@
       "row": 3,
       "col": 2,
       "length": 5,
-      "clue": "Namus ve ahlaki ölçülülük hali",
+      "clue": "Ahlaki ölçülere bağlı kalma; namusu ve temizliği koruma hali.",
       "answer": "İFFET"
     },
     {
@@ -157,7 +157,7 @@
       "row": 5,
       "col": 1,
       "length": 5,
-      "clue": "Tatlı madde için kullanılan yaygın ifade",
+      "clue": "Kamıştan ya da pancardan elde edilen; çay ve tatlılara katılan tatlı madde.",
       "answer": "ŞEKER"
     },
     {
@@ -166,7 +166,7 @@
       "row": 5,
       "col": 3,
       "length": 4,
-      "clue": "Şehir anlamına gelen sözcük",
+      "clue": "Nüfusu kalabalık, altyapısı gelişmiş, şehir niteliğindeki yerleşim yeri.",
       "answer": "KENT"
     },
     {
@@ -175,7 +175,7 @@
       "row": 7,
       "col": 0,
       "length": 4,
-      "clue": "Bulmacada İnanç karşılığını veren yanıt",
+      "clue": "Din esaslarına yürekten bağlanma; kalben kabul edip inanma hali.",
       "answer": "İMAN"
     },
     {
@@ -184,7 +184,7 @@
       "row": 7,
       "col": 1,
       "length": 5,
-      "clue": "Bulmacada Hüzün ya da usanç karşılığını veren yanıt",
+      "clue": "İçe işleyen hafif hüzün; kimseye belli edilmeyen sessiz usanç.",
       "answer": "MELAL"
     },
     {
@@ -193,7 +193,7 @@
       "row": 8,
       "col": 3,
       "length": 3,
-      "clue": "İnce parçacıklar karşılığı olarak kullanılan kelime",
+      "clue": "Havada uçuşan ya da yüzeyde biriken, çok küçük katı parçacıklar.",
       "answer": "TOZ"
     },
     {
@@ -202,7 +202,7 @@
       "row": 10,
       "col": 0,
       "length": 3,
-      "clue": "Günlük dilde Ün ya da şöhret olarak bilinen kavram",
+      "clue": "Yaptıklarıyla uzaklarda bile tanınıp bilinir olmanın verdiği büyük ün.",
       "answer": "ŞAN"
     }
   ]

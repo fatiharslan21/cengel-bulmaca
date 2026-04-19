@@ -143,7 +143,7 @@
       "row": 0,
       "col": 7,
       "length": 3,
-      "clue": "Yön değiştir karşılığı olarak kullanılan kelime",
+      "clue": "Bulunduğun yerden geri çevril; ya da bir eksen etrafında hareket et.",
       "answer": "DÖN"
     },
     {
@@ -152,7 +152,7 @@
       "row": 0,
       "col": 9,
       "length": 3,
-      "clue": "Rüya ya da hayal için kullanılan yaygın ifade",
+      "clue": "Uyku sırasında zihnin canlandırdığı görüntüler ya da uyanıkken kurulan hayal.",
       "answer": "DÜŞ"
     },
     {
@@ -161,7 +161,7 @@
       "row": 1,
       "col": 7,
       "length": 4,
-      "clue": "Yaşam süresi karşılığı olarak kullanılan kelime",
+      "clue": "Bir canlının doğumundan ölümüne kadar geçen toplam yaşam süresi.",
       "answer": "ÖMÜR"
     },
     {
@@ -170,7 +170,7 @@
       "row": 2,
       "col": 5,
       "length": 3,
-      "clue": "Göllü doğu ili için kullanılan yaygın ifade",
+      "clue": "Kedisiyle ve gölüyle ünlü, Türkiye'nin doğusundaki büyük il.",
       "answer": "VAN"
     },
     {
@@ -179,7 +179,7 @@
       "row": 2,
       "col": 6,
       "length": 3,
-      "clue": "Günlük dilde Ced ya da büyükbaba olarak bilinen kavram",
+      "clue": "Soyun büyüklerinden sayılan dede ya da daha öncesinden gelen büyük.",
       "answer": "ATA"
     },
     {
@@ -188,7 +188,7 @@
       "row": 4,
       "col": 3,
       "length": 5,
-      "clue": "Günlük dilde Yüzeyin sınırı olarak bilinen kavram",
+      "clue": "Bir yüzeyin ya da nesnenin dış sınırını oluşturan uç bölüm.",
       "answer": "KENAR"
     },
     {
@@ -197,7 +197,7 @@
       "row": 4,
       "col": 3,
       "length": 6,
-      "clue": "Yük aracı karşılığı olarak kullanılan kelime",
+      "clue": "Uzun kasasında büyük yükler taşıyan, dört tekerlekten fazlası olan taşıt.",
       "answer": "KAMYON"
     },
     {
@@ -206,7 +206,7 @@
       "row": 5,
       "col": 0,
       "length": 4,
-      "clue": "Kötü ya da berbat karşılığı olarak kullanılan kelime",
+      "clue": "Niteliği kötü olan, insanın içini bunaltan; iyi sözcüğünün zıttı.",
       "answer": "FENA"
     },
     {
@@ -215,7 +215,7 @@
       "row": 6,
       "col": 7,
       "length": 3,
-      "clue": "Ses çıkaran metal karşılığı olarak kullanılan kelime",
+      "clue": "İçindeki dilin sallanmasıyla ses çıkaran, koni biçimli madeni araç.",
       "answer": "ÇAN"
     },
     {
@@ -224,7 +224,7 @@
       "row": 7,
       "col": 3,
       "length": 6,
-      "clue": "Bitkinin yeşil organı anlamına gelen sözcük",
+      "clue": "Ağacın dalından sarkan, fotosentez yapıp havaya oksijen veren yeşil organ.",
       "answer": "YAPRAK"
     }
   ]

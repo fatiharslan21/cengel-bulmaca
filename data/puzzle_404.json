@@ -121,7 +121,7 @@
       "row": 0,
       "col": 4,
       "length": 3,
-      "clue": "Aynı özellikleri taşıyan canlı grubu",
+      "clue": "Aynı ortak özellikleri taşıyan canlıların oluşturduğu sınıflama birimi.",
       "answer": "TÜR"
     },
     {
@@ -130,7 +130,7 @@
       "row": 0,
       "col": 7,
       "length": 5,
-      "clue": "Eşsiz güzellik karşılığı olarak kullanılan kelime",
+      "clue": "Eşine az rastlanan, olağanüstü güzellikteki nadide eser ya da yaratılış.",
       "answer": "BEDİA"
     },
     {
@@ -139,7 +139,7 @@
       "row": 1,
       "col": 3,
       "length": 5,
-      "clue": "İyi haber anlamına gelen sözcük",
+      "clue": "Sevinçle karşılanan, umut veren yeni gelen güzel haber.",
       "answer": "MÜJDE"
     },
     {
@@ -148,7 +148,7 @@
       "row": 3,
       "col": 5,
       "length": 4,
-      "clue": "Günlük dilde Işık ya da aydınlık olarak bilinen kavram",
+      "clue": "Karanlığı dağıtan; göze hoş gelen aydınlatıcı parıltı.",
       "answer": "ZİYA"
     },
     {
@@ -157,7 +157,7 @@
       "row": 4,
       "col": 2,
       "length": 5,
-      "clue": "Günlük dilde İyilik ya da bağış olarak bilinen kavram",
+      "clue": "Karşılık beklemeden yapılan iyilik; bir büyüğün bahşettiği ihsan.",
       "answer": "LÜTUF"
     },
     {
@@ -166,7 +166,7 @@
       "row": 4,
       "col": 4,
       "length": 5,
-      "clue": "Günlük dilde Feryat ya da ağlama olarak bilinen kavram",
+      "clue": "Dayanılmaz acı anında yükselen yüksek sesli ağlama ve feryat.",
       "answer": "FİGAN"
     },
     {
@@ -175,7 +175,7 @@
       "row": 4,
       "col": 8,
       "length": 5,
-      "clue": "Günlük dilde Yakarma olarak bilinen kavram",
+      "clue": "Alçakgönüllülükle yapılan yalvarış; Tanrı'dan dilenen istek.",
       "answer": "NİYAZ"
     },
     {
@@ -184,7 +184,7 @@
       "row": 6,
       "col": 2,
       "length": 5,
-      "clue": "Günlük dilde Heyecan ya da kaygı olarak bilinen kavram",
+      "clue": "Beklenmedik bir durum karşısında gösterilen aceleci ve tedirgin hal.",
       "answer": "TELAŞ"
     },
     {
@@ -193,7 +193,7 @@
       "row": 7,
       "col": 7,
       "length": 3,
-      "clue": "Göz üstü kıl şeridi anlamına gelen sözcük",
+      "clue": "Gözün hemen üstünde bulunan, yaklaşık yay biçimindeki kıl kümesi.",
       "answer": "KAŞ"
     },
     {
@@ -202,7 +202,7 @@
       "row": 8,
       "col": 0,
       "length": 5,
-      "clue": "Günlük dilde Soluk alma verme olarak bilinen kavram",
+      "clue": "Ciğerlere hava çekmek ve bırakmak; yaşamın sürdüğünün göstergesi soluk.",
       "answer": "NEFES"
     }
   ]

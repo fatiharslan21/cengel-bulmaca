@@ -169,7 +169,7 @@
       "row": 0,
       "col": 8,
       "length": 4,
-      "clue": "Doku hasarı anlamına gelen sözcük",
+      "clue": "Bir kesik ya da darbe sonucu bedende oluşan açık doku hasarı.",
       "answer": "YARA"
     },
     {
@@ -178,7 +178,7 @@
       "row": 3,
       "col": 5,
       "length": 3,
-      "clue": "Devir ya da dönem karşılığı olarak kullanılan kelime",
+      "clue": "Tarihte belli özelliklerle ayırt edilen uzun dönem; devir, asır.",
       "answer": "ÇAĞ"
     },
     {
@@ -187,7 +187,7 @@
       "row": 3,
       "col": 7,
       "length": 3,
-      "clue": "Ömür süresi anlamına gelen sözcük",
+      "clue": "İnsanın doğduğu günden bu yana geçen toplam yıl; ömürdeki basamak.",
       "answer": "YAŞ"
     },
     {
@@ -196,7 +196,7 @@
       "row": 3,
       "col": 7,
       "length": 4,
-      "clue": "Bulmacada Yazılmış metin karşılığını veren yanıt",
+      "clue": "Kalemin kâğıda bıraktığı; harflerden oluşan okunabilir işaretler.",
       "answer": "YAZI"
     },
     {
@@ -205,7 +205,7 @@
       "row": 4,
       "col": 5,
       "length": 3,
-      "clue": "Günlük dilde Toprak sahibi olarak bilinen kavram",
+      "clue": "Eskiden köylerde geniş topraklara sahip, sözü geçen nüfuzlu kişi.",
       "answer": "AĞA"
     },
     {
@@ -214,7 +214,7 @@
       "row": 5,
       "col": 3,
       "length": 3,
-      "clue": "Yüksek arazi şekli için kullanılan yaygın ifade",
+      "clue": "Çevresine göre belirgin biçimde yükselen, taşlık ve kayalık büyük arazi.",
       "answer": "DAĞ"
     },
     {
@@ -223,7 +223,7 @@
       "row": 5,
       "col": 4,
       "length": 3,
-      "clue": "Sunma ya da takdim anlamına gelen sözcük",
+      "clue": "Bir üstün ya da yetkilinin önüne saygıyla sunma, takdim etme eylemi.",
       "answer": "ARZ"
     },
     {
@@ -232,7 +232,7 @@
       "row": 6,
       "col": 1,
       "length": 6,
-      "clue": "Bulmacada Orta nokta karşılığını veren yanıt",
+      "clue": "Bir dairenin ya da bir alanın tam ortasında bulunan ana nokta.",
       "answer": "MERKEZ"
     },
     {
@@ -241,7 +241,7 @@
       "row": 7,
       "col": 0,
       "length": 5,
-      "clue": "Tuzlu büyük su karşılığı olarak kullanılan kelime",
+      "clue": "Kıtaları birbirinden ayıran, tuzlu sulardan oluşan uçsuz bucaksız kütle.",
       "answer": "DENİZ"
     },
     {
@@ -250,7 +250,7 @@
       "row": 10,
       "col": 0,
       "length": 3,
-      "clue": "Bulmacada Dokuma kumaş parçası karşılığını veren yanıt",
+      "clue": "Silmek, temizlemek ya da örtmek için kullanılan dokuma kumaş parçası.",
       "answer": "BEZ"
     }
   ]

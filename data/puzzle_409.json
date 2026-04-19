@@ -143,7 +143,7 @@
       "row": 0,
       "col": 1,
       "length": 3,
-      "clue": "Dairenin merkezinden geçen doğru parçası",
+      "clue": "Bir çemberin merkezinden geçerek onu iki eşit yaya bölen doğru parça.",
       "answer": "ÇAP"
     },
     {
@@ -152,7 +152,7 @@
       "row": 0,
       "col": 3,
       "length": 5,
-      "clue": "Bulmacada Katlanma ya da dayanma karşılığını veren yanıt",
+      "clue": "Zorluklara dayanıp isyan etmeden bekleyebilme; hoşgörü ile katlanma.",
       "answer": "SABIR"
     },
     {
@@ -161,7 +161,7 @@
       "row": 1,
       "col": 0,
       "length": 5,
-      "clue": "Bulmacada Yurt ya da memleket karşılığını veren yanıt",
+      "clue": "Bir milletin üzerinde yaşayıp kendine yurt bildiği ata toprağı.",
       "answer": "VATAN"
     },
     {
@@ -170,7 +170,7 @@
       "row": 3,
       "col": 6,
       "length": 3,
-      "clue": "Evin çatısı anlamına gelen sözcük",
+      "clue": "Yapının üstünü kapatan, yağmurdan ve güneşten koruyan çatı kısmı.",
       "answer": "DAM"
     },
     {
@@ -179,7 +179,7 @@
       "row": 3,
       "col": 8,
       "length": 5,
-      "clue": "Günlük dilde Soluk alma verme olarak bilinen kavram",
+      "clue": "Ciğerlere hava çekmek ve bırakmak; yaşamın sürdüğünün göstergesi soluk.",
       "answer": "NEFES"
     },
     {
@@ -188,7 +188,7 @@
       "row": 4,
       "col": 3,
       "length": 7,
-      "clue": "Gevşeklik anlamına gelen sözcük",
+      "clue": "Kasları çözülmüş gibi hissettiren ağır gevşeklik; uyuşukluk hali.",
       "answer": "REHAVET"
     },
     {
@@ -197,7 +197,7 @@
       "row": 4,
       "col": 4,
       "length": 5,
-      "clue": "En sert taş karşılığı olarak kullanılan kelime",
+      "clue": "Doğada bulunan en sert madde; takılarda kullanılan değerli kıymetli taş.",
       "answer": "ELMAS"
     },
     {
@@ -206,7 +206,7 @@
       "row": 5,
       "col": 10,
       "length": 5,
-      "clue": "Bulmacada Dil ya da konuşma karşılığını veren yanıt",
+      "clue": "Bir milletin kuşaklar boyunca konuşup yazdığı ortak iletişim dizgesi.",
       "answer": "LİSAN"
     },
     {
@@ -215,7 +215,7 @@
       "row": 6,
       "col": 7,
       "length": 4,
-      "clue": "Günlük dilde İlerinin zıttı olarak bilinen kavram",
+      "clue": "İlerinin zıttı; arkaya ya da başlangıca doğru olan yön.",
       "answer": "GERİ"
     },
     {
@@ -224,7 +224,7 @@
       "row": 9,
       "col": 8,
       "length": 3,
-      "clue": "Birinci tekil kişi karşılığı olarak kullanılan kelime",
+      "clue": "Konuşan kişinin kendisini belirtmek için kullandığı birinci tekil zamir.",
       "answer": "BEN"
     }
   ]

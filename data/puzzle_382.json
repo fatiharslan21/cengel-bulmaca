@@ -143,7 +143,7 @@
       "row": 0,
       "col": 5,
       "length": 5,
-      "clue": "Günlük dilde Eşya mobilyası olarak bilinen kavram",
+      "clue": "İçine giysi, kap kacak ya da eşya konulan, kapaklı büyük mobilya.",
       "answer": "DOLAP"
     },
     {
@@ -152,7 +152,7 @@
       "row": 1,
       "col": 2,
       "length": 5,
-      "clue": "Olgunluk için kullanılan yaygın ifade",
+      "clue": "Bir şeyin eksiksiz, kusursuz ve en üst düzeyde olgunlaşmış hali.",
       "answer": "KEMAL"
     },
     {
@@ -161,7 +161,7 @@
       "row": 1,
       "col": 7,
       "length": 5,
-      "clue": "Bulmacada Pay ya da nasip karşılığını veren yanıt",
+      "clue": "Ortak bir malın ya da işin her birine düşen pay; nasip.",
       "answer": "HİSSE"
     },
     {
@@ -170,7 +170,7 @@
       "row": 2,
       "col": 1,
       "length": 7,
-      "clue": "Bulmacada Görünme ya da belirme karşılığını veren yanıt",
+      "clue": "Gizli kalmış bir şeyin zamanı gelince gözle görünür olması; belirme.",
       "answer": "TECELLİ"
     },
     {
@@ -179,7 +179,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "Doku hasarı anlamına gelen sözcük",
+      "clue": "Bir kesik ya da darbe sonucu bedende oluşan açık doku hasarı.",
       "answer": "YARA"
     },
     {
@@ -188,7 +188,7 @@
       "row": 3,
       "col": 9,
       "length": 4,
-      "clue": "Keder ya da acı karşılığı olarak kullanılan kelime",
+      "clue": "Gönle çöken derin üzüntü, insanı içten içe yiyen keder.",
       "answer": "ELEM"
     },
     {
@@ -197,7 +197,7 @@
       "row": 4,
       "col": 0,
       "length": 4,
-      "clue": "Günlük dilde Geniş düzlük olarak bilinen kavram",
+      "clue": "Üzerinde yapı bulunmayan, belli sınırlarla çevrili geniş açık düzlük.",
       "answer": "ALAN"
     },
     {
@@ -206,7 +206,7 @@
       "row": 5,
       "col": 6,
       "length": 5,
-      "clue": "Bulmacada Üzüntü karşılığını veren yanıt",
+      "clue": "İnsanın içini burkan, uzun süre geçmeyen derin üzüntü hali.",
       "answer": "KEDER"
     },
     {
@@ -215,7 +215,7 @@
       "row": 5,
       "col": 6,
       "length": 5,
-      "clue": "Günlük dilde Alın yazısı olarak bilinen kavram",
+      "clue": "İnsanın başına geleceği önceden yazıldığına inanılan alın yazısı.",
       "answer": "KADER"
     },
     {
@@ -224,7 +224,7 @@
       "row": 8,
       "col": 0,
       "length": 7,
-      "clue": "Tedavi merkezi karşılığı olarak kullanılan kelime",
+      "clue": "Doktorların çalıştığı, hastaların tedavi edildiği büyük sağlık kurumu.",
       "answer": "HASTANE"
     }
   ]

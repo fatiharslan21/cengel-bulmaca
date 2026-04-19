@@ -157,7 +157,7 @@
       "row": 0,
       "col": 3,
       "length": 4,
-      "clue": "Doku hasarı anlamına gelen sözcük",
+      "clue": "Bir kesik ya da darbe sonucu bedende oluşan açık doku hasarı.",
       "answer": "YARA"
     },
     {
@@ -166,7 +166,7 @@
       "row": 1,
       "col": 2,
       "length": 4,
-      "clue": "Bulmacada Mutlaka yapılması gereken karşılığını veren yanıt",
+      "clue": "Dinde kesinlikle yerine getirilmesi emredilen, zorunlu olan yükümlülük.",
       "answer": "FARZ"
     },
     {
@@ -175,7 +175,7 @@
       "row": 2,
       "col": 1,
       "length": 5,
-      "clue": "Günlük dilde İyilik ya da bağış olarak bilinen kavram",
+      "clue": "Karşılık beklemeden yapılan iyilik; bir büyüğün bahşettiği ihsan.",
       "answer": "LÜTUF"
     },
     {
@@ -184,7 +184,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "Uykuda hayal karşılığı olarak kullanılan kelime",
+      "clue": "Uykuda iken zihnin sahneler halinde canlandırdığı renkli görüntüler.",
       "answer": "RÜYA"
     },
     {
@@ -193,7 +193,7 @@
       "row": 5,
       "col": 0,
       "length": 6,
-      "clue": "Günlük dilde Güç ya da kuvvet olarak bilinen kavram",
+      "clue": "Bir işi yapabilme gücü; insanda ya da doğada bulunan büyük kuvvet.",
       "answer": "KUDRET"
     },
     {
@@ -202,7 +202,7 @@
       "row": 5,
       "col": 3,
       "length": 7,
-      "clue": "Gevşeklik anlamına gelen sözcük",
+      "clue": "Kasları çözülmüş gibi hissettiren ağır gevşeklik; uyuşukluk hali.",
       "answer": "REHAVET"
     },
     {
@@ -211,7 +211,7 @@
       "row": 5,
       "col": 5,
       "length": 4,
-      "clue": "Kızarmış sandviç anlamına gelen sözcük",
+      "clue": "Ekmeğin arasına peynir konup ısıtılarak kızartılan sandviç çeşidi.",
       "answer": "TOST"
     },
     {
@@ -220,7 +220,7 @@
       "row": 7,
       "col": 5,
       "length": 5,
-      "clue": "Büyük oda için kullanılan yaygın ifade",
+      "clue": "Evin misafir ağırlanan en büyük odası ya da toplantı yapılan geniş mekân.",
       "answer": "SALON"
     },
     {
@@ -229,7 +229,7 @@
       "row": 8,
       "col": 0,
       "length": 4,
-      "clue": "Sözünde durma karşılığı olarak kullanılan kelime",
+      "clue": "Dostluğunu ve sevgisini zaman geçse bile sürdürme; söze sadakat.",
       "answer": "VEFA"
     },
     {
@@ -238,7 +238,7 @@
       "row": 10,
       "col": 0,
       "length": 5,
-      "clue": "Günlük dilde Alın yazısı olarak bilinen kavram",
+      "clue": "İnsanın başına geleceği önceden yazıldığına inanılan alın yazısı.",
       "answer": "KADER"
     }
   ]

@@ -85,7 +85,7 @@
       "row": 0,
       "col": 1,
       "length": 6,
-      "clue": "İçecek kabı anlamına gelen sözcük",
+      "clue": "Su, çay ya da başka içecekleri içmek için kullanılan küçük kap.",
       "answer": "BARDAK"
     },
     {
@@ -94,7 +94,7 @@
       "row": 0,
       "col": 6,
       "length": 4,
-      "clue": "Böcekten kumaş anlamına gelen sözcük",
+      "clue": "Kozadan elde edilen, parlak dokulu ve dayanıklı, değerli kumaş lifi.",
       "answer": "İPEK"
     },
     {
@@ -103,7 +103,7 @@
       "row": 0,
       "col": 9,
       "length": 4,
-      "clue": "Bulmacada Toprak eşme karşılığını veren yanıt",
+      "clue": "Toprağın altında kalmış eski eserleri çıkarmak için yapılan eşme işi.",
       "answer": "KAZI"
     },
     {
@@ -112,7 +112,7 @@
       "row": 1,
       "col": 0,
       "length": 3,
-      "clue": "Kaygan besin karşılığı olarak kullanılan kelime",
+      "clue": "Bitkilerden ya da hayvanlardan elde edilen; suda çözünmeyen kaygan madde.",
       "answer": "YAĞ"
     },
     {
@@ -121,7 +121,7 @@
       "row": 1,
       "col": 5,
       "length": 5,
-      "clue": "Vaktinden önce karşılığı olarak kullanılan kelime",
+      "clue": "Belirlenen vaktin öncesinde gelme; geç kalmanın tersi durumu.",
       "answer": "ERKEN"
     },
     {
@@ -130,7 +130,7 @@
       "row": 2,
       "col": 7,
       "length": 3,
-      "clue": "Derin uçurum ya da dik çatlak",
+      "clue": "Derin ve dik uçurum; aynı zamanda sevilen kişi için kullanılan şiirsel ad.",
       "answer": "YAR"
     },
     {
@@ -139,7 +139,7 @@
       "row": 2,
       "col": 7,
       "length": 3,
-      "clue": "Çehre; sayı 100 için kullanılan yaygın ifade",
+      "clue": "Gözlerin, burnun ve ağzın bulunduğu baş ön kısmı; ayrıca on kere on sayısı.",
       "answer": "YÜZ"
     },
     {
@@ -148,7 +148,7 @@
       "row": 3,
       "col": 3,
       "length": 3,
-      "clue": "Günlük dilde En soğuk mevsim olarak bilinen kavram",
+      "clue": "Yılın en soğuk, en karlı ve gündüzlerin en kısa olduğu dört mevsimden biri.",
       "answer": "KIŞ"
     },
     {
@@ -157,7 +157,7 @@
       "row": 3,
       "col": 3,
       "length": 5,
-      "clue": "İple oynatılan karşılığı olarak kullanılan kelime",
+      "clue": "İp ya da parmaklarla oynatılan, tiyatro sahnesinde canlanan figürlü bebek.",
       "answer": "KUKLA"
     },
     {
@@ -166,7 +166,7 @@
       "row": 4,
       "col": 0,
       "length": 4,
-      "clue": "Bodur ağaç anlamına gelen sözcük",
+      "clue": "Boyu kısa, dalları sık ve odunsu olan, çok dallı bodur bitki.",
       "answer": "ÇALI"
     }
   ]

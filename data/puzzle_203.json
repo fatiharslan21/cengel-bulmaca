@@ -123,7 +123,7 @@
       "row": 0,
       "col": 2,
       "length": 4,
-      "clue": "Günlük dilde Yeşil alan olarak bilinen kavram",
+      "clue": "Şehir içinde insanların dinlenip yürüdüğü, ağaçlıklı kamusal yeşil alan.",
       "answer": "PARK"
     },
     {
@@ -132,7 +132,7 @@
       "row": 1,
       "col": 1,
       "length": 3,
-      "clue": "Bulmacada Durum ya da vaziyet karşılığını veren yanıt",
+      "clue": "Bir kimsenin ya da şeyin bulunduğu durum, vaziyet ya da keyif.",
       "answer": "HAL"
     },
     {
@@ -141,7 +141,7 @@
       "row": 3,
       "col": 0,
       "length": 5,
-      "clue": "Ambalajlı koli karşılığı olarak kullanılan kelime",
+      "clue": "İçindeki eşyayı korumak için ambalajlanmış, kâğıt ya da karton sargılı koli.",
       "answer": "PAKET"
     },
     {
@@ -150,7 +150,7 @@
       "row": 3,
       "col": 1,
       "length": 3,
-      "clue": "Bulmacada Koruyucu ilaç karşılığını veren yanıt",
+      "clue": "Bir hastalığa karşı bağışıklık kazandırmak için vücuda verilen ilaç.",
       "answer": "AŞI"
     },
     {
@@ -159,7 +159,7 @@
       "row": 3,
       "col": 4,
       "length": 4,
-      "clue": "Kızarmış sandviç anlamına gelen sözcük",
+      "clue": "Ekmeğin arasına peynir konup ısıtılarak kızartılan sandviç çeşidi.",
       "answer": "TOST"
     },
     {
@@ -168,7 +168,7 @@
       "row": 3,
       "col": 8,
       "length": 4,
-      "clue": "Ev ya da konut karşılığı olarak kullanılan kelime",
+      "clue": "Bir ailenin oturduğu ev; aynı zamanda sayıdaki basamak anlamı taşır.",
       "answer": "HANE"
     },
     {
@@ -177,7 +177,7 @@
       "row": 5,
       "col": 4,
       "length": 5,
-      "clue": "Günlük dilde Temizlik maddesi olarak bilinen kavram",
+      "clue": "Cilde sürülüp suyla köpürtülerek kirleri temizleyen, kalıp ya da sıvı madde.",
       "answer": "SABUN"
     },
     {
@@ -186,7 +186,7 @@
       "row": 5,
       "col": 6,
       "length": 5,
-      "clue": "Bulmacada Öğrenilen her şey karşılığını veren yanıt",
+      "clue": "Okuyarak, yaşayarak ya da öğrenerek elde edilen her türlü öğrenim ürünü.",
       "answer": "BİLGİ"
     },
     {
@@ -195,7 +195,7 @@
       "row": 7,
       "col": 5,
       "length": 3,
-      "clue": "Birinci ya da baştaki anlamına gelen sözcük",
+      "clue": "Bir sıranın en başında bulunan; sondan önce hiçbir şey olmayan sırada birinci.",
       "answer": "İLK"
     },
     {
@@ -204,7 +204,7 @@
       "row": 9,
       "col": 3,
       "length": 4,
-      "clue": "Bulmacada Deniz taşıtı karşılığını veren yanıt",
+      "clue": "Denizde yük ya da yolcu taşımak için yapılmış büyük su taşıtı.",
       "answer": "GEMİ"
     }
   ]

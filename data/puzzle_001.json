@@ -134,7 +134,7 @@
       "row": 0,
       "col": 0,
       "length": 4,
-      "clue": "Kızarmış sandviç anlamına gelen sözcük",
+      "clue": "Ekmeğin arasına peynir konup ısıtılarak kızartılan sandviç çeşidi.",
       "answer": "TOST"
     },
     {
@@ -143,7 +143,7 @@
       "row": 0,
       "col": 3,
       "length": 4,
-      "clue": "Bağlama aracı anlamına gelen sözcük",
+      "clue": "Saçı ya da kemeri tutturmaya yarayan, klips gibi açılıp kapanan küçük süs.",
       "answer": "TOKA"
     },
     {
@@ -152,7 +152,7 @@
       "row": 1,
       "col": 3,
       "length": 4,
-      "clue": "Boş zamanda keyif için yapılan etkinlik",
+      "clue": "Boş zamanlarda eğlence ya da öğrenme amacıyla kurallara göre oynanan etkinlik.",
       "answer": "OYUN"
     },
     {
@@ -161,7 +161,7 @@
       "row": 3,
       "col": 2,
       "length": 3,
-      "clue": "Dairenin merkezinden geçen doğru parçası",
+      "clue": "Bir çemberin merkezinden geçerek onu iki eşit yaya bölen doğru parça.",
       "answer": "ÇAP"
     },
     {
@@ -170,7 +170,7 @@
       "row": 3,
       "col": 2,
       "length": 5,
-      "clue": "Bir alanın ya da cismin etrafını saran sınır",
+      "clue": "Bir alanın ya da cismin dört bir yanını saran dış sınır; etraf.",
       "answer": "ÇEVRE"
     },
     {
@@ -179,7 +179,7 @@
       "row": 3,
       "col": 4,
       "length": 3,
-      "clue": "Demirin nemle zamanla aldığı kızıl tabaka",
+      "clue": "Demirin hava ve nemle temas ederek zamanla üzerinde oluşturduğu kızıl tabaka.",
       "answer": "PAS"
     },
     {
@@ -188,7 +188,7 @@
       "row": 5,
       "col": 4,
       "length": 5,
-      "clue": "Büyük oda için kullanılan yaygın ifade",
+      "clue": "Evin misafir ağırlanan en büyük odası ya da toplantı yapılan geniş mekân.",
       "answer": "SALON"
     },
     {
@@ -197,7 +197,7 @@
       "row": 7,
       "col": 1,
       "length": 5,
-      "clue": "Kıtaları ayıran geniş ve tuzlu su kütlesi",
+      "clue": "Kıtaları birbirinden ayıran, tuzlu sulardan oluşan uçsuz bucaksız kütle.",
       "answer": "DENİZ"
     },
     {
@@ -206,7 +206,7 @@
       "row": 7,
       "col": 1,
       "length": 4,
-      "clue": "Müzik eşliğinde ritme göre yapılan hareketler",
+      "clue": "Müziğin ritmine uyarak, düzenli vücut hareketleriyle yapılan sanatsal eylem.",
       "answer": "DANS"
     }
   ]

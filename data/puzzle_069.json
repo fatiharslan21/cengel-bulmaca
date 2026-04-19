@@ -109,7 +109,7 @@
       "row": 0,
       "col": 5,
       "length": 4,
-      "clue": "Günlük dilde Kez ya da kere olarak bilinen kavram",
+      "clue": "Bir olayın kaçıncı kez yaşandığını anlatmak için kullanılan kez sözcüğü.",
       "answer": "DEFA"
     },
     {
@@ -118,7 +118,7 @@
       "row": 1,
       "col": 4,
       "length": 3,
-      "clue": "Günlük dilde Lider ya da baş aşçı olarak bilinen kavram",
+      "clue": "Bir ekibin başında bulunup işleri yöneten kişi; mutfağın baş aşçısı.",
       "answer": "ŞEF"
     },
     {
@@ -127,7 +127,7 @@
       "row": 3,
       "col": 4,
       "length": 5,
-      "clue": "Evin yeşil alanı anlamına gelen sözcük",
+      "clue": "Ev ya da yapı yakınında çiçek, sebze ve ağaç yetiştirilen yeşil alan.",
       "answer": "BAHÇE"
     },
     {
@@ -136,7 +136,7 @@
       "row": 3,
       "col": 4,
       "length": 5,
-      "clue": "Suda yaşayan canlı karşılığı olarak kullanılan kelime",
+      "clue": "Suda yaşayan, solungaçlarıyla soluyan, yüzgeçleriyle hareket eden canlı.",
       "answer": "BALIK"
     },
     {
@@ -145,7 +145,7 @@
       "row": 3,
       "col": 7,
       "length": 5,
-      "clue": "Bir şeyin etrafını kuşatan alan",
+      "clue": "Bir alanın ya da cismin dört bir yanını saran dış sınır; etraf.",
       "answer": "ÇEVRE"
     },
     {
@@ -154,7 +154,7 @@
       "row": 4,
       "col": 0,
       "length": 4,
-      "clue": "Günlük dilde Yeşil alan olarak bilinen kavram",
+      "clue": "Şehir içinde insanların dinlenip yürüdüğü, ağaçlıklı kamusal yeşil alan.",
       "answer": "PARK"
     },
     {
@@ -163,7 +163,7 @@
       "row": 5,
       "col": 9,
       "length": 3,
-      "clue": "Tropikal meyve karşılığı olarak kullanılan kelime",
+      "clue": "Sarı kabuklu, uzun, yumuşak iç gövdeli tropikal meyve.",
       "answer": "MUZ"
     },
     {
@@ -172,7 +172,7 @@
       "row": 6,
       "col": 6,
       "length": 4,
-      "clue": "Günlük dilde Silahlı kuvvetler olarak bilinen kavram",
+      "clue": "Bir ülkenin savunmasını üstlenen, askerlerden oluşan silahlı kuvvetler.",
       "answer": "ORDU"
     },
     {
@@ -181,7 +181,7 @@
       "row": 7,
       "col": 0,
       "length": 5,
-      "clue": "Sadık evcil hayvan anlamına gelen sözcük",
+      "clue": "İnsana sadakatiyle bilinen, havlayarak seslenen evcil dört ayaklı.",
       "answer": "KÖPEK"
     }
   ]

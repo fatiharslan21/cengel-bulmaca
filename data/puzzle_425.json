@@ -134,7 +134,7 @@
       "row": 0,
       "col": 1,
       "length": 5,
-      "clue": "Günlük dilde Ölçü ya da ebat olarak bilinen kavram",
+      "clue": "Bir cismin uzunluk, genişlik ve yükseklik gibi ölçülebilen özelliği.",
       "answer": "BOYUT"
     },
     {
@@ -143,7 +143,7 @@
       "row": 2,
       "col": 1,
       "length": 4,
-      "clue": "Doku hasarı anlamına gelen sözcük",
+      "clue": "Bir kesik ya da darbe sonucu bedende oluşan açık doku hasarı.",
       "answer": "YARA"
     },
     {
@@ -152,7 +152,7 @@
       "row": 2,
       "col": 3,
       "length": 5,
-      "clue": "Programlanabilir makine için kullanılan yaygın ifade",
+      "clue": "Programlanarak belirli işleri otomatik yapan mekanik insansı makine.",
       "answer": "ROBOT"
     },
     {
@@ -161,7 +161,7 @@
       "row": 5,
       "col": 0,
       "length": 6,
-      "clue": "Boşuna ya da yararsız için kullanılan yaygın ifade",
+      "clue": "Harcanan çabaya değmeyen; hiçbir yarar sağlamayan boş uğraş.",
       "answer": "NAFİLE"
     },
     {
@@ -170,7 +170,7 @@
       "row": 5,
       "col": 5,
       "length": 5,
-      "clue": "Hasım ya da muhalif için kullanılan yaygın ifade",
+      "clue": "Aynı amaca ulaşmak için karşı karşıya gelen, yarış halindeki hasım.",
       "answer": "RAKİP"
     },
     {
@@ -179,7 +179,7 @@
       "row": 6,
       "col": 2,
       "length": 5,
-      "clue": "Harita kitabı karşılığı olarak kullanılan kelime",
+      "clue": "Dünyanın farklı bölgelerini gösteren haritaların toplandığı büyük kitap.",
       "answer": "ATLAS"
     },
     {
@@ -188,7 +188,7 @@
       "row": 6,
       "col": 2,
       "length": 4,
-      "clue": "Günlük dilde Geniş düzlük olarak bilinen kavram",
+      "clue": "Üzerinde yapı bulunmayan, belli sınırlarla çevrili geniş açık düzlük.",
       "answer": "ALAN"
     },
     {
@@ -197,7 +197,7 @@
       "row": 6,
       "col": 8,
       "length": 4,
-      "clue": "Ölüm vakti karşılığı olarak kullanılan kelime",
+      "clue": "Her canlı için önceden belirlendiğine inanılan ölüm zamanı.",
       "answer": "ECEL"
     },
     {
@@ -206,7 +206,7 @@
       "row": 7,
       "col": 0,
       "length": 3,
-      "clue": "Dev kara hayvanı karşılığı olarak kullanılan kelime",
+      "clue": "Hortumuyla tanınan, kulakları iri, kara hayvanlarının en büyüklerinden biri.",
       "answer": "FİL"
     },
     {
@@ -215,7 +215,7 @@
       "row": 8,
       "col": 4,
       "length": 5,
-      "clue": "Bulmacada Pay ya da nasip karşılığını veren yanıt",
+      "clue": "Ortak bir malın ya da işin her birine düşen pay; nasip.",
       "answer": "HİSSE"
     }
   ]

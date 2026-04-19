@@ -94,7 +94,7 @@
       "row": 0,
       "col": 1,
       "length": 4,
-      "clue": "Doku hasarı anlamına gelen sözcük",
+      "clue": "Bir kesik ya da darbe sonucu bedende oluşan açık doku hasarı.",
       "answer": "YARA"
     },
     {
@@ -103,7 +103,7 @@
       "row": 1,
       "col": 5,
       "length": 4,
-      "clue": "Gövdeli bitki karşılığı olarak kullanılan kelime",
+      "clue": "Toprağa kök salmış, gövdesi odunlaşmış, uzun ömürlü büyük bitki.",
       "answer": "AĞAÇ"
     },
     {
@@ -112,7 +112,7 @@
       "row": 2,
       "col": 4,
       "length": 3,
-      "clue": "Tırnak törpüsü için kullanılan yaygın ifade",
+      "clue": "Metal ya da tırnak gibi sert yüzeyleri aşındırarak düzelten dişli alet.",
       "answer": "EĞE"
     },
     {
@@ -121,7 +121,7 @@
       "row": 3,
       "col": 0,
       "length": 3,
-      "clue": "Çehre; sayı 100 için kullanılan yaygın ifade",
+      "clue": "Gözlerin, burnun ve ağzın bulunduğu baş ön kısmı; ayrıca on kere on sayısı.",
       "answer": "YÜZ"
     },
     {
@@ -130,7 +130,7 @@
       "row": 3,
       "col": 0,
       "length": 3,
-      "clue": "Ömür süresi anlamına gelen sözcük",
+      "clue": "İnsanın doğduğu günden bu yana geçen toplam yıl; ömürdeki basamak.",
       "answer": "YAŞ"
     },
     {
@@ -139,7 +139,7 @@
       "row": 4,
       "col": 3,
       "length": 3,
-      "clue": "Bulmacada Asla ya da kesinlikle hayır karşılığını veren yanıt",
+      "clue": "Olumsuzluğu pekiştiren söz; asla ve kesinlikle bulunmama durumu.",
       "answer": "HİÇ"
     },
     {
@@ -148,7 +148,7 @@
       "row": 4,
       "col": 3,
       "length": 5,
-      "clue": "Bulmacada Maç yöneticisi karşılığını veren yanıt",
+      "clue": "Sporda kuralların uygulanmasını denetleyen, karar veren yetkili kişi.",
       "answer": "HAKEM"
     },
     {
@@ -157,7 +157,7 @@
       "row": 5,
       "col": 0,
       "length": 4,
-      "clue": "Anlama yeteneği için kullanılan yaygın ifade",
+      "clue": "Yeni durumlara hızla uyum sağlayıp doğru kararlar verebilme yeteneği.",
       "answer": "ZEKA"
     },
     {
@@ -166,7 +166,7 @@
       "row": 7,
       "col": 1,
       "length": 4,
-      "clue": "Yapılması gereken iş için kullanılan yaygın ifade",
+      "clue": "Öğretmenin evde yapılmak üzere öğrenciye verdiği görev; yerine getirilmesi gereken iş.",
       "answer": "ÖDEV"
     }
   ]

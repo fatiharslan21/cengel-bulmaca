@@ -169,7 +169,7 @@
       "row": 0,
       "col": 2,
       "length": 5,
-      "clue": "Günlük dilde Yazı aleti olarak bilinen kavram",
+      "clue": "Ucundan mürekkep ya da grafit akıtarak kâğıda yazı yazmayı sağlayan araç.",
       "answer": "KALEM"
     },
     {
@@ -178,7 +178,7 @@
       "row": 1,
       "col": 1,
       "length": 4,
-      "clue": "Ev ya da konut karşılığı olarak kullanılan kelime",
+      "clue": "Bir ailenin oturduğu ev; aynı zamanda sayıdaki basamak anlamı taşır.",
       "answer": "HANE"
     },
     {
@@ -187,7 +187,7 @@
       "row": 3,
       "col": 1,
       "length": 6,
-      "clue": "Özlü söz için kullanılan yaygın ifade",
+      "clue": "Az sözle büyük anlam ifade eden, akılda kalan özlü söz.",
       "answer": "VECİZE"
     },
     {
@@ -196,7 +196,7 @@
       "row": 3,
       "col": 6,
       "length": 5,
-      "clue": "En sert taş karşılığı olarak kullanılan kelime",
+      "clue": "Doğada bulunan en sert madde; takılarda kullanılan değerli kıymetli taş.",
       "answer": "ELMAS"
     },
     {
@@ -205,7 +205,7 @@
       "row": 5,
       "col": 4,
       "length": 4,
-      "clue": "Tahta oyunu anlamına gelen sözcük",
+      "clue": "Siyah beyaz karelere yerleştirilen taşlarla iki kişi arasında oynanan oyun.",
       "answer": "DAMA"
     },
     {
@@ -214,7 +214,7 @@
       "row": 5,
       "col": 4,
       "length": 4,
-      "clue": "Hörgüçlü hayvan için kullanılan yaygın ifade",
+      "clue": "Sırtında hörgücü bulunan, çölde uzun süre susuzluğa dayanabilen büyük hayvan.",
       "answer": "DEVE"
     },
     {
@@ -223,7 +223,7 @@
       "row": 6,
       "col": 1,
       "length": 6,
-      "clue": "Giz ya da bilmece anlamına gelen sözcük",
+      "clue": "Çözülmesi zor olan gizemli durum; içinden çıkılmaz sır.",
       "answer": "MUAMMA"
     },
     {
@@ -232,7 +232,7 @@
       "row": 7,
       "col": 6,
       "length": 5,
-      "clue": "Büyük oda için kullanılan yaygın ifade",
+      "clue": "Evin misafir ağırlanan en büyük odası ya da toplantı yapılan geniş mekân.",
       "answer": "SALON"
     },
     {
@@ -241,7 +241,7 @@
       "row": 8,
       "col": 0,
       "length": 6,
-      "clue": "Özlem ya da göresi karşılığı olarak kullanılan kelime",
+      "clue": "Uzakta olan bir sevgiliyi ya da yeri özlemenin içe işleyen duygusu.",
       "answer": "HASRET"
     },
     {
@@ -250,7 +250,7 @@
       "row": 11,
       "col": 0,
       "length": 3,
-      "clue": "Çizgi ya da yol anlamına gelen sözcük",
+      "clue": "Bir noktadan diğerine uzanan düz çizgi; yol ya da güzergâh.",
       "answer": "HAT"
     }
   ]

@@ -157,7 +157,7 @@
       "row": 0,
       "col": 6,
       "length": 6,
-      "clue": "Başkent karşılığı olarak kullanılan kelime",
+      "clue": "Türkiye Cumhuriyeti'nin başkenti ve İç Anadolu'nun en büyük şehri.",
       "answer": "ANKARA"
     },
     {
@@ -166,7 +166,7 @@
       "row": 3,
       "col": 2,
       "length": 5,
-      "clue": "Eşsiz güzellik karşılığı olarak kullanılan kelime",
+      "clue": "Eşine az rastlanan, olağanüstü güzellikteki nadide eser ya da yaratılış.",
       "answer": "BEDİA"
     },
     {
@@ -175,7 +175,7 @@
       "row": 4,
       "col": 8,
       "length": 5,
-      "clue": "Bulmacada Şans ya da baht karşılığını veren yanıt",
+      "clue": "İnsanın ömür boyu karşılaştığı iyi ya da kötü raslantıların tümü; baht.",
       "answer": "TALİH"
     },
     {
@@ -184,7 +184,7 @@
       "row": 5,
       "col": 3,
       "length": 5,
-      "clue": "Bulmacada Pay ya da nasip karşılığını veren yanıt",
+      "clue": "Ortak bir malın ya da işin her birine düşen pay; nasip.",
       "answer": "HİSSE"
     },
     {
@@ -193,7 +193,7 @@
       "row": 5,
       "col": 5,
       "length": 4,
-      "clue": "Gönül huzuru anlamına gelen sözcük",
+      "clue": "İçten duyulan gönül rahatlığı; keder bırakmayan tatlı neşe.",
       "answer": "SAFA"
     },
     {
@@ -202,7 +202,7 @@
       "row": 5,
       "col": 5,
       "length": 5,
-      "clue": "Günün başı anlamına gelen sözcük",
+      "clue": "Güneşin doğmasıyla başlayıp öğleye kadar süren günün ilk dilimi.",
       "answer": "SABAH"
     },
     {
@@ -211,7 +211,7 @@
       "row": 6,
       "col": 2,
       "length": 4,
-      "clue": "Günlük dilde Işık ya da aydınlık olarak bilinen kavram",
+      "clue": "Karanlığı dağıtan; göze hoş gelen aydınlatıcı parıltı.",
       "answer": "ZİYA"
     },
     {
@@ -220,7 +220,7 @@
       "row": 8,
       "col": 1,
       "length": 4,
-      "clue": "Siyah renk karşılığı olarak kullanılan kelime",
+      "clue": "Beyazın tam zıttı olan, gölgeleri bile koyulaştıran siyah ton.",
       "answer": "KARA"
     },
     {
@@ -229,7 +229,7 @@
       "row": 9,
       "col": 0,
       "length": 4,
-      "clue": "Çözüm yolu anlamına gelen sözcük",
+      "clue": "Sıkıntılı ya da zor bir durumu ortadan kaldıracak çözüm yolu.",
       "answer": "ÇARE"
     },
     {
@@ -238,7 +238,7 @@
       "row": 11,
       "col": 0,
       "length": 4,
-      "clue": "Geçmiş zaman karşılığı olarak kullanılan kelime",
+      "clue": "Geride kalan zaman; yaşanmış olayların artık değiştirilemeyen bölümü.",
       "answer": "MAZİ"
     }
   ]

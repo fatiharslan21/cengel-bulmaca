@@ -145,7 +145,7 @@
       "row": 0,
       "col": 7,
       "length": 5,
-      "clue": "Bulmacada Yaşadığımız gezegen karşılığını veren yanıt",
+      "clue": "Üzerinde yaşadığımız, Güneş'in çevresinde dönen mavi yeşil gezegen.",
       "answer": "DÜNYA"
     },
     {
@@ -154,7 +154,7 @@
       "row": 1,
       "col": 6,
       "length": 3,
-      "clue": "Bulmacada Beyaz besin sıvısı karşılığını veren yanıt",
+      "clue": "İnek, keçi gibi memelilerden sağılan; beyaz renkli besleyici temel içecek.",
       "answer": "SÜT"
     },
     {
@@ -163,7 +163,7 @@
       "row": 4,
       "col": 2,
       "length": 3,
-      "clue": "Günlük dilde Damaktaki lezzet olarak bilinen kavram",
+      "clue": "Dilin damak aracılığıyla algıladığı; acı, ekşi, tuzlu gibi duyusal nitelik.",
       "answer": "TAT"
     },
     {
@@ -172,7 +172,7 @@
       "row": 4,
       "col": 4,
       "length": 5,
-      "clue": "Söz ya da laf karşılığı olarak kullanılan kelime",
+      "clue": "Ağızdan çıkan söz; düşüncenin dille ifade bulmuş hali.",
       "answer": "KELAM"
     },
     {
@@ -181,7 +181,7 @@
       "row": 4,
       "col": 4,
       "length": 4,
-      "clue": "Bulmacada Ev bedeli karşılığını veren yanıt",
+      "clue": "Bir evin ya da iş yerinin kullanımı için sahibine ödenen aylık ücret.",
       "answer": "KIRA"
     },
     {
@@ -190,7 +190,7 @@
       "row": 5,
       "col": 1,
       "length": 4,
-      "clue": "Bulmacada Rakam ifadesi karşılığını veren yanıt",
+      "clue": "Bir miktarı ya da sırayı belirten; rakamlarla yazılan matematik kavramı.",
       "answer": "SAYI"
     },
     {
@@ -199,7 +199,7 @@
       "row": 7,
       "col": 3,
       "length": 5,
-      "clue": "Bulmacada Deniz kıyısı karşılığını veren yanıt",
+      "clue": "Denizin ya da gölün karaya kavuştuğu kumlu ve taşlı kıyı şeridi.",
       "answer": "SAHİL"
     },
     {
@@ -208,7 +208,7 @@
       "row": 7,
       "col": 3,
       "length": 5,
-      "clue": "Hayal ya da ilüzyon karşılığı olarak kullanılan kelime",
+      "clue": "Çölde ya da sıcakta gerçekte olmayan bir görüntü olarak algılanan yanılsama.",
       "answer": "SERAP"
     },
     {
@@ -217,7 +217,7 @@
       "row": 7,
       "col": 5,
       "length": 5,
-      "clue": "Sayısal işlem karşılığı olarak kullanılan kelime",
+      "clue": "Sayılarla yapılan dört işlem; gelir ve giderin tutulduğu kayıt.",
       "answer": "HESAP"
     },
     {
@@ -226,7 +226,7 @@
       "row": 8,
       "col": 0,
       "length": 4,
-      "clue": "Kalın olmayan anlamına gelen sözcük",
+      "clue": "Kalınlığı az olan; zarif ve narin yapıda bulunan; kalının karşıtı.",
       "answer": "İNCE"
     }
   ]

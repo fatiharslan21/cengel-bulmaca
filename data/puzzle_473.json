@@ -181,7 +181,7 @@
       "row": 0,
       "col": 9,
       "length": 5,
-      "clue": "Tatlı madde için kullanılan yaygın ifade",
+      "clue": "Kamıştan ya da pancardan elde edilen; çay ve tatlılara katılan tatlı madde.",
       "answer": "ŞEKER"
     },
     {
@@ -190,7 +190,7 @@
       "row": 1,
       "col": 8,
       "length": 4,
-      "clue": "Günlük dilde Kez ya da kere olarak bilinen kavram",
+      "clue": "Bir olayın kaçıncı kez yaşandığını anlatmak için kullanılan kez sözcüğü.",
       "answer": "DEFA"
     },
     {
@@ -199,7 +199,7 @@
       "row": 4,
       "col": 7,
       "length": 7,
-      "clue": "Bulmacada Avunma ya da avuntu karşılığını veren yanıt",
+      "clue": "Üzüntülü birine söylenerek onu rahatlatan sıcak avutucu söz.",
       "answer": "TESELLİ"
     },
     {
@@ -208,7 +208,7 @@
       "row": 4,
       "col": 7,
       "length": 4,
-      "clue": "Biçim ya da üslup için kullanılan yaygın ifade",
+      "clue": "Bir kişinin ya da akımın kendine özgü yapma biçimi; üslup.",
       "answer": "TARZ"
     },
     {
@@ -217,7 +217,7 @@
       "row": 5,
       "col": 0,
       "length": 4,
-      "clue": "Talih ya da şans için kullanılan yaygın ifade",
+      "clue": "İnsanın başına gelenleri belirlediğine inanılan şans, talih ya da kader.",
       "answer": "BAHT"
     },
     {
@@ -226,7 +226,7 @@
       "row": 5,
       "col": 1,
       "length": 3,
-      "clue": "Yakışıklı ya da gösterişli anlamına gelen sözcük",
+      "clue": "Halk ağzında yakışıklı, gösterişli kimse için kullanılan eski bir sözcük.",
       "answer": "AFİ"
     },
     {
@@ -235,7 +235,7 @@
       "row": 6,
       "col": 7,
       "length": 4,
-      "clue": "Bulmacada Zaman ölçer karşılığını veren yanıt",
+      "clue": "Akrep, yelkovan ve rakamlarla anı gösteren; zamanı ölçen günlük araç.",
       "answer": "SAAT"
     },
     {
@@ -244,7 +244,7 @@
       "row": 7,
       "col": 0,
       "length": 5,
-      "clue": "Bulmacada Dil ya da konuşma karşılığını veren yanıt",
+      "clue": "Bir milletin kuşaklar boyunca konuşup yazdığı ortak iletişim dizgesi.",
       "answer": "LİSAN"
     },
     {
@@ -253,7 +253,7 @@
       "row": 7,
       "col": 4,
       "length": 5,
-      "clue": "Bulmacada Taşıma ya da aktarma karşılığını veren yanıt",
+      "clue": "Bir şeyin bir yerden başka bir yere taşınması; aktarma işlemi.",
       "answer": "NAKİL"
     },
     {
@@ -262,7 +262,7 @@
       "row": 10,
       "col": 3,
       "length": 5,
-      "clue": "Bulmacada Öğrenilen her şey karşılığını veren yanıt",
+      "clue": "Okuyarak, yaşayarak ya da öğrenerek elde edilen her türlü öğrenim ürünü.",
       "answer": "BİLGİ"
     }
   ]

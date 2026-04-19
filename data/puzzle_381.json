@@ -167,7 +167,7 @@
       "row": 0,
       "col": 0,
       "length": 3,
-      "clue": "Kafa ya da vücudun üstü için kullanılan yaygın ifade",
+      "clue": "İnsanın boynundan yukarısı, beynin ve yüzün bulunduğu vücut bölümü.",
       "answer": "BAŞ"
     },
     {
@@ -176,7 +176,7 @@
       "row": 0,
       "col": 2,
       "length": 5,
-      "clue": "Tatlı madde için kullanılan yaygın ifade",
+      "clue": "Kamıştan ya da pancardan elde edilen; çay ve tatlılara katılan tatlı madde.",
       "answer": "ŞEKER"
     },
     {
@@ -185,7 +185,7 @@
       "row": 3,
       "col": 1,
       "length": 5,
-      "clue": "Küçük deniz taşıtı anlamına gelen sözcük",
+      "clue": "Yelkenli ya da motorlu olup denizde kısa yolculuklara çıkan küçük gemi.",
       "answer": "TEKNE"
     },
     {
@@ -194,7 +194,7 @@
       "row": 3,
       "col": 4,
       "length": 5,
-      "clue": "İnce ya da kibar karşılığı olarak kullanılan kelime",
+      "clue": "Kırıcı olmayan, incelikli davranışları olan; kibar ve görgülü kimse.",
       "answer": "NAZİK"
     },
     {
@@ -203,7 +203,7 @@
       "row": 5,
       "col": 4,
       "length": 5,
-      "clue": "Topluluk ya da küme için kullanılan yaygın ifade",
+      "clue": "Aynı ortak özellikleri paylaşan kişilerden oluşan topluluk; grup.",
       "answer": "ZÜMRE"
     },
     {
@@ -212,7 +212,7 @@
       "row": 5,
       "col": 8,
       "length": 4,
-      "clue": "Yük hayvanı için kullanılan yaygın ifade",
+      "clue": "Uzun kulaklı, sabırlı; köylerde yük taşımada kullanılan küçük binek hayvanı.",
       "answer": "EŞEK"
     },
     {
@@ -221,7 +221,7 @@
       "row": 6,
       "col": 2,
       "length": 5,
-      "clue": "Esenleme sözü için kullanılan yaygın ifade",
+      "clue": "Birbirini gören iki kişinin hal hatır sormak için söylediği esenlik dileği.",
       "answer": "SELAM"
     },
     {
@@ -230,7 +230,7 @@
       "row": 7,
       "col": 1,
       "length": 5,
-      "clue": "Günlük dilde Yer ya da konum olarak bilinen kavram",
+      "clue": "Bir kimsenin toplumdaki yeri, konumu ya da makamı.",
       "answer": "MEVKİ"
     },
     {
@@ -239,7 +239,7 @@
       "row": 7,
       "col": 7,
       "length": 5,
-      "clue": "Kabir için kullanılan yaygın ifade",
+      "clue": "Ölünün toprağa verildiği, başında taş bulunan defin yeri; kabir.",
       "answer": "MEZAR"
     },
     {
@@ -248,7 +248,7 @@
       "row": 9,
       "col": 1,
       "length": 4,
-      "clue": "Bulmacada Yazılmış metin karşılığını veren yanıt",
+      "clue": "Kalemin kâğıda bıraktığı; harflerden oluşan okunabilir işaretler.",
       "answer": "YAZI"
     }
   ]

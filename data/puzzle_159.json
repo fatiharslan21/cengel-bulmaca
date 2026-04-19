@@ -125,7 +125,7 @@
       "row": 0,
       "col": 10,
       "length": 5,
-      "clue": "Evin yeşil alanı anlamına gelen sözcük",
+      "clue": "Ev ya da yapı yakınında çiçek, sebze ve ağaç yetiştirilen yeşil alan.",
       "answer": "BAHÇE"
     },
     {
@@ -134,7 +134,7 @@
       "row": 1,
       "col": 8,
       "length": 3,
-      "clue": "Günlük dilde Ced ya da büyükbaba olarak bilinen kavram",
+      "clue": "Soyun büyüklerinden sayılan dede ya da daha öncesinden gelen büyük.",
       "answer": "ATA"
     },
     {
@@ -143,7 +143,7 @@
       "row": 2,
       "col": 0,
       "length": 3,
-      "clue": "Bulmacada Uzaklaşma eylemi karşılığını veren yanıt",
+      "clue": "Bulunduğun yerden uzaklaşarak başka bir yere doğru yönel; gel'in zıttı.",
       "answer": "GİT"
     },
     {
@@ -152,7 +152,7 @@
       "row": 3,
       "col": 2,
       "length": 4,
-      "clue": "Elektrik hareketi için kullanılan yaygın ifade",
+      "clue": "Belirli bir yönde hareket eden elektrik yükü ya da suyun sürüklenişi.",
       "answer": "AKIM"
     },
     {
@@ -161,7 +161,7 @@
       "row": 4,
       "col": 0,
       "length": 4,
-      "clue": "Bağlama aracı anlamına gelen sözcük",
+      "clue": "Saçı ya da kemeri tutturmaya yarayan, klips gibi açılıp kapanan küçük süs.",
       "answer": "TOKA"
     },
     {
@@ -170,7 +170,7 @@
       "row": 4,
       "col": 5,
       "length": 3,
-      "clue": "Bulmacada Adalet ya da doğruluk karşılığını veren yanıt",
+      "clue": "Kişinin yasal olarak sahip olduğu; alması ya da yapması gereken şey.",
       "answer": "HAK"
     },
     {
@@ -179,7 +179,7 @@
       "row": 4,
       "col": 7,
       "length": 4,
-      "clue": "Bulmacada Toprak eşme karşılığını veren yanıt",
+      "clue": "Toprağın altında kalmış eski eserleri çıkarmak için yapılan eşme işi.",
       "answer": "KAZI"
     },
     {
@@ -188,7 +188,7 @@
       "row": 4,
       "col": 7,
       "length": 5,
-      "clue": "Sadık evcil hayvan anlamına gelen sözcük",
+      "clue": "İnsana sadakatiyle bilinen, havlayarak seslenen evcil dört ayaklı.",
       "answer": "KÖPEK"
     },
     {
@@ -197,7 +197,7 @@
       "row": 4,
       "col": 11,
       "length": 4,
-      "clue": "Bulmacada Ev bedeli karşılığını veren yanıt",
+      "clue": "Bir evin ya da iş yerinin kullanımı için sahibine ödenen aylık ücret.",
       "answer": "KIRA"
     },
     {
@@ -206,7 +206,7 @@
       "row": 6,
       "col": 2,
       "length": 6,
-      "clue": "Bulmacada Orta nokta karşılığını veren yanıt",
+      "clue": "Bir dairenin ya da bir alanın tam ortasında bulunan ana nokta.",
       "answer": "MERKEZ"
     }
   ]

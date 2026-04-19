@@ -133,7 +133,7 @@
       "row": 0,
       "col": 1,
       "length": 3,
-      "clue": "Bulmacada Adalet ya da doğruluk karşılığını veren yanıt",
+      "clue": "Kişinin yasal olarak sahip olduğu; alması ya da yapması gereken şey.",
       "answer": "HAK"
     },
     {
@@ -142,7 +142,7 @@
       "row": 0,
       "col": 3,
       "length": 4,
-      "clue": "Büyük sert taş için kullanılan yaygın ifade",
+      "clue": "Toprağın üstünde ya da altında bulunan, kolay parçalanmayan büyük taş.",
       "answer": "KAYA"
     },
     {
@@ -151,7 +151,7 @@
       "row": 1,
       "col": 3,
       "length": 4,
-      "clue": "Bulmacada Hedef ya da gaye karşılığını veren yanıt",
+      "clue": "Bir işin başında konulan, ulaşılmak istenen hedef ya da gaye.",
       "answer": "AMAÇ"
     },
     {
@@ -160,7 +160,7 @@
       "row": 1,
       "col": 5,
       "length": 4,
-      "clue": "Gerçek ya da hakiki için kullanılan yaygın ifade",
+      "clue": "Sahte ya da taklit olmayan; bir şeyin gerçek ve temel olan hali.",
       "answer": "ASIL"
     },
     {
@@ -169,7 +169,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "Uykuda hayal karşılığı olarak kullanılan kelime",
+      "clue": "Uykuda iken zihnin sahneler halinde canlandırdığı renkli görüntüler.",
       "answer": "RÜYA"
     },
     {
@@ -178,7 +178,7 @@
       "row": 3,
       "col": 7,
       "length": 4,
-      "clue": "Bulmacada Çiçek süs kabı karşılığını veren yanıt",
+      "clue": "İçine çiçek konulmak üzere yapılmış, ince uzun boyunlu süs kabı.",
       "answer": "VAZO"
     },
     {
@@ -187,7 +187,7 @@
       "row": 4,
       "col": 4,
       "length": 4,
-      "clue": "Bulmacada Kırmızı meyve karşılığını veren yanıt",
+      "clue": "Kabuğu kırmızı, sarı ya da yeşil olabilen, sulu ve çıtır meyve.",
       "answer": "ELMA"
     },
     {
@@ -196,7 +196,7 @@
       "row": 6,
       "col": 6,
       "length": 4,
-      "clue": "Bulmacada Yakın arkadaş karşılığını veren yanıt",
+      "clue": "Kötü günde de yanında olan, gönülden sevilen yakın arkadaş.",
       "answer": "DOST"
     },
     {
@@ -205,7 +205,7 @@
       "row": 6,
       "col": 6,
       "length": 4,
-      "clue": "Günlük dilde Sıkıntı ya da üzüntü olarak bilinen kavram",
+      "clue": "İnsanı üzen, iç sıkıntısı veren; uzun süre geçmeyen tasa ve keder.",
       "answer": "DERT"
     },
     {
@@ -214,7 +214,7 @@
       "row": 8,
       "col": 4,
       "length": 4,
-      "clue": "Ayrım ya da değişiklik anlamına gelen sözcük",
+      "clue": "İki şeyin birbirinden ayrıldığı yön; aralarındaki benzemezlik.",
       "answer": "FARK"
     }
   ]

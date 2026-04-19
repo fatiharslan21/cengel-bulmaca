@@ -145,7 +145,7 @@
       "row": 0,
       "col": 8,
       "length": 4,
-      "clue": "Bulmacada Mutlaka yapılması gereken karşılığını veren yanıt",
+      "clue": "Dinde kesinlikle yerine getirilmesi emredilen, zorunlu olan yükümlülük.",
       "answer": "FARZ"
     },
     {
@@ -154,7 +154,7 @@
       "row": 1,
       "col": 4,
       "length": 6,
-      "clue": "Bulmacada Sevgi ya da acıma karşılığını veren yanıt",
+      "clue": "Zayıfa ve çaresize duyulan içten sevgi; acıyarak sarılma duygusu.",
       "answer": "ŞEFKAT"
     },
     {
@@ -163,7 +163,7 @@
       "row": 1,
       "col": 6,
       "length": 5,
-      "clue": "Günlük dilde Feryat ya da ağlama olarak bilinen kavram",
+      "clue": "Dayanılmaz acı anında yükselen yüksek sesli ağlama ve feryat.",
       "answer": "FİGAN"
     },
     {
@@ -172,7 +172,7 @@
       "row": 3,
       "col": 1,
       "length": 4,
-      "clue": "Bulmacada İnanç karşılığını veren yanıt",
+      "clue": "Din esaslarına yürekten bağlanma; kalben kabul edip inanma hali.",
       "answer": "İMAN"
     },
     {
@@ -181,7 +181,7 @@
       "row": 4,
       "col": 3,
       "length": 4,
-      "clue": "Ferahlatıcı bitki anlamına gelen sözcük",
+      "clue": "Serinletici kokusuyla tanınan, çaya ve yemeklere katılan yeşil yapraklı ot.",
       "answer": "NANE"
     },
     {
@@ -190,7 +190,7 @@
       "row": 4,
       "col": 3,
       "length": 5,
-      "clue": "Günlük dilde Yakarma olarak bilinen kavram",
+      "clue": "Alçakgönüllülükle yapılan yalvarış; Tanrı'dan dilenen istek.",
       "answer": "NİYAZ"
     },
     {
@@ -199,7 +199,7 @@
       "row": 5,
       "col": 0,
       "length": 4,
-      "clue": "Günlük dilde Yanlış ya da kusur olarak bilinen kavram",
+      "clue": "İstemeden yapılan yanlış; doğru olandan sapmanın yol açtığı kusur.",
       "answer": "HATA"
     },
     {
@@ -208,7 +208,7 @@
       "row": 7,
       "col": 2,
       "length": 4,
-      "clue": "Sözünde durma karşılığı olarak kullanılan kelime",
+      "clue": "Dostluğunu ve sevgisini zaman geçse bile sürdürme; söze sadakat.",
       "answer": "VEFA"
     },
     {
@@ -217,7 +217,7 @@
       "row": 7,
       "col": 5,
       "length": 4,
-      "clue": "Hafif olmayan için kullanılan yaygın ifade",
+      "clue": "Kaldırılması güç olan, hafif sözcüğünün zıttı sayılan kütle durumu.",
       "answer": "AĞIR"
     },
     {
@@ -226,7 +226,7 @@
       "row": 10,
       "col": 3,
       "length": 4,
-      "clue": "Günlük dilde Zodyak işareti olarak bilinen kavram",
+      "clue": "Gökyüzündeki yıldız öbeklerinin oluşturduğu, astrolojide kullanılan imge.",
       "answer": "BURÇ"
     }
   ]

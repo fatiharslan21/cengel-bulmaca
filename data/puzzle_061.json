@@ -94,7 +94,7 @@
       "row": 0,
       "col": 1,
       "length": 5,
-      "clue": "Günlük dilde Temizlik maddesi olarak bilinen kavram",
+      "clue": "Cilde sürülüp suyla köpürtülerek kirleri temizleyen, kalıp ya da sıvı madde.",
       "answer": "SABUN"
     },
     {
@@ -103,7 +103,7 @@
       "row": 0,
       "col": 5,
       "length": 4,
-      "clue": "Müzik işareti için kullanılan yaygın ifade",
+      "clue": "Müzik eserlerinde seslerin yükseklik ve uzunluğunu gösteren küçük simge.",
       "answer": "NOTA"
     },
     {
@@ -112,7 +112,7 @@
       "row": 3,
       "col": 4,
       "length": 5,
-      "clue": "Tuzlu büyük su karşılığı olarak kullanılan kelime",
+      "clue": "Kıtaları birbirinden ayıran, tuzlu sulardan oluşan uçsuz bucaksız kütle.",
       "answer": "DENİZ"
     },
     {
@@ -121,7 +121,7 @@
       "row": 3,
       "col": 4,
       "length": 3,
-      "clue": "Geniş olmayan karşılığı olarak kullanılan kelime",
+      "clue": "Genişliği yetersiz olan, sıkıştıran; geniş sözcüğünün karşıtı sıfat.",
       "answer": "DAR"
     },
     {
@@ -130,7 +130,7 @@
       "row": 4,
       "col": 0,
       "length": 5,
-      "clue": "Yenilebilen bitki için kullanılan yaygın ifade",
+      "clue": "Mutfağa giren, bitki kökleri ve yapraklarından oluşan yenilebilir besin.",
       "answer": "SEBZE"
     },
     {
@@ -139,7 +139,7 @@
       "row": 4,
       "col": 2,
       "length": 3,
-      "clue": "Asit karşıtı için kullanılan yaygın ifade",
+      "clue": "Kimyada asitle tepkimeye girerek tuz oluşturan, karşıt özellikli madde.",
       "answer": "BAZ"
     },
     {
@@ -148,7 +148,7 @@
       "row": 5,
       "col": 2,
       "length": 4,
-      "clue": "Bulmacada Yansıtıcı cam karşılığını veren yanıt",
+      "clue": "Karşısına geçenin görüntüsünü aynen yansıtan sırlanmış cam yüzey.",
       "answer": "AYNA"
     },
     {
@@ -157,7 +157,7 @@
       "row": 6,
       "col": 0,
       "length": 3,
-      "clue": "Bulmacada Dokuma kumaş parçası karşılığını veren yanıt",
+      "clue": "Silmek, temizlemek ya da örtmek için kullanılan dokuma kumaş parçası.",
       "answer": "BEZ"
     },
     {
@@ -166,7 +166,7 @@
       "row": 8,
       "col": 0,
       "length": 4,
-      "clue": "Kullanılan nesneler anlamına gelen sözcük",
+      "clue": "Evde ya da iş yerinde gündelik hayatta kullanılan nesnelerin tümü.",
       "answer": "EŞYA"
     }
   ]

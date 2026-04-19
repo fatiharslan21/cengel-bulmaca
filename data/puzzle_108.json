@@ -109,7 +109,7 @@
       "row": 0,
       "col": 1,
       "length": 4,
-      "clue": "Günlük dilde Renk veren madde olarak bilinen kavram",
+      "clue": "Bir yüzeye sürüldüğünde ona istenilen rengi veren sıvı ya da toz madde.",
       "answer": "BOYA"
     },
     {
@@ -118,7 +118,7 @@
       "row": 1,
       "col": 0,
       "length": 4,
-      "clue": "Kızarmış sandviç anlamına gelen sözcük",
+      "clue": "Ekmeğin arasına peynir konup ısıtılarak kızartılan sandviç çeşidi.",
       "answer": "TOST"
     },
     {
@@ -127,7 +127,7 @@
       "row": 3,
       "col": 0,
       "length": 3,
-      "clue": "Bulmacada Damar sıvısı karşılığını veren yanıt",
+      "clue": "Damarlarda dolaşarak vücuda oksijen taşıyan kırmızı renkli canlı sıvı.",
       "answer": "KAN"
     },
     {
@@ -136,7 +136,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "Günlük dilde Yüzeylerin birleşimi olarak bilinen kavram",
+      "clue": "İki duvarın ya da iki kenarın birleştiği noktada oluşan açılı yer.",
       "answer": "KÖŞE"
     },
     {
@@ -145,7 +145,7 @@
       "row": 5,
       "col": 2,
       "length": 5,
-      "clue": "Tatlı madde için kullanılan yaygın ifade",
+      "clue": "Kamıştan ya da pancardan elde edilen; çay ve tatlılara katılan tatlı madde.",
       "answer": "ŞEKER"
     },
     {
@@ -154,7 +154,7 @@
       "row": 6,
       "col": 0,
       "length": 4,
-      "clue": "Bulmacada Sanat yapıtı karşılığını veren yanıt",
+      "clue": "Bir sanatçının ya da yazarın ortaya koyduğu özgün yapıt.",
       "answer": "ESER"
     },
     {
@@ -163,7 +163,7 @@
       "row": 8,
       "col": 1,
       "length": 4,
-      "clue": "Bulmacada Otlak alan karşılığını veren yanıt",
+      "clue": "Hayvanların otlayıp beslenmesi için ayrılmış, doğal otlarla kaplı geniş alan.",
       "answer": "MERA"
     },
     {
@@ -172,7 +172,7 @@
       "row": 8,
       "col": 4,
       "length": 4,
-      "clue": "Gerçek ya da hakiki için kullanılan yaygın ifade",
+      "clue": "Sahte ya da taklit olmayan; bir şeyin gerçek ve temel olan hali.",
       "answer": "ASIL"
     },
     {
@@ -181,7 +181,7 @@
       "row": 11,
       "col": 2,
       "length": 4,
-      "clue": "Günlük dilde Boş olmayan olarak bilinen kavram",
+      "clue": "İçi boşluk bırakmayacak biçimde bir şeyle tamamen kaplanmış olan.",
       "answer": "DOLU"
     }
   ]

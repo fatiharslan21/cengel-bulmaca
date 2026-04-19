@@ -143,7 +143,7 @@
       "row": 0,
       "col": 1,
       "length": 4,
-      "clue": "Küçük kemirgen karşılığı olarak kullanılan kelime",
+      "clue": "Dişleri sürekli uzayan, tahtayı ve kâğıdı kemirebilen küçük kemirgen.",
       "answer": "FARE"
     },
     {
@@ -152,7 +152,7 @@
       "row": 1,
       "col": 0,
       "length": 3,
-      "clue": "Mülk ya da eşya anlamına gelen sözcük",
+      "clue": "Sahip olunan taşınır ya da taşınmaz değerli eşya; mülk.",
       "answer": "MAL"
     },
     {
@@ -161,7 +161,7 @@
       "row": 3,
       "col": 0,
       "length": 3,
-      "clue": "Bulmacada Havadaki rutubet karşılığını veren yanıt",
+      "clue": "Havada ya da bir yüzeyde bulunan, hissedilen rutubet miktarı.",
       "answer": "NEM"
     },
     {
@@ -170,7 +170,7 @@
       "row": 3,
       "col": 2,
       "length": 4,
-      "clue": "Geçmiş zaman karşılığı olarak kullanılan kelime",
+      "clue": "Geride kalan zaman; yaşanmış olayların artık değiştirilemeyen bölümü.",
       "answer": "MAZİ"
     },
     {
@@ -179,7 +179,7 @@
       "row": 3,
       "col": 4,
       "length": 6,
-      "clue": "Günlük dilde Anlatılan olay olarak bilinen kavram",
+      "clue": "Başı, ortası ve sonu olan; yaşanmış ya da kurmaca kısa anlatı.",
       "answer": "HİKAYE"
     },
     {
@@ -188,7 +188,7 @@
       "row": 4,
       "col": 2,
       "length": 3,
-      "clue": "Yakışıklı ya da gösterişli anlamına gelen sözcük",
+      "clue": "Halk ağzında yakışıklı, gösterişli kimse için kullanılan eski bir sözcük.",
       "answer": "AFİ"
     },
     {
@@ -197,7 +197,7 @@
       "row": 5,
       "col": 0,
       "length": 3,
-      "clue": "İnce parçacıklar karşılığı olarak kullanılan kelime",
+      "clue": "Havada uçuşan ya da yüzeyde biriken, çok küçük katı parçacıklar.",
       "answer": "TOZ"
     },
     {
@@ -206,7 +206,7 @@
       "row": 5,
       "col": 6,
       "length": 5,
-      "clue": "Temel buğday gıdası anlamına gelen sözcük",
+      "clue": "Undan mayalanıp fırında pişirilerek yapılan, sofranın temel besini.",
       "answer": "EKMEK"
     },
     {
@@ -215,7 +215,7 @@
       "row": 6,
       "col": 6,
       "length": 5,
-      "clue": "Bulmacada Üzüntü karşılığını veren yanıt",
+      "clue": "İnsanın içini burkan, uzun süre geçmeyen derin üzüntü hali.",
       "answer": "KEDER"
     },
     {
@@ -224,7 +224,7 @@
       "row": 8,
       "col": 3,
       "length": 5,
-      "clue": "Onur ya da itibar için kullanılan yaygın ifade",
+      "clue": "Toplumun kişiye duyduğu saygı; alnı ak olma halinin verdiği onur.",
       "answer": "ŞEREF"
     }
   ]

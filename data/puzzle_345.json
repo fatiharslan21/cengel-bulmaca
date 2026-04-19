@@ -125,7 +125,7 @@
       "row": 0,
       "col": 4,
       "length": 4,
-      "clue": "Ayrılırken selam için kullanılan yaygın ifade",
+      "clue": "Bir kimseyle ayrılırken söylenen son söz; ayrılık selamı.",
       "answer": "VEDA"
     },
     {
@@ -134,7 +134,7 @@
       "row": 1,
       "col": 0,
       "length": 6,
-      "clue": "Kıyamet yeri için kullanılan yaygın ifade",
+      "clue": "Dinde kıyamet sonrası ölülerin toplanacağına inanılan büyük buluşma yeri.",
       "answer": "MAHŞER"
     },
     {
@@ -143,7 +143,7 @@
       "row": 1,
       "col": 1,
       "length": 4,
-      "clue": "Günlük dilde Yürüyüş mesafesi olarak bilinen kavram",
+      "clue": "Yürürken bir ayağın diğerinin önüne atılmasıyla alınan kısa mesafe.",
       "answer": "ADIM"
     },
     {
@@ -152,7 +152,7 @@
       "row": 3,
       "col": 3,
       "length": 4,
-      "clue": "Uyan ya da bağlı karşılığı olarak kullanılan kelime",
+      "clue": "Bir kurala, şahsa ya da düzene bağlı olan; ona uymak durumunda kalan.",
       "answer": "TABİ"
     },
     {
@@ -161,7 +161,7 @@
       "row": 3,
       "col": 6,
       "length": 5,
-      "clue": "Günlük dilde Anlayış olarak bilinen kavram",
+      "clue": "Bir şeyin anlamını kavrama; olup biteni zihinde anlamlandırma yeteneği.",
       "answer": "İDRAK"
     },
     {
@@ -170,7 +170,7 @@
       "row": 3,
       "col": 9,
       "length": 4,
-      "clue": "Altın rengi için kullanılan yaygın ifade",
+      "clue": "Limon ve altın tonlarında olan, güneşi çağrıştıran canlı sıcak renk.",
       "answer": "SARI"
     },
     {
@@ -179,7 +179,7 @@
       "row": 4,
       "col": 8,
       "length": 4,
-      "clue": "Ayrım ya da değişiklik anlamına gelen sözcük",
+      "clue": "İki şeyin birbirinden ayrıldığı yön; aralarındaki benzemezlik.",
       "answer": "FARK"
     },
     {
@@ -188,7 +188,7 @@
       "row": 4,
       "col": 11,
       "length": 3,
-      "clue": "Yanık kalıntısı için kullanılan yaygın ifade",
+      "clue": "Bir şeyin yanıp bitmesinin ardından geriye kalan kurumuş toz madde.",
       "answer": "KÜL"
     },
     {
@@ -197,7 +197,7 @@
       "row": 5,
       "col": 4,
       "length": 3,
-      "clue": "Günlük dilde Mekan ya da konum olarak bilinen kavram",
+      "clue": "Üzerinde durduğumuz zemin; bir olayın geçtiği konum.",
       "answer": "YER"
     },
     {
@@ -206,7 +206,7 @@
       "row": 6,
       "col": 6,
       "length": 4,
-      "clue": "Yemek pişiren karşılığı olarak kullanılan kelime",
+      "clue": "Mutfakta yemek pişirmeyi meslek edinmiş, lezzetten anlayan kişi.",
       "answer": "AŞÇI"
     }
   ]

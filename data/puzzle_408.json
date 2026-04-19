@@ -169,7 +169,7 @@
       "row": 0,
       "col": 6,
       "length": 5,
-      "clue": "Bulmacada İnce söz ya da espri karşılığını veren yanıt",
+      "clue": "Dinleyeni güldüren ince espri; zarif bir ustalıkla söylenmiş söz.",
       "answer": "NÜKTE"
     },
     {
@@ -178,7 +178,7 @@
       "row": 1,
       "col": 5,
       "length": 3,
-      "clue": "Aynı özellikleri taşıyan canlı grubu",
+      "clue": "Aynı ortak özellikleri taşıyan canlıların oluşturduğu sınıflama birimi.",
       "answer": "TÜR"
     },
     {
@@ -187,7 +187,7 @@
       "row": 4,
       "col": 5,
       "length": 3,
-      "clue": "Yaklaşma eylemi karşılığı olarak kullanılan kelime",
+      "clue": "Bulunduğun yerden buraya doğru yaklaş; git sözcüğünün tam zıttı eylem.",
       "answer": "GEL"
     },
     {
@@ -196,7 +196,7 @@
       "row": 4,
       "col": 7,
       "length": 5,
-      "clue": "Hoş ya da ince için kullanılan yaygın ifade",
+      "clue": "Göze ve gönle hoş gelen, nazik ve yumuşak huylu; incelikli olan.",
       "answer": "LATİF"
     },
     {
@@ -205,7 +205,7 @@
       "row": 6,
       "col": 4,
       "length": 5,
-      "clue": "En küçük işaret için kullanılan yaygın ifade",
+      "clue": "Bir cümlenin sonuna konan en küçük yazı işareti; konumun kendisi.",
       "answer": "NOKTA"
     },
     {
@@ -214,7 +214,7 @@
       "row": 8,
       "col": 5,
       "length": 5,
-      "clue": "Bolluk ya da huzur için kullanılan yaygın ifade",
+      "clue": "Geçim sıkıntısı çekmeden, bolluk içinde sürdürülen rahat ve huzurlu yaşam.",
       "answer": "REFAH"
     },
     {
@@ -223,7 +223,7 @@
       "row": 8,
       "col": 5,
       "length": 4,
-      "clue": "Tesadüf ya da denk gelme anlamına gelen sözcük",
+      "clue": "Birinin ya da bir şeyin beklemediğin anda karşına çıkması; tesadüf.",
       "answer": "RAST"
     },
     {
@@ -232,7 +232,7 @@
       "row": 8,
       "col": 8,
       "length": 3,
-      "clue": "Bulmacada Bir şeye ilişkin karşılığını veren yanıt",
+      "clue": "Bir şeye bağlı bulunma; onunla ilgili ya da onun sahipliğinde olma.",
       "answer": "AİT"
     },
     {
@@ -241,7 +241,7 @@
       "row": 9,
       "col": 0,
       "length": 6,
-      "clue": "Okyanus memelisi için kullanılan yaygın ifade",
+      "clue": "Okyanuslarda yaşayan, dünyanın en büyük sayılan memeli deniz canlısı.",
       "answer": "BALİNA"
     },
     {
@@ -250,7 +250,7 @@
       "row": 10,
       "col": 7,
       "length": 4,
-      "clue": "Günlük dilde Yanan ısı ve ışık olarak bilinen kavram",
+      "clue": "Yanmakta olan bir maddenin çıkardığı ısı, ışık ve alevin tümü.",
       "answer": "ATEŞ"
     }
   ]

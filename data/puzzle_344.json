@@ -156,7 +156,7 @@
       "row": 0,
       "col": 6,
       "length": 6,
-      "clue": "Üst giysi karşılığı olarak kullanılan kelime",
+      "clue": "Yakalı, düğmeli ve kollu olan, üstten giyilen ince kumaş giysi.",
       "answer": "GÖMLEK"
     },
     {
@@ -165,7 +165,7 @@
       "row": 1,
       "col": 6,
       "length": 4,
-      "clue": "Üstünü kapatan karşılığı olarak kullanılan kelime",
+      "clue": "Bir eşyanın ya da yüzeyin üstünü kapatmak için serilen kumaş parçası.",
       "answer": "ÖRTÜ"
     },
     {
@@ -174,7 +174,7 @@
       "row": 2,
       "col": 4,
       "length": 3,
-      "clue": "Elin iç kısmı anlamına gelen sözcük",
+      "clue": "Elin iç tarafı; parmakların bittiği yerden bileğe kadar uzanan bölüm.",
       "answer": "AYA"
     },
     {
@@ -183,7 +183,7 @@
       "row": 3,
       "col": 8,
       "length": 4,
-      "clue": "Günlük dilde Düzen ya da oyun olarak bilinen kavram",
+      "clue": "Birini aldatmak için yapılan gizli düzen; dolap çevirme.",
       "answer": "HİLE"
     },
     {
@@ -192,7 +192,7 @@
       "row": 4,
       "col": 3,
       "length": 5,
-      "clue": "Günlük dilde Yakarma olarak bilinen kavram",
+      "clue": "Alçakgönüllülükle yapılan yalvarış; Tanrı'dan dilenen istek.",
       "answer": "NİYAZ"
     },
     {
@@ -201,7 +201,7 @@
       "row": 4,
       "col": 3,
       "length": 4,
-      "clue": "Ferahlatıcı bitki anlamına gelen sözcük",
+      "clue": "Serinletici kokusuyla tanınan, çaya ve yemeklere katılan yeşil yapraklı ot.",
       "answer": "NANE"
     },
     {
@@ -210,7 +210,7 @@
       "row": 5,
       "col": 6,
       "length": 5,
-      "clue": "Söz ya da laf karşılığı olarak kullanılan kelime",
+      "clue": "Ağızdan çıkan söz; düşüncenin dille ifade bulmuş hali.",
       "answer": "KELAM"
     },
     {
@@ -219,7 +219,7 @@
       "row": 6,
       "col": 3,
       "length": 3,
-      "clue": "Kaygan besin karşılığı olarak kullanılan kelime",
+      "clue": "Bitkilerden ya da hayvanlardan elde edilen; suda çözünmeyen kaygan madde.",
       "answer": "YAĞ"
     },
     {
@@ -228,7 +228,7 @@
       "row": 7,
       "col": 1,
       "length": 4,
-      "clue": "Bodur ağaç anlamına gelen sözcük",
+      "clue": "Boyu kısa, dalları sık ve odunsu olan, çok dallı bodur bitki.",
       "answer": "ÇALI"
     },
     {
@@ -237,7 +237,7 @@
       "row": 8,
       "col": 0,
       "length": 4,
-      "clue": "Bulmacada Mutlaka yapılması gereken karşılığını veren yanıt",
+      "clue": "Dinde kesinlikle yerine getirilmesi emredilen, zorunlu olan yükümlülük.",
       "answer": "FARZ"
     }
   ]

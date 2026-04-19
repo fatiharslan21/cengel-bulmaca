@@ -125,7 +125,7 @@
       "row": 0,
       "col": 8,
       "length": 4,
-      "clue": "Bulmacada Çiçek süs kabı karşılığını veren yanıt",
+      "clue": "İçine çiçek konulmak üzere yapılmış, ince uzun boyunlu süs kabı.",
       "answer": "VAZO"
     },
     {
@@ -134,7 +134,7 @@
       "row": 1,
       "col": 8,
       "length": 4,
-      "clue": "Gerçek ya da hakiki için kullanılan yaygın ifade",
+      "clue": "Sahte ya da taklit olmayan; bir şeyin gerçek ve temel olan hali.",
       "answer": "ASIL"
     },
     {
@@ -143,7 +143,7 @@
       "row": 2,
       "col": 2,
       "length": 5,
-      "clue": "Yemek kabı anlamına gelen sözcük",
+      "clue": "Yemeklerin servis edildiği, yuvarlak ve yassı porselen ya da cam kap.",
       "answer": "TABAK"
     },
     {
@@ -152,7 +152,7 @@
       "row": 2,
       "col": 6,
       "length": 4,
-      "clue": "Bulmacada Yazılmış metin karşılığını veren yanıt",
+      "clue": "Kalemin kâğıda bıraktığı; harflerden oluşan okunabilir işaretler.",
       "answer": "YAZI"
     },
     {
@@ -161,7 +161,7 @@
       "row": 2,
       "col": 6,
       "length": 3,
-      "clue": "Çehre; sayı 100 için kullanılan yaygın ifade",
+      "clue": "Gözlerin, burnun ve ağzın bulunduğu baş ön kısmı; ayrıca on kere on sayısı.",
       "answer": "YÜZ"
     },
     {
@@ -170,7 +170,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "Sayısal değer için kullanılan yaygın ifade",
+      "clue": "Bir sınavda ya da yarışmada başarıya göre verilen sayısal değerlendirme.",
       "answer": "PUAN"
     },
     {
@@ -179,7 +179,7 @@
       "row": 4,
       "col": 4,
       "length": 3,
-      "clue": "İnce parçacıklar karşılığı olarak kullanılan kelime",
+      "clue": "Havada uçuşan ya da yüzeyde biriken, çok küçük katı parçacıklar.",
       "answer": "TOZ"
     },
     {
@@ -188,7 +188,7 @@
       "row": 4,
       "col": 4,
       "length": 4,
-      "clue": "Günlük dilde Adet ya da parça olarak bilinen kavram",
+      "clue": "Sayılabilen nesnelerin her biri; küçük parça ya da adet.",
       "answer": "TANE"
     },
     {
@@ -197,7 +197,7 @@
       "row": 6,
       "col": 2,
       "length": 3,
-      "clue": "Bulmacada Damar sıvısı karşılığını veren yanıt",
+      "clue": "Damarlarda dolaşarak vücuda oksijen taşıyan kırmızı renkli canlı sıvı.",
       "answer": "KAN"
     },
     {
@@ -206,7 +206,7 @@
       "row": 7,
       "col": 4,
       "length": 4,
-      "clue": "Yük hayvanı için kullanılan yaygın ifade",
+      "clue": "Uzun kulaklı, sabırlı; köylerde yük taşımada kullanılan küçük binek hayvanı.",
       "answer": "EŞEK"
     }
   ]

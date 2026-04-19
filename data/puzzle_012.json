@@ -97,7 +97,7 @@
       "row": 0,
       "col": 8,
       "length": 4,
-      "clue": "Bulmacada Eğlence faaliyeti karşılığını veren yanıt",
+      "clue": "Boş zamanlarda eğlence ya da öğrenme amacıyla kurallara göre oynanan etkinlik.",
       "answer": "OYUN"
     },
     {
@@ -106,7 +106,7 @@
       "row": 0,
       "col": 8,
       "length": 4,
-      "clue": "Günlük dilde Silahlı kuvvetler olarak bilinen kavram",
+      "clue": "Bir ülkenin savunmasını üstlenen, askerlerden oluşan silahlı kuvvetler.",
       "answer": "ORDU"
     },
     {
@@ -115,7 +115,7 @@
       "row": 1,
       "col": 0,
       "length": 3,
-      "clue": "Bulmacada Bina bölümü karşılığını veren yanıt",
+      "clue": "Bir binanın birbirinin üzerine gelen yatay bölümlerinden her biri.",
       "answer": "KAT"
     },
     {
@@ -124,7 +124,7 @@
       "row": 1,
       "col": 5,
       "length": 4,
-      "clue": "Bulmacada Başarı karşılığı karşılığını veren yanıt",
+      "clue": "Başarı gösteren kimseye, çabasının karşılığı olarak verilen değerli armağan.",
       "answer": "ÖDÜL"
     },
     {
@@ -133,7 +133,7 @@
       "row": 2,
       "col": 3,
       "length": 4,
-      "clue": "Gömlek boyun kısmı için kullanılan yaygın ifade",
+      "clue": "Gömleğin boynu çevreleyen üst kısmı; ceketin de boyuna değen kenarı.",
       "answer": "YAKA"
     },
     {
@@ -142,7 +142,7 @@
       "row": 2,
       "col": 5,
       "length": 4,
-      "clue": "Günlük dilde Boş olmayan olarak bilinen kavram",
+      "clue": "İçi boşluk bırakmayacak biçimde bir şeyle tamamen kaplanmış olan.",
       "answer": "DOLU"
     },
     {
@@ -151,7 +151,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "Bağlama aracı anlamına gelen sözcük",
+      "clue": "Saçı ya da kemeri tutturmaya yarayan, klips gibi açılıp kapanan küçük süs.",
       "answer": "TOKA"
     },
     {
@@ -160,7 +160,7 @@
       "row": 4,
       "col": 3,
       "length": 3,
-      "clue": "Günlük dilde Üst beden uzvu olarak bilinen kavram",
+      "clue": "Omuzdan bileğe kadar uzanan, eli bedene bağlayan üst uzvumuz.",
       "answer": "KOL"
     },
     {
@@ -169,7 +169,7 @@
       "row": 5,
       "col": 0,
       "length": 4,
-      "clue": "Bulmacada Suça yaptırım karşılığını veren yanıt",
+      "clue": "Suç işleyen kimseye, yaptığının karşılığı olarak verilen yaptırım.",
       "answer": "CEZA"
     }
   ]

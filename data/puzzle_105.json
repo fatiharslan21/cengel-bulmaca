@@ -101,7 +101,7 @@
       "row": 0,
       "col": 0,
       "length": 5,
-      "clue": "Harita kitabı karşılığı olarak kullanılan kelime",
+      "clue": "Dünyanın farklı bölgelerini gösteren haritaların toplandığı büyük kitap.",
       "answer": "ATLAS"
     },
     {
@@ -110,7 +110,7 @@
       "row": 0,
       "col": 4,
       "length": 4,
-      "clue": "Zaman aralığı için kullanılan yaygın ifade",
+      "clue": "Bir olayın başlangıcı ile sonu arasında geçen zaman aralığı.",
       "answer": "SÜRE"
     },
     {
@@ -119,7 +119,7 @@
       "row": 2,
       "col": 6,
       "length": 5,
-      "clue": "Bulmacada Yurt ya da memleket karşılığını veren yanıt",
+      "clue": "Bir milletin üzerinde yaşayıp kendine yurt bildiği ata toprağı.",
       "answer": "VATAN"
     },
     {
@@ -128,7 +128,7 @@
       "row": 3,
       "col": 3,
       "length": 5,
-      "clue": "Günlük dilde Yüzeyin sınırı olarak bilinen kavram",
+      "clue": "Bir yüzeyin ya da nesnenin dış sınırını oluşturan uç bölüm.",
       "answer": "KENAR"
     },
     {
@@ -137,7 +137,7 @@
       "row": 3,
       "col": 3,
       "length": 3,
-      "clue": "Bulmacada Gitme ya da burada dur karşılığını veren yanıt",
+      "clue": "Gitme, olduğun yerde dur; git sözcüğünün tam karşıtı olan emir.",
       "answer": "KAL"
     },
     {
@@ -146,7 +146,7 @@
       "row": 4,
       "col": 0,
       "length": 4,
-      "clue": "Günlük dilde Kez ya da kere olarak bilinen kavram",
+      "clue": "Bir olayın kaçıncı kez yaşandığını anlatmak için kullanılan kez sözcüğü.",
       "answer": "DEFA"
     },
     {
@@ -155,7 +155,7 @@
       "row": 4,
       "col": 0,
       "length": 3,
-      "clue": "Günlük dilde Harici ya da dış yüzey olarak bilinen kavram",
+      "clue": "İçin karşıtı; bir şeyin çevresini gören, dışarıya bakan yüzü.",
       "answer": "DIŞ"
     },
     {
@@ -164,7 +164,7 @@
       "row": 5,
       "col": 5,
       "length": 4,
-      "clue": "Biçim ya da üslup için kullanılan yaygın ifade",
+      "clue": "Bir kişinin ya da akımın kendine özgü yapma biçimi; üslup.",
       "answer": "TARZ"
     },
     {
@@ -173,7 +173,7 @@
       "row": 5,
       "col": 8,
       "length": 3,
-      "clue": "Günlük dilde Güç ya da kolay değil olarak bilinen kavram",
+      "clue": "Üstesinden gelinmesi emek isteyen; kolayın tam karşıtı sayılan güç iş.",
       "answer": "ZOR"
     }
   ]

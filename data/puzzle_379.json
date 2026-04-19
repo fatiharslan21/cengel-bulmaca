@@ -153,7 +153,7 @@
       "row": 0,
       "col": 3,
       "length": 6,
-      "clue": "Kısa an anlamına gelen sözcük",
+      "clue": "Dakikanın altmışta biri; zamanın en küçük günlük ölçü birimi.",
       "answer": "SANİYE"
     },
     {
@@ -162,7 +162,7 @@
       "row": 0,
       "col": 6,
       "length": 7,
-      "clue": "Bulmacada Avunma ya da avuntu karşılığını veren yanıt",
+      "clue": "Üzüntülü birine söylenerek onu rahatlatan sıcak avutucu söz.",
       "answer": "TESELLİ"
     },
     {
@@ -171,7 +171,7 @@
       "row": 1,
       "col": 2,
       "length": 6,
-      "clue": "Güçlük ya da eziyet anlamına gelen sözcük",
+      "clue": "Bir işi başarmak için katlanılan güçlük; çekilen eziyet.",
       "answer": "ZAHMET"
     },
     {
@@ -180,7 +180,7 @@
       "row": 3,
       "col": 1,
       "length": 4,
-      "clue": "Bildirme ya da hüküm anlamına gelen sözcük",
+      "clue": "Mahkemenin verdiği kararı bildiren, yazılı resmi belge.",
       "answer": "İLAM"
     },
     {
@@ -189,7 +189,7 @@
       "row": 3,
       "col": 5,
       "length": 4,
-      "clue": "Miyavlayan evcil anlamına gelen sözcük",
+      "clue": "Miyavlayarak seslenen, pençeleri keskin, evlerde beslenen tüylü memeli hayvan.",
       "answer": "KEDİ"
     },
     {
@@ -198,7 +198,7 @@
       "row": 3,
       "col": 8,
       "length": 5,
-      "clue": "Bilme ya da anlayış karşılığı olarak kullanılan kelime",
+      "clue": "Bilginin ötesinde, deneyim ve sezgiyle kazanılan derin anlayış.",
       "answer": "İRFAN"
     },
     {
@@ -207,7 +207,7 @@
       "row": 5,
       "col": 0,
       "length": 5,
-      "clue": "Bulmacada Yas ya da acı karşılığını veren yanıt",
+      "clue": "Kaybedilen bir yakının ardından tutulan koyu yas; siyahlar giyme hali.",
       "answer": "MATEM"
     },
     {
@@ -216,7 +216,7 @@
       "row": 5,
       "col": 4,
       "length": 5,
-      "clue": "Bulmacada Başlangıç tarihi karşılığını veren yanıt",
+      "clue": "Bir sürecin başladığı; sıfırdan hesaplandığı başlangıç tarihi.",
       "answer": "MİLAT"
     },
     {
@@ -225,7 +225,7 @@
       "row": 6,
       "col": 8,
       "length": 4,
-      "clue": "Gerçek ya da hakiki için kullanılan yaygın ifade",
+      "clue": "Sahte ya da taklit olmayan; bir şeyin gerçek ve temel olan hali.",
       "answer": "ASIL"
     },
     {
@@ -234,7 +234,7 @@
       "row": 9,
       "col": 4,
       "length": 7,
-      "clue": "Üzülme anlamına gelen sözcük",
+      "clue": "Acıklı bir olay karşısında insanın içine çöken derin hüzün.",
       "answer": "TEESSÜR"
     }
   ]

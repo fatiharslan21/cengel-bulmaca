@@ -181,7 +181,7 @@
       "row": 0,
       "col": 7,
       "length": 5,
-      "clue": "Bakış ya da göz anlamına gelen sözcük",
+      "clue": "Kötü bakışın bir kimseye uğursuzluk getireceğine duyulan halk inancı.",
       "answer": "NAZAR"
     },
     {
@@ -190,7 +190,7 @@
       "row": 1,
       "col": 7,
       "length": 3,
-      "clue": "Bulmacada Mesafe ya da açıklık karşılığını veren yanıt",
+      "clue": "İki şeyin birbirinden ayrıldığı boşluk; kısa mola süresi.",
       "answer": "ARA"
     },
     {
@@ -199,7 +199,7 @@
       "row": 3,
       "col": 4,
       "length": 4,
-      "clue": "Baş ya da kelle için kullanılan yaygın ifade",
+      "clue": "İnsanın boynunun üst kısmında bulunan, düşünmenin merkezi olan baş.",
       "answer": "KAFA"
     },
     {
@@ -208,7 +208,7 @@
       "row": 3,
       "col": 4,
       "length": 5,
-      "clue": "Sadık evcil hayvan anlamına gelen sözcük",
+      "clue": "İnsana sadakatiyle bilinen, havlayarak seslenen evcil dört ayaklı.",
       "answer": "KÖPEK"
     },
     {
@@ -217,7 +217,7 @@
       "row": 4,
       "col": 7,
       "length": 5,
-      "clue": "Hasım ya da muhalif için kullanılan yaygın ifade",
+      "clue": "Aynı amaca ulaşmak için karşı karşıya gelen, yarış halindeki hasım.",
       "answer": "RAKİP"
     },
     {
@@ -226,7 +226,7 @@
       "row": 4,
       "col": 8,
       "length": 4,
-      "clue": "Bulmacada Yansıtıcı cam karşılığını veren yanıt",
+      "clue": "Karşısına geçenin görüntüsünü aynen yansıtan sırlanmış cam yüzey.",
       "answer": "AYNA"
     },
     {
@@ -235,7 +235,7 @@
       "row": 5,
       "col": 0,
       "length": 5,
-      "clue": "Hayal ya da ilüzyon karşılığı olarak kullanılan kelime",
+      "clue": "Çölde ya da sıcakta gerçekte olmayan bir görüntü olarak algılanan yanılsama.",
       "answer": "SERAP"
     },
     {
@@ -244,7 +244,7 @@
       "row": 7,
       "col": 6,
       "length": 4,
-      "clue": "Tedavi maddesi için kullanılan yaygın ifade",
+      "clue": "Hastalıkları iyileştirmek amacıyla hazırlanan, doktor tarafından verilen madde.",
       "answer": "İLAÇ"
     },
     {
@@ -253,7 +253,7 @@
       "row": 7,
       "col": 7,
       "length": 5,
-      "clue": "Günlük dilde İyilik ya da bağış olarak bilinen kavram",
+      "clue": "Karşılık beklemeden yapılan iyilik; bir büyüğün bahşettiği ihsan.",
       "answer": "LÜTUF"
     },
     {
@@ -262,7 +262,7 @@
       "row": 10,
       "col": 6,
       "length": 3,
-      "clue": "Kanatlı uçan hayvan anlamına gelen sözcük",
+      "clue": "Gövdesi tüylerle kaplı, kanatları yardımıyla uçabilen yumurtlayan canlı.",
       "answer": "KUŞ"
     }
   ]

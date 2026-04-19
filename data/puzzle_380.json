@@ -113,7 +113,7 @@
       "row": 0,
       "col": 0,
       "length": 5,
-      "clue": "Yenilebilen bitki için kullanılan yaygın ifade",
+      "clue": "Mutfağa giren, bitki kökleri ve yapraklarından oluşan yenilebilir besin.",
       "answer": "SEBZE"
     },
     {
@@ -122,7 +122,7 @@
       "row": 0,
       "col": 2,
       "length": 3,
-      "clue": "Çok miktarda karşılığı olarak kullanılan kelime",
+      "clue": "Yeteri kadarının üstünde, çokça bulunan; dar sözcüğünün zıttı sayılan.",
       "answer": "BOL"
     },
     {
@@ -131,7 +131,7 @@
       "row": 0,
       "col": 4,
       "length": 4,
-      "clue": "Bulmacada Karşılık ya da sevap karşılığını veren yanıt",
+      "clue": "Yapılan iyiliğin ya da çekilen sıkıntının karşılığı olarak verilen sevap.",
       "answer": "ECİR"
     },
     {
@@ -140,7 +140,7 @@
       "row": 2,
       "col": 0,
       "length": 3,
-      "clue": "Dev kara hayvanı karşılığı olarak kullanılan kelime",
+      "clue": "Hortumuyla tanınan, kulakları iri, kara hayvanlarının en büyüklerinden biri.",
       "answer": "FİL"
     },
     {
@@ -149,7 +149,7 @@
       "row": 2,
       "col": 1,
       "length": 5,
-      "clue": "Bulmacada Talih ya da yükselme karşılığını veren yanıt",
+      "clue": "Hayatta yükselme, talih kuşunun başa konması; mevki sahibi olma.",
       "answer": "İKBAL"
     },
     {
@@ -158,7 +158,7 @@
       "row": 3,
       "col": 4,
       "length": 4,
-      "clue": "Tesadüf ya da denk gelme anlamına gelen sözcük",
+      "clue": "Birinin ya da bir şeyin beklemediğin anda karşına çıkması; tesadüf.",
       "answer": "RAST"
     },
     {
@@ -167,7 +167,7 @@
       "row": 4,
       "col": 1,
       "length": 3,
-      "clue": "İlk doğal sayı için kullanılan yaygın ifade",
+      "clue": "Sayıların başlangıcı olan, tek adedi gösteren ilk doğal rakam.",
       "answer": "BİR"
     },
     {
@@ -176,7 +176,7 @@
       "row": 6,
       "col": 0,
       "length": 4,
-      "clue": "Bulmacada Yüce ya da manevi karşılığını veren yanıt",
+      "clue": "Maddi olanın üstünde, manevi değerlerle ilgili; kutsal niteliği bulunan.",
       "answer": "ULVİ"
     },
     {
@@ -185,7 +185,7 @@
       "row": 6,
       "col": 2,
       "length": 4,
-      "clue": "Sözünde durma karşılığı olarak kullanılan kelime",
+      "clue": "Dostluğunu ve sevgisini zaman geçse bile sürdürme; söze sadakat.",
       "answer": "VEFA"
     },
     {
@@ -194,7 +194,7 @@
       "row": 9,
       "col": 1,
       "length": 3,
-      "clue": "Bulmacada Adalet ya da doğruluk karşılığını veren yanıt",
+      "clue": "Kişinin yasal olarak sahip olduğu; alması ya da yapması gereken şey.",
       "answer": "HAK"
     }
   ]

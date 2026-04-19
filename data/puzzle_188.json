@@ -130,7 +130,7 @@
       "row": 0,
       "col": 2,
       "length": 3,
-      "clue": "Bulmacada Sıcak mevsim karşılığını veren yanıt",
+      "clue": "Dört mevsimin en sıcağı; okulların kapandığı, tatillerin geldiği zaman.",
       "answer": "YAZ"
     },
     {
@@ -139,7 +139,7 @@
       "row": 0,
       "col": 4,
       "length": 6,
-      "clue": "Daire çevresi anlamına gelen sözcük",
+      "clue": "Bir merkezden eşit uzaklıktaki noktaların oluşturduğu kapalı eğri.",
       "answer": "ÇEMBER"
     },
     {
@@ -148,7 +148,7 @@
       "row": 1,
       "col": 1,
       "length": 4,
-      "clue": "Günlük dilde Adet ya da parça olarak bilinen kavram",
+      "clue": "Sayılabilen nesnelerin her biri; küçük parça ya da adet.",
       "answer": "TANE"
     },
     {
@@ -157,7 +157,7 @@
       "row": 2,
       "col": 6,
       "length": 3,
-      "clue": "Kötünün zıttı karşılığı olarak kullanılan kelime",
+      "clue": "Hoşa giden, yararlı ve olumlu olan; kötünün tam karşıtı olan nitelik.",
       "answer": "İYİ"
     },
     {
@@ -166,7 +166,7 @@
       "row": 2,
       "col": 8,
       "length": 5,
-      "clue": "Bulmacada Maç yöneticisi karşılığını veren yanıt",
+      "clue": "Sporda kuralların uygulanmasını denetleyen, karar veren yetkili kişi.",
       "answer": "HAKEM"
     },
     {
@@ -175,7 +175,7 @@
       "row": 3,
       "col": 4,
       "length": 6,
-      "clue": "Ülke simgesi için kullanılan yaygın ifade",
+      "clue": "Bir ülkeyi simgeleyen, özel renk ve işaretler taşıyan kumaş parçası.",
       "answer": "BAYRAK"
     },
     {
@@ -184,7 +184,7 @@
       "row": 5,
       "col": 2,
       "length": 4,
-      "clue": "Cevap bekleyen karşılığı olarak kullanılan kelime",
+      "clue": "Bilinmeyen bir bilgiyi öğrenmek için karşıya yöneltilen cümle.",
       "answer": "SORU"
     },
     {
@@ -193,7 +193,7 @@
       "row": 5,
       "col": 2,
       "length": 4,
-      "clue": "Bulmacada Rakam ifadesi karşılığını veren yanıt",
+      "clue": "Bir miktarı ya da sırayı belirten; rakamlarla yazılan matematik kavramı.",
       "answer": "SAYI"
     },
     {
@@ -202,7 +202,7 @@
       "row": 5,
       "col": 7,
       "length": 4,
-      "clue": "Bulmacada Deniz taşıtı karşılığını veren yanıt",
+      "clue": "Denizde yük ya da yolcu taşımak için yapılmış büyük su taşıtı.",
       "answer": "GEMİ"
     },
     {
@@ -211,7 +211,7 @@
       "row": 6,
       "col": 0,
       "length": 3,
-      "clue": "Günlük dilde İğneyle süsleme olarak bilinen kavram",
+      "clue": "İğne ya da tığla işlenen, başörtüsü kenarını süsleyen ince el işi.",
       "answer": "OYA"
     }
   ]

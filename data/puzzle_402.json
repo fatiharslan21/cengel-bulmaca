@@ -167,7 +167,7 @@
       "row": 0,
       "col": 7,
       "length": 4,
-      "clue": "Günlük dilde Yemek mobilyası olarak bilinen kavram",
+      "clue": "Üzerinde yemek yemek ya da çalışmak için kullanılan ayaklı düz mobilya.",
       "answer": "MASA"
     },
     {
@@ -176,7 +176,7 @@
       "row": 3,
       "col": 6,
       "length": 5,
-      "clue": "İçten bağlılık anlamına gelen sözcük",
+      "clue": "İçten gelen bağlılık; gönülden duyulan samimi sevgi ve sadakat.",
       "answer": "HULUS"
     },
     {
@@ -185,7 +185,7 @@
       "row": 3,
       "col": 6,
       "length": 6,
-      "clue": "Özlem ya da göresi karşılığı olarak kullanılan kelime",
+      "clue": "Uzakta olan bir sevgiliyi ya da yeri özlemenin içe işleyen duygusu.",
       "answer": "HASRET"
     },
     {
@@ -194,7 +194,7 @@
       "row": 5,
       "col": 4,
       "length": 6,
-      "clue": "Ün ya da nam anlamına gelen sözcük",
+      "clue": "Herkesin duyup tanıdığı; adını çevresinin çok ötesine taşıyan ün.",
       "answer": "ŞÖHRET"
     },
     {
@@ -203,7 +203,7 @@
       "row": 6,
       "col": 8,
       "length": 5,
-      "clue": "Amaç ya da arzu anlamına gelen sözcük",
+      "clue": "Gönülde beslenen amaç; ulaşılmak istenen iç istek.",
       "answer": "MERAM"
     },
     {
@@ -212,7 +212,7 @@
       "row": 6,
       "col": 10,
       "length": 5,
-      "clue": "Habersiz ya da aymaz anlamına gelen sözcük",
+      "clue": "Çevresinde olanlardan haberi olmayan, dalgın ve dikkatsiz kimse.",
       "answer": "GAFİL"
     },
     {
@@ -221,7 +221,7 @@
       "row": 7,
       "col": 1,
       "length": 3,
-      "clue": "Bulmacada Bina bölümü karşılığını veren yanıt",
+      "clue": "Bir binanın birbirinin üzerine gelen yatay bölümlerinden her biri.",
       "answer": "KAT"
     },
     {
@@ -230,7 +230,7 @@
       "row": 7,
       "col": 4,
       "length": 5,
-      "clue": "Bulmacada Pay ya da nasip karşılığını veren yanıt",
+      "clue": "Ortak bir malın ya da işin her birine düşen pay; nasip.",
       "answer": "HİSSE"
     },
     {
@@ -239,7 +239,7 @@
       "row": 8,
       "col": 0,
       "length": 5,
-      "clue": "Bulmacada Katlanma ya da dayanma karşılığını veren yanıt",
+      "clue": "Zorluklara dayanıp isyan etmeden bekleyebilme; hoşgörü ile katlanma.",
       "answer": "SABIR"
     },
     {
@@ -248,7 +248,7 @@
       "row": 9,
       "col": 7,
       "length": 5,
-      "clue": "Bulmacada Zaman ya da süre karşılığını veren yanıt",
+      "clue": "Saniyelerden yıllara uzanan; akıp giden, geri döndürülemeyen zaman.",
       "answer": "VAKİT"
     }
   ]

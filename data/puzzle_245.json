@@ -156,7 +156,7 @@
       "row": 0,
       "col": 10,
       "length": 5,
-      "clue": "Ekin alanı anlamına gelen sözcük",
+      "clue": "Üzerinde buğday, arpa ya da sebze yetiştirilen sürülmüş geniş toprak.",
       "answer": "TARLA"
     },
     {
@@ -165,7 +165,7 @@
       "row": 2,
       "col": 3,
       "length": 4,
-      "clue": "Bulmacada Zaman ölçer karşılığını veren yanıt",
+      "clue": "Akrep, yelkovan ve rakamlarla anı gösteren; zamanı ölçen günlük araç.",
       "answer": "SAAT"
     },
     {
@@ -174,7 +174,7 @@
       "row": 3,
       "col": 1,
       "length": 4,
-      "clue": "Çözüm yolu anlamına gelen sözcük",
+      "clue": "Sıkıntılı ya da zor bir durumu ortadan kaldıracak çözüm yolu.",
       "answer": "ÇARE"
     },
     {
@@ -183,7 +183,7 @@
       "row": 3,
       "col": 6,
       "length": 4,
-      "clue": "Tedavi maddesi için kullanılan yaygın ifade",
+      "clue": "Hastalıkları iyileştirmek amacıyla hazırlanan, doktor tarafından verilen madde.",
       "answer": "İLAÇ"
     },
     {
@@ -192,7 +192,7 @@
       "row": 4,
       "col": 0,
       "length": 4,
-      "clue": "Tahta oyunu anlamına gelen sözcük",
+      "clue": "Siyah beyaz karelere yerleştirilen taşlarla iki kişi arasında oynanan oyun.",
       "answer": "DAMA"
     },
     {
@@ -201,7 +201,7 @@
       "row": 4,
       "col": 6,
       "length": 5,
-      "clue": "Aydınlatma aracı karşılığı olarak kullanılan kelime",
+      "clue": "İçindeki ampulle çalışan, karanlık odayı aydınlatan elektrikli araç.",
       "answer": "LAMBA"
     },
     {
@@ -210,7 +210,7 @@
       "row": 5,
       "col": 3,
       "length": 4,
-      "clue": "Bağlama aracı anlamına gelen sözcük",
+      "clue": "Saçı ya da kemeri tutturmaya yarayan, klips gibi açılıp kapanan küçük süs.",
       "answer": "TOKA"
     },
     {
@@ -219,7 +219,7 @@
       "row": 5,
       "col": 4,
       "length": 6,
-      "clue": "Bulmacada Toplu taşıma karşılığını veren yanıt",
+      "clue": "Şehir içinde ya da dışında birçok yolcuyu bir arada taşıyan büyük araç.",
       "answer": "OTOBÜS"
     },
     {
@@ -228,7 +228,7 @@
       "row": 6,
       "col": 6,
       "length": 5,
-      "clue": "Bulmacada Gölge ağacı karşılığını veren yanıt",
+      "clue": "Geniş yaprakları ve kalın gövdesiyle yüzyıllarca yaşayabilen büyük ağaç.",
       "answer": "ÇINAR"
     },
     {
@@ -237,7 +237,7 @@
       "row": 8,
       "col": 4,
       "length": 3,
-      "clue": "Kafa ya da vücudun üstü için kullanılan yaygın ifade",
+      "clue": "İnsanın boynundan yukarısı, beynin ve yüzün bulunduğu vücut bölümü.",
       "answer": "BAŞ"
     }
   ]

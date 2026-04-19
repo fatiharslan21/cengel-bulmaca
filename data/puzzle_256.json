@@ -167,7 +167,7 @@
       "row": 0,
       "col": 4,
       "length": 4,
-      "clue": "Günlük dilde Yeşil alan olarak bilinen kavram",
+      "clue": "Şehir içinde insanların dinlenip yürüdüğü, ağaçlıklı kamusal yeşil alan.",
       "answer": "PARK"
     },
     {
@@ -176,7 +176,7 @@
       "row": 0,
       "col": 7,
       "length": 5,
-      "clue": "İple oynatılan karşılığı olarak kullanılan kelime",
+      "clue": "İp ya da parmaklarla oynatılan, tiyatro sahnesinde canlanan figürlü bebek.",
       "answer": "KUKLA"
     },
     {
@@ -185,7 +185,7 @@
       "row": 2,
       "col": 2,
       "length": 4,
-      "clue": "Bulmacada Deniz taşıtı karşılığını veren yanıt",
+      "clue": "Denizde yük ya da yolcu taşımak için yapılmış büyük su taşıtı.",
       "answer": "GEMİ"
     },
     {
@@ -194,7 +194,7 @@
       "row": 2,
       "col": 4,
       "length": 5,
-      "clue": "Günlük dilde Yer ya da konum olarak bilinen kavram",
+      "clue": "Bir kimsenin toplumdaki yeri, konumu ya da makamı.",
       "answer": "MEVKİ"
     },
     {
@@ -203,7 +203,7 @@
       "row": 3,
       "col": 7,
       "length": 5,
-      "clue": "Günlük dilde İyilik ya da bağış olarak bilinen kavram",
+      "clue": "Karşılık beklemeden yapılan iyilik; bir büyüğün bahşettiği ihsan.",
       "answer": "LÜTUF"
     },
     {
@@ -212,7 +212,7 @@
       "row": 4,
       "col": 4,
       "length": 4,
-      "clue": "Ayrılırken selam için kullanılan yaygın ifade",
+      "clue": "Bir kimseyle ayrılırken söylenen son söz; ayrılık selamı.",
       "answer": "VEDA"
     },
     {
@@ -221,7 +221,7 @@
       "row": 5,
       "col": 2,
       "length": 6,
-      "clue": "Günlük dilde Saç kesen esnaf olarak bilinen kavram",
+      "clue": "Erkeklerin saçını kesip sakalını düzelten, dükkânında çalışan esnaf.",
       "answer": "BERBER"
     },
     {
@@ -230,7 +230,7 @@
       "row": 6,
       "col": 2,
       "length": 4,
-      "clue": "Günlük dilde Buyruk ya da komut olarak bilinen kavram",
+      "clue": "Yetkili bir kimsenin yerine getirilmek üzere verdiği kesin buyruk.",
       "answer": "EMİR"
     },
     {
@@ -239,7 +239,7 @@
       "row": 8,
       "col": 2,
       "length": 3,
-      "clue": "Uzunluk ya da endam için kullanılan yaygın ifade",
+      "clue": "İnsanın başından ayağına kadar olan uzunluğu; endam ya da kamet.",
       "answer": "BOY"
     },
     {
@@ -248,7 +248,7 @@
       "row": 10,
       "col": 0,
       "length": 4,
-      "clue": "Altın rengi için kullanılan yaygın ifade",
+      "clue": "Limon ve altın tonlarında olan, güneşi çağrıştıran canlı sıcak renk.",
       "answer": "SARI"
     }
   ]

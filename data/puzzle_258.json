@@ -125,7 +125,7 @@
       "row": 0,
       "col": 4,
       "length": 4,
-      "clue": "Bulmacada Başarı karşılığı karşılığını veren yanıt",
+      "clue": "Başarı gösteren kimseye, çabasının karşılığı olarak verilen değerli armağan.",
       "answer": "ÖDÜL"
     },
     {
@@ -134,7 +134,7 @@
       "row": 1,
       "col": 4,
       "length": 4,
-      "clue": "Günlük dilde Kez ya da kere olarak bilinen kavram",
+      "clue": "Bir olayın kaçıncı kez yaşandığını anlatmak için kullanılan kez sözcüğü.",
       "answer": "DEFA"
     },
     {
@@ -143,7 +143,7 @@
       "row": 1,
       "col": 6,
       "length": 6,
-      "clue": "Bulmacada Popüler top oyunu karşılığını veren yanıt",
+      "clue": "Her takımdan on bir oyuncunun sahada top üzerinde oynadığı dünya sporu.",
       "answer": "FUTBOL"
     },
     {
@@ -152,7 +152,7 @@
       "row": 3,
       "col": 2,
       "length": 3,
-      "clue": "Günlük dilde Üst beden uzvu olarak bilinen kavram",
+      "clue": "Omuzdan bileğe kadar uzanan, eli bedene bağlayan üst uzvumuz.",
       "answer": "KOL"
     },
     {
@@ -161,7 +161,7 @@
       "row": 3,
       "col": 2,
       "length": 5,
-      "clue": "Söz ya da laf karşılığı olarak kullanılan kelime",
+      "clue": "Ağızdan çıkan söz; düşüncenin dille ifade bulmuş hali.",
       "answer": "KELAM"
     },
     {
@@ -170,7 +170,7 @@
       "row": 3,
       "col": 10,
       "length": 3,
-      "clue": "Omuz örtüsü anlamına gelen sözcük",
+      "clue": "Omuzlara atılan ya da başa örtülen, yumuşak geniş kumaş parçası.",
       "answer": "ŞAL"
     },
     {
@@ -179,7 +179,7 @@
       "row": 4,
       "col": 6,
       "length": 6,
-      "clue": "Ülke simgesi için kullanılan yaygın ifade",
+      "clue": "Bir ülkeyi simgeleyen, özel renk ve işaretler taşıyan kumaş parçası.",
       "answer": "BAYRAK"
     },
     {
@@ -188,7 +188,7 @@
       "row": 5,
       "col": 0,
       "length": 3,
-      "clue": "Yaklaşma eylemi karşılığı olarak kullanılan kelime",
+      "clue": "Bulunduğun yerden buraya doğru yaklaş; git sözcüğünün tam zıttı eylem.",
       "answer": "GEL"
     },
     {
@@ -197,7 +197,7 @@
       "row": 5,
       "col": 4,
       "length": 3,
-      "clue": "Bulmacada Ev bölümü karşılığını veren yanıt",
+      "clue": "Bir evin ya da binanın duvarlarla ayrılmış, belirli amaçla kullanılan bölümü.",
       "answer": "ODA"
     },
     {
@@ -206,7 +206,7 @@
       "row": 6,
       "col": 4,
       "length": 3,
-      "clue": "Bulmacada Ağacın kolu karşılığını veren yanıt",
+      "clue": "Bir ağacın gövdesinden yanlara doğru uzayan ve yapraklarını taşıyan kol.",
       "answer": "DAL"
     }
   ]

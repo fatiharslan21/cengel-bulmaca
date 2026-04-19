@@ -112,7 +112,7 @@
       "row": 0,
       "col": 3,
       "length": 6,
-      "clue": "Özlü söz için kullanılan yaygın ifade",
+      "clue": "Az sözle büyük anlam ifade eden, akılda kalan özlü söz.",
       "answer": "VECİZE"
     },
     {
@@ -121,7 +121,7 @@
       "row": 1,
       "col": 0,
       "length": 5,
-      "clue": "Günlük dilde Yeni bilgi olarak bilinen kavram",
+      "clue": "Bir olay ya da gelişme hakkında ulaşan yeni bilgi; duyuru.",
       "answer": "HABER"
     },
     {
@@ -130,7 +130,7 @@
       "row": 3,
       "col": 0,
       "length": 5,
-      "clue": "Günlük dilde Uysal ya da yumuşak olarak bilinen kavram",
+      "clue": "Yumuşak huylu, kolay geçinilen; sert tavır göstermeyen uysal kimse.",
       "answer": "MUNİS"
     },
     {
@@ -139,7 +139,7 @@
       "row": 5,
       "col": 0,
       "length": 4,
-      "clue": "Sivri dikiş aracı anlamına gelen sözcük",
+      "clue": "Ucu sivri, arkası delikli; dikiş dikmek için ipliği geçiren ince metal araç.",
       "answer": "İĞNE"
     },
     {
@@ -148,7 +148,7 @@
       "row": 5,
       "col": 2,
       "length": 6,
-      "clue": "Boşuna ya da yararsız için kullanılan yaygın ifade",
+      "clue": "Harcanan çabaya değmeyen; hiçbir yarar sağlamayan boş uğraş.",
       "answer": "NAFİLE"
     },
     {
@@ -157,7 +157,7 @@
       "row": 6,
       "col": 4,
       "length": 3,
-      "clue": "Omuz örtüsü anlamına gelen sözcük",
+      "clue": "Omuzlara atılan ya da başa örtülen, yumuşak geniş kumaş parçası.",
       "answer": "ŞAL"
     },
     {
@@ -166,7 +166,7 @@
       "row": 6,
       "col": 5,
       "length": 3,
-      "clue": "Elin iç kısmı anlamına gelen sözcük",
+      "clue": "Elin iç tarafı; parmakların bittiği yerden bileğe kadar uzanan bölüm.",
       "answer": "AYA"
     },
     {
@@ -175,7 +175,7 @@
       "row": 8,
       "col": 2,
       "length": 5,
-      "clue": "Günlük dilde Esin ya da sezgi olarak bilinen kavram",
+      "clue": "Sanatçının ya da düşünürün içine birden doğan yaratıcı esin kaynağı.",
       "answer": "İLHAM"
     },
     {
@@ -184,7 +184,7 @@
       "row": 9,
       "col": 0,
       "length": 3,
-      "clue": "Bulmacada Ağacın kolu karşılığını veren yanıt",
+      "clue": "Bir ağacın gövdesinden yanlara doğru uzayan ve yapraklarını taşıyan kol.",
       "answer": "DAL"
     },
     {
@@ -193,7 +193,7 @@
       "row": 10,
       "col": 2,
       "length": 4,
-      "clue": "Ölüm vakti karşılığı olarak kullanılan kelime",
+      "clue": "Her canlı için önceden belirlendiğine inanılan ölüm zamanı.",
       "answer": "ECEL"
     }
   ]

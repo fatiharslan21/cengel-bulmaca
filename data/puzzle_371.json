@@ -134,7 +134,7 @@
       "row": 0,
       "col": 6,
       "length": 3,
-      "clue": "Günlük dilde Üzüm bahçesi olarak bilinen kavram",
+      "clue": "Üzüm yetiştirilen tarla; aynı zamanda düğümle tutturma eylemi.",
       "answer": "BAĞ"
     },
     {
@@ -143,7 +143,7 @@
       "row": 1,
       "col": 0,
       "length": 3,
-      "clue": "On yüzlük sayı anlamına gelen sözcük",
+      "clue": "Yüzlerin onunun bir araya gelmesiyle oluşan dört basamaklı sayı.",
       "answer": "BİN"
     },
     {
@@ -152,7 +152,7 @@
       "row": 1,
       "col": 3,
       "length": 5,
-      "clue": "Yer ya da mahal anlamına gelen sözcük",
+      "clue": "Bir olayın geçtiği ya da bir şeyin bulunduğu belirli yer; mahal.",
       "answer": "MEKAN"
     },
     {
@@ -161,7 +161,7 @@
       "row": 1,
       "col": 3,
       "length": 5,
-      "clue": "Günlük dilde Yer ya da konum olarak bilinen kavram",
+      "clue": "Bir kimsenin toplumdaki yeri, konumu ya da makamı.",
       "answer": "MEVKİ"
     },
     {
@@ -170,7 +170,7 @@
       "row": 2,
       "col": 0,
       "length": 4,
-      "clue": "Kalın olmayan anlamına gelen sözcük",
+      "clue": "Kalınlığı az olan; zarif ve narin yapıda bulunan; kalının karşıtı.",
       "answer": "İNCE"
     },
     {
@@ -179,7 +179,7 @@
       "row": 4,
       "col": 5,
       "length": 5,
-      "clue": "Amaç ya da arzu anlamına gelen sözcük",
+      "clue": "Gönülde beslenen amaç; ulaşılmak istenen iç istek.",
       "answer": "MERAM"
     },
     {
@@ -188,7 +188,7 @@
       "row": 5,
       "col": 2,
       "length": 5,
-      "clue": "İyilik ya da bolluk için kullanılan yaygın ifade",
+      "clue": "Yararlanılan, şükür duyulan değerli varlık; insana verilmiş lütuf.",
       "answer": "NİMET"
     },
     {
@@ -197,7 +197,7 @@
       "row": 6,
       "col": 7,
       "length": 5,
-      "clue": "Kitap yazan için kullanılan yaygın ifade",
+      "clue": "Kitap, hikâye ya da makale gibi edebi eserler kaleme alan kimse.",
       "answer": "YAZAR"
     },
     {
@@ -206,7 +206,7 @@
       "row": 7,
       "col": 4,
       "length": 4,
-      "clue": "Gönül huzuru anlamına gelen sözcük",
+      "clue": "İçten duyulan gönül rahatlığı; keder bırakmayan tatlı neşe.",
       "answer": "SAFA"
     },
     {
@@ -215,7 +215,7 @@
       "row": 9,
       "col": 6,
       "length": 3,
-      "clue": "Bulmacada Adalet ya da doğruluk karşılığını veren yanıt",
+      "clue": "Kişinin yasal olarak sahip olduğu; alması ya da yapması gereken şey.",
       "answer": "HAK"
     }
   ]

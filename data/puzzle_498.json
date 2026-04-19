@@ -121,7 +121,7 @@
       "row": 0,
       "col": 2,
       "length": 7,
-      "clue": "Hatıra ya da armağan için kullanılan yaygın ifade",
+      "clue": "Sevilen birinden hatıra kalan; onu anmamızı sağlayan değerli eşya.",
       "answer": "YADİGAR"
     },
     {
@@ -130,7 +130,7 @@
       "row": 1,
       "col": 1,
       "length": 3,
-      "clue": "Bulmacada İçine konan kab karşılığını veren yanıt",
+      "clue": "İçine sıvı ya da katı maddeler konulan her türlü şekilli eşya.",
       "answer": "KAP"
     },
     {
@@ -139,7 +139,7 @@
       "row": 3,
       "col": 6,
       "length": 3,
-      "clue": "Yüce ya da büyük anlamına gelen sözcük",
+      "clue": "Yüceliğiyle saygı uyandıran; hem büyük hem görkemli olan varlık.",
       "answer": "ULU"
     },
     {
@@ -148,7 +148,7 @@
       "row": 4,
       "col": 0,
       "length": 5,
-      "clue": "Günlük dilde Temiz ya da arı olarak bilinen kavram",
+      "clue": "Her türlü çirkinlikten uzak duran; temiz ahlaklı ve arı kimse.",
       "answer": "NEZİH"
     },
     {
@@ -157,7 +157,7 @@
       "row": 4,
       "col": 2,
       "length": 5,
-      "clue": "Habersiz ya da aymaz anlamına gelen sözcük",
+      "clue": "Çevresinde olanlardan haberi olmayan, dalgın ve dikkatsiz kimse.",
       "answer": "GAFİL"
     },
     {
@@ -166,7 +166,7 @@
       "row": 6,
       "col": 0,
       "length": 3,
-      "clue": "Günlük dilde Güç ya da kolay değil olarak bilinen kavram",
+      "clue": "Üstesinden gelinmesi emek isteyen; kolayın tam karşıtı sayılan güç iş.",
       "answer": "ZOR"
     },
     {
@@ -175,7 +175,7 @@
       "row": 7,
       "col": 3,
       "length": 5,
-      "clue": "Ani vuruş anlamına gelen sözcük",
+      "clue": "Ani ve sert bir hareketle yapılan vuruş; çarpma sonucu alınan sarsıntı.",
       "answer": "DARBE"
     },
     {
@@ -184,7 +184,7 @@
       "row": 8,
       "col": 0,
       "length": 5,
-      "clue": "Günlük dilde Gerçek olmayan düş olarak bilinen kavram",
+      "clue": "Zihinde canlandırılan, gerçekleşmesi beklenen ya da umulan görüntü.",
       "answer": "HAYAL"
     },
     {
@@ -193,7 +193,7 @@
       "row": 8,
       "col": 6,
       "length": 4,
-      "clue": "Bulmacada Başarı karşılığı karşılığını veren yanıt",
+      "clue": "Başarı gösteren kimseye, çabasının karşılığı olarak verilen değerli armağan.",
       "answer": "ÖDÜL"
     },
     {
@@ -202,7 +202,7 @@
       "row": 11,
       "col": 2,
       "length": 5,
-      "clue": "Olgunluk için kullanılan yaygın ifade",
+      "clue": "Bir şeyin eksiksiz, kusursuz ve en üst düzeyde olgunlaşmış hali.",
       "answer": "KEMAL"
     }
   ]

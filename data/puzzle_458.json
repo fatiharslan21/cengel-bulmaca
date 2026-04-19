@@ -113,7 +113,7 @@
       "row": 0,
       "col": 5,
       "length": 5,
-      "clue": "İçten bağlılık anlamına gelen sözcük",
+      "clue": "İçten gelen bağlılık; gönülden duyulan samimi sevgi ve sadakat.",
       "answer": "HULUS"
     },
     {
@@ -122,7 +122,7 @@
       "row": 2,
       "col": 3,
       "length": 3,
-      "clue": "Dev kara hayvanı karşılığı olarak kullanılan kelime",
+      "clue": "Hortumuyla tanınan, kulakları iri, kara hayvanlarının en büyüklerinden biri.",
       "answer": "FİL"
     },
     {
@@ -131,7 +131,7 @@
       "row": 3,
       "col": 0,
       "length": 5,
-      "clue": "Ayrılık anlamına gelen sözcük",
+      "clue": "Birbirinden ayrı düşen sevgililerin yaşadığı acı dolu ayrılık.",
       "answer": "FIRAK"
     },
     {
@@ -140,7 +140,7 @@
       "row": 4,
       "col": 2,
       "length": 4,
-      "clue": "Müzikle hareket karşılığı olarak kullanılan kelime",
+      "clue": "Müziğin ritmine uyarak, düzenli vücut hareketleriyle yapılan sanatsal eylem.",
       "answer": "DANS"
     },
     {
@@ -149,7 +149,7 @@
       "row": 4,
       "col": 2,
       "length": 6,
-      "clue": "Ülke yönetimi için kullanılan yaygın ifade",
+      "clue": "Belirli bir ülkenin sınırlarında örgütlenmiş siyasi ve yönetimsel yapı.",
       "answer": "DEVLET"
     },
     {
@@ -158,7 +158,7 @@
       "row": 6,
       "col": 4,
       "length": 4,
-      "clue": "Günlük dilde Katlanır bıçak olarak bilinen kavram",
+      "clue": "Katlanabilen küçük bıçak; çoğunlukla cepte taşınan, sivri uçlu el aleti.",
       "answer": "ÇAKI"
     },
     {
@@ -167,7 +167,7 @@
       "row": 6,
       "col": 5,
       "length": 4,
-      "clue": "Günlük dilde Yanan ısı ve ışık olarak bilinen kavram",
+      "clue": "Yanmakta olan bir maddenin çıkardığı ısı, ışık ve alevin tümü.",
       "answer": "ATEŞ"
     },
     {
@@ -176,7 +176,7 @@
       "row": 7,
       "col": 0,
       "length": 3,
-      "clue": "Yanık kalıntısı için kullanılan yaygın ifade",
+      "clue": "Bir şeyin yanıp bitmesinin ardından geriye kalan kurumuş toz madde.",
       "answer": "KÜL"
     },
     {
@@ -185,7 +185,7 @@
       "row": 8,
       "col": 2,
       "length": 5,
-      "clue": "Vaktinden önce karşılığı olarak kullanılan kelime",
+      "clue": "Belirlenen vaktin öncesinde gelme; geç kalmanın tersi durumu.",
       "answer": "ERKEN"
     },
     {
@@ -194,7 +194,7 @@
       "row": 9,
       "col": 0,
       "length": 3,
-      "clue": "Bulmacada Üstün karşıtı karşılığını veren yanıt",
+      "clue": "Bir cismin aşağı tarafı; üst sözcüğünün tam karşıtı olan yön.",
       "answer": "ALT"
     }
   ]

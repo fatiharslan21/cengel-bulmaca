@@ -208,7 +208,7 @@
       "row": 0,
       "col": 0,
       "length": 4,
-      "clue": "Maddenin en küçük yapı taşı",
+      "clue": "Maddeyi oluşturan, gözle görülemeyecek kadar küçük temel yapı taşı.",
       "answer": "ATOM"
     },
     {
@@ -217,7 +217,7 @@
       "row": 0,
       "col": 5,
       "length": 5,
-      "clue": "Programlanabilir makine için kullanılan yaygın ifade",
+      "clue": "Programlanarak belirli işleri otomatik yapan mekanik insansı makine.",
       "answer": "ROBOT"
     },
     {
@@ -226,7 +226,7 @@
       "row": 2,
       "col": 0,
       "length": 5,
-      "clue": "Günlük dilde Yoğunlaştırılmış ışık ışını olarak bilinen kavram",
+      "clue": "Dar bir demet halinde yoğunlaştırılmış, tek dalga boyunda güçlü ışık.",
       "answer": "LAZER"
     },
     {
@@ -235,7 +235,7 @@
       "row": 2,
       "col": 6,
       "length": 5,
-      "clue": "Radyo dalgalarıyla algılama sistemi",
+      "clue": "Radyo dalgalarını yollayıp yansımasını ölçerek uzaktaki nesneleri belirleyen sistem.",
       "answer": "RADAR"
     },
     {
@@ -244,7 +244,7 @@
       "row": 4,
       "col": 0,
       "length": 3,
-      "clue": "Kalıtım birimi, DNA'nın parçası",
+      "clue": "Kalıtsal özellikleri taşıyan, DNA üzerinde yer alan kalıtım birimi.",
       "answer": "GEN"
     },
     {
@@ -253,7 +253,7 @@
       "row": 4,
       "col": 5,
       "length": 5,
-      "clue": "Madde ve enerjiyi inceleyen bilim",
+      "clue": "Maddenin, enerjinin ve bunların birbirleriyle etkileşiminin bilimi.",
       "answer": "FİZİK"
     },
     {
@@ -262,7 +262,7 @@
       "row": 6,
       "col": 0,
       "length": 4,
-      "clue": "Bulmacada Dünya atmosferinin ötesi karşılığını veren yanıt",
+      "clue": "Gök cisimlerini barındıran, Dünya atmosferinin ötesindeki sonsuz boşluk.",
       "answer": "UZAY"
     },
     {
@@ -271,7 +271,7 @@
       "row": 6,
       "col": 5,
       "length": 6,
-      "clue": "Maddenin dördüncü hali için kullanılan yaygın ifade",
+      "clue": "Katı, sıvı ve gazdan sonra gelen, iyonlaşmış maddenin dördüncü hali.",
       "answer": "PLAZMA"
     },
     {
@@ -280,7 +280,7 @@
       "row": 8,
       "col": 0,
       "length": 5,
-      "clue": "Proton ve nötronları oluşturan parçacık",
+      "clue": "Proton ve nötronların yapı taşı sayılan temel parçacıklardan biri.",
       "answer": "KUARK"
     },
     {
@@ -289,7 +289,7 @@
       "row": 8,
       "col": 6,
       "length": 5,
-      "clue": "Işığın en küçük birimi anlamına gelen sözcük",
+      "clue": "Işığı oluşturan, kütlesiz ve enerjili en küçük temel parçacık.",
       "answer": "FOTON"
     },
     {
@@ -298,7 +298,7 @@
       "row": 10,
       "col": 0,
       "length": 4,
-      "clue": "Bilgisayarda işlenen bilgi, data",
+      "clue": "Bilgisayarlarda işlenmek üzere saklanan; rakam, harf ve sembollerden oluşan bilgi.",
       "answer": "VERİ"
     },
     {
@@ -307,7 +307,7 @@
       "row": 10,
       "col": 5,
       "length": 5,
-      "clue": "Bilimsel test, laboratuvar çalışması",
+      "clue": "Bir varsayımı doğrulamak amacıyla yapılan, kontrollü bilimsel çalışma.",
       "answer": "DENEY"
     },
     {
@@ -316,7 +316,7 @@
       "row": 1,
       "col": 11,
       "length": 4,
-      "clue": "Güneşten gelen enerji huzmesi",
+      "clue": "Bir kaynaktan doğrusal yönde yayılan ışık ya da enerji demeti.",
       "answer": "IŞIN"
     }
   ]

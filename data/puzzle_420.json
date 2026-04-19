@@ -145,7 +145,7 @@
       "row": 0,
       "col": 1,
       "length": 6,
-      "clue": "Giz ya da bilmece anlamına gelen sözcük",
+      "clue": "Çözülmesi zor olan gizemli durum; içinden çıkılmaz sır.",
       "answer": "MUAMMA"
     },
     {
@@ -154,7 +154,7 @@
       "row": 0,
       "col": 5,
       "length": 4,
-      "clue": "Baş ya da kelle için kullanılan yaygın ifade",
+      "clue": "İnsanın boynunun üst kısmında bulunan, düşünmenin merkezi olan baş.",
       "answer": "KAFA"
     },
     {
@@ -163,7 +163,7 @@
       "row": 2,
       "col": 0,
       "length": 4,
-      "clue": "Bulmacada Mutlaka yapılması gereken karşılığını veren yanıt",
+      "clue": "Dinde kesinlikle yerine getirilmesi emredilen, zorunlu olan yükümlülük.",
       "answer": "FARZ"
     },
     {
@@ -172,7 +172,7 @@
       "row": 3,
       "col": 4,
       "length": 5,
-      "clue": "İçten bağlılık anlamına gelen sözcük",
+      "clue": "İçten gelen bağlılık; gönülden duyulan samimi sevgi ve sadakat.",
       "answer": "HULUS"
     },
     {
@@ -181,7 +181,7 @@
       "row": 3,
       "col": 4,
       "length": 3,
-      "clue": "Bulmacada Adalet ya da doğruluk karşılığını veren yanıt",
+      "clue": "Kişinin yasal olarak sahip olduğu; alması ya da yapması gereken şey.",
       "answer": "HAK"
     },
     {
@@ -190,7 +190,7 @@
       "row": 5,
       "col": 0,
       "length": 6,
-      "clue": "Boşuna ya da yararsız için kullanılan yaygın ifade",
+      "clue": "Harcanan çabaya değmeyen; hiçbir yarar sağlamayan boş uğraş.",
       "answer": "NAFİLE"
     },
     {
@@ -199,7 +199,7 @@
       "row": 5,
       "col": 0,
       "length": 5,
-      "clue": "İyilik ya da bolluk için kullanılan yaygın ifade",
+      "clue": "Yararlanılan, şükür duyulan değerli varlık; insana verilmiş lütuf.",
       "answer": "NİMET"
     },
     {
@@ -208,7 +208,7 @@
       "row": 6,
       "col": 9,
       "length": 5,
-      "clue": "Günlük dilde Heyecan ya da kaygı olarak bilinen kavram",
+      "clue": "Beklenmedik bir durum karşısında gösterilen aceleci ve tedirgin hal.",
       "answer": "TELAŞ"
     },
     {
@@ -217,7 +217,7 @@
       "row": 7,
       "col": 4,
       "length": 6,
-      "clue": "Kısa an anlamına gelen sözcük",
+      "clue": "Dakikanın altmışta biri; zamanın en küçük günlük ölçü birimi.",
       "answer": "SANİYE"
     },
     {
@@ -226,7 +226,7 @@
       "row": 7,
       "col": 6,
       "length": 3,
-      "clue": "Kırmızı taneli meyve karşılığı olarak kullanılan kelime",
+      "clue": "İçi kırmızı tanelerle dolu, kalın kabuklu, sonbahar aylarının meyvesi.",
       "answer": "NAR"
     }
   ]

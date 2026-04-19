@@ -153,7 +153,7 @@
       "row": 0,
       "col": 5,
       "length": 4,
-      "clue": "Günlük dilde Su kabı olarak bilinen kavram",
+      "clue": "Kulpundan tutularak su ya da başka sıvı taşınan derin silindirik kap.",
       "answer": "KOVA"
     },
     {
@@ -162,7 +162,7 @@
       "row": 2,
       "col": 7,
       "length": 5,
-      "clue": "Sürdürme karşılığı olarak kullanılan kelime",
+      "clue": "Bir işi ya da durumu ara vermeden sürdürme, aksatmadan götürme hali.",
       "answer": "DEVAM"
     },
     {
@@ -171,7 +171,7 @@
       "row": 3,
       "col": 4,
       "length": 4,
-      "clue": "Bulmacada Bayat olmayan karşılığını veren yanıt",
+      "clue": "Yeni toplanmış, bayatlamamış; canlılığını yeni yeni yitirmemiş olan.",
       "answer": "TAZE"
     },
     {
@@ -180,7 +180,7 @@
       "row": 5,
       "col": 1,
       "length": 3,
-      "clue": "Bulmacada Su ile yıkanma karşılığını veren yanıt",
+      "clue": "Üstten sıkılan su ile yıkanmak üzere banyoya yerleştirilmiş düzenek.",
       "answer": "DUŞ"
     },
     {
@@ -189,7 +189,7 @@
       "row": 5,
       "col": 4,
       "length": 4,
-      "clue": "Günlük dilde Bitki yapısı olarak bilinen kavram",
+      "clue": "İçerisi camla kaplı; mevsim dışında bile bitki yetiştirilen ısıtılmış yapı.",
       "answer": "SERA"
     },
     {
@@ -198,7 +198,7 @@
       "row": 5,
       "col": 4,
       "length": 5,
-      "clue": "Bulmacada Katlanma ya da dayanma karşılığını veren yanıt",
+      "clue": "Zorluklara dayanıp isyan etmeden bekleyebilme; hoşgörü ile katlanma.",
       "answer": "SABIR"
     },
     {
@@ -207,7 +207,7 @@
       "row": 6,
       "col": 0,
       "length": 5,
-      "clue": "İple oynatılan karşılığı olarak kullanılan kelime",
+      "clue": "İp ya da parmaklarla oynatılan, tiyatro sahnesinde canlanan figürlü bebek.",
       "answer": "KUKLA"
     },
     {
@@ -216,7 +216,7 @@
       "row": 6,
       "col": 7,
       "length": 5,
-      "clue": "Hayal ürünü hikaye karşılığı olarak kullanılan kelime",
+      "clue": "Hayal ürünü kahramanların yer aldığı, 'bir varmış bir yokmuş'la başlayan öykü.",
       "answer": "MASAL"
     },
     {
@@ -225,7 +225,7 @@
       "row": 6,
       "col": 8,
       "length": 3,
-      "clue": "Yakışıklı ya da gösterişli anlamına gelen sözcük",
+      "clue": "Halk ağzında yakışıklı, gösterişli kimse için kullanılan eski bir sözcük.",
       "answer": "AFİ"
     },
     {
@@ -234,7 +234,7 @@
       "row": 7,
       "col": 4,
       "length": 3,
-      "clue": "Bulmacada Dokuma kumaş parçası karşılığını veren yanıt",
+      "clue": "Silmek, temizlemek ya da örtmek için kullanılan dokuma kumaş parçası.",
       "answer": "BEZ"
     }
   ]

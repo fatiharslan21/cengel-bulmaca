@@ -143,7 +143,7 @@
       "row": 0,
       "col": 8,
       "length": 4,
-      "clue": "Günlük dilde Felaket ya da kötülük olarak bilinen kavram",
+      "clue": "İnsanın başına habersizce gelen ağır dert, büyük sıkıntı ya da musibet.",
       "answer": "BELA"
     },
     {
@@ -152,7 +152,7 @@
       "row": 0,
       "col": 8,
       "length": 3,
-      "clue": "Günlük dilde Üzüm bahçesi olarak bilinen kavram",
+      "clue": "Üzüm yetiştirilen tarla; aynı zamanda düğümle tutturma eylemi.",
       "answer": "BAĞ"
     },
     {
@@ -161,7 +161,7 @@
       "row": 2,
       "col": 6,
       "length": 4,
-      "clue": "Eşya kabı karşılığı olarak kullanılan kelime",
+      "clue": "İçine eşya konulan, çoğu zaman kapağı olan, dikdörtgen ya da kare biçimli hazne.",
       "answer": "KUTU"
     },
     {
@@ -170,7 +170,7 @@
       "row": 2,
       "col": 6,
       "length": 3,
-      "clue": "Günlük dilde Üst beden uzvu olarak bilinen kavram",
+      "clue": "Omuzdan bileğe kadar uzanan, eli bedene bağlayan üst uzvumuz.",
       "answer": "KOL"
     },
     {
@@ -179,7 +179,7 @@
       "row": 5,
       "col": 5,
       "length": 3,
-      "clue": "Kanatlı uçan hayvan anlamına gelen sözcük",
+      "clue": "Gövdesi tüylerle kaplı, kanatları yardımıyla uçabilen yumurtlayan canlı.",
       "answer": "KUŞ"
     },
     {
@@ -188,7 +188,7 @@
       "row": 5,
       "col": 5,
       "length": 4,
-      "clue": "Bulmacada Ev bedeli karşılığını veren yanıt",
+      "clue": "Bir evin ya da iş yerinin kullanımı için sahibine ödenen aylık ücret.",
       "answer": "KIRA"
     },
     {
@@ -197,7 +197,7 @@
       "row": 7,
       "col": 3,
       "length": 4,
-      "clue": "Günlük dilde Sıkıntı ya da üzüntü olarak bilinen kavram",
+      "clue": "İnsanı üzen, iç sıkıntısı veren; uzun süre geçmeyen tasa ve keder.",
       "answer": "DERT"
     },
     {
@@ -206,7 +206,7 @@
       "row": 7,
       "col": 3,
       "length": 3,
-      "clue": "Geniş olmayan karşılığı olarak kullanılan kelime",
+      "clue": "Genişliği yetersiz olan, sıkıştıran; geniş sözcüğünün karşıtı sıfat.",
       "answer": "DAR"
     },
     {
@@ -215,7 +215,7 @@
       "row": 8,
       "col": 0,
       "length": 4,
-      "clue": "Anlama yeteneği için kullanılan yaygın ifade",
+      "clue": "Yeni durumlara hızla uyum sağlayıp doğru kararlar verebilme yeteneği.",
       "answer": "ZEKA"
     }
   ]

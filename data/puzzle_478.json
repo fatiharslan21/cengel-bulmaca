@@ -111,7 +111,7 @@
       "row": 0,
       "col": 1,
       "length": 4,
-      "clue": "Bulmacada Seslenme karşılığını veren yanıt",
+      "clue": "Birine seslenmek için çıkarılan yüksek ses; çağırmak amaçlı bağırma.",
       "answer": "NİDA"
     },
     {
@@ -120,7 +120,7 @@
       "row": 0,
       "col": 1,
       "length": 5,
-      "clue": "Bakış ya da göz anlamına gelen sözcük",
+      "clue": "Kötü bakışın bir kimseye uğursuzluk getireceğine duyulan halk inancı.",
       "answer": "NAZAR"
     },
     {
@@ -129,7 +129,7 @@
       "row": 0,
       "col": 7,
       "length": 5,
-      "clue": "Yenilebilen bitki için kullanılan yaygın ifade",
+      "clue": "Mutfağa giren, bitki kökleri ve yapraklarından oluşan yenilebilir besin.",
       "answer": "SEBZE"
     },
     {
@@ -138,7 +138,7 @@
       "row": 0,
       "col": 9,
       "length": 4,
-      "clue": "Talih ya da şans için kullanılan yaygın ifade",
+      "clue": "İnsanın başına gelenleri belirlediğine inanılan şans, talih ya da kader.",
       "answer": "BAHT"
     },
     {
@@ -147,7 +147,7 @@
       "row": 1,
       "col": 6,
       "length": 5,
-      "clue": "Olgunluk için kullanılan yaygın ifade",
+      "clue": "Bir şeyin eksiksiz, kusursuz ve en üst düzeyde olgunlaşmış hali.",
       "answer": "KEMAL"
     },
     {
@@ -156,7 +156,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "Günlük dilde Ateş aleti olarak bilinen kavram",
+      "clue": "Sobadan ateş almak ya da sıcak şeyleri tutmak için kullanılan uzun kıskaç.",
       "answer": "MAŞA"
     },
     {
@@ -165,7 +165,7 @@
       "row": 3,
       "col": 3,
       "length": 4,
-      "clue": "Günlük dilde Yürüyüş mesafesi olarak bilinen kavram",
+      "clue": "Yürürken bir ayağın diğerinin önüne atılmasıyla alınan kısa mesafe.",
       "answer": "ADIM"
     },
     {
@@ -174,7 +174,7 @@
       "row": 3,
       "col": 9,
       "length": 3,
-      "clue": "İnce parçacıklar karşılığı olarak kullanılan kelime",
+      "clue": "Havada uçuşan ya da yüzeyde biriken, çok küçük katı parçacıklar.",
       "answer": "TOZ"
     },
     {
@@ -183,7 +183,7 @@
       "row": 4,
       "col": 3,
       "length": 5,
-      "clue": "Ani vuruş anlamına gelen sözcük",
+      "clue": "Ani ve sert bir hareketle yapılan vuruş; çarpma sonucu alınan sarsıntı.",
       "answer": "DARBE"
     },
     {
@@ -192,7 +192,7 @@
       "row": 4,
       "col": 6,
       "length": 3,
-      "clue": "Arı ürünü tatlı için kullanılan yaygın ifade",
+      "clue": "Arıların çiçeklerden topladığı nektarı işleyerek yaptığı koyu, tatlı gıda.",
       "answer": "BAL"
     }
   ]

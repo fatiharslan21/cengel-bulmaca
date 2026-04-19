@@ -134,7 +134,7 @@
       "row": 0,
       "col": 1,
       "length": 5,
-      "clue": "Bulmacada Yaşadığımız gezegen karşılığını veren yanıt",
+      "clue": "Üzerinde yaşadığımız, Güneş'in çevresinde dönen mavi yeşil gezegen.",
       "answer": "DÜNYA"
     },
     {
@@ -143,7 +143,7 @@
       "row": 1,
       "col": 0,
       "length": 3,
-      "clue": "Bulmacada Kuvvet ya da enerji karşılığını veren yanıt",
+      "clue": "Bir işi yapabilme yeteneği; fiziksel ya da manevi olarak sahip olunan kuvvet.",
       "answer": "GÜÇ"
     },
     {
@@ -152,7 +152,7 @@
       "row": 3,
       "col": 3,
       "length": 4,
-      "clue": "Gönül huzuru anlamına gelen sözcük",
+      "clue": "İçten duyulan gönül rahatlığı; keder bırakmayan tatlı neşe.",
       "answer": "SAFA"
     },
     {
@@ -161,7 +161,7 @@
       "row": 4,
       "col": 0,
       "length": 5,
-      "clue": "Hükümdar konutu anlamına gelen sözcük",
+      "clue": "Padişah veya hükümdarların oturduğu, görkemli mimarisi olan büyük yapı.",
       "answer": "SARAY"
     },
     {
@@ -170,7 +170,7 @@
       "row": 5,
       "col": 8,
       "length": 5,
-      "clue": "En küçük işaret için kullanılan yaygın ifade",
+      "clue": "Bir cümlenin sonuna konan en küçük yazı işareti; konumun kendisi.",
       "answer": "NOKTA"
     },
     {
@@ -179,7 +179,7 @@
       "row": 6,
       "col": 0,
       "length": 5,
-      "clue": "Söz ya da laf karşılığı olarak kullanılan kelime",
+      "clue": "Ağızdan çıkan söz; düşüncenin dille ifade bulmuş hali.",
       "answer": "KELAM"
     },
     {
@@ -188,7 +188,7 @@
       "row": 6,
       "col": 0,
       "length": 3,
-      "clue": "Göz üstü kıl şeridi anlamına gelen sözcük",
+      "clue": "Gözün hemen üstünde bulunan, yaklaşık yay biçimindeki kıl kümesi.",
       "answer": "KAŞ"
     },
     {
@@ -197,7 +197,7 @@
       "row": 6,
       "col": 4,
       "length": 5,
-      "clue": "Bulmacada Hüzün ya da usanç karşılığını veren yanıt",
+      "clue": "İçe işleyen hafif hüzün; kimseye belli edilmeyen sessiz usanç.",
       "answer": "MELAL"
     },
     {
@@ -206,7 +206,7 @@
       "row": 7,
       "col": 4,
       "length": 5,
-      "clue": "Temel buğday gıdası anlamına gelen sözcük",
+      "clue": "Undan mayalanıp fırında pişirilerek yapılan, sofranın temel besini.",
       "answer": "EKMEK"
     },
     {
@@ -215,7 +215,7 @@
       "row": 9,
       "col": 2,
       "length": 4,
-      "clue": "Sayısal değer için kullanılan yaygın ifade",
+      "clue": "Bir sınavda ya da yarışmada başarıya göre verilen sayısal değerlendirme.",
       "answer": "PUAN"
     }
   ]

@@ -121,7 +121,7 @@
       "row": 0,
       "col": 0,
       "length": 5,
-      "clue": "Bulmacada Yurt ya da memleket karşılığını veren yanıt",
+      "clue": "Bir milletin üzerinde yaşayıp kendine yurt bildiği ata toprağı.",
       "answer": "VATAN"
     },
     {
@@ -130,7 +130,7 @@
       "row": 0,
       "col": 2,
       "length": 4,
-      "clue": "Bağlama aracı anlamına gelen sözcük",
+      "clue": "Saçı ya da kemeri tutturmaya yarayan, klips gibi açılıp kapanan küçük süs.",
       "answer": "TOKA"
     },
     {
@@ -139,7 +139,7 @@
       "row": 2,
       "col": 4,
       "length": 5,
-      "clue": "Tatlı madde için kullanılan yaygın ifade",
+      "clue": "Kamıştan ya da pancardan elde edilen; çay ve tatlılara katılan tatlı madde.",
       "answer": "ŞEKER"
     },
     {
@@ -148,7 +148,7 @@
       "row": 3,
       "col": 1,
       "length": 5,
-      "clue": "Ambalajlı koli karşılığı olarak kullanılan kelime",
+      "clue": "İçindeki eşyayı korumak için ambalajlanmış, kâğıt ya da karton sargılı koli.",
       "answer": "PAKET"
     },
     {
@@ -157,7 +157,7 @@
       "row": 5,
       "col": 2,
       "length": 4,
-      "clue": "Bodur ağaç anlamına gelen sözcük",
+      "clue": "Boyu kısa, dalları sık ve odunsu olan, çok dallı bodur bitki.",
       "answer": "ÇALI"
     },
     {
@@ -166,7 +166,7 @@
       "row": 6,
       "col": 1,
       "length": 6,
-      "clue": "Bitkinin yeşil organı anlamına gelen sözcük",
+      "clue": "Ağacın dalından sarkan, fotosentez yapıp havaya oksijen veren yeşil organ.",
       "answer": "YAPRAK"
     },
     {
@@ -175,7 +175,7 @@
       "row": 6,
       "col": 6,
       "length": 3,
-      "clue": "Günlük dilde Üst beden uzvu olarak bilinen kavram",
+      "clue": "Omuzdan bileğe kadar uzanan, eli bedene bağlayan üst uzvumuz.",
       "answer": "KOL"
     },
     {
@@ -184,7 +184,7 @@
       "row": 8,
       "col": 4,
       "length": 4,
-      "clue": "Bulmacada Yassı ekmek karşılığını veren yanıt",
+      "clue": "Fırında pişirilen, üstüne malzeme serilen, ince ve yassı hamur işi.",
       "answer": "PİDE"
     },
     {
@@ -193,7 +193,7 @@
       "row": 8,
       "col": 4,
       "length": 3,
-      "clue": "Posta gönderilerinin üzerine yapıştırılan değer etiketi",
+      "clue": "Mektupların üzerine yapıştırılan, postanın ücretini belgeleyen küçük kâğıt.",
       "answer": "PUL"
     },
     {
@@ -202,7 +202,7 @@
       "row": 10,
       "col": 3,
       "length": 4,
-      "clue": "Yapılması gereken iş için kullanılan yaygın ifade",
+      "clue": "Öğretmenin evde yapılmak üzere öğrenciye verdiği görev; yerine getirilmesi gereken iş.",
       "answer": "ÖDEV"
     }
   ]

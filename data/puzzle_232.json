@@ -143,7 +143,7 @@
       "row": 0,
       "col": 4,
       "length": 5,
-      "clue": "Bulmacada Kanatlı kutsal varlık karşılığını veren yanıt",
+      "clue": "Dinlerde iyilikle görevlendirilmiş, kanatlı olduğuna inanılan kutsal varlık.",
       "answer": "MELEK"
     },
     {
@@ -152,7 +152,7 @@
       "row": 0,
       "col": 6,
       "length": 3,
-      "clue": "Eflatun renk için kullanılan yaygın ifade",
+      "clue": "Kırmızı ile mavinin karışımından elde edilen, menekşe renginde koyu ton.",
       "answer": "MOR"
     },
     {
@@ -161,7 +161,7 @@
       "row": 2,
       "col": 4,
       "length": 4,
-      "clue": "Günlük dilde Türk parası olarak bilinen kavram",
+      "clue": "Türkiye Cumhuriyeti'nin resmi para birimi; TL kısaltmasıyla yazılan değer.",
       "answer": "LİRA"
     },
     {
@@ -170,7 +170,7 @@
       "row": 3,
       "col": 0,
       "length": 5,
-      "clue": "Küçük deniz taşıtı anlamına gelen sözcük",
+      "clue": "Yelkenli ya da motorlu olup denizde kısa yolculuklara çıkan küçük gemi.",
       "answer": "TEKNE"
     },
     {
@@ -179,7 +179,7 @@
       "row": 3,
       "col": 2,
       "length": 4,
-      "clue": "Günlük dilde Su kabı olarak bilinen kavram",
+      "clue": "Kulpundan tutularak su ya da başka sıvı taşınan derin silindirik kap.",
       "answer": "KOVA"
     },
     {
@@ -188,7 +188,7 @@
       "row": 4,
       "col": 4,
       "length": 4,
-      "clue": "Bulmacada Ev bedeli karşılığını veren yanıt",
+      "clue": "Bir evin ya da iş yerinin kullanımı için sahibine ödenen aylık ücret.",
       "answer": "KIRA"
     },
     {
@@ -197,7 +197,7 @@
       "row": 4,
       "col": 7,
       "length": 4,
-      "clue": "Günlük dilde Geniş düzlük olarak bilinen kavram",
+      "clue": "Üzerinde yapı bulunmayan, belli sınırlarla çevrili geniş açık düzlük.",
       "answer": "ALAN"
     },
     {
@@ -206,7 +206,7 @@
       "row": 4,
       "col": 9,
       "length": 6,
-      "clue": "Günlük dilde Kürekli tekne olarak bilinen kavram",
+      "clue": "İnsan ya da kürek gücüyle suda yol alan küçük açık deniz teknesi.",
       "answer": "SANDAL"
     },
     {
@@ -215,7 +215,7 @@
       "row": 6,
       "col": 7,
       "length": 4,
-      "clue": "Bulmacada Yansıtıcı cam karşılığını veren yanıt",
+      "clue": "Karşısına geçenin görüntüsünü aynen yansıtan sırlanmış cam yüzey.",
       "answer": "AYNA"
     },
     {
@@ -224,7 +224,7 @@
       "row": 8,
       "col": 8,
       "length": 3,
-      "clue": "Hava gibi madde için kullanılan yaygın ifade",
+      "clue": "Belli bir şekli ve hacmi olmayan, her yöne yayılabilen madde hali.",
       "answer": "GAZ"
     }
   ]

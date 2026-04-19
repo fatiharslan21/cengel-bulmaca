@@ -109,7 +109,7 @@
       "row": 0,
       "col": 0,
       "length": 4,
-      "clue": "Günlük dilde Boş olmayan olarak bilinen kavram",
+      "clue": "İçi boşluk bırakmayacak biçimde bir şeyle tamamen kaplanmış olan.",
       "answer": "DOLU"
     },
     {
@@ -118,7 +118,7 @@
       "row": 0,
       "col": 3,
       "length": 4,
-      "clue": "Yakın olmayan karşılığı olarak kullanılan kelime",
+      "clue": "Aradaki mesafenin çok olduğu; yakınlığı hissedilmeyen ötelerdeki yer.",
       "answer": "UZAK"
     },
     {
@@ -127,7 +127,7 @@
       "row": 0,
       "col": 6,
       "length": 6,
-      "clue": "Daire çevresi anlamına gelen sözcük",
+      "clue": "Bir merkezden eşit uzaklıktaki noktaların oluşturduğu kapalı eğri.",
       "answer": "ÇEMBER"
     },
     {
@@ -136,7 +136,7 @@
       "row": 2,
       "col": 1,
       "length": 3,
-      "clue": "Günlük dilde Oyun küpü olarak bilinen kavram",
+      "clue": "Üzerinde nokta bulunan, oyunlarda atılan altı yüzlü küçük küp.",
       "answer": "ZAR"
     },
     {
@@ -145,7 +145,7 @@
       "row": 2,
       "col": 3,
       "length": 4,
-      "clue": "Elektrik hareketi için kullanılan yaygın ifade",
+      "clue": "Belirli bir yönde hareket eden elektrik yükü ya da suyun sürüklenişi.",
       "answer": "AKIM"
     },
     {
@@ -154,7 +154,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "Günlük dilde Yeşil alan olarak bilinen kavram",
+      "clue": "Şehir içinde insanların dinlenip yürüdüğü, ağaçlıklı kamusal yeşil alan.",
       "answer": "PARK"
     },
     {
@@ -163,7 +163,7 @@
       "row": 3,
       "col": 6,
       "length": 4,
-      "clue": "Günlük dilde Zodyak işareti olarak bilinen kavram",
+      "clue": "Gökyüzündeki yıldız öbeklerinin oluşturduğu, astrolojide kullanılan imge.",
       "answer": "BURÇ"
     },
     {
@@ -172,7 +172,7 @@
       "row": 5,
       "col": 4,
       "length": 3,
-      "clue": "Günlük dilde Güç ya da kolay değil olarak bilinen kavram",
+      "clue": "Üstesinden gelinmesi emek isteyen; kolayın tam karşıtı sayılan güç iş.",
       "answer": "ZOR"
     },
     {
@@ -181,7 +181,7 @@
       "row": 5,
       "col": 5,
       "length": 3,
-      "clue": "Bulmacada Ev bölümü karşılığını veren yanıt",
+      "clue": "Bir evin ya da binanın duvarlarla ayrılmış, belirli amaçla kullanılan bölümü.",
       "answer": "ODA"
     },
     {
@@ -190,7 +190,7 @@
       "row": 7,
       "col": 4,
       "length": 4,
-      "clue": "Ayrım ya da değişiklik anlamına gelen sözcük",
+      "clue": "İki şeyin birbirinden ayrıldığı yön; aralarındaki benzemezlik.",
       "answer": "FARK"
     }
   ]

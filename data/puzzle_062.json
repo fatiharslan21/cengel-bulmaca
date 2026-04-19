@@ -93,7 +93,7 @@
       "row": 0,
       "col": 1,
       "length": 5,
-      "clue": "Sayfalardan eser karşılığı olarak kullanılan kelime",
+      "clue": "Sayfalardan oluşan, üzerine bilgi ya da hikâye yazılmış ciltli eser.",
       "answer": "KİTAP"
     },
     {
@@ -102,7 +102,7 @@
       "row": 0,
       "col": 2,
       "length": 4,
-      "clue": "Sivri dikiş aracı anlamına gelen sözcük",
+      "clue": "Ucu sivri, arkası delikli; dikiş dikmek için ipliği geçiren ince metal araç.",
       "answer": "İĞNE"
     },
     {
@@ -111,7 +111,7 @@
       "row": 3,
       "col": 1,
       "length": 5,
-      "clue": "Bulmacada Yaşadığımız gezegen karşılığını veren yanıt",
+      "clue": "Üzerinde yaşadığımız, Güneş'in çevresinde dönen mavi yeşil gezegen.",
       "answer": "DÜNYA"
     },
     {
@@ -120,7 +120,7 @@
       "row": 3,
       "col": 1,
       "length": 5,
-      "clue": "Tuzlu büyük su karşılığı olarak kullanılan kelime",
+      "clue": "Kıtaları birbirinden ayıran, tuzlu sulardan oluşan uçsuz bucaksız kütle.",
       "answer": "DENİZ"
     },
     {
@@ -129,7 +129,7 @@
       "row": 5,
       "col": 1,
       "length": 3,
-      "clue": "Kırmızı taneli meyve karşılığı olarak kullanılan kelime",
+      "clue": "İçi kırmızı tanelerle dolu, kalın kabuklu, sonbahar aylarının meyvesi.",
       "answer": "NAR"
     },
     {
@@ -138,7 +138,7 @@
       "row": 5,
       "col": 5,
       "length": 5,
-      "clue": "Günlük dilde Ölçü ya da ebat olarak bilinen kavram",
+      "clue": "Bir cismin uzunluk, genişlik ve yükseklik gibi ölçülebilen özelliği.",
       "answer": "BOYUT"
     },
     {
@@ -147,7 +147,7 @@
       "row": 7,
       "col": 0,
       "length": 3,
-      "clue": "Çizgi ya da yol anlamına gelen sözcük",
+      "clue": "Bir noktadan diğerine uzanan düz çizgi; yol ya da güzergâh.",
       "answer": "HAT"
     },
     {
@@ -156,7 +156,7 @@
       "row": 7,
       "col": 2,
       "length": 3,
-      "clue": "Günlük dilde Damaktaki lezzet olarak bilinen kavram",
+      "clue": "Dilin damak aracılığıyla algıladığı; acı, ekşi, tuzlu gibi duyusal nitelik.",
       "answer": "TAT"
     },
     {
@@ -165,7 +165,7 @@
       "row": 8,
       "col": 2,
       "length": 4,
-      "clue": "İstek ya da dilek için kullanılan yaygın ifade",
+      "clue": "İçten duyulan istek, gönülden beklenen dilek veya özlem.",
       "answer": "ARZU"
     }
   ]

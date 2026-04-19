@@ -123,7 +123,7 @@
       "row": 0,
       "col": 5,
       "length": 4,
-      "clue": "Günlük dilde Yanlış ya da kusur olarak bilinen kavram",
+      "clue": "İstemeden yapılan yanlış; doğru olandan sapmanın yol açtığı kusur.",
       "answer": "HATA"
     },
     {
@@ -132,7 +132,7 @@
       "row": 1,
       "col": 4,
       "length": 3,
-      "clue": "Bulmacada İçine konan kab karşılığını veren yanıt",
+      "clue": "İçine sıvı ya da katı maddeler konulan her türlü şekilli eşya.",
       "answer": "KAP"
     },
     {
@@ -141,7 +141,7 @@
       "row": 2,
       "col": 3,
       "length": 4,
-      "clue": "Yalvarma ya da dilek karşılığı olarak kullanılan kelime",
+      "clue": "Birinden nazikçe bir şey istemek; kibarca dile getirilen dilek.",
       "answer": "RİCA"
     },
     {
@@ -150,7 +150,7 @@
       "row": 3,
       "col": 2,
       "length": 5,
-      "clue": "Günlük dilde Küçük kırmızı meyve olarak bilinen kavram",
+      "clue": "Saplı, parlak, kırmızı kabuklu; ilkbaharın sonunda olgunlaşan tatlı meyve.",
       "answer": "KİRAZ"
     },
     {
@@ -159,7 +159,7 @@
       "row": 4,
       "col": 0,
       "length": 4,
-      "clue": "Arzu ya da istek için kullanılan yaygın ifade",
+      "clue": "İçten doğan büyük istek; insanı coşturan şiddetli arzu ve heves.",
       "answer": "ŞEVK"
     },
     {
@@ -168,7 +168,7 @@
       "row": 5,
       "col": 0,
       "length": 5,
-      "clue": "En sert taş karşılığı olarak kullanılan kelime",
+      "clue": "Doğada bulunan en sert madde; takılarda kullanılan değerli kıymetli taş.",
       "answer": "ELMAS"
     },
     {
@@ -177,7 +177,7 @@
       "row": 7,
       "col": 0,
       "length": 4,
-      "clue": "Eşya kabı karşılığı olarak kullanılan kelime",
+      "clue": "İçine eşya konulan, çoğu zaman kapağı olan, dikdörtgen ya da kare biçimli hazne.",
       "answer": "KUTU"
     },
     {
@@ -186,7 +186,7 @@
       "row": 7,
       "col": 3,
       "length": 4,
-      "clue": "Bulmacada Yöntem ya da tarz karşılığını veren yanıt",
+      "clue": "Bir işin belirli kurallar içinde yapılmasını sağlayan yol; yöntem.",
       "answer": "USUL"
     },
     {
@@ -195,7 +195,7 @@
       "row": 8,
       "col": 3,
       "length": 5,
-      "clue": "Günün başı anlamına gelen sözcük",
+      "clue": "Güneşin doğmasıyla başlayıp öğleye kadar süren günün ilk dilimi.",
       "answer": "SABAH"
     },
     {
@@ -204,7 +204,7 @@
       "row": 10,
       "col": 2,
       "length": 4,
-      "clue": "Keder ya da acı karşılığı olarak kullanılan kelime",
+      "clue": "Gönle çöken derin üzüntü, insanı içten içe yiyen keder.",
       "answer": "ELEM"
     }
   ]

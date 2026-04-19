@@ -156,7 +156,7 @@
       "row": 0,
       "col": 2,
       "length": 5,
-      "clue": "İyilik ya da bolluk için kullanılan yaygın ifade",
+      "clue": "Yararlanılan, şükür duyulan değerli varlık; insana verilmiş lütuf.",
       "answer": "NİMET"
     },
     {
@@ -165,7 +165,7 @@
       "row": 0,
       "col": 4,
       "length": 5,
-      "clue": "Bulmacada Seslerle sanat karşılığını veren yanıt",
+      "clue": "Seslerin belli bir düzen içinde bir araya getirilmesiyle oluşan sanat.",
       "answer": "MÜZİK"
     },
     {
@@ -174,7 +174,7 @@
       "row": 3,
       "col": 7,
       "length": 6,
-      "clue": "Bulmacada Popüler top oyunu karşılığını veren yanıt",
+      "clue": "Her takımdan on bir oyuncunun sahada top üzerinde oynadığı dünya sporu.",
       "answer": "FUTBOL"
     },
     {
@@ -183,7 +183,7 @@
       "row": 4,
       "col": 2,
       "length": 7,
-      "clue": "Bulmacada Avunma ya da avuntu karşılığını veren yanıt",
+      "clue": "Üzüntülü birine söylenerek onu rahatlatan sıcak avutucu söz.",
       "answer": "TESELLİ"
     },
     {
@@ -192,7 +192,7 @@
       "row": 4,
       "col": 4,
       "length": 4,
-      "clue": "Günlük dilde Burnun algısı olarak bilinen kavram",
+      "clue": "Burnumuzla algıladığımız, havada yayılan hoş ya da keskin tanecikler.",
       "answer": "KOKU"
     },
     {
@@ -201,7 +201,7 @@
       "row": 4,
       "col": 5,
       "length": 4,
-      "clue": "Bulmacada Konaklama yeri karşılığını veren yanıt",
+      "clue": "Yolcuların ücret karşılığı geceyi geçirdiği, odaları olan konaklama işletmesi.",
       "answer": "OTEL"
     },
     {
@@ -210,7 +210,7 @@
       "row": 6,
       "col": 1,
       "length": 5,
-      "clue": "Sakin ya da huzurlu için kullanılan yaygın ifade",
+      "clue": "Gürültüden uzak, hiçbir telaşın olmadığı sessiz ve huzurlu ortam.",
       "answer": "ASUDE"
     },
     {
@@ -219,7 +219,7 @@
       "row": 6,
       "col": 7,
       "length": 4,
-      "clue": "İnsanların yaşadığı veya çalıştığı yapı",
+      "clue": "İnsanların içinde oturduğu ya da çalıştığı, taş ve betondan yapılmış yapı.",
       "answer": "BİNA"
     },
     {
@@ -228,7 +228,7 @@
       "row": 6,
       "col": 9,
       "length": 3,
-      "clue": "İşve ya da cilve anlamına gelen sözcük",
+      "clue": "Sevdiğine karşı gösterilen hafif cilve; yapmacık çekingenlik.",
       "answer": "NAZ"
     },
     {
@@ -237,7 +237,7 @@
       "row": 9,
       "col": 0,
       "length": 7,
-      "clue": "Renkli kanatlı böcek karşılığı olarak kullanılan kelime",
+      "clue": "Tırtılken metamorfoz geçirip renkli kanatlara kavuşan zarif böcek.",
       "answer": "KELEBEK"
     }
   ]

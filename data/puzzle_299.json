@@ -157,7 +157,7 @@
       "row": 0,
       "col": 8,
       "length": 5,
-      "clue": "Küçük deniz taşıtı anlamına gelen sözcük",
+      "clue": "Yelkenli ya da motorlu olup denizde kısa yolculuklara çıkan küçük gemi.",
       "answer": "TEKNE"
     },
     {
@@ -166,7 +166,7 @@
       "row": 1,
       "col": 5,
       "length": 4,
-      "clue": "Amaç ya da maksat için kullanılan yaygın ifade",
+      "clue": "Bir işe girişirken göz önünde tutulan, ulaşılmak istenen son hedef.",
       "answer": "GAYE"
     },
     {
@@ -175,7 +175,7 @@
       "row": 1,
       "col": 6,
       "length": 4,
-      "clue": "Hafif olmayan için kullanılan yaygın ifade",
+      "clue": "Kaldırılması güç olan, hafif sözcüğünün zıttı sayılan kütle durumu.",
       "answer": "AĞIR"
     },
     {
@@ -184,7 +184,7 @@
       "row": 3,
       "col": 2,
       "length": 5,
-      "clue": "Bulmacada Hüzün ya da usanç karşılığını veren yanıt",
+      "clue": "İçe işleyen hafif hüzün; kimseye belli edilmeyen sessiz usanç.",
       "answer": "MELAL"
     },
     {
@@ -193,7 +193,7 @@
       "row": 4,
       "col": 1,
       "length": 6,
-      "clue": "Daire çevresi anlamına gelen sözcük",
+      "clue": "Bir merkezden eşit uzaklıktaki noktaların oluşturduğu kapalı eğri.",
       "answer": "ÇEMBER"
     },
     {
@@ -202,7 +202,7 @@
       "row": 4,
       "col": 5,
       "length": 4,
-      "clue": "Günlük dilde Buyruk ya da komut olarak bilinen kavram",
+      "clue": "Yetkili bir kimsenin yerine getirilmek üzere verdiği kesin buyruk.",
       "answer": "EMİR"
     },
     {
@@ -211,7 +211,7 @@
       "row": 6,
       "col": 5,
       "length": 5,
-      "clue": "Namus ve ahlaki ölçülülük hali",
+      "clue": "Ahlaki ölçülere bağlı kalma; namusu ve temizliği koruma hali.",
       "answer": "İFFET"
     },
     {
@@ -220,7 +220,7 @@
       "row": 6,
       "col": 8,
       "length": 4,
-      "clue": "Keder ya da acı karşılığı olarak kullanılan kelime",
+      "clue": "Gönle çöken derin üzüntü, insanı içten içe yiyen keder.",
       "answer": "ELEM"
     },
     {
@@ -229,7 +229,7 @@
       "row": 7,
       "col": 0,
       "length": 3,
-      "clue": "Bulmacada Vücudun orta bölümü karşılığını veren yanıt",
+      "clue": "Göğüs kafesi ile kalçalar arasında kalan, vücudun orta kısmı.",
       "answer": "BEL"
     },
     {
@@ -238,7 +238,7 @@
       "row": 7,
       "col": 0,
       "length": 5,
-      "clue": "Günlük dilde Ölçü ya da ebat olarak bilinen kavram",
+      "clue": "Bir cismin uzunluk, genişlik ve yükseklik gibi ölçülebilen özelliği.",
       "answer": "BOYUT"
     }
   ]

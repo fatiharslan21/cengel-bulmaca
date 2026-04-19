@@ -133,7 +133,7 @@
       "row": 0,
       "col": 6,
       "length": 6,
-      "clue": "Okyanus memelisi için kullanılan yaygın ifade",
+      "clue": "Okyanuslarda yaşayan, dünyanın en büyük sayılan memeli deniz canlısı.",
       "answer": "BALİNA"
     },
     {
@@ -142,7 +142,7 @@
       "row": 1,
       "col": 5,
       "length": 4,
-      "clue": "Altın rengi için kullanılan yaygın ifade",
+      "clue": "Limon ve altın tonlarında olan, güneşi çağrıştıran canlı sıcak renk.",
       "answer": "SARI"
     },
     {
@@ -151,7 +151,7 @@
       "row": 3,
       "col": 2,
       "length": 4,
-      "clue": "Bulmacada Eğlence faaliyeti karşılığını veren yanıt",
+      "clue": "Boş zamanlarda eğlence ya da öğrenme amacıyla kurallara göre oynanan etkinlik.",
       "answer": "OYUN"
     },
     {
@@ -160,7 +160,7 @@
       "row": 3,
       "col": 8,
       "length": 3,
-      "clue": "Günlük dilde Toprak sahibi olarak bilinen kavram",
+      "clue": "Eskiden köylerde geniş topraklara sahip, sözü geçen nüfuzlu kişi.",
       "answer": "AĞA"
     },
     {
@@ -169,7 +169,7 @@
       "row": 4,
       "col": 4,
       "length": 3,
-      "clue": "Yön değiştir karşılığı olarak kullanılan kelime",
+      "clue": "Bulunduğun yerden geri çevril; ya da bir eksen etrafında hareket et.",
       "answer": "DÖN"
     },
     {
@@ -178,7 +178,7 @@
       "row": 4,
       "col": 4,
       "length": 4,
-      "clue": "Üçten sonra gelen için kullanılan yaygın ifade",
+      "clue": "Üçten sonra gelen, mevsim ve yön sayısına denk gelen doğal sayı.",
       "answer": "DÖRT"
     },
     {
@@ -187,7 +187,7 @@
       "row": 5,
       "col": 6,
       "length": 4,
-      "clue": "Günlük dilde Bacak ucu olarak bilinen kavram",
+      "clue": "Bacağın bileğinden aşağısı; üzerine basarak yürümemizi sağlayan uzuv.",
       "answer": "AYAK"
     },
     {
@@ -196,7 +196,7 @@
       "row": 5,
       "col": 7,
       "length": 3,
-      "clue": "Çehre; sayı 100 için kullanılan yaygın ifade",
+      "clue": "Gözlerin, burnun ve ağzın bulunduğu baş ön kısmı; ayrıca on kere on sayısı.",
       "answer": "YÜZ"
     },
     {
@@ -205,7 +205,7 @@
       "row": 6,
       "col": 0,
       "length": 5,
-      "clue": "Bulmacada Gölge ağacı karşılığını veren yanıt",
+      "clue": "Geniş yaprakları ve kalın gövdesiyle yüzyıllarca yaşayabilen büyük ağaç.",
       "answer": "ÇINAR"
     },
     {
@@ -214,7 +214,7 @@
       "row": 6,
       "col": 0,
       "length": 4,
-      "clue": "Bodur ağaç anlamına gelen sözcük",
+      "clue": "Boyu kısa, dalları sık ve odunsu olan, çok dallı bodur bitki.",
       "answer": "ÇALI"
     }
   ]

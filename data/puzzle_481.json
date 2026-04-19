@@ -145,7 +145,7 @@
       "row": 0,
       "col": 1,
       "length": 3,
-      "clue": "Beyaz yağış için kullanılan yaygın ifade",
+      "clue": "Soğuk havada bulutlardan düşen, altıgen kristallerden oluşan beyaz yağış.",
       "answer": "KAR"
     },
     {
@@ -154,7 +154,7 @@
       "row": 0,
       "col": 6,
       "length": 4,
-      "clue": "Yırtığı kapatmak için eklenen parça",
+      "clue": "Eskiyip yırtılan giysiyi onarmak için üstüne dikilen küçük kumaş parçası.",
       "answer": "YAMA"
     },
     {
@@ -163,7 +163,7 @@
       "row": 1,
       "col": 0,
       "length": 5,
-      "clue": "Bulmacada Katlanma ya da dayanma karşılığını veren yanıt",
+      "clue": "Zorluklara dayanıp isyan etmeden bekleyebilme; hoşgörü ile katlanma.",
       "answer": "SABIR"
     },
     {
@@ -172,7 +172,7 @@
       "row": 1,
       "col": 4,
       "length": 5,
-      "clue": "Hasım ya da muhalif için kullanılan yaygın ifade",
+      "clue": "Aynı amaca ulaşmak için karşı karşıya gelen, yarış halindeki hasım.",
       "answer": "RAKİP"
     },
     {
@@ -181,7 +181,7 @@
       "row": 1,
       "col": 6,
       "length": 3,
-      "clue": "Bulmacada Tatlının zıttı karşılığını veren yanıt",
+      "clue": "Tatlının tam karşıtı olan, biberin ya da kederin bıraktığı keskin duygu.",
       "answer": "ACI"
     },
     {
@@ -190,7 +190,7 @@
       "row": 3,
       "col": 2,
       "length": 5,
-      "clue": "En küçük işaret için kullanılan yaygın ifade",
+      "clue": "Bir cümlenin sonuna konan en küçük yazı işareti; konumun kendisi.",
       "answer": "NOKTA"
     },
     {
@@ -199,7 +199,7 @@
       "row": 5,
       "col": 4,
       "length": 5,
-      "clue": "Pencereyi örtmek için asılan kumaş",
+      "clue": "Pencereyi örtmek için asılan, ışığı ve dışarıdan görünmeyi engelleyen kumaş.",
       "answer": "PERDE"
     },
     {
@@ -208,7 +208,7 @@
       "row": 5,
       "col": 7,
       "length": 3,
-      "clue": "Bulmacada Ağacın kolu karşılığını veren yanıt",
+      "clue": "Bir ağacın gövdesinden yanlara doğru uzayan ve yapraklarını taşıyan kol.",
       "answer": "DAL"
     },
     {
@@ -217,7 +217,7 @@
       "row": 7,
       "col": 5,
       "length": 3,
-      "clue": "Seramik toprağı karşılığı olarak kullanılan kelime",
+      "clue": "Çanak çömlek yapımında kullanılan, suyla yumuşayan yapışkan toprak.",
       "answer": "KİL"
     },
     {
@@ -226,7 +226,7 @@
       "row": 7,
       "col": 5,
       "length": 5,
-      "clue": "İki yakayı birleştiren için kullanılan yaygın ifade",
+      "clue": "Bir nehrin ya da vadinin iki yakasını birbirine bağlayan geçit yapısı.",
       "answer": "KÖPRÜ"
     }
   ]

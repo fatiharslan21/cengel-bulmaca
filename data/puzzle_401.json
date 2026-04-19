@@ -143,7 +143,7 @@
       "row": 0,
       "col": 1,
       "length": 7,
-      "clue": "Bulmacada Görünme ya da belirme karşılığını veren yanıt",
+      "clue": "Gizli kalmış bir şeyin zamanı gelince gözle görünür olması; belirme.",
       "answer": "TECELLİ"
     },
     {
@@ -152,7 +152,7 @@
       "row": 0,
       "col": 7,
       "length": 5,
-      "clue": "Yenilebilen bitki için kullanılan yaygın ifade",
+      "clue": "Mutfağa giren, bitki kökleri ve yapraklarından oluşan yenilebilir besin.",
       "answer": "SEBZE"
     },
     {
@@ -161,7 +161,7 @@
       "row": 3,
       "col": 0,
       "length": 5,
-      "clue": "Bulmacada Hüzün ya da usanç karşılığını veren yanıt",
+      "clue": "İçe işleyen hafif hüzün; kimseye belli edilmeyen sessiz usanç.",
       "answer": "MELAL"
     },
     {
@@ -170,7 +170,7 @@
       "row": 3,
       "col": 9,
       "length": 6,
-      "clue": "Günlük dilde Değerli şeyler olarak bilinen kavram",
+      "clue": "Değerli eşyaların ya da paraların saklandığı gizli büyük birikim.",
       "answer": "HAZİNE"
     },
     {
@@ -179,7 +179,7 @@
       "row": 4,
       "col": 6,
       "length": 6,
-      "clue": "Ayrılık acısı için kullanılan yaygın ifade",
+      "clue": "Sevgiliden uzak düşmenin yürekte açtığı derin ayrılık acısı.",
       "answer": "HİCRAN"
     },
     {
@@ -188,7 +188,7 @@
       "row": 4,
       "col": 6,
       "length": 5,
-      "clue": "Sayısal işlem karşılığı olarak kullanılan kelime",
+      "clue": "Sayılarla yapılan dört işlem; gelir ve giderin tutulduğu kayıt.",
       "answer": "HESAP"
     },
     {
@@ -197,7 +197,7 @@
       "row": 5,
       "col": 3,
       "length": 5,
-      "clue": "Pencereyi örtmek için asılan kumaş",
+      "clue": "Pencereyi örtmek için asılan, ışığı ve dışarıdan görünmeyi engelleyen kumaş.",
       "answer": "PERDE"
     },
     {
@@ -206,7 +206,7 @@
       "row": 6,
       "col": 0,
       "length": 4,
-      "clue": "Günlük dilde Düzen ya da oyun olarak bilinen kavram",
+      "clue": "Birini aldatmak için yapılan gizli düzen; dolap çevirme.",
       "answer": "HİLE"
     },
     {
@@ -215,7 +215,7 @@
       "row": 7,
       "col": 8,
       "length": 3,
-      "clue": "Hatıra ya da geçmiş olay karşılığı olarak kullanılan kelime",
+      "clue": "Geçmişte yaşanmış ve zihinde iz bırakmış olayların hatırlanması.",
       "answer": "ANI"
     },
     {
@@ -224,7 +224,7 @@
       "row": 8,
       "col": 1,
       "length": 7,
-      "clue": "Hatıra ya da armağan için kullanılan yaygın ifade",
+      "clue": "Sevilen birinden hatıra kalan; onu anmamızı sağlayan değerli eşya.",
       "answer": "YADİGAR"
     }
   ]

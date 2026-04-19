@@ -97,7 +97,7 @@
       "row": 0,
       "col": 8,
       "length": 5,
-      "clue": "Geniş ana yol için kullanılan yaygın ifade",
+      "clue": "Şehirlerde iki yanı binalarla çevrili, taşıtların geçtiği geniş ana yol.",
       "answer": "CADDE"
     },
     {
@@ -106,7 +106,7 @@
       "row": 1,
       "col": 5,
       "length": 5,
-      "clue": "Uyulması gereken için kullanılan yaygın ifade",
+      "clue": "Bir düzen içinde hareket edebilmek için uyulması zorunlu olan ilke.",
       "answer": "KURAL"
     },
     {
@@ -115,7 +115,7 @@
       "row": 1,
       "col": 5,
       "length": 5,
-      "clue": "Günlük dilde Küçük kırmızı meyve olarak bilinen kavram",
+      "clue": "Saplı, parlak, kırmızı kabuklu; ilkbaharın sonunda olgunlaşan tatlı meyve.",
       "answer": "KİRAZ"
     },
     {
@@ -124,7 +124,7 @@
       "row": 2,
       "col": 1,
       "length": 3,
-      "clue": "Bulmacada Rüzgar ya da esinti karşılığını veren yanıt",
+      "clue": "Havanın bir yönden diğerine doğru hissedilebilir akışı; rüzgâr.",
       "answer": "YEL"
     },
     {
@@ -133,7 +133,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "Günlük dilde İlerinin zıttı olarak bilinen kavram",
+      "clue": "İlerinin zıttı; arkaya ya da başlangıca doğru olan yön.",
       "answer": "GERİ"
     },
     {
@@ -142,7 +142,7 @@
       "row": 3,
       "col": 3,
       "length": 3,
-      "clue": "Birinci ya da baştaki anlamına gelen sözcük",
+      "clue": "Bir sıranın en başında bulunan; sondan önce hiçbir şey olmayan sırada birinci.",
       "answer": "İLK"
     },
     {
@@ -151,7 +151,7 @@
       "row": 4,
       "col": 7,
       "length": 3,
-      "clue": "Birinci tekil kişi karşılığı olarak kullanılan kelime",
+      "clue": "Konuşan kişinin kendisini belirtmek için kullandığı birinci tekil zamir.",
       "answer": "BEN"
     },
     {
@@ -160,7 +160,7 @@
       "row": 4,
       "col": 7,
       "length": 3,
-      "clue": "Asit karşıtı için kullanılan yaygın ifade",
+      "clue": "Kimyada asitle tepkimeye girerek tuz oluşturan, karşıt özellikli madde.",
       "answer": "BAZ"
     },
     {
@@ -169,7 +169,7 @@
       "row": 5,
       "col": 3,
       "length": 3,
-      "clue": "Günlük dilde Üst beden uzvu olarak bilinen kavram",
+      "clue": "Omuzdan bileğe kadar uzanan, eli bedene bağlayan üst uzvumuz.",
       "answer": "KOL"
     }
   ]

@@ -113,7 +113,7 @@
       "row": 0,
       "col": 2,
       "length": 3,
-      "clue": "Bulmacada Rüzgar ya da esinti karşılığını veren yanıt",
+      "clue": "Havanın bir yönden diğerine doğru hissedilebilir akışı; rüzgâr.",
       "answer": "YEL"
     },
     {
@@ -122,7 +122,7 @@
       "row": 1,
       "col": 1,
       "length": 4,
-      "clue": "Karanlık zaman anlamına gelen sözcük",
+      "clue": "Güneşin batmasından doğmasına kadar süren karanlık zaman dilimi.",
       "answer": "GECE"
     },
     {
@@ -131,7 +131,7 @@
       "row": 1,
       "col": 4,
       "length": 5,
-      "clue": "Temel buğday gıdası anlamına gelen sözcük",
+      "clue": "Undan mayalanıp fırında pişirilerek yapılan, sofranın temel besini.",
       "answer": "EKMEK"
     },
     {
@@ -140,7 +140,7 @@
       "row": 2,
       "col": 6,
       "length": 3,
-      "clue": "Tek renk olmayan, benekli görünüm",
+      "clue": "Birden çok rengin bir arada bulunduğu, benekli ya da karışık görünüm.",
       "answer": "ALA"
     },
     {
@@ -149,7 +149,7 @@
       "row": 3,
       "col": 4,
       "length": 4,
-      "clue": "Günlük dilde Kısa dinlenme olarak bilinen kavram",
+      "clue": "Çalışmaya ya da yolculuğa kısa bir süre ara vererek dinlenme anı.",
       "answer": "MOLA"
     },
     {
@@ -158,7 +158,7 @@
       "row": 4,
       "col": 0,
       "length": 5,
-      "clue": "Evin yeşil alanı anlamına gelen sözcük",
+      "clue": "Ev ya da yapı yakınında çiçek, sebze ve ağaç yetiştirilen yeşil alan.",
       "answer": "BAHÇE"
     },
     {
@@ -167,7 +167,7 @@
       "row": 4,
       "col": 1,
       "length": 5,
-      "clue": "Bulmacada Dört tekerlekli taşıt karşılığını veren yanıt",
+      "clue": "Tekerlekleri üstünde insan ya da yük taşıyan motorlu kara taşıtı.",
       "answer": "ARABA"
     },
     {
@@ -176,7 +176,7 @@
       "row": 7,
       "col": 4,
       "length": 3,
-      "clue": "Çizgi ya da yol anlamına gelen sözcük",
+      "clue": "Bir noktadan diğerine uzanan düz çizgi; yol ya da güzergâh.",
       "answer": "HAT"
     },
     {
@@ -185,7 +185,7 @@
       "row": 8,
       "col": 0,
       "length": 5,
-      "clue": "Ekin alanı anlamına gelen sözcük",
+      "clue": "Üzerinde buğday, arpa ya da sebze yetiştirilen sürülmüş geniş toprak.",
       "answer": "TARLA"
     }
   ]

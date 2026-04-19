@@ -153,7 +153,7 @@
       "row": 0,
       "col": 8,
       "length": 6,
-      "clue": "Gökten su damlaları için kullanılan yaygın ifade",
+      "clue": "Bulutlardaki su damlalarının yer çekimiyle gökten yağması.",
       "answer": "YAĞMUR"
     },
     {
@@ -162,7 +162,7 @@
       "row": 1,
       "col": 7,
       "length": 5,
-      "clue": "Günlük dilde Yazı aleti olarak bilinen kavram",
+      "clue": "Ucundan mürekkep ya da grafit akıtarak kâğıda yazı yazmayı sağlayan araç.",
       "answer": "KALEM"
     },
     {
@@ -171,7 +171,7 @@
       "row": 1,
       "col": 10,
       "length": 4,
-      "clue": "Günlük dilde Buyruk ya da komut olarak bilinen kavram",
+      "clue": "Yetkili bir kimsenin yerine getirilmek üzere verdiği kesin buyruk.",
       "answer": "EMİR"
     },
     {
@@ -180,7 +180,7 @@
       "row": 4,
       "col": 5,
       "length": 4,
-      "clue": "Günlük dilde Burnun algısı olarak bilinen kavram",
+      "clue": "Burnumuzla algıladığımız, havada yayılan hoş ya da keskin tanecikler.",
       "answer": "KOKU"
     },
     {
@@ -189,7 +189,7 @@
       "row": 4,
       "col": 5,
       "length": 4,
-      "clue": "Günlük dilde Yüzeylerin birleşimi olarak bilinen kavram",
+      "clue": "İki duvarın ya da iki kenarın birleştiği noktada oluşan açılı yer.",
       "answer": "KÖŞE"
     },
     {
@@ -198,7 +198,7 @@
       "row": 6,
       "col": 1,
       "length": 4,
-      "clue": "Bulmacada Çiçek süs kabı karşılığını veren yanıt",
+      "clue": "İçine çiçek konulmak üzere yapılmış, ince uzun boyunlu süs kabı.",
       "answer": "VAZO"
     },
     {
@@ -207,7 +207,7 @@
       "row": 6,
       "col": 3,
       "length": 3,
-      "clue": "Günlük dilde Harici ya da dış yüzey olarak bilinen kavram",
+      "clue": "İçin karşıtı; bir şeyin çevresini gören, dışarıya bakan yüzü.",
       "answer": "DIŞ"
     },
     {
@@ -216,7 +216,7 @@
       "row": 6,
       "col": 3,
       "length": 3,
-      "clue": "Bulmacada Ağacın kolu karşılığını veren yanıt",
+      "clue": "Bir ağacın gövdesinden yanlara doğru uzayan ve yapraklarını taşıyan kol.",
       "answer": "DAL"
     },
     {
@@ -225,7 +225,7 @@
       "row": 7,
       "col": 1,
       "length": 3,
-      "clue": "Tek renk olmayan, benekli görünüm",
+      "clue": "Birden çok rengin bir arada bulunduğu, benekli ya da karışık görünüm.",
       "answer": "ALA"
     },
     {
@@ -234,7 +234,7 @@
       "row": 9,
       "col": 0,
       "length": 3,
-      "clue": "Günlük dilde Sağın karşıtı olarak bilinen kavram",
+      "clue": "Kalbin bulunduğu taraf; sağın tam karşıtı olan yön.",
       "answer": "SOL"
     }
   ]
