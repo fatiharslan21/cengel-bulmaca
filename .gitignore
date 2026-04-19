@@ -1,2 +1,5 @@
 __pycache__/
 *.pyc
+
+# Kullanıcıya özel Firebase anahtarı — asla commit'lenmesin.
+js/firebase-config.js

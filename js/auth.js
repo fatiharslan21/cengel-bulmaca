@@ -1,5 +1,9 @@
 /* ─────────────────────────────────────────────
-   Çengel Bulmaca — Local DB + Optional Backend API
+   Çengel Bulmaca — Auth ve Skor Yönetimi
+   Öncelik sırası:
+     1) Firebase (Firestore)  → window.CB_FIREBASE_CONFIG varsa
+     2) Opsiyonel Node backend → window.CB_API_BASE veya /api/health yanıtı
+     3) localStorage fallback
    ───────────────────────────────────────────── */
 (function(){
     var STORE_USER = 'cb_user';
@@ -12,6 +16,12 @@
     var API_BASE = (window.CB_API_BASE || '').replace(/\/$/, '');
     var backendChecked = false;
     var backendAvailable = false;
+
+    var fbApp = null;
+    var fbDb = null;
+    var fbAuth = null;
+    var fbReady = null;          // Promise<boolean>
+    var fbUsable = false;        // Firestore hazır mı?
 
     var currentUser = null;
     var listeners = [];
@@ -27,6 +37,41 @@
             .slice(0, 40);
     }
 
+    // ─── Firebase init ───
+    function initFirebase(){
+        if(fbReady) return fbReady;
+        fbReady = new Promise(function(resolve){
+            try {
+                if(!window.CB_FIREBASE_CONFIG || typeof firebase === 'undefined' || !firebase.initializeApp){
+                    resolve(false); return;
+                }
+                fbApp = firebase.apps && firebase.apps.length
+                    ? firebase.app()
+                    : firebase.initializeApp(window.CB_FIREBASE_CONFIG);
+                fbAuth = firebase.auth();
+                fbDb = firebase.firestore();
+                // Firestore kurallarımız auth gerektiriyor; anonim girişle karşıla.
+                fbAuth.signInAnonymously().then(function(){
+                    fbUsable = true;
+                    resolve(true);
+                }).catch(function(err){
+                    console.warn('Firebase anon sign-in failed:', err && err.message);
+                    fbUsable = false;
+                    resolve(false);
+                });
+            } catch(e){
+                console.warn('Firebase init error:', e && e.message);
+                resolve(false);
+            }
+        });
+        return fbReady;
+    }
+
+    function usersCol(){
+        return fbDb.collection('users');
+    }
+
+    // ─── localStorage DB ───
     function getDB(){
         var db = safeParse(localStorage.getItem(STORE_DB) || '', null);
         if(!db || typeof db !== 'object') db = {};
@@ -36,7 +81,7 @@
     function saveDB(db){ localStorage.setItem(STORE_DB, JSON.stringify(db)); }
 
     function userTemplate(username, passHash){
-        return { username, passHash, createdAt: Date.now(), updatedAt: Date.now(), puzzles:{}, daily:{}, totalScore:0, completedCount:0 };
+        return { username: username, passHash: passHash, createdAt: Date.now(), updatedAt: Date.now(), puzzles:{}, daily:{}, totalScore:0, completedCount:0 };
     }
 
     function readUserSession(){
@@ -93,6 +138,7 @@
         window.dispatchEvent(new CustomEvent('cbScoresSynced'));
     }
 
+    // ─── Backend helpers ───
     function apiUrl(path){ return (API_BASE || '') + path; }
 
     async function checkBackend(){
@@ -123,10 +169,49 @@
         return json;
     }
 
+    // ─── Firestore helpers ───
+    async function fbGetUser(key){
+        var snap = await usersCol().doc(key).get();
+        return snap.exists ? snap.data() : null;
+    }
+
+    async function fbCreateUser(key, data){
+        await usersCol().doc(key).set(data);
+    }
+
+    async function fbUpdateUser(key, patch){
+        await usersCol().doc(key).set(patch, { merge: true });
+    }
+
+    // ─── Public: register ───
     async function register(username, password){
         var v = validateCredentials(username, password);
         if(!v.ok) return v;
         var passHash = await hashPassword(password);
+
+        if(await initFirebase()){
+            try {
+                var existing = await fbGetUser(v.key);
+                if(existing) return { ok:false, message:'Bu kullanıcı adı zaten kayıtlı.' };
+                var rec = {
+                    username: v.username,
+                    passHash: passHash,
+                    createdAt: Date.now(),
+                    updatedAt: Date.now(),
+                    puzzles: {},
+                    daily: {},
+                    totalScore: 0,
+                    completedCount: 0
+                };
+                await fbCreateUser(v.key, rec);
+                setUserSession(v.key, v.username, rec.createdAt);
+                loadUserDataToLegacyStores(rec);
+                return { ok:true, mode:'register' };
+            } catch(err){
+                console.warn('Firestore register error:', err && err.message);
+                return { ok:false, message:'Bulut kaydı başarısız: ' + (err && err.message || 'bilinmeyen hata') };
+            }
+        }
 
         if(await checkBackend()){
             var remote = await apiPost('/api/register', { key:v.key, username:v.username, passHash:passHash });
@@ -146,10 +231,26 @@
         return { ok:true, mode:'register' };
     }
 
+    // ─── Public: login ───
     async function login(username, password){
         var v = validateCredentials(username, password);
         if(!v.ok) return v;
         var passHash = await hashPassword(password);
+
+        if(await initFirebase()){
+            try {
+                var rec = await fbGetUser(v.key);
+                if(!rec) return { ok:false, message:'Kullanıcı bulunamadı. Önce kayıt ol.' };
+                if(rec.passHash !== passHash) return { ok:false, message:'Şifre hatalı.' };
+                await fbUpdateUser(v.key, { updatedAt: Date.now() });
+                setUserSession(v.key, rec.username || v.username, rec.createdAt || Date.now());
+                loadUserDataToLegacyStores(rec);
+                return { ok:true, mode:'login' };
+            } catch(err){
+                console.warn('Firestore login error:', err && err.message);
+                return { ok:false, message:'Bulut girişi başarısız: ' + (err && err.message || 'bilinmeyen hata') };
+            }
+        }
 
         if(await checkBackend()){
             var remote = await apiPost('/api/login', { key:v.key, passHash:passHash });
@@ -161,69 +262,131 @@
         }
 
         var db = getDB();
-        var rec = db.users[v.key];
-        if(!rec) return { ok:false, message:'Kullanıcı bulunamadı. Önce kayıt ol.' };
-        if(rec.passHash !== passHash) return { ok:false, message:'Şifre hatalı.' };
-        rec.updatedAt = Date.now();
-        db.users[v.key] = rec;
+        var rec2 = db.users[v.key];
+        if(!rec2) return { ok:false, message:'Kullanıcı bulunamadı. Önce kayıt ol.' };
+        if(rec2.passHash !== passHash) return { ok:false, message:'Şifre hatalı.' };
+        rec2.updatedAt = Date.now();
+        db.users[v.key] = rec2;
         saveDB(db);
-        setUserSession(v.key, rec.username || v.username, rec.createdAt || Date.now());
-        loadUserDataToLegacyStores(rec);
+        setUserSession(v.key, rec2.username || v.username, rec2.createdAt || Date.now());
+        loadUserDataToLegacyStores(rec2);
         return { ok:true, mode:'login' };
     }
 
+    // ─── Public: saveScore ───
     async function saveScore(puzzleId, score, time, hints, difficulty, dailyKey){
         if(!currentUser || !currentUser.key) return;
+        var pid = String(puzzleId);
+        var entry = {
+            score: Number(score) || 0,
+            time: Number(time) || 0,
+            hints: Number(hints) || 0,
+            difficulty: difficulty || 'Kolay',
+            completedAt: Date.now()
+        };
+
+        if(await initFirebase()){
+            try {
+                var rec = await fbGetUser(currentUser.key);
+                if(!rec){
+                    // Profil yoksa asgari bir profil oluştur (beklenmedik durum).
+                    rec = { username: currentUser.name || currentUser.key, passHash: '', createdAt: Date.now(), updatedAt: Date.now(), puzzles:{}, daily:{}, totalScore:0, completedCount:0 };
+                }
+                if(!rec.puzzles) rec.puzzles = {};
+                if(!rec.daily) rec.daily = {};
+                if(!rec.puzzles[pid] || (rec.puzzles[pid].score || 0) < entry.score){
+                    rec.puzzles[pid] = entry;
+                }
+                if(dailyKey){
+                    var dk = String(dailyKey);
+                    if(!rec.daily[dk] || (rec.daily[dk].score || 0) < entry.score){
+                        rec.daily[dk] = { score: entry.score, time: entry.time, hints: entry.hints, id: puzzleId, completedAt: entry.completedAt };
+                    }
+                }
+                var vals = Object.values(rec.puzzles);
+                rec.totalScore = vals.reduce(function(s, x){ return s + (x.score || 0); }, 0);
+                rec.completedCount = vals.length;
+                rec.updatedAt = Date.now();
+                await fbUpdateUser(currentUser.key, rec);
+                loadUserDataToLegacyStores(rec);
+                return;
+            } catch(err){
+                console.warn('Firestore saveScore error:', err && err.message);
+                // Düşme: localStorage'a kaydet.
+            }
+        }
 
         if(await checkBackend()){
             var remote = await apiPost('/api/score', {
                 key: currentUser.key,
                 puzzleId: puzzleId,
-                score: score,
-                time: time,
-                hints: hints,
-                difficulty: difficulty,
+                score: entry.score,
+                time: entry.time,
+                hints: entry.hints,
+                difficulty: entry.difficulty,
                 dailyKey: dailyKey || null
             });
             if(remote.ok && remote.user) loadUserDataToLegacyStores(remote.user);
             return;
         }
 
-        var key = String(puzzleId);
         var db = getDB();
-        var rec = db.users[currentUser.key] || userTemplate(currentUser.name || currentUser.key, '');
-        if(!rec.puzzles) rec.puzzles = {};
-        if(!rec.daily) rec.daily = {};
-
-        var entry = { score: score|0, time: time|0, hints: hints|0, difficulty: difficulty || 'Kolay', completedAt: Date.now() };
-        if(!rec.puzzles[key] || (rec.puzzles[key].score||0) < entry.score) rec.puzzles[key] = entry;
+        var local = db.users[currentUser.key] || userTemplate(currentUser.name || currentUser.key, '');
+        if(!local.puzzles) local.puzzles = {};
+        if(!local.daily) local.daily = {};
+        if(!local.puzzles[pid] || (local.puzzles[pid].score || 0) < entry.score) local.puzzles[pid] = entry;
         if(dailyKey){
-            var dk = String(dailyKey);
-            if(!rec.daily[dk] || (rec.daily[dk].score||0) < entry.score) rec.daily[dk] = { score:entry.score, time:entry.time, hints:entry.hints, id:puzzleId, completedAt:entry.completedAt };
+            var dkk = String(dailyKey);
+            if(!local.daily[dkk] || (local.daily[dkk].score || 0) < entry.score){
+                local.daily[dkk] = { score: entry.score, time: entry.time, hints: entry.hints, id: puzzleId, completedAt: entry.completedAt };
+            }
         }
-
-        var vals = Object.values(rec.puzzles);
-        rec.totalScore = vals.reduce(function(s,x){ return s + (x.score||0); }, 0);
-        rec.completedCount = vals.length;
-        rec.updatedAt = Date.now();
-        db.users[currentUser.key] = rec;
+        var vs = Object.values(local.puzzles);
+        local.totalScore = vs.reduce(function(s, x){ return s + (x.score || 0); }, 0);
+        local.completedCount = vs.length;
+        local.updatedAt = Date.now();
+        db.users[currentUser.key] = local;
         saveDB(db);
-        loadUserDataToLegacyStores(rec);
+        loadUserDataToLegacyStores(local);
     }
 
+    // ─── Public: getLeaderboard ───
     async function getLeaderboard(topN){
         var n = topN || 50;
+
+        if(await initFirebase()){
+            try {
+                var snap = await usersCol()
+                    .orderBy('totalScore', 'desc')
+                    .limit(n)
+                    .get();
+                var list = [];
+                snap.forEach(function(doc){
+                    var u = doc.data() || {};
+                    list.push({
+                        uid: doc.id,
+                        name: u.username || doc.id,
+                        totalScore: u.totalScore || 0,
+                        completedCount: u.completedCount || 0
+                    });
+                });
+                return list;
+            } catch(err){
+                console.warn('Firestore leaderboard error:', err && err.message);
+            }
+        }
+
         if(await checkBackend()){
             var remote = await apiGet('/api/leaderboard?n=' + encodeURIComponent(n));
             if(remote && Array.isArray(remote.leaderboard)) return remote.leaderboard;
         }
 
         var db = getDB();
-        var list = Object.keys(db.users).map(function(k){
+        var local = Object.keys(db.users).map(function(k){
             var u = db.users[k] || {};
             return { uid:k, name:u.username || k, totalScore:u.totalScore || 0, completedCount:u.completedCount || 0 };
-        }).sort(function(a,b){ return (b.totalScore||0)-(a.totalScore||0); });
-        return list.slice(0, n);
+        }).sort(function(a, b){ return (b.totalScore || 0) - (a.totalScore || 0); });
+        return local.slice(0, n);
     }
 
     function signOut(){
@@ -252,6 +415,15 @@
 
     readUserSession();
 
+    // Firebase varsa, init'i baştan başlat; arka planda hazırlanır.
+    initFirebase().then(function(ok){
+        if(ok && currentUser && currentUser.key){
+            fbGetUser(currentUser.key).then(function(rec){
+                if(rec) loadUserDataToLegacyStores(rec);
+            }).catch(function(){});
+        }
+    });
+
     window.CBAuth = {
         register: register,
         login: login,
@@ -264,22 +436,26 @@
         onAuthChange: onAuthChange,
         getSettings: getSettings,
         setSetting: setSetting,
-        isFirebaseReady: function(){ return false; },
+        isFirebaseReady: function(){ return !!fbUsable; },
         normalizeName: normalizeName,
         isBackendReady: function(){ return backendAvailable; }
     };
 
+    // Firebase yoksa, mevcut session için backend/localStorage'tan senkronla.
     if(currentUser && currentUser.key){
-        checkBackend().then(function(ok){
-            if(ok){
-                apiGet('/api/user/' + encodeURIComponent(currentUser.key)).then(function(res){
-                    if(res && res.user){ loadUserDataToLegacyStores(res.user); }
-                });
-            } else {
-                var db = getDB();
-                var rec = db.users[currentUser.key];
-                if(rec) loadUserDataToLegacyStores(rec);
-            }
+        initFirebase().then(function(ok){
+            if(ok) return; // yukarıda ele alındı
+            checkBackend().then(function(backOk){
+                if(backOk){
+                    apiGet('/api/user/' + encodeURIComponent(currentUser.key)).then(function(res){
+                        if(res && res.user){ loadUserDataToLegacyStores(res.user); }
+                    });
+                } else {
+                    var db = getDB();
+                    var rec = db.users[currentUser.key];
+                    if(rec) loadUserDataToLegacyStores(rec);
+                }
+            });
         });
     }
 })();
