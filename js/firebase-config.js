@@ -48,7 +48,7 @@ import { initializeApp } from "firebase/app";
 // https://firebase.google.com/docs/web/setup#available-libraries
 
 // Your web app's Firebase configuration
-const firebaseConfig = {
+window.CB_FIREBASE_CONFIG = {
   apiKey: "AIzaSyDpYRlDMBdbUC-_CpakNhJA0E6INvBB9v8",
   authDomain: "cengel-88b2a.firebaseapp.com",
   projectId: "cengel-88b2a",
