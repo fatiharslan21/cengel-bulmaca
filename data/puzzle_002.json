@@ -121,7 +121,7 @@
       "row": 0,
       "col": 2,
       "length": 4,
-      "clue": "İnsanın başına gelen dert ya da musibet",
+      "clue": "İnsanın başına habersizce gelen ağır dert, büyük sıkıntı ya da musibet.",
       "answer": "BELA"
     },
     {
@@ -130,7 +130,7 @@
       "row": 0,
       "col": 4,
       "length": 4,
-      "clue": "Gömlek boyun kısmı için kullanılan yaygın ifade",
+      "clue": "Gömleğin boynu çevreleyen üst kısmı; ceketin de boyuna değen kenarı.",
       "answer": "YAKA"
     },
     {
@@ -139,7 +139,7 @@
       "row": 1,
       "col": 4,
       "length": 3,
-      "clue": "İki nokta ortasındaki boşluk",
+      "clue": "İki şeyin birbirinden ayrıldığı boşluk; kısa mola süresi.",
       "answer": "ARA"
     },
     {
@@ -148,7 +148,7 @@
       "row": 1,
       "col": 6,
       "length": 3,
-      "clue": "Günlük dilde Toprak sahibi olarak bilinen kavram",
+      "clue": "Eskiden köylerde geniş topraklara sahip, sözü geçen nüfuzlu kişi.",
       "answer": "AĞA"
     },
     {
@@ -157,7 +157,7 @@
       "row": 2,
       "col": 0,
       "length": 5,
-      "clue": "El kol eklemi karşılığı olarak kullanılan kelime",
+      "clue": "Kolla eli birbirine bağlayan, küçük kemiklerden oluşan eklem bölgesi.",
       "answer": "BİLEK"
     },
     {
@@ -166,7 +166,7 @@
       "row": 3,
       "col": 6,
       "length": 3,
-      "clue": "Bir şeye bağlı veya onunla ilgili olma durumu",
+      "clue": "Bir şeye bağlı bulunma; onunla ilgili ya da onun sahipliğinde olma.",
       "answer": "AİT"
     },
     {
@@ -175,7 +175,7 @@
       "row": 3,
       "col": 8,
       "length": 5,
-      "clue": "Zar masa oyunu için kullanılan yaygın ifade",
+      "clue": "Zarla ve pullarla iki kişi arasında oynanan, kahvehane kültürünün oyunu.",
       "answer": "TAVLA"
     },
     {
@@ -184,7 +184,7 @@
       "row": 5,
       "col": 6,
       "length": 4,
-      "clue": "Ulaşılmak istenen gaye için kullanılan yaygın ifade",
+      "clue": "Bir işin başında konulan, ulaşılmak istenen hedef ya da gaye.",
       "answer": "AMAÇ"
     },
     {
@@ -193,7 +193,7 @@
       "row": 7,
       "col": 5,
       "length": 5,
-      "clue": "Günün güneş doğumundan sonraki ilk kısmı",
+      "clue": "Güneşin doğmasıyla başlayıp öğleye kadar süren günün ilk dilimi.",
       "answer": "SABAH"
     }
   ]

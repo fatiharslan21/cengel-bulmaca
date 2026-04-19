@@ -133,7 +133,7 @@
       "row": 0,
       "col": 1,
       "length": 5,
-      "clue": "Nefesli çalgı için kullanılan yaygın ifade",
+      "clue": "Düğünlerde davulla birlikte çalınan, ince tiz sesli üflemeli halk çalgısı.",
       "answer": "ZURNA"
     },
     {
@@ -142,7 +142,7 @@
       "row": 2,
       "col": 6,
       "length": 6,
-      "clue": "Konular listesi için kullanılan yaygın ifade",
+      "clue": "Bir toplantıda ya da günde ele alınacak konuların sıralı listesi.",
       "answer": "GÜNDEM"
     },
     {
@@ -151,7 +151,7 @@
       "row": 3,
       "col": 3,
       "length": 4,
-      "clue": "Türk simgesi çiçek için kullanılan yaygın ifade",
+      "clue": "İlkbaharda açan, kadeh biçimli taç yaprakları olan, Türklerin simgesi çiçek.",
       "answer": "LALE"
     },
     {
@@ -160,7 +160,7 @@
       "row": 3,
       "col": 5,
       "length": 3,
-      "clue": "Aynı özellikleri taşıyan canlı grubu",
+      "clue": "Aynı ortak özellikleri taşıyan canlıların oluşturduğu sınıflama birimi.",
       "answer": "TÜR"
     },
     {
@@ -169,7 +169,7 @@
       "row": 4,
       "col": 0,
       "length": 4,
-      "clue": "Ses ya da seda karşılığı olarak kullanılan kelime",
+      "clue": "Uzaktan duyulan insan ya da doğa sesi; boğumlu ses dalgası.",
       "answer": "SADA"
     },
     {
@@ -178,7 +178,7 @@
       "row": 4,
       "col": 0,
       "length": 4,
-      "clue": "Bulmacada Rakam ifadesi karşılığını veren yanıt",
+      "clue": "Bir miktarı ya da sırayı belirten; rakamlarla yazılan matematik kavramı.",
       "answer": "SAYI"
     },
     {
@@ -187,7 +187,7 @@
       "row": 6,
       "col": 2,
       "length": 6,
-      "clue": "Bulmacada Yer sarsıntısı karşılığını veren yanıt",
+      "clue": "Yer kabuğunun kırılmasıyla meydana gelen, yüzeyi sarsan doğal olay.",
       "answer": "DEPREM"
     },
     {
@@ -196,7 +196,7 @@
       "row": 6,
       "col": 4,
       "length": 5,
-      "clue": "Pencereyi örtmek için asılan kumaş",
+      "clue": "Pencereyi örtmek için asılan, ışığı ve dışarıdan görünmeyi engelleyen kumaş.",
       "answer": "PERDE"
     },
     {
@@ -205,7 +205,7 @@
       "row": 8,
       "col": 7,
       "length": 4,
-      "clue": "Terbiye ya da görgü karşılığı olarak kullanılan kelime",
+      "clue": "Görgü kurallarına uygun davranış; terbiyeli ve ölçülü olma hali.",
       "answer": "EDEP"
     },
     {
@@ -214,7 +214,7 @@
       "row": 10,
       "col": 3,
       "length": 5,
-      "clue": "Yenilebilen bitki için kullanılan yaygın ifade",
+      "clue": "Mutfağa giren, bitki kökleri ve yapraklarından oluşan yenilebilir besin.",
       "answer": "SEBZE"
     }
   ]

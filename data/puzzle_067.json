@@ -130,7 +130,7 @@
       "row": 0,
       "col": 2,
       "length": 5,
-      "clue": "Büyük oda için kullanılan yaygın ifade",
+      "clue": "Evin misafir ağırlanan en büyük odası ya da toplantı yapılan geniş mekân.",
       "answer": "SALON"
     },
     {
@@ -139,7 +139,7 @@
       "row": 1,
       "col": 1,
       "length": 3,
-      "clue": "Mülk ya da eşya anlamına gelen sözcük",
+      "clue": "Sahip olunan taşınır ya da taşınmaz değerli eşya; mülk.",
       "answer": "MAL"
     },
     {
@@ -148,7 +148,7 @@
       "row": 4,
       "col": 0,
       "length": 4,
-      "clue": "Yapışkan şerit karşılığı olarak kullanılan kelime",
+      "clue": "Bir tarafı yapışkan olan, eşyaları tutturmaya yarayan uzun ince şerit.",
       "answer": "BANT"
     },
     {
@@ -157,7 +157,7 @@
       "row": 4,
       "col": 3,
       "length": 4,
-      "clue": "Bulmacada Raylı taşıt karşılığını veren yanıt",
+      "clue": "Raylar üzerinde hareket eden, vagonları çeken büyük motorlu araç.",
       "answer": "TREN"
     },
     {
@@ -166,7 +166,7 @@
       "row": 5,
       "col": 5,
       "length": 4,
-      "clue": "Kötü ya da berbat karşılığı olarak kullanılan kelime",
+      "clue": "Niteliği kötü olan, insanın içini bunaltan; iyi sözcüğünün zıttı.",
       "answer": "FENA"
     },
     {
@@ -175,7 +175,7 @@
       "row": 5,
       "col": 7,
       "length": 4,
-      "clue": "Kalın olmayan anlamına gelen sözcük",
+      "clue": "Kalınlığı az olan; zarif ve narin yapıda bulunan; kalının karşıtı.",
       "answer": "İNCE"
     },
     {
@@ -184,7 +184,7 @@
       "row": 5,
       "col": 7,
       "length": 4,
-      "clue": "Böcekten kumaş anlamına gelen sözcük",
+      "clue": "Kozadan elde edilen, parlak dokulu ve dayanıklı, değerli kumaş lifi.",
       "answer": "İPEK"
     },
     {
@@ -193,7 +193,7 @@
       "row": 6,
       "col": 2,
       "length": 4,
-      "clue": "Karanlık zaman anlamına gelen sözcük",
+      "clue": "Güneşin batmasından doğmasına kadar süren karanlık zaman dilimi.",
       "answer": "GECE"
     },
     {
@@ -202,7 +202,7 @@
       "row": 8,
       "col": 4,
       "length": 4,
-      "clue": "Türk simgesi çiçek için kullanılan yaygın ifade",
+      "clue": "İlkbaharda açan, kadeh biçimli taç yaprakları olan, Türklerin simgesi çiçek.",
       "answer": "LALE"
     }
   ]

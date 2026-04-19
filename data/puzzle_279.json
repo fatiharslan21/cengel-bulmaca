@@ -117,7 +117,7 @@
       "row": 0,
       "col": 5,
       "length": 3,
-      "clue": "Birinci tekil kişi karşılığı olarak kullanılan kelime",
+      "clue": "Konuşan kişinin kendisini belirtmek için kullandığı birinci tekil zamir.",
       "answer": "BEN"
     },
     {
@@ -126,7 +126,7 @@
       "row": 0,
       "col": 7,
       "length": 5,
-      "clue": "Bulmacada Taşıma ya da aktarma karşılığını veren yanıt",
+      "clue": "Bir şeyin bir yerden başka bir yere taşınması; aktarma işlemi.",
       "answer": "NAKİL"
     },
     {
@@ -135,7 +135,7 @@
       "row": 0,
       "col": 10,
       "length": 5,
-      "clue": "Bulmacada Ağaçlık alan karşılığını veren yanıt",
+      "clue": "Geniş bir alana yayılmış, iç içe büyümüş ağaçlardan oluşan doğal yaşam.",
       "answer": "ORMAN"
     },
     {
@@ -144,7 +144,7 @@
       "row": 1,
       "col": 3,
       "length": 6,
-      "clue": "Kıyamet yeri için kullanılan yaygın ifade",
+      "clue": "Dinde kıyamet sonrası ölülerin toplanacağına inanılan büyük buluşma yeri.",
       "answer": "MAHŞER"
     },
     {
@@ -153,7 +153,7 @@
       "row": 1,
       "col": 7,
       "length": 4,
-      "clue": "Hafif olmayan için kullanılan yaygın ifade",
+      "clue": "Kaldırılması güç olan, hafif sözcüğünün zıttı sayılan kütle durumu.",
       "answer": "AĞIR"
     },
     {
@@ -162,7 +162,7 @@
       "row": 2,
       "col": 0,
       "length": 4,
-      "clue": "Bağlama aracı anlamına gelen sözcük",
+      "clue": "Saçı ya da kemeri tutturmaya yarayan, klips gibi açılıp kapanan küçük süs.",
       "answer": "TOKA"
     },
     {
@@ -171,7 +171,7 @@
       "row": 2,
       "col": 5,
       "length": 3,
-      "clue": "Birinci ya da baştaki anlamına gelen sözcük",
+      "clue": "Bir sıranın en başında bulunan; sondan önce hiçbir şey olmayan sırada birinci.",
       "answer": "İLK"
     },
     {
@@ -180,7 +180,7 @@
       "row": 4,
       "col": 5,
       "length": 3,
-      "clue": "Günlük dilde Sağın karşıtı olarak bilinen kavram",
+      "clue": "Kalbin bulunduğu taraf; sağın tam karşıtı olan yön.",
       "answer": "SOL"
     },
     {
@@ -189,7 +189,7 @@
       "row": 4,
       "col": 5,
       "length": 4,
-      "clue": "Bulmacada Rakam ifadesi karşılığını veren yanıt",
+      "clue": "Bir miktarı ya da sırayı belirten; rakamlarla yazılan matematik kavramı.",
       "answer": "SAYI"
     },
     {
@@ -198,7 +198,7 @@
       "row": 5,
       "col": 2,
       "length": 4,
-      "clue": "Günlük dilde Bitki yapısı olarak bilinen kavram",
+      "clue": "İçerisi camla kaplı; mevsim dışında bile bitki yetiştirilen ısıtılmış yapı.",
       "answer": "SERA"
     }
   ]

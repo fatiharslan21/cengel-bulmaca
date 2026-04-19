@@ -130,7 +130,7 @@
       "row": 0,
       "col": 4,
       "length": 4,
-      "clue": "Bağlama aracı anlamına gelen sözcük",
+      "clue": "Saçı ya da kemeri tutturmaya yarayan, klips gibi açılıp kapanan küçük süs.",
       "answer": "TOKA"
     },
     {
@@ -139,7 +139,7 @@
       "row": 1,
       "col": 4,
       "length": 4,
-      "clue": "Günlük dilde Silahlı kuvvetler olarak bilinen kavram",
+      "clue": "Bir ülkenin savunmasını üstlenen, askerlerden oluşan silahlı kuvvetler.",
       "answer": "ORDU"
     },
     {
@@ -148,7 +148,7 @@
       "row": 1,
       "col": 7,
       "length": 4,
-      "clue": "Havada uçan taşıt karşılığı olarak kullanılan kelime",
+      "clue": "Kanatları sayesinde havalanıp gökyüzünde uçan motorlu büyük taşıt.",
       "answer": "UÇAK"
     },
     {
@@ -157,7 +157,7 @@
       "row": 2,
       "col": 0,
       "length": 5,
-      "clue": "Üflemeli ses aleti karşılığı olarak kullanılan kelime",
+      "clue": "İçine üflenince tiz bir ses çıkaran, ince ve boru biçimli küçük alet.",
       "answer": "DÜDÜK"
     },
     {
@@ -166,7 +166,7 @@
       "row": 2,
       "col": 2,
       "length": 3,
-      "clue": "Günlük dilde Buz tutma olarak bilinen kavram",
+      "clue": "Havanın ısısının düşmesiyle suların yüzeyde buz tutması olayı.",
       "answer": "DON"
     },
     {
@@ -175,7 +175,7 @@
       "row": 3,
       "col": 6,
       "length": 5,
-      "clue": "Aydınlatma aracı karşılığı olarak kullanılan kelime",
+      "clue": "İçindeki ampulle çalışan, karanlık odayı aydınlatan elektrikli araç.",
       "answer": "LAMBA"
     },
     {
@@ -184,7 +184,7 @@
       "row": 4,
       "col": 0,
       "length": 4,
-      "clue": "İnsanların yaşadığı veya çalıştığı yapı",
+      "clue": "İnsanların içinde oturduğu ya da çalıştığı, taş ve betondan yapılmış yapı.",
       "answer": "BİNA"
     },
     {
@@ -193,7 +193,7 @@
       "row": 4,
       "col": 0,
       "length": 5,
-      "clue": "Günlük dilde Gökyüzü su kümeleri olarak bilinen kavram",
+      "clue": "Gökyüzünde süzülen, su buharının yoğunlaşmasıyla oluşan beyaz küme.",
       "answer": "BULUT"
     },
     {
@@ -202,7 +202,7 @@
       "row": 4,
       "col": 3,
       "length": 4,
-      "clue": "Ateşin parlak kısmı karşılığı olarak kullanılan kelime",
+      "clue": "Yanan bir şeyin üstünde dalgalanan, sıcak ve parlayan ışıklı kısım.",
       "answer": "ALEV"
     }
   ]

@@ -112,7 +112,7 @@
       "row": 0,
       "col": 5,
       "length": 5,
-      "clue": "Algılama sistemi karşılığı olarak kullanılan kelime",
+      "clue": "Radyo dalgalarını yollayıp yansımasını ölçerek uzaktaki nesneleri belirleyen sistem.",
       "answer": "RADAR"
     },
     {
@@ -121,7 +121,7 @@
       "row": 0,
       "col": 7,
       "length": 3,
-      "clue": "Günlük dilde Bitki gövdesi olarak bilinen kavram",
+      "clue": "Bitkinin çiçek ya da yaprağını gövdeye bağlayan uzun ve ince bölüm.",
       "answer": "SAP"
     },
     {
@@ -130,7 +130,7 @@
       "row": 1,
       "col": 4,
       "length": 4,
-      "clue": "Doku hasarı anlamına gelen sözcük",
+      "clue": "Bir kesik ya da darbe sonucu bedende oluşan açık doku hasarı.",
       "answer": "YARA"
     },
     {
@@ -139,7 +139,7 @@
       "row": 2,
       "col": 1,
       "length": 3,
-      "clue": "Bulmacada Çiğneme organı karşılığını veren yanıt",
+      "clue": "Ağızda bulunan, yiyecekleri kopartıp öğütmeye yarayan sert beyaz yapı.",
       "answer": "DİŞ"
     },
     {
@@ -148,7 +148,7 @@
       "row": 2,
       "col": 2,
       "length": 3,
-      "clue": "Birinci ya da baştaki anlamına gelen sözcük",
+      "clue": "Bir sıranın en başında bulunan; sondan önce hiçbir şey olmayan sırada birinci.",
       "answer": "İLK"
     },
     {
@@ -157,7 +157,7 @@
       "row": 4,
       "col": 0,
       "length": 6,
-      "clue": "Günlük dilde Beğenme ya da övme olarak bilinen kavram",
+      "clue": "Bir kişinin emeğini ya da başarısını görüp açıkça beğenip övme.",
       "answer": "TAKDİR"
     },
     {
@@ -166,7 +166,7 @@
       "row": 4,
       "col": 4,
       "length": 4,
-      "clue": "Tedavi maddesi için kullanılan yaygın ifade",
+      "clue": "Hastalıkları iyileştirmek amacıyla hazırlanan, doktor tarafından verilen madde.",
       "answer": "İLAÇ"
     },
     {
@@ -175,7 +175,7 @@
       "row": 5,
       "col": 7,
       "length": 4,
-      "clue": "Kötü ya da berbat karşılığı olarak kullanılan kelime",
+      "clue": "Niteliği kötü olan, insanın içini bunaltan; iyi sözcüğünün zıttı.",
       "answer": "FENA"
     },
     {
@@ -184,7 +184,7 @@
       "row": 6,
       "col": 3,
       "length": 5,
-      "clue": "Ani vuruş anlamına gelen sözcük",
+      "clue": "Ani ve sert bir hareketle yapılan vuruş; çarpma sonucu alınan sarsıntı.",
       "answer": "DARBE"
     },
     {
@@ -193,7 +193,7 @@
       "row": 8,
       "col": 6,
       "length": 3,
-      "clue": "Devir ya da dönem karşılığı olarak kullanılan kelime",
+      "clue": "Tarihte belli özelliklerle ayırt edilen uzun dönem; devir, asır.",
       "answer": "ÇAĞ"
     }
   ]

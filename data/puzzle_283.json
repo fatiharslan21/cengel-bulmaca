@@ -121,7 +121,7 @@
       "row": 0,
       "col": 5,
       "length": 5,
-      "clue": "Bulmacada Zaman ya da süre karşılığını veren yanıt",
+      "clue": "Saniyelerden yıllara uzanan; akıp giden, geri döndürülemeyen zaman.",
       "answer": "VAKİT"
     },
     {
@@ -130,7 +130,7 @@
       "row": 1,
       "col": 4,
       "length": 3,
-      "clue": "Bulmacada Ağacın kolu karşılığını veren yanıt",
+      "clue": "Bir ağacın gövdesinden yanlara doğru uzayan ve yapraklarını taşıyan kol.",
       "answer": "DAL"
     },
     {
@@ -139,7 +139,7 @@
       "row": 3,
       "col": 3,
       "length": 5,
-      "clue": "Bulmacada Pay ya da nasip karşılığını veren yanıt",
+      "clue": "Ortak bir malın ya da işin her birine düşen pay; nasip.",
       "answer": "HİSSE"
     },
     {
@@ -148,7 +148,7 @@
       "row": 4,
       "col": 2,
       "length": 4,
-      "clue": "İki adet ya da eş karşılığı olarak kullanılan kelime",
+      "clue": "Birbirinin eşi olan iki şeyden oluşan takım; tekin karşıtı sayı grubu.",
       "answer": "ÇİFT"
     },
     {
@@ -157,7 +157,7 @@
       "row": 6,
       "col": 5,
       "length": 5,
-      "clue": "Ani vuruş anlamına gelen sözcük",
+      "clue": "Ani ve sert bir hareketle yapılan vuruş; çarpma sonucu alınan sarsıntı.",
       "answer": "DARBE"
     },
     {
@@ -166,7 +166,7 @@
       "row": 7,
       "col": 0,
       "length": 5,
-      "clue": "Kitap yazan için kullanılan yaygın ifade",
+      "clue": "Kitap, hikâye ya da makale gibi edebi eserler kaleme alan kimse.",
       "answer": "YAZAR"
     },
     {
@@ -175,7 +175,7 @@
       "row": 7,
       "col": 2,
       "length": 5,
-      "clue": "Yer ya da mahal anlamına gelen sözcük",
+      "clue": "Bir olayın geçtiği ya da bir şeyin bulunduğu belirli yer; mahal.",
       "answer": "MEKAN"
     },
     {
@@ -184,7 +184,7 @@
       "row": 7,
       "col": 2,
       "length": 5,
-      "clue": "Günlük dilde Yer ya da konum olarak bilinen kavram",
+      "clue": "Bir kimsenin toplumdaki yeri, konumu ya da makamı.",
       "answer": "MEVKİ"
     },
     {
@@ -193,7 +193,7 @@
       "row": 9,
       "col": 0,
       "length": 4,
-      "clue": "Günlük dilde Haz ya da keyif olarak bilinen kavram",
+      "clue": "Yapılan ya da tadılan şeyden alınan; insanın içini hoşnut eden keyif.",
       "answer": "ZEVK"
     },
     {
@@ -202,7 +202,7 @@
       "row": 10,
       "col": 4,
       "length": 3,
-      "clue": "Giyside küçük kese karşılığı olarak kullanılan kelime",
+      "clue": "Pantolon ya da ceketin içine dikilmiş, ufak eşya konulan küçük kese.",
       "answer": "CEP"
     }
   ]

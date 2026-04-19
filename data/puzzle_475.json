@@ -145,7 +145,7 @@
       "row": 0,
       "col": 5,
       "length": 6,
-      "clue": "Ün ya da nam anlamına gelen sözcük",
+      "clue": "Herkesin duyup tanıdığı; adını çevresinin çok ötesine taşıyan ün.",
       "answer": "ŞÖHRET"
     },
     {
@@ -154,7 +154,7 @@
       "row": 1,
       "col": 7,
       "length": 3,
-      "clue": "Dört tarafı suyla çevrili kara",
+      "clue": "Dört bir yanı suyla çevrili, denizin ortasında kalmış toprak parçası.",
       "answer": "ADA"
     },
     {
@@ -163,7 +163,7 @@
       "row": 3,
       "col": 3,
       "length": 5,
-      "clue": "Ekin alanı anlamına gelen sözcük",
+      "clue": "Üzerinde buğday, arpa ya da sebze yetiştirilen sürülmüş geniş toprak.",
       "answer": "TARLA"
     },
     {
@@ -172,7 +172,7 @@
       "row": 5,
       "col": 2,
       "length": 5,
-      "clue": "Bulmacada İnce söz ya da espri karşılığını veren yanıt",
+      "clue": "Dinleyeni güldüren ince espri; zarif bir ustalıkla söylenmiş söz.",
       "answer": "NÜKTE"
     },
     {
@@ -181,7 +181,7 @@
       "row": 5,
       "col": 4,
       "length": 6,
-      "clue": "Günlük dilde Yetinme ya da razı olma olarak bilinen kavram",
+      "clue": "Elinde olanla yetinip daha fazlasını istememe; tokgözlülük hali.",
       "answer": "KANAAT"
     },
     {
@@ -190,7 +190,7 @@
       "row": 5,
       "col": 6,
       "length": 4,
-      "clue": "Bulmacada Karşılık ya da sevap karşılığını veren yanıt",
+      "clue": "Yapılan iyiliğin ya da çekilen sıkıntının karşılığı olarak verilen sevap.",
       "answer": "ECİR"
     },
     {
@@ -199,7 +199,7 @@
       "row": 5,
       "col": 8,
       "length": 4,
-      "clue": "Karanlık zaman anlamına gelen sözcük",
+      "clue": "Güneşin batmasından doğmasına kadar süren karanlık zaman dilimi.",
       "answer": "GECE"
     },
     {
@@ -208,7 +208,7 @@
       "row": 7,
       "col": 0,
       "length": 5,
-      "clue": "Bulmacada Gemi barınağı karşılığını veren yanıt",
+      "clue": "Gemilerin yük boşalttığı, fırtınadan korunarak demirlediği deniz kıyısı.",
       "answer": "LİMAN"
     },
     {
@@ -217,7 +217,7 @@
       "row": 7,
       "col": 6,
       "length": 4,
-      "clue": "Kalın olmayan anlamına gelen sözcük",
+      "clue": "Kalınlığı az olan; zarif ve narin yapıda bulunan; kalının karşıtı.",
       "answer": "İNCE"
     },
     {
@@ -226,7 +226,7 @@
       "row": 9,
       "col": 1,
       "length": 5,
-      "clue": "Gün ağarması anlamına gelen sözcük",
+      "clue": "Güneş doğmadan önce ufukta beliren kızıllık; günün en erken aydınlığı.",
       "answer": "ŞAFAK"
     }
   ]

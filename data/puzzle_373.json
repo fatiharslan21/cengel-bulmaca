@@ -123,7 +123,7 @@
       "row": 0,
       "col": 7,
       "length": 3,
-      "clue": "Ses çıkaran metal karşılığı olarak kullanılan kelime",
+      "clue": "İçindeki dilin sallanmasıyla ses çıkaran, koni biçimli madeni araç.",
       "answer": "ÇAN"
     },
     {
@@ -132,7 +132,7 @@
       "row": 2,
       "col": 5,
       "length": 3,
-      "clue": "On yüzlük sayı anlamına gelen sözcük",
+      "clue": "Yüzlerin onunun bir araya gelmesiyle oluşan dört basamaklı sayı.",
       "answer": "BİN"
     },
     {
@@ -141,7 +141,7 @@
       "row": 2,
       "col": 6,
       "length": 3,
-      "clue": "Kötünün zıttı karşılığı olarak kullanılan kelime",
+      "clue": "Hoşa giden, yararlı ve olumlu olan; kötünün tam karşıtı olan nitelik.",
       "answer": "İYİ"
     },
     {
@@ -150,7 +150,7 @@
       "row": 3,
       "col": 1,
       "length": 5,
-      "clue": "En yüksek nokta karşılığı olarak kullanılan kelime",
+      "clue": "Bir dağın en yüksek noktası; ulaşılabilecek en üst basamak.",
       "answer": "ZİRVE"
     },
     {
@@ -159,7 +159,7 @@
       "row": 4,
       "col": 3,
       "length": 5,
-      "clue": "Bulmacada Seslerle sanat karşılığını veren yanıt",
+      "clue": "Seslerin belli bir düzen içinde bir araya getirilmesiyle oluşan sanat.",
       "answer": "MÜZİK"
     },
     {
@@ -168,7 +168,7 @@
       "row": 4,
       "col": 3,
       "length": 5,
-      "clue": "Kabir için kullanılan yaygın ifade",
+      "clue": "Ölünün toprağa verildiği, başında taş bulunan defin yeri; kabir.",
       "answer": "MEZAR"
     },
     {
@@ -177,7 +177,7 @@
       "row": 4,
       "col": 7,
       "length": 3,
-      "clue": "Günlük dilde Ateş közü olarak bilinen kavram",
+      "clue": "Alevi sönmüş ama sıcaklığı ve kızıllığı süren yanmakta olan parça.",
       "answer": "KOR"
     },
     {
@@ -186,7 +186,7 @@
       "row": 6,
       "col": 6,
       "length": 3,
-      "clue": "Günlük dilde Bal yapan böcek olarak bilinen kavram",
+      "clue": "Çiçeklerden topladığı nektarı bala dönüştüren, iğneli küçük böcek.",
       "answer": "ARI"
     },
     {
@@ -195,7 +195,7 @@
       "row": 7,
       "col": 0,
       "length": 5,
-      "clue": "Sürdürme karşılığı olarak kullanılan kelime",
+      "clue": "Bir işi ya da durumu ara vermeden sürdürme, aksatmadan götürme hali.",
       "answer": "DEVAM"
     },
     {
@@ -204,7 +204,7 @@
       "row": 7,
       "col": 0,
       "length": 3,
-      "clue": "Bulmacada Çiğneme organı karşılığını veren yanıt",
+      "clue": "Ağızda bulunan, yiyecekleri kopartıp öğütmeye yarayan sert beyaz yapı.",
       "answer": "DİŞ"
     }
   ]

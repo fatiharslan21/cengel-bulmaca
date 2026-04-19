@@ -134,7 +134,7 @@
       "row": 0,
       "col": 0,
       "length": 4,
-      "clue": "Bulmacada Çaba ya da gayret karşılığını veren yanıt",
+      "clue": "Bir işi başarmak için gösterilen büyük çaba, gayret ve çalışma.",
       "answer": "CEHD"
     },
     {
@@ -143,7 +143,7 @@
       "row": 0,
       "col": 1,
       "length": 4,
-      "clue": "Başlangıcı olmayan için kullanılan yaygın ifade",
+      "clue": "Başlangıcı bulunmayan, öncesi olmayan sonsuz geçmiş zaman.",
       "answer": "EZEL"
     },
     {
@@ -152,7 +152,7 @@
       "row": 1,
       "col": 8,
       "length": 4,
-      "clue": "Yük hayvanı için kullanılan yaygın ifade",
+      "clue": "Uzun kulaklı, sabırlı; köylerde yük taşımada kullanılan küçük binek hayvanı.",
       "answer": "EŞEK"
     },
     {
@@ -161,7 +161,7 @@
       "row": 2,
       "col": 0,
       "length": 7,
-      "clue": "Üzülme anlamına gelen sözcük",
+      "clue": "Acıklı bir olay karşısında insanın içine çöken derin hüzün.",
       "answer": "TEESSÜR"
     },
     {
@@ -170,7 +170,7 @@
       "row": 2,
       "col": 6,
       "length": 5,
-      "clue": "Bolluk ya da huzur için kullanılan yaygın ifade",
+      "clue": "Geçim sıkıntısı çekmeden, bolluk içinde sürdürülen rahat ve huzurlu yaşam.",
       "answer": "REFAH"
     },
     {
@@ -179,7 +179,7 @@
       "row": 4,
       "col": 4,
       "length": 5,
-      "clue": "Gün ağarması anlamına gelen sözcük",
+      "clue": "Güneş doğmadan önce ufukta beliren kızıllık; günün en erken aydınlığı.",
       "answer": "ŞAFAK"
     },
     {
@@ -188,7 +188,7 @@
       "row": 5,
       "col": 3,
       "length": 5,
-      "clue": "Suda yaşayan canlı karşılığı olarak kullanılan kelime",
+      "clue": "Suda yaşayan, solungaçlarıyla soluyan, yüzgeçleriyle hareket eden canlı.",
       "answer": "BALIK"
     },
     {
@@ -197,7 +197,7 @@
       "row": 6,
       "col": 2,
       "length": 5,
-      "clue": "Bulmacada Şans ya da baht karşılığını veren yanıt",
+      "clue": "İnsanın ömür boyu karşılaştığı iyi ya da kötü raslantıların tümü; baht.",
       "answer": "TALİH"
     },
     {
@@ -206,7 +206,7 @@
       "row": 8,
       "col": 1,
       "length": 3,
-      "clue": "Sunma ya da takdim anlamına gelen sözcük",
+      "clue": "Bir üstün ya da yetkilinin önüne saygıyla sunma, takdim etme eylemi.",
       "answer": "ARZ"
     },
     {
@@ -215,7 +215,7 @@
       "row": 9,
       "col": 1,
       "length": 5,
-      "clue": "Hasım ya da muhalif için kullanılan yaygın ifade",
+      "clue": "Aynı amaca ulaşmak için karşı karşıya gelen, yarış halindeki hasım.",
       "answer": "RAKİP"
     }
   ]

@@ -153,7 +153,7 @@
       "row": 0,
       "col": 6,
       "length": 3,
-      "clue": "Demir korozyonu karşılığı olarak kullanılan kelime",
+      "clue": "Demirin hava ve nemle temas ederek zamanla üzerinde oluşturduğu kızıl tabaka.",
       "answer": "PAS"
     },
     {
@@ -162,7 +162,7 @@
       "row": 1,
       "col": 8,
       "length": 4,
-      "clue": "Günlük dilde Kez ya da kere olarak bilinen kavram",
+      "clue": "Bir olayın kaçıncı kez yaşandığını anlatmak için kullanılan kez sözcüğü.",
       "answer": "DEFA"
     },
     {
@@ -171,7 +171,7 @@
       "row": 2,
       "col": 0,
       "length": 6,
-      "clue": "Nasip ya da pay karşılığı olarak kullanılan kelime",
+      "clue": "Kişinin payına düşen; kaderin ona uygun gördüğü nasibi ya da şansı.",
       "answer": "KISMET"
     },
     {
@@ -180,7 +180,7 @@
       "row": 2,
       "col": 4,
       "length": 4,
-      "clue": "Ev ya da konut karşılığı olarak kullanılan kelime",
+      "clue": "Bir ailenin oturduğu ev; aynı zamanda sayıdaki basamak anlamı taşır.",
       "answer": "HANE"
     },
     {
@@ -189,7 +189,7 @@
       "row": 2,
       "col": 4,
       "length": 5,
-      "clue": "Bulmacada Pay ya da nasip karşılığını veren yanıt",
+      "clue": "Ortak bir malın ya da işin her birine düşen pay; nasip.",
       "answer": "HİSSE"
     },
     {
@@ -198,7 +198,7 @@
       "row": 2,
       "col": 10,
       "length": 4,
-      "clue": "Günlük dilde Yanan ısı ve ışık olarak bilinen kavram",
+      "clue": "Yanmakta olan bir maddenin çıkardığı ısı, ışık ve alevin tümü.",
       "answer": "ATEŞ"
     },
     {
@@ -207,7 +207,7 @@
       "row": 4,
       "col": 0,
       "length": 5,
-      "clue": "Günlük dilde Temizlik maddesi olarak bilinen kavram",
+      "clue": "Cilde sürülüp suyla köpürtülerek kirleri temizleyen, kalıp ya da sıvı madde.",
       "answer": "SABUN"
     },
     {
@@ -216,7 +216,7 @@
       "row": 4,
       "col": 7,
       "length": 5,
-      "clue": "Günlük dilde Yazı aleti olarak bilinen kavram",
+      "clue": "Ucundan mürekkep ya da grafit akıtarak kâğıda yazı yazmayı sağlayan araç.",
       "answer": "KALEM"
     },
     {
@@ -225,7 +225,7 @@
       "row": 7,
       "col": 0,
       "length": 3,
-      "clue": "Lezzet verici anlamına gelen sözcük",
+      "clue": "Denizden ya da yer altından çıkarılan; yemeklere tat veren beyaz tane.",
       "answer": "TUZ"
     },
     {
@@ -234,7 +234,7 @@
       "row": 7,
       "col": 1,
       "length": 3,
-      "clue": "Yüce ya da büyük anlamına gelen sözcük",
+      "clue": "Yüceliğiyle saygı uyandıran; hem büyük hem görkemli olan varlık.",
       "answer": "ULU"
     }
   ]

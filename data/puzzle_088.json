@@ -103,7 +103,7 @@
       "row": 0,
       "col": 2,
       "length": 3,
-      "clue": "Günlük dilde Buz tutma olarak bilinen kavram",
+      "clue": "Havanın ısısının düşmesiyle suların yüzeyde buz tutması olayı.",
       "answer": "DON"
     },
     {
@@ -112,7 +112,7 @@
       "row": 0,
       "col": 4,
       "length": 5,
-      "clue": "En küçük işaret için kullanılan yaygın ifade",
+      "clue": "Bir cümlenin sonuna konan en küçük yazı işareti; konumun kendisi.",
       "answer": "NOKTA"
     },
     {
@@ -121,7 +121,7 @@
       "row": 3,
       "col": 1,
       "length": 3,
-      "clue": "Bulmacada Adalet ya da doğruluk karşılığını veren yanıt",
+      "clue": "Kişinin yasal olarak sahip olduğu; alması ya da yapması gereken şey.",
       "answer": "HAK"
     },
     {
@@ -130,7 +130,7 @@
       "row": 3,
       "col": 4,
       "length": 3,
-      "clue": "Lezzet verici anlamına gelen sözcük",
+      "clue": "Denizden ya da yer altından çıkarılan; yemeklere tat veren beyaz tane.",
       "answer": "TUZ"
     },
     {
@@ -139,7 +139,7 @@
       "row": 4,
       "col": 0,
       "length": 5,
-      "clue": "Aydınlatma aracı karşılığı olarak kullanılan kelime",
+      "clue": "İçindeki ampulle çalışan, karanlık odayı aydınlatan elektrikli araç.",
       "answer": "LAMBA"
     },
     {
@@ -148,7 +148,7 @@
       "row": 4,
       "col": 3,
       "length": 3,
-      "clue": "Bulmacada Vücudun orta bölümü karşılığını veren yanıt",
+      "clue": "Göğüs kafesi ile kalçalar arasında kalan, vücudun orta kısmı.",
       "answer": "BEL"
     },
     {
@@ -157,7 +157,7 @@
       "row": 6,
       "col": 2,
       "length": 3,
-      "clue": "Tek renk olmayan, benekli görünüm",
+      "clue": "Birden çok rengin bir arada bulunduğu, benekli ya da karışık görünüm.",
       "answer": "ALA"
     },
     {
@@ -166,7 +166,7 @@
       "row": 6,
       "col": 2,
       "length": 4,
-      "clue": "İstek ya da dilek için kullanılan yaygın ifade",
+      "clue": "İçten duyulan istek, gönülden beklenen dilek veya özlem.",
       "answer": "ARZU"
     },
     {
@@ -175,7 +175,7 @@
       "row": 8,
       "col": 0,
       "length": 3,
-      "clue": "Günlük dilde Görme organı olarak bilinen kavram",
+      "clue": "Yüzümüzde çift olarak bulunan, etrafımızı görmemizi sağlayan duyu organı.",
       "answer": "GÖZ"
     }
   ]

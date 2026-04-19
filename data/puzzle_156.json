@@ -112,7 +112,7 @@
       "row": 0,
       "col": 5,
       "length": 3,
-      "clue": "Günlük dilde Mekan ya da konum olarak bilinen kavram",
+      "clue": "Üzerinde durduğumuz zemin; bir olayın geçtiği konum.",
       "answer": "YER"
     },
     {
@@ -121,7 +121,7 @@
       "row": 1,
       "col": 1,
       "length": 4,
-      "clue": "Bulmacada Başarı karşılığı karşılığını veren yanıt",
+      "clue": "Başarı gösteren kimseye, çabasının karşılığı olarak verilen değerli armağan.",
       "answer": "ÖDÜL"
     },
     {
@@ -130,7 +130,7 @@
       "row": 2,
       "col": 3,
       "length": 3,
-      "clue": "Baştaki kıllar anlamına gelen sözcük",
+      "clue": "Başımızın derisinde biten, her birinin kökten uzayan ince tel kıl.",
       "answer": "SAÇ"
     },
     {
@@ -139,7 +139,7 @@
       "row": 2,
       "col": 3,
       "length": 4,
-      "clue": "Altın rengi için kullanılan yaygın ifade",
+      "clue": "Limon ve altın tonlarında olan, güneşi çağrıştıran canlı sıcak renk.",
       "answer": "SARI"
     },
     {
@@ -148,7 +148,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "Uykuda hayal karşılığı olarak kullanılan kelime",
+      "clue": "Uykuda iken zihnin sahneler halinde canlandırdığı renkli görüntüler.",
       "answer": "RÜYA"
     },
     {
@@ -157,7 +157,7 @@
       "row": 3,
       "col": 7,
       "length": 4,
-      "clue": "Bulmacada Suça yaptırım karşılığını veren yanıt",
+      "clue": "Suç işleyen kimseye, yaptığının karşılığı olarak verilen yaptırım.",
       "answer": "CEZA"
     },
     {
@@ -166,7 +166,7 @@
       "row": 4,
       "col": 3,
       "length": 5,
-      "clue": "Bir şeyin etrafını kuşatan alan",
+      "clue": "Bir alanın ya da cismin dört bir yanını saran dış sınır; etraf.",
       "answer": "ÇEVRE"
     },
     {
@@ -175,7 +175,7 @@
       "row": 6,
       "col": 4,
       "length": 5,
-      "clue": "Yemek kabı anlamına gelen sözcük",
+      "clue": "Yemeklerin servis edildiği, yuvarlak ve yassı porselen ya da cam kap.",
       "answer": "TABAK"
     },
     {
@@ -184,7 +184,7 @@
       "row": 6,
       "col": 5,
       "length": 3,
-      "clue": "Hatıra ya da geçmiş olay karşılığı olarak kullanılan kelime",
+      "clue": "Geçmişte yaşanmış ve zihinde iz bırakmış olayların hatırlanması.",
       "answer": "ANI"
     },
     {
@@ -193,7 +193,7 @@
       "row": 6,
       "col": 8,
       "length": 3,
-      "clue": "Bulmacada İçine konan kab karşılığını veren yanıt",
+      "clue": "İçine sıvı ya da katı maddeler konulan her türlü şekilli eşya.",
       "answer": "KAP"
     }
   ]

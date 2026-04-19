@@ -130,7 +130,7 @@
       "row": 0,
       "col": 3,
       "length": 5,
-      "clue": "Mektup servisi için kullanılan yaygın ifade",
+      "clue": "Mektup ve paketlerin toplanıp yerine ulaştırıldığı geleneksel iletişim hizmeti.",
       "answer": "POSTA"
     },
     {
@@ -139,7 +139,7 @@
       "row": 1,
       "col": 2,
       "length": 4,
-      "clue": "Günlük dilde Burnun algısı olarak bilinen kavram",
+      "clue": "Burnumuzla algıladığımız, havada yayılan hoş ya da keskin tanecikler.",
       "answer": "KOKU"
     },
     {
@@ -148,7 +148,7 @@
       "row": 2,
       "col": 6,
       "length": 4,
-      "clue": "Yalvarma ya da dilek karşılığı olarak kullanılan kelime",
+      "clue": "Birinden nazikçe bir şey istemek; kibarca dile getirilen dilek.",
       "answer": "RİCA"
     },
     {
@@ -157,7 +157,7 @@
       "row": 3,
       "col": 1,
       "length": 5,
-      "clue": "Bulmacada Hüzün ya da usanç karşılığını veren yanıt",
+      "clue": "İçe işleyen hafif hüzün; kimseye belli edilmeyen sessiz usanç.",
       "answer": "MELAL"
     },
     {
@@ -166,7 +166,7 @@
       "row": 3,
       "col": 3,
       "length": 4,
-      "clue": "Uyan ya da bağlı karşılığı olarak kullanılan kelime",
+      "clue": "Bir kurala, şahsa ya da düzene bağlı olan; ona uymak durumunda kalan.",
       "answer": "TABİ"
     },
     {
@@ -175,7 +175,7 @@
       "row": 4,
       "col": 0,
       "length": 4,
-      "clue": "Bulmacada Suça yaptırım karşılığını veren yanıt",
+      "clue": "Suç işleyen kimseye, yaptığının karşılığı olarak verilen yaptırım.",
       "answer": "CEZA"
     },
     {
@@ -184,7 +184,7 @@
       "row": 5,
       "col": 5,
       "length": 4,
-      "clue": "Düz ince levha anlamına gelen sözcük",
+      "clue": "İnce mukavvadan yapılmış, üzerine yazı yazılan ya da baskı yapılan levha.",
       "answer": "KART"
     },
     {
@@ -193,7 +193,7 @@
       "row": 5,
       "col": 8,
       "length": 4,
-      "clue": "Anadolu halkı için kullanılan yaygın ifade",
+      "clue": "Anadolu ve çevresinde yaşayan, Orta Asya kökenli büyük millet.",
       "answer": "TÜRK"
     },
     {
@@ -202,7 +202,7 @@
       "row": 6,
       "col": 0,
       "length": 4,
-      "clue": "Ses ya da seda karşılığı olarak kullanılan kelime",
+      "clue": "Uzaktan duyulan insan ya da doğa sesi; boğumlu ses dalgası.",
       "answer": "SADA"
     },
     {
@@ -211,7 +211,7 @@
       "row": 7,
       "col": 7,
       "length": 4,
-      "clue": "Bulmacada Raylı taşıt karşılığını veren yanıt",
+      "clue": "Raylar üzerinde hareket eden, vagonları çeken büyük motorlu araç.",
       "answer": "TREN"
     }
   ]

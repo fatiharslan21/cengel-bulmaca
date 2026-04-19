@@ -97,7 +97,7 @@
       "row": 0,
       "col": 5,
       "length": 4,
-      "clue": "Ses ya da seda karşılığı olarak kullanılan kelime",
+      "clue": "Uzaktan duyulan insan ya da doğa sesi; boğumlu ses dalgası.",
       "answer": "SADA"
     },
     {
@@ -106,7 +106,7 @@
       "row": 0,
       "col": 7,
       "length": 5,
-      "clue": "Bulmacada Katlanma ya da dayanma karşılığını veren yanıt",
+      "clue": "Zorluklara dayanıp isyan etmeden bekleyebilme; hoşgörü ile katlanma.",
       "answer": "SABIR"
     },
     {
@@ -115,7 +115,7 @@
       "row": 0,
       "col": 10,
       "length": 4,
-      "clue": "Ayrılırken selam için kullanılan yaygın ifade",
+      "clue": "Bir kimseyle ayrılırken söylenen son söz; ayrılık selamı.",
       "answer": "VEDA"
     },
     {
@@ -124,7 +124,7 @@
       "row": 1,
       "col": 4,
       "length": 4,
-      "clue": "Baş ya da kelle için kullanılan yaygın ifade",
+      "clue": "İnsanın boynunun üst kısmında bulunan, düşünmenin merkezi olan baş.",
       "answer": "KAFA"
     },
     {
@@ -133,7 +133,7 @@
       "row": 1,
       "col": 9,
       "length": 3,
-      "clue": "Giyside küçük kese karşılığı olarak kullanılan kelime",
+      "clue": "Pantolon ya da ceketin içine dikilmiş, ufak eşya konulan küçük kese.",
       "answer": "CEP"
     },
     {
@@ -142,7 +142,7 @@
       "row": 3,
       "col": 1,
       "length": 5,
-      "clue": "Kutlama tatlısı anlamına gelen sözcük",
+      "clue": "Kat kat hamuru kremayla birleştirilen, doğum günlerinde kesilen tatlı.",
       "answer": "PASTA"
     },
     {
@@ -151,7 +151,7 @@
       "row": 3,
       "col": 2,
       "length": 3,
-      "clue": "Sunma ya da takdim anlamına gelen sözcük",
+      "clue": "Bir üstün ya da yetkilinin önüne saygıyla sunma, takdim etme eylemi.",
       "answer": "ARZ"
     },
     {
@@ -160,7 +160,7 @@
       "row": 3,
       "col": 7,
       "length": 5,
-      "clue": "Bulmacada Suyla ıslanmış karşılığını veren yanıt",
+      "clue": "Su veya başka bir sıvıyla temas edip kurumamış olan nemli yüzey.",
       "answer": "ISLAK"
     },
     {
@@ -169,7 +169,7 @@
       "row": 3,
       "col": 11,
       "length": 3,
-      "clue": "Bulmacada Damar sıvısı karşılığını veren yanıt",
+      "clue": "Damarlarda dolaşarak vücuda oksijen taşıyan kırmızı renkli canlı sıvı.",
       "answer": "KAN"
     },
     {
@@ -178,7 +178,7 @@
       "row": 5,
       "col": 0,
       "length": 6,
-      "clue": "Günlük dilde Değerli şeyler olarak bilinen kavram",
+      "clue": "Değerli eşyaların ya da paraların saklandığı gizli büyük birikim.",
       "answer": "HAZİNE"
     }
   ]

@@ -145,7 +145,7 @@
       "row": 0,
       "col": 2,
       "length": 6,
-      "clue": "Bulmacada Yer sarsıntısı karşılığını veren yanıt",
+      "clue": "Yer kabuğunun kırılmasıyla meydana gelen, yüzeyi sarsan doğal olay.",
       "answer": "DEPREM"
     },
     {
@@ -154,7 +154,7 @@
       "row": 1,
       "col": 1,
       "length": 5,
-      "clue": "Bilme isteği için kullanılan yaygın ifade",
+      "clue": "Bilinmeyen bir şeyi öğrenmek için insanın içine düşen güçlü istek.",
       "answer": "MERAK"
     },
     {
@@ -163,7 +163,7 @@
       "row": 1,
       "col": 5,
       "length": 4,
-      "clue": "Bulmacada Ev bedeli karşılığını veren yanıt",
+      "clue": "Bir evin ya da iş yerinin kullanımı için sahibine ödenen aylık ücret.",
       "answer": "KIRA"
     },
     {
@@ -172,7 +172,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "Günlük dilde Türk parası olarak bilinen kavram",
+      "clue": "Türkiye Cumhuriyeti'nin resmi para birimi; TL kısaltmasıyla yazılan değer.",
       "answer": "LİRA"
     },
     {
@@ -181,7 +181,7 @@
       "row": 3,
       "col": 8,
       "length": 3,
-      "clue": "Yüce ya da büyük anlamına gelen sözcük",
+      "clue": "Yüceliğiyle saygı uyandıran; hem büyük hem görkemli olan varlık.",
       "answer": "ULU"
     },
     {
@@ -190,7 +190,7 @@
       "row": 4,
       "col": 4,
       "length": 5,
-      "clue": "Hayal ürünü hikaye karşılığı olarak kullanılan kelime",
+      "clue": "Hayal ürünü kahramanların yer aldığı, 'bir varmış bir yokmuş'la başlayan öykü.",
       "answer": "MASAL"
     },
     {
@@ -199,7 +199,7 @@
       "row": 4,
       "col": 6,
       "length": 4,
-      "clue": "Bulmacada Zaman ölçer karşılığını veren yanıt",
+      "clue": "Akrep, yelkovan ve rakamlarla anı gösteren; zamanı ölçen günlük araç.",
       "answer": "SAAT"
     },
     {
@@ -208,7 +208,7 @@
       "row": 6,
       "col": 4,
       "length": 3,
-      "clue": "Bulmacada Ev bölümü karşılığını veren yanıt",
+      "clue": "Bir evin ya da binanın duvarlarla ayrılmış, belirli amaçla kullanılan bölümü.",
       "answer": "ODA"
     },
     {
@@ -217,7 +217,7 @@
       "row": 7,
       "col": 6,
       "length": 3,
-      "clue": "Cilt ya da deri karşılığı olarak kullanılan kelime",
+      "clue": "İnsanın bedenini saran dış deri; vücudumuzun dış yüzü.",
       "answer": "TEN"
     },
     {
@@ -226,7 +226,7 @@
       "row": 7,
       "col": 7,
       "length": 5,
-      "clue": "Temel buğday gıdası anlamına gelen sözcük",
+      "clue": "Undan mayalanıp fırında pişirilerek yapılan, sofranın temel besini.",
       "answer": "EKMEK"
     }
   ]

@@ -93,7 +93,7 @@
       "row": 0,
       "col": 0,
       "length": 5,
-      "clue": "En sert taş karşılığı olarak kullanılan kelime",
+      "clue": "Doğada bulunan en sert madde; takılarda kullanılan değerli kıymetli taş.",
       "answer": "ELMAS"
     },
     {
@@ -102,7 +102,7 @@
       "row": 0,
       "col": 3,
       "length": 3,
-      "clue": "Bulmacada Mesafe ya da açıklık karşılığını veren yanıt",
+      "clue": "İki şeyin birbirinden ayrıldığı boşluk; kısa mola süresi.",
       "answer": "ARA"
     },
     {
@@ -111,7 +111,7 @@
       "row": 2,
       "col": 2,
       "length": 4,
-      "clue": "Bulmacada Rakam ifadesi karşılığını veren yanıt",
+      "clue": "Bir miktarı ya da sırayı belirten; rakamlarla yazılan matematik kavramı.",
       "answer": "SAYI"
     },
     {
@@ -120,7 +120,7 @@
       "row": 2,
       "col": 4,
       "length": 3,
-      "clue": "Bulmacada Sıcak mevsim karşılığını veren yanıt",
+      "clue": "Dört mevsimin en sıcağı; okulların kapandığı, tatillerin geldiği zaman.",
       "answer": "YAZ"
     },
     {
@@ -129,7 +129,7 @@
       "row": 4,
       "col": 2,
       "length": 4,
-      "clue": "Bulmacada Raylı taşıt karşılığını veren yanıt",
+      "clue": "Raylar üzerinde hareket eden, vagonları çeken büyük motorlu araç.",
       "answer": "TREN"
     },
     {
@@ -138,7 +138,7 @@
       "row": 4,
       "col": 2,
       "length": 4,
-      "clue": "Bulmacada Bayat olmayan karşılığını veren yanıt",
+      "clue": "Yeni toplanmış, bayatlamamış; canlılığını yeni yeni yitirmemiş olan.",
       "answer": "TAZE"
     },
     {
@@ -147,7 +147,7 @@
       "row": 6,
       "col": 1,
       "length": 5,
-      "clue": "Tuzlu büyük su karşılığı olarak kullanılan kelime",
+      "clue": "Kıtaları birbirinden ayıran, tuzlu sulardan oluşan uçsuz bucaksız kütle.",
       "answer": "DENİZ"
     },
     {
@@ -156,7 +156,7 @@
       "row": 6,
       "col": 4,
       "length": 4,
-      "clue": "Böcekten kumaş anlamına gelen sözcük",
+      "clue": "Kozadan elde edilen, parlak dokulu ve dayanıklı, değerli kumaş lifi.",
       "answer": "İPEK"
     },
     {
@@ -165,7 +165,7 @@
       "row": 8,
       "col": 3,
       "length": 3,
-      "clue": "Bulmacada Havadaki rutubet karşılığını veren yanıt",
+      "clue": "Havada ya da bir yüzeyde bulunan, hissedilen rutubet miktarı.",
       "answer": "NEM"
     }
   ]

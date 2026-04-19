@@ -117,7 +117,7 @@
       "row": 0,
       "col": 2,
       "length": 4,
-      "clue": "Bulmacada Suça yaptırım karşılığını veren yanıt",
+      "clue": "Suç işleyen kimseye, yaptığının karşılığı olarak verilen yaptırım.",
       "answer": "CEZA"
     },
     {
@@ -126,7 +126,7 @@
       "row": 1,
       "col": 1,
       "length": 5,
-      "clue": "Esenleme sözü için kullanılan yaygın ifade",
+      "clue": "Birbirini gören iki kişinin hal hatır sormak için söylediği esenlik dileği.",
       "answer": "SELAM"
     },
     {
@@ -135,7 +135,7 @@
       "row": 3,
       "col": 1,
       "length": 5,
-      "clue": "Bulmacada Zaman ya da süre karşılığını veren yanıt",
+      "clue": "Saniyelerden yıllara uzanan; akıp giden, geri döndürülemeyen zaman.",
       "answer": "VAKİT"
     },
     {
@@ -144,7 +144,7 @@
       "row": 3,
       "col": 3,
       "length": 4,
-      "clue": "Büyük sert taş için kullanılan yaygın ifade",
+      "clue": "Toprağın üstünde ya da altında bulunan, kolay parçalanmayan büyük taş.",
       "answer": "KAYA"
     },
     {
@@ -153,7 +153,7 @@
       "row": 3,
       "col": 5,
       "length": 5,
-      "clue": "Günlük dilde İstek olarak bilinen kavram",
+      "clue": "Bir kimsenin bir şey için yaptığı istek; dile getirilen açık dilek.",
       "answer": "TALEP"
     },
     {
@@ -162,7 +162,7 @@
       "row": 3,
       "col": 10,
       "length": 5,
-      "clue": "Namus ve ahlaki ölçülülük hali",
+      "clue": "Ahlaki ölçülere bağlı kalma; namusu ve temizliği koruma hali.",
       "answer": "İFFET"
     },
     {
@@ -171,7 +171,7 @@
       "row": 5,
       "col": 1,
       "length": 3,
-      "clue": "Günlük dilde Damaktaki lezzet olarak bilinen kavram",
+      "clue": "Dilin damak aracılığıyla algıladığı; acı, ekşi, tuzlu gibi duyusal nitelik.",
       "answer": "TAT"
     },
     {
@@ -180,7 +180,7 @@
       "row": 5,
       "col": 8,
       "length": 3,
-      "clue": "Günlük dilde Oyun küpü olarak bilinen kavram",
+      "clue": "Üzerinde nokta bulunan, oyunlarda atılan altı yüzlü küçük küp.",
       "answer": "ZAR"
     },
     {
@@ -189,7 +189,7 @@
       "row": 6,
       "col": 0,
       "length": 4,
-      "clue": "Ses ya da seda karşılığı olarak kullanılan kelime",
+      "clue": "Uzaktan duyulan insan ya da doğa sesi; boğumlu ses dalgası.",
       "answer": "SADA"
     },
     {
@@ -198,7 +198,7 @@
       "row": 6,
       "col": 5,
       "length": 6,
-      "clue": "Söylence ya da mit anlamına gelen sözcük",
+      "clue": "Kuşaktan kuşağa sözlü aktarılan, olağanüstü öğelerle süslenmiş hikâye.",
       "answer": "EFSANE"
     }
   ]

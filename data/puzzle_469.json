@@ -139,7 +139,7 @@
       "row": 0,
       "col": 11,
       "length": 5,
-      "clue": "Günlük dilde Yemek aracı olarak bilinen kavram",
+      "clue": "Çorba, pilav gibi yemekleri ağza götürmek için kullanılan çukur sap.",
       "answer": "KAŞIK"
     },
     {
@@ -148,7 +148,7 @@
       "row": 2,
       "col": 9,
       "length": 6,
-      "clue": "İçecek kabı anlamına gelen sözcük",
+      "clue": "Su, çay ya da başka içecekleri içmek için kullanılan küçük kap.",
       "answer": "BARDAK"
     },
     {
@@ -157,7 +157,7 @@
       "row": 3,
       "col": 9,
       "length": 3,
-      "clue": "Bulmacada Tatlının zıttı karşılığını veren yanıt",
+      "clue": "Tatlının tam karşıtı olan, biberin ya da kederin bıraktığı keskin duygu.",
       "answer": "ACI"
     },
     {
@@ -166,7 +166,7 @@
       "row": 4,
       "col": 1,
       "length": 4,
-      "clue": "Bodur ağaç anlamına gelen sözcük",
+      "clue": "Boyu kısa, dalları sık ve odunsu olan, çok dallı bodur bitki.",
       "answer": "ÇALI"
     },
     {
@@ -175,7 +175,7 @@
       "row": 4,
       "col": 3,
       "length": 5,
-      "clue": "Günlük dilde Bitkinin ürünü olarak bilinen kavram",
+      "clue": "Bitkinin çiçeğinin olgunlaşmasıyla oluşan, genellikle yenilebilir ürün.",
       "answer": "MEYVE"
     },
     {
@@ -184,7 +184,7 @@
       "row": 4,
       "col": 6,
       "length": 4,
-      "clue": "Bulmacada Karşılık ya da sevap karşılığını veren yanıt",
+      "clue": "Yapılan iyiliğin ya da çekilen sıkıntının karşılığı olarak verilen sevap.",
       "answer": "ECİR"
     },
     {
@@ -193,7 +193,7 @@
       "row": 5,
       "col": 0,
       "length": 5,
-      "clue": "Günlük dilde İstek olarak bilinen kavram",
+      "clue": "Bir kimsenin bir şey için yaptığı istek; dile getirilen açık dilek.",
       "answer": "TALEP"
     },
     {
@@ -202,7 +202,7 @@
       "row": 6,
       "col": 6,
       "length": 5,
-      "clue": "Utanç ya da çekinme anlamına gelen sözcük",
+      "clue": "Uygunsuz bir durumda duyulan utanç; insanın yüzünü gizleme isteği.",
       "answer": "HİCAP"
     },
     {
@@ -211,7 +211,7 @@
       "row": 6,
       "col": 6,
       "length": 3,
-      "clue": "Güzel ya da tatlı karşılığı olarak kullanılan kelime",
+      "clue": "İnsanın yüzünü gülümseten, göze güzel gelen; beğenilen durum.",
       "answer": "HOŞ"
     },
     {
@@ -220,7 +220,7 @@
       "row": 7,
       "col": 3,
       "length": 4,
-      "clue": "Bulmacada Çiçek süs kabı karşılığını veren yanıt",
+      "clue": "İçine çiçek konulmak üzere yapılmış, ince uzun boyunlu süs kabı.",
       "answer": "VAZO"
     }
   ]

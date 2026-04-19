@@ -109,7 +109,7 @@
       "row": 0,
       "col": 4,
       "length": 4,
-      "clue": "Küçük kemirgen karşılığı olarak kullanılan kelime",
+      "clue": "Dişleri sürekli uzayan, tahtayı ve kâğıdı kemirebilen küçük kemirgen.",
       "answer": "FARE"
     },
     {
@@ -118,7 +118,7 @@
       "row": 0,
       "col": 6,
       "length": 5,
-      "clue": "Bulmacada Katlanma ya da dayanma karşılığını veren yanıt",
+      "clue": "Zorluklara dayanıp isyan etmeden bekleyebilme; hoşgörü ile katlanma.",
       "answer": "SABIR"
     },
     {
@@ -127,7 +127,7 @@
       "row": 0,
       "col": 9,
       "length": 5,
-      "clue": "Yer ya da mahal anlamına gelen sözcük",
+      "clue": "Bir olayın geçtiği ya da bir şeyin bulunduğu belirli yer; mahal.",
       "answer": "MEKAN"
     },
     {
@@ -136,7 +136,7 @@
       "row": 1,
       "col": 3,
       "length": 4,
-      "clue": "Gömlek boyun kısmı için kullanılan yaygın ifade",
+      "clue": "Gömleğin boynu çevreleyen üst kısmı; ceketin de boyuna değen kenarı.",
       "answer": "YAKA"
     },
     {
@@ -145,7 +145,7 @@
       "row": 2,
       "col": 1,
       "length": 5,
-      "clue": "Günlük dilde Yüzeyin sınırı olarak bilinen kavram",
+      "clue": "Bir yüzeyin ya da nesnenin dış sınırını oluşturan uç bölüm.",
       "answer": "KENAR"
     },
     {
@@ -154,7 +154,7 @@
       "row": 3,
       "col": 0,
       "length": 5,
-      "clue": "Küçük deniz taşıtı anlamına gelen sözcük",
+      "clue": "Yelkenli ya da motorlu olup denizde kısa yolculuklara çıkan küçük gemi.",
       "answer": "TEKNE"
     },
     {
@@ -163,7 +163,7 @@
       "row": 4,
       "col": 5,
       "length": 5,
-      "clue": "Vücut bölümü karşılığı olarak kullanılan kelime",
+      "clue": "Vücudun belirli bir işlevi yerine getiren, dokulardan oluşmuş bölümü.",
       "answer": "ORGAN"
     },
     {
@@ -172,7 +172,7 @@
       "row": 4,
       "col": 8,
       "length": 4,
-      "clue": "İstek ya da dilek için kullanılan yaygın ifade",
+      "clue": "İçten duyulan istek, gönülden beklenen dilek veya özlem.",
       "answer": "ARZU"
     },
     {
@@ -181,7 +181,7 @@
       "row": 5,
       "col": 0,
       "length": 5,
-      "clue": "Evin yeşil alanı anlamına gelen sözcük",
+      "clue": "Ev ya da yapı yakınında çiçek, sebze ve ağaç yetiştirilen yeşil alan.",
       "answer": "BAHÇE"
     },
     {
@@ -190,7 +190,7 @@
       "row": 6,
       "col": 6,
       "length": 4,
-      "clue": "Geçmiş zaman karşılığı olarak kullanılan kelime",
+      "clue": "Geride kalan zaman; yaşanmış olayların artık değiştirilemeyen bölümü.",
       "answer": "MAZİ"
     }
   ]

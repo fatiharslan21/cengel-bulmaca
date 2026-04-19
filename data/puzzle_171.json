@@ -143,7 +143,7 @@
       "row": 0,
       "col": 6,
       "length": 4,
-      "clue": "Günlük dilde Bacak ucu olarak bilinen kavram",
+      "clue": "Bacağın bileğinden aşağısı; üzerine basarak yürümemizi sağlayan uzuv.",
       "answer": "AYAK"
     },
     {
@@ -152,7 +152,7 @@
       "row": 1,
       "col": 4,
       "length": 5,
-      "clue": "Günlük dilde Ölçü ya da ebat olarak bilinen kavram",
+      "clue": "Bir cismin uzunluk, genişlik ve yükseklik gibi ölçülebilen özelliği.",
       "answer": "BOYUT"
     },
     {
@@ -161,7 +161,7 @@
       "row": 3,
       "col": 2,
       "length": 5,
-      "clue": "Üflemeli ses aleti karşılığı olarak kullanılan kelime",
+      "clue": "İçine üflenince tiz bir ses çıkaran, ince ve boru biçimli küçük alet.",
       "answer": "DÜDÜK"
     },
     {
@@ -170,7 +170,7 @@
       "row": 3,
       "col": 4,
       "length": 6,
-      "clue": "Ülke yönetimi için kullanılan yaygın ifade",
+      "clue": "Belirli bir ülkenin sınırlarında örgütlenmiş siyasi ve yönetimsel yapı.",
       "answer": "DEVLET"
     },
     {
@@ -179,7 +179,7 @@
       "row": 3,
       "col": 8,
       "length": 6,
-      "clue": "Konular listesi için kullanılan yaygın ifade",
+      "clue": "Bir toplantıda ya da günde ele alınacak konuların sıralı listesi.",
       "answer": "GÜNDEM"
     },
     {
@@ -188,7 +188,7 @@
       "row": 5,
       "col": 4,
       "length": 5,
-      "clue": "Bulmacada Yurt ya da memleket karşılığını veren yanıt",
+      "clue": "Bir milletin üzerinde yaşayıp kendine yurt bildiği ata toprağı.",
       "answer": "VATAN"
     },
     {
@@ -197,7 +197,7 @@
       "row": 6,
       "col": 2,
       "length": 4,
-      "clue": "Üçten sonra gelen için kullanılan yaygın ifade",
+      "clue": "Üçten sonra gelen, mevsim ve yön sayısına denk gelen doğal sayı.",
       "answer": "DÖRT"
     },
     {
@@ -206,7 +206,7 @@
       "row": 6,
       "col": 8,
       "length": 3,
-      "clue": "Bulmacada Çiğneme organı karşılığını veren yanıt",
+      "clue": "Ağızda bulunan, yiyecekleri kopartıp öğütmeye yarayan sert beyaz yapı.",
       "answer": "DİŞ"
     },
     {
@@ -215,7 +215,7 @@
       "row": 7,
       "col": 1,
       "length": 4,
-      "clue": "Günlük dilde Yüzeylerin birleşimi olarak bilinen kavram",
+      "clue": "İki duvarın ya da iki kenarın birleştiği noktada oluşan açılı yer.",
       "answer": "KÖŞE"
     },
     {
@@ -224,7 +224,7 @@
       "row": 9,
       "col": 0,
       "length": 4,
-      "clue": "Üstünü kapatan karşılığı olarak kullanılan kelime",
+      "clue": "Bir eşyanın ya da yüzeyin üstünü kapatmak için serilen kumaş parçası.",
       "answer": "ÖRTÜ"
     }
   ]

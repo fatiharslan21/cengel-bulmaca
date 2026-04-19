@@ -90,7 +90,7 @@
       "row": 0,
       "col": 1,
       "length": 4,
-      "clue": "Kuş evi için kullanılan yaygın ifade",
+      "clue": "Kuşların yumurtladığı ağaç dalındaki çöpten örülmüş küçük barınak.",
       "answer": "YUVA"
     },
     {
@@ -99,7 +99,7 @@
       "row": 1,
       "col": 1,
       "length": 4,
-      "clue": "Yakında bulunmayan ya da mesafeli için kullanılan yaygın ifade",
+      "clue": "Aradaki mesafenin çok olduğu; yakınlığı hissedilmeyen ötelerdeki yer.",
       "answer": "UZAK"
     },
     {
@@ -108,7 +108,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "Talih ya da baht karşılığı olarak kullanılan kelime",
+      "clue": "İnsana gülen talih; iyi bir sonucun tesadüfen kısmet olması hali.",
       "answer": "ŞANS"
     },
     {
@@ -117,7 +117,7 @@
       "row": 3,
       "col": 3,
       "length": 4,
-      "clue": "Bitki yetiştirmek için camla kaplı yapı",
+      "clue": "İçerisi camla kaplı; mevsim dışında bile bitki yetiştirilen ısıtılmış yapı.",
       "answer": "SERA"
     },
     {
@@ -126,7 +126,7 @@
       "row": 5,
       "col": 1,
       "length": 4,
-      "clue": "Yüzeye renk veren kimyasal madde",
+      "clue": "Bir yüzeye sürüldüğünde ona istenilen rengi veren sıvı ya da toz madde.",
       "answer": "BOYA"
     },
     {
@@ -135,7 +135,7 @@
       "row": 6,
       "col": 1,
       "length": 3,
-      "clue": "Bulmacada Ev bölümü karşılığını veren yanıt",
+      "clue": "Bir evin ya da binanın duvarlarla ayrılmış, belirli amaçla kullanılan bölümü.",
       "answer": "ODA"
     },
     {
@@ -144,7 +144,7 @@
       "row": 8,
       "col": 0,
       "length": 4,
-      "clue": "Üzerine yazı yazılan ince mukavva parçası",
+      "clue": "İnce mukavvadan yapılmış, üzerine yazı yazılan ya da baskı yapılan levha.",
       "answer": "KART"
     },
     {
@@ -153,7 +153,7 @@
       "row": 8,
       "col": 0,
       "length": 3,
-      "clue": "Günlük dilde Ateş közü olarak bilinen kavram",
+      "clue": "Alevi sönmüş ama sıcaklığı ve kızıllığı süren yanmakta olan parça.",
       "answer": "KOR"
     },
     {
@@ -162,7 +162,7 @@
       "row": 8,
       "col": 2,
       "length": 3,
-      "clue": "İnsanın manevi varlığı, tin",
+      "clue": "İnsanın bedenine hayat veren, duygularının ve düşüncelerinin kaynağı manevi öz.",
       "answer": "RUH"
     }
   ]

@@ -130,7 +130,7 @@
       "row": 0,
       "col": 10,
       "length": 3,
-      "clue": "Bulmacada Karalarla çevrili su karşılığını veren yanıt",
+      "clue": "Karayla çevrili, deniz bağlantısı olmayan geniş durgun su birikintisi.",
       "answer": "GÖL"
     },
     {
@@ -139,7 +139,7 @@
       "row": 2,
       "col": 8,
       "length": 3,
-      "clue": "Bulmacada Sıcak mevsim karşılığını veren yanıt",
+      "clue": "Dört mevsimin en sıcağı; okulların kapandığı, tatillerin geldiği zaman.",
       "answer": "YAZ"
     },
     {
@@ -148,7 +148,7 @@
       "row": 2,
       "col": 8,
       "length": 3,
-      "clue": "Bulmacada Güzergah ya da patika karşılığını veren yanıt",
+      "clue": "İki yerleşim birimini birbirine bağlayan; üzerinde gidilen döşeli güzergâh.",
       "answer": "YOL"
     },
     {
@@ -157,7 +157,7 @@
       "row": 3,
       "col": 5,
       "length": 4,
-      "clue": "Günlük dilde Renk veren madde olarak bilinen kavram",
+      "clue": "Bir yüzeye sürüldüğünde ona istenilen rengi veren sıvı ya da toz madde.",
       "answer": "BOYA"
     },
     {
@@ -166,7 +166,7 @@
       "row": 3,
       "col": 6,
       "length": 3,
-      "clue": "Günlük dilde İğneyle süsleme olarak bilinen kavram",
+      "clue": "İğne ya da tığla işlenen, başörtüsü kenarını süsleyen ince el işi.",
       "answer": "OYA"
     },
     {
@@ -175,7 +175,7 @@
       "row": 4,
       "col": 0,
       "length": 4,
-      "clue": "Miyavlayan evcil anlamına gelen sözcük",
+      "clue": "Miyavlayarak seslenen, pençeleri keskin, evlerde beslenen tüylü memeli hayvan.",
       "answer": "KEDİ"
     },
     {
@@ -184,7 +184,7 @@
       "row": 4,
       "col": 2,
       "length": 4,
-      "clue": "Müzikle hareket karşılığı olarak kullanılan kelime",
+      "clue": "Müziğin ritmine uyarak, düzenli vücut hareketleriyle yapılan sanatsal eylem.",
       "answer": "DANS"
     },
     {
@@ -193,7 +193,7 @@
       "row": 5,
       "col": 4,
       "length": 3,
-      "clue": "Günlük dilde Toprak sahibi olarak bilinen kavram",
+      "clue": "Eskiden köylerde geniş topraklara sahip, sözü geçen nüfuzlu kişi.",
       "answer": "AĞA"
     },
     {
@@ -202,7 +202,7 @@
       "row": 5,
       "col": 4,
       "length": 4,
-      "clue": "Yemek pişiren karşılığı olarak kullanılan kelime",
+      "clue": "Mutfakta yemek pişirmeyi meslek edinmiş, lezzetten anlayan kişi.",
       "answer": "AŞÇI"
     },
     {
@@ -211,7 +211,7 @@
       "row": 7,
       "col": 2,
       "length": 3,
-      "clue": "Baştaki kıllar anlamına gelen sözcük",
+      "clue": "Başımızın derisinde biten, her birinin kökten uzayan ince tel kıl.",
       "answer": "SAÇ"
     }
   ]

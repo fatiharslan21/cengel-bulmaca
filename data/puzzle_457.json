@@ -153,7 +153,7 @@
       "row": 0,
       "col": 7,
       "length": 5,
-      "clue": "Düşme ya da sessizlik karşılığı olarak kullanılan kelime",
+      "clue": "Etraf çınlayarak susma; hiçbir ses çıkmayan derin sessizlik.",
       "answer": "SUKUT"
     },
     {
@@ -162,7 +162,7 @@
       "row": 0,
       "col": 7,
       "length": 4,
-      "clue": "Ses ya da seda karşılığı olarak kullanılan kelime",
+      "clue": "Uzaktan duyulan insan ya da doğa sesi; boğumlu ses dalgası.",
       "answer": "SADA"
     },
     {
@@ -171,7 +171,7 @@
       "row": 2,
       "col": 3,
       "length": 3,
-      "clue": "Derin uçurum ya da dik çatlak",
+      "clue": "Derin ve dik uçurum; aynı zamanda sevilen kişi için kullanılan şiirsel ad.",
       "answer": "YAR"
     },
     {
@@ -180,7 +180,7 @@
       "row": 2,
       "col": 5,
       "length": 5,
-      "clue": "Bulmacada Taşıma ya da aktarma karşılığını veren yanıt",
+      "clue": "Bir şeyin bir yerden başka bir yere taşınması; aktarma işlemi.",
       "answer": "NAKİL"
     },
     {
@@ -189,7 +189,7 @@
       "row": 2,
       "col": 5,
       "length": 5,
-      "clue": "İyilik ya da bolluk için kullanılan yaygın ifade",
+      "clue": "Yararlanılan, şükür duyulan değerli varlık; insana verilmiş lütuf.",
       "answer": "NİMET"
     },
     {
@@ -198,7 +198,7 @@
       "row": 4,
       "col": 0,
       "length": 6,
-      "clue": "Bulmacada Yer sarsıntısı karşılığını veren yanıt",
+      "clue": "Yer kabuğunun kırılmasıyla meydana gelen, yüzeyi sarsan doğal olay.",
       "answer": "DEPREM"
     },
     {
@@ -207,7 +207,7 @@
       "row": 4,
       "col": 0,
       "length": 4,
-      "clue": "Üçten sonra gelen için kullanılan yaygın ifade",
+      "clue": "Üçten sonra gelen, mevsim ve yön sayısına denk gelen doğal sayı.",
       "answer": "DÖRT"
     },
     {
@@ -216,7 +216,7 @@
       "row": 4,
       "col": 7,
       "length": 5,
-      "clue": "Esas ya da kök anlamına gelen sözcük",
+      "clue": "Bir yapının ayakta durmasını sağlayan, toprağa gömülü olan ilk bölümü.",
       "answer": "TEMEL"
     },
     {
@@ -225,7 +225,7 @@
       "row": 6,
       "col": 5,
       "length": 5,
-      "clue": "Issız ya da boş için kullanılan yaygın ifade",
+      "clue": "İnsanın pek rastlanmadığı, sessiz ve ıssız kalmış mekân.",
       "answer": "TENHA"
     },
     {
@@ -234,7 +234,7 @@
       "row": 6,
       "col": 6,
       "length": 4,
-      "clue": "Günlük dilde Buyruk ya da komut olarak bilinen kavram",
+      "clue": "Yetkili bir kimsenin yerine getirilmek üzere verdiği kesin buyruk.",
       "answer": "EMİR"
     }
   ]

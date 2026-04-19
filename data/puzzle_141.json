@@ -112,7 +112,7 @@
       "row": 0,
       "col": 1,
       "length": 4,
-      "clue": "Günlük dilde Felaket ya da kötülük olarak bilinen kavram",
+      "clue": "İnsanın başına habersizce gelen ağır dert, büyük sıkıntı ya da musibet.",
       "answer": "BELA"
     },
     {
@@ -121,7 +121,7 @@
       "row": 0,
       "col": 3,
       "length": 4,
-      "clue": "Kızarmış sandviç anlamına gelen sözcük",
+      "clue": "Ekmeğin arasına peynir konup ısıtılarak kızartılan sandviç çeşidi.",
       "answer": "TOST"
     },
     {
@@ -130,7 +130,7 @@
       "row": 0,
       "col": 6,
       "length": 6,
-      "clue": "Yük aracı karşılığı olarak kullanılan kelime",
+      "clue": "Uzun kasasında büyük yükler taşıyan, dört tekerlekten fazlası olan taşıt.",
       "answer": "KAMYON"
     },
     {
@@ -139,7 +139,7 @@
       "row": 1,
       "col": 5,
       "length": 4,
-      "clue": "Bodur ağaç anlamına gelen sözcük",
+      "clue": "Boyu kısa, dalları sık ve odunsu olan, çok dallı bodur bitki.",
       "answer": "ÇALI"
     },
     {
@@ -148,7 +148,7 @@
       "row": 3,
       "col": 0,
       "length": 5,
-      "clue": "Kutlama tatlısı anlamına gelen sözcük",
+      "clue": "Kat kat hamuru kremayla birleştirilen, doğum günlerinde kesilen tatlı.",
       "answer": "PASTA"
     },
     {
@@ -157,7 +157,7 @@
       "row": 3,
       "col": 2,
       "length": 4,
-      "clue": "Zaman aralığı için kullanılan yaygın ifade",
+      "clue": "Bir olayın başlangıcı ile sonu arasında geçen zaman aralığı.",
       "answer": "SÜRE"
     },
     {
@@ -166,7 +166,7 @@
       "row": 5,
       "col": 4,
       "length": 4,
-      "clue": "Müzikle hareket karşılığı olarak kullanılan kelime",
+      "clue": "Müziğin ritmine uyarak, düzenli vücut hareketleriyle yapılan sanatsal eylem.",
       "answer": "DANS"
     },
     {
@@ -175,7 +175,7 @@
       "row": 5,
       "col": 4,
       "length": 3,
-      "clue": "Yüksek arazi şekli için kullanılan yaygın ifade",
+      "clue": "Çevresine göre belirgin biçimde yükselen, taşlık ve kayalık büyük arazi.",
       "answer": "DAĞ"
     },
     {
@@ -184,7 +184,7 @@
       "row": 5,
       "col": 7,
       "length": 4,
-      "clue": "Bulmacada Zaman ölçer karşılığını veren yanıt",
+      "clue": "Akrep, yelkovan ve rakamlarla anı gösteren; zamanı ölçen günlük araç.",
       "answer": "SAAT"
     },
     {
@@ -193,7 +193,7 @@
       "row": 6,
       "col": 1,
       "length": 4,
-      "clue": "Bulmacada Suça yaptırım karşılığını veren yanıt",
+      "clue": "Suç işleyen kimseye, yaptığının karşılığı olarak verilen yaptırım.",
       "answer": "CEZA"
     }
   ]

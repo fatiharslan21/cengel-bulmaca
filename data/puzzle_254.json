@@ -97,7 +97,7 @@
       "row": 0,
       "col": 2,
       "length": 3,
-      "clue": "Günlük dilde Sağın karşıtı olarak bilinen kavram",
+      "clue": "Kalbin bulunduğu taraf; sağın tam karşıtı olan yön.",
       "answer": "SOL"
     },
     {
@@ -106,7 +106,7 @@
       "row": 0,
       "col": 4,
       "length": 4,
-      "clue": "Günlük dilde Türk parası olarak bilinen kavram",
+      "clue": "Türkiye Cumhuriyeti'nin resmi para birimi; TL kısaltmasıyla yazılan değer.",
       "answer": "LİRA"
     },
     {
@@ -115,7 +115,7 @@
       "row": 1,
       "col": 6,
       "length": 4,
-      "clue": "Günlük dilde Geniş düzlük olarak bilinen kavram",
+      "clue": "Üzerinde yapı bulunmayan, belli sınırlarla çevrili geniş açık düzlük.",
       "answer": "ALAN"
     },
     {
@@ -124,7 +124,7 @@
       "row": 2,
       "col": 8,
       "length": 3,
-      "clue": "Bulmacada Uzaklaşma eylemi karşılığını veren yanıt",
+      "clue": "Bulunduğun yerden uzaklaşarak başka bir yere doğru yönel; gel'in zıttı.",
       "answer": "GİT"
     },
     {
@@ -133,7 +133,7 @@
       "row": 3,
       "col": 3,
       "length": 4,
-      "clue": "İddia ya da tez karşılığı olarak kullanılan kelime",
+      "clue": "Bir hakkı aramak için mahkemeye başvurularak açılan hukuki süreç.",
       "answer": "DAVA"
     },
     {
@@ -142,7 +142,7 @@
       "row": 3,
       "col": 3,
       "length": 4,
-      "clue": "Müzikle hareket karşılığı olarak kullanılan kelime",
+      "clue": "Müziğin ritmine uyarak, düzenli vücut hareketleriyle yapılan sanatsal eylem.",
       "answer": "DANS"
     },
     {
@@ -151,7 +151,7 @@
       "row": 4,
       "col": 0,
       "length": 4,
-      "clue": "Siyah renk karşılığı olarak kullanılan kelime",
+      "clue": "Beyazın tam zıttı olan, gölgeleri bile koyulaştıran siyah ton.",
       "answer": "KARA"
     },
     {
@@ -160,7 +160,7 @@
       "row": 4,
       "col": 6,
       "length": 4,
-      "clue": "Müzik işareti için kullanılan yaygın ifade",
+      "clue": "Müzik eserlerinde seslerin yükseklik ve uzunluğunu gösteren küçük simge.",
       "answer": "NOTA"
     },
     {
@@ -169,7 +169,7 @@
       "row": 4,
       "col": 9,
       "length": 3,
-      "clue": "Sunma ya da takdim anlamına gelen sözcük",
+      "clue": "Bir üstün ya da yetkilinin önüne saygıyla sunma, takdim etme eylemi.",
       "answer": "ARZ"
     },
     {
@@ -178,7 +178,7 @@
       "row": 6,
       "col": 3,
       "length": 5,
-      "clue": "Esenleme sözü için kullanılan yaygın ifade",
+      "clue": "Birbirini gören iki kişinin hal hatır sormak için söylediği esenlik dileği.",
       "answer": "SELAM"
     }
   ]

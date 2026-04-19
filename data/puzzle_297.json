@@ -123,7 +123,7 @@
       "row": 0,
       "col": 0,
       "length": 5,
-      "clue": "Bulmacada Kanatlı kutsal varlık karşılığını veren yanıt",
+      "clue": "Dinlerde iyilikle görevlendirilmiş, kanatlı olduğuna inanılan kutsal varlık.",
       "answer": "MELEK"
     },
     {
@@ -132,7 +132,7 @@
       "row": 2,
       "col": 2,
       "length": 3,
-      "clue": "Günlük dilde Sağın karşıtı olarak bilinen kavram",
+      "clue": "Kalbin bulunduğu taraf; sağın tam karşıtı olan yön.",
       "answer": "SOL"
     },
     {
@@ -141,7 +141,7 @@
       "row": 4,
       "col": 0,
       "length": 3,
-      "clue": "Bulmacada Gitme ya da burada dur karşılığını veren yanıt",
+      "clue": "Gitme, olduğun yerde dur; git sözcüğünün tam karşıtı olan emir.",
       "answer": "KAL"
     },
     {
@@ -150,7 +150,7 @@
       "row": 4,
       "col": 1,
       "length": 5,
-      "clue": "Bulmacada Dört tekerlekli taşıt karşılığını veren yanıt",
+      "clue": "Tekerlekleri üstünde insan ya da yük taşıyan motorlu kara taşıtı.",
       "answer": "ARABA"
     },
     {
@@ -159,7 +159,7 @@
       "row": 6,
       "col": 0,
       "length": 4,
-      "clue": "Geçmiş zaman karşılığı olarak kullanılan kelime",
+      "clue": "Geride kalan zaman; yaşanmış olayların artık değiştirilemeyen bölümü.",
       "answer": "MAZİ"
     },
     {
@@ -168,7 +168,7 @@
       "row": 6,
       "col": 3,
       "length": 4,
-      "clue": "Tedavi maddesi için kullanılan yaygın ifade",
+      "clue": "Hastalıkları iyileştirmek amacıyla hazırlanan, doktor tarafından verilen madde.",
       "answer": "İLAÇ"
     },
     {
@@ -177,7 +177,7 @@
       "row": 7,
       "col": 5,
       "length": 4,
-      "clue": "Müzikle hareket karşılığı olarak kullanılan kelime",
+      "clue": "Müziğin ritmine uyarak, düzenli vücut hareketleriyle yapılan sanatsal eylem.",
       "answer": "DANS"
     },
     {
@@ -186,7 +186,7 @@
       "row": 8,
       "col": 0,
       "length": 4,
-      "clue": "Günlük dilde Yanlış ya da kusur olarak bilinen kavram",
+      "clue": "İstemeden yapılan yanlış; doğru olandan sapmanın yol açtığı kusur.",
       "answer": "HATA"
     },
     {
@@ -195,7 +195,7 @@
       "row": 8,
       "col": 0,
       "length": 3,
-      "clue": "Bulmacada Adalet ya da doğruluk karşılığını veren yanıt",
+      "clue": "Kişinin yasal olarak sahip olduğu; alması ya da yapması gereken şey.",
       "answer": "HAK"
     },
     {
@@ -204,7 +204,7 @@
       "row": 9,
       "col": 3,
       "length": 5,
-      "clue": "Bulmacada Gölge ağacı karşılığını veren yanıt",
+      "clue": "Geniş yaprakları ve kalın gövdesiyle yüzyıllarca yaşayabilen büyük ağaç.",
       "answer": "ÇINAR"
     }
   ]

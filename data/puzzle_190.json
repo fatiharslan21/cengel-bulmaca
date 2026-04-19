@@ -94,7 +94,7 @@
       "row": 0,
       "col": 0,
       "length": 3,
-      "clue": "Bulmacada Can ya da maneviyat karşılığını veren yanıt",
+      "clue": "İnsanın bedenine hayat veren, duygularının ve düşüncelerinin kaynağı manevi öz.",
       "answer": "RUH"
     },
     {
@@ -103,7 +103,7 @@
       "row": 0,
       "col": 2,
       "length": 4,
-      "clue": "Ev ya da konut karşılığı olarak kullanılan kelime",
+      "clue": "Bir ailenin oturduğu ev; aynı zamanda sayıdaki basamak anlamı taşır.",
       "answer": "HANE"
     },
     {
@@ -112,7 +112,7 @@
       "row": 0,
       "col": 5,
       "length": 3,
-      "clue": "Evin çatısı anlamına gelen sözcük",
+      "clue": "Yapının üstünü kapatan, yağmurdan ve güneşten koruyan çatı kısmı.",
       "answer": "DAM"
     },
     {
@@ -121,7 +121,7 @@
       "row": 2,
       "col": 0,
       "length": 6,
-      "clue": "Konular listesi için kullanılan yaygın ifade",
+      "clue": "Bir toplantıda ya da günde ele alınacak konuların sıralı listesi.",
       "answer": "GÜNDEM"
     },
     {
@@ -130,7 +130,7 @@
       "row": 2,
       "col": 0,
       "length": 4,
-      "clue": "Günlük dilde İlerinin zıttı olarak bilinen kavram",
+      "clue": "İlerinin zıttı; arkaya ya da başlangıca doğru olan yön.",
       "answer": "GERİ"
     },
     {
@@ -139,7 +139,7 @@
       "row": 2,
       "col": 4,
       "length": 4,
-      "clue": "Bulmacada Sanat yapıtı karşılığını veren yanıt",
+      "clue": "Bir sanatçının ya da yazarın ortaya koyduğu özgün yapıt.",
       "answer": "ESER"
     },
     {
@@ -148,7 +148,7 @@
       "row": 3,
       "col": 6,
       "length": 3,
-      "clue": "Dev kara hayvanı karşılığı olarak kullanılan kelime",
+      "clue": "Hortumuyla tanınan, kulakları iri, kara hayvanlarının en büyüklerinden biri.",
       "answer": "FİL"
     },
     {
@@ -157,7 +157,7 @@
       "row": 5,
       "col": 2,
       "length": 5,
-      "clue": "Uyulması gereken için kullanılan yaygın ifade",
+      "clue": "Bir düzen içinde hareket edebilmek için uyulması zorunlu olan ilke.",
       "answer": "KURAL"
     },
     {
@@ -166,7 +166,7 @@
       "row": 5,
       "col": 3,
       "length": 4,
-      "clue": "Havada uçan taşıt karşılığı olarak kullanılan kelime",
+      "clue": "Kanatları sayesinde havalanıp gökyüzünde uçan motorlu büyük taşıt.",
       "answer": "UÇAK"
     },
     {
@@ -175,7 +175,7 @@
       "row": 8,
       "col": 3,
       "length": 4,
-      "clue": "Günlük dilde Yüzeylerin birleşimi olarak bilinen kavram",
+      "clue": "İki duvarın ya da iki kenarın birleştiği noktada oluşan açılı yer.",
       "answer": "KÖŞE"
     }
   ]

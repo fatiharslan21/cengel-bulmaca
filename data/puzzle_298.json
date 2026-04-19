@@ -134,7 +134,7 @@
       "row": 0,
       "col": 2,
       "length": 4,
-      "clue": "Günlük dilde Haz ya da keyif olarak bilinen kavram",
+      "clue": "Yapılan ya da tadılan şeyden alınan; insanın içini hoşnut eden keyif.",
       "answer": "ZEVK"
     },
     {
@@ -143,7 +143,7 @@
       "row": 1,
       "col": 1,
       "length": 3,
-      "clue": "Yaklaşma eylemi karşılığı olarak kullanılan kelime",
+      "clue": "Bulunduğun yerden buraya doğru yaklaş; git sözcüğünün tam zıttı eylem.",
       "answer": "GEL"
     },
     {
@@ -152,7 +152,7 @@
       "row": 2,
       "col": 5,
       "length": 6,
-      "clue": "Ülke yönetimi için kullanılan yaygın ifade",
+      "clue": "Belirli bir ülkenin sınırlarında örgütlenmiş siyasi ve yönetimsel yapı.",
       "answer": "DEVLET"
     },
     {
@@ -161,7 +161,7 @@
       "row": 3,
       "col": 2,
       "length": 4,
-      "clue": "Çukur yemek kabı anlamına gelen sözcük",
+      "clue": "Çorba, salata ya da yoğurt konulan, yuvarlak ve çukur küçük yemek kabı.",
       "answer": "KASE"
     },
     {
@@ -170,7 +170,7 @@
       "row": 4,
       "col": 5,
       "length": 4,
-      "clue": "Bulmacada Çiçek süs kabı karşılığını veren yanıt",
+      "clue": "İçine çiçek konulmak üzere yapılmış, ince uzun boyunlu süs kabı.",
       "answer": "VAZO"
     },
     {
@@ -179,7 +179,7 @@
       "row": 5,
       "col": 1,
       "length": 5,
-      "clue": "Bulmacada Taşıma ya da aktarma karşılığını veren yanıt",
+      "clue": "Bir şeyin bir yerden başka bir yere taşınması; aktarma işlemi.",
       "answer": "NAKİL"
     },
     {
@@ -188,7 +188,7 @@
       "row": 5,
       "col": 3,
       "length": 6,
-      "clue": "Günlük dilde Güç ya da kuvvet olarak bilinen kavram",
+      "clue": "Bir işi yapabilme gücü; insanda ya da doğada bulunan büyük kuvvet.",
       "answer": "KUDRET"
     },
     {
@@ -197,7 +197,7 @@
       "row": 6,
       "col": 5,
       "length": 4,
-      "clue": "Günlük dilde Buyruk ya da komut olarak bilinen kavram",
+      "clue": "Yetkili bir kimsenin yerine getirilmek üzere verdiği kesin buyruk.",
       "answer": "EMİR"
     },
     {
@@ -206,7 +206,7 @@
       "row": 7,
       "col": 0,
       "length": 4,
-      "clue": "Bulmacada Çaba ya da gayret karşılığını veren yanıt",
+      "clue": "Bir işi başarmak için gösterilen büyük çaba, gayret ve çalışma.",
       "answer": "CEHD"
     },
     {
@@ -215,7 +215,7 @@
       "row": 9,
       "col": 2,
       "length": 6,
-      "clue": "Bulmacada Orta nokta karşılığını veren yanıt",
+      "clue": "Bir dairenin ya da bir alanın tam ortasında bulunan ana nokta.",
       "answer": "MERKEZ"
     }
   ]

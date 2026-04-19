@@ -134,7 +134,7 @@
       "row": 0,
       "col": 5,
       "length": 6,
-      "clue": "Bina çıkıntısı karşılığı olarak kullanılan kelime",
+      "clue": "Bir binanın üst katlarından dışarı uzanan, parmaklıkla çevrili çıkıntı.",
       "answer": "BALKON"
     },
     {
@@ -143,7 +143,7 @@
       "row": 1,
       "col": 2,
       "length": 5,
-      "clue": "Sayfalardan eser karşılığı olarak kullanılan kelime",
+      "clue": "Sayfalardan oluşan, üzerine bilgi ya da hikâye yazılmış ciltli eser.",
       "answer": "KİTAP"
     },
     {
@@ -152,7 +152,7 @@
       "row": 1,
       "col": 3,
       "length": 3,
-      "clue": "Kötünün zıttı karşılığı olarak kullanılan kelime",
+      "clue": "Hoşa giden, yararlı ve olumlu olan; kötünün tam karşıtı olan nitelik.",
       "answer": "İYİ"
     },
     {
@@ -161,7 +161,7 @@
       "row": 2,
       "col": 0,
       "length": 4,
-      "clue": "Böcekten kumaş anlamına gelen sözcük",
+      "clue": "Kozadan elde edilen, parlak dokulu ve dayanıklı, değerli kumaş lifi.",
       "answer": "İPEK"
     },
     {
@@ -170,7 +170,7 @@
       "row": 3,
       "col": 5,
       "length": 3,
-      "clue": "Günlük dilde Üst beden uzvu olarak bilinen kavram",
+      "clue": "Omuzdan bileğe kadar uzanan, eli bedene bağlayan üst uzvumuz.",
       "answer": "KOL"
     },
     {
@@ -179,7 +179,7 @@
       "row": 3,
       "col": 7,
       "length": 4,
-      "clue": "Günlük dilde Türk parası olarak bilinen kavram",
+      "clue": "Türkiye Cumhuriyeti'nin resmi para birimi; TL kısaltmasıyla yazılan değer.",
       "answer": "LİRA"
     },
     {
@@ -188,7 +188,7 @@
       "row": 5,
       "col": 0,
       "length": 6,
-      "clue": "Yük aracı karşılığı olarak kullanılan kelime",
+      "clue": "Uzun kasasında büyük yükler taşıyan, dört tekerlekten fazlası olan taşıt.",
       "answer": "KAMYON"
     },
     {
@@ -197,7 +197,7 @@
       "row": 5,
       "col": 1,
       "length": 3,
-      "clue": "Yakışıklı ya da gösterişli anlamına gelen sözcük",
+      "clue": "Halk ağzında yakışıklı, gösterişli kimse için kullanılan eski bir sözcük.",
       "answer": "AFİ"
     },
     {
@@ -206,7 +206,7 @@
       "row": 5,
       "col": 3,
       "length": 6,
-      "clue": "Bitkinin yeşil organı anlamına gelen sözcük",
+      "clue": "Ağacın dalından sarkan, fotosentez yapıp havaya oksijen veren yeşil organ.",
       "answer": "YAPRAK"
     },
     {
@@ -215,7 +215,7 @@
       "row": 6,
       "col": 6,
       "length": 3,
-      "clue": "Devir ya da dönem karşılığı olarak kullanılan kelime",
+      "clue": "Tarihte belli özelliklerle ayırt edilen uzun dönem; devir, asır.",
       "answer": "ÇAĞ"
     }
   ]

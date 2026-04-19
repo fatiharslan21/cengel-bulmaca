@@ -121,7 +121,7 @@
       "row": 0,
       "col": 0,
       "length": 5,
-      "clue": "Bulmacada Talih ya da yükselme karşılığını veren yanıt",
+      "clue": "Hayatta yükselme, talih kuşunun başa konması; mevki sahibi olma.",
       "answer": "İKBAL"
     },
     {
@@ -130,7 +130,7 @@
       "row": 0,
       "col": 2,
       "length": 5,
-      "clue": "El kol eklemi karşılığı olarak kullanılan kelime",
+      "clue": "Kolla eli birbirine bağlayan, küçük kemiklerden oluşan eklem bölgesi.",
       "answer": "BİLEK"
     },
     {
@@ -139,7 +139,7 @@
       "row": 1,
       "col": 5,
       "length": 5,
-      "clue": "Tatlı madde için kullanılan yaygın ifade",
+      "clue": "Kamıştan ya da pancardan elde edilen; çay ve tatlılara katılan tatlı madde.",
       "answer": "ŞEKER"
     },
     {
@@ -148,7 +148,7 @@
       "row": 3,
       "col": 1,
       "length": 5,
-      "clue": "Bilme isteği için kullanılan yaygın ifade",
+      "clue": "Bilinmeyen bir şeyi öğrenmek için insanın içine düşen güçlü istek.",
       "answer": "MERAK"
     },
     {
@@ -157,7 +157,7 @@
       "row": 3,
       "col": 7,
       "length": 3,
-      "clue": "Bulmacada İçine konan kab karşılığını veren yanıt",
+      "clue": "İçine sıvı ya da katı maddeler konulan her türlü şekilli eşya.",
       "answer": "KAP"
     },
     {
@@ -166,7 +166,7 @@
       "row": 3,
       "col": 7,
       "length": 3,
-      "clue": "Günlük dilde Üst beden uzvu olarak bilinen kavram",
+      "clue": "Omuzdan bileğe kadar uzanan, eli bedene bağlayan üst uzvumuz.",
       "answer": "KOL"
     },
     {
@@ -175,7 +175,7 @@
       "row": 5,
       "col": 3,
       "length": 5,
-      "clue": "Hayal ya da ilüzyon karşılığı olarak kullanılan kelime",
+      "clue": "Çölde ya da sıcakta gerçekte olmayan bir görüntü olarak algılanan yanılsama.",
       "answer": "SERAP"
     },
     {
@@ -184,7 +184,7 @@
       "row": 5,
       "col": 3,
       "length": 4,
-      "clue": "Ses ya da seda karşılığı olarak kullanılan kelime",
+      "clue": "Uzaktan duyulan insan ya da doğa sesi; boğumlu ses dalgası.",
       "answer": "SADA"
     },
     {
@@ -193,7 +193,7 @@
       "row": 5,
       "col": 6,
       "length": 3,
-      "clue": "Bulmacada Üstün karşıtı karşılığını veren yanıt",
+      "clue": "Bir cismin aşağı tarafı; üst sözcüğünün tam karşıtı olan yön.",
       "answer": "ALT"
     },
     {
@@ -202,7 +202,7 @@
       "row": 8,
       "col": 0,
       "length": 5,
-      "clue": "Örnek ya da benzer için kullanılan yaygın ifade",
+      "clue": "Anlatılanı somutlaştırmak için verilen örnek; kıyas noktası.",
       "answer": "MİSAL"
     }
   ]

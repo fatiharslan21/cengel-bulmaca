@@ -123,7 +123,7 @@
       "row": 0,
       "col": 4,
       "length": 3,
-      "clue": "Asit karşıtı için kullanılan yaygın ifade",
+      "clue": "Kimyada asitle tepkimeye girerek tuz oluşturan, karşıt özellikli madde.",
       "answer": "BAZ"
     },
     {
@@ -132,7 +132,7 @@
       "row": 0,
       "col": 5,
       "length": 3,
-      "clue": "Dört tarafı suyla çevrili kara",
+      "clue": "Dört bir yanı suyla çevrili, denizin ortasında kalmış toprak parçası.",
       "answer": "ADA"
     },
     {
@@ -141,7 +141,7 @@
       "row": 2,
       "col": 2,
       "length": 3,
-      "clue": "Derin uçurum ya da dik çatlak",
+      "clue": "Derin ve dik uçurum; aynı zamanda sevilen kişi için kullanılan şiirsel ad.",
       "answer": "YAR"
     },
     {
@@ -150,7 +150,7 @@
       "row": 2,
       "col": 2,
       "length": 4,
-      "clue": "Kuş evi için kullanılan yaygın ifade",
+      "clue": "Kuşların yumurtladığı ağaç dalındaki çöpten örülmüş küçük barınak.",
       "answer": "YUVA"
     },
     {
@@ -159,7 +159,7 @@
       "row": 4,
       "col": 0,
       "length": 6,
-      "clue": "Bulmacada Orta nokta karşılığını veren yanıt",
+      "clue": "Bir dairenin ya da bir alanın tam ortasında bulunan ana nokta.",
       "answer": "MERKEZ"
     },
     {
@@ -168,7 +168,7 @@
       "row": 4,
       "col": 1,
       "length": 5,
-      "clue": "En sert taş karşılığı olarak kullanılan kelime",
+      "clue": "Doğada bulunan en sert madde; takılarda kullanılan değerli kıymetli taş.",
       "answer": "ELMAS"
     },
     {
@@ -177,7 +177,7 @@
       "row": 4,
       "col": 4,
       "length": 4,
-      "clue": "Bulmacada Kırmızı meyve karşılığını veren yanıt",
+      "clue": "Kabuğu kırmızı, sarı ya da yeşil olabilen, sulu ve çıtır meyve.",
       "answer": "ELMA"
     },
     {
@@ -186,7 +186,7 @@
       "row": 7,
       "col": 0,
       "length": 3,
-      "clue": "Ömür süresi anlamına gelen sözcük",
+      "clue": "İnsanın doğduğu günden bu yana geçen toplam yıl; ömürdeki basamak.",
       "answer": "YAŞ"
     },
     {
@@ -195,7 +195,7 @@
       "row": 7,
       "col": 4,
       "length": 5,
-      "clue": "Günlük dilde Konum bilgisi olarak bilinen kavram",
+      "clue": "Bir kimseye veya yere ulaşabilmek için gereken açık konum bilgisi.",
       "answer": "ADRES"
     },
     {
@@ -204,7 +204,7 @@
       "row": 7,
       "col": 8,
       "length": 3,
-      "clue": "Bulmacada Beyaz besin sıvısı karşılığını veren yanıt",
+      "clue": "İnek, keçi gibi memelilerden sağılan; beyaz renkli besleyici temel içecek.",
       "answer": "SÜT"
     }
   ]

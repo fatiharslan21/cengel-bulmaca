@@ -208,7 +208,7 @@
       "row": 0,
       "col": 0,
       "length": 6,
-      "clue": "Türkiye'nin başkenti için kullanılan yaygın ifade",
+      "clue": "Türkiye Cumhuriyeti'nin başkenti ve İç Anadolu'nun en büyük şehri.",
       "answer": "ANKARA"
     },
     {
@@ -217,7 +217,7 @@
       "row": 2,
       "col": 0,
       "length": 5,
-      "clue": "Yazı yazmaya yarayan araç",
+      "clue": "Ucundan mürekkep ya da grafit akıtarak kâğıda yazı yazmayı sağlayan araç.",
       "answer": "KALEM"
     },
     {
@@ -226,7 +226,7 @@
       "row": 2,
       "col": 7,
       "length": 5,
-      "clue": "Tuzlu su kütlesi anlamına gelen sözcük",
+      "clue": "Kıtaları birbirinden ayıran, tuzlu sulardan oluşan uçsuz bucaksız kütle.",
       "answer": "DENİZ"
     },
     {
@@ -235,7 +235,7 @@
       "row": 4,
       "col": 0,
       "length": 5,
-      "clue": "En sert doğal madde, değerli taş",
+      "clue": "Doğada bulunan en sert madde; takılarda kullanılan değerli kıymetli taş.",
       "answer": "ELMAS"
     },
     {
@@ -244,7 +244,7 @@
       "row": 6,
       "col": 0,
       "length": 5,
-      "clue": "Gökyüzünde süzülen beyaz küme",
+      "clue": "Gökyüzünde süzülen, su buharının yoğunlaşmasıyla oluşan beyaz küme.",
       "answer": "BULUT"
     },
     {
@@ -253,7 +253,7 @@
       "row": 8,
       "col": 0,
       "length": 4,
-      "clue": "Üzerinde yemek yenilen mobilya",
+      "clue": "Üzerinde yemek yemek ya da çalışmak için kullanılan ayaklı düz mobilya.",
       "answer": "MASA"
     },
     {
@@ -262,7 +262,7 @@
       "row": 8,
       "col": 6,
       "length": 5,
-      "clue": "Telli bir müzik aleti anlamına gelen sözcük",
+      "clue": "Altı teli olan, parmakla ya da mızrapla çalınan telli müzik aleti.",
       "answer": "GİTAR"
     },
     {
@@ -271,7 +271,7 @@
       "row": 0,
       "col": 2,
       "length": 3,
-      "clue": "Git'in zıttı, burada dur",
+      "clue": "Gitme, olduğun yerde dur; git sözcüğünün tam karşıtı olan emir.",
       "answer": "KAL"
     },
     {
@@ -280,7 +280,7 @@
       "row": 0,
       "col": 5,
       "length": 5,
-      "clue": "Bulmacada Dört tekerlekli taşıt karşılığını veren yanıt",
+      "clue": "Tekerlekleri üstünde insan ya da yük taşıyan motorlu kara taşıtı.",
       "answer": "ARABA"
     },
     {
@@ -289,7 +289,7 @@
       "row": 2,
       "col": 10,
       "length": 4,
-      "clue": "Günlük dilde Hastalıkta içilen şey olarak bilinen kavram",
+      "clue": "Hastalıkları iyileştirmek amacıyla hazırlanan, doktor tarafından verilen madde.",
       "answer": "İLAÇ"
     }
   ]

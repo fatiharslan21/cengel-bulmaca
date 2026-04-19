@@ -109,7 +109,7 @@
       "row": 0,
       "col": 2,
       "length": 4,
-      "clue": "İki adet ya da eş karşılığı olarak kullanılan kelime",
+      "clue": "Birbirinin eşi olan iki şeyden oluşan takım; tekin karşıtı sayı grubu.",
       "answer": "ÇİFT"
     },
     {
@@ -118,7 +118,7 @@
       "row": 0,
       "col": 5,
       "length": 3,
-      "clue": "Bin kilogram için kullanılan yaygın ifade",
+      "clue": "Bin kilograma eşit olan büyük ağırlık ölçü birimi.",
       "answer": "TON"
     },
     {
@@ -127,7 +127,7 @@
       "row": 1,
       "col": 5,
       "length": 5,
-      "clue": "Bulmacada Ağaçlık alan karşılığını veren yanıt",
+      "clue": "Geniş bir alana yayılmış, iç içe büyümüş ağaçlardan oluşan doğal yaşam.",
       "answer": "ORMAN"
     },
     {
@@ -136,7 +136,7 @@
       "row": 2,
       "col": 1,
       "length": 4,
-      "clue": "Anlama yeteneği için kullanılan yaygın ifade",
+      "clue": "Yeni durumlara hızla uyum sağlayıp doğru kararlar verebilme yeteneği.",
       "answer": "ZEKA"
     },
     {
@@ -145,7 +145,7 @@
       "row": 2,
       "col": 3,
       "length": 3,
-      "clue": "Birinci tekil kişi karşılığı olarak kullanılan kelime",
+      "clue": "Konuşan kişinin kendisini belirtmek için kullandığı birinci tekil zamir.",
       "answer": "BEN"
     },
     {
@@ -154,7 +154,7 @@
       "row": 2,
       "col": 3,
       "length": 5,
-      "clue": "Suda yaşayan canlı karşılığı olarak kullanılan kelime",
+      "clue": "Suda yaşayan, solungaçlarıyla soluyan, yüzgeçleriyle hareket eden canlı.",
       "answer": "BALIK"
     },
     {
@@ -163,7 +163,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "Bulmacada Suça yaptırım karşılığını veren yanıt",
+      "clue": "Suç işleyen kimseye, yaptığının karşılığı olarak verilen yaptırım.",
       "answer": "CEZA"
     },
     {
@@ -172,7 +172,7 @@
       "row": 3,
       "col": 6,
       "length": 5,
-      "clue": "Ani vuruş anlamına gelen sözcük",
+      "clue": "Ani ve sert bir hareketle yapılan vuruş; çarpma sonucu alınan sarsıntı.",
       "answer": "DARBE"
     },
     {
@@ -181,7 +181,7 @@
       "row": 4,
       "col": 3,
       "length": 5,
-      "clue": "Bulmacada Gemi barınağı karşılığını veren yanıt",
+      "clue": "Gemilerin yük boşalttığı, fırtınadan korunarak demirlediği deniz kıyısı.",
       "answer": "LİMAN"
     },
     {
@@ -190,7 +190,7 @@
       "row": 7,
       "col": 5,
       "length": 4,
-      "clue": "Kötü ya da berbat karşılığı olarak kullanılan kelime",
+      "clue": "Niteliği kötü olan, insanın içini bunaltan; iyi sözcüğünün zıttı.",
       "answer": "FENA"
     }
   ]

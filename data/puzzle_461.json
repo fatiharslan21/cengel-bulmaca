@@ -121,7 +121,7 @@
       "row": 0,
       "col": 2,
       "length": 4,
-      "clue": "Kızarmış sandviç anlamına gelen sözcük",
+      "clue": "Ekmeğin arasına peynir konup ısıtılarak kızartılan sandviç çeşidi.",
       "answer": "TOST"
     },
     {
@@ -130,7 +130,7 @@
       "row": 2,
       "col": 2,
       "length": 5,
-      "clue": "Düşme ya da sessizlik karşılığı olarak kullanılan kelime",
+      "clue": "Etraf çınlayarak susma; hiçbir ses çıkmayan derin sessizlik.",
       "answer": "SUKUT"
     },
     {
@@ -139,7 +139,7 @@
       "row": 3,
       "col": 0,
       "length": 3,
-      "clue": "Günlük dilde Damaktaki lezzet olarak bilinen kavram",
+      "clue": "Dilin damak aracılığıyla algıladığı; acı, ekşi, tuzlu gibi duyusal nitelik.",
       "answer": "TAT"
     },
     {
@@ -148,7 +148,7 @@
       "row": 3,
       "col": 1,
       "length": 3,
-      "clue": "Bulmacada Tatlının zıttı karşılığını veren yanıt",
+      "clue": "Tatlının tam karşıtı olan, biberin ya da kederin bıraktığı keskin duygu.",
       "answer": "ACI"
     },
     {
@@ -157,7 +157,7 @@
       "row": 4,
       "col": 4,
       "length": 6,
-      "clue": "Bulmacada Alçakgönüllülük karşılığını veren yanıt",
+      "clue": "Kendini üstün görmeyen, sade ve mütevazı davranış; gösterişsiz olma hali.",
       "answer": "TEVAZU"
     },
     {
@@ -166,7 +166,7 @@
       "row": 5,
       "col": 0,
       "length": 6,
-      "clue": "Nasip ya da pay karşılığı olarak kullanılan kelime",
+      "clue": "Kişinin payına düşen; kaderin ona uygun gördüğü nasibi ya da şansı.",
       "answer": "KISMET"
     },
     {
@@ -175,7 +175,7 @@
       "row": 5,
       "col": 0,
       "length": 3,
-      "clue": "Yanık kalıntısı için kullanılan yaygın ifade",
+      "clue": "Bir şeyin yanıp bitmesinin ardından geriye kalan kurumuş toz madde.",
       "answer": "KÜL"
     },
     {
@@ -184,7 +184,7 @@
       "row": 6,
       "col": 6,
       "length": 6,
-      "clue": "Günlük dilde Üzgün ya da kederli olarak bilinen kavram",
+      "clue": "Gözleri dalgın, içinde sessiz bir keder taşıyan; hüzünlü görünüşlü.",
       "answer": "MAHZUN"
     },
     {
@@ -193,7 +193,7 @@
       "row": 7,
       "col": 3,
       "length": 4,
-      "clue": "Sözün taşıdığı anlam, içerik",
+      "clue": "Bir sözcüğün ya da cümlenin ardında yatan anlam; içerdiği kavram.",
       "answer": "MANA"
     },
     {
@@ -202,7 +202,7 @@
       "row": 9,
       "col": 1,
       "length": 4,
-      "clue": "Günlük dilde Silahlı kuvvetler olarak bilinen kavram",
+      "clue": "Bir ülkenin savunmasını üstlenen, askerlerden oluşan silahlı kuvvetler.",
       "answer": "ORDU"
     }
   ]

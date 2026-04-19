@@ -133,7 +133,7 @@
       "row": 0,
       "col": 4,
       "length": 4,
-      "clue": "Çözüm yolu anlamına gelen sözcük",
+      "clue": "Sıkıntılı ya da zor bir durumu ortadan kaldıracak çözüm yolu.",
       "answer": "ÇARE"
     },
     {
@@ -142,7 +142,7 @@
       "row": 0,
       "col": 7,
       "length": 6,
-      "clue": "Günlük dilde Kürekli tekne olarak bilinen kavram",
+      "clue": "İnsan ya da kürek gücüyle suda yol alan küçük açık deniz teknesi.",
       "answer": "SANDAL"
     },
     {
@@ -151,7 +151,7 @@
       "row": 1,
       "col": 3,
       "length": 5,
-      "clue": "Ekin alanı anlamına gelen sözcük",
+      "clue": "Üzerinde buğday, arpa ya da sebze yetiştirilen sürülmüş geniş toprak.",
       "answer": "TARLA"
     },
     {
@@ -160,7 +160,7 @@
       "row": 1,
       "col": 9,
       "length": 3,
-      "clue": "Omuz örtüsü anlamına gelen sözcük",
+      "clue": "Omuzlara atılan ya da başa örtülen, yumuşak geniş kumaş parçası.",
       "answer": "ŞAL"
     },
     {
@@ -169,7 +169,7 @@
       "row": 3,
       "col": 0,
       "length": 6,
-      "clue": "Konular listesi için kullanılan yaygın ifade",
+      "clue": "Bir toplantıda ya da günde ele alınacak konuların sıralı listesi.",
       "answer": "GÜNDEM"
     },
     {
@@ -178,7 +178,7 @@
       "row": 3,
       "col": 3,
       "length": 4,
-      "clue": "Müzikle hareket karşılığı olarak kullanılan kelime",
+      "clue": "Müziğin ritmine uyarak, düzenli vücut hareketleriyle yapılan sanatsal eylem.",
       "answer": "DANS"
     },
     {
@@ -187,7 +187,7 @@
       "row": 3,
       "col": 7,
       "length": 3,
-      "clue": "Konuşma organı anlamına gelen sözcük",
+      "clue": "Ağız içindeki kaslı organ; aynı zamanda insanların konuşarak anlaştığı sistem.",
       "answer": "DİL"
     },
     {
@@ -196,7 +196,7 @@
       "row": 5,
       "col": 1,
       "length": 3,
-      "clue": "Günlük dilde Buz tutma olarak bilinen kavram",
+      "clue": "Havanın ısısının düşmesiyle suların yüzeyde buz tutması olayı.",
       "answer": "DON"
     },
     {
@@ -205,7 +205,7 @@
       "row": 5,
       "col": 5,
       "length": 5,
-      "clue": "Bulmacada Suyla ıslanmış karşılığını veren yanıt",
+      "clue": "Su veya başka bir sıvıyla temas edip kurumamış olan nemli yüzey.",
       "answer": "ISLAK"
     },
     {
@@ -214,7 +214,7 @@
       "row": 5,
       "col": 8,
       "length": 5,
-      "clue": "Harita kitabı karşılığı olarak kullanılan kelime",
+      "clue": "Dünyanın farklı bölgelerini gösteren haritaların toplandığı büyük kitap.",
       "answer": "ATLAS"
     }
   ]

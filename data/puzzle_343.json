@@ -134,7 +134,7 @@
       "row": 0,
       "col": 6,
       "length": 5,
-      "clue": "Suda yaşayan canlı karşılığı olarak kullanılan kelime",
+      "clue": "Suda yaşayan, solungaçlarıyla soluyan, yüzgeçleriyle hareket eden canlı.",
       "answer": "BALIK"
     },
     {
@@ -143,7 +143,7 @@
       "row": 0,
       "col": 8,
       "length": 4,
-      "clue": "Günlük dilde Felaket ya da kötülük olarak bilinen kavram",
+      "clue": "İnsanın başına habersizce gelen ağır dert, büyük sıkıntı ya da musibet.",
       "answer": "BELA"
     },
     {
@@ -152,7 +152,7 @@
       "row": 1,
       "col": 5,
       "length": 4,
-      "clue": "Amaç ya da maksat için kullanılan yaygın ifade",
+      "clue": "Bir işe girişirken göz önünde tutulan, ulaşılmak istenen son hedef.",
       "answer": "GAYE"
     },
     {
@@ -161,7 +161,7 @@
       "row": 4,
       "col": 3,
       "length": 4,
-      "clue": "Havada uçan taşıt karşılığı olarak kullanılan kelime",
+      "clue": "Kanatları sayesinde havalanıp gökyüzünde uçan motorlu büyük taşıt.",
       "answer": "UÇAK"
     },
     {
@@ -170,7 +170,7 @@
       "row": 4,
       "col": 5,
       "length": 4,
-      "clue": "Günlük dilde Düşünme yetisi olarak bilinen kavram",
+      "clue": "İnsanın düşünmesini, anlamasını ve karar vermesini sağlayan zihinsel yeti.",
       "answer": "AKIL"
     },
     {
@@ -179,7 +179,7 @@
       "row": 6,
       "col": 3,
       "length": 3,
-      "clue": "Günlük dilde Bal yapan böcek olarak bilinen kavram",
+      "clue": "Çiçeklerden topladığı nektarı bala dönüştüren, iğneli küçük böcek.",
       "answer": "ARI"
     },
     {
@@ -188,7 +188,7 @@
       "row": 6,
       "col": 3,
       "length": 4,
-      "clue": "Gerçek ya da hakiki için kullanılan yaygın ifade",
+      "clue": "Sahte ya da taklit olmayan; bir şeyin gerçek ve temel olan hali.",
       "answer": "ASIL"
     },
     {
@@ -197,7 +197,7 @@
       "row": 7,
       "col": 1,
       "length": 4,
-      "clue": "Talih ya da şans için kullanılan yaygın ifade",
+      "clue": "İnsanın başına gelenleri belirlediğine inanılan şans, talih ya da kader.",
       "answer": "BAHT"
     },
     {
@@ -206,7 +206,7 @@
       "row": 8,
       "col": 0,
       "length": 4,
-      "clue": "Bulmacada Yazılmış metin karşılığını veren yanıt",
+      "clue": "Kalemin kâğıda bıraktığı; harflerden oluşan okunabilir işaretler.",
       "answer": "YAZI"
     },
     {
@@ -215,7 +215,7 @@
       "row": 10,
       "col": 0,
       "length": 4,
-      "clue": "Bulmacada Konaklama yeri karşılığını veren yanıt",
+      "clue": "Yolcuların ücret karşılığı geceyi geçirdiği, odaları olan konaklama işletmesi.",
       "answer": "OTEL"
     }
   ]

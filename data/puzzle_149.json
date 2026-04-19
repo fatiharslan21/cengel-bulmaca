@@ -156,7 +156,7 @@
       "row": 0,
       "col": 1,
       "length": 4,
-      "clue": "Ses birimi için kullanılan yaygın ifade",
+      "clue": "Bir kelimeyi bir nefeste söyleyebildiğimiz en küçük ses birimi.",
       "answer": "HECE"
     },
     {
@@ -165,7 +165,7 @@
       "row": 1,
       "col": 1,
       "length": 4,
-      "clue": "Kullanılan nesneler anlamına gelen sözcük",
+      "clue": "Evde ya da iş yerinde gündelik hayatta kullanılan nesnelerin tümü.",
       "answer": "EŞYA"
     },
     {
@@ -174,7 +174,7 @@
       "row": 1,
       "col": 4,
       "length": 3,
-      "clue": "Hatıra ya da geçmiş olay karşılığı olarak kullanılan kelime",
+      "clue": "Geçmişte yaşanmış ve zihinde iz bırakmış olayların hatırlanması.",
       "answer": "ANI"
     },
     {
@@ -183,7 +183,7 @@
       "row": 1,
       "col": 8,
       "length": 4,
-      "clue": "Talih ya da baht karşılığı olarak kullanılan kelime",
+      "clue": "İnsana gülen talih; iyi bir sonucun tesadüfen kısmet olması hali.",
       "answer": "ŞANS"
     },
     {
@@ -192,7 +192,7 @@
       "row": 2,
       "col": 4,
       "length": 5,
-      "clue": "En küçük işaret için kullanılan yaygın ifade",
+      "clue": "Bir cümlenin sonuna konan en küçük yazı işareti; konumun kendisi.",
       "answer": "NOKTA"
     },
     {
@@ -201,7 +201,7 @@
       "row": 3,
       "col": 0,
       "length": 3,
-      "clue": "Günlük dilde Lider ya da baş aşçı olarak bilinen kavram",
+      "clue": "Bir ekibin başında bulunup işleri yöneten kişi; mutfağın baş aşçısı.",
       "answer": "ŞEF"
     },
     {
@@ -210,7 +210,7 @@
       "row": 4,
       "col": 6,
       "length": 5,
-      "clue": "Sayısal işlem karşılığı olarak kullanılan kelime",
+      "clue": "Sayılarla yapılan dört işlem; gelir ve giderin tutulduğu kayıt.",
       "answer": "HESAP"
     },
     {
@@ -219,7 +219,7 @@
       "row": 4,
       "col": 6,
       "length": 3,
-      "clue": "Bulmacada Asla ya da kesinlikle hayır karşılığını veren yanıt",
+      "clue": "Olumsuzluğu pekiştiren söz; asla ve kesinlikle bulunmama durumu.",
       "answer": "HİÇ"
     },
     {
@@ -228,7 +228,7 @@
       "row": 6,
       "col": 6,
       "length": 5,
-      "clue": "Bulmacada Bitkinin renkli kısmı karşılığını veren yanıt",
+      "clue": "Bitkinin üreme organı; genellikle göz alıcı renkleri ve kokusu olan kısım.",
       "answer": "ÇİÇEK"
     },
     {
@@ -237,7 +237,7 @@
       "row": 6,
       "col": 10,
       "length": 5,
-      "clue": "İple oynatılan karşılığı olarak kullanılan kelime",
+      "clue": "İp ya da parmaklarla oynatılan, tiyatro sahnesinde canlanan figürlü bebek.",
       "answer": "KUKLA"
     }
   ]

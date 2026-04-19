@@ -117,7 +117,7 @@
       "row": 0,
       "col": 0,
       "length": 4,
-      "clue": "Düz ince levha anlamına gelen sözcük",
+      "clue": "İnce mukavvadan yapılmış, üzerine yazı yazılan ya da baskı yapılan levha.",
       "answer": "KART"
     },
     {
@@ -126,7 +126,7 @@
       "row": 0,
       "col": 8,
       "length": 3,
-      "clue": "Günlük dilde Sağın karşıtı olarak bilinen kavram",
+      "clue": "Kalbin bulunduğu taraf; sağın tam karşıtı olan yön.",
       "answer": "SOL"
     },
     {
@@ -135,7 +135,7 @@
       "row": 0,
       "col": 10,
       "length": 4,
-      "clue": "Görkemli yapı karşılığı olarak kullanılan kelime",
+      "clue": "Ortaçağ Avrupası'nda soyluların yaşadığı kuleli, büyük taştan yapılı konak.",
       "answer": "ŞATO"
     },
     {
@@ -144,7 +144,7 @@
       "row": 1,
       "col": 3,
       "length": 4,
-      "clue": "Amaç ya da maksat için kullanılan yaygın ifade",
+      "clue": "Bir işe girişirken göz önünde tutulan, ulaşılmak istenen son hedef.",
       "answer": "GAYE"
     },
     {
@@ -153,7 +153,7 @@
       "row": 2,
       "col": 0,
       "length": 4,
-      "clue": "Uykuda hayal karşılığı olarak kullanılan kelime",
+      "clue": "Uykuda iken zihnin sahneler halinde canlandırdığı renkli görüntüler.",
       "answer": "RÜYA"
     },
     {
@@ -162,7 +162,7 @@
       "row": 2,
       "col": 6,
       "length": 5,
-      "clue": "Günlük dilde Gökyüzü su kümeleri olarak bilinen kavram",
+      "clue": "Gökyüzünde süzülen, su buharının yoğunlaşmasıyla oluşan beyaz küme.",
       "answer": "BULUT"
     },
     {
@@ -171,7 +171,7 @@
       "row": 2,
       "col": 6,
       "length": 6,
-      "clue": "Bina çıkıntısı karşılığı olarak kullanılan kelime",
+      "clue": "Bir binanın üst katlarından dışarı uzanan, parmaklıkla çevrili çıkıntı.",
       "answer": "BALKON"
     },
     {
@@ -180,7 +180,7 @@
       "row": 4,
       "col": 2,
       "length": 5,
-      "clue": "Bulmacada Yok olma karşılığını veren yanıt",
+      "clue": "Varlığı yerinde durmayıp sona ermesi; yokluğa geçme hali.",
       "answer": "ZEVAL"
     },
     {
@@ -189,7 +189,7 @@
       "row": 4,
       "col": 9,
       "length": 4,
-      "clue": "Talih ya da şans için kullanılan yaygın ifade",
+      "clue": "İnsanın başına gelenleri belirlediğine inanılan şans, talih ya da kader.",
       "answer": "BAHT"
     },
     {
@@ -198,7 +198,7 @@
       "row": 5,
       "col": 6,
       "length": 4,
-      "clue": "Siyah renk karşılığı olarak kullanılan kelime",
+      "clue": "Beyazın tam zıttı olan, gölgeleri bile koyulaştıran siyah ton.",
       "answer": "KARA"
     }
   ]

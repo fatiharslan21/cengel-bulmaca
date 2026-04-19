@@ -109,7 +109,7 @@
       "row": 0,
       "col": 3,
       "length": 5,
-      "clue": "Bulmacada Bitkinin renkli kısmı karşılığını veren yanıt",
+      "clue": "Bitkinin üreme organı; genellikle göz alıcı renkleri ve kokusu olan kısım.",
       "answer": "ÇİÇEK"
     },
     {
@@ -118,7 +118,7 @@
       "row": 0,
       "col": 5,
       "length": 3,
-      "clue": "Bulmacada Hekimlik bilimi karşılığını veren yanıt",
+      "clue": "Hastalıkların tanısı ve iyileştirilmesiyle uğraşan hekimlik bilim dalı.",
       "answer": "TIP"
     },
     {
@@ -127,7 +127,7 @@
       "row": 1,
       "col": 5,
       "length": 5,
-      "clue": "Bulmacada Suyla ıslanmış karşılığını veren yanıt",
+      "clue": "Su veya başka bir sıvıyla temas edip kurumamış olan nemli yüzey.",
       "answer": "ISLAK"
     },
     {
@@ -136,7 +136,7 @@
       "row": 1,
       "col": 8,
       "length": 3,
-      "clue": "Bulmacada Koruyucu ilaç karşılığını veren yanıt",
+      "clue": "Bir hastalığa karşı bağışıklık kazandırmak için vücuda verilen ilaç.",
       "answer": "AŞI"
     },
     {
@@ -145,7 +145,7 @@
       "row": 2,
       "col": 1,
       "length": 4,
-      "clue": "Düz ince levha anlamına gelen sözcük",
+      "clue": "İnce mukavvadan yapılmış, üzerine yazı yazılan ya da baskı yapılan levha.",
       "answer": "KART"
     },
     {
@@ -154,7 +154,7 @@
       "row": 2,
       "col": 3,
       "length": 3,
-      "clue": "Dairenin merkezinden geçen doğru parçası",
+      "clue": "Bir çemberin merkezinden geçerek onu iki eşit yaya bölen doğru parça.",
       "answer": "ÇAP"
     },
     {
@@ -163,7 +163,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "Bulmacada Bayat olmayan karşılığını veren yanıt",
+      "clue": "Yeni toplanmış, bayatlamamış; canlılığını yeni yeni yitirmemiş olan.",
       "answer": "TAZE"
     },
     {
@@ -172,7 +172,7 @@
       "row": 3,
       "col": 6,
       "length": 4,
-      "clue": "Günlük dilde Düşünme yetisi olarak bilinen kavram",
+      "clue": "İnsanın düşünmesini, anlamasını ve karar vermesini sağlayan zihinsel yeti.",
       "answer": "AKIL"
     },
     {
@@ -181,7 +181,7 @@
       "row": 4,
       "col": 3,
       "length": 3,
-      "clue": "Yanık kalıntısı için kullanılan yaygın ifade",
+      "clue": "Bir şeyin yanıp bitmesinin ardından geriye kalan kurumuş toz madde.",
       "answer": "KÜL"
     },
     {
@@ -190,7 +190,7 @@
       "row": 4,
       "col": 5,
       "length": 4,
-      "clue": "Günlük dilde Türk parası olarak bilinen kavram",
+      "clue": "Türkiye Cumhuriyeti'nin resmi para birimi; TL kısaltmasıyla yazılan değer.",
       "answer": "LİRA"
     }
   ]

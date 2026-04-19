@@ -101,7 +101,7 @@
       "row": 0,
       "col": 2,
       "length": 5,
-      "clue": "Amaç ya da arzu anlamına gelen sözcük",
+      "clue": "Gönülde beslenen amaç; ulaşılmak istenen iç istek.",
       "answer": "MERAM"
     },
     {
@@ -110,7 +110,7 @@
       "row": 1,
       "col": 1,
       "length": 3,
-      "clue": "Bulmacada Rüzgar ya da esinti karşılığını veren yanıt",
+      "clue": "Havanın bir yönden diğerine doğru hissedilebilir akışı; rüzgâr.",
       "answer": "YEL"
     },
     {
@@ -119,7 +119,7 @@
       "row": 1,
       "col": 6,
       "length": 4,
-      "clue": "Bulmacada İnanç karşılığını veren yanıt",
+      "clue": "Din esaslarına yürekten bağlanma; kalben kabul edip inanma hali.",
       "answer": "İMAN"
     },
     {
@@ -128,7 +128,7 @@
       "row": 2,
       "col": 0,
       "length": 5,
-      "clue": "Bulmacada Şans ya da baht karşılığını veren yanıt",
+      "clue": "İnsanın ömür boyu karşılaştığı iyi ya da kötü raslantıların tümü; baht.",
       "answer": "TALİH"
     },
     {
@@ -137,7 +137,7 @@
       "row": 2,
       "col": 8,
       "length": 6,
-      "clue": "İçecek kabı anlamına gelen sözcük",
+      "clue": "Su, çay ya da başka içecekleri içmek için kullanılan küçük kap.",
       "answer": "BARDAK"
     },
     {
@@ -146,7 +146,7 @@
       "row": 3,
       "col": 0,
       "length": 3,
-      "clue": "Elin iç kısmı anlamına gelen sözcük",
+      "clue": "Elin iç tarafı; parmakların bittiği yerden bileğe kadar uzanan bölüm.",
       "answer": "AYA"
     },
     {
@@ -155,7 +155,7 @@
       "row": 3,
       "col": 4,
       "length": 5,
-      "clue": "Bulmacada Talih ya da yükselme karşılığını veren yanıt",
+      "clue": "Hayatta yükselme, talih kuşunun başa konması; mevki sahibi olma.",
       "answer": "İKBAL"
     },
     {
@@ -164,7 +164,7 @@
       "row": 3,
       "col": 6,
       "length": 3,
-      "clue": "Günlük dilde Ced ya da büyükbaba olarak bilinen kavram",
+      "clue": "Soyun büyüklerinden sayılan dede ya da daha öncesinden gelen büyük.",
       "answer": "ATA"
     },
     {
@@ -173,7 +173,7 @@
       "row": 4,
       "col": 2,
       "length": 5,
-      "clue": "Yer ya da mahal anlamına gelen sözcük",
+      "clue": "Bir olayın geçtiği ya da bir şeyin bulunduğu belirli yer; mahal.",
       "answer": "MEKAN"
     },
     {
@@ -182,7 +182,7 @@
       "row": 6,
       "col": 3,
       "length": 4,
-      "clue": "Bulmacada Mutlaka yapılması gereken karşılığını veren yanıt",
+      "clue": "Dinde kesinlikle yerine getirilmesi emredilen, zorunlu olan yükümlülük.",
       "answer": "FARZ"
     }
   ]

@@ -157,7 +157,7 @@
       "row": 0,
       "col": 9,
       "length": 4,
-      "clue": "Altın rengi için kullanılan yaygın ifade",
+      "clue": "Limon ve altın tonlarında olan, güneşi çağrıştıran canlı sıcak renk.",
       "answer": "SARI"
     },
     {
@@ -166,7 +166,7 @@
       "row": 1,
       "col": 5,
       "length": 4,
-      "clue": "Miyavlayan evcil anlamına gelen sözcük",
+      "clue": "Miyavlayarak seslenen, pençeleri keskin, evlerde beslenen tüylü memeli hayvan.",
       "answer": "KEDİ"
     },
     {
@@ -175,7 +175,7 @@
       "row": 2,
       "col": 4,
       "length": 6,
-      "clue": "Daire çevresi anlamına gelen sözcük",
+      "clue": "Bir merkezden eşit uzaklıktaki noktaların oluşturduğu kapalı eğri.",
       "answer": "ÇEMBER"
     },
     {
@@ -184,7 +184,7 @@
       "row": 3,
       "col": 1,
       "length": 4,
-      "clue": "İnsanların yaşadığı veya çalıştığı yapı",
+      "clue": "İnsanların içinde oturduğu ya da çalıştığı, taş ve betondan yapılmış yapı.",
       "answer": "BİNA"
     },
     {
@@ -193,7 +193,7 @@
       "row": 3,
       "col": 1,
       "length": 3,
-      "clue": "Günlük dilde İçi dolu olmayan olarak bilinen kavram",
+      "clue": "İçinde hiçbir şey bulunmayan, doluluğu olmayan kap ya da mekân.",
       "answer": "BOŞ"
     },
     {
@@ -202,7 +202,7 @@
       "row": 4,
       "col": 4,
       "length": 3,
-      "clue": "On yüzlük sayı anlamına gelen sözcük",
+      "clue": "Yüzlerin onunun bir araya gelmesiyle oluşan dört basamaklı sayı.",
       "answer": "BİN"
     },
     {
@@ -211,7 +211,7 @@
       "row": 4,
       "col": 4,
       "length": 3,
-      "clue": "Çok miktarda karşılığı olarak kullanılan kelime",
+      "clue": "Yeteri kadarının üstünde, çokça bulunan; dar sözcüğünün zıttı sayılan.",
       "answer": "BOL"
     },
     {
@@ -220,7 +220,7 @@
       "row": 6,
       "col": 0,
       "length": 5,
-      "clue": "Günlük dilde Gerçek olmayan düş olarak bilinen kavram",
+      "clue": "Zihinde canlandırılan, gerçekleşmesi beklenen ya da umulan görüntü.",
       "answer": "HAYAL"
     },
     {
@@ -229,7 +229,7 @@
       "row": 6,
       "col": 0,
       "length": 6,
-      "clue": "Günlük dilde Anlatılan olay olarak bilinen kavram",
+      "clue": "Başı, ortası ve sonu olan; yaşanmış ya da kurmaca kısa anlatı.",
       "answer": "HİKAYE"
     },
     {
@@ -238,7 +238,7 @@
       "row": 6,
       "col": 3,
       "length": 4,
-      "clue": "Günlük dilde Bacak ucu olarak bilinen kavram",
+      "clue": "Bacağın bileğinden aşağısı; üzerine basarak yürümemizi sağlayan uzuv.",
       "answer": "AYAK"
     }
   ]

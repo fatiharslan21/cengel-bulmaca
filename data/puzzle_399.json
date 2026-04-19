@@ -139,7 +139,7 @@
       "row": 0,
       "col": 9,
       "length": 5,
-      "clue": "Büyük oda için kullanılan yaygın ifade",
+      "clue": "Evin misafir ağırlanan en büyük odası ya da toplantı yapılan geniş mekân.",
       "answer": "SALON"
     },
     {
@@ -148,7 +148,7 @@
       "row": 1,
       "col": 8,
       "length": 4,
-      "clue": "Günlük dilde Yeşil alan olarak bilinen kavram",
+      "clue": "Şehir içinde insanların dinlenip yürüdüğü, ağaçlıklı kamusal yeşil alan.",
       "answer": "PARK"
     },
     {
@@ -157,7 +157,7 @@
       "row": 1,
       "col": 11,
       "length": 5,
-      "clue": "Bulmacada Üzüntü karşılığını veren yanıt",
+      "clue": "İnsanın içini burkan, uzun süre geçmeyen derin üzüntü hali.",
       "answer": "KEDER"
     },
     {
@@ -166,7 +166,7 @@
       "row": 4,
       "col": 4,
       "length": 5,
-      "clue": "Günlük dilde Esin ya da sezgi olarak bilinen kavram",
+      "clue": "Sanatçının ya da düşünürün içine birden doğan yaratıcı esin kaynağı.",
       "answer": "İLHAM"
     },
     {
@@ -175,7 +175,7 @@
       "row": 4,
       "col": 6,
       "length": 4,
-      "clue": "Sayısal değer için kullanılan yaygın ifade",
+      "clue": "Bir sınavda ya da yarışmada başarıya göre verilen sayısal değerlendirme.",
       "answer": "PUAN"
     },
     {
@@ -184,7 +184,7 @@
       "row": 4,
       "col": 8,
       "length": 3,
-      "clue": "Tek renk olmayan, benekli görünüm",
+      "clue": "Birden çok rengin bir arada bulunduğu, benekli ya da karışık görünüm.",
       "answer": "ALA"
     },
     {
@@ -193,7 +193,7 @@
       "row": 5,
       "col": 0,
       "length": 5,
-      "clue": "Bulmacada Yok olma karşılığını veren yanıt",
+      "clue": "Varlığı yerinde durmayıp sona ermesi; yokluğa geçme hali.",
       "answer": "ZEVAL"
     },
     {
@@ -202,7 +202,7 @@
       "row": 6,
       "col": 4,
       "length": 6,
-      "clue": "Ayrılık acısı için kullanılan yaygın ifade",
+      "clue": "Sevgiliden uzak düşmenin yürekte açtığı derin ayrılık acısı.",
       "answer": "HİCRAN"
     },
     {
@@ -211,7 +211,7 @@
       "row": 7,
       "col": 1,
       "length": 4,
-      "clue": "Günlük dilde Renk veren madde olarak bilinen kavram",
+      "clue": "Bir yüzeye sürüldüğünde ona istenilen rengi veren sıvı ya da toz madde.",
       "answer": "BOYA"
     },
     {
@@ -220,7 +220,7 @@
       "row": 8,
       "col": 4,
       "length": 6,
-      "clue": "Günlük dilde Üzgün ya da kederli olarak bilinen kavram",
+      "clue": "Gözleri dalgın, içinde sessiz bir keder taşıyan; hüzünlü görünüşlü.",
       "answer": "MAHZUN"
     }
   ]

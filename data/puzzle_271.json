@@ -133,7 +133,7 @@
       "row": 0,
       "col": 4,
       "length": 5,
-      "clue": "Bulmacada Şans ya da baht karşılığını veren yanıt",
+      "clue": "İnsanın ömür boyu karşılaştığı iyi ya da kötü raslantıların tümü; baht.",
       "answer": "TALİH"
     },
     {
@@ -142,7 +142,7 @@
       "row": 2,
       "col": 1,
       "length": 6,
-      "clue": "Günlük dilde Anlatılan olay olarak bilinen kavram",
+      "clue": "Başı, ortası ve sonu olan; yaşanmış ya da kurmaca kısa anlatı.",
       "answer": "HİKAYE"
     },
     {
@@ -151,7 +151,7 @@
       "row": 3,
       "col": 0,
       "length": 5,
-      "clue": "Bulmacada Öğrenilen her şey karşılığını veren yanıt",
+      "clue": "Okuyarak, yaşayarak ya da öğrenerek elde edilen her türlü öğrenim ürünü.",
       "answer": "BİLGİ"
     },
     {
@@ -160,7 +160,7 @@
       "row": 4,
       "col": 4,
       "length": 4,
-      "clue": "Solunan gaz anlamına gelen sözcük",
+      "clue": "Atmosferi oluşturan, canlıların soluduğu renksiz ve kokusuz gaz karışımı.",
       "answer": "HAVA"
     },
     {
@@ -169,7 +169,7 @@
       "row": 5,
       "col": 0,
       "length": 3,
-      "clue": "Günlük dilde Ün ya da şöhret olarak bilinen kavram",
+      "clue": "Yaptıklarıyla uzaklarda bile tanınıp bilinir olmanın verdiği büyük ün.",
       "answer": "ŞAN"
     },
     {
@@ -178,7 +178,7 @@
       "row": 6,
       "col": 4,
       "length": 5,
-      "clue": "Bolluk ya da huzur için kullanılan yaygın ifade",
+      "clue": "Geçim sıkıntısı çekmeden, bolluk içinde sürdürülen rahat ve huzurlu yaşam.",
       "answer": "REFAH"
     },
     {
@@ -187,7 +187,7 @@
       "row": 7,
       "col": 0,
       "length": 5,
-      "clue": "Günlük dilde Bitkinin ürünü olarak bilinen kavram",
+      "clue": "Bitkinin çiçeğinin olgunlaşmasıyla oluşan, genellikle yenilebilir ürün.",
       "answer": "MEYVE"
     },
     {
@@ -196,7 +196,7 @@
       "row": 7,
       "col": 0,
       "length": 5,
-      "clue": "Kabir için kullanılan yaygın ifade",
+      "clue": "Ölünün toprağa verildiği, başında taş bulunan defin yeri; kabir.",
       "answer": "MEZAR"
     },
     {
@@ -205,7 +205,7 @@
       "row": 7,
       "col": 7,
       "length": 3,
-      "clue": "Derin uçurum ya da dik çatlak",
+      "clue": "Derin ve dik uçurum; aynı zamanda sevilen kişi için kullanılan şiirsel ad.",
       "answer": "YAR"
     },
     {
@@ -214,7 +214,7 @@
       "row": 9,
       "col": 3,
       "length": 5,
-      "clue": "Bulmacada Katlanma ya da dayanma karşılığını veren yanıt",
+      "clue": "Zorluklara dayanıp isyan etmeden bekleyebilme; hoşgörü ile katlanma.",
       "answer": "SABIR"
     }
   ]

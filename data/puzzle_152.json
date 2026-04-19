@@ -111,7 +111,7 @@
       "row": 0,
       "col": 3,
       "length": 3,
-      "clue": "Bulmacada Hekimlik bilimi karşılığını veren yanıt",
+      "clue": "Hastalıkların tanısı ve iyileştirilmesiyle uğraşan hekimlik bilim dalı.",
       "answer": "TIP"
     },
     {
@@ -120,7 +120,7 @@
       "row": 0,
       "col": 5,
       "length": 3,
-      "clue": "Posta gönderilerinin üzerine yapıştırılan değer etiketi",
+      "clue": "Mektupların üzerine yapıştırılan, postanın ücretini belgeleyen küçük kâğıt.",
       "answer": "PUL"
     },
     {
@@ -129,7 +129,7 @@
       "row": 0,
       "col": 7,
       "length": 4,
-      "clue": "Ayrım ya da değişiklik anlamına gelen sözcük",
+      "clue": "İki şeyin birbirinden ayrıldığı yön; aralarındaki benzemezlik.",
       "answer": "FARK"
     },
     {
@@ -138,7 +138,7 @@
       "row": 1,
       "col": 5,
       "length": 4,
-      "clue": "Havada uçan taşıt karşılığı olarak kullanılan kelime",
+      "clue": "Kanatları sayesinde havalanıp gökyüzünde uçan motorlu büyük taşıt.",
       "answer": "UÇAK"
     },
     {
@@ -147,7 +147,7 @@
       "row": 2,
       "col": 3,
       "length": 3,
-      "clue": "Günlük dilde Sağın karşıtı olarak bilinen kavram",
+      "clue": "Kalbin bulunduğu taraf; sağın tam karşıtı olan yön.",
       "answer": "SOL"
     },
     {
@@ -156,7 +156,7 @@
       "row": 2,
       "col": 3,
       "length": 4,
-      "clue": "Bulmacada Rakam ifadesi karşılığını veren yanıt",
+      "clue": "Bir miktarı ya da sırayı belirten; rakamlarla yazılan matematik kavramı.",
       "answer": "SAYI"
     },
     {
@@ -165,7 +165,7 @@
       "row": 2,
       "col": 9,
       "length": 5,
-      "clue": "Vaktinden önce karşılığı olarak kullanılan kelime",
+      "clue": "Belirlenen vaktin öncesinde gelme; geç kalmanın tersi durumu.",
       "answer": "ERKEN"
     },
     {
@@ -174,7 +174,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "Solunan gaz anlamına gelen sözcük",
+      "clue": "Atmosferi oluşturan, canlıların soluduğu renksiz ve kokusuz gaz karışımı.",
       "answer": "HAVA"
     },
     {
@@ -183,7 +183,7 @@
       "row": 3,
       "col": 7,
       "length": 3,
-      "clue": "Günlük dilde Ateş közü olarak bilinen kavram",
+      "clue": "Alevi sönmüş ama sıcaklığı ve kızıllığı süren yanmakta olan parça.",
       "answer": "KOR"
     },
     {
@@ -192,7 +192,7 @@
       "row": 4,
       "col": 9,
       "length": 3,
-      "clue": "Yanık kalıntısı için kullanılan yaygın ifade",
+      "clue": "Bir şeyin yanıp bitmesinin ardından geriye kalan kurumuş toz madde.",
       "answer": "KÜL"
     }
   ]

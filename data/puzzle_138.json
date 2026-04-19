@@ -123,7 +123,7 @@
       "row": 0,
       "col": 5,
       "length": 5,
-      "clue": "Ani vuruş anlamına gelen sözcük",
+      "clue": "Ani ve sert bir hareketle yapılan vuruş; çarpma sonucu alınan sarsıntı.",
       "answer": "DARBE"
     },
     {
@@ -132,7 +132,7 @@
       "row": 1,
       "col": 4,
       "length": 3,
-      "clue": "Bulmacada Gitme ya da burada dur karşılığını veren yanıt",
+      "clue": "Gitme, olduğun yerde dur; git sözcüğünün tam karşıtı olan emir.",
       "answer": "KAL"
     },
     {
@@ -141,7 +141,7 @@
       "row": 3,
       "col": 2,
       "length": 6,
-      "clue": "Bulmacada Toplu taşıma karşılığını veren yanıt",
+      "clue": "Şehir içinde ya da dışında birçok yolcuyu bir arada taşıyan büyük araç.",
       "answer": "OTOBÜS"
     },
     {
@@ -150,7 +150,7 @@
       "row": 3,
       "col": 3,
       "length": 4,
-      "clue": "Bulmacada Küçük yükselti karşılığını veren yanıt",
+      "clue": "Dağdan daha alçak, çevresine göre yüksek görünen küçük yükselti.",
       "answer": "TEPE"
     },
     {
@@ -159,7 +159,7 @@
       "row": 6,
       "col": 2,
       "length": 4,
-      "clue": "Günlük dilde Sıkıntı ya da üzüntü olarak bilinen kavram",
+      "clue": "İnsanı üzen, iç sıkıntısı veren; uzun süre geçmeyen tasa ve keder.",
       "answer": "DERT"
     },
     {
@@ -168,7 +168,7 @@
       "row": 6,
       "col": 2,
       "length": 4,
-      "clue": "Bulmacada Yakın arkadaş karşılığını veren yanıt",
+      "clue": "Kötü günde de yanında olan, gönülden sevilen yakın arkadaş.",
       "answer": "DOST"
     },
     {
@@ -177,7 +177,7 @@
       "row": 7,
       "col": 6,
       "length": 4,
-      "clue": "Ev ya da konut karşılığı olarak kullanılan kelime",
+      "clue": "Bir ailenin oturduğu ev; aynı zamanda sayıdaki basamak anlamı taşır.",
       "answer": "HANE"
     },
     {
@@ -186,7 +186,7 @@
       "row": 8,
       "col": 4,
       "length": 3,
-      "clue": "Hatıra ya da geçmiş olay karşılığı olarak kullanılan kelime",
+      "clue": "Geçmişte yaşanmış ve zihinde iz bırakmış olayların hatırlanması.",
       "answer": "ANI"
     },
     {
@@ -195,7 +195,7 @@
       "row": 8,
       "col": 4,
       "length": 3,
-      "clue": "Günlük dilde Toprak sahibi olarak bilinen kavram",
+      "clue": "Eskiden köylerde geniş topraklara sahip, sözü geçen nüfuzlu kişi.",
       "answer": "AĞA"
     },
     {
@@ -204,7 +204,7 @@
       "row": 9,
       "col": 0,
       "length": 5,
-      "clue": "Bulmacada Yurt ya da memleket karşılığını veren yanıt",
+      "clue": "Bir milletin üzerinde yaşayıp kendine yurt bildiği ata toprağı.",
       "answer": "VATAN"
     }
   ]

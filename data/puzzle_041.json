@@ -85,7 +85,7 @@
       "row": 0,
       "col": 6,
       "length": 3,
-      "clue": "Bulmacada Kuvvet ya da enerji karşılığını veren yanıt",
+      "clue": "Bir işi yapabilme yeteneği; fiziksel ya da manevi olarak sahip olunan kuvvet.",
       "answer": "GÜÇ"
     },
     {
@@ -94,7 +94,7 @@
       "row": 2,
       "col": 4,
       "length": 3,
-      "clue": "Ses çıkaran metal karşılığı olarak kullanılan kelime",
+      "clue": "İçindeki dilin sallanmasıyla ses çıkaran, koni biçimli madeni araç.",
       "answer": "ÇAN"
     },
     {
@@ -103,7 +103,7 @@
       "row": 2,
       "col": 4,
       "length": 5,
-      "clue": "Bulmacada Bitkinin renkli kısmı karşılığını veren yanıt",
+      "clue": "Bitkinin üreme organı; genellikle göz alıcı renkleri ve kokusu olan kısım.",
       "answer": "ÇİÇEK"
     },
     {
@@ -112,7 +112,7 @@
       "row": 2,
       "col": 8,
       "length": 4,
-      "clue": "Çukur yemek kabı anlamına gelen sözcük",
+      "clue": "Çorba, salata ya da yoğurt konulan, yuvarlak ve çukur küçük yemek kabı.",
       "answer": "KASE"
     },
     {
@@ -121,7 +121,7 @@
       "row": 3,
       "col": 0,
       "length": 3,
-      "clue": "Kötünün zıttı karşılığı olarak kullanılan kelime",
+      "clue": "Hoşa giden, yararlı ve olumlu olan; kötünün tam karşıtı olan nitelik.",
       "answer": "İYİ"
     },
     {
@@ -130,7 +130,7 @@
       "row": 3,
       "col": 2,
       "length": 3,
-      "clue": "Bulmacada Üstün karşıtı karşılığını veren yanıt",
+      "clue": "Bir cismin aşağı tarafı; üst sözcüğünün tam karşıtı olan yön.",
       "answer": "ALT"
     },
     {
@@ -139,7 +139,7 @@
       "row": 3,
       "col": 2,
       "length": 3,
-      "clue": "Bulmacada Mesafe ya da açıklık karşılığını veren yanıt",
+      "clue": "İki şeyin birbirinden ayrıldığı boşluk; kısa mola süresi.",
       "answer": "ARA"
     },
     {
@@ -148,7 +148,7 @@
       "row": 4,
       "col": 0,
       "length": 3,
-      "clue": "Bulmacada Rüzgar ya da esinti karşılığını veren yanıt",
+      "clue": "Havanın bir yönden diğerine doğru hissedilebilir akışı; rüzgâr.",
       "answer": "YEL"
     },
     {
@@ -157,7 +157,7 @@
       "row": 5,
       "col": 6,
       "length": 4,
-      "clue": "Günlük dilde Yanan ısı ve ışık olarak bilinen kavram",
+      "clue": "Yanmakta olan bir maddenin çıkardığı ısı, ışık ve alevin tümü.",
       "answer": "ATEŞ"
     }
   ]

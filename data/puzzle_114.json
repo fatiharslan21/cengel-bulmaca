@@ -121,7 +121,7 @@
       "row": 0,
       "col": 3,
       "length": 4,
-      "clue": "Baş ya da kelle için kullanılan yaygın ifade",
+      "clue": "İnsanın boynunun üst kısmında bulunan, düşünmenin merkezi olan baş.",
       "answer": "KAFA"
     },
     {
@@ -130,7 +130,7 @@
       "row": 1,
       "col": 2,
       "length": 4,
-      "clue": "Bulmacada Çiçek süs kabı karşılığını veren yanıt",
+      "clue": "İçine çiçek konulmak üzere yapılmış, ince uzun boyunlu süs kabı.",
       "answer": "VAZO"
     },
     {
@@ -139,7 +139,7 @@
       "row": 2,
       "col": 6,
       "length": 5,
-      "clue": "Tatlı madde için kullanılan yaygın ifade",
+      "clue": "Kamıştan ya da pancardan elde edilen; çay ve tatlılara katılan tatlı madde.",
       "answer": "ŞEKER"
     },
     {
@@ -148,7 +148,7 @@
       "row": 2,
       "col": 6,
       "length": 4,
-      "clue": "Talih ya da baht karşılığı olarak kullanılan kelime",
+      "clue": "İnsana gülen talih; iyi bir sonucun tesadüfen kısmet olması hali.",
       "answer": "ŞANS"
     },
     {
@@ -157,7 +157,7 @@
       "row": 3,
       "col": 2,
       "length": 5,
-      "clue": "Evin yeşil alanı anlamına gelen sözcük",
+      "clue": "Ev ya da yapı yakınında çiçek, sebze ve ağaç yetiştirilen yeşil alan.",
       "answer": "BAHÇE"
     },
     {
@@ -166,7 +166,7 @@
       "row": 3,
       "col": 2,
       "length": 3,
-      "clue": "Arı ürünü tatlı için kullanılan yaygın ifade",
+      "clue": "Arıların çiçeklerden topladığı nektarı işleyerek yaptığı koyu, tatlı gıda.",
       "answer": "BAL"
     },
     {
@@ -175,7 +175,7 @@
       "row": 4,
       "col": 6,
       "length": 3,
-      "clue": "Bulmacada Gitme ya da burada dur karşılığını veren yanıt",
+      "clue": "Gitme, olduğun yerde dur; git sözcüğünün tam karşıtı olan emir.",
       "answer": "KAL"
     },
     {
@@ -184,7 +184,7 @@
       "row": 5,
       "col": 0,
       "length": 3,
-      "clue": "Mülk ya da eşya anlamına gelen sözcük",
+      "clue": "Sahip olunan taşınır ya da taşınmaz değerli eşya; mülk.",
       "answer": "MAL"
     },
     {
@@ -193,7 +193,7 @@
       "row": 5,
       "col": 1,
       "length": 4,
-      "clue": "Ateşin parlak kısmı karşılığı olarak kullanılan kelime",
+      "clue": "Yanan bir şeyin üstünde dalgalanan, sıcak ve parlayan ışıklı kısım.",
       "answer": "ALEV"
     }
   ]

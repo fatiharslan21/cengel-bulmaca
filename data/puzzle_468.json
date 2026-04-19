@@ -156,7 +156,7 @@
       "row": 0,
       "col": 2,
       "length": 4,
-      "clue": "Bulmacada Çiçek süs kabı karşılığını veren yanıt",
+      "clue": "İçine çiçek konulmak üzere yapılmış, ince uzun boyunlu süs kabı.",
       "answer": "VAZO"
     },
     {
@@ -165,7 +165,7 @@
       "row": 0,
       "col": 2,
       "length": 5,
-      "clue": "Bulmacada Zaman ya da süre karşılığını veren yanıt",
+      "clue": "Saniyelerden yıllara uzanan; akıp giden, geri döndürülemeyen zaman.",
       "answer": "VAKİT"
     },
     {
@@ -174,7 +174,7 @@
       "row": 0,
       "col": 9,
       "length": 4,
-      "clue": "Bulmacada Raylı taşıt karşılığını veren yanıt",
+      "clue": "Raylar üzerinde hareket eden, vagonları çeken büyük motorlu araç.",
       "answer": "TREN"
     },
     {
@@ -183,7 +183,7 @@
       "row": 2,
       "col": 4,
       "length": 6,
-      "clue": "Günlük dilde Güç ya da kuvvet olarak bilinen kavram",
+      "clue": "Bir işi yapabilme gücü; insanda ya da doğada bulunan büyük kuvvet.",
       "answer": "KUDRET"
     },
     {
@@ -192,7 +192,7 @@
       "row": 2,
       "col": 4,
       "length": 7,
-      "clue": "Renkli kanatlı böcek karşılığı olarak kullanılan kelime",
+      "clue": "Tırtılken metamorfoz geçirip renkli kanatlara kavuşan zarif böcek.",
       "answer": "KELEBEK"
     },
     {
@@ -201,7 +201,7 @@
       "row": 3,
       "col": 1,
       "length": 4,
-      "clue": "Günlük dilde Sıvı geçen tüp olarak bilinen kavram",
+      "clue": "İçinden su, gaz ya da başka sıvıların geçtiği içi boş uzun silindir.",
       "answer": "BORU"
     },
     {
@@ -210,7 +210,7 @@
       "row": 4,
       "col": 6,
       "length": 4,
-      "clue": "Zaman aralığı için kullanılan yaygın ifade",
+      "clue": "Bir olayın başlangıcı ile sonu arasında geçen zaman aralığı.",
       "answer": "SÜRE"
     },
     {
@@ -219,7 +219,7 @@
       "row": 5,
       "col": 0,
       "length": 6,
-      "clue": "Nasip ya da pay karşılığı olarak kullanılan kelime",
+      "clue": "Kişinin payına düşen; kaderin ona uygun gördüğü nasibi ya da şansı.",
       "answer": "KISMET"
     },
     {
@@ -228,7 +228,7 @@
       "row": 5,
       "col": 3,
       "length": 4,
-      "clue": "Üstünü kapatan karşılığı olarak kullanılan kelime",
+      "clue": "Bir eşyanın ya da yüzeyin üstünü kapatmak için serilen kumaş parçası.",
       "answer": "ÖRTÜ"
     },
     {
@@ -237,7 +237,7 @@
       "row": 7,
       "col": 0,
       "length": 5,
-      "clue": "Düşme ya da sessizlik karşılığı olarak kullanılan kelime",
+      "clue": "Etraf çınlayarak susma; hiçbir ses çıkmayan derin sessizlik.",
       "answer": "SUKUT"
     }
   ]

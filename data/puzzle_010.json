@@ -103,7 +103,7 @@
       "row": 0,
       "col": 5,
       "length": 4,
-      "clue": "Cevap bekleyen karşılığı olarak kullanılan kelime",
+      "clue": "Bilinmeyen bir bilgiyi öğrenmek için karşıya yöneltilen cümle.",
       "answer": "SORU"
     },
     {
@@ -112,7 +112,7 @@
       "row": 1,
       "col": 2,
       "length": 5,
-      "clue": "Bulmacada Uçak kullanan karşılığını veren yanıt",
+      "clue": "Havada uçağı yöneten, onu kalkış ve inişlerde kullanan yetişmiş kişi.",
       "answer": "PİLOT"
     },
     {
@@ -121,7 +121,7 @@
       "row": 1,
       "col": 2,
       "length": 4,
-      "clue": "Bulmacada Yassı ekmek karşılığını veren yanıt",
+      "clue": "Fırında pişirilen, üstüne malzeme serilen, ince ve yassı hamur işi.",
       "answer": "PİDE"
     },
     {
@@ -130,7 +130,7 @@
       "row": 3,
       "col": 5,
       "length": 3,
-      "clue": "Yüce ya da büyük anlamına gelen sözcük",
+      "clue": "Yüceliğiyle saygı uyandıran; hem büyük hem görkemli olan varlık.",
       "answer": "ULU"
     },
     {
@@ -139,7 +139,7 @@
       "row": 3,
       "col": 6,
       "length": 5,
-      "clue": "Bulmacada Gemi barınağı karşılığını veren yanıt",
+      "clue": "Gemilerin yük boşalttığı, fırtınadan korunarak demirlediği deniz kıyısı.",
       "answer": "LİMAN"
     },
     {
@@ -148,7 +148,7 @@
       "row": 4,
       "col": 0,
       "length": 4,
-      "clue": "Böcekten kumaş anlamına gelen sözcük",
+      "clue": "Kozadan elde edilen, parlak dokulu ve dayanıklı, değerli kumaş lifi.",
       "answer": "İPEK"
     },
     {
@@ -157,7 +157,7 @@
       "row": 5,
       "col": 4,
       "length": 4,
-      "clue": "Baş ya da kelle için kullanılan yaygın ifade",
+      "clue": "İnsanın boynunun üst kısmında bulunan, düşünmenin merkezi olan baş.",
       "answer": "KAFA"
     },
     {
@@ -166,7 +166,7 @@
       "row": 6,
       "col": 3,
       "length": 5,
-      "clue": "Bulmacada Yurt ya da memleket karşılığını veren yanıt",
+      "clue": "Bir milletin üzerinde yaşayıp kendine yurt bildiği ata toprağı.",
       "answer": "VATAN"
     },
     {
@@ -175,7 +175,7 @@
       "row": 8,
       "col": 3,
       "length": 3,
-      "clue": "Bulmacada Bina bölümü karşılığını veren yanıt",
+      "clue": "Bir binanın birbirinin üzerine gelen yatay bölümlerinden her biri.",
       "answer": "KAT"
     }
   ]

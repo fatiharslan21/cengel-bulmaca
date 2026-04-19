@@ -156,7 +156,7 @@
       "row": 0,
       "col": 4,
       "length": 7,
-      "clue": "Bağlılık ya da vefa için kullanılan yaygın ifade",
+      "clue": "Sevdiğine ya da inandığına ömür boyu bağlı kalma; vefa göstermek.",
       "answer": "SADAKAT"
     },
     {
@@ -165,7 +165,7 @@
       "row": 0,
       "col": 5,
       "length": 5,
-      "clue": "Günlük dilde Konum bilgisi olarak bilinen kavram",
+      "clue": "Bir kimseye veya yere ulaşabilmek için gereken açık konum bilgisi.",
       "answer": "ADRES"
     },
     {
@@ -174,7 +174,7 @@
       "row": 0,
       "col": 10,
       "length": 7,
-      "clue": "Bulmacada Avunma ya da avuntu karşılığını veren yanıt",
+      "clue": "Üzüntülü birine söylenerek onu rahatlatan sıcak avutucu söz.",
       "answer": "TESELLİ"
     },
     {
@@ -183,7 +183,7 @@
       "row": 2,
       "col": 3,
       "length": 4,
-      "clue": "Çözüm yolu anlamına gelen sözcük",
+      "clue": "Sıkıntılı ya da zor bir durumu ortadan kaldıracak çözüm yolu.",
       "answer": "ÇARE"
     },
     {
@@ -192,7 +192,7 @@
       "row": 4,
       "col": 1,
       "length": 4,
-      "clue": "Müzik işareti için kullanılan yaygın ifade",
+      "clue": "Müzik eserlerinde seslerin yükseklik ve uzunluğunu gösteren küçük simge.",
       "answer": "NOTA"
     },
     {
@@ -201,7 +201,7 @@
       "row": 4,
       "col": 3,
       "length": 4,
-      "clue": "Kızarmış sandviç anlamına gelen sözcük",
+      "clue": "Ekmeğin arasına peynir konup ısıtılarak kızartılan sandviç çeşidi.",
       "answer": "TOST"
     },
     {
@@ -210,7 +210,7 @@
       "row": 4,
       "col": 3,
       "length": 5,
-      "clue": "Yemek kabı anlamına gelen sözcük",
+      "clue": "Yemeklerin servis edildiği, yuvarlak ve yassı porselen ya da cam kap.",
       "answer": "TABAK"
     },
     {
@@ -219,7 +219,7 @@
       "row": 5,
       "col": 0,
       "length": 4,
-      "clue": "Günlük dilde Kısa dinlenme olarak bilinen kavram",
+      "clue": "Çalışmaya ya da yolculuğa kısa bir süre ara vererek dinlenme anı.",
       "answer": "MOLA"
     },
     {
@@ -228,7 +228,7 @@
       "row": 6,
       "col": 5,
       "length": 5,
-      "clue": "Suda yaşayan canlı karşılığı olarak kullanılan kelime",
+      "clue": "Suda yaşayan, solungaçlarıyla soluyan, yüzgeçleriyle hareket eden canlı.",
       "answer": "BALIK"
     },
     {
@@ -237,7 +237,7 @@
       "row": 7,
       "col": 3,
       "length": 4,
-      "clue": "Günlük dilde Bacak ucu olarak bilinen kavram",
+      "clue": "Bacağın bileğinden aşağısı; üzerine basarak yürümemizi sağlayan uzuv.",
       "answer": "AYAK"
     }
   ]

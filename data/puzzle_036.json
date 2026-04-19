@@ -125,7 +125,7 @@
       "row": 0,
       "col": 7,
       "length": 3,
-      "clue": "Rüya ya da hayal için kullanılan yaygın ifade",
+      "clue": "Uyku sırasında zihnin canlandırdığı görüntüler ya da uyanıkken kurulan hayal.",
       "answer": "DÜŞ"
     },
     {
@@ -134,7 +134,7 @@
       "row": 0,
       "col": 7,
       "length": 5,
-      "clue": "Bulmacada Yaşadığımız gezegen karşılığını veren yanıt",
+      "clue": "Üzerinde yaşadığımız, Güneş'in çevresinde dönen mavi yeşil gezegen.",
       "answer": "DÜNYA"
     },
     {
@@ -143,7 +143,7 @@
       "row": 2,
       "col": 1,
       "length": 3,
-      "clue": "Günlük dilde Üzüm bahçesi olarak bilinen kavram",
+      "clue": "Üzüm yetiştirilen tarla; aynı zamanda düğümle tutturma eylemi.",
       "answer": "BAĞ"
     },
     {
@@ -152,7 +152,7 @@
       "row": 2,
       "col": 3,
       "length": 4,
-      "clue": "Günlük dilde İlerinin zıttı olarak bilinen kavram",
+      "clue": "İlerinin zıttı; arkaya ya da başlangıca doğru olan yön.",
       "answer": "GERİ"
     },
     {
@@ -161,7 +161,7 @@
       "row": 2,
       "col": 5,
       "length": 3,
-      "clue": "Güzel ya da tatlı karşılığı olarak kullanılan kelime",
+      "clue": "İnsanın yüzünü gülümseten, göze güzel gelen; beğenilen durum.",
       "answer": "HOŞ"
     },
     {
@@ -170,7 +170,7 @@
       "row": 2,
       "col": 5,
       "length": 5,
-      "clue": "Günlük dilde Yeni bilgi olarak bilinen kavram",
+      "clue": "Bir olay ya da gelişme hakkında ulaşan yeni bilgi; duyuru.",
       "answer": "HABER"
     },
     {
@@ -179,7 +179,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "Ev ya da konut karşılığı olarak kullanılan kelime",
+      "clue": "Bir ailenin oturduğu ev; aynı zamanda sayıdaki basamak anlamı taşır.",
       "answer": "HANE"
     },
     {
@@ -188,7 +188,7 @@
       "row": 5,
       "col": 2,
       "length": 5,
-      "clue": "Bulmacada Bitkinin renkli kısmı karşılığını veren yanıt",
+      "clue": "Bitkinin üreme organı; genellikle göz alıcı renkleri ve kokusu olan kısım.",
       "answer": "ÇİÇEK"
     },
     {
@@ -197,7 +197,7 @@
       "row": 5,
       "col": 2,
       "length": 3,
-      "clue": "Günlük dilde Sıcak içecek olarak bilinen kavram",
+      "clue": "Demlenmiş yapraklarından içecek hazırlanan, ülkenin vazgeçilmez sıcak içkisi.",
       "answer": "ÇAY"
     }
   ]

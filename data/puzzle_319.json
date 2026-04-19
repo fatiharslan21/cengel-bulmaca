@@ -156,7 +156,7 @@
       "row": 0,
       "col": 6,
       "length": 4,
-      "clue": "Küçük kemirgen karşılığı olarak kullanılan kelime",
+      "clue": "Dişleri sürekli uzayan, tahtayı ve kâğıdı kemirebilen küçük kemirgen.",
       "answer": "FARE"
     },
     {
@@ -165,7 +165,7 @@
       "row": 1,
       "col": 5,
       "length": 6,
-      "clue": "Ülke simgesi için kullanılan yaygın ifade",
+      "clue": "Bir ülkeyi simgeleyen, özel renk ve işaretler taşıyan kumaş parçası.",
       "answer": "BAYRAK"
     },
     {
@@ -174,7 +174,7 @@
       "row": 2,
       "col": 1,
       "length": 4,
-      "clue": "Kuş evi için kullanılan yaygın ifade",
+      "clue": "Kuşların yumurtladığı ağaç dalındaki çöpten örülmüş küçük barınak.",
       "answer": "YUVA"
     },
     {
@@ -183,7 +183,7 @@
       "row": 3,
       "col": 3,
       "length": 5,
-      "clue": "El kol eklemi karşılığı olarak kullanılan kelime",
+      "clue": "Kolla eli birbirine bağlayan, küçük kemiklerden oluşan eklem bölgesi.",
       "answer": "BİLEK"
     },
     {
@@ -192,7 +192,7 @@
       "row": 3,
       "col": 4,
       "length": 5,
-      "clue": "Günlük dilde Anlayış olarak bilinen kavram",
+      "clue": "Bir şeyin anlamını kavrama; olup biteni zihinde anlamlandırma yeteneği.",
       "answer": "İDRAK"
     },
     {
@@ -201,7 +201,7 @@
       "row": 5,
       "col": 0,
       "length": 5,
-      "clue": "Günlük dilde Yeni bilgi olarak bilinen kavram",
+      "clue": "Bir olay ya da gelişme hakkında ulaşan yeni bilgi; duyuru.",
       "answer": "HABER"
     },
     {
@@ -210,7 +210,7 @@
       "row": 5,
       "col": 2,
       "length": 3,
-      "clue": "Günlük dilde Üzüm bahçesi olarak bilinen kavram",
+      "clue": "Üzüm yetiştirilen tarla; aynı zamanda düğümle tutturma eylemi.",
       "answer": "BAĞ"
     },
     {
@@ -219,7 +219,7 @@
       "row": 7,
       "col": 0,
       "length": 3,
-      "clue": "Devir ya da dönem karşılığı olarak kullanılan kelime",
+      "clue": "Tarihte belli özelliklerle ayırt edilen uzun dönem; devir, asır.",
       "answer": "ÇAĞ"
     },
     {
@@ -228,7 +228,7 @@
       "row": 7,
       "col": 1,
       "length": 4,
-      "clue": "Günlük dilde Bacak ucu olarak bilinen kavram",
+      "clue": "Bacağın bileğinden aşağısı; üzerine basarak yürümemizi sağlayan uzuv.",
       "answer": "AYAK"
     },
     {
@@ -237,7 +237,7 @@
       "row": 9,
       "col": 0,
       "length": 3,
-      "clue": "Bulmacada Durum ya da vaziyet karşılığını veren yanıt",
+      "clue": "Bir kimsenin ya da şeyin bulunduğu durum, vaziyet ya da keyif.",
       "answer": "HAL"
     }
   ]

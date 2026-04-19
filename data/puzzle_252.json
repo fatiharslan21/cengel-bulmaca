@@ -123,7 +123,7 @@
       "row": 0,
       "col": 4,
       "length": 4,
-      "clue": "Sayısal değer için kullanılan yaygın ifade",
+      "clue": "Bir sınavda ya da yarışmada başarıya göre verilen sayısal değerlendirme.",
       "answer": "PUAN"
     },
     {
@@ -132,7 +132,7 @@
       "row": 0,
       "col": 7,
       "length": 6,
-      "clue": "Günlük dilde Beğenme ya da övme olarak bilinen kavram",
+      "clue": "Bir kişinin emeğini ya da başarısını görüp açıkça beğenip övme.",
       "answer": "TAKDİR"
     },
     {
@@ -141,7 +141,7 @@
       "row": 1,
       "col": 3,
       "length": 5,
-      "clue": "Nefesli çalgı için kullanılan yaygın ifade",
+      "clue": "Düğünlerde davulla birlikte çalınan, ince tiz sesli üflemeli halk çalgısı.",
       "answer": "ZURNA"
     },
     {
@@ -150,7 +150,7 @@
       "row": 3,
       "col": 2,
       "length": 4,
-      "clue": "Yapışkan şerit karşılığı olarak kullanılan kelime",
+      "clue": "Bir tarafı yapışkan olan, eşyaları tutturmaya yarayan uzun ince şerit.",
       "answer": "BANT"
     },
     {
@@ -159,7 +159,7 @@
       "row": 3,
       "col": 3,
       "length": 3,
-      "clue": "Günlük dilde Toprak sahibi olarak bilinen kavram",
+      "clue": "Eskiden köylerde geniş topraklara sahip, sözü geçen nüfuzlu kişi.",
       "answer": "AĞA"
     },
     {
@@ -168,7 +168,7 @@
       "row": 4,
       "col": 1,
       "length": 5,
-      "clue": "Bulmacada Üzüntü karşılığını veren yanıt",
+      "clue": "İnsanın içini burkan, uzun süre geçmeyen derin üzüntü hali.",
       "answer": "KEDER"
     },
     {
@@ -177,7 +177,7 @@
       "row": 5,
       "col": 0,
       "length": 4,
-      "clue": "Sözünde durma karşılığı olarak kullanılan kelime",
+      "clue": "Dostluğunu ve sevgisini zaman geçse bile sürdürme; söze sadakat.",
       "answer": "VEFA"
     },
     {
@@ -186,7 +186,7 @@
       "row": 7,
       "col": 1,
       "length": 4,
-      "clue": "Günlük dilde Buyruk ya da komut olarak bilinen kavram",
+      "clue": "Yetkili bir kimsenin yerine getirilmek üzere verdiği kesin buyruk.",
       "answer": "EMİR"
     },
     {
@@ -195,7 +195,7 @@
       "row": 7,
       "col": 3,
       "length": 4,
-      "clue": "Tedavi maddesi için kullanılan yaygın ifade",
+      "clue": "Hastalıkları iyileştirmek amacıyla hazırlanan, doktor tarafından verilen madde.",
       "answer": "İLAÇ"
     },
     {
@@ -204,7 +204,7 @@
       "row": 9,
       "col": 2,
       "length": 4,
-      "clue": "Günlük dilde Katlanır bıçak olarak bilinen kavram",
+      "clue": "Katlanabilen küçük bıçak; çoğunlukla cepte taşınan, sivri uçlu el aleti.",
       "answer": "ÇAKI"
     }
   ]

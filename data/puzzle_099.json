@@ -121,7 +121,7 @@
       "row": 0,
       "col": 7,
       "length": 5,
-      "clue": "Bilme isteği için kullanılan yaygın ifade",
+      "clue": "Bilinmeyen bir şeyi öğrenmek için insanın içine düşen güçlü istek.",
       "answer": "MERAK"
     },
     {
@@ -130,7 +130,7 @@
       "row": 2,
       "col": 9,
       "length": 3,
-      "clue": "Kurak kumluk arazi anlamına gelen sözcük",
+      "clue": "Yağış almadığı için kum ve kayalarla kaplı, bitkisi çok seyrek olan bölge.",
       "answer": "ÇÖL"
     },
     {
@@ -139,7 +139,7 @@
       "row": 4,
       "col": 6,
       "length": 5,
-      "clue": "Harita kitabı karşılığı olarak kullanılan kelime",
+      "clue": "Dünyanın farklı bölgelerini gösteren haritaların toplandığı büyük kitap.",
       "answer": "ATLAS"
     },
     {
@@ -148,7 +148,7 @@
       "row": 4,
       "col": 6,
       "length": 4,
-      "clue": "Günlük dilde Düşünme yetisi olarak bilinen kavram",
+      "clue": "İnsanın düşünmesini, anlamasını ve karar vermesini sağlayan zihinsel yeti.",
       "answer": "AKIL"
     },
     {
@@ -157,7 +157,7 @@
       "row": 5,
       "col": 3,
       "length": 4,
-      "clue": "Bulmacada Yakın arkadaş karşılığını veren yanıt",
+      "clue": "Kötü günde de yanında olan, gönülden sevilen yakın arkadaş.",
       "answer": "DOST"
     },
     {
@@ -166,7 +166,7 @@
       "row": 5,
       "col": 3,
       "length": 4,
-      "clue": "Müzikle hareket karşılığı olarak kullanılan kelime",
+      "clue": "Müziğin ritmine uyarak, düzenli vücut hareketleriyle yapılan sanatsal eylem.",
       "answer": "DANS"
     },
     {
@@ -175,7 +175,7 @@
       "row": 6,
       "col": 0,
       "length": 4,
-      "clue": "Büyük sert taş için kullanılan yaygın ifade",
+      "clue": "Toprağın üstünde ya da altında bulunan, kolay parçalanmayan büyük taş.",
       "answer": "KAYA"
     },
     {
@@ -184,7 +184,7 @@
       "row": 6,
       "col": 0,
       "length": 3,
-      "clue": "Günlük dilde Üst beden uzvu olarak bilinen kavram",
+      "clue": "Omuzdan bileğe kadar uzanan, eli bedene bağlayan üst uzvumuz.",
       "answer": "KOL"
     },
     {
@@ -193,7 +193,7 @@
       "row": 7,
       "col": 5,
       "length": 3,
-      "clue": "İşve ya da cilve anlamına gelen sözcük",
+      "clue": "Sevdiğine karşı gösterilen hafif cilve; yapmacık çekingenlik.",
       "answer": "NAZ"
     }
   ]

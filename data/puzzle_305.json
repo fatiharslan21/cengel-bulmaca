@@ -145,7 +145,7 @@
       "row": 0,
       "col": 4,
       "length": 4,
-      "clue": "Günlük dilde Su kabı olarak bilinen kavram",
+      "clue": "Kulpundan tutularak su ya da başka sıvı taşınan derin silindirik kap.",
       "answer": "KOVA"
     },
     {
@@ -154,7 +154,7 @@
       "row": 0,
       "col": 5,
       "length": 3,
-      "clue": "Günlük dilde İğneyle süsleme olarak bilinen kavram",
+      "clue": "İğne ya da tığla işlenen, başörtüsü kenarını süsleyen ince el işi.",
       "answer": "OYA"
     },
     {
@@ -163,7 +163,7 @@
       "row": 1,
       "col": 0,
       "length": 4,
-      "clue": "Bulmacada Ev bedeli karşılığını veren yanıt",
+      "clue": "Bir evin ya da iş yerinin kullanımı için sahibine ödenen aylık ücret.",
       "answer": "KIRA"
     },
     {
@@ -172,7 +172,7 @@
       "row": 1,
       "col": 0,
       "length": 5,
-      "clue": "Günlük dilde Yüzeyin sınırı olarak bilinen kavram",
+      "clue": "Bir yüzeyin ya da nesnenin dış sınırını oluşturan uç bölüm.",
       "answer": "KENAR"
     },
     {
@@ -181,7 +181,7 @@
       "row": 1,
       "col": 3,
       "length": 3,
-      "clue": "Bulmacada Bir şeye ilişkin karşılığını veren yanıt",
+      "clue": "Bir şeye bağlı bulunma; onunla ilgili ya da onun sahipliğinde olma.",
       "answer": "AİT"
     },
     {
@@ -190,7 +190,7 @@
       "row": 2,
       "col": 3,
       "length": 4,
-      "clue": "Günlük dilde Açıklama olarak bilinen kavram",
+      "clue": "Anlaşılmayan bir konuyu açık bir dille anlatma; aydınlatıcı açıklama.",
       "answer": "İZAH"
     },
     {
@@ -199,7 +199,7 @@
       "row": 2,
       "col": 6,
       "length": 6,
-      "clue": "Günlük dilde Anlatılan olay olarak bilinen kavram",
+      "clue": "Başı, ortası ve sonu olan; yaşanmış ya da kurmaca kısa anlatı.",
       "answer": "HİKAYE"
     },
     {
@@ -208,7 +208,7 @@
       "row": 5,
       "col": 6,
       "length": 3,
-      "clue": "Sunma ya da takdim anlamına gelen sözcük",
+      "clue": "Bir üstün ya da yetkilinin önüne saygıyla sunma, takdim etme eylemi.",
       "answer": "ARZ"
     },
     {
@@ -217,7 +217,7 @@
       "row": 7,
       "col": 6,
       "length": 4,
-      "clue": "Bulmacada Sanat yapıtı karşılığını veren yanıt",
+      "clue": "Bir sanatçının ya da yazarın ortaya koyduğu özgün yapıt.",
       "answer": "ESER"
     },
     {
@@ -226,7 +226,7 @@
       "row": 7,
       "col": 8,
       "length": 4,
-      "clue": "Özlenen istek için kullanılan yaygın ifade",
+      "clue": "Kavuşulması için yıllarca beklenen, gönülde taşınan büyük istek.",
       "answer": "EMEL"
     }
   ]

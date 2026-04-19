@@ -123,7 +123,7 @@
       "row": 0,
       "col": 1,
       "length": 5,
-      "clue": "Mektup servisi için kullanılan yaygın ifade",
+      "clue": "Mektup ve paketlerin toplanıp yerine ulaştırıldığı geleneksel iletişim hizmeti.",
       "answer": "POSTA"
     },
     {
@@ -132,7 +132,7 @@
       "row": 0,
       "col": 4,
       "length": 5,
-      "clue": "Esas ya da kök anlamına gelen sözcük",
+      "clue": "Bir yapının ayakta durmasını sağlayan, toprağa gömülü olan ilk bölümü.",
       "answer": "TEMEL"
     },
     {
@@ -141,7 +141,7 @@
       "row": 0,
       "col": 6,
       "length": 5,
-      "clue": "Günlük dilde Uysal ya da yumuşak olarak bilinen kavram",
+      "clue": "Yumuşak huylu, kolay geçinilen; sert tavır göstermeyen uysal kimse.",
       "answer": "MUNİS"
     },
     {
@@ -150,7 +150,7 @@
       "row": 1,
       "col": 0,
       "length": 3,
-      "clue": "Eflatun renk için kullanılan yaygın ifade",
+      "clue": "Kırmızı ile mavinin karışımından elde edilen, menekşe renginde koyu ton.",
       "answer": "MOR"
     },
     {
@@ -159,7 +159,7 @@
       "row": 3,
       "col": 3,
       "length": 7,
-      "clue": "Bulmacada Görünme ya da belirme karşılığını veren yanıt",
+      "clue": "Gizli kalmış bir şeyin zamanı gelince gözle görünür olması; belirme.",
       "answer": "TECELLİ"
     },
     {
@@ -168,7 +168,7 @@
       "row": 3,
       "col": 3,
       "length": 4,
-      "clue": "Uyan ya da bağlı karşılığı olarak kullanılan kelime",
+      "clue": "Bir kurala, şahsa ya da düzene bağlı olan; ona uymak durumunda kalan.",
       "answer": "TABİ"
     },
     {
@@ -177,7 +177,7 @@
       "row": 4,
       "col": 0,
       "length": 4,
-      "clue": "Küçük kemirgen karşılığı olarak kullanılan kelime",
+      "clue": "Dişleri sürekli uzayan, tahtayı ve kâğıdı kemirebilen küçük kemirgen.",
       "answer": "FARE"
     },
     {
@@ -186,7 +186,7 @@
       "row": 4,
       "col": 0,
       "length": 5,
-      "clue": "Ayrılık anlamına gelen sözcük",
+      "clue": "Birbirinden ayrı düşen sevgililerin yaşadığı acı dolu ayrılık.",
       "answer": "FIRAK"
     },
     {
@@ -195,7 +195,7 @@
       "row": 6,
       "col": 2,
       "length": 5,
-      "clue": "Günlük dilde Soluk alma verme olarak bilinen kavram",
+      "clue": "Ciğerlere hava çekmek ve bırakmak; yaşamın sürdüğünün göstergesi soluk.",
       "answer": "NEFES"
     },
     {
@@ -204,7 +204,7 @@
       "row": 8,
       "col": 3,
       "length": 5,
-      "clue": "Hoş ya da ince için kullanılan yaygın ifade",
+      "clue": "Göze ve gönle hoş gelen, nazik ve yumuşak huylu; incelikli olan.",
       "answer": "LATİF"
     }
   ]

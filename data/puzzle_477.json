@@ -145,7 +145,7 @@
       "row": 0,
       "col": 1,
       "length": 7,
-      "clue": "Bulmacada Görünme ya da belirme karşılığını veren yanıt",
+      "clue": "Gizli kalmış bir şeyin zamanı gelince gözle görünür olması; belirme.",
       "answer": "TECELLİ"
     },
     {
@@ -154,7 +154,7 @@
       "row": 1,
       "col": 0,
       "length": 3,
-      "clue": "Bulmacada Rüzgar ya da esinti karşılığını veren yanıt",
+      "clue": "Havanın bir yönden diğerine doğru hissedilebilir akışı; rüzgâr.",
       "answer": "YEL"
     },
     {
@@ -163,7 +163,7 @@
       "row": 4,
       "col": 0,
       "length": 4,
-      "clue": "Bildirme ya da hüküm anlamına gelen sözcük",
+      "clue": "Mahkemenin verdiği kararı bildiren, yazılı resmi belge.",
       "answer": "İLAM"
     },
     {
@@ -172,7 +172,7 @@
       "row": 6,
       "col": 1,
       "length": 4,
-      "clue": "Günlük dilde Açıklama olarak bilinen kavram",
+      "clue": "Anlaşılmayan bir konuyu açık bir dille anlatma; aydınlatıcı açıklama.",
       "answer": "İZAH"
     },
     {
@@ -181,7 +181,7 @@
       "row": 6,
       "col": 3,
       "length": 4,
-      "clue": "Günlük dilde Bacak ucu olarak bilinen kavram",
+      "clue": "Bacağın bileğinden aşağısı; üzerine basarak yürümemizi sağlayan uzuv.",
       "answer": "AYAK"
     },
     {
@@ -190,7 +190,7 @@
       "row": 7,
       "col": 5,
       "length": 5,
-      "clue": "Bulmacada Şans ya da baht karşılığını veren yanıt",
+      "clue": "İnsanın ömür boyu karşılaştığı iyi ya da kötü raslantıların tümü; baht.",
       "answer": "TALİH"
     },
     {
@@ -199,7 +199,7 @@
       "row": 7,
       "col": 5,
       "length": 4,
-      "clue": "Bulmacada Küçük yükselti karşılığını veren yanıt",
+      "clue": "Dağdan daha alçak, çevresine göre yüksek görünen küçük yükselti.",
       "answer": "TEPE"
     },
     {
@@ -208,7 +208,7 @@
       "row": 8,
       "col": 0,
       "length": 4,
-      "clue": "Müzik işareti için kullanılan yaygın ifade",
+      "clue": "Müzik eserlerinde seslerin yükseklik ve uzunluğunu gösteren küçük simge.",
       "answer": "NOTA"
     },
     {
@@ -217,7 +217,7 @@
       "row": 9,
       "col": 3,
       "length": 3,
-      "clue": "Bulmacada Gitme ya da burada dur karşılığını veren yanıt",
+      "clue": "Gitme, olduğun yerde dur; git sözcüğünün tam karşıtı olan emir.",
       "answer": "KAL"
     },
     {
@@ -226,7 +226,7 @@
       "row": 11,
       "col": 3,
       "length": 6,
-      "clue": "Güçlük ya da eziyet anlamına gelen sözcük",
+      "clue": "Bir işi başarmak için katlanılan güçlük; çekilen eziyet.",
       "answer": "ZAHMET"
     }
   ]

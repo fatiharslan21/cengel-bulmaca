@@ -117,7 +117,7 @@
       "row": 0,
       "col": 2,
       "length": 5,
-      "clue": "Bulmacada Maç yöneticisi karşılığını veren yanıt",
+      "clue": "Sporda kuralların uygulanmasını denetleyen, karar veren yetkili kişi.",
       "answer": "HAKEM"
     },
     {
@@ -126,7 +126,7 @@
       "row": 1,
       "col": 0,
       "length": 3,
-      "clue": "Günlük dilde Toprak sahibi olarak bilinen kavram",
+      "clue": "Eskiden köylerde geniş topraklara sahip, sözü geçen nüfuzlu kişi.",
       "answer": "AĞA"
     },
     {
@@ -135,7 +135,7 @@
       "row": 2,
       "col": 4,
       "length": 6,
-      "clue": "İçecek kabı anlamına gelen sözcük",
+      "clue": "Su, çay ya da başka içecekleri içmek için kullanılan küçük kap.",
       "answer": "BARDAK"
     },
     {
@@ -144,7 +144,7 @@
       "row": 3,
       "col": 1,
       "length": 4,
-      "clue": "Günlük dilde Kez ya da kere olarak bilinen kavram",
+      "clue": "Bir olayın kaçıncı kez yaşandığını anlatmak için kullanılan kez sözcüğü.",
       "answer": "DEFA"
     },
     {
@@ -153,7 +153,7 @@
       "row": 3,
       "col": 6,
       "length": 3,
-      "clue": "Bulmacada Kuvvet ya da enerji karşılığını veren yanıt",
+      "clue": "Bir işi yapabilme yeteneği; fiziksel ya da manevi olarak sahip olunan kuvvet.",
       "answer": "GÜÇ"
     },
     {
@@ -162,7 +162,7 @@
       "row": 3,
       "col": 6,
       "length": 3,
-      "clue": "Bulmacada Karalarla çevrili su karşılığını veren yanıt",
+      "clue": "Karayla çevrili, deniz bağlantısı olmayan geniş durgun su birikintisi.",
       "answer": "GÖL"
     },
     {
@@ -171,7 +171,7 @@
       "row": 3,
       "col": 8,
       "length": 3,
-      "clue": "Devir ya da dönem karşılığı olarak kullanılan kelime",
+      "clue": "Tarihte belli özelliklerle ayırt edilen uzun dönem; devir, asır.",
       "answer": "ÇAĞ"
     },
     {
@@ -180,7 +180,7 @@
       "row": 4,
       "col": 8,
       "length": 3,
-      "clue": "Günlük dilde Bal yapan böcek olarak bilinen kavram",
+      "clue": "Çiçeklerden topladığı nektarı bala dönüştüren, iğneli küçük böcek.",
       "answer": "ARI"
     },
     {
@@ -189,7 +189,7 @@
       "row": 5,
       "col": 3,
       "length": 4,
-      "clue": "Bulmacada Başarı karşılığı karşılığını veren yanıt",
+      "clue": "Başarı gösteren kimseye, çabasının karşılığı olarak verilen değerli armağan.",
       "answer": "ÖDÜL"
     },
     {
@@ -198,7 +198,7 @@
       "row": 7,
       "col": 4,
       "length": 3,
-      "clue": "Günlük dilde Üst beden uzvu olarak bilinen kavram",
+      "clue": "Omuzdan bileğe kadar uzanan, eli bedene bağlayan üst uzvumuz.",
       "answer": "KOL"
     }
   ]

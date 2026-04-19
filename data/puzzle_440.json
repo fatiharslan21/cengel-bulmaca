@@ -156,7 +156,7 @@
       "row": 0,
       "col": 5,
       "length": 5,
-      "clue": "İyilik ya da bolluk için kullanılan yaygın ifade",
+      "clue": "Yararlanılan, şükür duyulan değerli varlık; insana verilmiş lütuf.",
       "answer": "NİMET"
     },
     {
@@ -165,7 +165,7 @@
       "row": 2,
       "col": 1,
       "length": 3,
-      "clue": "Günlük dilde Bal yapan böcek olarak bilinen kavram",
+      "clue": "Çiçeklerden topladığı nektarı bala dönüştüren, iğneli küçük böcek.",
       "answer": "ARI"
     },
     {
@@ -174,7 +174,7 @@
       "row": 4,
       "col": 0,
       "length": 6,
-      "clue": "Nasip ya da pay karşılığı olarak kullanılan kelime",
+      "clue": "Kişinin payına düşen; kaderin ona uygun gördüğü nasibi ya da şansı.",
       "answer": "KISMET"
     },
     {
@@ -183,7 +183,7 @@
       "row": 4,
       "col": 0,
       "length": 5,
-      "clue": "İki yakayı birleştiren için kullanılan yaygın ifade",
+      "clue": "Bir nehrin ya da vadinin iki yakasını birbirine bağlayan geçit yapısı.",
       "answer": "KÖPRÜ"
     },
     {
@@ -192,7 +192,7 @@
       "row": 4,
       "col": 4,
       "length": 5,
-      "clue": "Temel buğday gıdası anlamına gelen sözcük",
+      "clue": "Undan mayalanıp fırında pişirilerek yapılan, sofranın temel besini.",
       "answer": "EKMEK"
     },
     {
@@ -201,7 +201,7 @@
       "row": 5,
       "col": 8,
       "length": 4,
-      "clue": "Başka ya da özge karşılığı olarak kullanılan kelime",
+      "clue": "Bundan başka, farklı; bir şeyin dışında kalan diğer kısım.",
       "answer": "GAYR"
     },
     {
@@ -210,7 +210,7 @@
       "row": 5,
       "col": 8,
       "length": 3,
-      "clue": "Bulmacada Karalarla çevrili su karşılığını veren yanıt",
+      "clue": "Karayla çevrili, deniz bağlantısı olmayan geniş durgun su birikintisi.",
       "answer": "GÖL"
     },
     {
@@ -219,7 +219,7 @@
       "row": 6,
       "col": 2,
       "length": 5,
-      "clue": "En sert taş karşılığı olarak kullanılan kelime",
+      "clue": "Doğada bulunan en sert madde; takılarda kullanılan değerli kıymetli taş.",
       "answer": "ELMAS"
     },
     {
@@ -228,7 +228,7 @@
       "row": 8,
       "col": 4,
       "length": 5,
-      "clue": "Günlük dilde Alın yazısı olarak bilinen kavram",
+      "clue": "İnsanın başına geleceği önceden yazıldığına inanılan alın yazısı.",
       "answer": "KADER"
     },
     {
@@ -237,7 +237,7 @@
       "row": 8,
       "col": 6,
       "length": 3,
-      "clue": "Bulmacada Çiğneme organı karşılığını veren yanıt",
+      "clue": "Ağızda bulunan, yiyecekleri kopartıp öğütmeye yarayan sert beyaz yapı.",
       "answer": "DİŞ"
     }
   ]

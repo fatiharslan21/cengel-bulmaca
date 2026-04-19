@@ -85,7 +85,7 @@
       "row": 0,
       "col": 2,
       "length": 3,
-      "clue": "Bulmacada Çiğneme organı karşılığını veren yanıt",
+      "clue": "Ağızda bulunan, yiyecekleri kopartıp öğütmeye yarayan sert beyaz yapı.",
       "answer": "DİŞ"
     },
     {
@@ -94,7 +94,7 @@
       "row": 0,
       "col": 4,
       "length": 5,
-      "clue": "Temel buğday gıdası anlamına gelen sözcük",
+      "clue": "Undan mayalanıp fırında pişirilerek yapılan, sofranın temel besini.",
       "answer": "EKMEK"
     },
     {
@@ -103,7 +103,7 @@
       "row": 1,
       "col": 2,
       "length": 3,
-      "clue": "Birinci ya da baştaki anlamına gelen sözcük",
+      "clue": "Bir sıranın en başında bulunan; sondan önce hiçbir şey olmayan sırada birinci.",
       "answer": "İLK"
     },
     {
@@ -112,7 +112,7 @@
       "row": 2,
       "col": 0,
       "length": 3,
-      "clue": "Günlük dilde İçi dolu olmayan olarak bilinen kavram",
+      "clue": "İçinde hiçbir şey bulunmayan, doluluğu olmayan kap ya da mekân.",
       "answer": "BOŞ"
     },
     {
@@ -121,7 +121,7 @@
       "row": 2,
       "col": 7,
       "length": 3,
-      "clue": "Bulmacada Adalet ya da doğruluk karşılığını veren yanıt",
+      "clue": "Kişinin yasal olarak sahip olduğu; alması ya da yapması gereken şey.",
       "answer": "HAK"
     },
     {
@@ -130,7 +130,7 @@
       "row": 2,
       "col": 9,
       "length": 4,
-      "clue": "Bulmacada Yüksek yapı karşılığını veren yanıt",
+      "clue": "Çevresindeki yapılardan çok daha yüksek olan, dar ve uzun yapı.",
       "answer": "KULE"
     },
     {
@@ -139,7 +139,7 @@
       "row": 3,
       "col": 4,
       "length": 4,
-      "clue": "Bulmacada Kırmızı meyve karşılığını veren yanıt",
+      "clue": "Kabuğu kırmızı, sarı ya da yeşil olabilen, sulu ve çıtır meyve.",
       "answer": "ELMA"
     },
     {
@@ -148,7 +148,7 @@
       "row": 4,
       "col": 1,
       "length": 4,
-      "clue": "Günlük dilde Yeşil alan olarak bilinen kavram",
+      "clue": "Şehir içinde insanların dinlenip yürüdüğü, ağaçlıklı kamusal yeşil alan.",
       "answer": "PARK"
     },
     {
@@ -157,7 +157,7 @@
       "row": 4,
       "col": 7,
       "length": 3,
-      "clue": "Seramik toprağı karşılığı olarak kullanılan kelime",
+      "clue": "Çanak çömlek yapımında kullanılan, suyla yumuşayan yapışkan toprak.",
       "answer": "KİL"
     }
   ]

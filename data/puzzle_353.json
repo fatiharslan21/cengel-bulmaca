@@ -145,7 +145,7 @@
       "row": 0,
       "col": 6,
       "length": 6,
-      "clue": "Bitkinin yeşil organı anlamına gelen sözcük",
+      "clue": "Ağacın dalından sarkan, fotosentez yapıp havaya oksijen veren yeşil organ.",
       "answer": "YAPRAK"
     },
     {
@@ -154,7 +154,7 @@
       "row": 1,
       "col": 5,
       "length": 3,
-      "clue": "Hava gibi madde için kullanılan yaygın ifade",
+      "clue": "Belli bir şekli ve hacmi olmayan, her yöne yayılabilen madde hali.",
       "answer": "GAZ"
     },
     {
@@ -163,7 +163,7 @@
       "row": 3,
       "col": 1,
       "length": 6,
-      "clue": "Boşuna ya da yararsız için kullanılan yaygın ifade",
+      "clue": "Harcanan çabaya değmeyen; hiçbir yarar sağlamayan boş uğraş.",
       "answer": "NAFİLE"
     },
     {
@@ -172,7 +172,7 @@
       "row": 4,
       "col": 6,
       "length": 4,
-      "clue": "Günlük dilde Geniş düzlük olarak bilinen kavram",
+      "clue": "Üzerinde yapı bulunmayan, belli sınırlarla çevrili geniş açık düzlük.",
       "answer": "ALAN"
     },
     {
@@ -181,7 +181,7 @@
       "row": 5,
       "col": 3,
       "length": 4,
-      "clue": "Anlama yeteneği için kullanılan yaygın ifade",
+      "clue": "Yeni durumlara hızla uyum sağlayıp doğru kararlar verebilme yeteneği.",
       "answer": "ZEKA"
     },
     {
@@ -190,7 +190,7 @@
       "row": 5,
       "col": 3,
       "length": 4,
-      "clue": "Günlük dilde Haz ya da keyif olarak bilinen kavram",
+      "clue": "Yapılan ya da tadılan şeyden alınan; insanın içini hoşnut eden keyif.",
       "answer": "ZEVK"
     },
     {
@@ -199,7 +199,7 @@
       "row": 6,
       "col": 0,
       "length": 4,
-      "clue": "Günlük dilde Düzen ya da oyun olarak bilinen kavram",
+      "clue": "Birini aldatmak için yapılan gizli düzen; dolap çevirme.",
       "answer": "HİLE"
     },
     {
@@ -208,7 +208,7 @@
       "row": 7,
       "col": 5,
       "length": 4,
-      "clue": "Günlük dilde Yanlış ya da kusur olarak bilinen kavram",
+      "clue": "İstemeden yapılan yanlış; doğru olandan sapmanın yol açtığı kusur.",
       "answer": "HATA"
     },
     {
@@ -217,7 +217,7 @@
       "row": 8,
       "col": 3,
       "length": 3,
-      "clue": "Tek renk olmayan, benekli görünüm",
+      "clue": "Birden çok rengin bir arada bulunduğu, benekli ya da karışık görünüm.",
       "answer": "ALA"
     },
     {
@@ -226,7 +226,7 @@
       "row": 10,
       "col": 4,
       "length": 3,
-      "clue": "Bulmacada Damar sıvısı karşılığını veren yanıt",
+      "clue": "Damarlarda dolaşarak vücuda oksijen taşıyan kırmızı renkli canlı sıvı.",
       "answer": "KAN"
     }
   ]

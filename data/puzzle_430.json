@@ -167,7 +167,7 @@
       "row": 0,
       "col": 6,
       "length": 5,
-      "clue": "Nefesli çalgı için kullanılan yaygın ifade",
+      "clue": "Düğünlerde davulla birlikte çalınan, ince tiz sesli üflemeli halk çalgısı.",
       "answer": "ZURNA"
     },
     {
@@ -176,7 +176,7 @@
       "row": 1,
       "col": 5,
       "length": 5,
-      "clue": "İç rahatlığı için kullanılan yaygın ifade",
+      "clue": "İç sıkıntısının olmadığı, gönlün rahat ettiği dingin ruh hali.",
       "answer": "HUZUR"
     },
     {
@@ -185,7 +185,7 @@
       "row": 3,
       "col": 2,
       "length": 5,
-      "clue": "Vaktinden önce karşılığı olarak kullanılan kelime",
+      "clue": "Belirlenen vaktin öncesinde gelme; geç kalmanın tersi durumu.",
       "answer": "ERKEN"
     },
     {
@@ -194,7 +194,7 @@
       "row": 4,
       "col": 0,
       "length": 3,
-      "clue": "Gizli bilgi için kullanılan yaygın ifade",
+      "clue": "Başkalarıyla paylaşılmayan; yalnızca bir kişinin bildiği gizli bilgi.",
       "answer": "SIR"
     },
     {
@@ -203,7 +203,7 @@
       "row": 4,
       "col": 5,
       "length": 5,
-      "clue": "İki yakayı birleştiren için kullanılan yaygın ifade",
+      "clue": "Bir nehrin ya da vadinin iki yakasını birbirine bağlayan geçit yapısı.",
       "answer": "KÖPRÜ"
     },
     {
@@ -212,7 +212,7 @@
       "row": 4,
       "col": 5,
       "length": 5,
-      "clue": "Günlük dilde Yemek aracı olarak bilinen kavram",
+      "clue": "Çorba, pilav gibi yemekleri ağza götürmek için kullanılan çukur sap.",
       "answer": "KAŞIK"
     },
     {
@@ -221,7 +221,7 @@
       "row": 4,
       "col": 9,
       "length": 5,
-      "clue": "Olgunluk için kullanılan yaygın ifade",
+      "clue": "Bir şeyin eksiksiz, kusursuz ve en üst düzeyde olgunlaşmış hali.",
       "answer": "KEMAL"
     },
     {
@@ -230,7 +230,7 @@
       "row": 6,
       "col": 1,
       "length": 5,
-      "clue": "Sayısal işlem karşılığı olarak kullanılan kelime",
+      "clue": "Sayılarla yapılan dört işlem; gelir ve giderin tutulduğu kayıt.",
       "answer": "HESAP"
     },
     {
@@ -239,7 +239,7 @@
       "row": 6,
       "col": 7,
       "length": 5,
-      "clue": "Esas ya da kök anlamına gelen sözcük",
+      "clue": "Bir yapının ayakta durmasını sağlayan, toprağa gömülü olan ilk bölümü.",
       "answer": "TEMEL"
     },
     {
@@ -248,7 +248,7 @@
       "row": 6,
       "col": 7,
       "length": 5,
-      "clue": "Küçük deniz taşıtı anlamına gelen sözcük",
+      "clue": "Yelkenli ya da motorlu olup denizde kısa yolculuklara çıkan küçük gemi.",
       "answer": "TEKNE"
     }
   ]

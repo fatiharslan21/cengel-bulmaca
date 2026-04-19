@@ -145,7 +145,7 @@
       "row": 0,
       "col": 5,
       "length": 5,
-      "clue": "Bulmacada Yaşadığımız gezegen karşılığını veren yanıt",
+      "clue": "Üzerinde yaşadığımız, Güneş'in çevresinde dönen mavi yeşil gezegen.",
       "answer": "DÜNYA"
     },
     {
@@ -154,7 +154,7 @@
       "row": 0,
       "col": 9,
       "length": 4,
-      "clue": "Ateşin parlak kısmı karşılığı olarak kullanılan kelime",
+      "clue": "Yanan bir şeyin üstünde dalgalanan, sıcak ve parlayan ışıklı kısım.",
       "answer": "ALEV"
     },
     {
@@ -163,7 +163,7 @@
       "row": 1,
       "col": 7,
       "length": 4,
-      "clue": "Hafif olmayan için kullanılan yaygın ifade",
+      "clue": "Kaldırılması güç olan, hafif sözcüğünün zıttı sayılan kütle durumu.",
       "answer": "AĞIR"
     },
     {
@@ -172,7 +172,7 @@
       "row": 2,
       "col": 5,
       "length": 5,
-      "clue": "Ezgi ya da tını anlamına gelen sözcük",
+      "clue": "Bir ezginin kulağa hoş gelen melodik sesi; tiz tatlı tını.",
       "answer": "NAĞME"
     },
     {
@@ -181,7 +181,7 @@
       "row": 3,
       "col": 3,
       "length": 4,
-      "clue": "Günlük dilde Işık ya da aydınlık olarak bilinen kavram",
+      "clue": "Karanlığı dağıtan; göze hoş gelen aydınlatıcı parıltı.",
       "answer": "ZİYA"
     },
     {
@@ -190,7 +190,7 @@
       "row": 4,
       "col": 2,
       "length": 4,
-      "clue": "Yalvarma ya da dilek karşılığı olarak kullanılan kelime",
+      "clue": "Birinden nazikçe bir şey istemek; kibarca dile getirilen dilek.",
       "answer": "RİCA"
     },
     {
@@ -199,7 +199,7 @@
       "row": 5,
       "col": 1,
       "length": 6,
-      "clue": "Nasip ya da pay karşılığı olarak kullanılan kelime",
+      "clue": "Kişinin payına düşen; kaderin ona uygun gördüğü nasibi ya da şansı.",
       "answer": "KISMET"
     },
     {
@@ -208,7 +208,7 @@
       "row": 6,
       "col": 0,
       "length": 5,
-      "clue": "Ayrılık anlamına gelen sözcük",
+      "clue": "Birbirinden ayrı düşen sevgililerin yaşadığı acı dolu ayrılık.",
       "answer": "FIRAK"
     },
     {
@@ -217,7 +217,7 @@
       "row": 6,
       "col": 4,
       "length": 5,
-      "clue": "Uyulması gereken için kullanılan yaygın ifade",
+      "clue": "Bir düzen içinde hareket edebilmek için uyulması zorunlu olan ilke.",
       "answer": "KURAL"
     },
     {
@@ -226,7 +226,7 @@
       "row": 9,
       "col": 3,
       "length": 3,
-      "clue": "Günlük dilde Üzüm bahçesi olarak bilinen kavram",
+      "clue": "Üzüm yetiştirilen tarla; aynı zamanda düğümle tutturma eylemi.",
       "answer": "BAĞ"
     }
   ]

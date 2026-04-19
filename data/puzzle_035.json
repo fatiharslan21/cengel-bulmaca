@@ -101,7 +101,7 @@
       "row": 0,
       "col": 4,
       "length": 4,
-      "clue": "Günlük dilde Renk veren madde olarak bilinen kavram",
+      "clue": "Bir yüzeye sürüldüğünde ona istenilen rengi veren sıvı ya da toz madde.",
       "answer": "BOYA"
     },
     {
@@ -110,7 +110,7 @@
       "row": 0,
       "col": 4,
       "length": 3,
-      "clue": "Arı ürünü tatlı için kullanılan yaygın ifade",
+      "clue": "Arıların çiçeklerden topladığı nektarı işleyerek yaptığı koyu, tatlı gıda.",
       "answer": "BAL"
     },
     {
@@ -119,7 +119,7 @@
       "row": 1,
       "col": 2,
       "length": 5,
-      "clue": "Bilme isteği için kullanılan yaygın ifade",
+      "clue": "Bilinmeyen bir şeyi öğrenmek için insanın içine düşen güçlü istek.",
       "answer": "MERAK"
     },
     {
@@ -128,7 +128,7 @@
       "row": 2,
       "col": 4,
       "length": 4,
-      "clue": "Bulmacada Yazılmış metin karşılığını veren yanıt",
+      "clue": "Kalemin kâğıda bıraktığı; harflerden oluşan okunabilir işaretler.",
       "answer": "YAZI"
     },
     {
@@ -137,7 +137,7 @@
       "row": 3,
       "col": 0,
       "length": 5,
-      "clue": "Nefesli çalgı için kullanılan yaygın ifade",
+      "clue": "Düğünlerde davulla birlikte çalınan, ince tiz sesli üflemeli halk çalgısı.",
       "answer": "ZURNA"
     },
     {
@@ -146,7 +146,7 @@
       "row": 4,
       "col": 5,
       "length": 4,
-      "clue": "Düz ince levha anlamına gelen sözcük",
+      "clue": "İnce mukavvadan yapılmış, üzerine yazı yazılan ya da baskı yapılan levha.",
       "answer": "KART"
     },
     {
@@ -155,7 +155,7 @@
       "row": 4,
       "col": 5,
       "length": 4,
-      "clue": "Bulmacada Ev bedeli karşılığını veren yanıt",
+      "clue": "Bir evin ya da iş yerinin kullanımı için sahibine ödenen aylık ücret.",
       "answer": "KIRA"
     },
     {
@@ -164,7 +164,7 @@
       "row": 5,
       "col": 2,
       "length": 4,
-      "clue": "Siyah renk karşılığı olarak kullanılan kelime",
+      "clue": "Beyazın tam zıttı olan, gölgeleri bile koyulaştıran siyah ton.",
       "answer": "KARA"
     },
     {
@@ -173,7 +173,7 @@
       "row": 7,
       "col": 3,
       "length": 4,
-      "clue": "Müzik işareti için kullanılan yaygın ifade",
+      "clue": "Müzik eserlerinde seslerin yükseklik ve uzunluğunu gösteren küçük simge.",
       "answer": "NOTA"
     }
   ]

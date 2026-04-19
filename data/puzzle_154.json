@@ -117,7 +117,7 @@
       "row": 0,
       "col": 9,
       "length": 4,
-      "clue": "Kötü ya da berbat karşılığı olarak kullanılan kelime",
+      "clue": "Niteliği kötü olan, insanın içini bunaltan; iyi sözcüğünün zıttı.",
       "answer": "FENA"
     },
     {
@@ -126,7 +126,7 @@
       "row": 1,
       "col": 6,
       "length": 3,
-      "clue": "İşitilen titreşim anlamına gelen sözcük",
+      "clue": "Kulağımıza ulaşan her türlü titreşim; konuşma ve müziğin temeli.",
       "answer": "SES"
     },
     {
@@ -135,7 +135,7 @@
       "row": 1,
       "col": 8,
       "length": 3,
-      "clue": "Giyside küçük kese karşılığı olarak kullanılan kelime",
+      "clue": "Pantolon ya da ceketin içine dikilmiş, ufak eşya konulan küçük kese.",
       "answer": "CEP"
     },
     {
@@ -144,7 +144,7 @@
       "row": 3,
       "col": 4,
       "length": 4,
-      "clue": "Bulmacada Deniz taşıtı karşılığını veren yanıt",
+      "clue": "Denizde yük ya da yolcu taşımak için yapılmış büyük su taşıtı.",
       "answer": "GEMİ"
     },
     {
@@ -153,7 +153,7 @@
       "row": 3,
       "col": 6,
       "length": 5,
-      "clue": "Hükümdar konutu anlamına gelen sözcük",
+      "clue": "Padişah veya hükümdarların oturduğu, görkemli mimarisi olan büyük yapı.",
       "answer": "SARAY"
     },
     {
@@ -162,7 +162,7 @@
       "row": 3,
       "col": 7,
       "length": 4,
-      "clue": "Gövdeli bitki karşılığı olarak kullanılan kelime",
+      "clue": "Toprağa kök salmış, gövdesi odunlaşmış, uzun ömürlü büyük bitki.",
       "answer": "AĞAÇ"
     },
     {
@@ -171,7 +171,7 @@
       "row": 4,
       "col": 0,
       "length": 5,
-      "clue": "Yenilebilen bitki için kullanılan yaygın ifade",
+      "clue": "Mutfağa giren, bitki kökleri ve yapraklarından oluşan yenilebilir besin.",
       "answer": "SEBZE"
     },
     {
@@ -180,7 +180,7 @@
       "row": 4,
       "col": 0,
       "length": 4,
-      "clue": "Altın rengi için kullanılan yaygın ifade",
+      "clue": "Limon ve altın tonlarında olan, güneşi çağrıştıran canlı sıcak renk.",
       "answer": "SARI"
     },
     {
@@ -189,7 +189,7 @@
       "row": 5,
       "col": 4,
       "length": 4,
-      "clue": "Günlük dilde Kısa dinlenme olarak bilinen kavram",
+      "clue": "Çalışmaya ya da yolculuğa kısa bir süre ara vererek dinlenme anı.",
       "answer": "MOLA"
     },
     {
@@ -198,7 +198,7 @@
       "row": 6,
       "col": 7,
       "length": 4,
-      "clue": "İki adet ya da eş karşılığı olarak kullanılan kelime",
+      "clue": "Birbirinin eşi olan iki şeyden oluşan takım; tekin karşıtı sayı grubu.",
       "answer": "ÇİFT"
     }
   ]

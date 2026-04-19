@@ -121,7 +121,7 @@
       "row": 0,
       "col": 4,
       "length": 6,
-      "clue": "Ülke yönetimi için kullanılan yaygın ifade",
+      "clue": "Belirli bir ülkenin sınırlarında örgütlenmiş siyasi ve yönetimsel yapı.",
       "answer": "DEVLET"
     },
     {
@@ -130,7 +130,7 @@
       "row": 1,
       "col": 3,
       "length": 3,
-      "clue": "Cilt ya da deri karşılığı olarak kullanılan kelime",
+      "clue": "İnsanın bedenini saran dış deri; vücudumuzun dış yüzü.",
       "answer": "TEN"
     },
     {
@@ -139,7 +139,7 @@
       "row": 2,
       "col": 1,
       "length": 4,
-      "clue": "Utanma duygusu anlamına gelen sözcük",
+      "clue": "Ayıp sayılan bir şey karşısında insanın yüzünü kızartan çekinme duygusu.",
       "answer": "HAYA"
     },
     {
@@ -148,7 +148,7 @@
       "row": 3,
       "col": 0,
       "length": 6,
-      "clue": "Boşuna ya da yararsız için kullanılan yaygın ifade",
+      "clue": "Harcanan çabaya değmeyen; hiçbir yarar sağlamayan boş uğraş.",
       "answer": "NAFİLE"
     },
     {
@@ -157,7 +157,7 @@
       "row": 5,
       "col": 0,
       "length": 5,
-      "clue": "Bulmacada Zaman ya da süre karşılığını veren yanıt",
+      "clue": "Saniyelerden yıllara uzanan; akıp giden, geri döndürülemeyen zaman.",
       "answer": "VAKİT"
     },
     {
@@ -166,7 +166,7 @@
       "row": 5,
       "col": 2,
       "length": 3,
-      "clue": "Günlük dilde Ateş közü olarak bilinen kavram",
+      "clue": "Alevi sönmüş ama sıcaklığı ve kızıllığı süren yanmakta olan parça.",
       "answer": "KOR"
     },
     {
@@ -175,7 +175,7 @@
       "row": 7,
       "col": 0,
       "length": 5,
-      "clue": "Amaç ya da arzu anlamına gelen sözcük",
+      "clue": "Gönülde beslenen amaç; ulaşılmak istenen iç istek.",
       "answer": "MERAM"
     },
     {
@@ -184,7 +184,7 @@
       "row": 7,
       "col": 0,
       "length": 5,
-      "clue": "Bulmacada Hüzün ya da usanç karşılığını veren yanıt",
+      "clue": "İçe işleyen hafif hüzün; kimseye belli edilmeyen sessiz usanç.",
       "answer": "MELAL"
     },
     {
@@ -193,7 +193,7 @@
       "row": 7,
       "col": 4,
       "length": 5,
-      "clue": "Kabir için kullanılan yaygın ifade",
+      "clue": "Ölünün toprağa verildiği, başında taş bulunan defin yeri; kabir.",
       "answer": "MEZAR"
     },
     {
@@ -202,7 +202,7 @@
       "row": 10,
       "col": 3,
       "length": 4,
-      "clue": "Uyan ya da bağlı karşılığı olarak kullanılan kelime",
+      "clue": "Bir kurala, şahsa ya da düzene bağlı olan; ona uymak durumunda kalan.",
       "answer": "TABİ"
     }
   ]

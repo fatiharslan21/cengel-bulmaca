@@ -123,7 +123,7 @@
       "row": 0,
       "col": 3,
       "length": 4,
-      "clue": "Günlük dilde Sıkıntı ya da üzüntü olarak bilinen kavram",
+      "clue": "İnsanı üzen, iç sıkıntısı veren; uzun süre geçmeyen tasa ve keder.",
       "answer": "DERT"
     },
     {
@@ -132,7 +132,7 @@
       "row": 1,
       "col": 1,
       "length": 4,
-      "clue": "Bulmacada Konaklama yeri karşılığını veren yanıt",
+      "clue": "Yolcuların ücret karşılığı geceyi geçirdiği, odaları olan konaklama işletmesi.",
       "answer": "OTEL"
     },
     {
@@ -141,7 +141,7 @@
       "row": 3,
       "col": 3,
       "length": 5,
-      "clue": "Ekin alanı anlamına gelen sözcük",
+      "clue": "Üzerinde buğday, arpa ya da sebze yetiştirilen sürülmüş geniş toprak.",
       "answer": "TARLA"
     },
     {
@@ -150,7 +150,7 @@
       "row": 3,
       "col": 4,
       "length": 4,
-      "clue": "Günlük dilde Geniş düzlük olarak bilinen kavram",
+      "clue": "Üzerinde yapı bulunmayan, belli sınırlarla çevrili geniş açık düzlük.",
       "answer": "ALAN"
     },
     {
@@ -159,7 +159,7 @@
       "row": 5,
       "col": 0,
       "length": 5,
-      "clue": "Bulmacada Dört tekerlekli taşıt karşılığını veren yanıt",
+      "clue": "Tekerlekleri üstünde insan ya da yük taşıyan motorlu kara taşıtı.",
       "answer": "ARABA"
     },
     {
@@ -168,7 +168,7 @@
       "row": 5,
       "col": 2,
       "length": 5,
-      "clue": "Günlük dilde Konum bilgisi olarak bilinen kavram",
+      "clue": "Bir kimseye veya yere ulaşabilmek için gereken açık konum bilgisi.",
       "answer": "ADRES"
     },
     {
@@ -177,7 +177,7 @@
       "row": 6,
       "col": 4,
       "length": 4,
-      "clue": "Müzik işareti için kullanılan yaygın ifade",
+      "clue": "Müzik eserlerinde seslerin yükseklik ve uzunluğunu gösteren küçük simge.",
       "answer": "NOTA"
     },
     {
@@ -186,7 +186,7 @@
       "row": 6,
       "col": 6,
       "length": 5,
-      "clue": "Zar masa oyunu için kullanılan yaygın ifade",
+      "clue": "Zarla ve pullarla iki kişi arasında oynanan, kahvehane kültürünün oyunu.",
       "answer": "TAVLA"
     },
     {
@@ -195,7 +195,7 @@
       "row": 7,
       "col": 0,
       "length": 4,
-      "clue": "Bulmacada Ev bedeli karşılığını veren yanıt",
+      "clue": "Bir evin ya da iş yerinin kullanımı için sahibine ödenen aylık ücret.",
       "answer": "KIRA"
     },
     {
@@ -204,7 +204,7 @@
       "row": 9,
       "col": 2,
       "length": 3,
-      "clue": "Baştaki kıllar anlamına gelen sözcük",
+      "clue": "Başımızın derisinde biten, her birinin kökten uzayan ince tel kıl.",
       "answer": "SAÇ"
     }
   ]

@@ -101,7 +101,7 @@
       "row": 0,
       "col": 7,
       "length": 4,
-      "clue": "Müzik işareti için kullanılan yaygın ifade",
+      "clue": "Müzik eserlerinde seslerin yükseklik ve uzunluğunu gösteren küçük simge.",
       "answer": "NOTA"
     },
     {
@@ -110,7 +110,7 @@
       "row": 1,
       "col": 4,
       "length": 5,
-      "clue": "Bulmacada Uçak kullanan karşılığını veren yanıt",
+      "clue": "Havada uçağı yöneten, onu kalkış ve inişlerde kullanan yetişmiş kişi.",
       "answer": "PİLOT"
     },
     {
@@ -119,7 +119,7 @@
       "row": 1,
       "col": 4,
       "length": 5,
-      "clue": "Kutlama tatlısı anlamına gelen sözcük",
+      "clue": "Kat kat hamuru kremayla birleştirilen, doğum günlerinde kesilen tatlı.",
       "answer": "PASTA"
     },
     {
@@ -128,7 +128,7 @@
       "row": 2,
       "col": 0,
       "length": 5,
-      "clue": "Nefesli çalgı için kullanılan yaygın ifade",
+      "clue": "Düğünlerde davulla birlikte çalınan, ince tiz sesli üflemeli halk çalgısı.",
       "answer": "ZURNA"
     },
     {
@@ -137,7 +137,7 @@
       "row": 3,
       "col": 6,
       "length": 3,
-      "clue": "Mülk ya da eşya anlamına gelen sözcük",
+      "clue": "Sahip olunan taşınır ya da taşınmaz değerli eşya; mülk.",
       "answer": "MAL"
     },
     {
@@ -146,7 +146,7 @@
       "row": 4,
       "col": 0,
       "length": 5,
-      "clue": "Ambalajlı koli karşılığı olarak kullanılan kelime",
+      "clue": "İçindeki eşyayı korumak için ambalajlanmış, kâğıt ya da karton sargılı koli.",
       "answer": "PAKET"
     },
     {
@@ -155,7 +155,7 @@
       "row": 4,
       "col": 2,
       "length": 3,
-      "clue": "Seramik toprağı karşılığı olarak kullanılan kelime",
+      "clue": "Çanak çömlek yapımında kullanılan, suyla yumuşayan yapışkan toprak.",
       "answer": "KİL"
     },
     {
@@ -164,7 +164,7 @@
       "row": 5,
       "col": 4,
       "length": 3,
-      "clue": "Hatıra ya da geçmiş olay karşılığı olarak kullanılan kelime",
+      "clue": "Geçmişte yaşanmış ve zihinde iz bırakmış olayların hatırlanması.",
       "answer": "ANI"
     },
     {
@@ -173,7 +173,7 @@
       "row": 5,
       "col": 5,
       "length": 3,
-      "clue": "Bulmacada Havadaki rutubet karşılığını veren yanıt",
+      "clue": "Havada ya da bir yüzeyde bulunan, hissedilen rutubet miktarı.",
       "answer": "NEM"
     },
     {
@@ -182,7 +182,7 @@
       "row": 6,
       "col": 0,
       "length": 3,
-      "clue": "Kurak kumluk arazi anlamına gelen sözcük",
+      "clue": "Yağış almadığı için kum ve kayalarla kaplı, bitkisi çok seyrek olan bölge.",
       "answer": "ÇÖL"
     }
   ]

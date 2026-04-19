@@ -103,7 +103,7 @@
       "row": 0,
       "col": 0,
       "length": 3,
-      "clue": "Günlük dilde Sağın karşıtı olarak bilinen kavram",
+      "clue": "Kalbin bulunduğu taraf; sağın tam karşıtı olan yön.",
       "answer": "SOL"
     },
     {
@@ -112,7 +112,7 @@
       "row": 0,
       "col": 4,
       "length": 4,
-      "clue": "Kalın olmayan anlamına gelen sözcük",
+      "clue": "Kalınlığı az olan; zarif ve narin yapıda bulunan; kalının karşıtı.",
       "answer": "İNCE"
     },
     {
@@ -121,7 +121,7 @@
       "row": 1,
       "col": 0,
       "length": 5,
-      "clue": "Vücut bölümü karşılığı olarak kullanılan kelime",
+      "clue": "Vücudun belirli bir işlevi yerine getiren, dokulardan oluşmuş bölümü.",
       "answer": "ORGAN"
     },
     {
@@ -130,7 +130,7 @@
       "row": 3,
       "col": 3,
       "length": 5,
-      "clue": "Yenilebilen bitki için kullanılan yaygın ifade",
+      "clue": "Mutfağa giren, bitki kökleri ve yapraklarından oluşan yenilebilir besin.",
       "answer": "SEBZE"
     },
     {
@@ -139,7 +139,7 @@
       "row": 3,
       "col": 5,
       "length": 3,
-      "clue": "Arı ürünü tatlı için kullanılan yaygın ifade",
+      "clue": "Arıların çiçeklerden topladığı nektarı işleyerek yaptığı koyu, tatlı gıda.",
       "answer": "BAL"
     },
     {
@@ -148,7 +148,7 @@
       "row": 3,
       "col": 7,
       "length": 5,
-      "clue": "Temel buğday gıdası anlamına gelen sözcük",
+      "clue": "Undan mayalanıp fırında pişirilerek yapılan, sofranın temel besini.",
       "answer": "EKMEK"
     },
     {
@@ -157,7 +157,7 @@
       "row": 5,
       "col": 3,
       "length": 3,
-      "clue": "Bulmacada Güzergah ya da patika karşılığını veren yanıt",
+      "clue": "İki yerleşim birimini birbirine bağlayan; üzerinde gidilen döşeli güzergâh.",
       "answer": "YOL"
     },
     {
@@ -166,7 +166,7 @@
       "row": 5,
       "col": 3,
       "length": 4,
-      "clue": "Doku hasarı anlamına gelen sözcük",
+      "clue": "Bir kesik ya da darbe sonucu bedende oluşan açık doku hasarı.",
       "answer": "YARA"
     },
     {
@@ -175,7 +175,7 @@
       "row": 8,
       "col": 3,
       "length": 4,
-      "clue": "Ateşin parlak kısmı karşılığı olarak kullanılan kelime",
+      "clue": "Yanan bir şeyin üstünde dalgalanan, sıcak ve parlayan ışıklı kısım.",
       "answer": "ALEV"
     }
   ]

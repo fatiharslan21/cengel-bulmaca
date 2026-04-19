@@ -145,7 +145,7 @@
       "row": 0,
       "col": 1,
       "length": 4,
-      "clue": "Gökyüzü anlamına gelen sözcük",
+      "clue": "Başımızın üstünde uzanan mavi kubbe; yıldızları barındıran gökyüzü.",
       "answer": "SEMA"
     },
     {
@@ -154,7 +154,7 @@
       "row": 0,
       "col": 2,
       "length": 3,
-      "clue": "Tırnak törpüsü için kullanılan yaygın ifade",
+      "clue": "Metal ya da tırnak gibi sert yüzeyleri aşındırarak düzelten dişli alet.",
       "answer": "EĞE"
     },
     {
@@ -163,7 +163,7 @@
       "row": 2,
       "col": 0,
       "length": 4,
-      "clue": "Keder ya da acı karşılığı olarak kullanılan kelime",
+      "clue": "Gönle çöken derin üzüntü, insanı içten içe yiyen keder.",
       "answer": "ELEM"
     },
     {
@@ -172,7 +172,7 @@
       "row": 2,
       "col": 0,
       "length": 5,
-      "clue": "Vaktinden önce karşılığı olarak kullanılan kelime",
+      "clue": "Belirlenen vaktin öncesinde gelme; geç kalmanın tersi durumu.",
       "answer": "ERKEN"
     },
     {
@@ -181,7 +181,7 @@
       "row": 2,
       "col": 3,
       "length": 5,
-      "clue": "Günlük dilde Uysal ya da yumuşak olarak bilinen kavram",
+      "clue": "Yumuşak huylu, kolay geçinilen; sert tavır göstermeyen uysal kimse.",
       "answer": "MUNİS"
     },
     {
@@ -190,7 +190,7 @@
       "row": 4,
       "col": 6,
       "length": 4,
-      "clue": "Günlük dilde Yemek mobilyası olarak bilinen kavram",
+      "clue": "Üzerinde yemek yemek ya da çalışmak için kullanılan ayaklı düz mobilya.",
       "answer": "MASA"
     },
     {
@@ -199,7 +199,7 @@
       "row": 5,
       "col": 2,
       "length": 6,
-      "clue": "Ayrılık acısı için kullanılan yaygın ifade",
+      "clue": "Sevgiliden uzak düşmenin yürekte açtığı derin ayrılık acısı.",
       "answer": "HİCRAN"
     },
     {
@@ -208,7 +208,7 @@
       "row": 6,
       "col": 8,
       "length": 4,
-      "clue": "Talih ya da şans için kullanılan yaygın ifade",
+      "clue": "İnsanın başına gelenleri belirlediğine inanılan şans, talih ya da kader.",
       "answer": "BAHT"
     },
     {
@@ -217,7 +217,7 @@
       "row": 7,
       "col": 5,
       "length": 4,
-      "clue": "Günlük dilde Yanlış ya da kusur olarak bilinen kavram",
+      "clue": "İstemeden yapılan yanlış; doğru olandan sapmanın yol açtığı kusur.",
       "answer": "HATA"
     },
     {
@@ -226,7 +226,7 @@
       "row": 7,
       "col": 5,
       "length": 5,
-      "clue": "İç rahatlığı için kullanılan yaygın ifade",
+      "clue": "İç sıkıntısının olmadığı, gönlün rahat ettiği dingin ruh hali.",
       "answer": "HUZUR"
     }
   ]

@@ -143,7 +143,7 @@
       "row": 0,
       "col": 6,
       "length": 6,
-      "clue": "Bulmacada Alçakgönüllülük karşılığını veren yanıt",
+      "clue": "Kendini üstün görmeyen, sade ve mütevazı davranış; gösterişsiz olma hali.",
       "answer": "TEVAZU"
     },
     {
@@ -152,7 +152,7 @@
       "row": 0,
       "col": 9,
       "length": 5,
-      "clue": "İç ya da iç yüz karşılığı olarak kullanılan kelime",
+      "clue": "Bir şeyin iç tarafı; gönlün ya da yüreğin en derin, gizli yeri.",
       "answer": "DERUN"
     },
     {
@@ -161,7 +161,7 @@
       "row": 1,
       "col": 5,
       "length": 6,
-      "clue": "Ülke yönetimi için kullanılan yaygın ifade",
+      "clue": "Belirli bir ülkenin sınırlarında örgütlenmiş siyasi ve yönetimsel yapı.",
       "answer": "DEVLET"
     },
     {
@@ -170,7 +170,7 @@
       "row": 2,
       "col": 2,
       "length": 4,
-      "clue": "Uyan ya da bağlı karşılığı olarak kullanılan kelime",
+      "clue": "Bir kurala, şahsa ya da düzene bağlı olan; ona uymak durumunda kalan.",
       "answer": "TABİ"
     },
     {
@@ -179,7 +179,7 @@
       "row": 2,
       "col": 4,
       "length": 4,
-      "clue": "Günlük dilde Yanlış ya da kusur olarak bilinen kavram",
+      "clue": "İstemeden yapılan yanlış; doğru olandan sapmanın yol açtığı kusur.",
       "answer": "HATA"
     },
     {
@@ -188,7 +188,7 @@
       "row": 3,
       "col": 4,
       "length": 4,
-      "clue": "Günlük dilde Bacak ucu olarak bilinen kavram",
+      "clue": "Bacağın bileğinden aşağısı; üzerine basarak yürümemizi sağlayan uzuv.",
       "answer": "AYAK"
     },
     {
@@ -197,7 +197,7 @@
       "row": 5,
       "col": 1,
       "length": 4,
-      "clue": "Bulmacada İkiyüzlülük karşılığını veren yanıt",
+      "clue": "İnanmadığı halde inanıyormuş gibi davranma; iki yüzlü tavır.",
       "answer": "RİYA"
     },
     {
@@ -206,7 +206,7 @@
       "row": 5,
       "col": 3,
       "length": 5,
-      "clue": "Kitap yazan için kullanılan yaygın ifade",
+      "clue": "Kitap, hikâye ya da makale gibi edebi eserler kaleme alan kimse.",
       "answer": "YAZAR"
     },
     {
@@ -215,7 +215,7 @@
       "row": 7,
       "col": 1,
       "length": 5,
-      "clue": "Bakış ya da göz anlamına gelen sözcük",
+      "clue": "Kötü bakışın bir kimseye uğursuzluk getireceğine duyulan halk inancı.",
       "answer": "NAZAR"
     },
     {
@@ -224,7 +224,7 @@
       "row": 9,
       "col": 0,
       "length": 6,
-      "clue": "Günlük dilde Güç ya da kuvvet olarak bilinen kavram",
+      "clue": "Bir işi yapabilme gücü; insanda ya da doğada bulunan büyük kuvvet.",
       "answer": "KUDRET"
     }
   ]

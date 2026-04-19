@@ -112,7 +112,7 @@
       "row": 0,
       "col": 6,
       "length": 4,
-      "clue": "Bulmacada Zaman ölçer karşılığını veren yanıt",
+      "clue": "Akrep, yelkovan ve rakamlarla anı gösteren; zamanı ölçen günlük araç.",
       "answer": "SAAT"
     },
     {
@@ -121,7 +121,7 @@
       "row": 1,
       "col": 5,
       "length": 3,
-      "clue": "Devir ya da dönem karşılığı olarak kullanılan kelime",
+      "clue": "Tarihte belli özelliklerle ayırt edilen uzun dönem; devir, asır.",
       "answer": "ÇAĞ"
     },
     {
@@ -130,7 +130,7 @@
       "row": 3,
       "col": 4,
       "length": 3,
-      "clue": "Ses çıkaran metal karşılığı olarak kullanılan kelime",
+      "clue": "İçindeki dilin sallanmasıyla ses çıkaran, koni biçimli madeni araç.",
       "answer": "ÇAN"
     },
     {
@@ -139,7 +139,7 @@
       "row": 3,
       "col": 4,
       "length": 3,
-      "clue": "Bulmacada Bahçe engeli karşılığını veren yanıt",
+      "clue": "Bahçeyi ya da tarlayı çevreleyen, tahta veya telden yapılmış alçak engel.",
       "answer": "ÇİT"
     },
     {
@@ -148,7 +148,7 @@
       "row": 4,
       "col": 2,
       "length": 3,
-      "clue": "Günlük dilde Ced ya da büyükbaba olarak bilinen kavram",
+      "clue": "Soyun büyüklerinden sayılan dede ya da daha öncesinden gelen büyük.",
       "answer": "ATA"
     },
     {
@@ -157,7 +157,7 @@
       "row": 4,
       "col": 2,
       "length": 4,
-      "clue": "Av yapan kişi anlamına gelen sözcük",
+      "clue": "Kırda ya da ormanda silahla veya tuzakla av peşinde koşan kişi.",
       "answer": "AVCI"
     },
     {
@@ -166,7 +166,7 @@
       "row": 4,
       "col": 8,
       "length": 5,
-      "clue": "Algılama sistemi karşılığı olarak kullanılan kelime",
+      "clue": "Radyo dalgalarını yollayıp yansımasını ölçerek uzaktaki nesneleri belirleyen sistem.",
       "answer": "RADAR"
     },
     {
@@ -175,7 +175,7 @@
       "row": 5,
       "col": 4,
       "length": 5,
-      "clue": "En küçük işaret için kullanılan yaygın ifade",
+      "clue": "Bir cümlenin sonuna konan en küçük yazı işareti; konumun kendisi.",
       "answer": "NOKTA"
     },
     {
@@ -184,7 +184,7 @@
       "row": 6,
       "col": 0,
       "length": 4,
-      "clue": "Ses birimi için kullanılan yaygın ifade",
+      "clue": "Bir kelimeyi bir nefeste söyleyebildiğimiz en küçük ses birimi.",
       "answer": "HECE"
     }
   ]

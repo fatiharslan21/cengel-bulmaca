@@ -145,7 +145,7 @@
       "row": 0,
       "col": 6,
       "length": 6,
-      "clue": "Bulmacada Sevgi ya da acıma karşılığını veren yanıt",
+      "clue": "Zayıfa ve çaresize duyulan içten sevgi; acıyarak sarılma duygusu.",
       "answer": "ŞEFKAT"
     },
     {
@@ -154,7 +154,7 @@
       "row": 4,
       "col": 3,
       "length": 3,
-      "clue": "Yanık kalıntısı için kullanılan yaygın ifade",
+      "clue": "Bir şeyin yanıp bitmesinin ardından geriye kalan kurumuş toz madde.",
       "answer": "KÜL"
     },
     {
@@ -163,7 +163,7 @@
       "row": 4,
       "col": 3,
       "length": 4,
-      "clue": "Ödül bardağı anlamına gelen sözcük",
+      "clue": "Bir yarışmanın galibine ödül olarak verilen, ayaklı madeni kadeh.",
       "answer": "KUPA"
     },
     {
@@ -172,7 +172,7 @@
       "row": 5,
       "col": 8,
       "length": 5,
-      "clue": "Günlük dilde Gökyüzü su kümeleri olarak bilinen kavram",
+      "clue": "Gökyüzünde süzülen, su buharının yoğunlaşmasıyla oluşan beyaz küme.",
       "answer": "BULUT"
     },
     {
@@ -181,7 +181,7 @@
       "row": 6,
       "col": 0,
       "length": 6,
-      "clue": "Üst giysi karşılığı olarak kullanılan kelime",
+      "clue": "Yakalı, düğmeli ve kollu olan, üstten giyilen ince kumaş giysi.",
       "answer": "GÖMLEK"
     },
     {
@@ -190,7 +190,7 @@
       "row": 6,
       "col": 5,
       "length": 4,
-      "clue": "Savunma yapısı karşılığı olarak kullanılan kelime",
+      "clue": "Eskiden şehirleri düşmandan korumak için yapılmış yüksek surlu savunma yapısı.",
       "answer": "KALE"
     },
     {
@@ -199,7 +199,7 @@
       "row": 7,
       "col": 5,
       "length": 4,
-      "clue": "Gerçek ya da hakiki için kullanılan yaygın ifade",
+      "clue": "Sahte ya da taklit olmayan; bir şeyin gerçek ve temel olan hali.",
       "answer": "ASIL"
     },
     {
@@ -208,7 +208,7 @@
       "row": 8,
       "col": 3,
       "length": 3,
-      "clue": "Konuşma organı anlamına gelen sözcük",
+      "clue": "Ağız içindeki kaslı organ; aynı zamanda insanların konuşarak anlaştığı sistem.",
       "answer": "DİL"
     },
     {
@@ -217,7 +217,7 @@
       "row": 8,
       "col": 3,
       "length": 4,
-      "clue": "Günlük dilde Boş olmayan olarak bilinen kavram",
+      "clue": "İçi boşluk bırakmayacak biçimde bir şeyle tamamen kaplanmış olan.",
       "answer": "DOLU"
     },
     {
@@ -226,7 +226,7 @@
       "row": 10,
       "col": 2,
       "length": 3,
-      "clue": "Bulmacada Üstün karşıtı karşılığını veren yanıt",
+      "clue": "Bir cismin aşağı tarafı; üst sözcüğünün tam karşıtı olan yön.",
       "answer": "ALT"
     }
   ]

@@ -145,7 +145,7 @@
       "row": 0,
       "col": 4,
       "length": 5,
-      "clue": "Günlük dilde Ölçü ya da ebat olarak bilinen kavram",
+      "clue": "Bir cismin uzunluk, genişlik ve yükseklik gibi ölçülebilen özelliği.",
       "answer": "BOYUT"
     },
     {
@@ -154,7 +154,7 @@
       "row": 0,
       "col": 5,
       "length": 4,
-      "clue": "Günlük dilde Silahlı kuvvetler olarak bilinen kavram",
+      "clue": "Bir ülkenin savunmasını üstlenen, askerlerden oluşan silahlı kuvvetler.",
       "answer": "ORDU"
     },
     {
@@ -163,7 +163,7 @@
       "row": 2,
       "col": 0,
       "length": 4,
-      "clue": "Bulmacada Sanat yapıtı karşılığını veren yanıt",
+      "clue": "Bir sanatçının ya da yazarın ortaya koyduğu özgün yapıt.",
       "answer": "ESER"
     },
     {
@@ -172,7 +172,7 @@
       "row": 2,
       "col": 3,
       "length": 5,
-      "clue": "Programlanabilir makine için kullanılan yaygın ifade",
+      "clue": "Programlanarak belirli işleri otomatik yapan mekanik insansı makine.",
       "answer": "ROBOT"
     },
     {
@@ -181,7 +181,7 @@
       "row": 3,
       "col": 3,
       "length": 4,
-      "clue": "Eğitim kurumu için kullanılan yaygın ifade",
+      "clue": "Öğrencilerin öğretmenler tarafından eğitim aldığı resmî öğretim kurumu.",
       "answer": "OKUL"
     },
     {
@@ -190,7 +190,7 @@
       "row": 6,
       "col": 3,
       "length": 5,
-      "clue": "Küçük deniz taşıtı anlamına gelen sözcük",
+      "clue": "Yelkenli ya da motorlu olup denizde kısa yolculuklara çıkan küçük gemi.",
       "answer": "TEKNE"
     },
     {
@@ -199,7 +199,7 @@
       "row": 6,
       "col": 6,
       "length": 4,
-      "clue": "Müzik işareti için kullanılan yaygın ifade",
+      "clue": "Müzik eserlerinde seslerin yükseklik ve uzunluğunu gösteren küçük simge.",
       "answer": "NOTA"
     },
     {
@@ -208,7 +208,7 @@
       "row": 9,
       "col": 5,
       "length": 3,
-      "clue": "Bulmacada Ağacın kolu karşılığını veren yanıt",
+      "clue": "Bir ağacın gövdesinden yanlara doğru uzayan ve yapraklarını taşıyan kol.",
       "answer": "DAL"
     },
     {
@@ -217,7 +217,7 @@
       "row": 9,
       "col": 5,
       "length": 3,
-      "clue": "Bulmacada Su ile yıkanma karşılığını veren yanıt",
+      "clue": "Üstten sıkılan su ile yıkanmak üzere banyoya yerleştirilmiş düzenek.",
       "answer": "DUŞ"
     },
     {
@@ -226,7 +226,7 @@
       "row": 11,
       "col": 3,
       "length": 3,
-      "clue": "Bulmacada Çiğneme organı karşılığını veren yanıt",
+      "clue": "Ağızda bulunan, yiyecekleri kopartıp öğütmeye yarayan sert beyaz yapı.",
       "answer": "DİŞ"
     }
   ]

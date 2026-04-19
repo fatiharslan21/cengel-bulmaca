@@ -121,7 +121,7 @@
       "row": 0,
       "col": 8,
       "length": 5,
-      "clue": "Günlük dilde Gökyüzü su kümeleri olarak bilinen kavram",
+      "clue": "Gökyüzünde süzülen, su buharının yoğunlaşmasıyla oluşan beyaz küme.",
       "answer": "BULUT"
     },
     {
@@ -130,7 +130,7 @@
       "row": 2,
       "col": 2,
       "length": 4,
-      "clue": "Gömlek boyun kısmı için kullanılan yaygın ifade",
+      "clue": "Gömleğin boynu çevreleyen üst kısmı; ceketin de boyuna değen kenarı.",
       "answer": "YAKA"
     },
     {
@@ -139,7 +139,7 @@
       "row": 2,
       "col": 4,
       "length": 5,
-      "clue": "Sadık evcil hayvan anlamına gelen sözcük",
+      "clue": "İnsana sadakatiyle bilinen, havlayarak seslenen evcil dört ayaklı.",
       "answer": "KÖPEK"
     },
     {
@@ -148,7 +148,7 @@
       "row": 4,
       "col": 1,
       "length": 3,
-      "clue": "Günlük dilde Görme organı olarak bilinen kavram",
+      "clue": "Yüzümüzde çift olarak bulunan, etrafımızı görmemizi sağlayan duyu organı.",
       "answer": "GÖZ"
     },
     {
@@ -157,7 +157,7 @@
       "row": 4,
       "col": 4,
       "length": 5,
-      "clue": "Bulmacada Uçak kullanan karşılığını veren yanıt",
+      "clue": "Havada uçağı yöneten, onu kalkış ve inişlerde kullanan yetişmiş kişi.",
       "answer": "PİLOT"
     },
     {
@@ -166,7 +166,7 @@
       "row": 4,
       "col": 7,
       "length": 4,
-      "clue": "Eğitim kurumu için kullanılan yaygın ifade",
+      "clue": "Öğrencilerin öğretmenler tarafından eğitim aldığı resmî öğretim kurumu.",
       "answer": "OKUL"
     },
     {
@@ -175,7 +175,7 @@
       "row": 5,
       "col": 0,
       "length": 5,
-      "clue": "Işık arkası için kullanılan yaygın ifade",
+      "clue": "Işığın önüne bir cisim girince arkasında oluşan karanlık alan.",
       "answer": "GÖLGE"
     },
     {
@@ -184,7 +184,7 @@
       "row": 5,
       "col": 9,
       "length": 4,
-      "clue": "Kalın olmayan anlamına gelen sözcük",
+      "clue": "Kalınlığı az olan; zarif ve narin yapıda bulunan; kalının karşıtı.",
       "answer": "İNCE"
     },
     {
@@ -193,7 +193,7 @@
       "row": 6,
       "col": 6,
       "length": 4,
-      "clue": "Sayısal değer için kullanılan yaygın ifade",
+      "clue": "Bir sınavda ya da yarışmada başarıya göre verilen sayısal değerlendirme.",
       "answer": "PUAN"
     }
   ]

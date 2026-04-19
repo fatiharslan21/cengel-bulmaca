@@ -181,7 +181,7 @@
       "row": 0,
       "col": 6,
       "length": 4,
-      "clue": "Küçük kemirgen karşılığı olarak kullanılan kelime",
+      "clue": "Dişleri sürekli uzayan, tahtayı ve kâğıdı kemirebilen küçük kemirgen.",
       "answer": "FARE"
     },
     {
@@ -190,7 +190,7 @@
       "row": 1,
       "col": 5,
       "length": 5,
-      "clue": "Algılama sistemi karşılığı olarak kullanılan kelime",
+      "clue": "Radyo dalgalarını yollayıp yansımasını ölçerek uzaktaki nesneleri belirleyen sistem.",
       "answer": "RADAR"
     },
     {
@@ -199,7 +199,7 @@
       "row": 3,
       "col": 5,
       "length": 5,
-      "clue": "Pencereyi örtmek için asılan kumaş",
+      "clue": "Pencereyi örtmek için asılan, ışığı ve dışarıdan görünmeyi engelleyen kumaş.",
       "answer": "PERDE"
     },
     {
@@ -208,7 +208,7 @@
       "row": 3,
       "col": 8,
       "length": 5,
-      "clue": "Günlük dilde Bilimsel test olarak bilinen kavram",
+      "clue": "Bir varsayımı doğrulamak amacıyla yapılan, kontrollü bilimsel çalışma.",
       "answer": "DENEY"
     },
     {
@@ -217,7 +217,7 @@
       "row": 5,
       "col": 4,
       "length": 5,
-      "clue": "Büyük oda için kullanılan yaygın ifade",
+      "clue": "Evin misafir ağırlanan en büyük odası ya da toplantı yapılan geniş mekân.",
       "answer": "SALON"
     },
     {
@@ -226,7 +226,7 @@
       "row": 5,
       "col": 4,
       "length": 6,
-      "clue": "Kısa an anlamına gelen sözcük",
+      "clue": "Dakikanın altmışta biri; zamanın en küçük günlük ölçü birimi.",
       "answer": "SANİYE"
     },
     {
@@ -235,7 +235,7 @@
       "row": 5,
       "col": 11,
       "length": 4,
-      "clue": "Amaç ya da maksat için kullanılan yaygın ifade",
+      "clue": "Bir işe girişirken göz önünde tutulan, ulaşılmak istenen son hedef.",
       "answer": "GAYE"
     },
     {
@@ -244,7 +244,7 @@
       "row": 6,
       "col": 8,
       "length": 4,
-      "clue": "Bulmacada Kırmızı meyve karşılığını veren yanıt",
+      "clue": "Kabuğu kırmızı, sarı ya da yeşil olabilen, sulu ve çıtır meyve.",
       "answer": "ELMA"
     },
     {
@@ -253,7 +253,7 @@
       "row": 9,
       "col": 1,
       "length": 3,
-      "clue": "Beyaz yağış için kullanılan yaygın ifade",
+      "clue": "Soğuk havada bulutlardan düşen, altıgen kristallerden oluşan beyaz yağış.",
       "answer": "KAR"
     },
     {
@@ -262,7 +262,7 @@
       "row": 10,
       "col": 0,
       "length": 6,
-      "clue": "Kıyamet yeri için kullanılan yaygın ifade",
+      "clue": "Dinde kıyamet sonrası ölülerin toplanacağına inanılan büyük buluşma yeri.",
       "answer": "MAHŞER"
     }
   ]

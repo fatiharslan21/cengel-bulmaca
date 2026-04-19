@@ -139,7 +139,7 @@
       "row": 0,
       "col": 5,
       "length": 4,
-      "clue": "Hörgüçlü hayvan için kullanılan yaygın ifade",
+      "clue": "Sırtında hörgücü bulunan, çölde uzun süre susuzluğa dayanabilen büyük hayvan.",
       "answer": "DEVE"
     },
     {
@@ -148,7 +148,7 @@
       "row": 1,
       "col": 0,
       "length": 6,
-      "clue": "Söylence ya da mit anlamına gelen sözcük",
+      "clue": "Kuşaktan kuşağa sözlü aktarılan, olağanüstü öğelerle süslenmiş hikâye.",
       "answer": "EFSANE"
     },
     {
@@ -157,7 +157,7 @@
       "row": 1,
       "col": 8,
       "length": 6,
-      "clue": "Günlük dilde Değerli şeyler olarak bilinen kavram",
+      "clue": "Değerli eşyaların ya da paraların saklandığı gizli büyük birikim.",
       "answer": "HAZİNE"
     },
     {
@@ -166,7 +166,7 @@
       "row": 1,
       "col": 10,
       "length": 4,
-      "clue": "Sözün taşıdığı anlam, içerik",
+      "clue": "Bir sözcüğün ya da cümlenin ardında yatan anlam; içerdiği kavram.",
       "answer": "MANA"
     },
     {
@@ -175,7 +175,7 @@
       "row": 2,
       "col": 7,
       "length": 4,
-      "clue": "Tahta oyunu anlamına gelen sözcük",
+      "clue": "Siyah beyaz karelere yerleştirilen taşlarla iki kişi arasında oynanan oyun.",
       "answer": "DAMA"
     },
     {
@@ -184,7 +184,7 @@
       "row": 3,
       "col": 2,
       "length": 5,
-      "clue": "El kol eklemi karşılığı olarak kullanılan kelime",
+      "clue": "Kolla eli birbirine bağlayan, küçük kemiklerden oluşan eklem bölgesi.",
       "answer": "BİLEK"
     },
     {
@@ -193,7 +193,7 @@
       "row": 3,
       "col": 6,
       "length": 5,
-      "clue": "Günlük dilde Küçük kırmızı meyve olarak bilinen kavram",
+      "clue": "Saplı, parlak, kırmızı kabuklu; ilkbaharın sonunda olgunlaşan tatlı meyve.",
       "answer": "KİRAZ"
     },
     {
@@ -202,7 +202,7 @@
       "row": 4,
       "col": 8,
       "length": 4,
-      "clue": "Bulmacada İnanç karşılığını veren yanıt",
+      "clue": "Din esaslarına yürekten bağlanma; kalben kabul edip inanma hali.",
       "answer": "İMAN"
     },
     {
@@ -211,7 +211,7 @@
       "row": 4,
       "col": 11,
       "length": 5,
-      "clue": "Günlük dilde Soluk alma verme olarak bilinen kavram",
+      "clue": "Ciğerlere hava çekmek ve bırakmak; yaşamın sürdüğünün göstergesi soluk.",
       "answer": "NEFES"
     },
     {
@@ -220,7 +220,7 @@
       "row": 6,
       "col": 5,
       "length": 5,
-      "clue": "Günlük dilde İstek olarak bilinen kavram",
+      "clue": "Bir kimsenin bir şey için yaptığı istek; dile getirilen açık dilek.",
       "answer": "TALEP"
     }
   ]

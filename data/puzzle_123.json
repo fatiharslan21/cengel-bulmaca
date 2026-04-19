@@ -130,7 +130,7 @@
       "row": 0,
       "col": 4,
       "length": 4,
-      "clue": "Günlük dilde Silahlı kuvvetler olarak bilinen kavram",
+      "clue": "Bir ülkenin savunmasını üstlenen, askerlerden oluşan silahlı kuvvetler.",
       "answer": "ORDU"
     },
     {
@@ -139,7 +139,7 @@
       "row": 1,
       "col": 0,
       "length": 5,
-      "clue": "Günlük dilde Yeni bilgi olarak bilinen kavram",
+      "clue": "Bir olay ya da gelişme hakkında ulaşan yeni bilgi; duyuru.",
       "answer": "HABER"
     },
     {
@@ -148,7 +148,7 @@
       "row": 1,
       "col": 2,
       "length": 4,
-      "clue": "İnsanların yaşadığı veya çalıştığı yapı",
+      "clue": "İnsanların içinde oturduğu ya da çalıştığı, taş ve betondan yapılmış yapı.",
       "answer": "BİNA"
     },
     {
@@ -157,7 +157,7 @@
       "row": 2,
       "col": 6,
       "length": 4,
-      "clue": "Siyah renk karşılığı olarak kullanılan kelime",
+      "clue": "Beyazın tam zıttı olan, gölgeleri bile koyulaştıran siyah ton.",
       "answer": "KARA"
     },
     {
@@ -166,7 +166,7 @@
       "row": 3,
       "col": 4,
       "length": 4,
-      "clue": "Havada uçan taşıt karşılığı olarak kullanılan kelime",
+      "clue": "Kanatları sayesinde havalanıp gökyüzünde uçan motorlu büyük taşıt.",
       "answer": "UÇAK"
     },
     {
@@ -175,7 +175,7 @@
       "row": 4,
       "col": 8,
       "length": 5,
-      "clue": "Günlük dilde Yazı aleti olarak bilinen kavram",
+      "clue": "Ucundan mürekkep ya da grafit akıtarak kâğıda yazı yazmayı sağlayan araç.",
       "answer": "KALEM"
     },
     {
@@ -184,7 +184,7 @@
       "row": 4,
       "col": 10,
       "length": 4,
-      "clue": "Türk simgesi çiçek için kullanılan yaygın ifade",
+      "clue": "İlkbaharda açan, kadeh biçimli taç yaprakları olan, Türklerin simgesi çiçek.",
       "answer": "LALE"
     },
     {
@@ -193,7 +193,7 @@
       "row": 5,
       "col": 6,
       "length": 3,
-      "clue": "Dört tarafı suyla çevrili kara",
+      "clue": "Dört bir yanı suyla çevrili, denizin ortasında kalmış toprak parçası.",
       "answer": "ADA"
     },
     {
@@ -202,7 +202,7 @@
       "row": 7,
       "col": 7,
       "length": 4,
-      "clue": "Küçük akarsu anlamına gelen sözcük",
+      "clue": "Dağlardan doğan, ırmağa ya da göle dökülen küçük doğal akarsu.",
       "answer": "DERE"
     }
   ]

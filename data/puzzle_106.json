@@ -101,7 +101,7 @@
       "row": 0,
       "col": 5,
       "length": 4,
-      "clue": "Günlük dilde Buyruk ya da komut olarak bilinen kavram",
+      "clue": "Yetkili bir kimsenin yerine getirilmek üzere verdiği kesin buyruk.",
       "answer": "EMİR"
     },
     {
@@ -110,7 +110,7 @@
       "row": 2,
       "col": 1,
       "length": 4,
-      "clue": "Günlük dilde Adet ya da parça olarak bilinen kavram",
+      "clue": "Sayılabilen nesnelerin her biri; küçük parça ya da adet.",
       "answer": "TANE"
     },
     {
@@ -119,7 +119,7 @@
       "row": 3,
       "col": 4,
       "length": 4,
-      "clue": "Üstünü kapatan karşılığı olarak kullanılan kelime",
+      "clue": "Bir eşyanın ya da yüzeyin üstünü kapatmak için serilen kumaş parçası.",
       "answer": "ÖRTÜ"
     },
     {
@@ -128,7 +128,7 @@
       "row": 3,
       "col": 6,
       "length": 4,
-      "clue": "Bağlama aracı anlamına gelen sözcük",
+      "clue": "Saçı ya da kemeri tutturmaya yarayan, klips gibi açılıp kapanan küçük süs.",
       "answer": "TOKA"
     },
     {
@@ -137,7 +137,7 @@
       "row": 4,
       "col": 3,
       "length": 4,
-      "clue": "Günlük dilde İlerinin zıttı olarak bilinen kavram",
+      "clue": "İlerinin zıttı; arkaya ya da başlangıca doğru olan yön.",
       "answer": "GERİ"
     },
     {
@@ -146,7 +146,7 @@
       "row": 5,
       "col": 0,
       "length": 4,
-      "clue": "Karanlık zaman anlamına gelen sözcük",
+      "clue": "Güneşin batmasından doğmasına kadar süren karanlık zaman dilimi.",
       "answer": "GECE"
     },
     {
@@ -155,7 +155,7 @@
       "row": 5,
       "col": 0,
       "length": 3,
-      "clue": "Günlük dilde Görme organı olarak bilinen kavram",
+      "clue": "Yüzümüzde çift olarak bulunan, etrafımızı görmemizi sağlayan duyu organı.",
       "answer": "GÖZ"
     },
     {
@@ -164,7 +164,7 @@
       "row": 5,
       "col": 6,
       "length": 3,
-      "clue": "Beyaz yağış için kullanılan yaygın ifade",
+      "clue": "Soğuk havada bulutlardan düşen, altıgen kristallerden oluşan beyaz yağış.",
       "answer": "KAR"
     },
     {
@@ -173,7 +173,7 @@
       "row": 6,
       "col": 3,
       "length": 4,
-      "clue": "Uykuda hayal karşılığı olarak kullanılan kelime",
+      "clue": "Uykuda iken zihnin sahneler halinde canlandırdığı renkli görüntüler.",
       "answer": "RÜYA"
     }
   ]

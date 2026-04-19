@@ -134,7 +134,7 @@
       "row": 0,
       "col": 1,
       "length": 5,
-      "clue": "İyilik ya da bolluk için kullanılan yaygın ifade",
+      "clue": "Yararlanılan, şükür duyulan değerli varlık; insana verilmiş lütuf.",
       "answer": "NİMET"
     },
     {
@@ -143,7 +143,7 @@
       "row": 2,
       "col": 3,
       "length": 5,
-      "clue": "Günlük dilde Temizlik maddesi olarak bilinen kavram",
+      "clue": "Cilde sürülüp suyla köpürtülerek kirleri temizleyen, kalıp ya da sıvı madde.",
       "answer": "SABUN"
     },
     {
@@ -152,7 +152,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "Sözünde durma karşılığı olarak kullanılan kelime",
+      "clue": "Dostluğunu ve sevgisini zaman geçse bile sürdürme; söze sadakat.",
       "answer": "VEFA"
     },
     {
@@ -161,7 +161,7 @@
       "row": 3,
       "col": 5,
       "length": 4,
-      "clue": "Günlük dilde Yüzeylerin birleşimi olarak bilinen kavram",
+      "clue": "İki duvarın ya da iki kenarın birleştiği noktada oluşan açılı yer.",
       "answer": "KÖŞE"
     },
     {
@@ -170,7 +170,7 @@
       "row": 6,
       "col": 1,
       "length": 6,
-      "clue": "Konular listesi için kullanılan yaygın ifade",
+      "clue": "Bir toplantıda ya da günde ele alınacak konuların sıralı listesi.",
       "answer": "GÜNDEM"
     },
     {
@@ -179,7 +179,7 @@
       "row": 6,
       "col": 1,
       "length": 3,
-      "clue": "Bulmacada Kuvvet ya da enerji karşılığını veren yanıt",
+      "clue": "Bir işi yapabilme yeteneği; fiziksel ya da manevi olarak sahip olunan kuvvet.",
       "answer": "GÜÇ"
     },
     {
@@ -188,7 +188,7 @@
       "row": 6,
       "col": 6,
       "length": 5,
-      "clue": "Örnek ya da benzer için kullanılan yaygın ifade",
+      "clue": "Anlatılanı somutlaştırmak için verilen örnek; kıyas noktası.",
       "answer": "MİSAL"
     },
     {
@@ -197,7 +197,7 @@
       "row": 7,
       "col": 8,
       "length": 4,
-      "clue": "Uyan ya da bağlı karşılığı olarak kullanılan kelime",
+      "clue": "Bir kurala, şahsa ya da düzene bağlı olan; ona uymak durumunda kalan.",
       "answer": "TABİ"
     },
     {
@@ -206,7 +206,7 @@
       "row": 8,
       "col": 4,
       "length": 5,
-      "clue": "Mektup servisi için kullanılan yaygın ifade",
+      "clue": "Mektup ve paketlerin toplanıp yerine ulaştırıldığı geleneksel iletişim hizmeti.",
       "answer": "POSTA"
     },
     {
@@ -215,7 +215,7 @@
       "row": 10,
       "col": 2,
       "length": 5,
-      "clue": "Bulmacada Yok olma karşılığını veren yanıt",
+      "clue": "Varlığı yerinde durmayıp sona ermesi; yokluğa geçme hali.",
       "answer": "ZEVAL"
     }
   ]

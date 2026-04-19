@@ -133,7 +133,7 @@
       "row": 0,
       "col": 7,
       "length": 3,
-      "clue": "Seramik toprağı karşılığı olarak kullanılan kelime",
+      "clue": "Çanak çömlek yapımında kullanılan, suyla yumuşayan yapışkan toprak.",
       "answer": "KİL"
     },
     {
@@ -142,7 +142,7 @@
       "row": 2,
       "col": 5,
       "length": 3,
-      "clue": "Posta gönderilerinin üzerine yapıştırılan değer etiketi",
+      "clue": "Mektupların üzerine yapıştırılan, postanın ücretini belgeleyen küçük kâğıt.",
       "answer": "PUL"
     },
     {
@@ -151,7 +151,7 @@
       "row": 2,
       "col": 6,
       "length": 4,
-      "clue": "Bulmacada Yöntem ya da tarz karşılığını veren yanıt",
+      "clue": "Bir işin belirli kurallar içinde yapılmasını sağlayan yol; yöntem.",
       "answer": "USUL"
     },
     {
@@ -160,7 +160,7 @@
       "row": 5,
       "col": 4,
       "length": 5,
-      "clue": "Günlük dilde Gerçek olmayan düş olarak bilinen kavram",
+      "clue": "Zihinde canlandırılan, gerçekleşmesi beklenen ya da umulan görüntü.",
       "answer": "HAYAL"
     },
     {
@@ -169,7 +169,7 @@
       "row": 5,
       "col": 4,
       "length": 4,
-      "clue": "Günlük dilde Düzen ya da oyun olarak bilinen kavram",
+      "clue": "Birini aldatmak için yapılan gizli düzen; dolap çevirme.",
       "answer": "HİLE"
     },
     {
@@ -178,7 +178,7 @@
       "row": 6,
       "col": 1,
       "length": 4,
-      "clue": "Ses ya da seda karşılığı olarak kullanılan kelime",
+      "clue": "Uzaktan duyulan insan ya da doğa sesi; boğumlu ses dalgası.",
       "answer": "SADA"
     },
     {
@@ -187,7 +187,7 @@
       "row": 7,
       "col": 4,
       "length": 3,
-      "clue": "Çehre; sayı 100 için kullanılan yaygın ifade",
+      "clue": "Gözlerin, burnun ve ağzın bulunduğu baş ön kısmı; ayrıca on kere on sayısı.",
       "answer": "YÜZ"
     },
     {
@@ -196,7 +196,7 @@
       "row": 8,
       "col": 1,
       "length": 4,
-      "clue": "Yırtığı kapatmak için eklenen parça",
+      "clue": "Eskiyip yırtılan giysiyi onarmak için üstüne dikilen küçük kumaş parçası.",
       "answer": "YAMA"
     },
     {
@@ -205,7 +205,7 @@
       "row": 9,
       "col": 0,
       "length": 5,
-      "clue": "Bulmacada Taşıma ya da aktarma karşılığını veren yanıt",
+      "clue": "Bir şeyin bir yerden başka bir yere taşınması; aktarma işlemi.",
       "answer": "NAKİL"
     },
     {
@@ -214,7 +214,7 @@
       "row": 11,
       "col": 1,
       "length": 3,
-      "clue": "Yakışıklı ya da gösterişli anlamına gelen sözcük",
+      "clue": "Halk ağzında yakışıklı, gösterişli kimse için kullanılan eski bir sözcük.",
       "answer": "AFİ"
     }
   ]

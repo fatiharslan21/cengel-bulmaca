@@ -112,7 +112,7 @@
       "row": 0,
       "col": 1,
       "length": 4,
-      "clue": "Günlük dilde Yeşil alan olarak bilinen kavram",
+      "clue": "Şehir içinde insanların dinlenip yürüdüğü, ağaçlıklı kamusal yeşil alan.",
       "answer": "PARK"
     },
     {
@@ -121,7 +121,7 @@
       "row": 0,
       "col": 2,
       "length": 3,
-      "clue": "Bulmacada Bir şeye ilişkin karşılığını veren yanıt",
+      "clue": "Bir şeye bağlı bulunma; onunla ilgili ya da onun sahipliğinde olma.",
       "answer": "AİT"
     },
     {
@@ -130,7 +130,7 @@
       "row": 0,
       "col": 4,
       "length": 4,
-      "clue": "Bulmacada Yüksek yapı karşılığını veren yanıt",
+      "clue": "Çevresindeki yapılardan çok daha yüksek olan, dar ve uzun yapı.",
       "answer": "KULE"
     },
     {
@@ -139,7 +139,7 @@
       "row": 0,
       "col": 6,
       "length": 4,
-      "clue": "Sivri dikiş aracı anlamına gelen sözcük",
+      "clue": "Ucu sivri, arkası delikli; dikiş dikmek için ipliği geçiren ince metal araç.",
       "answer": "İĞNE"
     },
     {
@@ -148,7 +148,7 @@
       "row": 3,
       "col": 3,
       "length": 4,
-      "clue": "Hörgüçlü hayvan için kullanılan yaygın ifade",
+      "clue": "Sırtında hörgücü bulunan, çölde uzun süre susuzluğa dayanabilen büyük hayvan.",
       "answer": "DEVE"
     },
     {
@@ -157,7 +157,7 @@
       "row": 3,
       "col": 3,
       "length": 5,
-      "clue": "Üflemeli ses aleti karşılığı olarak kullanılan kelime",
+      "clue": "İçine üflenince tiz bir ses çıkaran, ince ve boru biçimli küçük alet.",
       "answer": "DÜDÜK"
     },
     {
@@ -166,7 +166,7 @@
       "row": 7,
       "col": 0,
       "length": 4,
-      "clue": "Havada uçan taşıt karşılığı olarak kullanılan kelime",
+      "clue": "Kanatları sayesinde havalanıp gökyüzünde uçan motorlu büyük taşıt.",
       "answer": "UÇAK"
     },
     {
@@ -175,7 +175,7 @@
       "row": 7,
       "col": 2,
       "length": 4,
-      "clue": "Günlük dilde Bacak ucu olarak bilinen kavram",
+      "clue": "Bacağın bileğinden aşağısı; üzerine basarak yürümemizi sağlayan uzuv.",
       "answer": "AYAK"
     },
     {
@@ -184,7 +184,7 @@
       "row": 9,
       "col": 2,
       "length": 4,
-      "clue": "Hafif olmayan için kullanılan yaygın ifade",
+      "clue": "Kaldırılması güç olan, hafif sözcüğünün zıttı sayılan kütle durumu.",
       "answer": "AĞIR"
     }
   ]

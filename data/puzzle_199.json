@@ -130,7 +130,7 @@
       "row": 0,
       "col": 5,
       "length": 4,
-      "clue": "Görkemli yapı karşılığı olarak kullanılan kelime",
+      "clue": "Ortaçağ Avrupası'nda soyluların yaşadığı kuleli, büyük taştan yapılı konak.",
       "answer": "ŞATO"
     },
     {
@@ -139,7 +139,7 @@
       "row": 0,
       "col": 8,
       "length": 4,
-      "clue": "Tedavi maddesi için kullanılan yaygın ifade",
+      "clue": "Hastalıkları iyileştirmek amacıyla hazırlanan, doktor tarafından verilen madde.",
       "answer": "İLAÇ"
     },
     {
@@ -148,7 +148,7 @@
       "row": 1,
       "col": 5,
       "length": 4,
-      "clue": "Günlük dilde Düşünme yetisi olarak bilinen kavram",
+      "clue": "İnsanın düşünmesini, anlamasını ve karar vermesini sağlayan zihinsel yeti.",
       "answer": "AKIL"
     },
     {
@@ -157,7 +157,7 @@
       "row": 2,
       "col": 8,
       "length": 3,
-      "clue": "Bulmacada Üstün karşıtı karşılığını veren yanıt",
+      "clue": "Bir cismin aşağı tarafı; üst sözcüğünün tam karşıtı olan yön.",
       "answer": "ALT"
     },
     {
@@ -166,7 +166,7 @@
       "row": 2,
       "col": 10,
       "length": 4,
-      "clue": "Bulmacada Raylı taşıt karşılığını veren yanıt",
+      "clue": "Raylar üzerinde hareket eden, vagonları çeken büyük motorlu araç.",
       "answer": "TREN"
     },
     {
@@ -175,7 +175,7 @@
       "row": 3,
       "col": 2,
       "length": 5,
-      "clue": "Büyük oda için kullanılan yaygın ifade",
+      "clue": "Evin misafir ağırlanan en büyük odası ya da toplantı yapılan geniş mekân.",
       "answer": "SALON"
     },
     {
@@ -184,7 +184,7 @@
       "row": 3,
       "col": 3,
       "length": 4,
-      "clue": "Elektrik hareketi için kullanılan yaygın ifade",
+      "clue": "Belirli bir yönde hareket eden elektrik yükü ya da suyun sürüklenişi.",
       "answer": "AKIM"
     },
     {
@@ -193,7 +193,7 @@
       "row": 4,
       "col": 1,
       "length": 5,
-      "clue": "Günlük dilde Yeni bilgi olarak bilinen kavram",
+      "clue": "Bir olay ya da gelişme hakkında ulaşan yeni bilgi; duyuru.",
       "answer": "HABER"
     },
     {
@@ -202,7 +202,7 @@
       "row": 5,
       "col": 0,
       "length": 4,
-      "clue": "Altın rengi için kullanılan yaygın ifade",
+      "clue": "Limon ve altın tonlarında olan, güneşi çağrıştıran canlı sıcak renk.",
       "answer": "SARI"
     },
     {
@@ -211,7 +211,7 @@
       "row": 6,
       "col": 3,
       "length": 4,
-      "clue": "Günlük dilde Kısa dinlenme olarak bilinen kavram",
+      "clue": "Çalışmaya ya da yolculuğa kısa bir süre ara vererek dinlenme anı.",
       "answer": "MOLA"
     }
   ]

@@ -78,7 +78,7 @@
       "row": 0,
       "col": 4,
       "length": 4,
-      "clue": "Bulmacada Çiçek süs kabı karşılığını veren yanıt",
+      "clue": "İçine çiçek konulmak üzere yapılmış, ince uzun boyunlu süs kabı.",
       "answer": "VAZO"
     },
     {
@@ -87,7 +87,7 @@
       "row": 0,
       "col": 6,
       "length": 5,
-      "clue": "Sürdürme karşılığı olarak kullanılan kelime",
+      "clue": "Bir işi ya da durumu ara vermeden sürdürme, aksatmadan götürme hali.",
       "answer": "DEVAM"
     },
     {
@@ -96,7 +96,7 @@
       "row": 1,
       "col": 1,
       "length": 4,
-      "clue": "İnsanların yaşadığı veya çalıştığı yapı",
+      "clue": "İnsanların içinde oturduğu ya da çalıştığı, taş ve betondan yapılmış yapı.",
       "answer": "BİNA"
     },
     {
@@ -105,7 +105,7 @@
       "row": 1,
       "col": 4,
       "length": 4,
-      "clue": "Günlük dilde Yanan ısı ve ışık olarak bilinen kavram",
+      "clue": "Yanmakta olan bir maddenin çıkardığı ısı, ışık ve alevin tümü.",
       "answer": "ATEŞ"
     },
     {
@@ -114,7 +114,7 @@
       "row": 2,
       "col": 0,
       "length": 5,
-      "clue": "Günlük dilde Küçük kırmızı meyve olarak bilinen kavram",
+      "clue": "Saplı, parlak, kırmızı kabuklu; ilkbaharın sonunda olgunlaşan tatlı meyve.",
       "answer": "KİRAZ"
     },
     {
@@ -123,7 +123,7 @@
       "row": 2,
       "col": 8,
       "length": 3,
-      "clue": "Günlük dilde En soğuk mevsim olarak bilinen kavram",
+      "clue": "Yılın en soğuk, en karlı ve gündüzlerin en kısa olduğu dört mevsimden biri.",
       "answer": "KIŞ"
     },
     {
@@ -132,7 +132,7 @@
       "row": 2,
       "col": 8,
       "length": 3,
-      "clue": "Kanatlı uçan hayvan anlamına gelen sözcük",
+      "clue": "Gövdesi tüylerle kaplı, kanatları yardımıyla uçabilen yumurtlayan canlı.",
       "answer": "KUŞ"
     },
     {
@@ -141,7 +141,7 @@
       "row": 3,
       "col": 6,
       "length": 3,
-      "clue": "Günlük dilde Bal yapan böcek olarak bilinen kavram",
+      "clue": "Çiçeklerden topladığı nektarı bala dönüştüren, iğneli küçük böcek.",
       "answer": "ARI"
     },
     {
@@ -150,7 +150,7 @@
       "row": 4,
       "col": 0,
       "length": 3,
-      "clue": "Kafa ya da vücudun üstü için kullanılan yaygın ifade",
+      "clue": "İnsanın boynundan yukarısı, beynin ve yüzün bulunduğu vücut bölümü.",
       "answer": "BAŞ"
     }
   ]

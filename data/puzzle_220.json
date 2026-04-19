@@ -145,7 +145,7 @@
       "row": 0,
       "col": 1,
       "length": 3,
-      "clue": "Günlük dilde İğneyle süsleme olarak bilinen kavram",
+      "clue": "İğne ya da tığla işlenen, başörtüsü kenarını süsleyen ince el işi.",
       "answer": "OYA"
     },
     {
@@ -154,7 +154,7 @@
       "row": 1,
       "col": 3,
       "length": 4,
-      "clue": "İnsanların yaşadığı veya çalıştığı yapı",
+      "clue": "İnsanların içinde oturduğu ya da çalıştığı, taş ve betondan yapılmış yapı.",
       "answer": "BİNA"
     },
     {
@@ -163,7 +163,7 @@
       "row": 2,
       "col": 0,
       "length": 5,
-      "clue": "Bulmacada Deniz kıyısı karşılığını veren yanıt",
+      "clue": "Denizin ya da gölün karaya kavuştuğu kumlu ve taşlı kıyı şeridi.",
       "answer": "SAHİL"
     },
     {
@@ -172,7 +172,7 @@
       "row": 2,
       "col": 0,
       "length": 4,
-      "clue": "Cevap bekleyen karşılığı olarak kullanılan kelime",
+      "clue": "Bilinmeyen bir bilgiyi öğrenmek için karşıya yöneltilen cümle.",
       "answer": "SORU"
     },
     {
@@ -181,7 +181,7 @@
       "row": 4,
       "col": 2,
       "length": 3,
-      "clue": "Demir korozyonu karşılığı olarak kullanılan kelime",
+      "clue": "Demirin hava ve nemle temas ederek zamanla üzerinde oluşturduğu kızıl tabaka.",
       "answer": "PAS"
     },
     {
@@ -190,7 +190,7 @@
       "row": 4,
       "col": 4,
       "length": 4,
-      "clue": "Bulmacada Rakam ifadesi karşılığını veren yanıt",
+      "clue": "Bir miktarı ya da sırayı belirten; rakamlarla yazılan matematik kavramı.",
       "answer": "SAYI"
     },
     {
@@ -199,7 +199,7 @@
       "row": 5,
       "col": 6,
       "length": 3,
-      "clue": "Birinci ya da baştaki anlamına gelen sözcük",
+      "clue": "Bir sıranın en başında bulunan; sondan önce hiçbir şey olmayan sırada birinci.",
       "answer": "İLK"
     },
     {
@@ -208,7 +208,7 @@
       "row": 6,
       "col": 4,
       "length": 3,
-      "clue": "Bulmacada Güzergah ya da patika karşılığını veren yanıt",
+      "clue": "İki yerleşim birimini birbirine bağlayan; üzerinde gidilen döşeli güzergâh.",
       "answer": "YOL"
     },
     {
@@ -217,7 +217,7 @@
       "row": 7,
       "col": 6,
       "length": 3,
-      "clue": "Bulmacada Damar sıvısı karşılığını veren yanıt",
+      "clue": "Damarlarda dolaşarak vücuda oksijen taşıyan kırmızı renkli canlı sıvı.",
       "answer": "KAN"
     },
     {
@@ -226,7 +226,7 @@
       "row": 7,
       "col": 7,
       "length": 5,
-      "clue": "Harita kitabı karşılığı olarak kullanılan kelime",
+      "clue": "Dünyanın farklı bölgelerini gösteren haritaların toplandığı büyük kitap.",
       "answer": "ATLAS"
     }
   ]

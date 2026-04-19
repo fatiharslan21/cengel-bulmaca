@@ -121,7 +121,7 @@
       "row": 0,
       "col": 1,
       "length": 4,
-      "clue": "Türk simgesi çiçek için kullanılan yaygın ifade",
+      "clue": "İlkbaharda açan, kadeh biçimli taç yaprakları olan, Türklerin simgesi çiçek.",
       "answer": "LALE"
     },
     {
@@ -130,7 +130,7 @@
       "row": 1,
       "col": 0,
       "length": 5,
-      "clue": "Bulmacada Maç yöneticisi karşılığını veren yanıt",
+      "clue": "Sporda kuralların uygulanmasını denetleyen, karar veren yetkili kişi.",
       "answer": "HAKEM"
     },
     {
@@ -139,7 +139,7 @@
       "row": 1,
       "col": 4,
       "length": 5,
-      "clue": "Bulmacada Seslerle sanat karşılığını veren yanıt",
+      "clue": "Seslerin belli bir düzen içinde bir araya getirilmesiyle oluşan sanat.",
       "answer": "MÜZİK"
     },
     {
@@ -148,7 +148,7 @@
       "row": 3,
       "col": 4,
       "length": 3,
-      "clue": "Günlük dilde Güç ya da kolay değil olarak bilinen kavram",
+      "clue": "Üstesinden gelinmesi emek isteyen; kolayın tam karşıtı sayılan güç iş.",
       "answer": "ZOR"
     },
     {
@@ -157,7 +157,7 @@
       "row": 4,
       "col": 7,
       "length": 5,
-      "clue": "Günlük dilde Yeni bilgi olarak bilinen kavram",
+      "clue": "Bir olay ya da gelişme hakkında ulaşan yeni bilgi; duyuru.",
       "answer": "HABER"
     },
     {
@@ -166,7 +166,7 @@
       "row": 4,
       "col": 7,
       "length": 3,
-      "clue": "Bulmacada Durum ya da vaziyet karşılığını veren yanıt",
+      "clue": "Bir kimsenin ya da şeyin bulunduğu durum, vaziyet ya da keyif.",
       "answer": "HAL"
     },
     {
@@ -175,7 +175,7 @@
       "row": 5,
       "col": 4,
       "length": 4,
-      "clue": "Ödül bardağı anlamına gelen sözcük",
+      "clue": "Bir yarışmanın galibine ödül olarak verilen, ayaklı madeni kadeh.",
       "answer": "KUPA"
     },
     {
@@ -184,7 +184,7 @@
       "row": 5,
       "col": 5,
       "length": 4,
-      "clue": "Havada uçan taşıt karşılığı olarak kullanılan kelime",
+      "clue": "Kanatları sayesinde havalanıp gökyüzünde uçan motorlu büyük taşıt.",
       "answer": "UÇAK"
     },
     {
@@ -193,7 +193,7 @@
       "row": 7,
       "col": 2,
       "length": 4,
-      "clue": "Kuş evi için kullanılan yaygın ifade",
+      "clue": "Kuşların yumurtladığı ağaç dalındaki çöpten örülmüş küçük barınak.",
       "answer": "YUVA"
     }
   ]

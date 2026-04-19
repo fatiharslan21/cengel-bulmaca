@@ -134,7 +134,7 @@
       "row": 0,
       "col": 8,
       "length": 4,
-      "clue": "Günlük dilde Yanlış ya da kusur olarak bilinen kavram",
+      "clue": "İstemeden yapılan yanlış; doğru olandan sapmanın yol açtığı kusur.",
       "answer": "HATA"
     },
     {
@@ -143,7 +143,7 @@
       "row": 2,
       "col": 3,
       "length": 5,
-      "clue": "Yenilebilen bitki için kullanılan yaygın ifade",
+      "clue": "Mutfağa giren, bitki kökleri ve yapraklarından oluşan yenilebilir besin.",
       "answer": "SEBZE"
     },
     {
@@ -152,7 +152,7 @@
       "row": 2,
       "col": 5,
       "length": 5,
-      "clue": "Günlük dilde Yüzeyin sınırı olarak bilinen kavram",
+      "clue": "Bir yüzeyin ya da nesnenin dış sınırını oluşturan uç bölüm.",
       "answer": "KENAR"
     },
     {
@@ -161,7 +161,7 @@
       "row": 2,
       "col": 5,
       "length": 4,
-      "clue": "Şehir anlamına gelen sözcük",
+      "clue": "Nüfusu kalabalık, altyapısı gelişmiş, şehir niteliğindeki yerleşim yeri.",
       "answer": "KENT"
     },
     {
@@ -170,7 +170,7 @@
       "row": 3,
       "col": 2,
       "length": 4,
-      "clue": "Ses birimi için kullanılan yaygın ifade",
+      "clue": "Bir kelimeyi bir nefeste söyleyebildiğimiz en küçük ses birimi.",
       "answer": "HECE"
     },
     {
@@ -179,7 +179,7 @@
       "row": 5,
       "col": 5,
       "length": 3,
-      "clue": "Sunma ya da takdim anlamına gelen sözcük",
+      "clue": "Bir üstün ya da yetkilinin önüne saygıyla sunma, takdim etme eylemi.",
       "answer": "ARZ"
     },
     {
@@ -188,7 +188,7 @@
       "row": 6,
       "col": 0,
       "length": 4,
-      "clue": "Küçük akarsu anlamına gelen sözcük",
+      "clue": "Dağlardan doğan, ırmağa ya da göle dökülen küçük doğal akarsu.",
       "answer": "DERE"
     },
     {
@@ -197,7 +197,7 @@
       "row": 6,
       "col": 0,
       "length": 5,
-      "clue": "Günlük dilde Eşya mobilyası olarak bilinen kavram",
+      "clue": "İçine giysi, kap kacak ya da eşya konulan, kapaklı büyük mobilya.",
       "answer": "DOLAP"
     },
     {
@@ -206,7 +206,7 @@
       "row": 6,
       "col": 2,
       "length": 3,
-      "clue": "Bulmacada Can ya da maneviyat karşılığını veren yanıt",
+      "clue": "İnsanın bedenine hayat veren, duygularının ve düşüncelerinin kaynağı manevi öz.",
       "answer": "RUH"
     },
     {
@@ -215,7 +215,7 @@
       "row": 8,
       "col": 2,
       "length": 3,
-      "clue": "Çizgi ya da yol anlamına gelen sözcük",
+      "clue": "Bir noktadan diğerine uzanan düz çizgi; yol ya da güzergâh.",
       "answer": "HAT"
     }
   ]

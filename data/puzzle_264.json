@@ -130,7 +130,7 @@
       "row": 0,
       "col": 3,
       "length": 4,
-      "clue": "Günlük dilde Yemek mobilyası olarak bilinen kavram",
+      "clue": "Üzerinde yemek yemek ya da çalışmak için kullanılan ayaklı düz mobilya.",
       "answer": "MASA"
     },
     {
@@ -139,7 +139,7 @@
       "row": 0,
       "col": 3,
       "length": 5,
-      "clue": "Bulmacada Seslerle sanat karşılığını veren yanıt",
+      "clue": "Seslerin belli bir düzen içinde bir araya getirilmesiyle oluşan sanat.",
       "answer": "MÜZİK"
     },
     {
@@ -148,7 +148,7 @@
       "row": 3,
       "col": 0,
       "length": 5,
-      "clue": "Günün başı anlamına gelen sözcük",
+      "clue": "Güneşin doğmasıyla başlayıp öğleye kadar süren günün ilk dilimi.",
       "answer": "SABAH"
     },
     {
@@ -157,7 +157,7 @@
       "row": 3,
       "col": 1,
       "length": 6,
-      "clue": "Başkent karşılığı olarak kullanılan kelime",
+      "clue": "Türkiye Cumhuriyeti'nin başkenti ve İç Anadolu'nun en büyük şehri.",
       "answer": "ANKARA"
     },
     {
@@ -166,7 +166,7 @@
       "row": 3,
       "col": 7,
       "length": 3,
-      "clue": "Günlük dilde Ateş közü olarak bilinen kavram",
+      "clue": "Alevi sönmüş ama sıcaklığı ve kızıllığı süren yanmakta olan parça.",
       "answer": "KOR"
     },
     {
@@ -175,7 +175,7 @@
       "row": 3,
       "col": 7,
       "length": 4,
-      "clue": "Bulmacada Ev bedeli karşılığını veren yanıt",
+      "clue": "Bir evin ya da iş yerinin kullanımı için sahibine ödenen aylık ücret.",
       "answer": "KIRA"
     },
     {
@@ -184,7 +184,7 @@
       "row": 5,
       "col": 3,
       "length": 4,
-      "clue": "Gönül huzuru anlamına gelen sözcük",
+      "clue": "İçten duyulan gönül rahatlığı; keder bırakmayan tatlı neşe.",
       "answer": "SAFA"
     },
     {
@@ -193,7 +193,7 @@
       "row": 5,
       "col": 3,
       "length": 5,
-      "clue": "Bulmacada Katlanma ya da dayanma karşılığını veren yanıt",
+      "clue": "Zorluklara dayanıp isyan etmeden bekleyebilme; hoşgörü ile katlanma.",
       "answer": "SABIR"
     },
     {
@@ -202,7 +202,7 @@
       "row": 6,
       "col": 0,
       "length": 4,
-      "clue": "İddia ya da tez karşılığı olarak kullanılan kelime",
+      "clue": "Bir hakkı aramak için mahkemeye başvurularak açılan hukuki süreç.",
       "answer": "DAVA"
     },
     {
@@ -211,7 +211,7 @@
       "row": 8,
       "col": 1,
       "length": 3,
-      "clue": "Günlük dilde Ced ya da büyükbaba olarak bilinen kavram",
+      "clue": "Soyun büyüklerinden sayılan dede ya da daha öncesinden gelen büyük.",
       "answer": "ATA"
     }
   ]

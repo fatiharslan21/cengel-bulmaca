@@ -143,7 +143,7 @@
       "row": 0,
       "col": 3,
       "length": 4,
-      "clue": "Sözün taşıdığı anlam, içerik",
+      "clue": "Bir sözcüğün ya da cümlenin ardında yatan anlam; içerdiği kavram.",
       "answer": "MANA"
     },
     {
@@ -152,7 +152,7 @@
       "row": 3,
       "col": 0,
       "length": 5,
-      "clue": "Günlük dilde Feryat ya da ağlama olarak bilinen kavram",
+      "clue": "Dayanılmaz acı anında yükselen yüksek sesli ağlama ve feryat.",
       "answer": "FİGAN"
     },
     {
@@ -161,7 +161,7 @@
       "row": 3,
       "col": 2,
       "length": 4,
-      "clue": "Bulmacada Deniz taşıtı karşılığını veren yanıt",
+      "clue": "Denizde yük ya da yolcu taşımak için yapılmış büyük su taşıtı.",
       "answer": "GEMİ"
     },
     {
@@ -170,7 +170,7 @@
       "row": 3,
       "col": 8,
       "length": 4,
-      "clue": "Ses ya da seda karşılığı olarak kullanılan kelime",
+      "clue": "Uzaktan duyulan insan ya da doğa sesi; boğumlu ses dalgası.",
       "answer": "SADA"
     },
     {
@@ -179,7 +179,7 @@
       "row": 3,
       "col": 8,
       "length": 3,
-      "clue": "Gizli bilgi için kullanılan yaygın ifade",
+      "clue": "Başkalarıyla paylaşılmayan; yalnızca bir kişinin bildiği gizli bilgi.",
       "answer": "SIR"
     },
     {
@@ -188,7 +188,7 @@
       "row": 4,
       "col": 5,
       "length": 3,
-      "clue": "Bulmacada Ağacın kolu karşılığını veren yanıt",
+      "clue": "Bir ağacın gövdesinden yanlara doğru uzayan ve yapraklarını taşıyan kol.",
       "answer": "DAL"
     },
     {
@@ -197,7 +197,7 @@
       "row": 5,
       "col": 5,
       "length": 5,
-      "clue": "Sakin ya da huzurlu için kullanılan yaygın ifade",
+      "clue": "Gürültüden uzak, hiçbir telaşın olmadığı sessiz ve huzurlu ortam.",
       "answer": "ASUDE"
     },
     {
@@ -206,7 +206,7 @@
       "row": 6,
       "col": 1,
       "length": 5,
-      "clue": "Örnek ya da benzer için kullanılan yaygın ifade",
+      "clue": "Anlatılanı somutlaştırmak için verilen örnek; kıyas noktası.",
       "answer": "MİSAL"
     },
     {
@@ -215,7 +215,7 @@
       "row": 6,
       "col": 4,
       "length": 4,
-      "clue": "Günlük dilde Geniş düzlük olarak bilinen kavram",
+      "clue": "Üzerinde yapı bulunmayan, belli sınırlarla çevrili geniş açık düzlük.",
       "answer": "ALAN"
     },
     {
@@ -224,7 +224,7 @@
       "row": 8,
       "col": 1,
       "length": 5,
-      "clue": "Bulmacada Dil ya da konuşma karşılığını veren yanıt",
+      "clue": "Bir milletin kuşaklar boyunca konuşup yazdığı ortak iletişim dizgesi.",
       "answer": "LİSAN"
     }
   ]

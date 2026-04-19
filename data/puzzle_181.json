@@ -157,7 +157,7 @@
       "row": 0,
       "col": 2,
       "length": 5,
-      "clue": "Bulmacada Deniz kıyısı karşılığını veren yanıt",
+      "clue": "Denizin ya da gölün karaya kavuştuğu kumlu ve taşlı kıyı şeridi.",
       "answer": "SAHİL"
     },
     {
@@ -166,7 +166,7 @@
       "row": 0,
       "col": 8,
       "length": 4,
-      "clue": "Müzik işareti için kullanılan yaygın ifade",
+      "clue": "Müzik eserlerinde seslerin yükseklik ve uzunluğunu gösteren küçük simge.",
       "answer": "NOTA"
     },
     {
@@ -175,7 +175,7 @@
       "row": 3,
       "col": 4,
       "length": 4,
-      "clue": "Miyavlayan evcil anlamına gelen sözcük",
+      "clue": "Miyavlayarak seslenen, pençeleri keskin, evlerde beslenen tüylü memeli hayvan.",
       "answer": "KEDİ"
     },
     {
@@ -184,7 +184,7 @@
       "row": 3,
       "col": 4,
       "length": 5,
-      "clue": "İple oynatılan karşılığı olarak kullanılan kelime",
+      "clue": "İp ya da parmaklarla oynatılan, tiyatro sahnesinde canlanan figürlü bebek.",
       "answer": "KUKLA"
     },
     {
@@ -193,7 +193,7 @@
       "row": 4,
       "col": 0,
       "length": 5,
-      "clue": "Işık arkası için kullanılan yaygın ifade",
+      "clue": "Işığın önüne bir cisim girince arkasında oluşan karanlık alan.",
       "answer": "GÖLGE"
     },
     {
@@ -202,7 +202,7 @@
       "row": 5,
       "col": 6,
       "length": 4,
-      "clue": "Bulmacada Suça yaptırım karşılığını veren yanıt",
+      "clue": "Suç işleyen kimseye, yaptığının karşılığı olarak verilen yaptırım.",
       "answer": "CEZA"
     },
     {
@@ -211,7 +211,7 @@
       "row": 6,
       "col": 3,
       "length": 4,
-      "clue": "Bulmacada Yassı ekmek karşılığını veren yanıt",
+      "clue": "Fırında pişirilen, üstüne malzeme serilen, ince ve yassı hamur işi.",
       "answer": "PİDE"
     },
     {
@@ -220,7 +220,7 @@
       "row": 8,
       "col": 5,
       "length": 4,
-      "clue": "Yapışkan şerit karşılığı olarak kullanılan kelime",
+      "clue": "Bir tarafı yapışkan olan, eşyaları tutturmaya yarayan uzun ince şerit.",
       "answer": "BANT"
     },
     {
@@ -229,7 +229,7 @@
       "row": 8,
       "col": 8,
       "length": 4,
-      "clue": "Bağlama aracı anlamına gelen sözcük",
+      "clue": "Saçı ya da kemeri tutturmaya yarayan, klips gibi açılıp kapanan küçük süs.",
       "answer": "TOKA"
     },
     {
@@ -238,7 +238,7 @@
       "row": 11,
       "col": 7,
       "length": 3,
-      "clue": "Derin uçurum ya da dik çatlak",
+      "clue": "Derin ve dik uçurum; aynı zamanda sevilen kişi için kullanılan şiirsel ad.",
       "answer": "YAR"
     }
   ]

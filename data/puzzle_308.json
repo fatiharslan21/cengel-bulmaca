@@ -133,7 +133,7 @@
       "row": 0,
       "col": 4,
       "length": 6,
-      "clue": "Güçlük ya da eziyet anlamına gelen sözcük",
+      "clue": "Bir işi başarmak için katlanılan güçlük; çekilen eziyet.",
       "answer": "ZAHMET"
     },
     {
@@ -142,7 +142,7 @@
       "row": 1,
       "col": 3,
       "length": 3,
-      "clue": "Derin uçurum ya da dik çatlak",
+      "clue": "Derin ve dik uçurum; aynı zamanda sevilen kişi için kullanılan şiirsel ad.",
       "answer": "YAR"
     },
     {
@@ -151,7 +151,7 @@
       "row": 3,
       "col": 2,
       "length": 5,
-      "clue": "Esas ya da kök anlamına gelen sözcük",
+      "clue": "Bir yapının ayakta durmasını sağlayan, toprağa gömülü olan ilk bölümü.",
       "answer": "TEMEL"
     },
     {
@@ -160,7 +160,7 @@
       "row": 3,
       "col": 6,
       "length": 5,
-      "clue": "Bulmacada Gemi barınağı karşılığını veren yanıt",
+      "clue": "Gemilerin yük boşalttığı, fırtınadan korunarak demirlediği deniz kıyısı.",
       "answer": "LİMAN"
     },
     {
@@ -169,7 +169,7 @@
       "row": 4,
       "col": 9,
       "length": 5,
-      "clue": "Aydınlatma aracı karşılığı olarak kullanılan kelime",
+      "clue": "İçindeki ampulle çalışan, karanlık odayı aydınlatan elektrikli araç.",
       "answer": "LAMBA"
     },
     {
@@ -178,7 +178,7 @@
       "row": 5,
       "col": 1,
       "length": 4,
-      "clue": "Şehir anlamına gelen sözcük",
+      "clue": "Nüfusu kalabalık, altyapısı gelişmiş, şehir niteliğindeki yerleşim yeri.",
       "answer": "KENT"
     },
     {
@@ -187,7 +187,7 @@
       "row": 5,
       "col": 3,
       "length": 5,
-      "clue": "Bulmacada Taşıma ya da aktarma karşılığını veren yanıt",
+      "clue": "Bir şeyin bir yerden başka bir yere taşınması; aktarma işlemi.",
       "answer": "NAKİL"
     },
     {
@@ -196,7 +196,7 @@
       "row": 6,
       "col": 5,
       "length": 5,
-      "clue": "Ağır ya da kötü karşılığı olarak kullanılan kelime",
+      "clue": "Sonu kötü olabilecek; durumun ne kadar ağır olduğunu gösteren sıfat.",
       "answer": "VAHİM"
     },
     {
@@ -205,7 +205,7 @@
       "row": 7,
       "col": 0,
       "length": 4,
-      "clue": "Arzu ya da istek için kullanılan yaygın ifade",
+      "clue": "İçten doğan büyük istek; insanı coşturan şiddetli arzu ve heves.",
       "answer": "ŞEVK"
     },
     {
@@ -214,7 +214,7 @@
       "row": 9,
       "col": 1,
       "length": 5,
-      "clue": "Günlük dilde İstek olarak bilinen kavram",
+      "clue": "Bir kimsenin bir şey için yaptığı istek; dile getirilen açık dilek.",
       "answer": "TALEP"
     }
   ]

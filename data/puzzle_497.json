@@ -157,7 +157,7 @@
       "row": 0,
       "col": 8,
       "length": 4,
-      "clue": "Amaç ya da maksat için kullanılan yaygın ifade",
+      "clue": "Bir işe girişirken göz önünde tutulan, ulaşılmak istenen son hedef.",
       "answer": "GAYE"
     },
     {
@@ -166,7 +166,7 @@
       "row": 1,
       "col": 5,
       "length": 4,
-      "clue": "Kullanılan nesneler anlamına gelen sözcük",
+      "clue": "Evde ya da iş yerinde gündelik hayatta kullanılan nesnelerin tümü.",
       "answer": "EŞYA"
     },
     {
@@ -175,7 +175,7 @@
       "row": 3,
       "col": 5,
       "length": 4,
-      "clue": "Kalın olmayan anlamına gelen sözcük",
+      "clue": "Kalınlığı az olan; zarif ve narin yapıda bulunan; kalının karşıtı.",
       "answer": "İNCE"
     },
     {
@@ -184,7 +184,7 @@
       "row": 3,
       "col": 5,
       "length": 3,
-      "clue": "Kötünün zıttı karşılığı olarak kullanılan kelime",
+      "clue": "Hoşa giden, yararlı ve olumlu olan; kötünün tam karşıtı olan nitelik.",
       "answer": "İYİ"
     },
     {
@@ -193,7 +193,7 @@
       "row": 5,
       "col": 4,
       "length": 5,
-      "clue": "Günlük dilde Yakarma olarak bilinen kavram",
+      "clue": "Alçakgönüllülükle yapılan yalvarış; Tanrı'dan dilenen istek.",
       "answer": "NİYAZ"
     },
     {
@@ -202,7 +202,7 @@
       "row": 5,
       "col": 4,
       "length": 5,
-      "clue": "Günlük dilde Soluk alma verme olarak bilinen kavram",
+      "clue": "Ciğerlere hava çekmek ve bırakmak; yaşamın sürdüğünün göstergesi soluk.",
       "answer": "NEFES"
     },
     {
@@ -211,7 +211,7 @@
       "row": 6,
       "col": 0,
       "length": 5,
-      "clue": "İyi haber anlamına gelen sözcük",
+      "clue": "Sevinçle karşılanan, umut veren yeni gelen güzel haber.",
       "answer": "MÜJDE"
     },
     {
@@ -220,7 +220,7 @@
       "row": 8,
       "col": 3,
       "length": 5,
-      "clue": "Bulmacada Kanatlı kutsal varlık karşılığını veren yanıt",
+      "clue": "Dinlerde iyilikle görevlendirilmiş, kanatlı olduğuna inanılan kutsal varlık.",
       "answer": "MELEK"
     },
     {
@@ -229,7 +229,7 @@
       "row": 8,
       "col": 6,
       "length": 4,
-      "clue": "Yük hayvanı için kullanılan yaygın ifade",
+      "clue": "Uzun kulaklı, sabırlı; köylerde yük taşımada kullanılan küçük binek hayvanı.",
       "answer": "EŞEK"
     },
     {
@@ -238,7 +238,7 @@
       "row": 10,
       "col": 6,
       "length": 4,
-      "clue": "Bulmacada Karşılık ya da sevap karşılığını veren yanıt",
+      "clue": "Yapılan iyiliğin ya da çekilen sıkıntının karşılığı olarak verilen sevap.",
       "answer": "ECİR"
     }
   ]

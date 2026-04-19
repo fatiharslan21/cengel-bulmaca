@@ -94,7 +94,7 @@
       "row": 0,
       "col": 6,
       "length": 3,
-      "clue": "Bin kilogram için kullanılan yaygın ifade",
+      "clue": "Bin kilograma eşit olan büyük ağırlık ölçü birimi.",
       "answer": "TON"
     },
     {
@@ -103,7 +103,7 @@
       "row": 1,
       "col": 1,
       "length": 3,
-      "clue": "Günlük dilde İçi dolu olmayan olarak bilinen kavram",
+      "clue": "İçinde hiçbir şey bulunmayan, doluluğu olmayan kap ya da mekân.",
       "answer": "BOŞ"
     },
     {
@@ -112,7 +112,7 @@
       "row": 1,
       "col": 2,
       "length": 5,
-      "clue": "Vücut bölümü karşılığı olarak kullanılan kelime",
+      "clue": "Vücudun belirli bir işlevi yerine getiren, dokulardan oluşmuş bölümü.",
       "answer": "ORGAN"
     },
     {
@@ -121,7 +121,7 @@
       "row": 2,
       "col": 4,
       "length": 3,
-      "clue": "Asit karşıtı için kullanılan yaygın ifade",
+      "clue": "Kimyada asitle tepkimeye girerek tuz oluşturan, karşıt özellikli madde.",
       "answer": "BAZ"
     },
     {
@@ -130,7 +130,7 @@
       "row": 2,
       "col": 4,
       "length": 3,
-      "clue": "Birinci tekil kişi karşılığı olarak kullanılan kelime",
+      "clue": "Konuşan kişinin kendisini belirtmek için kullandığı birinci tekil zamir.",
       "answer": "BEN"
     },
     {
@@ -139,7 +139,7 @@
       "row": 4,
       "col": 2,
       "length": 4,
-      "clue": "İstek ya da dilek için kullanılan yaygın ifade",
+      "clue": "İçten duyulan istek, gönülden beklenen dilek veya özlem.",
       "answer": "ARZU"
     },
     {
@@ -148,7 +148,7 @@
       "row": 5,
       "col": 0,
       "length": 3,
-      "clue": "Ses çıkaran metal karşılığı olarak kullanılan kelime",
+      "clue": "İçindeki dilin sallanmasıyla ses çıkaran, koni biçimli madeni araç.",
       "answer": "ÇAN"
     },
     {
@@ -157,7 +157,7 @@
       "row": 5,
       "col": 1,
       "length": 4,
-      "clue": "Elektrik hareketi için kullanılan yaygın ifade",
+      "clue": "Belirli bir yönde hareket eden elektrik yükü ya da suyun sürüklenişi.",
       "answer": "AKIM"
     },
     {
@@ -166,7 +166,7 @@
       "row": 8,
       "col": 1,
       "length": 5,
-      "clue": "Bulmacada Seslerle sanat karşılığını veren yanıt",
+      "clue": "Seslerin belli bir düzen içinde bir araya getirilmesiyle oluşan sanat.",
       "answer": "MÜZİK"
     }
   ]

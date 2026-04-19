@@ -167,7 +167,7 @@
       "row": 0,
       "col": 7,
       "length": 5,
-      "clue": "Sürdürme karşılığı olarak kullanılan kelime",
+      "clue": "Bir işi ya da durumu ara vermeden sürdürme, aksatmadan götürme hali.",
       "answer": "DEVAM"
     },
     {
@@ -176,7 +176,7 @@
       "row": 1,
       "col": 3,
       "length": 6,
-      "clue": "Üst giysi karşılığı olarak kullanılan kelime",
+      "clue": "Yakalı, düğmeli ve kollu olan, üstten giyilen ince kumaş giysi.",
       "answer": "GÖMLEK"
     },
     {
@@ -185,7 +185,7 @@
       "row": 3,
       "col": 5,
       "length": 4,
-      "clue": "Günlük dilde Bitki yapısı olarak bilinen kavram",
+      "clue": "İçerisi camla kaplı; mevsim dışında bile bitki yetiştirilen ısıtılmış yapı.",
       "answer": "SERA"
     },
     {
@@ -194,7 +194,7 @@
       "row": 4,
       "col": 5,
       "length": 4,
-      "clue": "Bulmacada Kırmızı meyve karşılığını veren yanıt",
+      "clue": "Kabuğu kırmızı, sarı ya da yeşil olabilen, sulu ve çıtır meyve.",
       "answer": "ELMA"
     },
     {
@@ -203,7 +203,7 @@
       "row": 6,
       "col": 4,
       "length": 6,
-      "clue": "Günlük dilde Kürekli tekne olarak bilinen kavram",
+      "clue": "İnsan ya da kürek gücüyle suda yol alan küçük açık deniz teknesi.",
       "answer": "SANDAL"
     },
     {
@@ -212,7 +212,7 @@
       "row": 6,
       "col": 4,
       "length": 3,
-      "clue": "Günlük dilde Bitki gövdesi olarak bilinen kavram",
+      "clue": "Bitkinin çiçek ya da yaprağını gövdeye bağlayan uzun ve ince bölüm.",
       "answer": "SAP"
     },
     {
@@ -221,7 +221,7 @@
       "row": 6,
       "col": 6,
       "length": 3,
-      "clue": "Kırmızı taneli meyve karşılığı olarak kullanılan kelime",
+      "clue": "İçi kırmızı tanelerle dolu, kalın kabuklu, sonbahar aylarının meyvesi.",
       "answer": "NAR"
     },
     {
@@ -230,7 +230,7 @@
       "row": 6,
       "col": 9,
       "length": 5,
-      "clue": "Aydınlatma aracı karşılığı olarak kullanılan kelime",
+      "clue": "İçindeki ampulle çalışan, karanlık odayı aydınlatan elektrikli araç.",
       "answer": "LAMBA"
     },
     {
@@ -239,7 +239,7 @@
       "row": 7,
       "col": 0,
       "length": 5,
-      "clue": "İple oynatılan karşılığı olarak kullanılan kelime",
+      "clue": "İp ya da parmaklarla oynatılan, tiyatro sahnesinde canlanan figürlü bebek.",
       "answer": "KUKLA"
     },
     {
@@ -248,7 +248,7 @@
       "row": 9,
       "col": 9,
       "length": 3,
-      "clue": "Arı ürünü tatlı için kullanılan yaygın ifade",
+      "clue": "Arıların çiçeklerden topladığı nektarı işleyerek yaptığı koyu, tatlı gıda.",
       "answer": "BAL"
     }
   ]

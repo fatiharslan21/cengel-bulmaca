@@ -181,7 +181,7 @@
       "row": 0,
       "col": 9,
       "length": 6,
-      "clue": "Üst giysi karşılığı olarak kullanılan kelime",
+      "clue": "Yakalı, düğmeli ve kollu olan, üstten giyilen ince kumaş giysi.",
       "answer": "GÖMLEK"
     },
     {
@@ -190,7 +190,7 @@
       "row": 1,
       "col": 8,
       "length": 4,
-      "clue": "Üçten sonra gelen için kullanılan yaygın ifade",
+      "clue": "Üçten sonra gelen, mevsim ve yön sayısına denk gelen doğal sayı.",
       "answer": "DÖRT"
     },
     {
@@ -199,7 +199,7 @@
       "row": 4,
       "col": 5,
       "length": 6,
-      "clue": "Günlük dilde Güç ya da kuvvet olarak bilinen kavram",
+      "clue": "Bir işi yapabilme gücü; insanda ya da doğada bulunan büyük kuvvet.",
       "answer": "KUDRET"
     },
     {
@@ -208,7 +208,7 @@
       "row": 4,
       "col": 5,
       "length": 6,
-      "clue": "Nasip ya da pay karşılığı olarak kullanılan kelime",
+      "clue": "Kişinin payına düşen; kaderin ona uygun gördüğü nasibi ya da şansı.",
       "answer": "KISMET"
     },
     {
@@ -217,7 +217,7 @@
       "row": 5,
       "col": 2,
       "length": 4,
-      "clue": "Eşya kabı karşılığı olarak kullanılan kelime",
+      "clue": "İçine eşya konulan, çoğu zaman kapağı olan, dikdörtgen ya da kare biçimli hazne.",
       "answer": "KUTU"
     },
     {
@@ -226,7 +226,7 @@
       "row": 6,
       "col": 7,
       "length": 4,
-      "clue": "Bulmacada Yazılmış metin karşılığını veren yanıt",
+      "clue": "Kalemin kâğıda bıraktığı; harflerden oluşan okunabilir işaretler.",
       "answer": "YAZI"
     },
     {
@@ -235,7 +235,7 @@
       "row": 7,
       "col": 4,
       "length": 5,
-      "clue": "Bilme ya da anlayış karşılığı olarak kullanılan kelime",
+      "clue": "Bilginin ötesinde, deneyim ve sezgiyle kazanılan derin anlayış.",
       "answer": "İRFAN"
     },
     {
@@ -244,7 +244,7 @@
       "row": 8,
       "col": 1,
       "length": 4,
-      "clue": "Savunma yapısı karşılığı olarak kullanılan kelime",
+      "clue": "Eskiden şehirleri düşmandan korumak için yapılmış yüksek surlu savunma yapısı.",
       "answer": "KALE"
     },
     {
@@ -253,7 +253,7 @@
       "row": 8,
       "col": 3,
       "length": 4,
-      "clue": "Bulmacada İnanç karşılığını veren yanıt",
+      "clue": "Din esaslarına yürekten bağlanma; kalben kabul edip inanma hali.",
       "answer": "İMAN"
     },
     {
@@ -262,7 +262,7 @@
       "row": 9,
       "col": 0,
       "length": 6,
-      "clue": "Güçlük ya da eziyet anlamına gelen sözcük",
+      "clue": "Bir işi başarmak için katlanılan güçlük; çekilen eziyet.",
       "answer": "ZAHMET"
     }
   ]

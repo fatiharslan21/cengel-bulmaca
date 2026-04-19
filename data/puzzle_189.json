@@ -121,7 +121,7 @@
       "row": 0,
       "col": 2,
       "length": 4,
-      "clue": "Kalın olmayan anlamına gelen sözcük",
+      "clue": "Kalınlığı az olan; zarif ve narin yapıda bulunan; kalının karşıtı.",
       "answer": "İNCE"
     },
     {
@@ -130,7 +130,7 @@
       "row": 0,
       "col": 3,
       "length": 4,
-      "clue": "Müzik işareti için kullanılan yaygın ifade",
+      "clue": "Müzik eserlerinde seslerin yükseklik ve uzunluğunu gösteren küçük simge.",
       "answer": "NOTA"
     },
     {
@@ -139,7 +139,7 @@
       "row": 3,
       "col": 2,
       "length": 4,
-      "clue": "Kızarmış sandviç anlamına gelen sözcük",
+      "clue": "Ekmeğin arasına peynir konup ısıtılarak kızartılan sandviç çeşidi.",
       "answer": "TOST"
     },
     {
@@ -148,7 +148,7 @@
       "row": 3,
       "col": 2,
       "length": 3,
-      "clue": "Sert kayaç parçası için kullanılan yaygın ifade",
+      "clue": "Toprağın içinden çıkan, sert ve ağır olan doğal kayaç parçası.",
       "answer": "TAŞ"
     },
     {
@@ -157,7 +157,7 @@
       "row": 6,
       "col": 2,
       "length": 4,
-      "clue": "Biçim ya da üslup için kullanılan yaygın ifade",
+      "clue": "Bir kişinin ya da akımın kendine özgü yapma biçimi; üslup.",
       "answer": "TARZ"
     },
     {
@@ -166,7 +166,7 @@
       "row": 6,
       "col": 5,
       "length": 5,
-      "clue": "En yüksek nokta karşılığı olarak kullanılan kelime",
+      "clue": "Bir dağın en yüksek noktası; ulaşılabilecek en üst basamak.",
       "answer": "ZİRVE"
     },
     {
@@ -175,7 +175,7 @@
       "row": 8,
       "col": 3,
       "length": 3,
-      "clue": "Bulmacada Karalarla çevrili su karşılığını veren yanıt",
+      "clue": "Karayla çevrili, deniz bağlantısı olmayan geniş durgun su birikintisi.",
       "answer": "GÖL"
     },
     {
@@ -184,7 +184,7 @@
       "row": 8,
       "col": 3,
       "length": 4,
-      "clue": "Günlük dilde İlerinin zıttı olarak bilinen kavram",
+      "clue": "İlerinin zıttı; arkaya ya da başlangıca doğru olan yön.",
       "answer": "GERİ"
     },
     {
@@ -193,7 +193,7 @@
       "row": 9,
       "col": 0,
       "length": 3,
-      "clue": "Bulmacada İçine konan kab karşılığını veren yanıt",
+      "clue": "İçine sıvı ya da katı maddeler konulan her türlü şekilli eşya.",
       "answer": "KAP"
     },
     {
@@ -202,7 +202,7 @@
       "row": 10,
       "col": 0,
       "length": 4,
-      "clue": "Gerçek ya da hakiki için kullanılan yaygın ifade",
+      "clue": "Sahte ya da taklit olmayan; bir şeyin gerçek ve temel olan hali.",
       "answer": "ASIL"
     }
   ]

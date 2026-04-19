@@ -145,7 +145,7 @@
       "row": 0,
       "col": 5,
       "length": 5,
-      "clue": "Günlük dilde Gökyüzü su kümeleri olarak bilinen kavram",
+      "clue": "Gökyüzünde süzülen, su buharının yoğunlaşmasıyla oluşan beyaz küme.",
       "answer": "BULUT"
     },
     {
@@ -154,7 +154,7 @@
       "row": 0,
       "col": 5,
       "length": 4,
-      "clue": "İnsanların yaşadığı veya çalıştığı yapı",
+      "clue": "İnsanların içinde oturduğu ya da çalıştığı, taş ve betondan yapılmış yapı.",
       "answer": "BİNA"
     },
     {
@@ -163,7 +163,7 @@
       "row": 1,
       "col": 2,
       "length": 5,
-      "clue": "Günlük dilde Aşk ya da tutku olarak bilinen kavram",
+      "clue": "Yüreği saran, insanı kendinden geçiren güçlü aşk ve tutku.",
       "answer": "SEVDA"
     },
     {
@@ -172,7 +172,7 @@
       "row": 1,
       "col": 2,
       "length": 4,
-      "clue": "Cevap bekleyen karşılığı olarak kullanılan kelime",
+      "clue": "Bilinmeyen bir bilgiyi öğrenmek için karşıya yöneltilen cümle.",
       "answer": "SORU"
     },
     {
@@ -181,7 +181,7 @@
       "row": 3,
       "col": 0,
       "length": 5,
-      "clue": "Üflemeli ses aleti karşılığı olarak kullanılan kelime",
+      "clue": "İçine üflenince tiz bir ses çıkaran, ince ve boru biçimli küçük alet.",
       "answer": "DÜDÜK"
     },
     {
@@ -190,7 +190,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "Hörgüçlü hayvan için kullanılan yaygın ifade",
+      "clue": "Sırtında hörgücü bulunan, çölde uzun süre susuzluğa dayanabilen büyük hayvan.",
       "answer": "DEVE"
     },
     {
@@ -199,7 +199,7 @@
       "row": 6,
       "col": 3,
       "length": 5,
-      "clue": "Günlük dilde Yer ya da konum olarak bilinen kavram",
+      "clue": "Bir kimsenin toplumdaki yeri, konumu ya da makamı.",
       "answer": "MEVKİ"
     },
     {
@@ -208,7 +208,7 @@
       "row": 7,
       "col": 0,
       "length": 5,
-      "clue": "Sadık evcil hayvan anlamına gelen sözcük",
+      "clue": "İnsana sadakatiyle bilinen, havlayarak seslenen evcil dört ayaklı.",
       "answer": "KÖPEK"
     },
     {
@@ -217,7 +217,7 @@
       "row": 9,
       "col": 1,
       "length": 3,
-      "clue": "İşve ya da cilve anlamına gelen sözcük",
+      "clue": "Sevdiğine karşı gösterilen hafif cilve; yapmacık çekingenlik.",
       "answer": "NAZ"
     },
     {
@@ -226,7 +226,7 @@
       "row": 10,
       "col": 0,
       "length": 4,
-      "clue": "Uyan ya da bağlı karşılığı olarak kullanılan kelime",
+      "clue": "Bir kurala, şahsa ya da düzene bağlı olan; ona uymak durumunda kalan.",
       "answer": "TABİ"
     }
   ]

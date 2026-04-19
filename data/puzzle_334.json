@@ -143,7 +143,7 @@
       "row": 0,
       "col": 8,
       "length": 5,
-      "clue": "Günlük dilde Bilimsel test olarak bilinen kavram",
+      "clue": "Bir varsayımı doğrulamak amacıyla yapılan, kontrollü bilimsel çalışma.",
       "answer": "DENEY"
     },
     {
@@ -152,7 +152,7 @@
       "row": 1,
       "col": 5,
       "length": 5,
-      "clue": "Bulmacada Üzüntü karşılığını veren yanıt",
+      "clue": "İnsanın içini burkan, uzun süre geçmeyen derin üzüntü hali.",
       "answer": "KEDER"
     },
     {
@@ -161,7 +161,7 @@
       "row": 2,
       "col": 1,
       "length": 4,
-      "clue": "Bulmacada Zaman ölçer karşılığını veren yanıt",
+      "clue": "Akrep, yelkovan ve rakamlarla anı gösteren; zamanı ölçen günlük araç.",
       "answer": "SAAT"
     },
     {
@@ -170,7 +170,7 @@
       "row": 2,
       "col": 4,
       "length": 4,
-      "clue": "Ses ya da seda karşılığı olarak kullanılan kelime",
+      "clue": "Uzaktan duyulan insan ya da doğa sesi; boğumlu ses dalgası.",
       "answer": "SADA"
     },
     {
@@ -179,7 +179,7 @@
       "row": 3,
       "col": 0,
       "length": 5,
-      "clue": "Zar masa oyunu için kullanılan yaygın ifade",
+      "clue": "Zarla ve pullarla iki kişi arasında oynanan, kahvehane kültürünün oyunu.",
       "answer": "TAVLA"
     },
     {
@@ -188,7 +188,7 @@
       "row": 4,
       "col": 6,
       "length": 5,
-      "clue": "Bulmacada Öğrenilen her şey karşılığını veren yanıt",
+      "clue": "Okuyarak, yaşayarak ya da öğrenerek elde edilen her türlü öğrenim ürünü.",
       "answer": "BİLGİ"
     },
     {
@@ -197,7 +197,7 @@
       "row": 4,
       "col": 6,
       "length": 5,
-      "clue": "Günlük dilde Ölçü ya da ebat olarak bilinen kavram",
+      "clue": "Bir cismin uzunluk, genişlik ve yükseklik gibi ölçülebilen özelliği.",
       "answer": "BOYUT"
     },
     {
@@ -206,7 +206,7 @@
       "row": 5,
       "col": 4,
       "length": 3,
-      "clue": "Yakışıklı ya da gösterişli anlamına gelen sözcük",
+      "clue": "Halk ağzında yakışıklı, gösterişli kimse için kullanılan eski bir sözcük.",
       "answer": "AFİ"
     },
     {
@@ -215,7 +215,7 @@
       "row": 7,
       "col": 4,
       "length": 3,
-      "clue": "Giyside küçük kese karşılığı olarak kullanılan kelime",
+      "clue": "Pantolon ya da ceketin içine dikilmiş, ufak eşya konulan küçük kese.",
       "answer": "CEP"
     },
     {
@@ -224,7 +224,7 @@
       "row": 8,
       "col": 3,
       "length": 4,
-      "clue": "Miyavlayan evcil anlamına gelen sözcük",
+      "clue": "Miyavlayarak seslenen, pençeleri keskin, evlerde beslenen tüylü memeli hayvan.",
       "answer": "KEDİ"
     }
   ]

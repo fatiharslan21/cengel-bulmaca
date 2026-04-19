@@ -113,7 +113,7 @@
       "row": 0,
       "col": 3,
       "length": 4,
-      "clue": "Günlük dilde Ateş aleti olarak bilinen kavram",
+      "clue": "Sobadan ateş almak ya da sıcak şeyleri tutmak için kullanılan uzun kıskaç.",
       "answer": "MAŞA"
     },
     {
@@ -122,7 +122,7 @@
       "row": 2,
       "col": 1,
       "length": 4,
-      "clue": "Türk simgesi çiçek için kullanılan yaygın ifade",
+      "clue": "İlkbaharda açan, kadeh biçimli taç yaprakları olan, Türklerin simgesi çiçek.",
       "answer": "LALE"
     },
     {
@@ -131,7 +131,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "Solunan gaz anlamına gelen sözcük",
+      "clue": "Atmosferi oluşturan, canlıların soluduğu renksiz ve kokusuz gaz karışımı.",
       "answer": "HAVA"
     },
     {
@@ -140,7 +140,7 @@
       "row": 4,
       "col": 4,
       "length": 4,
-      "clue": "Günlük dilde Bitki yapısı olarak bilinen kavram",
+      "clue": "İçerisi camla kaplı; mevsim dışında bile bitki yetiştirilen ısıtılmış yapı.",
       "answer": "SERA"
     },
     {
@@ -149,7 +149,7 @@
       "row": 5,
       "col": 1,
       "length": 5,
-      "clue": "Temel buğday gıdası anlamına gelen sözcük",
+      "clue": "Undan mayalanıp fırında pişirilerek yapılan, sofranın temel besini.",
       "answer": "EKMEK"
     },
     {
@@ -158,7 +158,7 @@
       "row": 5,
       "col": 2,
       "length": 5,
-      "clue": "Sayfalardan eser karşılığı olarak kullanılan kelime",
+      "clue": "Sayfalardan oluşan, üzerine bilgi ya da hikâye yazılmış ciltli eser.",
       "answer": "KİTAP"
     },
     {
@@ -167,7 +167,7 @@
       "row": 5,
       "col": 7,
       "length": 5,
-      "clue": "Bulmacada Gölge ağacı karşılığını veren yanıt",
+      "clue": "Geniş yaprakları ve kalın gövdesiyle yüzyıllarca yaşayabilen büyük ağaç.",
       "answer": "ÇINAR"
     },
     {
@@ -176,7 +176,7 @@
       "row": 7,
       "col": 4,
       "length": 4,
-      "clue": "Günlük dilde Geniş düzlük olarak bilinen kavram",
+      "clue": "Üzerinde yapı bulunmayan, belli sınırlarla çevrili geniş açık düzlük.",
       "answer": "ALAN"
     },
     {
@@ -185,7 +185,7 @@
       "row": 9,
       "col": 5,
       "length": 3,
-      "clue": "İlk doğal sayı için kullanılan yaygın ifade",
+      "clue": "Sayıların başlangıcı olan, tek adedi gösteren ilk doğal rakam.",
       "answer": "BİR"
     }
   ]

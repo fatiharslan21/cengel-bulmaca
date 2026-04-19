@@ -103,7 +103,7 @@
       "row": 0,
       "col": 6,
       "length": 5,
-      "clue": "Günlük dilde Bilimsel test olarak bilinen kavram",
+      "clue": "Bir varsayımı doğrulamak amacıyla yapılan, kontrollü bilimsel çalışma.",
       "answer": "DENEY"
     },
     {
@@ -112,7 +112,7 @@
       "row": 3,
       "col": 0,
       "length": 3,
-      "clue": "Bulmacada Asla ya da kesinlikle hayır karşılığını veren yanıt",
+      "clue": "Olumsuzluğu pekiştiren söz; asla ve kesinlikle bulunmama durumu.",
       "answer": "HİÇ"
     },
     {
@@ -121,7 +121,7 @@
       "row": 3,
       "col": 1,
       "length": 3,
-      "clue": "Kötünün zıttı karşılığı olarak kullanılan kelime",
+      "clue": "Hoşa giden, yararlı ve olumlu olan; kötünün tam karşıtı olan nitelik.",
       "answer": "İYİ"
     },
     {
@@ -130,7 +130,7 @@
       "row": 3,
       "col": 4,
       "length": 4,
-      "clue": "Anlama yeteneği için kullanılan yaygın ifade",
+      "clue": "Yeni durumlara hızla uyum sağlayıp doğru kararlar verebilme yeteneği.",
       "answer": "ZEKA"
     },
     {
@@ -139,7 +139,7 @@
       "row": 4,
       "col": 4,
       "length": 4,
-      "clue": "Kullanılan nesneler anlamına gelen sözcük",
+      "clue": "Evde ya da iş yerinde gündelik hayatta kullanılan nesnelerin tümü.",
       "answer": "EŞYA"
     },
     {
@@ -148,7 +148,7 @@
       "row": 5,
       "col": 1,
       "length": 4,
-      "clue": "Böcekten kumaş anlamına gelen sözcük",
+      "clue": "Kozadan elde edilen, parlak dokulu ve dayanıklı, değerli kumaş lifi.",
       "answer": "İPEK"
     },
     {
@@ -157,7 +157,7 @@
       "row": 5,
       "col": 2,
       "length": 4,
-      "clue": "Sayısal değer için kullanılan yaygın ifade",
+      "clue": "Bir sınavda ya da yarışmada başarıya göre verilen sayısal değerlendirme.",
       "answer": "PUAN"
     },
     {
@@ -166,7 +166,7 @@
       "row": 6,
       "col": 4,
       "length": 3,
-      "clue": "Bulmacada Bir şeye ilişkin karşılığını veren yanıt",
+      "clue": "Bir şeye bağlı bulunma; onunla ilgili ya da onun sahipliğinde olma.",
       "answer": "AİT"
     },
     {
@@ -175,7 +175,7 @@
       "row": 7,
       "col": 1,
       "length": 3,
-      "clue": "Kafa ya da vücudun üstü için kullanılan yaygın ifade",
+      "clue": "İnsanın boynundan yukarısı, beynin ve yüzün bulunduğu vücut bölümü.",
       "answer": "BAŞ"
     }
   ]

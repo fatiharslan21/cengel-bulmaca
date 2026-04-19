@@ -143,7 +143,7 @@
       "row": 0,
       "col": 8,
       "length": 4,
-      "clue": "Ayrım ya da değişiklik anlamına gelen sözcük",
+      "clue": "İki şeyin birbirinden ayrıldığı yön; aralarındaki benzemezlik.",
       "answer": "FARK"
     },
     {
@@ -152,7 +152,7 @@
       "row": 1,
       "col": 7,
       "length": 4,
-      "clue": "Başka ya da özge karşılığı olarak kullanılan kelime",
+      "clue": "Bundan başka, farklı; bir şeyin dışında kalan diğer kısım.",
       "answer": "GAYR"
     },
     {
@@ -161,7 +161,7 @@
       "row": 2,
       "col": 3,
       "length": 4,
-      "clue": "Günlük dilde İlerinin zıttı olarak bilinen kavram",
+      "clue": "İlerinin zıttı; arkaya ya da başlangıca doğru olan yön.",
       "answer": "GERİ"
     },
     {
@@ -170,7 +170,7 @@
       "row": 2,
       "col": 6,
       "length": 5,
-      "clue": "Kabir için kullanılan yaygın ifade",
+      "clue": "Ölünün toprağa verildiği, başında taş bulunan defin yeri; kabir.",
       "answer": "MEZAR"
     },
     {
@@ -179,7 +179,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "Çukur yemek kabı anlamına gelen sözcük",
+      "clue": "Çorba, salata ya da yoğurt konulan, yuvarlak ve çukur küçük yemek kabı.",
       "answer": "KASE"
     },
     {
@@ -188,7 +188,7 @@
       "row": 3,
       "col": 5,
       "length": 4,
-      "clue": "Arzu ya da istek için kullanılan yaygın ifade",
+      "clue": "İçten doğan büyük istek; insanı coşturan şiddetli arzu ve heves.",
       "answer": "ŞEVK"
     },
     {
@@ -197,7 +197,7 @@
       "row": 5,
       "col": 2,
       "length": 6,
-      "clue": "Ayrılık acısı için kullanılan yaygın ifade",
+      "clue": "Sevgiliden uzak düşmenin yürekte açtığı derin ayrılık acısı.",
       "answer": "HİCRAN"
     },
     {
@@ -206,7 +206,7 @@
       "row": 5,
       "col": 2,
       "length": 5,
-      "clue": "Utanç ya da çekinme anlamına gelen sözcük",
+      "clue": "Uygunsuz bir durumda duyulan utanç; insanın yüzünü gizleme isteği.",
       "answer": "HİCAP"
     },
     {
@@ -215,7 +215,7 @@
       "row": 7,
       "col": 1,
       "length": 4,
-      "clue": "Bulmacada Karşılık ya da sevap karşılığını veren yanıt",
+      "clue": "Yapılan iyiliğin ya da çekilen sıkıntının karşılığı olarak verilen sevap.",
       "answer": "ECİR"
     },
     {
@@ -224,7 +224,7 @@
       "row": 9,
       "col": 0,
       "length": 4,
-      "clue": "Bulmacada Küçük yükselti karşılığını veren yanıt",
+      "clue": "Dağdan daha alçak, çevresine göre yüksek görünen küçük yükselti.",
       "answer": "TEPE"
     }
   ]

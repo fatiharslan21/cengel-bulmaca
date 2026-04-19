@@ -157,7 +157,7 @@
       "row": 0,
       "col": 5,
       "length": 4,
-      "clue": "Günlük dilde Haz ya da keyif olarak bilinen kavram",
+      "clue": "Yapılan ya da tadılan şeyden alınan; insanın içini hoşnut eden keyif.",
       "answer": "ZEVK"
     },
     {
@@ -166,7 +166,7 @@
       "row": 1,
       "col": 3,
       "length": 3,
-      "clue": "Günlük dilde Güç ya da kolay değil olarak bilinen kavram",
+      "clue": "Üstesinden gelinmesi emek isteyen; kolayın tam karşıtı sayılan güç iş.",
       "answer": "ZOR"
     },
     {
@@ -175,7 +175,7 @@
       "row": 1,
       "col": 5,
       "length": 5,
-      "clue": "Vaktinden önce karşılığı olarak kullanılan kelime",
+      "clue": "Belirlenen vaktin öncesinde gelme; geç kalmanın tersi durumu.",
       "answer": "ERKEN"
     },
     {
@@ -184,7 +184,7 @@
       "row": 3,
       "col": 3,
       "length": 5,
-      "clue": "Hasım ya da muhalif için kullanılan yaygın ifade",
+      "clue": "Aynı amaca ulaşmak için karşı karşıya gelen, yarış halindeki hasım.",
       "answer": "RAKİP"
     },
     {
@@ -193,7 +193,7 @@
       "row": 3,
       "col": 4,
       "length": 3,
-      "clue": "Günlük dilde Bal yapan böcek olarak bilinen kavram",
+      "clue": "Çiçeklerden topladığı nektarı bala dönüştüren, iğneli küçük böcek.",
       "answer": "ARI"
     },
     {
@@ -202,7 +202,7 @@
       "row": 4,
       "col": 2,
       "length": 4,
-      "clue": "Altın rengi için kullanılan yaygın ifade",
+      "clue": "Limon ve altın tonlarında olan, güneşi çağrıştıran canlı sıcak renk.",
       "answer": "SARI"
     },
     {
@@ -211,7 +211,7 @@
       "row": 5,
       "col": 1,
       "length": 4,
-      "clue": "Bulmacada Yazılmış metin karşılığını veren yanıt",
+      "clue": "Kalemin kâğıda bıraktığı; harflerden oluşan okunabilir işaretler.",
       "answer": "YAZI"
     },
     {
@@ -220,7 +220,7 @@
       "row": 7,
       "col": 0,
       "length": 3,
-      "clue": "Hatıra ya da geçmiş olay karşılığı olarak kullanılan kelime",
+      "clue": "Geçmişte yaşanmış ve zihinde iz bırakmış olayların hatırlanması.",
       "answer": "ANI"
     },
     {
@@ -229,7 +229,7 @@
       "row": 7,
       "col": 1,
       "length": 5,
-      "clue": "Bakış ya da göz anlamına gelen sözcük",
+      "clue": "Kötü bakışın bir kimseye uğursuzluk getireceğine duyulan halk inancı.",
       "answer": "NAZAR"
     },
     {
@@ -238,7 +238,7 @@
       "row": 10,
       "col": 0,
       "length": 3,
-      "clue": "Bulmacada İğne yapraklı ağaç karşılığını veren yanıt",
+      "clue": "İğne yaprakları yıl boyu yeşil kalan, kozalak veren, uzun ömürlü ağaç.",
       "answer": "ÇAM"
     }
   ]

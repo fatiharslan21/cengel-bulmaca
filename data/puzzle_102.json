@@ -121,7 +121,7 @@
       "row": 0,
       "col": 3,
       "length": 5,
-      "clue": "Ani vuruş anlamına gelen sözcük",
+      "clue": "Ani ve sert bir hareketle yapılan vuruş; çarpma sonucu alınan sarsıntı.",
       "answer": "DARBE"
     },
     {
@@ -130,7 +130,7 @@
       "row": 1,
       "col": 2,
       "length": 3,
-      "clue": "Kırmızı taneli meyve karşılığı olarak kullanılan kelime",
+      "clue": "İçi kırmızı tanelerle dolu, kalın kabuklu, sonbahar aylarının meyvesi.",
       "answer": "NAR"
     },
     {
@@ -139,7 +139,7 @@
       "row": 3,
       "col": 1,
       "length": 3,
-      "clue": "Bulmacada İçine konan kab karşılığını veren yanıt",
+      "clue": "İçine sıvı ya da katı maddeler konulan her türlü şekilli eşya.",
       "answer": "KAP"
     },
     {
@@ -148,7 +148,7 @@
       "row": 3,
       "col": 3,
       "length": 3,
-      "clue": "Donmuş su anlamına gelen sözcük",
+      "clue": "Suyun sıfır derecenin altına inerek katılaşmasıyla meydana gelen madde.",
       "answer": "BUZ"
     },
     {
@@ -157,7 +157,7 @@
       "row": 3,
       "col": 5,
       "length": 3,
-      "clue": "Günlük dilde Güç ya da kolay değil olarak bilinen kavram",
+      "clue": "Üstesinden gelinmesi emek isteyen; kolayın tam karşıtı sayılan güç iş.",
       "answer": "ZOR"
     },
     {
@@ -166,7 +166,7 @@
       "row": 4,
       "col": 0,
       "length": 4,
-      "clue": "Bulmacada Bayat olmayan karşılığını veren yanıt",
+      "clue": "Yeni toplanmış, bayatlamamış; canlılığını yeni yeni yitirmemiş olan.",
       "answer": "TAZE"
     },
     {
@@ -175,7 +175,7 @@
       "row": 5,
       "col": 5,
       "length": 5,
-      "clue": "Programlanabilir makine için kullanılan yaygın ifade",
+      "clue": "Programlanarak belirli işleri otomatik yapan mekanik insansı makine.",
       "answer": "ROBOT"
     },
     {
@@ -184,7 +184,7 @@
       "row": 5,
       "col": 9,
       "length": 4,
-      "clue": "Bulmacada Raylı taşıt karşılığını veren yanıt",
+      "clue": "Raylar üzerinde hareket eden, vagonları çeken büyük motorlu araç.",
       "answer": "TREN"
     },
     {
@@ -193,7 +193,7 @@
       "row": 7,
       "col": 5,
       "length": 5,
-      "clue": "Küçük deniz taşıtı anlamına gelen sözcük",
+      "clue": "Yelkenli ya da motorlu olup denizde kısa yolculuklara çıkan küçük gemi.",
       "answer": "TEKNE"
     }
   ]

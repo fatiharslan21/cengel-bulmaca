@@ -123,7 +123,7 @@
       "row": 0,
       "col": 8,
       "length": 5,
-      "clue": "Hayal ürünü hikaye karşılığı olarak kullanılan kelime",
+      "clue": "Hayal ürünü kahramanların yer aldığı, 'bir varmış bir yokmuş'la başlayan öykü.",
       "answer": "MASAL"
     },
     {
@@ -132,7 +132,7 @@
       "row": 1,
       "col": 2,
       "length": 5,
-      "clue": "Hükümdar konutu anlamına gelen sözcük",
+      "clue": "Padişah veya hükümdarların oturduğu, görkemli mimarisi olan büyük yapı.",
       "answer": "SARAY"
     },
     {
@@ -141,7 +141,7 @@
       "row": 2,
       "col": 1,
       "length": 6,
-      "clue": "Günlük dilde Beğenme ya da övme olarak bilinen kavram",
+      "clue": "Bir kişinin emeğini ya da başarısını görüp açıkça beğenip övme.",
       "answer": "TAKDİR"
     },
     {
@@ -150,7 +150,7 @@
       "row": 2,
       "col": 4,
       "length": 4,
-      "clue": "İddia ya da tez karşılığı olarak kullanılan kelime",
+      "clue": "Bir hakkı aramak için mahkemeye başvurularak açılan hukuki süreç.",
       "answer": "DAVA"
     },
     {
@@ -159,7 +159,7 @@
       "row": 2,
       "col": 6,
       "length": 3,
-      "clue": "Bulmacada Can ya da maneviyat karşılığını veren yanıt",
+      "clue": "İnsanın bedenine hayat veren, duygularının ve düşüncelerinin kaynağı manevi öz.",
       "answer": "RUH"
     },
     {
@@ -168,7 +168,7 @@
       "row": 4,
       "col": 6,
       "length": 3,
-      "clue": "Bulmacada Durum ya da vaziyet karşılığını veren yanıt",
+      "clue": "Bir kimsenin ya da şeyin bulunduğu durum, vaziyet ya da keyif.",
       "answer": "HAL"
     },
     {
@@ -177,7 +177,7 @@
       "row": 5,
       "col": 0,
       "length": 6,
-      "clue": "Ülke simgesi için kullanılan yaygın ifade",
+      "clue": "Bir ülkeyi simgeleyen, özel renk ve işaretler taşıyan kumaş parçası.",
       "answer": "BAYRAK"
     },
     {
@@ -186,7 +186,7 @@
       "row": 5,
       "col": 5,
       "length": 5,
-      "clue": "Günlük dilde Küçük kırmızı meyve olarak bilinen kavram",
+      "clue": "Saplı, parlak, kırmızı kabuklu; ilkbaharın sonunda olgunlaşan tatlı meyve.",
       "answer": "KİRAZ"
     },
     {
@@ -195,7 +195,7 @@
       "row": 7,
       "col": 3,
       "length": 4,
-      "clue": "Bulmacada Otlak alan karşılığını veren yanıt",
+      "clue": "Hayvanların otlayıp beslenmesi için ayrılmış, doğal otlarla kaplı geniş alan.",
       "answer": "MERA"
     },
     {
@@ -204,7 +204,7 @@
       "row": 9,
       "col": 3,
       "length": 5,
-      "clue": "Bulmacada Seslerle sanat karşılığını veren yanıt",
+      "clue": "Seslerin belli bir düzen içinde bir araya getirilmesiyle oluşan sanat.",
       "answer": "MÜZİK"
     }
   ]

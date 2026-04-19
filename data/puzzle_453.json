@@ -153,7 +153,7 @@
       "row": 0,
       "col": 6,
       "length": 5,
-      "clue": "Sakin ya da huzurlu için kullanılan yaygın ifade",
+      "clue": "Gürültüden uzak, hiçbir telaşın olmadığı sessiz ve huzurlu ortam.",
       "answer": "ASUDE"
     },
     {
@@ -162,7 +162,7 @@
       "row": 4,
       "col": 3,
       "length": 5,
-      "clue": "Günlük dilde Alın yazısı olarak bilinen kavram",
+      "clue": "İnsanın başına geleceği önceden yazıldığına inanılan alın yazısı.",
       "answer": "KADER"
     },
     {
@@ -171,7 +171,7 @@
       "row": 4,
       "col": 4,
       "length": 4,
-      "clue": "Elektrik hareketi için kullanılan yaygın ifade",
+      "clue": "Belirli bir yönde hareket eden elektrik yükü ya da suyun sürüklenişi.",
       "answer": "AKIM"
     },
     {
@@ -180,7 +180,7 @@
       "row": 4,
       "col": 7,
       "length": 4,
-      "clue": "Tesadüf ya da denk gelme anlamına gelen sözcük",
+      "clue": "Birinin ya da bir şeyin beklemediğin anda karşına çıkması; tesadüf.",
       "answer": "RAST"
     },
     {
@@ -189,7 +189,7 @@
       "row": 5,
       "col": 0,
       "length": 3,
-      "clue": "Bulmacada Rüzgar ya da esinti karşılığını veren yanıt",
+      "clue": "Havanın bir yönden diğerine doğru hissedilebilir akışı; rüzgâr.",
       "answer": "YEL"
     },
     {
@@ -198,7 +198,7 @@
       "row": 5,
       "col": 2,
       "length": 5,
-      "clue": "Hoş ya da ince için kullanılan yaygın ifade",
+      "clue": "Göze ve gönle hoş gelen, nazik ve yumuşak huylu; incelikli olan.",
       "answer": "LATİF"
     },
     {
@@ -207,7 +207,7 @@
       "row": 5,
       "col": 10,
       "length": 5,
-      "clue": "İple oynatılan karşılığı olarak kullanılan kelime",
+      "clue": "İp ya da parmaklarla oynatılan, tiyatro sahnesinde canlanan figürlü bebek.",
       "answer": "KUKLA"
     },
     {
@@ -216,7 +216,7 @@
       "row": 6,
       "col": 7,
       "length": 4,
-      "clue": "Cevap bekleyen karşılığı olarak kullanılan kelime",
+      "clue": "Bilinmeyen bir bilgiyi öğrenmek için karşıya yöneltilen cümle.",
       "answer": "SORU"
     },
     {
@@ -225,7 +225,7 @@
       "row": 7,
       "col": 0,
       "length": 5,
-      "clue": "Bulmacada Yas ya da acı karşılığını veren yanıt",
+      "clue": "Kaybedilen bir yakının ardından tutulan koyu yas; siyahlar giyme hali.",
       "answer": "MATEM"
     },
     {
@@ -234,7 +234,7 @@
       "row": 9,
       "col": 8,
       "length": 4,
-      "clue": "Günlük dilde Açıklama olarak bilinen kavram",
+      "clue": "Anlaşılmayan bir konuyu açık bir dille anlatma; aydınlatıcı açıklama.",
       "answer": "İZAH"
     }
   ]

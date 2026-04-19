@@ -169,7 +169,7 @@
       "row": 0,
       "col": 4,
       "length": 5,
-      "clue": "Işık arkası için kullanılan yaygın ifade",
+      "clue": "Işığın önüne bir cisim girince arkasında oluşan karanlık alan.",
       "answer": "GÖLGE"
     },
     {
@@ -178,7 +178,7 @@
       "row": 2,
       "col": 2,
       "length": 3,
-      "clue": "Bulmacada Ağacın kolu karşılığını veren yanıt",
+      "clue": "Bir ağacın gövdesinden yanlara doğru uzayan ve yapraklarını taşıyan kol.",
       "answer": "DAL"
     },
     {
@@ -187,7 +187,7 @@
       "row": 4,
       "col": 3,
       "length": 5,
-      "clue": "Sayısal işlem karşılığı olarak kullanılan kelime",
+      "clue": "Sayılarla yapılan dört işlem; gelir ve giderin tutulduğu kayıt.",
       "answer": "HESAP"
     },
     {
@@ -196,7 +196,7 @@
       "row": 4,
       "col": 7,
       "length": 5,
-      "clue": "Ambalajlı koli karşılığı olarak kullanılan kelime",
+      "clue": "İçindeki eşyayı korumak için ambalajlanmış, kâğıt ya da karton sargılı koli.",
       "answer": "PAKET"
     },
     {
@@ -205,7 +205,7 @@
       "row": 5,
       "col": 7,
       "length": 4,
-      "clue": "Elektrik hareketi için kullanılan yaygın ifade",
+      "clue": "Belirli bir yönde hareket eden elektrik yükü ya da suyun sürüklenişi.",
       "answer": "AKIM"
     },
     {
@@ -214,7 +214,7 @@
       "row": 6,
       "col": 5,
       "length": 4,
-      "clue": "Ev ya da konut karşılığı olarak kullanılan kelime",
+      "clue": "Bir ailenin oturduğu ev; aynı zamanda sayıdaki basamak anlamı taşır.",
       "answer": "HANE"
     },
     {
@@ -223,7 +223,7 @@
       "row": 7,
       "col": 4,
       "length": 4,
-      "clue": "Ferahlatıcı bitki anlamına gelen sözcük",
+      "clue": "Serinletici kokusuyla tanınan, çaya ve yemeklere katılan yeşil yapraklı ot.",
       "answer": "NANE"
     },
     {
@@ -232,7 +232,7 @@
       "row": 8,
       "col": 2,
       "length": 4,
-      "clue": "Eğitim kurumu için kullanılan yaygın ifade",
+      "clue": "Öğrencilerin öğretmenler tarafından eğitim aldığı resmî öğretim kurumu.",
       "answer": "OKUL"
     },
     {
@@ -241,7 +241,7 @@
       "row": 9,
       "col": 2,
       "length": 4,
-      "clue": "Bulmacada Yüksek yapı karşılığını veren yanıt",
+      "clue": "Çevresindeki yapılardan çok daha yüksek olan, dar ve uzun yapı.",
       "answer": "KULE"
     },
     {
@@ -250,7 +250,7 @@
       "row": 11,
       "col": 0,
       "length": 5,
-      "clue": "Bulmacada Kanatlı kutsal varlık karşılığını veren yanıt",
+      "clue": "Dinlerde iyilikle görevlendirilmiş, kanatlı olduğuna inanılan kutsal varlık.",
       "answer": "MELEK"
     }
   ]

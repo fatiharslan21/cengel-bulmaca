@@ -167,7 +167,7 @@
       "row": 0,
       "col": 8,
       "length": 4,
-      "clue": "Bulmacada Bayat olmayan karşılığını veren yanıt",
+      "clue": "Yeni toplanmış, bayatlamamış; canlılığını yeni yeni yitirmemiş olan.",
       "answer": "TAZE"
     },
     {
@@ -176,7 +176,7 @@
       "row": 1,
       "col": 4,
       "length": 6,
-      "clue": "Kısa an anlamına gelen sözcük",
+      "clue": "Dakikanın altmışta biri; zamanın en küçük günlük ölçü birimi.",
       "answer": "SANİYE"
     },
     {
@@ -185,7 +185,7 @@
       "row": 1,
       "col": 4,
       "length": 6,
-      "clue": "Günlük dilde Kürekli tekne olarak bilinen kavram",
+      "clue": "İnsan ya da kürek gücüyle suda yol alan küçük açık deniz teknesi.",
       "answer": "SANDAL"
     },
     {
@@ -194,7 +194,7 @@
       "row": 2,
       "col": 1,
       "length": 4,
-      "clue": "Ödül bardağı anlamına gelen sözcük",
+      "clue": "Bir yarışmanın galibine ödül olarak verilen, ayaklı madeni kadeh.",
       "answer": "KUPA"
     },
     {
@@ -203,7 +203,7 @@
       "row": 2,
       "col": 10,
       "length": 6,
-      "clue": "Başkent karşılığı olarak kullanılan kelime",
+      "clue": "Türkiye Cumhuriyeti'nin başkenti ve İç Anadolu'nun en büyük şehri.",
       "answer": "ANKARA"
     },
     {
@@ -212,7 +212,7 @@
       "row": 3,
       "col": 7,
       "length": 5,
-      "clue": "Küçük deniz taşıtı anlamına gelen sözcük",
+      "clue": "Yelkenli ya da motorlu olup denizde kısa yolculuklara çıkan küçük gemi.",
       "answer": "TEKNE"
     },
     {
@@ -221,7 +221,7 @@
       "row": 4,
       "col": 3,
       "length": 3,
-      "clue": "Seramik toprağı karşılığı olarak kullanılan kelime",
+      "clue": "Çanak çömlek yapımında kullanılan, suyla yumuşayan yapışkan toprak.",
       "answer": "KİL"
     },
     {
@@ -230,7 +230,7 @@
       "row": 6,
       "col": 1,
       "length": 5,
-      "clue": "Bilme ya da anlayış karşılığı olarak kullanılan kelime",
+      "clue": "Bilginin ötesinde, deneyim ve sezgiyle kazanılan derin anlayış.",
       "answer": "İRFAN"
     },
     {
@@ -239,7 +239,7 @@
       "row": 6,
       "col": 1,
       "length": 4,
-      "clue": "Kalın olmayan anlamına gelen sözcük",
+      "clue": "Kalınlığı az olan; zarif ve narin yapıda bulunan; kalının karşıtı.",
       "answer": "İNCE"
     },
     {
@@ -248,7 +248,7 @@
       "row": 9,
       "col": 0,
       "length": 3,
-      "clue": "Bulmacada Durum ya da vaziyet karşılığını veren yanıt",
+      "clue": "Bir kimsenin ya da şeyin bulunduğu durum, vaziyet ya da keyif.",
       "answer": "HAL"
     }
   ]

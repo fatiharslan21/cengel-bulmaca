@@ -113,7 +113,7 @@
       "row": 0,
       "col": 3,
       "length": 4,
-      "clue": "Bulmacada Kırmızı meyve karşılığını veren yanıt",
+      "clue": "Kabuğu kırmızı, sarı ya da yeşil olabilen, sulu ve çıtır meyve.",
       "answer": "ELMA"
     },
     {
@@ -122,7 +122,7 @@
       "row": 0,
       "col": 5,
       "length": 5,
-      "clue": "Bulmacada Kanatlı kutsal varlık karşılığını veren yanıt",
+      "clue": "Dinlerde iyilikle görevlendirilmiş, kanatlı olduğuna inanılan kutsal varlık.",
       "answer": "MELEK"
     },
     {
@@ -131,7 +131,7 @@
       "row": 2,
       "col": 2,
       "length": 4,
-      "clue": "Bulmacada Başarı karşılığı karşılığını veren yanıt",
+      "clue": "Başarı gösteren kimseye, çabasının karşılığı olarak verilen değerli armağan.",
       "answer": "ÖDÜL"
     },
     {
@@ -140,7 +140,7 @@
       "row": 2,
       "col": 3,
       "length": 4,
-      "clue": "Küçük akarsu anlamına gelen sözcük",
+      "clue": "Dağlardan doğan, ırmağa ya da göle dökülen küçük doğal akarsu.",
       "answer": "DERE"
     },
     {
@@ -149,7 +149,7 @@
       "row": 2,
       "col": 7,
       "length": 4,
-      "clue": "Günlük dilde Sıkıntı ya da üzüntü olarak bilinen kavram",
+      "clue": "İnsanı üzen, iç sıkıntısı veren; uzun süre geçmeyen tasa ve keder.",
       "answer": "DERT"
     },
     {
@@ -158,7 +158,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "Gömlek boyun kısmı için kullanılan yaygın ifade",
+      "clue": "Gömleğin boynu çevreleyen üst kısmı; ceketin de boyuna değen kenarı.",
       "answer": "YAKA"
     },
     {
@@ -167,7 +167,7 @@
       "row": 4,
       "col": 5,
       "length": 3,
-      "clue": "Günlük dilde Ateş közü olarak bilinen kavram",
+      "clue": "Alevi sönmüş ama sıcaklığı ve kızıllığı süren yanmakta olan parça.",
       "answer": "KOR"
     },
     {
@@ -176,7 +176,7 @@
       "row": 5,
       "col": 0,
       "length": 5,
-      "clue": "Sadık evcil hayvan anlamına gelen sözcük",
+      "clue": "İnsana sadakatiyle bilinen, havlayarak seslenen evcil dört ayaklı.",
       "answer": "KÖPEK"
     },
     {
@@ -185,7 +185,7 @@
       "row": 5,
       "col": 4,
       "length": 5,
-      "clue": "Günlük dilde Küçük kırmızı meyve olarak bilinen kavram",
+      "clue": "Saplı, parlak, kırmızı kabuklu; ilkbaharın sonunda olgunlaşan tatlı meyve.",
       "answer": "KİRAZ"
     }
   ]

@@ -133,7 +133,7 @@
       "row": 0,
       "col": 7,
       "length": 4,
-      "clue": "Cevap bekleyen karşılığı olarak kullanılan kelime",
+      "clue": "Bilinmeyen bir bilgiyi öğrenmek için karşıya yöneltilen cümle.",
       "answer": "SORU"
     },
     {
@@ -142,7 +142,7 @@
       "row": 1,
       "col": 2,
       "length": 4,
-      "clue": "Türk simgesi çiçek için kullanılan yaygın ifade",
+      "clue": "İlkbaharda açan, kadeh biçimli taç yaprakları olan, Türklerin simgesi çiçek.",
       "answer": "LALE"
     },
     {
@@ -151,7 +151,7 @@
       "row": 1,
       "col": 4,
       "length": 6,
-      "clue": "Nasip ya da pay karşılığı olarak kullanılan kelime",
+      "clue": "Kişinin payına düşen; kaderin ona uygun gördüğü nasibi ya da şansı.",
       "answer": "KISMET"
     },
     {
@@ -160,7 +160,7 @@
       "row": 1,
       "col": 6,
       "length": 4,
-      "clue": "Günlük dilde Sıvı geçen tüp olarak bilinen kavram",
+      "clue": "İçinden su, gaz ya da başka sıvıların geçtiği içi boş uzun silindir.",
       "answer": "BORU"
     },
     {
@@ -169,7 +169,7 @@
       "row": 2,
       "col": 2,
       "length": 3,
-      "clue": "Bulmacada Koruyucu ilaç karşılığını veren yanıt",
+      "clue": "Bir hastalığa karşı bağışıklık kazandırmak için vücuda verilen ilaç.",
       "answer": "AŞI"
     },
     {
@@ -178,7 +178,7 @@
       "row": 3,
       "col": 0,
       "length": 3,
-      "clue": "Yaklaşma eylemi karşılığı olarak kullanılan kelime",
+      "clue": "Bulunduğun yerden buraya doğru yaklaş; git sözcüğünün tam zıttı eylem.",
       "answer": "GEL"
     },
     {
@@ -187,7 +187,7 @@
       "row": 3,
       "col": 4,
       "length": 5,
-      "clue": "Düşme ya da sessizlik karşılığı olarak kullanılan kelime",
+      "clue": "Etraf çınlayarak susma; hiçbir ses çıkmayan derin sessizlik.",
       "answer": "SUKUT"
     },
     {
@@ -196,7 +196,7 @@
       "row": 5,
       "col": 3,
       "length": 7,
-      "clue": "Bulmacada İletişim cihazı karşılığını veren yanıt",
+      "clue": "Uzaktaki kişilerle anında sesli iletişim kurmamızı sağlayan cihaz.",
       "answer": "TELEFON"
     },
     {
@@ -205,7 +205,7 @@
       "row": 5,
       "col": 6,
       "length": 5,
-      "clue": "En sert taş karşılığı olarak kullanılan kelime",
+      "clue": "Doğada bulunan en sert madde; takılarda kullanılan değerli kıymetli taş.",
       "answer": "ELMAS"
     },
     {
@@ -214,7 +214,7 @@
       "row": 8,
       "col": 3,
       "length": 5,
-      "clue": "Söz ya da laf karşılığı olarak kullanılan kelime",
+      "clue": "Ağızdan çıkan söz; düşüncenin dille ifade bulmuş hali.",
       "answer": "KELAM"
     }
   ]

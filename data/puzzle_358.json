@@ -145,7 +145,7 @@
       "row": 0,
       "col": 9,
       "length": 4,
-      "clue": "Arzu ya da istek için kullanılan yaygın ifade",
+      "clue": "İçten doğan büyük istek; insanı coşturan şiddetli arzu ve heves.",
       "answer": "ŞEVK"
     },
     {
@@ -154,7 +154,7 @@
       "row": 3,
       "col": 2,
       "length": 3,
-      "clue": "Bulmacada Durum ya da vaziyet karşılığını veren yanıt",
+      "clue": "Bir kimsenin ya da şeyin bulunduğu durum, vaziyet ya da keyif.",
       "answer": "HAL"
     },
     {
@@ -163,7 +163,7 @@
       "row": 3,
       "col": 6,
       "length": 5,
-      "clue": "Zar masa oyunu için kullanılan yaygın ifade",
+      "clue": "Zarla ve pullarla iki kişi arasında oynanan, kahvehane kültürünün oyunu.",
       "answer": "TAVLA"
     },
     {
@@ -172,7 +172,7 @@
       "row": 3,
       "col": 6,
       "length": 4,
-      "clue": "Anadolu halkı için kullanılan yaygın ifade",
+      "clue": "Anadolu ve çevresinde yaşayan, Orta Asya kökenli büyük millet.",
       "answer": "TÜRK"
     },
     {
@@ -181,7 +181,7 @@
       "row": 3,
       "col": 8,
       "length": 5,
-      "clue": "Hasım ya da muhalif için kullanılan yaygın ifade",
+      "clue": "Aynı amaca ulaşmak için karşı karşıya gelen, yarış halindeki hasım.",
       "answer": "RAKİP"
     },
     {
@@ -190,7 +190,7 @@
       "row": 4,
       "col": 1,
       "length": 4,
-      "clue": "Amaç ya da maksat için kullanılan yaygın ifade",
+      "clue": "Bir işe girişirken göz önünde tutulan, ulaşılmak istenen son hedef.",
       "answer": "GAYE"
     },
     {
@@ -199,7 +199,7 @@
       "row": 4,
       "col": 4,
       "length": 5,
-      "clue": "Vaktinden önce karşılığı olarak kullanılan kelime",
+      "clue": "Belirlenen vaktin öncesinde gelme; geç kalmanın tersi durumu.",
       "answer": "ERKEN"
     },
     {
@@ -208,7 +208,7 @@
       "row": 6,
       "col": 3,
       "length": 4,
-      "clue": "Eğitim kurumu için kullanılan yaygın ifade",
+      "clue": "Öğrencilerin öğretmenler tarafından eğitim aldığı resmî öğretim kurumu.",
       "answer": "OKUL"
     },
     {
@@ -217,7 +217,7 @@
       "row": 8,
       "col": 0,
       "length": 5,
-      "clue": "Vücut bölümü karşılığı olarak kullanılan kelime",
+      "clue": "Vücudun belirli bir işlevi yerine getiren, dokulardan oluşmuş bölümü.",
       "answer": "ORGAN"
     },
     {
@@ -226,7 +226,7 @@
       "row": 8,
       "col": 3,
       "length": 3,
-      "clue": "Günlük dilde Ced ya da büyükbaba olarak bilinen kavram",
+      "clue": "Soyun büyüklerinden sayılan dede ya da daha öncesinden gelen büyük.",
       "answer": "ATA"
     }
   ]

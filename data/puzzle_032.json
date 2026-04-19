@@ -78,7 +78,7 @@
       "row": 0,
       "col": 3,
       "length": 3,
-      "clue": "Bulmacada Havadaki rutubet karşılığını veren yanıt",
+      "clue": "Havada ya da bir yüzeyde bulunan, hissedilen rutubet miktarı.",
       "answer": "NEM"
     },
     {
@@ -87,7 +87,7 @@
       "row": 0,
       "col": 5,
       "length": 3,
-      "clue": "Mülk ya da eşya anlamına gelen sözcük",
+      "clue": "Sahip olunan taşınır ya da taşınmaz değerli eşya; mülk.",
       "answer": "MAL"
     },
     {
@@ -96,7 +96,7 @@
       "row": 0,
       "col": 8,
       "length": 3,
-      "clue": "Gizli bilgi için kullanılan yaygın ifade",
+      "clue": "Başkalarıyla paylaşılmayan; yalnızca bir kişinin bildiği gizli bilgi.",
       "answer": "SIR"
     },
     {
@@ -105,7 +105,7 @@
       "row": 0,
       "col": 8,
       "length": 3,
-      "clue": "Baştaki kıllar anlamına gelen sözcük",
+      "clue": "Başımızın derisinde biten, her birinin kökten uzayan ince tel kıl.",
       "answer": "SAÇ"
     },
     {
@@ -114,7 +114,7 @@
       "row": 1,
       "col": 0,
       "length": 4,
-      "clue": "Yakın olmayan karşılığı olarak kullanılan kelime",
+      "clue": "Aradaki mesafenin çok olduğu; yakınlığı hissedilmeyen ötelerdeki yer.",
       "answer": "UZAK"
     },
     {
@@ -123,7 +123,7 @@
       "row": 1,
       "col": 5,
       "length": 4,
-      "clue": "Av yapan kişi anlamına gelen sözcük",
+      "clue": "Kırda ya da ormanda silahla veya tuzakla av peşinde koşan kişi.",
       "answer": "AVCI"
     },
     {
@@ -132,7 +132,7 @@
       "row": 2,
       "col": 3,
       "length": 3,
-      "clue": "Bulmacada Vücudun orta bölümü karşılığını veren yanıt",
+      "clue": "Göğüs kafesi ile kalçalar arasında kalan, vücudun orta kısmı.",
       "answer": "BEL"
     },
     {
@@ -141,7 +141,7 @@
       "row": 2,
       "col": 3,
       "length": 3,
-      "clue": "Arı ürünü tatlı için kullanılan yaygın ifade",
+      "clue": "Arıların çiçeklerden topladığı nektarı işleyerek yaptığı koyu, tatlı gıda.",
       "answer": "BAL"
     },
     {
@@ -150,7 +150,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "Bulmacada Yansıtıcı cam karşılığını veren yanıt",
+      "clue": "Karşısına geçenin görüntüsünü aynen yansıtan sırlanmış cam yüzey.",
       "answer": "AYNA"
     }
   ]

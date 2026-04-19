@@ -134,7 +134,7 @@
       "row": 0,
       "col": 3,
       "length": 4,
-      "clue": "Yük hayvanı için kullanılan yaygın ifade",
+      "clue": "Uzun kulaklı, sabırlı; köylerde yük taşımada kullanılan küçük binek hayvanı.",
       "answer": "EŞEK"
     },
     {
@@ -143,7 +143,7 @@
       "row": 0,
       "col": 4,
       "length": 6,
-      "clue": "Bulmacada Sevgi ya da acıma karşılığını veren yanıt",
+      "clue": "Zayıfa ve çaresize duyulan içten sevgi; acıyarak sarılma duygusu.",
       "answer": "ŞEFKAT"
     },
     {
@@ -152,7 +152,7 @@
       "row": 0,
       "col": 6,
       "length": 3,
-      "clue": "Bulmacada Bina bölümü karşılığını veren yanıt",
+      "clue": "Bir binanın birbirinin üzerine gelen yatay bölümlerinden her biri.",
       "answer": "KAT"
     },
     {
@@ -161,7 +161,7 @@
       "row": 0,
       "col": 8,
       "length": 5,
-      "clue": "Bulmacada Ağaçlık alan karşılığını veren yanıt",
+      "clue": "Geniş bir alana yayılmış, iç içe büyümüş ağaçlardan oluşan doğal yaşam.",
       "answer": "ORMAN"
     },
     {
@@ -170,7 +170,7 @@
       "row": 4,
       "col": 3,
       "length": 6,
-      "clue": "Bina çıkıntısı karşılığı olarak kullanılan kelime",
+      "clue": "Bir binanın üst katlarından dışarı uzanan, parmaklıkla çevrili çıkıntı.",
       "answer": "BALKON"
     },
     {
@@ -179,7 +179,7 @@
       "row": 4,
       "col": 6,
       "length": 5,
-      "clue": "Günlük dilde Alın yazısı olarak bilinen kavram",
+      "clue": "İnsanın başına geleceği önceden yazıldığına inanılan alın yazısı.",
       "answer": "KADER"
     },
     {
@@ -188,7 +188,7 @@
       "row": 6,
       "col": 1,
       "length": 4,
-      "clue": "Uyan ya da bağlı karşılığı olarak kullanılan kelime",
+      "clue": "Bir kurala, şahsa ya da düzene bağlı olan; ona uymak durumunda kalan.",
       "answer": "TABİ"
     },
     {
@@ -197,7 +197,7 @@
       "row": 6,
       "col": 3,
       "length": 5,
-      "clue": "Ağır ya da kötü karşılığı olarak kullanılan kelime",
+      "clue": "Sonu kötü olabilecek; durumun ne kadar ağır olduğunu gösteren sıfat.",
       "answer": "VAHİM"
     },
     {
@@ -206,7 +206,7 @@
       "row": 7,
       "col": 0,
       "length": 4,
-      "clue": "Gönül huzuru anlamına gelen sözcük",
+      "clue": "İçten duyulan gönül rahatlığı; keder bırakmayan tatlı neşe.",
       "answer": "SAFA"
     },
     {
@@ -215,7 +215,7 @@
       "row": 8,
       "col": 3,
       "length": 6,
-      "clue": "Ayrılık acısı için kullanılan yaygın ifade",
+      "clue": "Sevgiliden uzak düşmenin yürekte açtığı derin ayrılık acısı.",
       "answer": "HİCRAN"
     }
   ]

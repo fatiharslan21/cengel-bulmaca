@@ -112,7 +112,7 @@
       "row": 0,
       "col": 3,
       "length": 6,
-      "clue": "Ülke yönetimi için kullanılan yaygın ifade",
+      "clue": "Belirli bir ülkenin sınırlarında örgütlenmiş siyasi ve yönetimsel yapı.",
       "answer": "DEVLET"
     },
     {
@@ -121,7 +121,7 @@
       "row": 1,
       "col": 2,
       "length": 5,
-      "clue": "Esas ya da kök anlamına gelen sözcük",
+      "clue": "Bir yapının ayakta durmasını sağlayan, toprağa gömülü olan ilk bölümü.",
       "answer": "TEMEL"
     },
     {
@@ -130,7 +130,7 @@
       "row": 3,
       "col": 1,
       "length": 5,
-      "clue": "Bulmacada Şans ya da baht karşılığını veren yanıt",
+      "clue": "İnsanın ömür boyu karşılaştığı iyi ya da kötü raslantıların tümü; baht.",
       "answer": "TALİH"
     },
     {
@@ -139,7 +139,7 @@
       "row": 5,
       "col": 1,
       "length": 5,
-      "clue": "Issız ya da boş için kullanılan yaygın ifade",
+      "clue": "İnsanın pek rastlanmadığı, sessiz ve ıssız kalmış mekân.",
       "answer": "TENHA"
     },
     {
@@ -148,7 +148,7 @@
       "row": 5,
       "col": 1,
       "length": 3,
-      "clue": "Günlük dilde Damaktaki lezzet olarak bilinen kavram",
+      "clue": "Dilin damak aracılığıyla algıladığı; acı, ekşi, tuzlu gibi duyusal nitelik.",
       "answer": "TAT"
     },
     {
@@ -157,7 +157,7 @@
       "row": 5,
       "col": 6,
       "length": 4,
-      "clue": "Günlük dilde Bitki yapısı olarak bilinen kavram",
+      "clue": "İçerisi camla kaplı; mevsim dışında bile bitki yetiştirilen ısıtılmış yapı.",
       "answer": "SERA"
     },
     {
@@ -166,7 +166,7 @@
       "row": 8,
       "col": 3,
       "length": 3,
-      "clue": "Günlük dilde Oyun küpü olarak bilinen kavram",
+      "clue": "Üzerinde nokta bulunan, oyunlarda atılan altı yüzlü küçük küp.",
       "answer": "ZAR"
     },
     {
@@ -175,7 +175,7 @@
       "row": 8,
       "col": 3,
       "length": 4,
-      "clue": "Günlük dilde Işık ya da aydınlık olarak bilinen kavram",
+      "clue": "Karanlığı dağıtan; göze hoş gelen aydınlatıcı parıltı.",
       "answer": "ZİYA"
     },
     {
@@ -184,7 +184,7 @@
       "row": 8,
       "col": 5,
       "length": 3,
-      "clue": "Ömür süresi anlamına gelen sözcük",
+      "clue": "İnsanın doğduğu günden bu yana geçen toplam yıl; ömürdeki basamak.",
       "answer": "YAŞ"
     },
     {
@@ -193,7 +193,7 @@
       "row": 9,
       "col": 0,
       "length": 4,
-      "clue": "Büyük sert taş için kullanılan yaygın ifade",
+      "clue": "Toprağın üstünde ya da altında bulunan, kolay parçalanmayan büyük taş.",
       "answer": "KAYA"
     }
   ]

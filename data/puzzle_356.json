@@ -157,7 +157,7 @@
       "row": 0,
       "col": 4,
       "length": 4,
-      "clue": "Günlük dilde Yanlış ya da kusur olarak bilinen kavram",
+      "clue": "İstemeden yapılan yanlış; doğru olandan sapmanın yol açtığı kusur.",
       "answer": "HATA"
     },
     {
@@ -166,7 +166,7 @@
       "row": 2,
       "col": 6,
       "length": 4,
-      "clue": "Kötü ya da berbat karşılığı olarak kullanılan kelime",
+      "clue": "Niteliği kötü olan, insanın içini bunaltan; iyi sözcüğünün zıttı.",
       "answer": "FENA"
     },
     {
@@ -175,7 +175,7 @@
       "row": 3,
       "col": 3,
       "length": 4,
-      "clue": "Amaç ya da maksat için kullanılan yaygın ifade",
+      "clue": "Bir işe girişirken göz önünde tutulan, ulaşılmak istenen son hedef.",
       "answer": "GAYE"
     },
     {
@@ -184,7 +184,7 @@
       "row": 5,
       "col": 5,
       "length": 5,
-      "clue": "Bulmacada Katlanma ya da dayanma karşılığını veren yanıt",
+      "clue": "Zorluklara dayanıp isyan etmeden bekleyebilme; hoşgörü ile katlanma.",
       "answer": "SABIR"
     },
     {
@@ -193,7 +193,7 @@
       "row": 5,
       "col": 7,
       "length": 6,
-      "clue": "Güzel öten kuş için kullanılan yaygın ifade",
+      "clue": "Geceleri ötüşüyle tanınan, sesi şiirlere konu olmuş küçük kahverengi kuş.",
       "answer": "BÜLBÜL"
     },
     {
@@ -202,7 +202,7 @@
       "row": 7,
       "col": 4,
       "length": 5,
-      "clue": "Bulmacada Şans ya da baht karşılığını veren yanıt",
+      "clue": "İnsanın ömür boyu karşılaştığı iyi ya da kötü raslantıların tümü; baht.",
       "answer": "TALİH"
     },
     {
@@ -211,7 +211,7 @@
       "row": 7,
       "col": 4,
       "length": 5,
-      "clue": "Zar masa oyunu için kullanılan yaygın ifade",
+      "clue": "Zarla ve pullarla iki kişi arasında oynanan, kahvehane kültürünün oyunu.",
       "answer": "TAVLA"
     },
     {
@@ -220,7 +220,7 @@
       "row": 8,
       "col": 1,
       "length": 4,
-      "clue": "Bulmacada Suça yaptırım karşılığını veren yanıt",
+      "clue": "Suç işleyen kimseye, yaptığının karşılığı olarak verilen yaptırım.",
       "answer": "CEZA"
     },
     {
@@ -229,7 +229,7 @@
       "row": 9,
       "col": 1,
       "length": 4,
-      "clue": "Ölüm vakti karşılığı olarak kullanılan kelime",
+      "clue": "Her canlı için önceden belirlendiğine inanılan ölüm zamanı.",
       "answer": "ECEL"
     },
     {
@@ -238,7 +238,7 @@
       "row": 11,
       "col": 0,
       "length": 3,
-      "clue": "Derin uçurum ya da dik çatlak",
+      "clue": "Derin ve dik uçurum; aynı zamanda sevilen kişi için kullanılan şiirsel ad.",
       "answer": "YAR"
     }
   ]

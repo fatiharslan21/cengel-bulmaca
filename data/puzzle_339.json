@@ -125,7 +125,7 @@
       "row": 0,
       "col": 6,
       "length": 5,
-      "clue": "Tatlı madde için kullanılan yaygın ifade",
+      "clue": "Kamıştan ya da pancardan elde edilen; çay ve tatlılara katılan tatlı madde.",
       "answer": "ŞEKER"
     },
     {
@@ -134,7 +134,7 @@
       "row": 0,
       "col": 8,
       "length": 5,
-      "clue": "Günlük dilde Yemek aracı olarak bilinen kavram",
+      "clue": "Çorba, pilav gibi yemekleri ağza götürmek için kullanılan çukur sap.",
       "answer": "KAŞIK"
     },
     {
@@ -143,7 +143,7 @@
       "row": 1,
       "col": 5,
       "length": 5,
-      "clue": "Bulmacada Hüzün ya da usanç karşılığını veren yanıt",
+      "clue": "İçe işleyen hafif hüzün; kimseye belli edilmeyen sessiz usanç.",
       "answer": "MELAL"
     },
     {
@@ -152,7 +152,7 @@
       "row": 2,
       "col": 3,
       "length": 4,
-      "clue": "Çukur yemek kabı anlamına gelen sözcük",
+      "clue": "Çorba, salata ya da yoğurt konulan, yuvarlak ve çukur küçük yemek kabı.",
       "answer": "KASE"
     },
     {
@@ -161,7 +161,7 @@
       "row": 3,
       "col": 2,
       "length": 5,
-      "clue": "Ani vuruş anlamına gelen sözcük",
+      "clue": "Ani ve sert bir hareketle yapılan vuruş; çarpma sonucu alınan sarsıntı.",
       "answer": "DARBE"
     },
     {
@@ -170,7 +170,7 @@
       "row": 4,
       "col": 1,
       "length": 3,
-      "clue": "Dairenin merkezinden geçen doğru parçası",
+      "clue": "Bir çemberin merkezinden geçerek onu iki eşit yaya bölen doğru parça.",
       "answer": "ÇAP"
     },
     {
@@ -179,7 +179,7 @@
       "row": 4,
       "col": 8,
       "length": 4,
-      "clue": "Şehir anlamına gelen sözcük",
+      "clue": "Nüfusu kalabalık, altyapısı gelişmiş, şehir niteliğindeki yerleşim yeri.",
       "answer": "KENT"
     },
     {
@@ -188,7 +188,7 @@
       "row": 4,
       "col": 9,
       "length": 4,
-      "clue": "Kullanılan nesneler anlamına gelen sözcük",
+      "clue": "Evde ya da iş yerinde gündelik hayatta kullanılan nesnelerin tümü.",
       "answer": "EŞYA"
     },
     {
@@ -197,7 +197,7 @@
       "row": 5,
       "col": 0,
       "length": 4,
-      "clue": "Amaç ya da maksat için kullanılan yaygın ifade",
+      "clue": "Bir işe girişirken göz önünde tutulan, ulaşılmak istenen son hedef.",
       "answer": "GAYE"
     },
     {
@@ -206,7 +206,7 @@
       "row": 7,
       "col": 6,
       "length": 4,
-      "clue": "Solunan gaz anlamına gelen sözcük",
+      "clue": "Atmosferi oluşturan, canlıların soluduğu renksiz ve kokusuz gaz karışımı.",
       "answer": "HAVA"
     }
   ]

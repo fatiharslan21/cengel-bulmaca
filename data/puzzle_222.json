@@ -103,7 +103,7 @@
       "row": 0,
       "col": 3,
       "length": 5,
-      "clue": "Günlük dilde Soluk alma verme olarak bilinen kavram",
+      "clue": "Ciğerlere hava çekmek ve bırakmak; yaşamın sürdüğünün göstergesi soluk.",
       "answer": "NEFES"
     },
     {
@@ -112,7 +112,7 @@
       "row": 1,
       "col": 1,
       "length": 4,
-      "clue": "Yapılması gereken iş için kullanılan yaygın ifade",
+      "clue": "Öğretmenin evde yapılmak üzere öğrenciye verdiği görev; yerine getirilmesi gereken iş.",
       "answer": "ÖDEV"
     },
     {
@@ -121,7 +121,7 @@
       "row": 1,
       "col": 1,
       "length": 4,
-      "clue": "Yaşam süresi karşılığı olarak kullanılan kelime",
+      "clue": "Bir canlının doğumundan ölümüne kadar geçen toplam yaşam süresi.",
       "answer": "ÖMÜR"
     },
     {
@@ -130,7 +130,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "Zaman aralığı için kullanılan yaygın ifade",
+      "clue": "Bir olayın başlangıcı ile sonu arasında geçen zaman aralığı.",
       "answer": "SÜRE"
     },
     {
@@ -139,7 +139,7 @@
       "row": 3,
       "col": 6,
       "length": 4,
-      "clue": "Sayısal değer için kullanılan yaygın ifade",
+      "clue": "Bir sınavda ya da yarışmada başarıya göre verilen sayısal değerlendirme.",
       "answer": "PUAN"
     },
     {
@@ -148,7 +148,7 @@
       "row": 4,
       "col": 3,
       "length": 4,
-      "clue": "Cevap bekleyen karşılığı olarak kullanılan kelime",
+      "clue": "Bilinmeyen bir bilgiyi öğrenmek için karşıya yöneltilen cümle.",
       "answer": "SORU"
     },
     {
@@ -157,7 +157,7 @@
       "row": 5,
       "col": 0,
       "length": 4,
-      "clue": "Karanlık zaman anlamına gelen sözcük",
+      "clue": "Güneşin batmasından doğmasına kadar süren karanlık zaman dilimi.",
       "answer": "GECE"
     },
     {
@@ -166,7 +166,7 @@
       "row": 6,
       "col": 3,
       "length": 4,
-      "clue": "Günlük dilde Geniş düzlük olarak bilinen kavram",
+      "clue": "Üzerinde yapı bulunmayan, belli sınırlarla çevrili geniş açık düzlük.",
       "answer": "ALAN"
     },
     {
@@ -175,7 +175,7 @@
       "row": 6,
       "col": 3,
       "length": 4,
-      "clue": "Günlük dilde Bacak ucu olarak bilinen kavram",
+      "clue": "Bacağın bileğinden aşağısı; üzerine basarak yürümemizi sağlayan uzuv.",
       "answer": "AYAK"
     },
     {
@@ -184,7 +184,7 @@
       "row": 8,
       "col": 0,
       "length": 4,
-      "clue": "Bulmacada Kırmızı meyve karşılığını veren yanıt",
+      "clue": "Kabuğu kırmızı, sarı ya da yeşil olabilen, sulu ve çıtır meyve.",
       "answer": "ELMA"
     }
   ]

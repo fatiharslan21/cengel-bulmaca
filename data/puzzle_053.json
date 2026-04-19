@@ -133,7 +133,7 @@
       "row": 0,
       "col": 5,
       "length": 3,
-      "clue": "Günlük dilde Mekan ya da konum olarak bilinen kavram",
+      "clue": "Üzerinde durduğumuz zemin; bir olayın geçtiği konum.",
       "answer": "YER"
     },
     {
@@ -142,7 +142,7 @@
       "row": 1,
       "col": 4,
       "length": 4,
-      "clue": "Şehir anlamına gelen sözcük",
+      "clue": "Nüfusu kalabalık, altyapısı gelişmiş, şehir niteliğindeki yerleşim yeri.",
       "answer": "KENT"
     },
     {
@@ -151,7 +151,7 @@
       "row": 1,
       "col": 7,
       "length": 4,
-      "clue": "Anadolu halkı için kullanılan yaygın ifade",
+      "clue": "Anadolu ve çevresinde yaşayan, Orta Asya kökenli büyük millet.",
       "answer": "TÜRK"
     },
     {
@@ -160,7 +160,7 @@
       "row": 4,
       "col": 3,
       "length": 5,
-      "clue": "Bulmacada Suyla ıslanmış karşılığını veren yanıt",
+      "clue": "Su veya başka bir sıvıyla temas edip kurumamış olan nemli yüzey.",
       "answer": "ISLAK"
     },
     {
@@ -169,7 +169,7 @@
       "row": 4,
       "col": 4,
       "length": 5,
-      "clue": "Günlük dilde Temizlik maddesi olarak bilinen kavram",
+      "clue": "Cilde sürülüp suyla köpürtülerek kirleri temizleyen, kalıp ya da sıvı madde.",
       "answer": "SABUN"
     },
     {
@@ -178,7 +178,7 @@
       "row": 4,
       "col": 6,
       "length": 3,
-      "clue": "Tek renk olmayan, benekli görünüm",
+      "clue": "Birden çok rengin bir arada bulunduğu, benekli ya da karışık görünüm.",
       "answer": "ALA"
     },
     {
@@ -187,7 +187,7 @@
       "row": 6,
       "col": 0,
       "length": 4,
-      "clue": "Günlük dilde Felaket ya da kötülük olarak bilinen kavram",
+      "clue": "İnsanın başına habersizce gelen ağır dert, büyük sıkıntı ya da musibet.",
       "answer": "BELA"
     },
     {
@@ -196,7 +196,7 @@
       "row": 8,
       "col": 0,
       "length": 5,
-      "clue": "Bulmacada Gemi barınağı karşılığını veren yanıt",
+      "clue": "Gemilerin yük boşalttığı, fırtınadan korunarak demirlediği deniz kıyısı.",
       "answer": "LİMAN"
     },
     {
@@ -205,7 +205,7 @@
       "row": 8,
       "col": 2,
       "length": 4,
-      "clue": "Günlük dilde Ateş aleti olarak bilinen kavram",
+      "clue": "Sobadan ateş almak ya da sıcak şeyleri tutmak için kullanılan uzun kıskaç.",
       "answer": "MAŞA"
     }
   ]

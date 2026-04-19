@@ -130,7 +130,7 @@
       "row": 0,
       "col": 3,
       "length": 5,
-      "clue": "Bulmacada Yas ya da acı karşılığını veren yanıt",
+      "clue": "Kaybedilen bir yakının ardından tutulan koyu yas; siyahlar giyme hali.",
       "answer": "MATEM"
     },
     {
@@ -139,7 +139,7 @@
       "row": 1,
       "col": 2,
       "length": 4,
-      "clue": "Görkemli yapı karşılığı olarak kullanılan kelime",
+      "clue": "Ortaçağ Avrupası'nda soyluların yaşadığı kuleli, büyük taştan yapılı konak.",
       "answer": "ŞATO"
     },
     {
@@ -148,7 +148,7 @@
       "row": 2,
       "col": 1,
       "length": 4,
-      "clue": "Bulmacada Çiçek süs kabı karşılığını veren yanıt",
+      "clue": "İçine çiçek konulmak üzere yapılmış, ince uzun boyunlu süs kabı.",
       "answer": "VAZO"
     },
     {
@@ -157,7 +157,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "Günlük dilde Adet ya da parça olarak bilinen kavram",
+      "clue": "Sayılabilen nesnelerin her biri; küçük parça ya da adet.",
       "answer": "TANE"
     },
     {
@@ -166,7 +166,7 @@
       "row": 3,
       "col": 6,
       "length": 3,
-      "clue": "Omuz örtüsü anlamına gelen sözcük",
+      "clue": "Omuzlara atılan ya da başa örtülen, yumuşak geniş kumaş parçası.",
       "answer": "ŞAL"
     },
     {
@@ -175,7 +175,7 @@
       "row": 3,
       "col": 6,
       "length": 4,
-      "clue": "Arzu ya da istek için kullanılan yaygın ifade",
+      "clue": "İçten doğan büyük istek; insanı coşturan şiddetli arzu ve heves.",
       "answer": "ŞEVK"
     },
     {
@@ -184,7 +184,7 @@
       "row": 3,
       "col": 8,
       "length": 4,
-      "clue": "Ayrılırken selam için kullanılan yaygın ifade",
+      "clue": "Bir kimseyle ayrılırken söylenen son söz; ayrılık selamı.",
       "answer": "VEDA"
     },
     {
@@ -193,7 +193,7 @@
       "row": 4,
       "col": 3,
       "length": 4,
-      "clue": "Günlük dilde Yemek mobilyası olarak bilinen kavram",
+      "clue": "Üzerinde yemek yemek ya da çalışmak için kullanılan ayaklı düz mobilya.",
       "answer": "MASA"
     },
     {
@@ -202,7 +202,7 @@
       "row": 6,
       "col": 7,
       "length": 4,
-      "clue": "Talih ya da baht karşılığı olarak kullanılan kelime",
+      "clue": "İnsana gülen talih; iyi bir sonucun tesadüfen kısmet olması hali.",
       "answer": "ŞANS"
     },
     {
@@ -211,7 +211,7 @@
       "row": 6,
       "col": 9,
       "length": 3,
-      "clue": "İşve ya da cilve anlamına gelen sözcük",
+      "clue": "Sevdiğine karşı gösterilen hafif cilve; yapmacık çekingenlik.",
       "answer": "NAZ"
     }
   ]

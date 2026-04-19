@@ -145,7 +145,7 @@
       "row": 0,
       "col": 1,
       "length": 5,
-      "clue": "Günlük dilde Bilimsel test olarak bilinen kavram",
+      "clue": "Bir varsayımı doğrulamak amacıyla yapılan, kontrollü bilimsel çalışma.",
       "answer": "DENEY"
     },
     {
@@ -154,7 +154,7 @@
       "row": 1,
       "col": 0,
       "length": 4,
-      "clue": "Günlük dilde Felaket ya da kötülük olarak bilinen kavram",
+      "clue": "İnsanın başına habersizce gelen ağır dert, büyük sıkıntı ya da musibet.",
       "answer": "BELA"
     },
     {
@@ -163,7 +163,7 @@
       "row": 2,
       "col": 4,
       "length": 5,
-      "clue": "Tatlı madde için kullanılan yaygın ifade",
+      "clue": "Kamıştan ya da pancardan elde edilen; çay ve tatlılara katılan tatlı madde.",
       "answer": "ŞEKER"
     },
     {
@@ -172,7 +172,7 @@
       "row": 2,
       "col": 6,
       "length": 3,
-      "clue": "Mülk ya da eşya anlamına gelen sözcük",
+      "clue": "Sahip olunan taşınır ya da taşınmaz değerli eşya; mülk.",
       "answer": "MAL"
     },
     {
@@ -181,7 +181,7 @@
       "row": 3,
       "col": 0,
       "length": 5,
-      "clue": "Yenilebilen bitki için kullanılan yaygın ifade",
+      "clue": "Mutfağa giren, bitki kökleri ve yapraklarından oluşan yenilebilir besin.",
       "answer": "SEBZE"
     },
     {
@@ -190,7 +190,7 @@
       "row": 4,
       "col": 4,
       "length": 3,
-      "clue": "Yanık kalıntısı için kullanılan yaygın ifade",
+      "clue": "Bir şeyin yanıp bitmesinin ardından geriye kalan kurumuş toz madde.",
       "answer": "KÜL"
     },
     {
@@ -199,7 +199,7 @@
       "row": 6,
       "col": 3,
       "length": 5,
-      "clue": "Vücut bölümü karşılığı olarak kullanılan kelime",
+      "clue": "Vücudun belirli bir işlevi yerine getiren, dokulardan oluşmuş bölümü.",
       "answer": "ORGAN"
     },
     {
@@ -208,7 +208,7 @@
       "row": 6,
       "col": 7,
       "length": 5,
-      "clue": "Günlük dilde Soluk alma verme olarak bilinen kavram",
+      "clue": "Ciğerlere hava çekmek ve bırakmak; yaşamın sürdüğünün göstergesi soluk.",
       "answer": "NEFES"
     },
     {
@@ -217,7 +217,7 @@
       "row": 9,
       "col": 6,
       "length": 4,
-      "clue": "Günlük dilde Bitki yapısı olarak bilinen kavram",
+      "clue": "İçerisi camla kaplı; mevsim dışında bile bitki yetiştirilen ısıtılmış yapı.",
       "answer": "SERA"
     }
   ]

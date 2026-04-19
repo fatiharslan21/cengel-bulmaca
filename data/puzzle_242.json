@@ -109,7 +109,7 @@
       "row": 0,
       "col": 4,
       "length": 4,
-      "clue": "Üstünü kapatan karşılığı olarak kullanılan kelime",
+      "clue": "Bir eşyanın ya da yüzeyin üstünü kapatmak için serilen kumaş parçası.",
       "answer": "ÖRTÜ"
     },
     {
@@ -118,7 +118,7 @@
       "row": 2,
       "col": 8,
       "length": 3,
-      "clue": "Posta gönderilerinin üzerine yapıştırılan değer etiketi",
+      "clue": "Mektupların üzerine yapıştırılan, postanın ücretini belgeleyen küçük kâğıt.",
       "answer": "PUL"
     },
     {
@@ -127,7 +127,7 @@
       "row": 3,
       "col": 3,
       "length": 3,
-      "clue": "Rüya ya da hayal için kullanılan yaygın ifade",
+      "clue": "Uyku sırasında zihnin canlandırdığı görüntüler ya da uyanıkken kurulan hayal.",
       "answer": "DÜŞ"
     },
     {
@@ -136,7 +136,7 @@
       "row": 3,
       "col": 3,
       "length": 5,
-      "clue": "Tuzlu büyük su karşılığı olarak kullanılan kelime",
+      "clue": "Kıtaları birbirinden ayıran, tuzlu sulardan oluşan uçsuz bucaksız kütle.",
       "answer": "DENİZ"
     },
     {
@@ -145,7 +145,7 @@
       "row": 4,
       "col": 0,
       "length": 4,
-      "clue": "Zaman aralığı için kullanılan yaygın ifade",
+      "clue": "Bir olayın başlangıcı ile sonu arasında geçen zaman aralığı.",
       "answer": "SÜRE"
     },
     {
@@ -154,7 +154,7 @@
       "row": 4,
       "col": 6,
       "length": 4,
-      "clue": "Yapışkan şerit karşılığı olarak kullanılan kelime",
+      "clue": "Bir tarafı yapışkan olan, eşyaları tutturmaya yarayan uzun ince şerit.",
       "answer": "BANT"
     },
     {
@@ -163,7 +163,7 @@
       "row": 4,
       "col": 6,
       "length": 3,
-      "clue": "Arı ürünü tatlı için kullanılan yaygın ifade",
+      "clue": "Arıların çiçeklerden topladığı nektarı işleyerek yaptığı koyu, tatlı gıda.",
       "answer": "BAL"
     },
     {
@@ -172,7 +172,7 @@
       "row": 5,
       "col": 3,
       "length": 4,
-      "clue": "Müzik işareti için kullanılan yaygın ifade",
+      "clue": "Müzik eserlerinde seslerin yükseklik ve uzunluğunu gösteren küçük simge.",
       "answer": "NOTA"
     },
     {
@@ -181,7 +181,7 @@
       "row": 6,
       "col": 1,
       "length": 3,
-      "clue": "Kötünün zıttı karşılığı olarak kullanılan kelime",
+      "clue": "Hoşa giden, yararlı ve olumlu olan; kötünün tam karşıtı olan nitelik.",
       "answer": "İYİ"
     },
     {
@@ -190,7 +190,7 @@
       "row": 7,
       "col": 6,
       "length": 4,
-      "clue": "Bulmacada Raylı taşıt karşılığını veren yanıt",
+      "clue": "Raylar üzerinde hareket eden, vagonları çeken büyük motorlu araç.",
       "answer": "TREN"
     }
   ]

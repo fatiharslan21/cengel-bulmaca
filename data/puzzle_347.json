@@ -156,7 +156,7 @@
       "row": 0,
       "col": 1,
       "length": 4,
-      "clue": "Bildirme ya da hüküm anlamına gelen sözcük",
+      "clue": "Mahkemenin verdiği kararı bildiren, yazılı resmi belge.",
       "answer": "İLAM"
     },
     {
@@ -165,7 +165,7 @@
       "row": 1,
       "col": 0,
       "length": 4,
-      "clue": "Keder ya da acı karşılığı olarak kullanılan kelime",
+      "clue": "Gönle çöken derin üzüntü, insanı içten içe yiyen keder.",
       "answer": "ELEM"
     },
     {
@@ -174,7 +174,7 @@
       "row": 3,
       "col": 1,
       "length": 4,
-      "clue": "Günlük dilde Yemek mobilyası olarak bilinen kavram",
+      "clue": "Üzerinde yemek yemek ya da çalışmak için kullanılan ayaklı düz mobilya.",
       "answer": "MASA"
     },
     {
@@ -183,7 +183,7 @@
       "row": 3,
       "col": 3,
       "length": 5,
-      "clue": "Esenleme sözü için kullanılan yaygın ifade",
+      "clue": "Birbirini gören iki kişinin hal hatır sormak için söylediği esenlik dileği.",
       "answer": "SELAM"
     },
     {
@@ -192,7 +192,7 @@
       "row": 5,
       "col": 10,
       "length": 4,
-      "clue": "Havada uçan taşıt karşılığı olarak kullanılan kelime",
+      "clue": "Kanatları sayesinde havalanıp gökyüzünde uçan motorlu büyük taşıt.",
       "answer": "UÇAK"
     },
     {
@@ -201,7 +201,7 @@
       "row": 6,
       "col": 2,
       "length": 5,
-      "clue": "Bulmacada Yas ya da acı karşılığını veren yanıt",
+      "clue": "Kaybedilen bir yakının ardından tutulan koyu yas; siyahlar giyme hali.",
       "answer": "MATEM"
     },
     {
@@ -210,7 +210,7 @@
       "row": 6,
       "col": 6,
       "length": 5,
-      "clue": "Örnek ya da benzer için kullanılan yaygın ifade",
+      "clue": "Anlatılanı somutlaştırmak için verilen örnek; kıyas noktası.",
       "answer": "MİSAL"
     },
     {
@@ -219,7 +219,7 @@
       "row": 6,
       "col": 8,
       "length": 3,
-      "clue": "Bulmacada Asla ya da kesinlikle hayır karşılığını veren yanıt",
+      "clue": "Olumsuzluğu pekiştiren söz; asla ve kesinlikle bulunmama durumu.",
       "answer": "HİÇ"
     },
     {
@@ -228,7 +228,7 @@
       "row": 6,
       "col": 8,
       "length": 4,
-      "clue": "Günlük dilde Düzen ya da oyun olarak bilinen kavram",
+      "clue": "Birini aldatmak için yapılan gizli düzen; dolap çevirme.",
       "answer": "HİLE"
     },
     {
@@ -237,7 +237,7 @@
       "row": 9,
       "col": 5,
       "length": 5,
-      "clue": "Günlük dilde Alın yazısı olarak bilinen kavram",
+      "clue": "İnsanın başına geleceği önceden yazıldığına inanılan alın yazısı.",
       "answer": "KADER"
     }
   ]

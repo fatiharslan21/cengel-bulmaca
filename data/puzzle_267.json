@@ -112,7 +112,7 @@
       "row": 0,
       "col": 5,
       "length": 4,
-      "clue": "Ayrılırken selam için kullanılan yaygın ifade",
+      "clue": "Bir kimseyle ayrılırken söylenen son söz; ayrılık selamı.",
       "answer": "VEDA"
     },
     {
@@ -121,7 +121,7 @@
       "row": 3,
       "col": 1,
       "length": 4,
-      "clue": "Yapışkan şerit karşılığı olarak kullanılan kelime",
+      "clue": "Bir tarafı yapışkan olan, eşyaları tutturmaya yarayan uzun ince şerit.",
       "answer": "BANT"
     },
     {
@@ -130,7 +130,7 @@
       "row": 3,
       "col": 4,
       "length": 6,
-      "clue": "Nasip ya da pay karşılığı olarak kullanılan kelime",
+      "clue": "Kişinin payına düşen; kaderin ona uygun gördüğü nasibi ya da şansı.",
       "answer": "KISMET"
     },
     {
@@ -139,7 +139,7 @@
       "row": 3,
       "col": 4,
       "length": 4,
-      "clue": "Büyük sert taş için kullanılan yaygın ifade",
+      "clue": "Toprağın üstünde ya da altında bulunan, kolay parçalanmayan büyük taş.",
       "answer": "KAYA"
     },
     {
@@ -148,7 +148,7 @@
       "row": 4,
       "col": 1,
       "length": 4,
-      "clue": "Av yapan kişi anlamına gelen sözcük",
+      "clue": "Kırda ya da ormanda silahla veya tuzakla av peşinde koşan kişi.",
       "answer": "AVCI"
     },
     {
@@ -157,7 +157,7 @@
       "row": 4,
       "col": 8,
       "length": 4,
-      "clue": "Gömlek boyun kısmı için kullanılan yaygın ifade",
+      "clue": "Gömleğin boynu çevreleyen üst kısmı; ceketin de boyuna değen kenarı.",
       "answer": "YAKA"
     },
     {
@@ -166,7 +166,7 @@
       "row": 5,
       "col": 6,
       "length": 4,
-      "clue": "Üstünü kapatan karşılığı olarak kullanılan kelime",
+      "clue": "Bir eşyanın ya da yüzeyin üstünü kapatmak için serilen kumaş parçası.",
       "answer": "ÖRTÜ"
     },
     {
@@ -175,7 +175,7 @@
       "row": 6,
       "col": 0,
       "length": 3,
-      "clue": "Günlük dilde Ced ya da büyükbaba olarak bilinen kavram",
+      "clue": "Soyun büyüklerinden sayılan dede ya da daha öncesinden gelen büyük.",
       "answer": "ATA"
     },
     {
@@ -184,7 +184,7 @@
       "row": 6,
       "col": 2,
       "length": 3,
-      "clue": "Bulmacada Mesafe ya da açıklık karşılığını veren yanıt",
+      "clue": "İki şeyin birbirinden ayrıldığı boşluk; kısa mola süresi.",
       "answer": "ARA"
     },
     {
@@ -193,7 +193,7 @@
       "row": 6,
       "col": 4,
       "length": 5,
-      "clue": "Bilme isteği için kullanılan yaygın ifade",
+      "clue": "Bilinmeyen bir şeyi öğrenmek için insanın içine düşen güçlü istek.",
       "answer": "MERAK"
     }
   ]

@@ -130,7 +130,7 @@
       "row": 0,
       "col": 9,
       "length": 4,
-      "clue": "Bulmacada Yazılmış metin karşılığını veren yanıt",
+      "clue": "Kalemin kâğıda bıraktığı; harflerden oluşan okunabilir işaretler.",
       "answer": "YAZI"
     },
     {
@@ -139,7 +139,7 @@
       "row": 1,
       "col": 3,
       "length": 5,
-      "clue": "Bulmacada Kanatlı kutsal varlık karşılığını veren yanıt",
+      "clue": "Dinlerde iyilikle görevlendirilmiş, kanatlı olduğuna inanılan kutsal varlık.",
       "answer": "MELEK"
     },
     {
@@ -148,7 +148,7 @@
       "row": 1,
       "col": 8,
       "length": 3,
-      "clue": "Göz üstü kıl şeridi anlamına gelen sözcük",
+      "clue": "Gözün hemen üstünde bulunan, yaklaşık yay biçimindeki kıl kümesi.",
       "answer": "KAŞ"
     },
     {
@@ -157,7 +157,7 @@
       "row": 2,
       "col": 2,
       "length": 5,
-      "clue": "Günlük dilde Bilimsel test olarak bilinen kavram",
+      "clue": "Bir varsayımı doğrulamak amacıyla yapılan, kontrollü bilimsel çalışma.",
       "answer": "DENEY"
     },
     {
@@ -166,7 +166,7 @@
       "row": 2,
       "col": 6,
       "length": 6,
-      "clue": "Gökten su damlaları için kullanılan yaygın ifade",
+      "clue": "Bulutlardaki su damlalarının yer çekimiyle gökten yağması.",
       "answer": "YAĞMUR"
     },
     {
@@ -175,7 +175,7 @@
       "row": 3,
       "col": 1,
       "length": 6,
-      "clue": "Ülke yönetimi için kullanılan yaygın ifade",
+      "clue": "Belirli bir ülkenin sınırlarında örgütlenmiş siyasi ve yönetimsel yapı.",
       "answer": "DEVLET"
     },
     {
@@ -184,7 +184,7 @@
       "row": 3,
       "col": 6,
       "length": 4,
-      "clue": "Yemek pişiren karşılığı olarak kullanılan kelime",
+      "clue": "Mutfakta yemek pişirmeyi meslek edinmiş, lezzetten anlayan kişi.",
       "answer": "AŞÇI"
     },
     {
@@ -193,7 +193,7 @@
       "row": 4,
       "col": 1,
       "length": 4,
-      "clue": "Bulmacada Sanat yapıtı karşılığını veren yanıt",
+      "clue": "Bir sanatçının ya da yazarın ortaya koyduğu özgün yapıt.",
       "answer": "ESER"
     },
     {
@@ -202,7 +202,7 @@
       "row": 6,
       "col": 0,
       "length": 3,
-      "clue": "Birinci ya da baştaki anlamına gelen sözcük",
+      "clue": "Bir sıranın en başında bulunan; sondan önce hiçbir şey olmayan sırada birinci.",
       "answer": "İLK"
     },
     {
@@ -211,7 +211,7 @@
       "row": 7,
       "col": 5,
       "length": 3,
-      "clue": "Günlük dilde Bal yapan böcek olarak bilinen kavram",
+      "clue": "Çiçeklerden topladığı nektarı bala dönüştüren, iğneli küçük böcek.",
       "answer": "ARI"
     }
   ]

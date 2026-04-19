@@ -169,7 +169,7 @@
       "row": 0,
       "col": 0,
       "length": 4,
-      "clue": "Günlük dilde Işık ya da aydınlık olarak bilinen kavram",
+      "clue": "Karanlığı dağıtan; göze hoş gelen aydınlatıcı parıltı.",
       "answer": "ZİYA"
     },
     {
@@ -178,7 +178,7 @@
       "row": 1,
       "col": 3,
       "length": 6,
-      "clue": "Boşuna ya da yararsız için kullanılan yaygın ifade",
+      "clue": "Harcanan çabaya değmeyen; hiçbir yarar sağlamayan boş uğraş.",
       "answer": "NAFİLE"
     },
     {
@@ -187,7 +187,7 @@
       "row": 2,
       "col": 0,
       "length": 4,
-      "clue": "Gömlek boyun kısmı için kullanılan yaygın ifade",
+      "clue": "Gömleğin boynu çevreleyen üst kısmı; ceketin de boyuna değen kenarı.",
       "answer": "YAKA"
     },
     {
@@ -196,7 +196,7 @@
       "row": 2,
       "col": 5,
       "length": 5,
-      "clue": "Gün ağarması anlamına gelen sözcük",
+      "clue": "Güneş doğmadan önce ufukta beliren kızıllık; günün en erken aydınlığı.",
       "answer": "ŞAFAK"
     },
     {
@@ -205,7 +205,7 @@
       "row": 3,
       "col": 5,
       "length": 4,
-      "clue": "Gerçek ya da hakiki için kullanılan yaygın ifade",
+      "clue": "Sahte ya da taklit olmayan; bir şeyin gerçek ve temel olan hali.",
       "answer": "ASIL"
     },
     {
@@ -214,7 +214,7 @@
       "row": 6,
       "col": 2,
       "length": 5,
-      "clue": "Günlük dilde Yer ya da konum olarak bilinen kavram",
+      "clue": "Bir kimsenin toplumdaki yeri, konumu ya da makamı.",
       "answer": "MEVKİ"
     },
     {
@@ -223,7 +223,7 @@
       "row": 6,
       "col": 2,
       "length": 6,
-      "clue": "Bulmacada Takma ad ya da isim karşılığını veren yanıt",
+      "clue": "Sanatçıların, özellikle şairlerin gerçek adları yerine kullandığı takma ad.",
       "answer": "MAHLAS"
     },
     {
@@ -232,7 +232,7 @@
       "row": 6,
       "col": 6,
       "length": 4,
-      "clue": "Günlük dilde Açıklama olarak bilinen kavram",
+      "clue": "Anlaşılmayan bir konuyu açık bir dille anlatma; aydınlatıcı açıklama.",
       "answer": "İZAH"
     },
     {
@@ -241,7 +241,7 @@
       "row": 8,
       "col": 6,
       "length": 5,
-      "clue": "Harita kitabı karşılığı olarak kullanılan kelime",
+      "clue": "Dünyanın farklı bölgelerini gösteren haritaların toplandığı büyük kitap.",
       "answer": "ATLAS"
     },
     {
@@ -250,7 +250,7 @@
       "row": 9,
       "col": 0,
       "length": 5,
-      "clue": "Günlük dilde Heyecan ya da kaygı olarak bilinen kavram",
+      "clue": "Beklenmedik bir durum karşısında gösterilen aceleci ve tedirgin hal.",
       "answer": "TELAŞ"
     }
   ]

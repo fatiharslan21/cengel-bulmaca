@@ -123,7 +123,7 @@
       "row": 0,
       "col": 2,
       "length": 4,
-      "clue": "Ayrım ya da değişiklik anlamına gelen sözcük",
+      "clue": "İki şeyin birbirinden ayrıldığı yön; aralarındaki benzemezlik.",
       "answer": "FARK"
     },
     {
@@ -132,7 +132,7 @@
       "row": 1,
       "col": 1,
       "length": 3,
-      "clue": "Bulmacada Adalet ya da doğruluk karşılığını veren yanıt",
+      "clue": "Kişinin yasal olarak sahip olduğu; alması ya da yapması gereken şey.",
       "answer": "HAK"
     },
     {
@@ -141,7 +141,7 @@
       "row": 3,
       "col": 0,
       "length": 5,
-      "clue": "Vaktinden önce karşılığı olarak kullanılan kelime",
+      "clue": "Belirlenen vaktin öncesinde gelme; geç kalmanın tersi durumu.",
       "answer": "ERKEN"
     },
     {
@@ -150,7 +150,7 @@
       "row": 3,
       "col": 1,
       "length": 5,
-      "clue": "Programlanabilir makine için kullanılan yaygın ifade",
+      "clue": "Programlanarak belirli işleri otomatik yapan mekanik insansı makine.",
       "answer": "ROBOT"
     },
     {
@@ -159,7 +159,7 @@
       "row": 5,
       "col": 1,
       "length": 5,
-      "clue": "Günlük dilde Gökyüzü su kümeleri olarak bilinen kavram",
+      "clue": "Gökyüzünde süzülen, su buharının yoğunlaşmasıyla oluşan beyaz küme.",
       "answer": "BULUT"
     },
     {
@@ -168,7 +168,7 @@
       "row": 7,
       "col": 1,
       "length": 5,
-      "clue": "Zar masa oyunu için kullanılan yaygın ifade",
+      "clue": "Zarla ve pullarla iki kişi arasında oynanan, kahvehane kültürünün oyunu.",
       "answer": "TAVLA"
     },
     {
@@ -177,7 +177,7 @@
       "row": 7,
       "col": 2,
       "length": 4,
-      "clue": "Elektrik hareketi için kullanılan yaygın ifade",
+      "clue": "Belirli bir yönde hareket eden elektrik yükü ya da suyun sürüklenişi.",
       "answer": "AKIM"
     },
     {
@@ -186,7 +186,7 @@
       "row": 7,
       "col": 4,
       "length": 4,
-      "clue": "Türk simgesi çiçek için kullanılan yaygın ifade",
+      "clue": "İlkbaharda açan, kadeh biçimli taç yaprakları olan, Türklerin simgesi çiçek.",
       "answer": "LALE"
     },
     {
@@ -195,7 +195,7 @@
       "row": 10,
       "col": 4,
       "length": 4,
-      "clue": "Bulmacada Kırmızı meyve karşılığını veren yanıt",
+      "clue": "Kabuğu kırmızı, sarı ya da yeşil olabilen, sulu ve çıtır meyve.",
       "answer": "ELMA"
     }
   ]

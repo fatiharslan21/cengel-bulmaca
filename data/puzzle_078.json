@@ -123,7 +123,7 @@
       "row": 0,
       "col": 5,
       "length": 5,
-      "clue": "Programlanabilir makine için kullanılan yaygın ifade",
+      "clue": "Programlanarak belirli işleri otomatik yapan mekanik insansı makine.",
       "answer": "ROBOT"
     },
     {
@@ -132,7 +132,7 @@
       "row": 2,
       "col": 5,
       "length": 3,
-      "clue": "Birinci tekil kişi karşılığı olarak kullanılan kelime",
+      "clue": "Konuşan kişinin kendisini belirtmek için kullandığı birinci tekil zamir.",
       "answer": "BEN"
     },
     {
@@ -141,7 +141,7 @@
       "row": 3,
       "col": 3,
       "length": 4,
-      "clue": "Müzik işareti için kullanılan yaygın ifade",
+      "clue": "Müzik eserlerinde seslerin yükseklik ve uzunluğunu gösteren küçük simge.",
       "answer": "NOTA"
     },
     {
@@ -150,7 +150,7 @@
       "row": 4,
       "col": 2,
       "length": 4,
-      "clue": "Kızarmış sandviç anlamına gelen sözcük",
+      "clue": "Ekmeğin arasına peynir konup ısıtılarak kızartılan sandviç çeşidi.",
       "answer": "TOST"
     },
     {
@@ -159,7 +159,7 @@
       "row": 6,
       "col": 2,
       "length": 5,
-      "clue": "Ambalajlı koli karşılığı olarak kullanılan kelime",
+      "clue": "İçindeki eşyayı korumak için ambalajlanmış, kâğıt ya da karton sargılı koli.",
       "answer": "PAKET"
     },
     {
@@ -168,7 +168,7 @@
       "row": 6,
       "col": 4,
       "length": 5,
-      "clue": "Günlük dilde Küçük kırmızı meyve olarak bilinen kavram",
+      "clue": "Saplı, parlak, kırmızı kabuklu; ilkbaharın sonunda olgunlaşan tatlı meyve.",
       "answer": "KİRAZ"
     },
     {
@@ -177,7 +177,7 @@
       "row": 6,
       "col": 6,
       "length": 3,
-      "clue": "İnce parçacıklar karşılığı olarak kullanılan kelime",
+      "clue": "Havada uçuşan ya da yüzeyde biriken, çok küçük katı parçacıklar.",
       "answer": "TOZ"
     },
     {
@@ -186,7 +186,7 @@
       "row": 7,
       "col": 1,
       "length": 4,
-      "clue": "Çözüm yolu anlamına gelen sözcük",
+      "clue": "Sıkıntılı ya da zor bir durumu ortadan kaldıracak çözüm yolu.",
       "answer": "ÇARE"
     },
     {
@@ -195,7 +195,7 @@
       "row": 8,
       "col": 0,
       "length": 5,
-      "clue": "Kitap yazan için kullanılan yaygın ifade",
+      "clue": "Kitap, hikâye ya da makale gibi edebi eserler kaleme alan kimse.",
       "answer": "YAZAR"
     }
   ]

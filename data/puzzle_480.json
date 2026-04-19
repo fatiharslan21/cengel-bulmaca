@@ -117,7 +117,7 @@
       "row": 0,
       "col": 4,
       "length": 3,
-      "clue": "Bulmacada Can ya da maneviyat karşılığını veren yanıt",
+      "clue": "İnsanın bedenine hayat veren, duygularının ve düşüncelerinin kaynağı manevi öz.",
       "answer": "RUH"
     },
     {
@@ -126,7 +126,7 @@
       "row": 0,
       "col": 5,
       "length": 4,
-      "clue": "Bulmacada Yüce ya da manevi karşılığını veren yanıt",
+      "clue": "Maddi olanın üstünde, manevi değerlerle ilgili; kutsal niteliği bulunan.",
       "answer": "ULVİ"
     },
     {
@@ -135,7 +135,7 @@
       "row": 1,
       "col": 0,
       "length": 3,
-      "clue": "24 saatlik süre karşılığı olarak kullanılan kelime",
+      "clue": "Yirmi dört saate denk gelen; sabahtan akşama uzanan zaman dilimi.",
       "answer": "GÜN"
     },
     {
@@ -144,7 +144,7 @@
       "row": 1,
       "col": 2,
       "length": 5,
-      "clue": "Günlük dilde Soluk alma verme olarak bilinen kavram",
+      "clue": "Ciğerlere hava çekmek ve bırakmak; yaşamın sürdüğünün göstergesi soluk.",
       "answer": "NEFES"
     },
     {
@@ -153,7 +153,7 @@
       "row": 2,
       "col": 8,
       "length": 5,
-      "clue": "Esenleme sözü için kullanılan yaygın ifade",
+      "clue": "Birbirini gören iki kişinin hal hatır sormak için söylediği esenlik dileği.",
       "answer": "SELAM"
     },
     {
@@ -162,7 +162,7 @@
       "row": 2,
       "col": 10,
       "length": 6,
-      "clue": "Bulmacada Alçakgönüllülük karşılığını veren yanıt",
+      "clue": "Kendini üstün görmeyen, sade ve mütevazı davranış; gösterişsiz olma hali.",
       "answer": "TEVAZU"
     },
     {
@@ -171,7 +171,7 @@
       "row": 3,
       "col": 4,
       "length": 4,
-      "clue": "Bulmacada Güçsüzlük karşılığını veren yanıt",
+      "clue": "Birinin ya da bir şeyin kolayca etkilenebileceği zayıf noktası.",
       "answer": "ZAAF"
     },
     {
@@ -180,7 +180,7 @@
       "row": 3,
       "col": 4,
       "length": 5,
-      "clue": "En yüksek nokta karşılığı olarak kullanılan kelime",
+      "clue": "Bir dağın en yüksek noktası; ulaşılabilecek en üst basamak.",
       "answer": "ZİRVE"
     },
     {
@@ -189,7 +189,7 @@
       "row": 5,
       "col": 1,
       "length": 5,
-      "clue": "Bulmacada Suyla ıslanmış karşılığını veren yanıt",
+      "clue": "Su veya başka bir sıvıyla temas edip kurumamış olan nemli yüzey.",
       "answer": "ISLAK"
     },
     {
@@ -198,7 +198,7 @@
       "row": 5,
       "col": 7,
       "length": 4,
-      "clue": "Tahta oyunu anlamına gelen sözcük",
+      "clue": "Siyah beyaz karelere yerleştirilen taşlarla iki kişi arasında oynanan oyun.",
       "answer": "DAMA"
     }
   ]

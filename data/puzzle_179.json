@@ -143,7 +143,7 @@
       "row": 0,
       "col": 10,
       "length": 5,
-      "clue": "Bulmacada Kanatlı kutsal varlık karşılığını veren yanıt",
+      "clue": "Dinlerde iyilikle görevlendirilmiş, kanatlı olduğuna inanılan kutsal varlık.",
       "answer": "MELEK"
     },
     {
@@ -152,7 +152,7 @@
       "row": 1,
       "col": 5,
       "length": 6,
-      "clue": "Günlük dilde Değerli şeyler olarak bilinen kavram",
+      "clue": "Değerli eşyaların ya da paraların saklandığı gizli büyük birikim.",
       "answer": "HAZİNE"
     },
     {
@@ -161,7 +161,7 @@
       "row": 1,
       "col": 7,
       "length": 5,
-      "clue": "En yüksek nokta karşılığı olarak kullanılan kelime",
+      "clue": "Bir dağın en yüksek noktası; ulaşılabilecek en üst basamak.",
       "answer": "ZİRVE"
     },
     {
@@ -170,7 +170,7 @@
       "row": 3,
       "col": 4,
       "length": 3,
-      "clue": "Bulmacada Üstün karşıtı karşılığını veren yanıt",
+      "clue": "Bir cismin aşağı tarafı; üst sözcüğünün tam karşıtı olan yön.",
       "answer": "ALT"
     },
     {
@@ -179,7 +179,7 @@
       "row": 4,
       "col": 0,
       "length": 4,
-      "clue": "Çukur yemek kabı anlamına gelen sözcük",
+      "clue": "Çorba, salata ya da yoğurt konulan, yuvarlak ve çukur küçük yemek kabı.",
       "answer": "KASE"
     },
     {
@@ -188,7 +188,7 @@
       "row": 4,
       "col": 2,
       "length": 3,
-      "clue": "Bulmacada Dikenli güzel çiçek karşılığını veren yanıt",
+      "clue": "Dikenli gövdesi ve hoş kokulu taç yapraklarıyla bilinen bahçe çiçeği.",
       "answer": "GÜL"
     },
     {
@@ -197,7 +197,7 @@
       "row": 4,
       "col": 2,
       "length": 3,
-      "clue": "Yaklaşma eylemi karşılığı olarak kullanılan kelime",
+      "clue": "Bulunduğun yerden buraya doğru yaklaş; git sözcüğünün tam zıttı eylem.",
       "answer": "GEL"
     },
     {
@@ -206,7 +206,7 @@
       "row": 5,
       "col": 4,
       "length": 4,
-      "clue": "Bulmacada Küçük yükselti karşılığını veren yanıt",
+      "clue": "Dağdan daha alçak, çevresine göre yüksek görünen küçük yükselti.",
       "answer": "TEPE"
     },
     {
@@ -215,7 +215,7 @@
       "row": 5,
       "col": 6,
       "length": 5,
-      "clue": "Mektup servisi için kullanılan yaygın ifade",
+      "clue": "Mektup ve paketlerin toplanıp yerine ulaştırıldığı geleneksel iletişim hizmeti.",
       "answer": "POSTA"
     },
     {
@@ -224,7 +224,7 @@
       "row": 6,
       "col": 0,
       "length": 3,
-      "clue": "Günlük dilde Sağın karşıtı olarak bilinen kavram",
+      "clue": "Kalbin bulunduğu taraf; sağın tam karşıtı olan yön.",
       "answer": "SOL"
     }
   ]

@@ -97,7 +97,7 @@
       "row": 0,
       "col": 6,
       "length": 5,
-      "clue": "Algılama sistemi karşılığı olarak kullanılan kelime",
+      "clue": "Radyo dalgalarını yollayıp yansımasını ölçerek uzaktaki nesneleri belirleyen sistem.",
       "answer": "RADAR"
     },
     {
@@ -106,7 +106,7 @@
       "row": 0,
       "col": 8,
       "length": 4,
-      "clue": "Vatan karşılığı olarak kullanılan kelime",
+      "clue": "Bir kimsenin doğup büyüdüğü vatanı; ait olduğu aziz memleket.",
       "answer": "YURT"
     },
     {
@@ -115,7 +115,7 @@
       "row": 1,
       "col": 1,
       "length": 5,
-      "clue": "Hükümdar konutu anlamına gelen sözcük",
+      "clue": "Padişah veya hükümdarların oturduğu, görkemli mimarisi olan büyük yapı.",
       "answer": "SARAY"
     },
     {
@@ -124,7 +124,7 @@
       "row": 1,
       "col": 3,
       "length": 4,
-      "clue": "Bulmacada Ev bedeli karşılığını veren yanıt",
+      "clue": "Bir evin ya da iş yerinin kullanımı için sahibine ödenen aylık ücret.",
       "answer": "KIRA"
     },
     {
@@ -133,7 +133,7 @@
       "row": 2,
       "col": 6,
       "length": 4,
-      "clue": "Küçük akarsu anlamına gelen sözcük",
+      "clue": "Dağlardan doğan, ırmağa ya da göle dökülen küçük doğal akarsu.",
       "answer": "DERE"
     },
     {
@@ -142,7 +142,7 @@
       "row": 3,
       "col": 4,
       "length": 3,
-      "clue": "Günlük dilde Toprak sahibi olarak bilinen kavram",
+      "clue": "Eskiden köylerde geniş topraklara sahip, sözü geçen nüfuzlu kişi.",
       "answer": "AĞA"
     },
     {
@@ -151,7 +151,7 @@
       "row": 3,
       "col": 4,
       "length": 4,
-      "clue": "Günlük dilde Düşünme yetisi olarak bilinen kavram",
+      "clue": "İnsanın düşünmesini, anlamasını ve karar vermesini sağlayan zihinsel yeti.",
       "answer": "AKIL"
     },
     {
@@ -160,7 +160,7 @@
       "row": 4,
       "col": 0,
       "length": 5,
-      "clue": "Yemek kabı anlamına gelen sözcük",
+      "clue": "Yemeklerin servis edildiği, yuvarlak ve yassı porselen ya da cam kap.",
       "answer": "TABAK"
     },
     {
@@ -169,7 +169,7 @@
       "row": 6,
       "col": 2,
       "length": 5,
-      "clue": "Işık arkası için kullanılan yaygın ifade",
+      "clue": "Işığın önüne bir cisim girince arkasında oluşan karanlık alan.",
       "answer": "GÖLGE"
     }
   ]

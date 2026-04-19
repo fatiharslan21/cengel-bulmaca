@@ -145,7 +145,7 @@
       "row": 0,
       "col": 3,
       "length": 4,
-      "clue": "Sözün taşıdığı anlam, içerik",
+      "clue": "Bir sözcüğün ya da cümlenin ardında yatan anlam; içerdiği kavram.",
       "answer": "MANA"
     },
     {
@@ -154,7 +154,7 @@
       "row": 1,
       "col": 0,
       "length": 3,
-      "clue": "Asit karşıtı için kullanılan yaygın ifade",
+      "clue": "Kimyada asitle tepkimeye girerek tuz oluşturan, karşıt özellikli madde.",
       "answer": "BAZ"
     },
     {
@@ -163,7 +163,7 @@
       "row": 1,
       "col": 2,
       "length": 4,
-      "clue": "Amaç ya da maksat için kullanılan yaygın ifade",
+      "clue": "Bir işe girişirken göz önünde tutulan, ulaşılmak istenen son hedef.",
       "answer": "GAYE"
     },
     {
@@ -172,7 +172,7 @@
       "row": 1,
       "col": 5,
       "length": 4,
-      "clue": "Yük hayvanı için kullanılan yaygın ifade",
+      "clue": "Uzun kulaklı, sabırlı; köylerde yük taşımada kullanılan küçük binek hayvanı.",
       "answer": "EŞEK"
     },
     {
@@ -181,7 +181,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "Günlük dilde Işık ya da aydınlık olarak bilinen kavram",
+      "clue": "Karanlığı dağıtan; göze hoş gelen aydınlatıcı parıltı.",
       "answer": "ZİYA"
     },
     {
@@ -190,7 +190,7 @@
       "row": 3,
       "col": 7,
       "length": 4,
-      "clue": "Kullanılan nesneler anlamına gelen sözcük",
+      "clue": "Evde ya da iş yerinde gündelik hayatta kullanılan nesnelerin tümü.",
       "answer": "EŞYA"
     },
     {
@@ -199,7 +199,7 @@
       "row": 4,
       "col": 5,
       "length": 3,
-      "clue": "Kanatlı uçan hayvan anlamına gelen sözcük",
+      "clue": "Gövdesi tüylerle kaplı, kanatları yardımıyla uçabilen yumurtlayan canlı.",
       "answer": "KUŞ"
     },
     {
@@ -208,7 +208,7 @@
       "row": 6,
       "col": 6,
       "length": 4,
-      "clue": "Bulmacada Rakam ifadesi karşılığını veren yanıt",
+      "clue": "Bir miktarı ya da sırayı belirten; rakamlarla yazılan matematik kavramı.",
       "answer": "SAYI"
     },
     {
@@ -217,7 +217,7 @@
       "row": 6,
       "col": 6,
       "length": 5,
-      "clue": "Günün başı anlamına gelen sözcük",
+      "clue": "Güneşin doğmasıyla başlayıp öğleye kadar süren günün ilk dilimi.",
       "answer": "SABAH"
     },
     {
@@ -226,7 +226,7 @@
       "row": 7,
       "col": 3,
       "length": 4,
-      "clue": "Bağlama aracı anlamına gelen sözcük",
+      "clue": "Saçı ya da kemeri tutturmaya yarayan, klips gibi açılıp kapanan küçük süs.",
       "answer": "TOKA"
     }
   ]

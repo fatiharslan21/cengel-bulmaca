@@ -123,7 +123,7 @@
       "row": 0,
       "col": 4,
       "length": 4,
-      "clue": "Günlük dilde Ateş aleti olarak bilinen kavram",
+      "clue": "Sobadan ateş almak ya da sıcak şeyleri tutmak için kullanılan uzun kıskaç.",
       "answer": "MAŞA"
     },
     {
@@ -132,7 +132,7 @@
       "row": 1,
       "col": 3,
       "length": 5,
-      "clue": "Hasım ya da muhalif için kullanılan yaygın ifade",
+      "clue": "Aynı amaca ulaşmak için karşı karşıya gelen, yarış halindeki hasım.",
       "answer": "RAKİP"
     },
     {
@@ -141,7 +141,7 @@
       "row": 3,
       "col": 1,
       "length": 5,
-      "clue": "Bulmacada Talih ya da yükselme karşılığını veren yanıt",
+      "clue": "Hayatta yükselme, talih kuşunun başa konması; mevki sahibi olma.",
       "answer": "İKBAL"
     },
     {
@@ -150,7 +150,7 @@
       "row": 3,
       "col": 2,
       "length": 4,
-      "clue": "Siyah renk karşılığı olarak kullanılan kelime",
+      "clue": "Beyazın tam zıttı olan, gölgeleri bile koyulaştıran siyah ton.",
       "answer": "KARA"
     },
     {
@@ -159,7 +159,7 @@
       "row": 3,
       "col": 5,
       "length": 4,
-      "clue": "Türk simgesi çiçek için kullanılan yaygın ifade",
+      "clue": "İlkbaharda açan, kadeh biçimli taç yaprakları olan, Türklerin simgesi çiçek.",
       "answer": "LALE"
     },
     {
@@ -168,7 +168,7 @@
       "row": 4,
       "col": 5,
       "length": 3,
-      "clue": "Yakışıklı ya da gösterişli anlamına gelen sözcük",
+      "clue": "Halk ağzında yakışıklı, gösterişli kimse için kullanılan eski bir sözcük.",
       "answer": "AFİ"
     },
     {
@@ -177,7 +177,7 @@
       "row": 5,
       "col": 0,
       "length": 4,
-      "clue": "Günlük dilde Sıvı geçen tüp olarak bilinen kavram",
+      "clue": "İçinden su, gaz ya da başka sıvıların geçtiği içi boş uzun silindir.",
       "answer": "BORU"
     },
     {
@@ -186,7 +186,7 @@
       "row": 5,
       "col": 0,
       "length": 3,
-      "clue": "Uzunluk ya da endam için kullanılan yaygın ifade",
+      "clue": "İnsanın başından ayağına kadar olan uzunluğu; endam ya da kamet.",
       "answer": "BOY"
     },
     {
@@ -195,7 +195,7 @@
       "row": 6,
       "col": 5,
       "length": 4,
-      "clue": "Günlük dilde Buyruk ya da komut olarak bilinen kavram",
+      "clue": "Yetkili bir kimsenin yerine getirilmek üzere verdiği kesin buyruk.",
       "answer": "EMİR"
     },
     {
@@ -204,7 +204,7 @@
       "row": 6,
       "col": 7,
       "length": 4,
-      "clue": "Tedavi maddesi için kullanılan yaygın ifade",
+      "clue": "Hastalıkları iyileştirmek amacıyla hazırlanan, doktor tarafından verilen madde.",
       "answer": "İLAÇ"
     }
   ]

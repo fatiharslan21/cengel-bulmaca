@@ -139,7 +139,7 @@
       "row": 0,
       "col": 4,
       "length": 4,
-      "clue": "Ev ya da konut karşılığı olarak kullanılan kelime",
+      "clue": "Bir ailenin oturduğu ev; aynı zamanda sayıdaki basamak anlamı taşır.",
       "answer": "HANE"
     },
     {
@@ -148,7 +148,7 @@
       "row": 1,
       "col": 3,
       "length": 3,
-      "clue": "Bulmacada İçine konan kab karşılığını veren yanıt",
+      "clue": "İçine sıvı ya da katı maddeler konulan her türlü şekilli eşya.",
       "answer": "KAP"
     },
     {
@@ -157,7 +157,7 @@
       "row": 1,
       "col": 7,
       "length": 5,
-      "clue": "Düşme ya da sessizlik karşılığı olarak kullanılan kelime",
+      "clue": "Etraf çınlayarak susma; hiçbir ses çıkmayan derin sessizlik.",
       "answer": "SUKUT"
     },
     {
@@ -166,7 +166,7 @@
       "row": 3,
       "col": 3,
       "length": 5,
-      "clue": "Bulmacada Kanatlı kutsal varlık karşılığını veren yanıt",
+      "clue": "Dinlerde iyilikle görevlendirilmiş, kanatlı olduğuna inanılan kutsal varlık.",
       "answer": "MELEK"
     },
     {
@@ -175,7 +175,7 @@
       "row": 3,
       "col": 3,
       "length": 6,
-      "clue": "Kıyamet yeri için kullanılan yaygın ifade",
+      "clue": "Dinde kıyamet sonrası ölülerin toplanacağına inanılan büyük buluşma yeri.",
       "answer": "MAHŞER"
     },
     {
@@ -184,7 +184,7 @@
       "row": 4,
       "col": 0,
       "length": 4,
-      "clue": "Siyah renk karşılığı olarak kullanılan kelime",
+      "clue": "Beyazın tam zıttı olan, gölgeleri bile koyulaştıran siyah ton.",
       "answer": "KARA"
     },
     {
@@ -193,7 +193,7 @@
       "row": 4,
       "col": 10,
       "length": 4,
-      "clue": "Günlük dilde Işık ya da aydınlık olarak bilinen kavram",
+      "clue": "Karanlığı dağıtan; göze hoş gelen aydınlatıcı parıltı.",
       "answer": "ZİYA"
     },
     {
@@ -202,7 +202,7 @@
       "row": 5,
       "col": 7,
       "length": 5,
-      "clue": "Bulmacada Şans ya da baht karşılığını veren yanıt",
+      "clue": "İnsanın ömür boyu karşılaştığı iyi ya da kötü raslantıların tümü; baht.",
       "answer": "TALİH"
     },
     {
@@ -211,7 +211,7 @@
       "row": 6,
       "col": 3,
       "length": 4,
-      "clue": "Arzu ya da istek için kullanılan yaygın ifade",
+      "clue": "İçten doğan büyük istek; insanı coşturan şiddetli arzu ve heves.",
       "answer": "ŞEVK"
     },
     {
@@ -220,7 +220,7 @@
       "row": 7,
       "col": 7,
       "length": 5,
-      "clue": "Günlük dilde Feryat ya da ağlama olarak bilinen kavram",
+      "clue": "Dayanılmaz acı anında yükselen yüksek sesli ağlama ve feryat.",
       "answer": "FİGAN"
     }
   ]

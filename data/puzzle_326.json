@@ -133,7 +133,7 @@
       "row": 0,
       "col": 4,
       "length": 5,
-      "clue": "Mektup servisi için kullanılan yaygın ifade",
+      "clue": "Mektup ve paketlerin toplanıp yerine ulaştırıldığı geleneksel iletişim hizmeti.",
       "answer": "POSTA"
     },
     {
@@ -142,7 +142,7 @@
       "row": 4,
       "col": 1,
       "length": 4,
-      "clue": "Günlük dilde İlerinin zıttı olarak bilinen kavram",
+      "clue": "İlerinin zıttı; arkaya ya da başlangıca doğru olan yön.",
       "answer": "GERİ"
     },
     {
@@ -151,7 +151,7 @@
       "row": 4,
       "col": 3,
       "length": 4,
-      "clue": "Günlük dilde Ateş aleti olarak bilinen kavram",
+      "clue": "Sobadan ateş almak ya da sıcak şeyleri tutmak için kullanılan uzun kıskaç.",
       "answer": "MAŞA"
     },
     {
@@ -160,7 +160,7 @@
       "row": 4,
       "col": 3,
       "length": 5,
-      "clue": "Bulmacada Yas ya da acı karşılığını veren yanıt",
+      "clue": "Kaybedilen bir yakının ardından tutulan koyu yas; siyahlar giyme hali.",
       "answer": "MATEM"
     },
     {
@@ -169,7 +169,7 @@
       "row": 5,
       "col": 0,
       "length": 4,
-      "clue": "Günlük dilde Bitki yapısı olarak bilinen kavram",
+      "clue": "İçerisi camla kaplı; mevsim dışında bile bitki yetiştirilen ısıtılmış yapı.",
       "answer": "SERA"
     },
     {
@@ -178,7 +178,7 @@
       "row": 6,
       "col": 3,
       "length": 5,
-      "clue": "Onur ya da itibar için kullanılan yaygın ifade",
+      "clue": "Toplumun kişiye duyduğu saygı; alnı ak olma halinin verdiği onur.",
       "answer": "ŞEREF"
     },
     {
@@ -187,7 +187,7 @@
       "row": 7,
       "col": 0,
       "length": 4,
-      "clue": "Bulmacada Seslenme karşılığını veren yanıt",
+      "clue": "Birine seslenmek için çıkarılan yüksek ses; çağırmak amaçlı bağırma.",
       "answer": "NİDA"
     },
     {
@@ -196,7 +196,7 @@
       "row": 7,
       "col": 2,
       "length": 5,
-      "clue": "Bulmacada Yaşadığımız gezegen karşılığını veren yanıt",
+      "clue": "Üzerinde yaşadığımız, Güneş'in çevresinde dönen mavi yeşil gezegen.",
       "answer": "DÜNYA"
     },
     {
@@ -205,7 +205,7 @@
       "row": 9,
       "col": 0,
       "length": 4,
-      "clue": "Günlük dilde Adet ya da parça olarak bilinen kavram",
+      "clue": "Sayılabilen nesnelerin her biri; küçük parça ya da adet.",
       "answer": "TANE"
     },
     {
@@ -214,7 +214,7 @@
       "row": 11,
       "col": 2,
       "length": 3,
-      "clue": "Bulmacada Bir şeye ilişkin karşılığını veren yanıt",
+      "clue": "Bir şeye bağlı bulunma; onunla ilgili ya da onun sahipliğinde olma.",
       "answer": "AİT"
     }
   ]

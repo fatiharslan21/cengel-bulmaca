@@ -121,7 +121,7 @@
       "row": 0,
       "col": 1,
       "length": 5,
-      "clue": "Bulmacada Dört tekerlekli taşıt karşılığını veren yanıt",
+      "clue": "Tekerlekleri üstünde insan ya da yük taşıyan motorlu kara taşıtı.",
       "answer": "ARABA"
     },
     {
@@ -130,7 +130,7 @@
       "row": 0,
       "col": 5,
       "length": 4,
-      "clue": "Böcekten kumaş anlamına gelen sözcük",
+      "clue": "Kozadan elde edilen, parlak dokulu ve dayanıklı, değerli kumaş lifi.",
       "answer": "İPEK"
     },
     {
@@ -139,7 +139,7 @@
       "row": 1,
       "col": 7,
       "length": 3,
-      "clue": "Bulmacada Beyaz besin sıvısı karşılığını veren yanıt",
+      "clue": "İnek, keçi gibi memelilerden sağılan; beyaz renkli besleyici temel içecek.",
       "answer": "SÜT"
     },
     {
@@ -148,7 +148,7 @@
       "row": 1,
       "col": 9,
       "length": 4,
-      "clue": "Anadolu halkı için kullanılan yaygın ifade",
+      "clue": "Anadolu ve çevresinde yaşayan, Orta Asya kökenli büyük millet.",
       "answer": "TÜRK"
     },
     {
@@ -157,7 +157,7 @@
       "row": 2,
       "col": 0,
       "length": 6,
-      "clue": "Boşuna ya da yararsız için kullanılan yaygın ifade",
+      "clue": "Harcanan çabaya değmeyen; hiçbir yarar sağlamayan boş uğraş.",
       "answer": "NAFİLE"
     },
     {
@@ -166,7 +166,7 @@
       "row": 3,
       "col": 5,
       "length": 5,
-      "clue": "Günlük dilde Alın yazısı olarak bilinen kavram",
+      "clue": "İnsanın başına geleceği önceden yazıldığına inanılan alın yazısı.",
       "answer": "KADER"
     },
     {
@@ -175,7 +175,7 @@
       "row": 3,
       "col": 7,
       "length": 4,
-      "clue": "Bulmacada Yakın arkadaş karşılığını veren yanıt",
+      "clue": "Kötü günde de yanında olan, gönülden sevilen yakın arkadaş.",
       "answer": "DOST"
     },
     {
@@ -184,7 +184,7 @@
       "row": 4,
       "col": 0,
       "length": 4,
-      "clue": "Günlük dilde Ateş aleti olarak bilinen kavram",
+      "clue": "Sobadan ateş almak ya da sıcak şeyleri tutmak için kullanılan uzun kıskaç.",
       "answer": "MAŞA"
     },
     {
@@ -193,7 +193,7 @@
       "row": 5,
       "col": 4,
       "length": 4,
-      "clue": "Av yapan kişi anlamına gelen sözcük",
+      "clue": "Kırda ya da ormanda silahla veya tuzakla av peşinde koşan kişi.",
       "answer": "AVCI"
     },
     {
@@ -202,7 +202,7 @@
       "row": 6,
       "col": 2,
       "length": 6,
-      "clue": "Ülke yönetimi için kullanılan yaygın ifade",
+      "clue": "Belirli bir ülkenin sınırlarında örgütlenmiş siyasi ve yönetimsel yapı.",
       "answer": "DEVLET"
     }
   ]

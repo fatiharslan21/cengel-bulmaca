@@ -153,7 +153,7 @@
       "row": 0,
       "col": 3,
       "length": 4,
-      "clue": "Yırtığı kapatmak için eklenen parça",
+      "clue": "Eskiyip yırtılan giysiyi onarmak için üstüne dikilen küçük kumaş parçası.",
       "answer": "YAMA"
     },
     {
@@ -162,7 +162,7 @@
       "row": 0,
       "col": 6,
       "length": 4,
-      "clue": "Günlük dilde Felaket ya da kötülük olarak bilinen kavram",
+      "clue": "İnsanın başına habersizce gelen ağır dert, büyük sıkıntı ya da musibet.",
       "answer": "BELA"
     },
     {
@@ -171,7 +171,7 @@
       "row": 1,
       "col": 3,
       "length": 5,
-      "clue": "Günlük dilde Konum bilgisi olarak bilinen kavram",
+      "clue": "Bir kimseye veya yere ulaşabilmek için gereken açık konum bilgisi.",
       "answer": "ADRES"
     },
     {
@@ -180,7 +180,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "Müzik işareti için kullanılan yaygın ifade",
+      "clue": "Müzik eserlerinde seslerin yükseklik ve uzunluğunu gösteren küçük simge.",
       "answer": "NOTA"
     },
     {
@@ -189,7 +189,7 @@
       "row": 3,
       "col": 5,
       "length": 3,
-      "clue": "Baştaki kıllar anlamına gelen sözcük",
+      "clue": "Başımızın derisinde biten, her birinin kökten uzayan ince tel kıl.",
       "answer": "SAÇ"
     },
     {
@@ -198,7 +198,7 @@
       "row": 3,
       "col": 7,
       "length": 4,
-      "clue": "İki adet ya da eş karşılığı olarak kullanılan kelime",
+      "clue": "Birbirinin eşi olan iki şeyden oluşan takım; tekin karşıtı sayı grubu.",
       "answer": "ÇİFT"
     },
     {
@@ -207,7 +207,7 @@
       "row": 4,
       "col": 9,
       "length": 6,
-      "clue": "Ülke yönetimi için kullanılan yaygın ifade",
+      "clue": "Belirli bir ülkenin sınırlarında örgütlenmiş siyasi ve yönetimsel yapı.",
       "answer": "DEVLET"
     },
     {
@@ -216,7 +216,7 @@
       "row": 5,
       "col": 11,
       "length": 3,
-      "clue": "Günlük dilde Damaktaki lezzet olarak bilinen kavram",
+      "clue": "Dilin damak aracılığıyla algıladığı; acı, ekşi, tuzlu gibi duyusal nitelik.",
       "answer": "TAT"
     },
     {
@@ -225,7 +225,7 @@
       "row": 6,
       "col": 7,
       "length": 5,
-      "clue": "Zar masa oyunu için kullanılan yaygın ifade",
+      "clue": "Zarla ve pullarla iki kişi arasında oynanan, kahvehane kültürünün oyunu.",
       "answer": "TAVLA"
     },
     {
@@ -234,7 +234,7 @@
       "row": 8,
       "col": 8,
       "length": 3,
-      "clue": "Yaklaşma eylemi karşılığı olarak kullanılan kelime",
+      "clue": "Bulunduğun yerden buraya doğru yaklaş; git sözcüğünün tam zıttı eylem.",
       "answer": "GEL"
     }
   ]

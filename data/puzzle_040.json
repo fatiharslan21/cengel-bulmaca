@@ -104,7 +104,7 @@
       "row": 0,
       "col": 1,
       "length": 5,
-      "clue": "Günlük dilde Yemek aracı olarak bilinen kavram",
+      "clue": "Çorba, pilav gibi yemekleri ağza götürmek için kullanılan çukur sap.",
       "answer": "KAŞIK"
     },
     {
@@ -113,7 +113,7 @@
       "row": 1,
       "col": 0,
       "length": 4,
-      "clue": "Tahta oyunu anlamına gelen sözcük",
+      "clue": "Siyah beyaz karelere yerleştirilen taşlarla iki kişi arasında oynanan oyun.",
       "answer": "DAMA"
     },
     {
@@ -122,7 +122,7 @@
       "row": 1,
       "col": 3,
       "length": 5,
-      "clue": "Harita kitabı karşılığı olarak kullanılan kelime",
+      "clue": "Dünyanın farklı bölgelerini gösteren haritaların toplandığı büyük kitap.",
       "answer": "ATLAS"
     },
     {
@@ -131,7 +131,7 @@
       "row": 1,
       "col": 6,
       "length": 4,
-      "clue": "Bulmacada Otlak alan karşılığını veren yanıt",
+      "clue": "Hayvanların otlayıp beslenmesi için ayrılmış, doğal otlarla kaplı geniş alan.",
       "answer": "MERA"
     },
     {
@@ -140,7 +140,7 @@
       "row": 1,
       "col": 6,
       "length": 3,
-      "clue": "Tropikal meyve karşılığı olarak kullanılan kelime",
+      "clue": "Sarı kabuklu, uzun, yumuşak iç gövdeli tropikal meyve.",
       "answer": "MUZ"
     },
     {
@@ -149,7 +149,7 @@
       "row": 2,
       "col": 3,
       "length": 4,
-      "clue": "Bulmacada Bayat olmayan karşılığını veren yanıt",
+      "clue": "Yeni toplanmış, bayatlamamış; canlılığını yeni yeni yitirmemiş olan.",
       "answer": "TAZE"
     },
     {
@@ -158,7 +158,7 @@
       "row": 3,
       "col": 6,
       "length": 5,
-      "clue": "Programlanabilir makine için kullanılan yaygın ifade",
+      "clue": "Programlanarak belirli işleri otomatik yapan mekanik insansı makine.",
       "answer": "ROBOT"
     },
     {
@@ -167,7 +167,7 @@
       "row": 3,
       "col": 10,
       "length": 4,
-      "clue": "Bulmacada Raylı taşıt karşılığını veren yanıt",
+      "clue": "Raylar üzerinde hareket eden, vagonları çeken büyük motorlu araç.",
       "answer": "TREN"
     },
     {
@@ -176,7 +176,7 @@
       "row": 5,
       "col": 3,
       "length": 3,
-      "clue": "Gizli bilgi için kullanılan yaygın ifade",
+      "clue": "Başkalarıyla paylaşılmayan; yalnızca bir kişinin bildiği gizli bilgi.",
       "answer": "SIR"
     }
   ]

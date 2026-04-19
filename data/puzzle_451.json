@@ -112,7 +112,7 @@
       "row": 0,
       "col": 1,
       "length": 3,
-      "clue": "İlk doğal sayı için kullanılan yaygın ifade",
+      "clue": "Sayıların başlangıcı olan, tek adedi gösteren ilk doğal rakam.",
       "answer": "BİR"
     },
     {
@@ -121,7 +121,7 @@
       "row": 0,
       "col": 4,
       "length": 5,
-      "clue": "Kabir için kullanılan yaygın ifade",
+      "clue": "Ölünün toprağa verildiği, başında taş bulunan defin yeri; kabir.",
       "answer": "MEZAR"
     },
     {
@@ -130,7 +130,7 @@
       "row": 1,
       "col": 1,
       "length": 5,
-      "clue": "Namus ve ahlaki ölçülülük hali",
+      "clue": "Ahlaki ölçülere bağlı kalma; namusu ve temizliği koruma hali.",
       "answer": "İFFET"
     },
     {
@@ -139,7 +139,7 @@
       "row": 4,
       "col": 2,
       "length": 3,
-      "clue": "Günlük dilde Ateş közü olarak bilinen kavram",
+      "clue": "Alevi sönmüş ama sıcaklığı ve kızıllığı süren yanmakta olan parça.",
       "answer": "KOR"
     },
     {
@@ -148,7 +148,7 @@
       "row": 4,
       "col": 2,
       "length": 5,
-      "clue": "Günlük dilde Küçük kırmızı meyve olarak bilinen kavram",
+      "clue": "Saplı, parlak, kırmızı kabuklu; ilkbaharın sonunda olgunlaşan tatlı meyve.",
       "answer": "KİRAZ"
     },
     {
@@ -157,7 +157,7 @@
       "row": 5,
       "col": 6,
       "length": 3,
-      "clue": "Ses çıkaran metal karşılığı olarak kullanılan kelime",
+      "clue": "İçindeki dilin sallanmasıyla ses çıkaran, koni biçimli madeni araç.",
       "answer": "ÇAN"
     },
     {
@@ -166,7 +166,7 @@
       "row": 6,
       "col": 0,
       "length": 7,
-      "clue": "Çalışkan böcek karşılığı olarak kullanılan kelime",
+      "clue": "Sürüler halinde yaşayan, küçük gövdesine rağmen iri yükleri taşıyan böcek.",
       "answer": "KARINCA"
     },
     {
@@ -175,7 +175,7 @@
       "row": 6,
       "col": 4,
       "length": 5,
-      "clue": "En küçük işaret için kullanılan yaygın ifade",
+      "clue": "Bir cümlenin sonuna konan en küçük yazı işareti; konumun kendisi.",
       "answer": "NOKTA"
     },
     {
@@ -184,7 +184,7 @@
       "row": 8,
       "col": 0,
       "length": 3,
-      "clue": "Donmuş su anlamına gelen sözcük",
+      "clue": "Suyun sıfır derecenin altına inerek katılaşmasıyla meydana gelen madde.",
       "answer": "BUZ"
     },
     {
@@ -193,7 +193,7 @@
       "row": 10,
       "col": 1,
       "length": 4,
-      "clue": "Bulmacada İkiyüzlülük karşılığını veren yanıt",
+      "clue": "İnanmadığı halde inanıyormuş gibi davranma; iki yüzlü tavır.",
       "answer": "RİYA"
     }
   ]

@@ -125,7 +125,7 @@
       "row": 0,
       "col": 2,
       "length": 3,
-      "clue": "Yüce ya da büyük anlamına gelen sözcük",
+      "clue": "Yüceliğiyle saygı uyandıran; hem büyük hem görkemli olan varlık.",
       "answer": "ULU"
     },
     {
@@ -134,7 +134,7 @@
       "row": 1,
       "col": 0,
       "length": 5,
-      "clue": "Işık arkası için kullanılan yaygın ifade",
+      "clue": "Işığın önüne bir cisim girince arkasında oluşan karanlık alan.",
       "answer": "GÖLGE"
     },
     {
@@ -143,7 +143,7 @@
       "row": 1,
       "col": 4,
       "length": 4,
-      "clue": "Kullanılan nesneler anlamına gelen sözcük",
+      "clue": "Evde ya da iş yerinde gündelik hayatta kullanılan nesnelerin tümü.",
       "answer": "EŞYA"
     },
     {
@@ -152,7 +152,7 @@
       "row": 1,
       "col": 7,
       "length": 5,
-      "clue": "Günlük dilde Anlayış olarak bilinen kavram",
+      "clue": "Bir şeyin anlamını kavrama; olup biteni zihinde anlamlandırma yeteneği.",
       "answer": "İDRAK"
     },
     {
@@ -161,7 +161,7 @@
       "row": 1,
       "col": 10,
       "length": 4,
-      "clue": "Yemek pişiren karşılığı olarak kullanılan kelime",
+      "clue": "Mutfakta yemek pişirmeyi meslek edinmiş, lezzetten anlayan kişi.",
       "answer": "AŞÇI"
     },
     {
@@ -170,7 +170,7 @@
       "row": 3,
       "col": 7,
       "length": 4,
-      "clue": "Bulmacada Güçsüzlük karşılığını veren yanıt",
+      "clue": "Birinin ya da bir şeyin kolayca etkilenebileceği zayıf noktası.",
       "answer": "ZAAF"
     },
     {
@@ -179,7 +179,7 @@
       "row": 4,
       "col": 2,
       "length": 4,
-      "clue": "Bulmacada Zaman ölçer karşılığını veren yanıt",
+      "clue": "Akrep, yelkovan ve rakamlarla anı gösteren; zamanı ölçen günlük araç.",
       "answer": "SAAT"
     },
     {
@@ -188,7 +188,7 @@
       "row": 4,
       "col": 5,
       "length": 4,
-      "clue": "Anadolu halkı için kullanılan yaygın ifade",
+      "clue": "Anadolu ve çevresinde yaşayan, Orta Asya kökenli büyük millet.",
       "answer": "TÜRK"
     },
     {
@@ -197,7 +197,7 @@
       "row": 4,
       "col": 7,
       "length": 4,
-      "clue": "Av yapan kişi anlamına gelen sözcük",
+      "clue": "Kırda ya da ormanda silahla veya tuzakla av peşinde koşan kişi.",
       "answer": "AVCI"
     },
     {
@@ -206,7 +206,7 @@
       "row": 6,
       "col": 3,
       "length": 5,
-      "clue": "Onur ya da itibar için kullanılan yaygın ifade",
+      "clue": "Toplumun kişiye duyduğu saygı; alnı ak olma halinin verdiği onur.",
       "answer": "ŞEREF"
     }
   ]

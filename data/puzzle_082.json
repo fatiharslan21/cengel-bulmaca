@@ -101,7 +101,7 @@
       "row": 0,
       "col": 1,
       "length": 4,
-      "clue": "Baş ya da kelle için kullanılan yaygın ifade",
+      "clue": "İnsanın boynunun üst kısmında bulunan, düşünmenin merkezi olan baş.",
       "answer": "KAFA"
     },
     {
@@ -110,7 +110,7 @@
       "row": 1,
       "col": 0,
       "length": 3,
-      "clue": "Günlük dilde Oyun küpü olarak bilinen kavram",
+      "clue": "Üzerinde nokta bulunan, oyunlarda atılan altı yüzlü küçük küp.",
       "answer": "ZAR"
     },
     {
@@ -119,7 +119,7 @@
       "row": 3,
       "col": 0,
       "length": 3,
-      "clue": "Bulmacada Adalet ya da doğruluk karşılığını veren yanıt",
+      "clue": "Kişinin yasal olarak sahip olduğu; alması ya da yapması gereken şey.",
       "answer": "HAK"
     },
     {
@@ -128,7 +128,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "Ev ya da konut karşılığı olarak kullanılan kelime",
+      "clue": "Bir ailenin oturduğu ev; aynı zamanda sayıdaki basamak anlamı taşır.",
       "answer": "HANE"
     },
     {
@@ -137,7 +137,7 @@
       "row": 3,
       "col": 2,
       "length": 3,
-      "clue": "Günlük dilde Üst beden uzvu olarak bilinen kavram",
+      "clue": "Omuzdan bileğe kadar uzanan, eli bedene bağlayan üst uzvumuz.",
       "answer": "KOL"
     },
     {
@@ -146,7 +146,7 @@
       "row": 3,
       "col": 5,
       "length": 5,
-      "clue": "Ekin alanı anlamına gelen sözcük",
+      "clue": "Üzerinde buğday, arpa ya da sebze yetiştirilen sürülmüş geniş toprak.",
       "answer": "TARLA"
     },
     {
@@ -155,7 +155,7 @@
       "row": 4,
       "col": 2,
       "length": 5,
-      "clue": "Vücut bölümü karşılığı olarak kullanılan kelime",
+      "clue": "Vücudun belirli bir işlevi yerine getiren, dokulardan oluşmuş bölümü.",
       "answer": "ORGAN"
     },
     {
@@ -164,7 +164,7 @@
       "row": 5,
       "col": 7,
       "length": 3,
-      "clue": "Tek renk olmayan, benekli görünüm",
+      "clue": "Birden çok rengin bir arada bulunduğu, benekli ya da karışık görünüm.",
       "answer": "ALA"
     },
     {
@@ -173,7 +173,7 @@
       "row": 7,
       "col": 4,
       "length": 5,
-      "clue": "Hükümdar konutu anlamına gelen sözcük",
+      "clue": "Padişah veya hükümdarların oturduğu, görkemli mimarisi olan büyük yapı.",
       "answer": "SARAY"
     }
   ]

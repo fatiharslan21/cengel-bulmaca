@@ -121,7 +121,7 @@
       "row": 0,
       "col": 3,
       "length": 5,
-      "clue": "Ani vuruş anlamına gelen sözcük",
+      "clue": "Ani ve sert bir hareketle yapılan vuruş; çarpma sonucu alınan sarsıntı.",
       "answer": "DARBE"
     },
     {
@@ -130,7 +130,7 @@
       "row": 0,
       "col": 5,
       "length": 4,
-      "clue": "Gönül huzuru anlamına gelen sözcük",
+      "clue": "İçten duyulan gönül rahatlığı; keder bırakmayan tatlı neşe.",
       "answer": "SAFA"
     },
     {
@@ -139,7 +139,7 @@
       "row": 0,
       "col": 5,
       "length": 5,
-      "clue": "Bulmacada Deniz kıyısı karşılığını veren yanıt",
+      "clue": "Denizin ya da gölün karaya kavuştuğu kumlu ve taşlı kıyı şeridi.",
       "answer": "SAHİL"
     },
     {
@@ -148,7 +148,7 @@
       "row": 1,
       "col": 2,
       "length": 4,
-      "clue": "Solunan gaz anlamına gelen sözcük",
+      "clue": "Atmosferi oluşturan, canlıların soluduğu renksiz ve kokusuz gaz karışımı.",
       "answer": "HAVA"
     },
     {
@@ -157,7 +157,7 @@
       "row": 3,
       "col": 1,
       "length": 6,
-      "clue": "Özlü söz için kullanılan yaygın ifade",
+      "clue": "Az sözle büyük anlam ifade eden, akılda kalan özlü söz.",
       "answer": "VECİZE"
     },
     {
@@ -166,7 +166,7 @@
       "row": 3,
       "col": 5,
       "length": 4,
-      "clue": "Bulmacada Hedef ya da gaye karşılığını veren yanıt",
+      "clue": "Bir işin başında konulan, ulaşılmak istenen hedef ya da gaye.",
       "answer": "AMAÇ"
     },
     {
@@ -175,7 +175,7 @@
       "row": 4,
       "col": 0,
       "length": 4,
-      "clue": "Karanlık zaman anlamına gelen sözcük",
+      "clue": "Güneşin batmasından doğmasına kadar süren karanlık zaman dilimi.",
       "answer": "GECE"
     },
     {
@@ -184,7 +184,7 @@
       "row": 5,
       "col": 4,
       "length": 3,
-      "clue": "Bitiş ya da final için kullanılan yaygın ifade",
+      "clue": "Bir işin ya da sürecin bittiği nokta; final ve kapanış anı.",
       "answer": "SON"
     },
     {
@@ -193,7 +193,7 @@
       "row": 5,
       "col": 4,
       "length": 4,
-      "clue": "Cevap bekleyen karşılığı olarak kullanılan kelime",
+      "clue": "Bilinmeyen bir bilgiyi öğrenmek için karşıya yöneltilen cümle.",
       "answer": "SORU"
     },
     {
@@ -202,7 +202,7 @@
       "row": 7,
       "col": 1,
       "length": 5,
-      "clue": "Topluluk ya da küme için kullanılan yaygın ifade",
+      "clue": "Aynı ortak özellikleri paylaşan kişilerden oluşan topluluk; grup.",
       "answer": "ZÜMRE"
     }
   ]

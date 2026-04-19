@@ -111,7 +111,7 @@
       "row": 0,
       "col": 10,
       "length": 3,
-      "clue": "Demir korozyonu karşılığı olarak kullanılan kelime",
+      "clue": "Demirin hava ve nemle temas ederek zamanla üzerinde oluşturduğu kızıl tabaka.",
       "answer": "PAS"
     },
     {
@@ -120,7 +120,7 @@
       "row": 1,
       "col": 1,
       "length": 3,
-      "clue": "Ömür süresi anlamına gelen sözcük",
+      "clue": "İnsanın doğduğu günden bu yana geçen toplam yıl; ömürdeki basamak.",
       "answer": "YAŞ"
     },
     {
@@ -129,7 +129,7 @@
       "row": 1,
       "col": 6,
       "length": 6,
-      "clue": "Bitkinin yeşil organı anlamına gelen sözcük",
+      "clue": "Ağacın dalından sarkan, fotosentez yapıp havaya oksijen veren yeşil organ.",
       "answer": "YAPRAK"
     },
     {
@@ -138,7 +138,7 @@
       "row": 1,
       "col": 8,
       "length": 5,
-      "clue": "Mektup servisi için kullanılan yaygın ifade",
+      "clue": "Mektup ve paketlerin toplanıp yerine ulaştırıldığı geleneksel iletişim hizmeti.",
       "answer": "POSTA"
     },
     {
@@ -147,7 +147,7 @@
       "row": 2,
       "col": 0,
       "length": 5,
-      "clue": "Günlük dilde Yemek aracı olarak bilinen kavram",
+      "clue": "Çorba, pilav gibi yemekleri ağza götürmek için kullanılan çukur sap.",
       "answer": "KAŞIK"
     },
     {
@@ -156,7 +156,7 @@
       "row": 2,
       "col": 4,
       "length": 3,
-      "clue": "Bulmacada İçine konan kab karşılığını veren yanıt",
+      "clue": "İçine sıvı ya da katı maddeler konulan her türlü şekilli eşya.",
       "answer": "KAP"
     },
     {
@@ -165,7 +165,7 @@
       "row": 3,
       "col": 4,
       "length": 3,
-      "clue": "Yakışıklı ya da gösterişli anlamına gelen sözcük",
+      "clue": "Halk ağzında yakışıklı, gösterişli kimse için kullanılan eski bir sözcük.",
       "answer": "AFİ"
     },
     {
@@ -174,7 +174,7 @@
       "row": 3,
       "col": 6,
       "length": 4,
-      "clue": "Tedavi maddesi için kullanılan yaygın ifade",
+      "clue": "Hastalıkları iyileştirmek amacıyla hazırlanan, doktor tarafından verilen madde.",
       "answer": "İLAÇ"
     },
     {
@@ -183,7 +183,7 @@
       "row": 4,
       "col": 8,
       "length": 4,
-      "clue": "Bulmacada Raylı taşıt karşılığını veren yanıt",
+      "clue": "Raylar üzerinde hareket eden, vagonları çeken büyük motorlu araç.",
       "answer": "TREN"
     },
     {
@@ -192,7 +192,7 @@
       "row": 5,
       "col": 6,
       "length": 3,
-      "clue": "Tek renk olmayan, benekli görünüm",
+      "clue": "Birden çok rengin bir arada bulunduğu, benekli ya da karışık görünüm.",
       "answer": "ALA"
     }
   ]

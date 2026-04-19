@@ -181,7 +181,7 @@
       "row": 0,
       "col": 8,
       "length": 4,
-      "clue": "Bulmacada Ev bedeli karşılığını veren yanıt",
+      "clue": "Bir evin ya da iş yerinin kullanımı için sahibine ödenen aylık ücret.",
       "answer": "KIRA"
     },
     {
@@ -190,7 +190,7 @@
       "row": 0,
       "col": 8,
       "length": 4,
-      "clue": "Miyavlayan evcil anlamına gelen sözcük",
+      "clue": "Miyavlayarak seslenen, pençeleri keskin, evlerde beslenen tüylü memeli hayvan.",
       "answer": "KEDİ"
     },
     {
@@ -199,7 +199,7 @@
       "row": 3,
       "col": 7,
       "length": 6,
-      "clue": "İçecek kabı anlamına gelen sözcük",
+      "clue": "Su, çay ya da başka içecekleri içmek için kullanılan küçük kap.",
       "answer": "BARDAK"
     },
     {
@@ -208,7 +208,7 @@
       "row": 3,
       "col": 7,
       "length": 3,
-      "clue": "Asit karşıtı için kullanılan yaygın ifade",
+      "clue": "Kimyada asitle tepkimeye girerek tuz oluşturan, karşıt özellikli madde.",
       "answer": "BAZ"
     },
     {
@@ -217,7 +217,7 @@
       "row": 5,
       "col": 5,
       "length": 4,
-      "clue": "Günlük dilde İlerinin zıttı olarak bilinen kavram",
+      "clue": "İlerinin zıttı; arkaya ya da başlangıca doğru olan yön.",
       "answer": "GERİ"
     },
     {
@@ -226,7 +226,7 @@
       "row": 6,
       "col": 0,
       "length": 5,
-      "clue": "Tuzlu büyük su karşılığı olarak kullanılan kelime",
+      "clue": "Kıtaları birbirinden ayıran, tuzlu sulardan oluşan uçsuz bucaksız kütle.",
       "answer": "DENİZ"
     },
     {
@@ -235,7 +235,7 @@
       "row": 6,
       "col": 4,
       "length": 4,
-      "clue": "Anlama yeteneği için kullanılan yaygın ifade",
+      "clue": "Yeni durumlara hızla uyum sağlayıp doğru kararlar verebilme yeteneği.",
       "answer": "ZEKA"
     },
     {
@@ -244,7 +244,7 @@
       "row": 7,
       "col": 4,
       "length": 5,
-      "clue": "En sert taş karşılığı olarak kullanılan kelime",
+      "clue": "Doğada bulunan en sert madde; takılarda kullanılan değerli kıymetli taş.",
       "answer": "ELMAS"
     },
     {
@@ -253,7 +253,7 @@
       "row": 9,
       "col": 3,
       "length": 3,
-      "clue": "Çizgi ya da yol anlamına gelen sözcük",
+      "clue": "Bir noktadan diğerine uzanan düz çizgi; yol ya da güzergâh.",
       "answer": "HAT"
     },
     {
@@ -262,7 +262,7 @@
       "row": 9,
       "col": 5,
       "length": 3,
-      "clue": "Cilt ya da deri karşılığı olarak kullanılan kelime",
+      "clue": "İnsanın bedenini saran dış deri; vücudumuzun dış yüzü.",
       "answer": "TEN"
     }
   ]

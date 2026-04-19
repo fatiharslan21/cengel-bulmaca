@@ -113,7 +113,7 @@
       "row": 0,
       "col": 1,
       "length": 4,
-      "clue": "Ateşin parlak kısmı karşılığı olarak kullanılan kelime",
+      "clue": "Yanan bir şeyin üstünde dalgalanan, sıcak ve parlayan ışıklı kısım.",
       "answer": "ALEV"
     },
     {
@@ -122,7 +122,7 @@
       "row": 0,
       "col": 1,
       "length": 3,
-      "clue": "Hatıra ya da geçmiş olay karşılığı olarak kullanılan kelime",
+      "clue": "Geçmişte yaşanmış ve zihinde iz bırakmış olayların hatırlanması.",
       "answer": "ANI"
     },
     {
@@ -131,7 +131,7 @@
       "row": 2,
       "col": 0,
       "length": 4,
-      "clue": "Günlük dilde Sıkıntı ya da üzüntü olarak bilinen kavram",
+      "clue": "İnsanı üzen, iç sıkıntısı veren; uzun süre geçmeyen tasa ve keder.",
       "answer": "DERT"
     },
     {
@@ -140,7 +140,7 @@
       "row": 2,
       "col": 3,
       "length": 4,
-      "clue": "Bulmacada Bayat olmayan karşılığını veren yanıt",
+      "clue": "Yeni toplanmış, bayatlamamış; canlılığını yeni yeni yitirmemiş olan.",
       "answer": "TAZE"
     },
     {
@@ -149,7 +149,7 @@
       "row": 2,
       "col": 5,
       "length": 5,
-      "clue": "Bulmacada Gölge ağacı karşılığını veren yanıt",
+      "clue": "Geniş yaprakları ve kalın gövdesiyle yüzyıllarca yaşayabilen büyük ağaç.",
       "answer": "ÇINAR"
     },
     {
@@ -158,7 +158,7 @@
       "row": 3,
       "col": 3,
       "length": 3,
-      "clue": "Bulmacada Koruyucu ilaç karşılığını veren yanıt",
+      "clue": "Bir hastalığa karşı bağışıklık kazandırmak için vücuda verilen ilaç.",
       "answer": "AŞI"
     },
     {
@@ -167,7 +167,7 @@
       "row": 5,
       "col": 0,
       "length": 4,
-      "clue": "Bulmacada Yassı ekmek karşılığını veren yanıt",
+      "clue": "Fırında pişirilen, üstüne malzeme serilen, ince ve yassı hamur işi.",
       "answer": "PİDE"
     },
     {
@@ -176,7 +176,7 @@
       "row": 5,
       "col": 0,
       "length": 5,
-      "clue": "Mektup servisi için kullanılan yaygın ifade",
+      "clue": "Mektup ve paketlerin toplanıp yerine ulaştırıldığı geleneksel iletişim hizmeti.",
       "answer": "POSTA"
     },
     {
@@ -185,7 +185,7 @@
       "row": 5,
       "col": 5,
       "length": 3,
-      "clue": "Dört tarafı suyla çevrili kara",
+      "clue": "Dört bir yanı suyla çevrili, denizin ortasında kalmış toprak parçası.",
       "answer": "ADA"
     }
   ]

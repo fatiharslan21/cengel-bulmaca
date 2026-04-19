@@ -121,7 +121,7 @@
       "row": 0,
       "col": 3,
       "length": 6,
-      "clue": "Ün ya da nam anlamına gelen sözcük",
+      "clue": "Herkesin duyup tanıdığı; adını çevresinin çok ötesine taşıyan ün.",
       "answer": "ŞÖHRET"
     },
     {
@@ -130,7 +130,7 @@
       "row": 3,
       "col": 1,
       "length": 3,
-      "clue": "İlk doğal sayı için kullanılan yaygın ifade",
+      "clue": "Sayıların başlangıcı olan, tek adedi gösteren ilk doğal rakam.",
       "answer": "BİR"
     },
     {
@@ -139,7 +139,7 @@
       "row": 5,
       "col": 0,
       "length": 5,
-      "clue": "Günlük dilde Alın yazısı olarak bilinen kavram",
+      "clue": "İnsanın başına geleceği önceden yazıldığına inanılan alın yazısı.",
       "answer": "KADER"
     },
     {
@@ -148,7 +148,7 @@
       "row": 5,
       "col": 0,
       "length": 6,
-      "clue": "Yırtıcı büyük kuş için kullanılan yaygın ifade",
+      "clue": "Geniş kanatlarıyla yükseklerde süzülen, keskin gözlü yırtıcı büyük kuş.",
       "answer": "KARTAL"
     },
     {
@@ -157,7 +157,7 @@
       "row": 7,
       "col": 0,
       "length": 3,
-      "clue": "Rüya ya da hayal için kullanılan yaygın ifade",
+      "clue": "Uyku sırasında zihnin canlandırdığı görüntüler ya da uyanıkken kurulan hayal.",
       "answer": "DÜŞ"
     },
     {
@@ -166,7 +166,7 @@
       "row": 7,
       "col": 2,
       "length": 3,
-      "clue": "Omuz örtüsü anlamına gelen sözcük",
+      "clue": "Omuzlara atılan ya da başa örtülen, yumuşak geniş kumaş parçası.",
       "answer": "ŞAL"
     },
     {
@@ -175,7 +175,7 @@
       "row": 7,
       "col": 4,
       "length": 4,
-      "clue": "İddia ya da tez karşılığı olarak kullanılan kelime",
+      "clue": "Bir hakkı aramak için mahkemeye başvurularak açılan hukuki süreç.",
       "answer": "DAVA"
     },
     {
@@ -184,7 +184,7 @@
       "row": 7,
       "col": 6,
       "length": 5,
-      "clue": "Uyulması gereken için kullanılan yaygın ifade",
+      "clue": "Bir düzen içinde hareket edebilmek için uyulması zorunlu olan ilke.",
       "answer": "KURAL"
     },
     {
@@ -193,7 +193,7 @@
       "row": 8,
       "col": 2,
       "length": 3,
-      "clue": "Bulmacada Mesafe ya da açıklık karşılığını veren yanıt",
+      "clue": "İki şeyin birbirinden ayrıldığı boşluk; kısa mola süresi.",
       "answer": "ARA"
     },
     {
@@ -202,7 +202,7 @@
       "row": 10,
       "col": 3,
       "length": 4,
-      "clue": "Büyük sert taş için kullanılan yaygın ifade",
+      "clue": "Toprağın üstünde ya da altında bulunan, kolay parçalanmayan büyük taş.",
       "answer": "KAYA"
     }
   ]
