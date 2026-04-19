@@ -97,7 +97,7 @@
       "row": 0,
       "col": 2,
       "length": 3,
-      "clue": "İlk doğal sayı",
+      "clue": "İlk doğal sayı için kullanılan yaygın ifade",
       "answer": "BİR"
     },
     {
@@ -106,7 +106,7 @@
       "row": 0,
       "col": 5,
       "length": 5,
-      "clue": "Bilme isteği",
+      "clue": "Bilme isteği için kullanılan yaygın ifade",
       "answer": "MERAK"
     },
     {
@@ -115,7 +115,7 @@
       "row": 1,
       "col": 2,
       "length": 4,
-      "clue": "Kalın olmayan",
+      "clue": "Kalın olmayan anlamına gelen sözcük",
       "answer": "İNCE"
     },
     {
@@ -124,7 +124,7 @@
       "row": 1,
       "col": 7,
       "length": 3,
-      "clue": "Tatlının zıttı",
+      "clue": "Bulmacada Tatlının zıttı karşılığını veren yanıt",
       "answer": "ACI"
     },
     {
@@ -133,7 +133,7 @@
       "row": 1,
       "col": 7,
       "length": 3,
-      "clue": "İki şey arası boşluk",
+      "clue": "Bulmacada Mesafe ya da açıklık karşılığını veren yanıt",
       "answer": "ARA"
     },
     {
@@ -142,7 +142,7 @@
       "row": 3,
       "col": 1,
       "length": 4,
-      "clue": "Başarı karşılığı",
+      "clue": "Bulmacada Başarı karşılığı karşılığını veren yanıt",
       "answer": "ÖDÜL"
     },
     {
@@ -151,7 +151,7 @@
       "row": 3,
       "col": 5,
       "length": 4,
-      "clue": "Düşünme yetisi",
+      "clue": "Günlük dilde Düşünme yetisi olarak bilinen kavram",
       "answer": "AKIL"
     },
     {
@@ -160,7 +160,7 @@
       "row": 4,
       "col": 1,
       "length": 5,
-      "clue": "Üflemeli ses aleti",
+      "clue": "Üflemeli ses aleti karşılığı olarak kullanılan kelime",
       "answer": "DÜDÜK"
     },
     {
@@ -169,7 +169,7 @@
       "row": 6,
       "col": 0,
       "length": 3,
-      "clue": "Yüce, büyük",
+      "clue": "Yüce ya da büyük anlamına gelen sözcük",
       "answer": "ULU"
     }
   ]

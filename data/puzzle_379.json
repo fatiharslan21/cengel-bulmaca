@@ -153,7 +153,7 @@
       "row": 0,
       "col": 3,
       "length": 6,
-      "clue": "Kısa an",
+      "clue": "Kısa an anlamına gelen sözcük",
       "answer": "SANİYE"
     },
     {
@@ -162,7 +162,7 @@
       "row": 0,
       "col": 6,
       "length": 7,
-      "clue": "Avunma, avuntu",
+      "clue": "Bulmacada Avunma ya da avuntu karşılığını veren yanıt",
       "answer": "TESELLİ"
     },
     {
@@ -171,7 +171,7 @@
       "row": 1,
       "col": 2,
       "length": 6,
-      "clue": "Güçlük, eziyet",
+      "clue": "Güçlük ya da eziyet anlamına gelen sözcük",
       "answer": "ZAHMET"
     },
     {
@@ -180,7 +180,7 @@
       "row": 3,
       "col": 1,
       "length": 4,
-      "clue": "Bildirme, hüküm",
+      "clue": "Bildirme ya da hüküm anlamına gelen sözcük",
       "answer": "İLAM"
     },
     {
@@ -189,7 +189,7 @@
       "row": 3,
       "col": 5,
       "length": 4,
-      "clue": "Miyavlayan evcil",
+      "clue": "Miyavlayan evcil anlamına gelen sözcük",
       "answer": "KEDİ"
     },
     {
@@ -198,7 +198,7 @@
       "row": 3,
       "col": 8,
       "length": 5,
-      "clue": "Bilme, anlayış",
+      "clue": "Bilme ya da anlayış karşılığı olarak kullanılan kelime",
       "answer": "İRFAN"
     },
     {
@@ -207,7 +207,7 @@
       "row": 5,
       "col": 0,
       "length": 5,
-      "clue": "Yas, acı",
+      "clue": "Bulmacada Yas ya da acı karşılığını veren yanıt",
       "answer": "MATEM"
     },
     {
@@ -216,7 +216,7 @@
       "row": 5,
       "col": 4,
       "length": 5,
-      "clue": "Başlangıç tarihi",
+      "clue": "Bulmacada Başlangıç tarihi karşılığını veren yanıt",
       "answer": "MİLAT"
     },
     {
@@ -225,7 +225,7 @@
       "row": 6,
       "col": 8,
       "length": 4,
-      "clue": "Gerçek, hakiki",
+      "clue": "Gerçek ya da hakiki için kullanılan yaygın ifade",
       "answer": "ASIL"
     },
     {
@@ -234,7 +234,7 @@
       "row": 9,
       "col": 4,
       "length": 7,
-      "clue": "Üzülme",
+      "clue": "Üzülme anlamına gelen sözcük",
       "answer": "TEESSÜR"
     }
   ]

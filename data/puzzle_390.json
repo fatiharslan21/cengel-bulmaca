@@ -145,7 +145,7 @@
       "row": 0,
       "col": 3,
       "length": 4,
-      "clue": "Küçük kemirgen",
+      "clue": "Küçük kemirgen karşılığı olarak kullanılan kelime",
       "answer": "FARE"
     },
     {
@@ -154,7 +154,7 @@
       "row": 1,
       "col": 3,
       "length": 3,
-      "clue": "Hatıra, geçmiş olay",
+      "clue": "Hatıra ya da geçmiş olay karşılığı olarak kullanılan kelime",
       "answer": "ANI"
     },
     {
@@ -163,7 +163,7 @@
       "row": 1,
       "col": 8,
       "length": 4,
-      "clue": "Müzik işareti",
+      "clue": "Müzik işareti için kullanılan yaygın ifade",
       "answer": "NOTA"
     },
     {
@@ -172,7 +172,7 @@
       "row": 2,
       "col": 6,
       "length": 4,
-      "clue": "İnanç",
+      "clue": "Bulmacada İnanç karşılığını veren yanıt",
       "answer": "İMAN"
     },
     {
@@ -181,7 +181,7 @@
       "row": 3,
       "col": 2,
       "length": 3,
-      "clue": "İşitilen titreşim",
+      "clue": "İşitilen titreşim anlamına gelen sözcük",
       "answer": "SES"
     },
     {
@@ -190,7 +190,7 @@
       "row": 3,
       "col": 4,
       "length": 6,
-      "clue": "Kürekli tekne",
+      "clue": "Günlük dilde Kürekli tekne olarak bilinen kavram",
       "answer": "SANDAL"
     },
     {
@@ -199,7 +199,7 @@
       "row": 4,
       "col": 4,
       "length": 5,
-      "clue": "Dört tekerlekli taşıt",
+      "clue": "Bulmacada Dört tekerlekli taşıt karşılığını veren yanıt",
       "answer": "ARABA"
     },
     {
@@ -208,7 +208,7 @@
       "row": 6,
       "col": 3,
       "length": 3,
-      "clue": "Ev bölümü",
+      "clue": "Bulmacada Ev bölümü karşılığını veren yanıt",
       "answer": "ODA"
     },
     {
@@ -217,7 +217,7 @@
       "row": 8,
       "col": 0,
       "length": 5,
-      "clue": "Talih, yükselme",
+      "clue": "Bulmacada Talih ya da yükselme karşılığını veren yanıt",
       "answer": "İKBAL"
     },
     {
@@ -226,7 +226,7 @@
       "row": 8,
       "col": 2,
       "length": 4,
-      "clue": "Renk veren madde",
+      "clue": "Günlük dilde Renk veren madde olarak bilinen kavram",
       "answer": "BOYA"
     }
   ]

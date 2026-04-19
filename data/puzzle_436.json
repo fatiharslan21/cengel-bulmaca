@@ -145,7 +145,7 @@
       "row": 0,
       "col": 3,
       "length": 5,
-      "clue": "Örtü, perde",
+      "clue": "Pencereyi örtmek için asılan kumaş",
       "answer": "PERDE"
     },
     {
@@ -154,7 +154,7 @@
       "row": 0,
       "col": 8,
       "length": 5,
-      "clue": "İple oynatılan",
+      "clue": "İple oynatılan karşılığı olarak kullanılan kelime",
       "answer": "KUKLA"
     },
     {
@@ -163,7 +163,7 @@
       "row": 1,
       "col": 2,
       "length": 5,
-      "clue": "Bolluk, huzur",
+      "clue": "Bolluk ya da huzur için kullanılan yaygın ifade",
       "answer": "REFAH"
     },
     {
@@ -172,7 +172,7 @@
       "row": 1,
       "col": 6,
       "length": 4,
-      "clue": "Düzen, oyun",
+      "clue": "Günlük dilde Düzen ya da oyun olarak bilinen kavram",
       "answer": "HİLE"
     },
     {
@@ -181,7 +181,7 @@
       "row": 4,
       "col": 0,
       "length": 4,
-      "clue": "Adet, parça",
+      "clue": "Günlük dilde Adet ya da parça olarak bilinen kavram",
       "answer": "TANE"
     },
     {
@@ -190,7 +190,7 @@
       "row": 4,
       "col": 5,
       "length": 4,
-      "clue": "Otlak alan",
+      "clue": "Bulmacada Otlak alan karşılığını veren yanıt",
       "answer": "MERA"
     },
     {
@@ -199,7 +199,7 @@
       "row": 4,
       "col": 5,
       "length": 5,
-      "clue": "Başlangıç tarihi",
+      "clue": "Bulmacada Başlangıç tarihi karşılığını veren yanıt",
       "answer": "MİLAT"
     },
     {
@@ -208,7 +208,7 @@
       "row": 6,
       "col": 7,
       "length": 5,
-      "clue": "Vücut bölümü",
+      "clue": "Vücut bölümü karşılığı olarak kullanılan kelime",
       "answer": "ORGAN"
     },
     {
@@ -217,7 +217,7 @@
       "row": 7,
       "col": 4,
       "length": 6,
-      "clue": "Özlem, göresi",
+      "clue": "Özlem ya da göresi karşılığı olarak kullanılan kelime",
       "answer": "HASRET"
     },
     {
@@ -226,7 +226,7 @@
       "row": 9,
       "col": 6,
       "length": 4,
-      "clue": "Altın rengi",
+      "clue": "Altın rengi için kullanılan yaygın ifade",
       "answer": "SARI"
     }
   ]

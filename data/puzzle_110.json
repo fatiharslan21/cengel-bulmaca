@@ -145,7 +145,7 @@
       "row": 0,
       "col": 0,
       "length": 4,
-      "clue": "Tedavi maddesi",
+      "clue": "Tedavi maddesi için kullanılan yaygın ifade",
       "answer": "İLAÇ"
     },
     {
@@ -154,7 +154,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "İki adet, eş",
+      "clue": "İki adet ya da eş karşılığı olarak kullanılan kelime",
       "answer": "ÇİFT"
     },
     {
@@ -163,7 +163,7 @@
       "row": 3,
       "col": 3,
       "length": 4,
-      "clue": "Küçük yükselti",
+      "clue": "Bulmacada Küçük yükselti karşılığını veren yanıt",
       "answer": "TEPE"
     },
     {
@@ -172,7 +172,7 @@
       "row": 4,
       "col": 6,
       "length": 5,
-      "clue": "Hükümdar konutu",
+      "clue": "Hükümdar konutu anlamına gelen sözcük",
       "answer": "SARAY"
     },
     {
@@ -181,7 +181,7 @@
       "row": 4,
       "col": 6,
       "length": 3,
-      "clue": "Nesil, aile kökeni",
+      "clue": "Nesil ya da aile kökeni karşılığı olarak kullanılan kelime",
       "answer": "SOY"
     },
     {
@@ -190,7 +190,7 @@
       "row": 6,
       "col": 2,
       "length": 5,
-      "clue": "Tatlı madde",
+      "clue": "Tatlı madde için kullanılan yaygın ifade",
       "answer": "ŞEKER"
     },
     {
@@ -199,7 +199,7 @@
       "row": 6,
       "col": 4,
       "length": 5,
-      "clue": "Yemek aracı",
+      "clue": "Günlük dilde Yemek aracı olarak bilinen kavram",
       "answer": "KAŞIK"
     },
     {
@@ -208,7 +208,7 @@
       "row": 8,
       "col": 2,
       "length": 4,
-      "clue": "Adet, parça",
+      "clue": "Günlük dilde Adet ya da parça olarak bilinen kavram",
       "answer": "TANE"
     },
     {
@@ -217,7 +217,7 @@
       "row": 9,
       "col": 1,
       "length": 4,
-      "clue": "Bodur ağaç",
+      "clue": "Bodur ağaç anlamına gelen sözcük",
       "answer": "ÇALI"
     }
   ]

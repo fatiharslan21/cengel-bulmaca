@@ -157,7 +157,7 @@
       "row": 0,
       "col": 6,
       "length": 6,
-      "clue": "Başkent",
+      "clue": "Başkent karşılığı olarak kullanılan kelime",
       "answer": "ANKARA"
     },
     {
@@ -166,7 +166,7 @@
       "row": 3,
       "col": 2,
       "length": 5,
-      "clue": "Eşsiz güzellik",
+      "clue": "Eşsiz güzellik karşılığı olarak kullanılan kelime",
       "answer": "BEDİA"
     },
     {
@@ -175,7 +175,7 @@
       "row": 4,
       "col": 8,
       "length": 5,
-      "clue": "Şans, baht",
+      "clue": "Bulmacada Şans ya da baht karşılığını veren yanıt",
       "answer": "TALİH"
     },
     {
@@ -184,7 +184,7 @@
       "row": 5,
       "col": 3,
       "length": 5,
-      "clue": "Pay, nasip",
+      "clue": "Bulmacada Pay ya da nasip karşılığını veren yanıt",
       "answer": "HİSSE"
     },
     {
@@ -193,7 +193,7 @@
       "row": 5,
       "col": 5,
       "length": 4,
-      "clue": "Gönül huzuru",
+      "clue": "Gönül huzuru anlamına gelen sözcük",
       "answer": "SAFA"
     },
     {
@@ -202,7 +202,7 @@
       "row": 5,
       "col": 5,
       "length": 5,
-      "clue": "Günün başı",
+      "clue": "Günün başı anlamına gelen sözcük",
       "answer": "SABAH"
     },
     {
@@ -211,7 +211,7 @@
       "row": 6,
       "col": 2,
       "length": 4,
-      "clue": "Işık, aydınlık",
+      "clue": "Günlük dilde Işık ya da aydınlık olarak bilinen kavram",
       "answer": "ZİYA"
     },
     {
@@ -220,7 +220,7 @@
       "row": 8,
       "col": 1,
       "length": 4,
-      "clue": "Siyah renk",
+      "clue": "Siyah renk karşılığı olarak kullanılan kelime",
       "answer": "KARA"
     },
     {
@@ -229,7 +229,7 @@
       "row": 9,
       "col": 0,
       "length": 4,
-      "clue": "Çözüm yolu",
+      "clue": "Çözüm yolu anlamına gelen sözcük",
       "answer": "ÇARE"
     },
     {
@@ -238,7 +238,7 @@
       "row": 11,
       "col": 0,
       "length": 4,
-      "clue": "Geçmiş zaman",
+      "clue": "Geçmiş zaman karşılığı olarak kullanılan kelime",
       "answer": "MAZİ"
     }
   ]

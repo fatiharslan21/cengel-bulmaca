@@ -111,7 +111,7 @@
       "row": 0,
       "col": 5,
       "length": 3,
-      "clue": "İğne yapraklı ağaç",
+      "clue": "Bulmacada İğne yapraklı ağaç karşılığını veren yanıt",
       "answer": "ÇAM"
     },
     {
@@ -120,7 +120,7 @@
       "row": 1,
       "col": 0,
       "length": 3,
-      "clue": "Hava gibi madde",
+      "clue": "Hava gibi madde için kullanılan yaygın ifade",
       "answer": "GAZ"
     },
     {
@@ -129,7 +129,7 @@
       "row": 1,
       "col": 2,
       "length": 4,
-      "clue": "Gömlek boyun kısmı",
+      "clue": "Gömlek boyun kısmı için kullanılan yaygın ifade",
       "answer": "YAKA"
     },
     {
@@ -138,7 +138,7 @@
       "row": 1,
       "col": 3,
       "length": 3,
-      "clue": "Toprak sahibi",
+      "clue": "Günlük dilde Toprak sahibi olarak bilinen kavram",
       "answer": "AĞA"
     },
     {
@@ -147,7 +147,7 @@
       "row": 1,
       "col": 8,
       "length": 5,
-      "clue": "Anlayış",
+      "clue": "Günlük dilde Anlayış olarak bilinen kavram",
       "answer": "İDRAK"
     },
     {
@@ -156,7 +156,7 @@
       "row": 2,
       "col": 5,
       "length": 5,
-      "clue": "İyi haber",
+      "clue": "İyi haber anlamına gelen sözcük",
       "answer": "MÜJDE"
     },
     {
@@ -165,7 +165,7 @@
       "row": 3,
       "col": 0,
       "length": 5,
-      "clue": "Yok olma",
+      "clue": "Bulmacada Yok olma karşılığını veren yanıt",
       "answer": "ZEVAL"
     },
     {
@@ -174,7 +174,7 @@
       "row": 3,
       "col": 11,
       "length": 4,
-      "clue": "Mutlaka yapılması gereken",
+      "clue": "Bulmacada Mutlaka yapılması gereken karşılığını veren yanıt",
       "answer": "FARZ"
     },
     {
@@ -183,7 +183,7 @@
       "row": 4,
       "col": 8,
       "length": 4,
-      "clue": "Yansıtıcı cam",
+      "clue": "Bulmacada Yansıtıcı cam karşılığını veren yanıt",
       "answer": "AYNA"
     },
     {
@@ -192,7 +192,7 @@
       "row": 6,
       "col": 9,
       "length": 3,
-      "clue": "Sunma, takdim",
+      "clue": "Sunma ya da takdim anlamına gelen sözcük",
       "answer": "ARZ"
     }
   ]

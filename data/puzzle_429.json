@@ -145,7 +145,7 @@
       "row": 0,
       "col": 3,
       "length": 5,
-      "clue": "Topluluk, küme",
+      "clue": "Topluluk ya da küme için kullanılan yaygın ifade",
       "answer": "ZÜMRE"
     },
     {
@@ -154,7 +154,7 @@
       "row": 0,
       "col": 7,
       "length": 4,
-      "clue": "Kırmızı meyve",
+      "clue": "Bulmacada Kırmızı meyve karşılığını veren yanıt",
       "answer": "ELMA"
     },
     {
@@ -163,7 +163,7 @@
       "row": 1,
       "col": 1,
       "length": 4,
-      "clue": "Yüce, manevi",
+      "clue": "Bulmacada Yüce ya da manevi karşılığını veren yanıt",
       "answer": "ULVİ"
     },
     {
@@ -172,7 +172,7 @@
       "row": 2,
       "col": 4,
       "length": 6,
-      "clue": "Güçlük, eziyet",
+      "clue": "Güçlük ya da eziyet anlamına gelen sözcük",
       "answer": "ZAHMET"
     },
     {
@@ -181,7 +181,7 @@
       "row": 2,
       "col": 5,
       "length": 4,
-      "clue": "Yansıtıcı cam",
+      "clue": "Bulmacada Yansıtıcı cam karşılığını veren yanıt",
       "answer": "AYNA"
     },
     {
@@ -190,7 +190,7 @@
       "row": 2,
       "col": 9,
       "length": 7,
-      "clue": "Üzülme",
+      "clue": "Üzülme anlamına gelen sözcük",
       "answer": "TEESSÜR"
     },
     {
@@ -199,7 +199,7 @@
       "row": 4,
       "col": 0,
       "length": 6,
-      "clue": "Ayrılık acısı",
+      "clue": "Ayrılık acısı için kullanılan yaygın ifade",
       "answer": "HİCRAN"
     },
     {
@@ -208,7 +208,7 @@
       "row": 5,
       "col": 5,
       "length": 3,
-      "clue": "Koruyucu ilaç",
+      "clue": "Bulmacada Koruyucu ilaç karşılığını veren yanıt",
       "answer": "AŞI"
     },
     {
@@ -217,7 +217,7 @@
       "row": 5,
       "col": 6,
       "length": 6,
-      "clue": "Sevgi, acıma",
+      "clue": "Bulmacada Sevgi ya da acıma karşılığını veren yanıt",
       "answer": "ŞEFKAT"
     },
     {
@@ -226,7 +226,7 @@
       "row": 9,
       "col": 5,
       "length": 3,
-      "clue": "Sıcak mevsim",
+      "clue": "Bulmacada Sıcak mevsim karşılığını veren yanıt",
       "answer": "YAZ"
     }
   ]

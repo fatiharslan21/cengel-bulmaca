@@ -130,7 +130,7 @@
       "row": 0,
       "col": 2,
       "length": 3,
-      "clue": "Sıcak mevsim",
+      "clue": "Bulmacada Sıcak mevsim karşılığını veren yanıt",
       "answer": "YAZ"
     },
     {
@@ -139,7 +139,7 @@
       "row": 0,
       "col": 4,
       "length": 6,
-      "clue": "Daire çevresi",
+      "clue": "Daire çevresi anlamına gelen sözcük",
       "answer": "ÇEMBER"
     },
     {
@@ -148,7 +148,7 @@
       "row": 1,
       "col": 1,
       "length": 4,
-      "clue": "Adet, parça",
+      "clue": "Günlük dilde Adet ya da parça olarak bilinen kavram",
       "answer": "TANE"
     },
     {
@@ -157,7 +157,7 @@
       "row": 2,
       "col": 6,
       "length": 3,
-      "clue": "Kötünün zıttı",
+      "clue": "Kötünün zıttı karşılığı olarak kullanılan kelime",
       "answer": "İYİ"
     },
     {
@@ -166,7 +166,7 @@
       "row": 2,
       "col": 8,
       "length": 5,
-      "clue": "Maç yöneticisi",
+      "clue": "Bulmacada Maç yöneticisi karşılığını veren yanıt",
       "answer": "HAKEM"
     },
     {
@@ -175,7 +175,7 @@
       "row": 3,
       "col": 4,
       "length": 6,
-      "clue": "Ülke simgesi",
+      "clue": "Ülke simgesi için kullanılan yaygın ifade",
       "answer": "BAYRAK"
     },
     {
@@ -184,7 +184,7 @@
       "row": 5,
       "col": 2,
       "length": 4,
-      "clue": "Cevap bekleyen",
+      "clue": "Cevap bekleyen karşılığı olarak kullanılan kelime",
       "answer": "SORU"
     },
     {
@@ -193,7 +193,7 @@
       "row": 5,
       "col": 2,
       "length": 4,
-      "clue": "Rakam ifadesi",
+      "clue": "Bulmacada Rakam ifadesi karşılığını veren yanıt",
       "answer": "SAYI"
     },
     {
@@ -202,7 +202,7 @@
       "row": 5,
       "col": 7,
       "length": 4,
-      "clue": "Deniz taşıtı",
+      "clue": "Bulmacada Deniz taşıtı karşılığını veren yanıt",
       "answer": "GEMİ"
     },
     {
@@ -211,7 +211,7 @@
       "row": 6,
       "col": 0,
       "length": 3,
-      "clue": "İğneyle süsleme",
+      "clue": "Günlük dilde İğneyle süsleme olarak bilinen kavram",
       "answer": "OYA"
     }
   ]

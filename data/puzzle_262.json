@@ -167,7 +167,7 @@
       "row": 0,
       "col": 1,
       "length": 4,
-      "clue": "Açıklama",
+      "clue": "Günlük dilde Açıklama olarak bilinen kavram",
       "answer": "İZAH"
     },
     {
@@ -176,7 +176,7 @@
       "row": 1,
       "col": 3,
       "length": 5,
-      "clue": "İstek",
+      "clue": "Günlük dilde İstek olarak bilinen kavram",
       "answer": "TALEP"
     },
     {
@@ -185,7 +185,7 @@
       "row": 2,
       "col": 0,
       "length": 4,
-      "clue": "Utanma duygusu",
+      "clue": "Utanma duygusu anlamına gelen sözcük",
       "answer": "HAYA"
     },
     {
@@ -194,7 +194,7 @@
       "row": 3,
       "col": 5,
       "length": 5,
-      "clue": "Ağır, kötü",
+      "clue": "Ağır ya da kötü karşılığı olarak kullanılan kelime",
       "answer": "VAHİM"
     },
     {
@@ -203,7 +203,7 @@
       "row": 4,
       "col": 2,
       "length": 5,
-      "clue": "Olgunluk",
+      "clue": "Olgunluk için kullanılan yaygın ifade",
       "answer": "KEMAL"
     },
     {
@@ -212,7 +212,7 @@
       "row": 5,
       "col": 7,
       "length": 6,
-      "clue": "Konular listesi",
+      "clue": "Konular listesi için kullanılan yaygın ifade",
       "answer": "GÜNDEM"
     },
     {
@@ -221,7 +221,7 @@
       "row": 7,
       "col": 3,
       "length": 5,
-      "clue": "Ağaçlık alan",
+      "clue": "Bulmacada Ağaçlık alan karşılığını veren yanıt",
       "answer": "ORMAN"
     },
     {
@@ -230,7 +230,7 @@
       "row": 7,
       "col": 10,
       "length": 4,
-      "clue": "Renk veren madde",
+      "clue": "Günlük dilde Renk veren madde olarak bilinen kavram",
       "answer": "BOYA"
     },
     {
@@ -239,7 +239,7 @@
       "row": 9,
       "col": 5,
       "length": 3,
-      "clue": "Tırnak törpüsü",
+      "clue": "Tırnak törpüsü için kullanılan yaygın ifade",
       "answer": "EĞE"
     },
     {
@@ -248,7 +248,7 @@
       "row": 10,
       "col": 7,
       "length": 5,
-      "clue": "Örnek, benzer",
+      "clue": "Örnek ya da benzer için kullanılan yaygın ifade",
       "answer": "MİSAL"
     }
   ]

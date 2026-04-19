@@ -134,7 +134,7 @@
       "row": 0,
       "col": 6,
       "length": 5,
-      "clue": "Suda yaşayan canlı",
+      "clue": "Suda yaşayan canlı karşılığı olarak kullanılan kelime",
       "answer": "BALIK"
     },
     {
@@ -143,7 +143,7 @@
       "row": 0,
       "col": 8,
       "length": 4,
-      "clue": "Felaket, kötülük",
+      "clue": "Günlük dilde Felaket ya da kötülük olarak bilinen kavram",
       "answer": "BELA"
     },
     {
@@ -152,7 +152,7 @@
       "row": 1,
       "col": 5,
       "length": 4,
-      "clue": "Amaç, maksat",
+      "clue": "Amaç ya da maksat için kullanılan yaygın ifade",
       "answer": "GAYE"
     },
     {
@@ -161,7 +161,7 @@
       "row": 4,
       "col": 3,
       "length": 4,
-      "clue": "Havada uçan taşıt",
+      "clue": "Havada uçan taşıt karşılığı olarak kullanılan kelime",
       "answer": "UÇAK"
     },
     {
@@ -170,7 +170,7 @@
       "row": 4,
       "col": 5,
       "length": 4,
-      "clue": "Düşünme yetisi",
+      "clue": "Günlük dilde Düşünme yetisi olarak bilinen kavram",
       "answer": "AKIL"
     },
     {
@@ -179,7 +179,7 @@
       "row": 6,
       "col": 3,
       "length": 3,
-      "clue": "Bal yapan böcek",
+      "clue": "Günlük dilde Bal yapan böcek olarak bilinen kavram",
       "answer": "ARI"
     },
     {
@@ -188,7 +188,7 @@
       "row": 6,
       "col": 3,
       "length": 4,
-      "clue": "Gerçek, hakiki",
+      "clue": "Gerçek ya da hakiki için kullanılan yaygın ifade",
       "answer": "ASIL"
     },
     {
@@ -197,7 +197,7 @@
       "row": 7,
       "col": 1,
       "length": 4,
-      "clue": "Talih, şans",
+      "clue": "Talih ya da şans için kullanılan yaygın ifade",
       "answer": "BAHT"
     },
     {
@@ -206,7 +206,7 @@
       "row": 8,
       "col": 0,
       "length": 4,
-      "clue": "Yazılmış metin",
+      "clue": "Bulmacada Yazılmış metin karşılığını veren yanıt",
       "answer": "YAZI"
     },
     {
@@ -215,7 +215,7 @@
       "row": 10,
       "col": 0,
       "length": 4,
-      "clue": "Konaklama yeri",
+      "clue": "Bulmacada Konaklama yeri karşılığını veren yanıt",
       "answer": "OTEL"
     }
   ]

@@ -123,7 +123,7 @@
       "row": 0,
       "col": 8,
       "length": 3,
-      "clue": "Baştaki kıllar",
+      "clue": "Baştaki kıllar anlamına gelen sözcük",
       "answer": "SAÇ"
     },
     {
@@ -132,7 +132,7 @@
       "row": 1,
       "col": 5,
       "length": 4,
-      "clue": "Kısa dinlenme",
+      "clue": "Günlük dilde Kısa dinlenme olarak bilinen kavram",
       "answer": "MOLA"
     },
     {
@@ -141,7 +141,7 @@
       "row": 1,
       "col": 5,
       "length": 3,
-      "clue": "Eflatun renk",
+      "clue": "Eflatun renk için kullanılan yaygın ifade",
       "answer": "MOR"
     },
     {
@@ -150,7 +150,7 @@
       "row": 3,
       "col": 3,
       "length": 3,
-      "clue": "Beyaz yağış",
+      "clue": "Beyaz yağış için kullanılan yaygın ifade",
       "answer": "KAR"
     },
     {
@@ -159,7 +159,7 @@
       "row": 3,
       "col": 3,
       "length": 4,
-      "clue": "Su kabı",
+      "clue": "Günlük dilde Su kabı olarak bilinen kavram",
       "answer": "KOVA"
     },
     {
@@ -168,7 +168,7 @@
       "row": 5,
       "col": 0,
       "length": 4,
-      "clue": "Ateşin parlak kısmı",
+      "clue": "Ateşin parlak kısmı karşılığı olarak kullanılan kelime",
       "answer": "ALEV"
     },
     {
@@ -177,7 +177,7 @@
       "row": 5,
       "col": 0,
       "length": 5,
-      "clue": "Konum bilgisi",
+      "clue": "Günlük dilde Konum bilgisi olarak bilinen kavram",
       "answer": "ADRES"
     },
     {
@@ -186,7 +186,7 @@
       "row": 6,
       "col": 3,
       "length": 4,
-      "clue": "Elektrik hareketi",
+      "clue": "Elektrik hareketi için kullanılan yaygın ifade",
       "answer": "AKIM"
     },
     {
@@ -195,7 +195,7 @@
       "row": 6,
       "col": 4,
       "length": 3,
-      "clue": "Bina bölümü",
+      "clue": "Bulmacada Bina bölümü karşılığını veren yanıt",
       "answer": "KAT"
     }
   ]

@@ -90,7 +90,7 @@
       "row": 0,
       "col": 1,
       "length": 4,
-      "clue": "Kuş evi",
+      "clue": "Kuş evi için kullanılan yaygın ifade",
       "answer": "YUVA"
     },
     {
@@ -99,7 +99,7 @@
       "row": 1,
       "col": 1,
       "length": 4,
-      "clue": "Yakın olmayan",
+      "clue": "Yakında bulunmayan ya da mesafeli için kullanılan yaygın ifade",
       "answer": "UZAK"
     },
     {
@@ -108,7 +108,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "Talih, baht",
+      "clue": "Talih ya da baht karşılığı olarak kullanılan kelime",
       "answer": "ŞANS"
     },
     {
@@ -117,7 +117,7 @@
       "row": 3,
       "col": 3,
       "length": 4,
-      "clue": "Bitki yapısı",
+      "clue": "Bitki yetiştirmek için camla kaplı yapı",
       "answer": "SERA"
     },
     {
@@ -126,7 +126,7 @@
       "row": 5,
       "col": 1,
       "length": 4,
-      "clue": "Renk veren madde",
+      "clue": "Yüzeye renk veren kimyasal madde",
       "answer": "BOYA"
     },
     {
@@ -135,7 +135,7 @@
       "row": 6,
       "col": 1,
       "length": 3,
-      "clue": "Ev bölümü",
+      "clue": "Bulmacada Ev bölümü karşılığını veren yanıt",
       "answer": "ODA"
     },
     {
@@ -144,7 +144,7 @@
       "row": 8,
       "col": 0,
       "length": 4,
-      "clue": "Düz ince levha",
+      "clue": "Üzerine yazı yazılan ince mukavva parçası",
       "answer": "KART"
     },
     {
@@ -153,7 +153,7 @@
       "row": 8,
       "col": 0,
       "length": 3,
-      "clue": "Ateş közü",
+      "clue": "Günlük dilde Ateş közü olarak bilinen kavram",
       "answer": "KOR"
     },
     {
@@ -162,7 +162,7 @@
       "row": 8,
       "col": 2,
       "length": 3,
-      "clue": "Can, maneviyat",
+      "clue": "İnsanın manevi varlığı, tin",
       "answer": "RUH"
     }
   ]

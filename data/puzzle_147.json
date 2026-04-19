@@ -157,7 +157,7 @@
       "row": 0,
       "col": 9,
       "length": 3,
-      "clue": "Damar sıvısı",
+      "clue": "Bulmacada Damar sıvısı karşılığını veren yanıt",
       "answer": "KAN"
     },
     {
@@ -166,7 +166,7 @@
       "row": 1,
       "col": 5,
       "length": 5,
-      "clue": "Aydınlatma aracı",
+      "clue": "Aydınlatma aracı karşılığı olarak kullanılan kelime",
       "answer": "LAMBA"
     },
     {
@@ -175,7 +175,7 @@
       "row": 1,
       "col": 6,
       "length": 3,
-      "clue": "İki şey arası boşluk",
+      "clue": "Bulmacada Mesafe ya da açıklık karşılığını veren yanıt",
       "answer": "ARA"
     },
     {
@@ -184,7 +184,7 @@
       "row": 2,
       "col": 4,
       "length": 6,
-      "clue": "Ülke simgesi",
+      "clue": "Ülke simgesi için kullanılan yaygın ifade",
       "answer": "BAYRAK"
     },
     {
@@ -193,7 +193,7 @@
       "row": 3,
       "col": 3,
       "length": 5,
-      "clue": "Yurt, memleket",
+      "clue": "Bulmacada Yurt ya da memleket karşılığını veren yanıt",
       "answer": "VATAN"
     },
     {
@@ -202,7 +202,7 @@
       "row": 5,
       "col": 2,
       "length": 4,
-      "clue": "Küçük akarsu",
+      "clue": "Küçük akarsu anlamına gelen sözcük",
       "answer": "DERE"
     },
     {
@@ -211,7 +211,7 @@
       "row": 6,
       "col": 1,
       "length": 3,
-      "clue": "İşitilen titreşim",
+      "clue": "İşitilen titreşim anlamına gelen sözcük",
       "answer": "SES"
     },
     {
@@ -220,7 +220,7 @@
       "row": 7,
       "col": 0,
       "length": 5,
-      "clue": "Bilme isteği",
+      "clue": "Bilme isteği için kullanılan yaygın ifade",
       "answer": "MERAK"
     },
     {
@@ -229,7 +229,7 @@
       "row": 7,
       "col": 3,
       "length": 5,
-      "clue": "Konum bilgisi",
+      "clue": "Günlük dilde Konum bilgisi olarak bilinen kavram",
       "answer": "ADRES"
     },
     {
@@ -238,7 +238,7 @@
       "row": 10,
       "col": 3,
       "length": 4,
-      "clue": "Sanat yapıtı",
+      "clue": "Bulmacada Sanat yapıtı karşılığını veren yanıt",
       "answer": "ESER"
     }
   ]

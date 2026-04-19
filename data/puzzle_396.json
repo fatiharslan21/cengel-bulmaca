@@ -123,7 +123,7 @@
       "row": 0,
       "col": 1,
       "length": 5,
-      "clue": "Mektup servisi",
+      "clue": "Mektup servisi için kullanılan yaygın ifade",
       "answer": "POSTA"
     },
     {
@@ -132,7 +132,7 @@
       "row": 0,
       "col": 4,
       "length": 5,
-      "clue": "Esas, kök",
+      "clue": "Esas ya da kök anlamına gelen sözcük",
       "answer": "TEMEL"
     },
     {
@@ -141,7 +141,7 @@
       "row": 0,
       "col": 6,
       "length": 5,
-      "clue": "Uysal, yumuşak",
+      "clue": "Günlük dilde Uysal ya da yumuşak olarak bilinen kavram",
       "answer": "MUNİS"
     },
     {
@@ -150,7 +150,7 @@
       "row": 1,
       "col": 0,
       "length": 3,
-      "clue": "Eflatun renk",
+      "clue": "Eflatun renk için kullanılan yaygın ifade",
       "answer": "MOR"
     },
     {
@@ -159,7 +159,7 @@
       "row": 3,
       "col": 3,
       "length": 7,
-      "clue": "Görünme, belirme",
+      "clue": "Bulmacada Görünme ya da belirme karşılığını veren yanıt",
       "answer": "TECELLİ"
     },
     {
@@ -168,7 +168,7 @@
       "row": 3,
       "col": 3,
       "length": 4,
-      "clue": "Uyan, bağlı",
+      "clue": "Uyan ya da bağlı karşılığı olarak kullanılan kelime",
       "answer": "TABİ"
     },
     {
@@ -177,7 +177,7 @@
       "row": 4,
       "col": 0,
       "length": 4,
-      "clue": "Küçük kemirgen",
+      "clue": "Küçük kemirgen karşılığı olarak kullanılan kelime",
       "answer": "FARE"
     },
     {
@@ -186,7 +186,7 @@
       "row": 4,
       "col": 0,
       "length": 5,
-      "clue": "Ayrılık",
+      "clue": "Ayrılık anlamına gelen sözcük",
       "answer": "FIRAK"
     },
     {
@@ -195,7 +195,7 @@
       "row": 6,
       "col": 2,
       "length": 5,
-      "clue": "Soluk alma verme",
+      "clue": "Günlük dilde Soluk alma verme olarak bilinen kavram",
       "answer": "NEFES"
     },
     {
@@ -204,7 +204,7 @@
       "row": 8,
       "col": 3,
       "length": 5,
-      "clue": "Hoş, ince",
+      "clue": "Hoş ya da ince için kullanılan yaygın ifade",
       "answer": "LATİF"
     }
   ]

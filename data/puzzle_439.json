@@ -156,7 +156,7 @@
       "row": 0,
       "col": 8,
       "length": 4,
-      "clue": "Su kabı",
+      "clue": "Günlük dilde Su kabı olarak bilinen kavram",
       "answer": "KOVA"
     },
     {
@@ -165,7 +165,7 @@
       "row": 1,
       "col": 7,
       "length": 4,
-      "clue": "Bağlama aracı",
+      "clue": "Bağlama aracı anlamına gelen sözcük",
       "answer": "TOKA"
     },
     {
@@ -174,7 +174,7 @@
       "row": 1,
       "col": 10,
       "length": 3,
-      "clue": "İki şey arası boşluk",
+      "clue": "Bulmacada Mesafe ya da açıklık karşılığını veren yanıt",
       "answer": "ARA"
     },
     {
@@ -183,7 +183,7 @@
       "row": 2,
       "col": 6,
       "length": 4,
-      "clue": "Ses birimi",
+      "clue": "Ses birimi için kullanılan yaygın ifade",
       "answer": "HECE"
     },
     {
@@ -192,7 +192,7 @@
       "row": 3,
       "col": 5,
       "length": 4,
-      "clue": "Otlak alan",
+      "clue": "Bulmacada Otlak alan karşılığını veren yanıt",
       "answer": "MERA"
     },
     {
@@ -201,7 +201,7 @@
       "row": 5,
       "col": 5,
       "length": 4,
-      "clue": "Çaba, gayret",
+      "clue": "Bulmacada Çaba ya da gayret karşılığını veren yanıt",
       "answer": "CEHD"
     },
     {
@@ -210,7 +210,7 @@
       "row": 5,
       "col": 5,
       "length": 5,
-      "clue": "Yanıt, karşılık",
+      "clue": "Yanıt ya da karşılık için kullanılan yaygın ifade",
       "answer": "CEVAP"
     },
     {
@@ -219,7 +219,7 @@
       "row": 5,
       "col": 8,
       "length": 6,
-      "clue": "Ülke yönetimi",
+      "clue": "Ülke yönetimi için kullanılan yaygın ifade",
       "answer": "DEVLET"
     },
     {
@@ -228,7 +228,7 @@
       "row": 6,
       "col": 0,
       "length": 6,
-      "clue": "Özlü söz",
+      "clue": "Özlü söz için kullanılan yaygın ifade",
       "answer": "VECİZE"
     },
     {
@@ -237,7 +237,7 @@
       "row": 8,
       "col": 7,
       "length": 4,
-      "clue": "Ateşin parlak kısmı",
+      "clue": "Ateşin parlak kısmı karşılığı olarak kullanılan kelime",
       "answer": "ALEV"
     }
   ]

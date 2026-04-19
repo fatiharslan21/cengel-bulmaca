@@ -167,7 +167,7 @@
       "row": 0,
       "col": 0,
       "length": 3,
-      "clue": "Kafa, vücudun üstü",
+      "clue": "Kafa ya da vücudun üstü için kullanılan yaygın ifade",
       "answer": "BAŞ"
     },
     {
@@ -176,7 +176,7 @@
       "row": 0,
       "col": 2,
       "length": 5,
-      "clue": "Tatlı madde",
+      "clue": "Tatlı madde için kullanılan yaygın ifade",
       "answer": "ŞEKER"
     },
     {
@@ -185,7 +185,7 @@
       "row": 3,
       "col": 1,
       "length": 5,
-      "clue": "Küçük deniz taşıtı",
+      "clue": "Küçük deniz taşıtı anlamına gelen sözcük",
       "answer": "TEKNE"
     },
     {
@@ -194,7 +194,7 @@
       "row": 3,
       "col": 4,
       "length": 5,
-      "clue": "İnce, kibar",
+      "clue": "İnce ya da kibar karşılığı olarak kullanılan kelime",
       "answer": "NAZİK"
     },
     {
@@ -203,7 +203,7 @@
       "row": 5,
       "col": 4,
       "length": 5,
-      "clue": "Topluluk, küme",
+      "clue": "Topluluk ya da küme için kullanılan yaygın ifade",
       "answer": "ZÜMRE"
     },
     {
@@ -212,7 +212,7 @@
       "row": 5,
       "col": 8,
       "length": 4,
-      "clue": "Yük hayvanı",
+      "clue": "Yük hayvanı için kullanılan yaygın ifade",
       "answer": "EŞEK"
     },
     {
@@ -221,7 +221,7 @@
       "row": 6,
       "col": 2,
       "length": 5,
-      "clue": "Esenleme sözü",
+      "clue": "Esenleme sözü için kullanılan yaygın ifade",
       "answer": "SELAM"
     },
     {
@@ -230,7 +230,7 @@
       "row": 7,
       "col": 1,
       "length": 5,
-      "clue": "Yer, konum",
+      "clue": "Günlük dilde Yer ya da konum olarak bilinen kavram",
       "answer": "MEVKİ"
     },
     {
@@ -239,7 +239,7 @@
       "row": 7,
       "col": 7,
       "length": 5,
-      "clue": "Kabir",
+      "clue": "Kabir için kullanılan yaygın ifade",
       "answer": "MEZAR"
     },
     {
@@ -248,7 +248,7 @@
       "row": 9,
       "col": 1,
       "length": 4,
-      "clue": "Yazılmış metin",
+      "clue": "Bulmacada Yazılmış metin karşılığını veren yanıt",
       "answer": "YAZI"
     }
   ]

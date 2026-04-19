@@ -123,7 +123,7 @@
       "row": 0,
       "col": 4,
       "length": 4,
-      "clue": "Sayısal değer",
+      "clue": "Sayısal değer için kullanılan yaygın ifade",
       "answer": "PUAN"
     },
     {
@@ -132,7 +132,7 @@
       "row": 0,
       "col": 7,
       "length": 6,
-      "clue": "Beğenme, övme",
+      "clue": "Günlük dilde Beğenme ya da övme olarak bilinen kavram",
       "answer": "TAKDİR"
     },
     {
@@ -141,7 +141,7 @@
       "row": 1,
       "col": 3,
       "length": 5,
-      "clue": "Nefesli çalgı",
+      "clue": "Nefesli çalgı için kullanılan yaygın ifade",
       "answer": "ZURNA"
     },
     {
@@ -150,7 +150,7 @@
       "row": 3,
       "col": 2,
       "length": 4,
-      "clue": "Yapışkan şerit",
+      "clue": "Yapışkan şerit karşılığı olarak kullanılan kelime",
       "answer": "BANT"
     },
     {
@@ -159,7 +159,7 @@
       "row": 3,
       "col": 3,
       "length": 3,
-      "clue": "Toprak sahibi",
+      "clue": "Günlük dilde Toprak sahibi olarak bilinen kavram",
       "answer": "AĞA"
     },
     {
@@ -168,7 +168,7 @@
       "row": 4,
       "col": 1,
       "length": 5,
-      "clue": "Üzüntü",
+      "clue": "Bulmacada Üzüntü karşılığını veren yanıt",
       "answer": "KEDER"
     },
     {
@@ -177,7 +177,7 @@
       "row": 5,
       "col": 0,
       "length": 4,
-      "clue": "Sözünde durma",
+      "clue": "Sözünde durma karşılığı olarak kullanılan kelime",
       "answer": "VEFA"
     },
     {
@@ -186,7 +186,7 @@
       "row": 7,
       "col": 1,
       "length": 4,
-      "clue": "Buyruk, komut",
+      "clue": "Günlük dilde Buyruk ya da komut olarak bilinen kavram",
       "answer": "EMİR"
     },
     {
@@ -195,7 +195,7 @@
       "row": 7,
       "col": 3,
       "length": 4,
-      "clue": "Tedavi maddesi",
+      "clue": "Tedavi maddesi için kullanılan yaygın ifade",
       "answer": "İLAÇ"
     },
     {
@@ -204,7 +204,7 @@
       "row": 9,
       "col": 2,
       "length": 4,
-      "clue": "Katlanır bıçak",
+      "clue": "Günlük dilde Katlanır bıçak olarak bilinen kavram",
       "answer": "ÇAKI"
     }
   ]

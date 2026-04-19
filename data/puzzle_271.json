@@ -133,7 +133,7 @@
       "row": 0,
       "col": 4,
       "length": 5,
-      "clue": "Şans, baht",
+      "clue": "Bulmacada Şans ya da baht karşılığını veren yanıt",
       "answer": "TALİH"
     },
     {
@@ -142,7 +142,7 @@
       "row": 2,
       "col": 1,
       "length": 6,
-      "clue": "Anlatılan olay",
+      "clue": "Günlük dilde Anlatılan olay olarak bilinen kavram",
       "answer": "HİKAYE"
     },
     {
@@ -151,7 +151,7 @@
       "row": 3,
       "col": 0,
       "length": 5,
-      "clue": "Öğrenilen her şey",
+      "clue": "Bulmacada Öğrenilen her şey karşılığını veren yanıt",
       "answer": "BİLGİ"
     },
     {
@@ -160,7 +160,7 @@
       "row": 4,
       "col": 4,
       "length": 4,
-      "clue": "Solunan gaz",
+      "clue": "Solunan gaz anlamına gelen sözcük",
       "answer": "HAVA"
     },
     {
@@ -169,7 +169,7 @@
       "row": 5,
       "col": 0,
       "length": 3,
-      "clue": "Ün, şöhret",
+      "clue": "Günlük dilde Ün ya da şöhret olarak bilinen kavram",
       "answer": "ŞAN"
     },
     {
@@ -178,7 +178,7 @@
       "row": 6,
       "col": 4,
       "length": 5,
-      "clue": "Bolluk, huzur",
+      "clue": "Bolluk ya da huzur için kullanılan yaygın ifade",
       "answer": "REFAH"
     },
     {
@@ -187,7 +187,7 @@
       "row": 7,
       "col": 0,
       "length": 5,
-      "clue": "Bitkinin ürünü",
+      "clue": "Günlük dilde Bitkinin ürünü olarak bilinen kavram",
       "answer": "MEYVE"
     },
     {
@@ -196,7 +196,7 @@
       "row": 7,
       "col": 0,
       "length": 5,
-      "clue": "Kabir",
+      "clue": "Kabir için kullanılan yaygın ifade",
       "answer": "MEZAR"
     },
     {
@@ -205,7 +205,7 @@
       "row": 7,
       "col": 7,
       "length": 3,
-      "clue": "Uçurum, yarık",
+      "clue": "Derin uçurum ya da dik çatlak",
       "answer": "YAR"
     },
     {
@@ -214,7 +214,7 @@
       "row": 9,
       "col": 3,
       "length": 5,
-      "clue": "Katlanma, dayanma",
+      "clue": "Bulmacada Katlanma ya da dayanma karşılığını veren yanıt",
       "answer": "SABIR"
     }
   ]

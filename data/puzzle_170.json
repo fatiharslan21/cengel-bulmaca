@@ -139,7 +139,7 @@
       "row": 0,
       "col": 5,
       "length": 4,
-      "clue": "Vatan",
+      "clue": "Vatan karşılığı olarak kullanılan kelime",
       "answer": "YURT"
     },
     {
@@ -148,7 +148,7 @@
       "row": 1,
       "col": 2,
       "length": 6,
-      "clue": "Kürekli tekne",
+      "clue": "Günlük dilde Kürekli tekne olarak bilinen kavram",
       "answer": "SANDAL"
     },
     {
@@ -157,7 +157,7 @@
       "row": 2,
       "col": 2,
       "length": 4,
-      "clue": "Hafif olmayan",
+      "clue": "Hafif olmayan için kullanılan yaygın ifade",
       "answer": "AĞIR"
     },
     {
@@ -166,7 +166,7 @@
       "row": 3,
       "col": 0,
       "length": 3,
-      "clue": "24 saatlik süre",
+      "clue": "24 saatlik süre karşılığı olarak kullanılan kelime",
       "answer": "GÜN"
     },
     {
@@ -175,7 +175,7 @@
       "row": 4,
       "col": 4,
       "length": 5,
-      "clue": "Mektup servisi",
+      "clue": "Mektup servisi için kullanılan yaygın ifade",
       "answer": "POSTA"
     },
     {
@@ -184,7 +184,7 @@
       "row": 5,
       "col": 1,
       "length": 4,
-      "clue": "Görkemli yapı",
+      "clue": "Görkemli yapı karşılığı olarak kullanılan kelime",
       "answer": "ŞATO"
     },
     {
@@ -193,7 +193,7 @@
       "row": 5,
       "col": 8,
       "length": 4,
-      "clue": "Miyavlayan evcil",
+      "clue": "Miyavlayan evcil anlamına gelen sözcük",
       "answer": "KEDİ"
     },
     {
@@ -202,7 +202,7 @@
       "row": 6,
       "col": 4,
       "length": 5,
-      "clue": "Yenilebilen bitki",
+      "clue": "Yenilebilen bitki için kullanılan yaygın ifade",
       "answer": "SEBZE"
     },
     {
@@ -211,7 +211,7 @@
       "row": 7,
       "col": 8,
       "length": 4,
-      "clue": "Sıkıntı, üzüntü",
+      "clue": "Günlük dilde Sıkıntı ya da üzüntü olarak bilinen kavram",
       "answer": "DERT"
     },
     {
@@ -220,7 +220,7 @@
       "row": 8,
       "col": 3,
       "length": 3,
-      "clue": "Daire çapı",
+      "clue": "Dairenin merkezinden geçen doğru parçası",
       "answer": "ÇAP"
     }
   ]

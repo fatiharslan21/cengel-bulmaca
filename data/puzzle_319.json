@@ -156,7 +156,7 @@
       "row": 0,
       "col": 6,
       "length": 4,
-      "clue": "Küçük kemirgen",
+      "clue": "Küçük kemirgen karşılığı olarak kullanılan kelime",
       "answer": "FARE"
     },
     {
@@ -165,7 +165,7 @@
       "row": 1,
       "col": 5,
       "length": 6,
-      "clue": "Ülke simgesi",
+      "clue": "Ülke simgesi için kullanılan yaygın ifade",
       "answer": "BAYRAK"
     },
     {
@@ -174,7 +174,7 @@
       "row": 2,
       "col": 1,
       "length": 4,
-      "clue": "Kuş evi",
+      "clue": "Kuş evi için kullanılan yaygın ifade",
       "answer": "YUVA"
     },
     {
@@ -183,7 +183,7 @@
       "row": 3,
       "col": 3,
       "length": 5,
-      "clue": "El kol eklemi",
+      "clue": "El kol eklemi karşılığı olarak kullanılan kelime",
       "answer": "BİLEK"
     },
     {
@@ -192,7 +192,7 @@
       "row": 3,
       "col": 4,
       "length": 5,
-      "clue": "Anlayış",
+      "clue": "Günlük dilde Anlayış olarak bilinen kavram",
       "answer": "İDRAK"
     },
     {
@@ -201,7 +201,7 @@
       "row": 5,
       "col": 0,
       "length": 5,
-      "clue": "Yeni bilgi",
+      "clue": "Günlük dilde Yeni bilgi olarak bilinen kavram",
       "answer": "HABER"
     },
     {
@@ -210,7 +210,7 @@
       "row": 5,
       "col": 2,
       "length": 3,
-      "clue": "Üzüm bahçesi",
+      "clue": "Günlük dilde Üzüm bahçesi olarak bilinen kavram",
       "answer": "BAĞ"
     },
     {
@@ -219,7 +219,7 @@
       "row": 7,
       "col": 0,
       "length": 3,
-      "clue": "Devir, dönem",
+      "clue": "Devir ya da dönem karşılığı olarak kullanılan kelime",
       "answer": "ÇAĞ"
     },
     {
@@ -228,7 +228,7 @@
       "row": 7,
       "col": 1,
       "length": 4,
-      "clue": "Bacak ucu",
+      "clue": "Günlük dilde Bacak ucu olarak bilinen kavram",
       "answer": "AYAK"
     },
     {
@@ -237,7 +237,7 @@
       "row": 9,
       "col": 0,
       "length": 3,
-      "clue": "Durum, vaziyet",
+      "clue": "Bulmacada Durum ya da vaziyet karşılığını veren yanıt",
       "answer": "HAL"
     }
   ]

@@ -153,7 +153,7 @@
       "row": 0,
       "col": 10,
       "length": 5,
-      "clue": "İstek",
+      "clue": "Günlük dilde İstek olarak bilinen kavram",
       "answer": "TALEP"
     },
     {
@@ -162,7 +162,7 @@
       "row": 1,
       "col": 6,
       "length": 4,
-      "clue": "Bacak ucu",
+      "clue": "Günlük dilde Bacak ucu olarak bilinen kavram",
       "answer": "AYAK"
     },
     {
@@ -171,7 +171,7 @@
       "row": 1,
       "col": 8,
       "length": 4,
-      "clue": "Konaklama yeri",
+      "clue": "Bulmacada Konaklama yeri karşılığını veren yanıt",
       "answer": "OTEL"
     },
     {
@@ -180,7 +180,7 @@
       "row": 2,
       "col": 1,
       "length": 4,
-      "clue": "Zodyak işareti",
+      "clue": "Günlük dilde Zodyak işareti olarak bilinen kavram",
       "answer": "BURÇ"
     },
     {
@@ -189,7 +189,7 @@
       "row": 2,
       "col": 4,
       "length": 5,
-      "clue": "Gölge ağacı",
+      "clue": "Bulmacada Gölge ağacı karşılığını veren yanıt",
       "answer": "ÇINAR"
     },
     {
@@ -198,7 +198,7 @@
       "row": 3,
       "col": 8,
       "length": 4,
-      "clue": "Terbiye, görgü",
+      "clue": "Terbiye ya da görgü karşılığı olarak kullanılan kelime",
       "answer": "EDEP"
     },
     {
@@ -207,7 +207,7 @@
       "row": 4,
       "col": 4,
       "length": 5,
-      "clue": "Taşıma, aktarma",
+      "clue": "Bulmacada Taşıma ya da aktarma karşılığını veren yanıt",
       "answer": "NAKİL"
     },
     {
@@ -216,7 +216,7 @@
       "row": 6,
       "col": 2,
       "length": 4,
-      "clue": "Küçük akarsu",
+      "clue": "Küçük akarsu anlamına gelen sözcük",
       "answer": "DERE"
     },
     {
@@ -225,7 +225,7 @@
       "row": 6,
       "col": 3,
       "length": 4,
-      "clue": "Keder, acı",
+      "clue": "Keder ya da acı karşılığı olarak kullanılan kelime",
       "answer": "ELEM"
     },
     {
@@ -234,7 +234,7 @@
       "row": 8,
       "col": 0,
       "length": 5,
-      "clue": "El kol eklemi",
+      "clue": "El kol eklemi karşılığı olarak kullanılan kelime",
       "answer": "BİLEK"
     }
   ]

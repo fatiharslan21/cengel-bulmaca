@@ -121,7 +121,7 @@
       "row": 0,
       "col": 7,
       "length": 5,
-      "clue": "Bilme isteği",
+      "clue": "Bilme isteği için kullanılan yaygın ifade",
       "answer": "MERAK"
     },
     {
@@ -130,7 +130,7 @@
       "row": 2,
       "col": 9,
       "length": 3,
-      "clue": "Kurak kumluk arazi",
+      "clue": "Kurak kumluk arazi anlamına gelen sözcük",
       "answer": "ÇÖL"
     },
     {
@@ -139,7 +139,7 @@
       "row": 4,
       "col": 6,
       "length": 5,
-      "clue": "Harita kitabı",
+      "clue": "Harita kitabı karşılığı olarak kullanılan kelime",
       "answer": "ATLAS"
     },
     {
@@ -148,7 +148,7 @@
       "row": 4,
       "col": 6,
       "length": 4,
-      "clue": "Düşünme yetisi",
+      "clue": "Günlük dilde Düşünme yetisi olarak bilinen kavram",
       "answer": "AKIL"
     },
     {
@@ -157,7 +157,7 @@
       "row": 5,
       "col": 3,
       "length": 4,
-      "clue": "Yakın arkadaş",
+      "clue": "Bulmacada Yakın arkadaş karşılığını veren yanıt",
       "answer": "DOST"
     },
     {
@@ -166,7 +166,7 @@
       "row": 5,
       "col": 3,
       "length": 4,
-      "clue": "Müzikle hareket",
+      "clue": "Müzikle hareket karşılığı olarak kullanılan kelime",
       "answer": "DANS"
     },
     {
@@ -175,7 +175,7 @@
       "row": 6,
       "col": 0,
       "length": 4,
-      "clue": "Büyük sert taş",
+      "clue": "Büyük sert taş için kullanılan yaygın ifade",
       "answer": "KAYA"
     },
     {
@@ -184,7 +184,7 @@
       "row": 6,
       "col": 0,
       "length": 3,
-      "clue": "Üst beden uzvu",
+      "clue": "Günlük dilde Üst beden uzvu olarak bilinen kavram",
       "answer": "KOL"
     },
     {
@@ -193,7 +193,7 @@
       "row": 7,
       "col": 5,
       "length": 3,
-      "clue": "İşve, cilve",
+      "clue": "İşve ya da cilve anlamına gelen sözcük",
       "answer": "NAZ"
     }
   ]

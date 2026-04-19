@@ -181,7 +181,7 @@
       "row": 0,
       "col": 3,
       "length": 4,
-      "clue": "Uykuda hayal",
+      "clue": "Uykuda hayal karşılığı olarak kullanılan kelime",
       "answer": "RÜYA"
     },
     {
@@ -190,7 +190,7 @@
       "row": 3,
       "col": 0,
       "length": 5,
-      "clue": "Bakış, göz",
+      "clue": "Bakış ya da göz anlamına gelen sözcük",
       "answer": "NAZAR"
     },
     {
@@ -199,7 +199,7 @@
       "row": 3,
       "col": 4,
       "length": 3,
-      "clue": "Can, maneviyat",
+      "clue": "Bulmacada Can ya da maneviyat karşılığını veren yanıt",
       "answer": "RUH"
     },
     {
@@ -208,7 +208,7 @@
       "row": 4,
       "col": 11,
       "length": 3,
-      "clue": "Dikenli güzel çiçek",
+      "clue": "Bulmacada Dikenli güzel çiçek karşılığını veren yanıt",
       "answer": "GÜL"
     },
     {
@@ -217,7 +217,7 @@
       "row": 5,
       "col": 4,
       "length": 3,
-      "clue": "Asla, kesinlikle hayır",
+      "clue": "Bulmacada Asla ya da kesinlikle hayır karşılığını veren yanıt",
       "answer": "HİÇ"
     },
     {
@@ -226,7 +226,7 @@
       "row": 5,
       "col": 6,
       "length": 4,
-      "clue": "Çözüm yolu",
+      "clue": "Çözüm yolu anlamına gelen sözcük",
       "answer": "ÇARE"
     },
     {
@@ -235,7 +235,7 @@
       "row": 5,
       "col": 8,
       "length": 5,
-      "clue": "Zaman, süre",
+      "clue": "Bulmacada Zaman ya da süre karşılığını veren yanıt",
       "answer": "VAKİT"
     },
     {
@@ -244,7 +244,7 @@
       "row": 6,
       "col": 8,
       "length": 4,
-      "clue": "Düşünme yetisi",
+      "clue": "Günlük dilde Düşünme yetisi olarak bilinen kavram",
       "answer": "AKIL"
     },
     {
@@ -253,7 +253,7 @@
       "row": 7,
       "col": 4,
       "length": 5,
-      "clue": "Bilme isteği",
+      "clue": "Bilme isteği için kullanılan yaygın ifade",
       "answer": "MERAK"
     },
     {
@@ -262,7 +262,7 @@
       "row": 7,
       "col": 4,
       "length": 5,
-      "clue": "Yer, konum",
+      "clue": "Günlük dilde Yer ya da konum olarak bilinen kavram",
       "answer": "MEVKİ"
     }
   ]

@@ -123,7 +123,7 @@
       "row": 0,
       "col": 6,
       "length": 5,
-      "clue": "En yüksek nokta",
+      "clue": "En yüksek nokta karşılığı olarak kullanılan kelime",
       "answer": "ZİRVE"
     },
     {
@@ -132,7 +132,7 @@
       "row": 1,
       "col": 4,
       "length": 4,
-      "clue": "Buyruk, komut",
+      "clue": "Günlük dilde Buyruk ya da komut olarak bilinen kavram",
       "answer": "EMİR"
     },
     {
@@ -141,7 +141,7 @@
       "row": 4,
       "col": 2,
       "length": 5,
-      "clue": "Evin yeşil alanı",
+      "clue": "Evin yeşil alanı anlamına gelen sözcük",
       "answer": "BAHÇE"
     },
     {
@@ -150,7 +150,7 @@
       "row": 4,
       "col": 3,
       "length": 5,
-      "clue": "Harita kitabı",
+      "clue": "Harita kitabı karşılığı olarak kullanılan kelime",
       "answer": "ATLAS"
     },
     {
@@ -159,7 +159,7 @@
       "row": 4,
       "col": 5,
       "length": 4,
-      "clue": "İki adet, eş",
+      "clue": "İki adet ya da eş karşılığı olarak kullanılan kelime",
       "answer": "ÇİFT"
     },
     {
@@ -168,7 +168,7 @@
       "row": 5,
       "col": 7,
       "length": 4,
-      "clue": "Ev, konut",
+      "clue": "Ev ya da konut karşılığı olarak kullanılan kelime",
       "answer": "HANE"
     },
     {
@@ -177,7 +177,7 @@
       "row": 7,
       "col": 0,
       "length": 4,
-      "clue": "Doku hasarı",
+      "clue": "Doku hasarı anlamına gelen sözcük",
       "answer": "YARA"
     },
     {
@@ -186,7 +186,7 @@
       "row": 7,
       "col": 1,
       "length": 4,
-      "clue": "Av yapan kişi",
+      "clue": "Av yapan kişi anlamına gelen sözcük",
       "answer": "AVCI"
     },
     {
@@ -195,7 +195,7 @@
       "row": 7,
       "col": 5,
       "length": 3,
-      "clue": "Cilt, deri",
+      "clue": "Cilt ya da deri karşılığı olarak kullanılan kelime",
       "answer": "TEN"
     }
   ]

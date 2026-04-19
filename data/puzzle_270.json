@@ -134,7 +134,7 @@
       "row": 0,
       "col": 1,
       "length": 4,
-      "clue": "Cevap bekleyen",
+      "clue": "Cevap bekleyen karşılığı olarak kullanılan kelime",
       "answer": "SORU"
     },
     {
@@ -143,7 +143,7 @@
       "row": 3,
       "col": 0,
       "length": 3,
-      "clue": "Tropikal meyve",
+      "clue": "Tropikal meyve karşılığı olarak kullanılan kelime",
       "answer": "MUZ"
     },
     {
@@ -152,7 +152,7 @@
       "row": 3,
       "col": 0,
       "length": 5,
-      "clue": "Yer, mahal",
+      "clue": "Yer ya da mahal anlamına gelen sözcük",
       "answer": "MEKAN"
     },
     {
@@ -161,7 +161,7 @@
       "row": 4,
       "col": 3,
       "length": 4,
-      "clue": "Sıkıntı, üzüntü",
+      "clue": "Günlük dilde Sıkıntı ya da üzüntü olarak bilinen kavram",
       "answer": "DERT"
     },
     {
@@ -170,7 +170,7 @@
       "row": 4,
       "col": 5,
       "length": 5,
-      "clue": "Hüzün, usanç",
+      "clue": "Bulmacada Hüzün ya da usanç karşılığını veren yanıt",
       "answer": "MELAL"
     },
     {
@@ -179,7 +179,7 @@
       "row": 5,
       "col": 3,
       "length": 4,
-      "clue": "Terbiye, görgü",
+      "clue": "Terbiye ya da görgü karşılığı olarak kullanılan kelime",
       "answer": "EDEP"
     },
     {
@@ -188,7 +188,7 @@
       "row": 5,
       "col": 8,
       "length": 5,
-      "clue": "Maç yöneticisi",
+      "clue": "Bulmacada Maç yöneticisi karşılığını veren yanıt",
       "answer": "HAKEM"
     },
     {
@@ -197,7 +197,7 @@
       "row": 6,
       "col": 0,
       "length": 4,
-      "clue": "Hafif olmayan",
+      "clue": "Hafif olmayan için kullanılan yaygın ifade",
       "answer": "AĞIR"
     },
     {
@@ -206,7 +206,7 @@
       "row": 8,
       "col": 5,
       "length": 4,
-      "clue": "Türk simgesi çiçek",
+      "clue": "Türk simgesi çiçek için kullanılan yaygın ifade",
       "answer": "LALE"
     },
     {
@@ -215,7 +215,7 @@
       "row": 8,
       "col": 6,
       "length": 3,
-      "clue": "Sunma, takdim",
+      "clue": "Sunma ya da takdim anlamına gelen sözcük",
       "answer": "ARZ"
     }
   ]

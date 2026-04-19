@@ -139,7 +139,7 @@
       "row": 0,
       "col": 3,
       "length": 4,
-      "clue": "Savunma yapısı",
+      "clue": "Savunma yapısı karşılığı olarak kullanılan kelime",
       "answer": "KALE"
     },
     {
@@ -148,7 +148,7 @@
       "row": 1,
       "col": 0,
       "length": 4,
-      "clue": "Kullanılan nesneler",
+      "clue": "Kullanılan nesneler anlamına gelen sözcük",
       "answer": "EŞYA"
     },
     {
@@ -157,7 +157,7 @@
       "row": 1,
       "col": 5,
       "length": 3,
-      "clue": "Adalet, doğruluk",
+      "clue": "Bulmacada Adalet ya da doğruluk karşılığını veren yanıt",
       "answer": "HAK"
     },
     {
@@ -166,7 +166,7 @@
       "row": 1,
       "col": 7,
       "length": 4,
-      "clue": "Müzikle hareket",
+      "clue": "Müzikle hareket karşılığı olarak kullanılan kelime",
       "answer": "DANS"
     },
     {
@@ -175,7 +175,7 @@
       "row": 2,
       "col": 7,
       "length": 3,
-      "clue": "Yakışıklı, gösterişli",
+      "clue": "Yakışıklı ya da gösterişli anlamına gelen sözcük",
       "answer": "AFİ"
     },
     {
@@ -184,7 +184,7 @@
       "row": 3,
       "col": 3,
       "length": 5,
-      "clue": "Vaktinden önce",
+      "clue": "Vaktinden önce karşılığı olarak kullanılan kelime",
       "answer": "ERKEN"
     },
     {
@@ -193,7 +193,7 @@
       "row": 4,
       "col": 7,
       "length": 4,
-      "clue": "Altın rengi",
+      "clue": "Altın rengi için kullanılan yaygın ifade",
       "answer": "SARI"
     },
     {
@@ -202,7 +202,7 @@
       "row": 4,
       "col": 8,
       "length": 5,
-      "clue": "Dört tekerlekli taşıt",
+      "clue": "Bulmacada Dört tekerlekli taşıt karşılığını veren yanıt",
       "answer": "ARABA"
     },
     {
@@ -211,7 +211,7 @@
       "row": 6,
       "col": 7,
       "length": 5,
-      "clue": "Günün başı",
+      "clue": "Günün başı anlamına gelen sözcük",
       "answer": "SABAH"
     },
     {
@@ -220,7 +220,7 @@
       "row": 8,
       "col": 7,
       "length": 4,
-      "clue": "Yırtık yamağı",
+      "clue": "Yırtığı kapatmak için eklenen parça",
       "answer": "YAMA"
     }
   ]

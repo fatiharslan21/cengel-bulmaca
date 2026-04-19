@@ -145,7 +145,7 @@
       "row": 0,
       "col": 5,
       "length": 4,
-      "clue": "Gökyüzü",
+      "clue": "Gökyüzü anlamına gelen sözcük",
       "answer": "SEMA"
     },
     {
@@ -154,7 +154,7 @@
       "row": 0,
       "col": 5,
       "length": 5,
-      "clue": "Aşk, tutku",
+      "clue": "Günlük dilde Aşk ya da tutku olarak bilinen kavram",
       "answer": "SEVDA"
     },
     {
@@ -163,7 +163,7 @@
       "row": 2,
       "col": 7,
       "length": 5,
-      "clue": "Utanç, çekinme",
+      "clue": "Utanç ya da çekinme anlamına gelen sözcük",
       "answer": "HİCAP"
     },
     {
@@ -172,7 +172,7 @@
       "row": 3,
       "col": 4,
       "length": 5,
-      "clue": "Şans, baht",
+      "clue": "Bulmacada Şans ya da baht karşılığını veren yanıt",
       "answer": "TALİH"
     },
     {
@@ -181,7 +181,7 @@
       "row": 3,
       "col": 4,
       "length": 5,
-      "clue": "Heyecan, kaygı",
+      "clue": "Günlük dilde Heyecan ya da kaygı olarak bilinen kavram",
       "answer": "TELAŞ"
     },
     {
@@ -190,7 +190,7 @@
       "row": 4,
       "col": 1,
       "length": 4,
-      "clue": "Kalın olmayan",
+      "clue": "Kalın olmayan anlamına gelen sözcük",
       "answer": "İNCE"
     },
     {
@@ -199,7 +199,7 @@
       "row": 5,
       "col": 6,
       "length": 3,
-      "clue": "Demir korozyonu",
+      "clue": "Demir korozyonu karşılığı olarak kullanılan kelime",
       "answer": "PAS"
     },
     {
@@ -208,7 +208,7 @@
       "row": 6,
       "col": 0,
       "length": 6,
-      "clue": "Sevgi, acıma",
+      "clue": "Bulmacada Sevgi ya da acıma karşılığını veren yanıt",
       "answer": "ŞEFKAT"
     },
     {
@@ -217,7 +217,7 @@
       "row": 6,
       "col": 2,
       "length": 5,
-      "clue": "Ayrılık",
+      "clue": "Ayrılık anlamına gelen sözcük",
       "answer": "FIRAK"
     },
     {
@@ -226,7 +226,7 @@
       "row": 9,
       "col": 1,
       "length": 5,
-      "clue": "Hoş, ince",
+      "clue": "Hoş ya da ince için kullanılan yaygın ifade",
       "answer": "LATİF"
     }
   ]

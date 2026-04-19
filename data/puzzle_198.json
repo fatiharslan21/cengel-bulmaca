@@ -145,7 +145,7 @@
       "row": 0,
       "col": 2,
       "length": 6,
-      "clue": "Yer sarsıntısı",
+      "clue": "Bulmacada Yer sarsıntısı karşılığını veren yanıt",
       "answer": "DEPREM"
     },
     {
@@ -154,7 +154,7 @@
       "row": 1,
       "col": 1,
       "length": 5,
-      "clue": "Bilme isteği",
+      "clue": "Bilme isteği için kullanılan yaygın ifade",
       "answer": "MERAK"
     },
     {
@@ -163,7 +163,7 @@
       "row": 1,
       "col": 5,
       "length": 4,
-      "clue": "Ev bedeli",
+      "clue": "Bulmacada Ev bedeli karşılığını veren yanıt",
       "answer": "KIRA"
     },
     {
@@ -172,7 +172,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "Türk parası",
+      "clue": "Günlük dilde Türk parası olarak bilinen kavram",
       "answer": "LİRA"
     },
     {
@@ -181,7 +181,7 @@
       "row": 3,
       "col": 8,
       "length": 3,
-      "clue": "Yüce, büyük",
+      "clue": "Yüce ya da büyük anlamına gelen sözcük",
       "answer": "ULU"
     },
     {
@@ -190,7 +190,7 @@
       "row": 4,
       "col": 4,
       "length": 5,
-      "clue": "Hayal ürünü hikaye",
+      "clue": "Hayal ürünü hikaye karşılığı olarak kullanılan kelime",
       "answer": "MASAL"
     },
     {
@@ -199,7 +199,7 @@
       "row": 4,
       "col": 6,
       "length": 4,
-      "clue": "Zaman ölçer",
+      "clue": "Bulmacada Zaman ölçer karşılığını veren yanıt",
       "answer": "SAAT"
     },
     {
@@ -208,7 +208,7 @@
       "row": 6,
       "col": 4,
       "length": 3,
-      "clue": "Ev bölümü",
+      "clue": "Bulmacada Ev bölümü karşılığını veren yanıt",
       "answer": "ODA"
     },
     {
@@ -217,7 +217,7 @@
       "row": 7,
       "col": 6,
       "length": 3,
-      "clue": "Cilt, deri",
+      "clue": "Cilt ya da deri karşılığı olarak kullanılan kelime",
       "answer": "TEN"
     },
     {
@@ -226,7 +226,7 @@
       "row": 7,
       "col": 7,
       "length": 5,
-      "clue": "Temel buğday gıdası",
+      "clue": "Temel buğday gıdası anlamına gelen sözcük",
       "answer": "EKMEK"
     }
   ]

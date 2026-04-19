@@ -145,7 +145,7 @@
       "row": 0,
       "col": 5,
       "length": 4,
-      "clue": "Miyavlayan evcil",
+      "clue": "Miyavlayan evcil anlamına gelen sözcük",
       "answer": "KEDİ"
     },
     {
@@ -154,7 +154,7 @@
       "row": 0,
       "col": 7,
       "length": 5,
-      "clue": "Ani vuruş",
+      "clue": "Ani vuruş anlamına gelen sözcük",
       "answer": "DARBE"
     },
     {
@@ -163,7 +163,7 @@
       "row": 0,
       "col": 7,
       "length": 3,
-      "clue": "Buz tutma",
+      "clue": "Günlük dilde Buz tutma olarak bilinen kavram",
       "answer": "DON"
     },
     {
@@ -172,7 +172,7 @@
       "row": 1,
       "col": 0,
       "length": 6,
-      "clue": "Boşuna, yararsız",
+      "clue": "Boşuna ya da yararsız için kullanılan yaygın ifade",
       "answer": "NAFİLE"
     },
     {
@@ -181,7 +181,7 @@
       "row": 2,
       "col": 5,
       "length": 4,
-      "clue": "Üçten sonra gelen",
+      "clue": "Üçten sonra gelen için kullanılan yaygın ifade",
       "answer": "DÖRT"
     },
     {
@@ -190,7 +190,7 @@
       "row": 3,
       "col": 2,
       "length": 4,
-      "clue": "Geçmiş zaman",
+      "clue": "Geçmiş zaman karşılığı olarak kullanılan kelime",
       "answer": "MAZİ"
     },
     {
@@ -199,7 +199,7 @@
       "row": 3,
       "col": 4,
       "length": 6,
-      "clue": "Güçlük, eziyet",
+      "clue": "Güçlük ya da eziyet anlamına gelen sözcük",
       "answer": "ZAHMET"
     },
     {
@@ -208,7 +208,7 @@
       "row": 5,
       "col": 4,
       "length": 3,
-      "clue": "Güzel, tatlı",
+      "clue": "Güzel ya da tatlı karşılığı olarak kullanılan kelime",
       "answer": "HOŞ"
     },
     {
@@ -217,7 +217,7 @@
       "row": 8,
       "col": 4,
       "length": 6,
-      "clue": "Beğenme, övme",
+      "clue": "Günlük dilde Beğenme ya da övme olarak bilinen kavram",
       "answer": "TAKDİR"
     },
     {
@@ -226,7 +226,7 @@
       "row": 8,
       "col": 6,
       "length": 3,
-      "clue": "Ateş közü",
+      "clue": "Günlük dilde Ateş közü olarak bilinen kavram",
       "answer": "KOR"
     }
   ]

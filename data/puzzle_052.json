@@ -103,7 +103,7 @@
       "row": 0,
       "col": 0,
       "length": 3,
-      "clue": "Sağın karşıtı",
+      "clue": "Günlük dilde Sağın karşıtı olarak bilinen kavram",
       "answer": "SOL"
     },
     {
@@ -112,7 +112,7 @@
       "row": 0,
       "col": 4,
       "length": 4,
-      "clue": "Kalın olmayan",
+      "clue": "Kalın olmayan anlamına gelen sözcük",
       "answer": "İNCE"
     },
     {
@@ -121,7 +121,7 @@
       "row": 1,
       "col": 0,
       "length": 5,
-      "clue": "Vücut bölümü",
+      "clue": "Vücut bölümü karşılığı olarak kullanılan kelime",
       "answer": "ORGAN"
     },
     {
@@ -130,7 +130,7 @@
       "row": 3,
       "col": 3,
       "length": 5,
-      "clue": "Yenilebilen bitki",
+      "clue": "Yenilebilen bitki için kullanılan yaygın ifade",
       "answer": "SEBZE"
     },
     {
@@ -139,7 +139,7 @@
       "row": 3,
       "col": 5,
       "length": 3,
-      "clue": "Arı ürünü tatlı",
+      "clue": "Arı ürünü tatlı için kullanılan yaygın ifade",
       "answer": "BAL"
     },
     {
@@ -148,7 +148,7 @@
       "row": 3,
       "col": 7,
       "length": 5,
-      "clue": "Temel buğday gıdası",
+      "clue": "Temel buğday gıdası anlamına gelen sözcük",
       "answer": "EKMEK"
     },
     {
@@ -157,7 +157,7 @@
       "row": 5,
       "col": 3,
       "length": 3,
-      "clue": "Güzergah, patika",
+      "clue": "Bulmacada Güzergah ya da patika karşılığını veren yanıt",
       "answer": "YOL"
     },
     {
@@ -166,7 +166,7 @@
       "row": 5,
       "col": 3,
       "length": 4,
-      "clue": "Doku hasarı",
+      "clue": "Doku hasarı anlamına gelen sözcük",
       "answer": "YARA"
     },
     {
@@ -175,7 +175,7 @@
       "row": 8,
       "col": 3,
       "length": 4,
-      "clue": "Ateşin parlak kısmı",
+      "clue": "Ateşin parlak kısmı karşılığı olarak kullanılan kelime",
       "answer": "ALEV"
     }
   ]

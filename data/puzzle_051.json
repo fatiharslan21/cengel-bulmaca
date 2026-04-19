@@ -112,7 +112,7 @@
       "row": 0,
       "col": 7,
       "length": 5,
-      "clue": "Evin yeşil alanı",
+      "clue": "Evin yeşil alanı anlamına gelen sözcük",
       "answer": "BAHÇE"
     },
     {
@@ -121,7 +121,7 @@
       "row": 1,
       "col": 6,
       "length": 3,
-      "clue": "Kırmızı taneli meyve",
+      "clue": "Kırmızı taneli meyve karşılığı olarak kullanılan kelime",
       "answer": "NAR"
     },
     {
@@ -130,7 +130,7 @@
       "row": 4,
       "col": 4,
       "length": 5,
-      "clue": "İple oynatılan",
+      "clue": "İple oynatılan karşılığı olarak kullanılan kelime",
       "answer": "KUKLA"
     },
     {
@@ -139,7 +139,7 @@
       "row": 4,
       "col": 6,
       "length": 3,
-      "clue": "Yaklaşma eylemi",
+      "clue": "Yaklaşma eylemi karşılığı olarak kullanılan kelime",
       "answer": "GEL"
     },
     {
@@ -148,7 +148,7 @@
       "row": 4,
       "col": 6,
       "length": 3,
-      "clue": "24 saatlik süre",
+      "clue": "24 saatlik süre karşılığı olarak kullanılan kelime",
       "answer": "GÜN"
     },
     {
@@ -157,7 +157,7 @@
       "row": 5,
       "col": 0,
       "length": 3,
-      "clue": "Ömür süresi",
+      "clue": "Ömür süresi anlamına gelen sözcük",
       "answer": "YAŞ"
     },
     {
@@ -166,7 +166,7 @@
       "row": 5,
       "col": 2,
       "length": 3,
-      "clue": "Lider, baş aşçı",
+      "clue": "Günlük dilde Lider ya da baş aşçı olarak bilinen kavram",
       "answer": "ŞEF"
     },
     {
@@ -175,7 +175,7 @@
       "row": 6,
       "col": 2,
       "length": 5,
-      "clue": "Vaktinden önce",
+      "clue": "Vaktinden önce karşılığı olarak kullanılan kelime",
       "answer": "ERKEN"
     },
     {
@@ -184,7 +184,7 @@
       "row": 8,
       "col": 3,
       "length": 3,
-      "clue": "Ün, şöhret",
+      "clue": "Günlük dilde Ün ya da şöhret olarak bilinen kavram",
       "answer": "ŞAN"
     }
   ]

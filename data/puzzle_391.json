@@ -134,7 +134,7 @@
       "row": 0,
       "col": 0,
       "length": 4,
-      "clue": "Çaba, gayret",
+      "clue": "Bulmacada Çaba ya da gayret karşılığını veren yanıt",
       "answer": "CEHD"
     },
     {
@@ -143,7 +143,7 @@
       "row": 0,
       "col": 1,
       "length": 4,
-      "clue": "Başlangıcı olmayan",
+      "clue": "Başlangıcı olmayan için kullanılan yaygın ifade",
       "answer": "EZEL"
     },
     {
@@ -152,7 +152,7 @@
       "row": 1,
       "col": 8,
       "length": 4,
-      "clue": "Yük hayvanı",
+      "clue": "Yük hayvanı için kullanılan yaygın ifade",
       "answer": "EŞEK"
     },
     {
@@ -161,7 +161,7 @@
       "row": 2,
       "col": 0,
       "length": 7,
-      "clue": "Üzülme",
+      "clue": "Üzülme anlamına gelen sözcük",
       "answer": "TEESSÜR"
     },
     {
@@ -170,7 +170,7 @@
       "row": 2,
       "col": 6,
       "length": 5,
-      "clue": "Bolluk, huzur",
+      "clue": "Bolluk ya da huzur için kullanılan yaygın ifade",
       "answer": "REFAH"
     },
     {
@@ -179,7 +179,7 @@
       "row": 4,
       "col": 4,
       "length": 5,
-      "clue": "Gün ağarması",
+      "clue": "Gün ağarması anlamına gelen sözcük",
       "answer": "ŞAFAK"
     },
     {
@@ -188,7 +188,7 @@
       "row": 5,
       "col": 3,
       "length": 5,
-      "clue": "Suda yaşayan canlı",
+      "clue": "Suda yaşayan canlı karşılığı olarak kullanılan kelime",
       "answer": "BALIK"
     },
     {
@@ -197,7 +197,7 @@
       "row": 6,
       "col": 2,
       "length": 5,
-      "clue": "Şans, baht",
+      "clue": "Bulmacada Şans ya da baht karşılığını veren yanıt",
       "answer": "TALİH"
     },
     {
@@ -206,7 +206,7 @@
       "row": 8,
       "col": 1,
       "length": 3,
-      "clue": "Sunma, takdim",
+      "clue": "Sunma ya da takdim anlamına gelen sözcük",
       "answer": "ARZ"
     },
     {
@@ -215,7 +215,7 @@
       "row": 9,
       "col": 1,
       "length": 5,
-      "clue": "Hasım, muhalif",
+      "clue": "Hasım ya da muhalif için kullanılan yaygın ifade",
       "answer": "RAKİP"
     }
   ]

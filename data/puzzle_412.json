@@ -156,7 +156,7 @@
       "row": 0,
       "col": 4,
       "length": 7,
-      "clue": "Bağlılık, vefa",
+      "clue": "Bağlılık ya da vefa için kullanılan yaygın ifade",
       "answer": "SADAKAT"
     },
     {
@@ -165,7 +165,7 @@
       "row": 0,
       "col": 5,
       "length": 5,
-      "clue": "Konum bilgisi",
+      "clue": "Günlük dilde Konum bilgisi olarak bilinen kavram",
       "answer": "ADRES"
     },
     {
@@ -174,7 +174,7 @@
       "row": 0,
       "col": 10,
       "length": 7,
-      "clue": "Avunma, avuntu",
+      "clue": "Bulmacada Avunma ya da avuntu karşılığını veren yanıt",
       "answer": "TESELLİ"
     },
     {
@@ -183,7 +183,7 @@
       "row": 2,
       "col": 3,
       "length": 4,
-      "clue": "Çözüm yolu",
+      "clue": "Çözüm yolu anlamına gelen sözcük",
       "answer": "ÇARE"
     },
     {
@@ -192,7 +192,7 @@
       "row": 4,
       "col": 1,
       "length": 4,
-      "clue": "Müzik işareti",
+      "clue": "Müzik işareti için kullanılan yaygın ifade",
       "answer": "NOTA"
     },
     {
@@ -201,7 +201,7 @@
       "row": 4,
       "col": 3,
       "length": 4,
-      "clue": "Kızarmış sandviç",
+      "clue": "Kızarmış sandviç anlamına gelen sözcük",
       "answer": "TOST"
     },
     {
@@ -210,7 +210,7 @@
       "row": 4,
       "col": 3,
       "length": 5,
-      "clue": "Yemek kabı",
+      "clue": "Yemek kabı anlamına gelen sözcük",
       "answer": "TABAK"
     },
     {
@@ -219,7 +219,7 @@
       "row": 5,
       "col": 0,
       "length": 4,
-      "clue": "Kısa dinlenme",
+      "clue": "Günlük dilde Kısa dinlenme olarak bilinen kavram",
       "answer": "MOLA"
     },
     {
@@ -228,7 +228,7 @@
       "row": 6,
       "col": 5,
       "length": 5,
-      "clue": "Suda yaşayan canlı",
+      "clue": "Suda yaşayan canlı karşılığı olarak kullanılan kelime",
       "answer": "BALIK"
     },
     {
@@ -237,7 +237,7 @@
       "row": 7,
       "col": 3,
       "length": 4,
-      "clue": "Bacak ucu",
+      "clue": "Günlük dilde Bacak ucu olarak bilinen kavram",
       "answer": "AYAK"
     }
   ]

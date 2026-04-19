@@ -103,7 +103,7 @@
       "row": 0,
       "col": 3,
       "length": 5,
-      "clue": "Evin yeşil alanı",
+      "clue": "Evin yeşil alanı anlamına gelen sözcük",
       "answer": "BAHÇE"
     },
     {
@@ -112,7 +112,7 @@
       "row": 1,
       "col": 2,
       "length": 4,
-      "clue": "Zaman ölçer",
+      "clue": "Bulmacada Zaman ölçer karşılığını veren yanıt",
       "answer": "SAAT"
     },
     {
@@ -121,7 +121,7 @@
       "row": 4,
       "col": 2,
       "length": 3,
-      "clue": "Giyside küçük kese",
+      "clue": "Giyside küçük kese karşılığı olarak kullanılan kelime",
       "answer": "CEP"
     },
     {
@@ -130,7 +130,7 @@
       "row": 4,
       "col": 4,
       "length": 5,
-      "clue": "Uçak kullanan",
+      "clue": "Bulmacada Uçak kullanan karşılığını veren yanıt",
       "answer": "PİLOT"
     },
     {
@@ -139,7 +139,7 @@
       "row": 6,
       "col": 2,
       "length": 5,
-      "clue": "Suda yaşayan canlı",
+      "clue": "Suda yaşayan canlı karşılığı olarak kullanılan kelime",
       "answer": "BALIK"
     },
     {
@@ -148,7 +148,7 @@
       "row": 6,
       "col": 2,
       "length": 4,
-      "clue": "Felaket, kötülük",
+      "clue": "Günlük dilde Felaket ya da kötülük olarak bilinen kavram",
       "answer": "BELA"
     },
     {
@@ -157,7 +157,7 @@
       "row": 6,
       "col": 6,
       "length": 3,
-      "clue": "Damar sıvısı",
+      "clue": "Bulmacada Damar sıvısı karşılığını veren yanıt",
       "answer": "KAN"
     },
     {
@@ -166,7 +166,7 @@
       "row": 8,
       "col": 0,
       "length": 3,
-      "clue": "Karalarla çevrili su",
+      "clue": "Bulmacada Karalarla çevrili su karşılığını veren yanıt",
       "answer": "GÖL"
     },
     {
@@ -175,7 +175,7 @@
       "row": 8,
       "col": 4,
       "length": 3,
-      "clue": "Cilt, deri",
+      "clue": "Cilt ya da deri karşılığı olarak kullanılan kelime",
       "answer": "TEN"
     }
   ]

@@ -125,7 +125,7 @@
       "row": 0,
       "col": 4,
       "length": 4,
-      "clue": "Ayrılırken selam",
+      "clue": "Ayrılırken selam için kullanılan yaygın ifade",
       "answer": "VEDA"
     },
     {
@@ -134,7 +134,7 @@
       "row": 1,
       "col": 0,
       "length": 6,
-      "clue": "Kıyamet yeri",
+      "clue": "Kıyamet yeri için kullanılan yaygın ifade",
       "answer": "MAHŞER"
     },
     {
@@ -143,7 +143,7 @@
       "row": 1,
       "col": 1,
       "length": 4,
-      "clue": "Yürüyüş mesafesi",
+      "clue": "Günlük dilde Yürüyüş mesafesi olarak bilinen kavram",
       "answer": "ADIM"
     },
     {
@@ -152,7 +152,7 @@
       "row": 3,
       "col": 3,
       "length": 4,
-      "clue": "Uyan, bağlı",
+      "clue": "Uyan ya da bağlı karşılığı olarak kullanılan kelime",
       "answer": "TABİ"
     },
     {
@@ -161,7 +161,7 @@
       "row": 3,
       "col": 6,
       "length": 5,
-      "clue": "Anlayış",
+      "clue": "Günlük dilde Anlayış olarak bilinen kavram",
       "answer": "İDRAK"
     },
     {
@@ -170,7 +170,7 @@
       "row": 3,
       "col": 9,
       "length": 4,
-      "clue": "Altın rengi",
+      "clue": "Altın rengi için kullanılan yaygın ifade",
       "answer": "SARI"
     },
     {
@@ -179,7 +179,7 @@
       "row": 4,
       "col": 8,
       "length": 4,
-      "clue": "Ayrım, değişiklik",
+      "clue": "Ayrım ya da değişiklik anlamına gelen sözcük",
       "answer": "FARK"
     },
     {
@@ -188,7 +188,7 @@
       "row": 4,
       "col": 11,
       "length": 3,
-      "clue": "Yanık kalıntısı",
+      "clue": "Yanık kalıntısı için kullanılan yaygın ifade",
       "answer": "KÜL"
     },
     {
@@ -197,7 +197,7 @@
       "row": 5,
       "col": 4,
       "length": 3,
-      "clue": "Mekan, konum",
+      "clue": "Günlük dilde Mekan ya da konum olarak bilinen kavram",
       "answer": "YER"
     },
     {
@@ -206,7 +206,7 @@
       "row": 6,
       "col": 6,
       "length": 4,
-      "clue": "Yemek pişiren",
+      "clue": "Yemek pişiren karşılığı olarak kullanılan kelime",
       "answer": "AŞÇI"
     }
   ]

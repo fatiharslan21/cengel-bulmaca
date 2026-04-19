@@ -121,7 +121,7 @@
       "row": 0,
       "col": 4,
       "length": 3,
-      "clue": "Çeşit, tür",
+      "clue": "Aynı özellikleri taşıyan canlı grubu",
       "answer": "TÜR"
     },
     {
@@ -130,7 +130,7 @@
       "row": 0,
       "col": 7,
       "length": 5,
-      "clue": "Eşsiz güzellik",
+      "clue": "Eşsiz güzellik karşılığı olarak kullanılan kelime",
       "answer": "BEDİA"
     },
     {
@@ -139,7 +139,7 @@
       "row": 1,
       "col": 3,
       "length": 5,
-      "clue": "İyi haber",
+      "clue": "İyi haber anlamına gelen sözcük",
       "answer": "MÜJDE"
     },
     {
@@ -148,7 +148,7 @@
       "row": 3,
       "col": 5,
       "length": 4,
-      "clue": "Işık, aydınlık",
+      "clue": "Günlük dilde Işık ya da aydınlık olarak bilinen kavram",
       "answer": "ZİYA"
     },
     {
@@ -157,7 +157,7 @@
       "row": 4,
       "col": 2,
       "length": 5,
-      "clue": "İyilik, bağış",
+      "clue": "Günlük dilde İyilik ya da bağış olarak bilinen kavram",
       "answer": "LÜTUF"
     },
     {
@@ -166,7 +166,7 @@
       "row": 4,
       "col": 4,
       "length": 5,
-      "clue": "Feryat, ağlama",
+      "clue": "Günlük dilde Feryat ya da ağlama olarak bilinen kavram",
       "answer": "FİGAN"
     },
     {
@@ -175,7 +175,7 @@
       "row": 4,
       "col": 8,
       "length": 5,
-      "clue": "Yakarma",
+      "clue": "Günlük dilde Yakarma olarak bilinen kavram",
       "answer": "NİYAZ"
     },
     {
@@ -184,7 +184,7 @@
       "row": 6,
       "col": 2,
       "length": 5,
-      "clue": "Heyecan, kaygı",
+      "clue": "Günlük dilde Heyecan ya da kaygı olarak bilinen kavram",
       "answer": "TELAŞ"
     },
     {
@@ -193,7 +193,7 @@
       "row": 7,
       "col": 7,
       "length": 3,
-      "clue": "Göz üstü kıl şeridi",
+      "clue": "Göz üstü kıl şeridi anlamına gelen sözcük",
       "answer": "KAŞ"
     },
     {
@@ -202,7 +202,7 @@
       "row": 8,
       "col": 0,
       "length": 5,
-      "clue": "Soluk alma verme",
+      "clue": "Günlük dilde Soluk alma verme olarak bilinen kavram",
       "answer": "NEFES"
     }
   ]

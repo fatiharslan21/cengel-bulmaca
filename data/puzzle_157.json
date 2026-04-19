@@ -153,7 +153,7 @@
       "row": 0,
       "col": 8,
       "length": 6,
-      "clue": "Gökten su damlaları",
+      "clue": "Gökten su damlaları için kullanılan yaygın ifade",
       "answer": "YAĞMUR"
     },
     {
@@ -162,7 +162,7 @@
       "row": 1,
       "col": 7,
       "length": 5,
-      "clue": "Yazı aleti",
+      "clue": "Günlük dilde Yazı aleti olarak bilinen kavram",
       "answer": "KALEM"
     },
     {
@@ -171,7 +171,7 @@
       "row": 1,
       "col": 10,
       "length": 4,
-      "clue": "Buyruk, komut",
+      "clue": "Günlük dilde Buyruk ya da komut olarak bilinen kavram",
       "answer": "EMİR"
     },
     {
@@ -180,7 +180,7 @@
       "row": 4,
       "col": 5,
       "length": 4,
-      "clue": "Burnun algısı",
+      "clue": "Günlük dilde Burnun algısı olarak bilinen kavram",
       "answer": "KOKU"
     },
     {
@@ -189,7 +189,7 @@
       "row": 4,
       "col": 5,
       "length": 4,
-      "clue": "Yüzeylerin birleşimi",
+      "clue": "Günlük dilde Yüzeylerin birleşimi olarak bilinen kavram",
       "answer": "KÖŞE"
     },
     {
@@ -198,7 +198,7 @@
       "row": 6,
       "col": 1,
       "length": 4,
-      "clue": "Çiçek süs kabı",
+      "clue": "Bulmacada Çiçek süs kabı karşılığını veren yanıt",
       "answer": "VAZO"
     },
     {
@@ -207,7 +207,7 @@
       "row": 6,
       "col": 3,
       "length": 3,
-      "clue": "Harici, dış yüzey",
+      "clue": "Günlük dilde Harici ya da dış yüzey olarak bilinen kavram",
       "answer": "DIŞ"
     },
     {
@@ -216,7 +216,7 @@
       "row": 6,
       "col": 3,
       "length": 3,
-      "clue": "Ağacın kolu",
+      "clue": "Bulmacada Ağacın kolu karşılığını veren yanıt",
       "answer": "DAL"
     },
     {
@@ -225,7 +225,7 @@
       "row": 7,
       "col": 1,
       "length": 3,
-      "clue": "Benekli, alacalı",
+      "clue": "Tek renk olmayan, benekli görünüm",
       "answer": "ALA"
     },
     {
@@ -234,7 +234,7 @@
       "row": 9,
       "col": 0,
       "length": 3,
-      "clue": "Sağın karşıtı",
+      "clue": "Günlük dilde Sağın karşıtı olarak bilinen kavram",
       "answer": "SOL"
     }
   ]

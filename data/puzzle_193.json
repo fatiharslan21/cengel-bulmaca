@@ -181,7 +181,7 @@
       "row": 0,
       "col": 8,
       "length": 4,
-      "clue": "Ev bedeli",
+      "clue": "Bulmacada Ev bedeli karşılığını veren yanıt",
       "answer": "KIRA"
     },
     {
@@ -190,7 +190,7 @@
       "row": 0,
       "col": 8,
       "length": 4,
-      "clue": "Miyavlayan evcil",
+      "clue": "Miyavlayan evcil anlamına gelen sözcük",
       "answer": "KEDİ"
     },
     {
@@ -199,7 +199,7 @@
       "row": 3,
       "col": 7,
       "length": 6,
-      "clue": "İçecek kabı",
+      "clue": "İçecek kabı anlamına gelen sözcük",
       "answer": "BARDAK"
     },
     {
@@ -208,7 +208,7 @@
       "row": 3,
       "col": 7,
       "length": 3,
-      "clue": "Asit karşıtı",
+      "clue": "Asit karşıtı için kullanılan yaygın ifade",
       "answer": "BAZ"
     },
     {
@@ -217,7 +217,7 @@
       "row": 5,
       "col": 5,
       "length": 4,
-      "clue": "İlerinin zıttı",
+      "clue": "Günlük dilde İlerinin zıttı olarak bilinen kavram",
       "answer": "GERİ"
     },
     {
@@ -226,7 +226,7 @@
       "row": 6,
       "col": 0,
       "length": 5,
-      "clue": "Tuzlu büyük su",
+      "clue": "Tuzlu büyük su karşılığı olarak kullanılan kelime",
       "answer": "DENİZ"
     },
     {
@@ -235,7 +235,7 @@
       "row": 6,
       "col": 4,
       "length": 4,
-      "clue": "Anlama yeteneği",
+      "clue": "Anlama yeteneği için kullanılan yaygın ifade",
       "answer": "ZEKA"
     },
     {
@@ -244,7 +244,7 @@
       "row": 7,
       "col": 4,
       "length": 5,
-      "clue": "En sert taş",
+      "clue": "En sert taş karşılığı olarak kullanılan kelime",
       "answer": "ELMAS"
     },
     {
@@ -253,7 +253,7 @@
       "row": 9,
       "col": 3,
       "length": 3,
-      "clue": "Çizgi, yol",
+      "clue": "Çizgi ya da yol anlamına gelen sözcük",
       "answer": "HAT"
     },
     {
@@ -262,7 +262,7 @@
       "row": 9,
       "col": 5,
       "length": 3,
-      "clue": "Cilt, deri",
+      "clue": "Cilt ya da deri karşılığı olarak kullanılan kelime",
       "answer": "TEN"
     }
   ]

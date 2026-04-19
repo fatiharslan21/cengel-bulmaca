@@ -145,7 +145,7 @@
       "row": 0,
       "col": 5,
       "length": 6,
-      "clue": "Ün, nam",
+      "clue": "Ün ya da nam anlamına gelen sözcük",
       "answer": "ŞÖHRET"
     },
     {
@@ -163,7 +163,7 @@
       "row": 3,
       "col": 3,
       "length": 5,
-      "clue": "Ekin alanı",
+      "clue": "Ekin alanı anlamına gelen sözcük",
       "answer": "TARLA"
     },
     {
@@ -172,7 +172,7 @@
       "row": 5,
       "col": 2,
       "length": 5,
-      "clue": "İnce söz, espri",
+      "clue": "Bulmacada İnce söz ya da espri karşılığını veren yanıt",
       "answer": "NÜKTE"
     },
     {
@@ -181,7 +181,7 @@
       "row": 5,
       "col": 4,
       "length": 6,
-      "clue": "Yetinme, razı olma",
+      "clue": "Günlük dilde Yetinme ya da razı olma olarak bilinen kavram",
       "answer": "KANAAT"
     },
     {
@@ -190,7 +190,7 @@
       "row": 5,
       "col": 6,
       "length": 4,
-      "clue": "Karşılık, sevap",
+      "clue": "Bulmacada Karşılık ya da sevap karşılığını veren yanıt",
       "answer": "ECİR"
     },
     {
@@ -199,7 +199,7 @@
       "row": 5,
       "col": 8,
       "length": 4,
-      "clue": "Karanlık zaman",
+      "clue": "Karanlık zaman anlamına gelen sözcük",
       "answer": "GECE"
     },
     {
@@ -208,7 +208,7 @@
       "row": 7,
       "col": 0,
       "length": 5,
-      "clue": "Gemi barınağı",
+      "clue": "Bulmacada Gemi barınağı karşılığını veren yanıt",
       "answer": "LİMAN"
     },
     {
@@ -217,7 +217,7 @@
       "row": 7,
       "col": 6,
       "length": 4,
-      "clue": "Kalın olmayan",
+      "clue": "Kalın olmayan anlamına gelen sözcük",
       "answer": "İNCE"
     },
     {
@@ -226,7 +226,7 @@
       "row": 9,
       "col": 1,
       "length": 5,
-      "clue": "Gün ağarması",
+      "clue": "Gün ağarması anlamına gelen sözcük",
       "answer": "ŞAFAK"
     }
   ]

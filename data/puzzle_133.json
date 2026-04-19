@@ -121,7 +121,7 @@
       "row": 0,
       "col": 3,
       "length": 3,
-      "clue": "Yön değiştir",
+      "clue": "Yön değiştir karşılığı olarak kullanılan kelime",
       "answer": "DÖN"
     },
     {
@@ -130,7 +130,7 @@
       "row": 0,
       "col": 3,
       "length": 3,
-      "clue": "Buz tutma",
+      "clue": "Günlük dilde Buz tutma olarak bilinen kavram",
       "answer": "DON"
     },
     {
@@ -139,7 +139,7 @@
       "row": 1,
       "col": 6,
       "length": 5,
-      "clue": "Deniz kıyısı",
+      "clue": "Bulmacada Deniz kıyısı karşılığını veren yanıt",
       "answer": "SAHİL"
     },
     {
@@ -148,7 +148,7 @@
       "row": 2,
       "col": 3,
       "length": 4,
-      "clue": "Müzik işareti",
+      "clue": "Müzik işareti için kullanılan yaygın ifade",
       "answer": "NOTA"
     },
     {
@@ -157,7 +157,7 @@
       "row": 3,
       "col": 9,
       "length": 3,
-      "clue": "Vücudun orta bölümü",
+      "clue": "Bulmacada Vücudun orta bölümü karşılığını veren yanıt",
       "answer": "BEL"
     },
     {
@@ -166,7 +166,7 @@
       "row": 4,
       "col": 2,
       "length": 4,
-      "clue": "Düz ince levha",
+      "clue": "Düz ince levha anlamına gelen sözcük",
       "answer": "KART"
     },
     {
@@ -175,7 +175,7 @@
       "row": 5,
       "col": 4,
       "length": 6,
-      "clue": "Güzel öten kuş",
+      "clue": "Güzel öten kuş için kullanılan yaygın ifade",
       "answer": "BÜLBÜL"
     },
     {
@@ -184,7 +184,7 @@
       "row": 5,
       "col": 4,
       "length": 3,
-      "clue": "Kafa, vücudun üstü",
+      "clue": "Kafa ya da vücudun üstü için kullanılan yaygın ifade",
       "answer": "BAŞ"
     },
     {
@@ -193,7 +193,7 @@
       "row": 5,
       "col": 7,
       "length": 4,
-      "clue": "Sıvı geçen tüp",
+      "clue": "Günlük dilde Sıvı geçen tüp olarak bilinen kavram",
       "answer": "BORU"
     },
     {
@@ -202,7 +202,7 @@
       "row": 6,
       "col": 0,
       "length": 5,
-      "clue": "Ekin alanı",
+      "clue": "Ekin alanı anlamına gelen sözcük",
       "answer": "TARLA"
     }
   ]

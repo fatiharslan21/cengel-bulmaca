@@ -153,7 +153,7 @@
       "row": 0,
       "col": 5,
       "length": 4,
-      "clue": "Su kabı",
+      "clue": "Günlük dilde Su kabı olarak bilinen kavram",
       "answer": "KOVA"
     },
     {
@@ -162,7 +162,7 @@
       "row": 2,
       "col": 7,
       "length": 5,
-      "clue": "Sürdürme",
+      "clue": "Sürdürme karşılığı olarak kullanılan kelime",
       "answer": "DEVAM"
     },
     {
@@ -171,7 +171,7 @@
       "row": 3,
       "col": 4,
       "length": 4,
-      "clue": "Bayat olmayan",
+      "clue": "Bulmacada Bayat olmayan karşılığını veren yanıt",
       "answer": "TAZE"
     },
     {
@@ -180,7 +180,7 @@
       "row": 5,
       "col": 1,
       "length": 3,
-      "clue": "Su ile yıkanma",
+      "clue": "Bulmacada Su ile yıkanma karşılığını veren yanıt",
       "answer": "DUŞ"
     },
     {
@@ -189,7 +189,7 @@
       "row": 5,
       "col": 4,
       "length": 4,
-      "clue": "Bitki yapısı",
+      "clue": "Günlük dilde Bitki yapısı olarak bilinen kavram",
       "answer": "SERA"
     },
     {
@@ -198,7 +198,7 @@
       "row": 5,
       "col": 4,
       "length": 5,
-      "clue": "Katlanma, dayanma",
+      "clue": "Bulmacada Katlanma ya da dayanma karşılığını veren yanıt",
       "answer": "SABIR"
     },
     {
@@ -207,7 +207,7 @@
       "row": 6,
       "col": 0,
       "length": 5,
-      "clue": "İple oynatılan",
+      "clue": "İple oynatılan karşılığı olarak kullanılan kelime",
       "answer": "KUKLA"
     },
     {
@@ -216,7 +216,7 @@
       "row": 6,
       "col": 7,
       "length": 5,
-      "clue": "Hayal ürünü hikaye",
+      "clue": "Hayal ürünü hikaye karşılığı olarak kullanılan kelime",
       "answer": "MASAL"
     },
     {
@@ -225,7 +225,7 @@
       "row": 6,
       "col": 8,
       "length": 3,
-      "clue": "Yakışıklı, gösterişli",
+      "clue": "Yakışıklı ya da gösterişli anlamına gelen sözcük",
       "answer": "AFİ"
     },
     {
@@ -234,7 +234,7 @@
       "row": 7,
       "col": 4,
       "length": 3,
-      "clue": "Dokuma kumaş parçası",
+      "clue": "Bulmacada Dokuma kumaş parçası karşılığını veren yanıt",
       "answer": "BEZ"
     }
   ]

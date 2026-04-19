@@ -145,7 +145,7 @@
       "row": 0,
       "col": 1,
       "length": 3,
-      "clue": "Ağacın kolu",
+      "clue": "Bulmacada Ağacın kolu karşılığını veren yanıt",
       "answer": "DAL"
     },
     {
@@ -154,7 +154,7 @@
       "row": 0,
       "col": 3,
       "length": 4,
-      "clue": "Çukur yemek kabı",
+      "clue": "Çukur yemek kabı anlamına gelen sözcük",
       "answer": "KASE"
     },
     {
@@ -163,7 +163,7 @@
       "row": 0,
       "col": 3,
       "length": 4,
-      "clue": "Su kabı",
+      "clue": "Günlük dilde Su kabı olarak bilinen kavram",
       "answer": "KOVA"
     },
     {
@@ -172,7 +172,7 @@
       "row": 1,
       "col": 0,
       "length": 4,
-      "clue": "Utanma duygusu",
+      "clue": "Utanma duygusu anlamına gelen sözcük",
       "answer": "HAYA"
     },
     {
@@ -181,7 +181,7 @@
       "row": 2,
       "col": 6,
       "length": 4,
-      "clue": "Kötü, berbat",
+      "clue": "Kötü ya da berbat karşılığı olarak kullanılan kelime",
       "answer": "FENA"
     },
     {
@@ -190,7 +190,7 @@
       "row": 3,
       "col": 2,
       "length": 5,
-      "clue": "Küçük deniz taşıtı",
+      "clue": "Küçük deniz taşıtı anlamına gelen sözcük",
       "answer": "TEKNE"
     },
     {
@@ -199,7 +199,7 @@
       "row": 4,
       "col": 9,
       "length": 6,
-      "clue": "Yer sarsıntısı",
+      "clue": "Bulmacada Yer sarsıntısı karşılığını veren yanıt",
       "answer": "DEPREM"
     },
     {
@@ -208,7 +208,7 @@
       "row": 5,
       "col": 5,
       "length": 3,
-      "clue": "Ün, şöhret",
+      "clue": "Günlük dilde Ün ya da şöhret olarak bilinen kavram",
       "answer": "ŞAN"
     },
     {
@@ -217,7 +217,7 @@
       "row": 5,
       "col": 7,
       "length": 6,
-      "clue": "Boşuna, yararsız",
+      "clue": "Boşuna ya da yararsız için kullanılan yaygın ifade",
       "answer": "NAFİLE"
     },
     {
@@ -226,7 +226,7 @@
       "row": 9,
       "col": 5,
       "length": 5,
-      "clue": "Söz, laf",
+      "clue": "Söz ya da laf karşılığı olarak kullanılan kelime",
       "answer": "KELAM"
     }
   ]

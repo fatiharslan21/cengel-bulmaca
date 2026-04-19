@@ -109,7 +109,7 @@
       "row": 0,
       "col": 1,
       "length": 6,
-      "clue": "Konular listesi",
+      "clue": "Konular listesi için kullanılan yaygın ifade",
       "answer": "GÜNDEM"
     },
     {
@@ -118,7 +118,7 @@
       "row": 1,
       "col": 0,
       "length": 4,
-      "clue": "Zaman aralığı",
+      "clue": "Zaman aralığı için kullanılan yaygın ifade",
       "answer": "SÜRE"
     },
     {
@@ -127,7 +127,7 @@
       "row": 1,
       "col": 5,
       "length": 5,
-      "clue": "Yemek aracı",
+      "clue": "Günlük dilde Yemek aracı olarak bilinen kavram",
       "answer": "KAŞIK"
     },
     {
@@ -136,7 +136,7 @@
       "row": 1,
       "col": 7,
       "length": 3,
-      "clue": "İğne yapraklı ağaç",
+      "clue": "Bulmacada İğne yapraklı ağaç karşılığını veren yanıt",
       "answer": "ÇAM"
     },
     {
@@ -145,7 +145,7 @@
       "row": 2,
       "col": 5,
       "length": 3,
-      "clue": "Ced, büyükbaba",
+      "clue": "Günlük dilde Ced ya da büyükbaba olarak bilinen kavram",
       "answer": "ATA"
     },
     {
@@ -154,7 +154,7 @@
       "row": 3,
       "col": 3,
       "length": 3,
-      "clue": "Yüksek arazi şekli",
+      "clue": "Yüksek arazi şekli için kullanılan yaygın ifade",
       "answer": "DAĞ"
     },
     {
@@ -163,7 +163,7 @@
       "row": 3,
       "col": 3,
       "length": 3,
-      "clue": "Su ile yıkanma",
+      "clue": "Bulmacada Su ile yıkanma karşılığını veren yanıt",
       "answer": "DUŞ"
     },
     {
@@ -172,7 +172,7 @@
       "row": 4,
       "col": 0,
       "length": 4,
-      "clue": "Bitki yapısı",
+      "clue": "Günlük dilde Bitki yapısı olarak bilinen kavram",
       "answer": "SERA"
     },
     {
@@ -181,7 +181,7 @@
       "row": 4,
       "col": 9,
       "length": 4,
-      "clue": "Yakın olmayan",
+      "clue": "Yakın olmayan karşılığı olarak kullanılan kelime",
       "answer": "UZAK"
     },
     {
@@ -190,7 +190,7 @@
       "row": 5,
       "col": 5,
       "length": 5,
-      "clue": "Küçük kırmızı meyve",
+      "clue": "Günlük dilde Küçük kırmızı meyve olarak bilinen kavram",
       "answer": "KİRAZ"
     }
   ]

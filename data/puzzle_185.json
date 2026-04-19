@@ -121,7 +121,7 @@
       "row": 0,
       "col": 1,
       "length": 4,
-      "clue": "Otlak alan",
+      "clue": "Bulmacada Otlak alan karşılığını veren yanıt",
       "answer": "MERA"
     },
     {
@@ -130,7 +130,7 @@
       "row": 1,
       "col": 9,
       "length": 4,
-      "clue": "Ev, konut",
+      "clue": "Ev ya da konut karşılığı olarak kullanılan kelime",
       "answer": "HANE"
     },
     {
@@ -139,7 +139,7 @@
       "row": 3,
       "col": 0,
       "length": 3,
-      "clue": "Bitki gövdesi",
+      "clue": "Günlük dilde Bitki gövdesi olarak bilinen kavram",
       "answer": "SAP"
     },
     {
@@ -148,7 +148,7 @@
       "row": 3,
       "col": 2,
       "length": 3,
-      "clue": "Demir korozyonu",
+      "clue": "Demir korozyonu karşılığı olarak kullanılan kelime",
       "answer": "PAS"
     },
     {
@@ -157,7 +157,7 @@
       "row": 4,
       "col": 2,
       "length": 3,
-      "clue": "Üstün karşıtı",
+      "clue": "Bulmacada Üstün karşıtı karşılığını veren yanıt",
       "answer": "ALT"
     },
     {
@@ -166,7 +166,7 @@
       "row": 4,
       "col": 4,
       "length": 5,
-      "clue": "Küçük deniz taşıtı",
+      "clue": "Küçük deniz taşıtı anlamına gelen sözcük",
       "answer": "TEKNE"
     },
     {
@@ -175,7 +175,7 @@
       "row": 4,
       "col": 6,
       "length": 4,
-      "clue": "Bayat olmayan",
+      "clue": "Bulmacada Bayat olmayan karşılığını veren yanıt",
       "answer": "TAZE"
     },
     {
@@ -184,7 +184,7 @@
       "row": 4,
       "col": 7,
       "length": 4,
-      "clue": "Gövdeli bitki",
+      "clue": "Gövdeli bitki karşılığı olarak kullanılan kelime",
       "answer": "AĞAÇ"
     },
     {
@@ -193,7 +193,7 @@
       "row": 6,
       "col": 4,
       "length": 5,
-      "clue": "Küçük kırmızı meyve",
+      "clue": "Günlük dilde Küçük kırmızı meyve olarak bilinen kavram",
       "answer": "KİRAZ"
     },
     {
@@ -202,7 +202,7 @@
       "row": 8,
       "col": 3,
       "length": 4,
-      "clue": "Karanlık zaman",
+      "clue": "Karanlık zaman anlamına gelen sözcük",
       "answer": "GECE"
     }
   ]

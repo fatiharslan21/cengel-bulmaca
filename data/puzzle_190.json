@@ -94,7 +94,7 @@
       "row": 0,
       "col": 0,
       "length": 3,
-      "clue": "Can, maneviyat",
+      "clue": "Bulmacada Can ya da maneviyat karşılığını veren yanıt",
       "answer": "RUH"
     },
     {
@@ -103,7 +103,7 @@
       "row": 0,
       "col": 2,
       "length": 4,
-      "clue": "Ev, konut",
+      "clue": "Ev ya da konut karşılığı olarak kullanılan kelime",
       "answer": "HANE"
     },
     {
@@ -112,7 +112,7 @@
       "row": 0,
       "col": 5,
       "length": 3,
-      "clue": "Evin çatısı",
+      "clue": "Evin çatısı anlamına gelen sözcük",
       "answer": "DAM"
     },
     {
@@ -121,7 +121,7 @@
       "row": 2,
       "col": 0,
       "length": 6,
-      "clue": "Konular listesi",
+      "clue": "Konular listesi için kullanılan yaygın ifade",
       "answer": "GÜNDEM"
     },
     {
@@ -130,7 +130,7 @@
       "row": 2,
       "col": 0,
       "length": 4,
-      "clue": "İlerinin zıttı",
+      "clue": "Günlük dilde İlerinin zıttı olarak bilinen kavram",
       "answer": "GERİ"
     },
     {
@@ -139,7 +139,7 @@
       "row": 2,
       "col": 4,
       "length": 4,
-      "clue": "Sanat yapıtı",
+      "clue": "Bulmacada Sanat yapıtı karşılığını veren yanıt",
       "answer": "ESER"
     },
     {
@@ -148,7 +148,7 @@
       "row": 3,
       "col": 6,
       "length": 3,
-      "clue": "Dev kara hayvanı",
+      "clue": "Dev kara hayvanı karşılığı olarak kullanılan kelime",
       "answer": "FİL"
     },
     {
@@ -157,7 +157,7 @@
       "row": 5,
       "col": 2,
       "length": 5,
-      "clue": "Uyulması gereken",
+      "clue": "Uyulması gereken için kullanılan yaygın ifade",
       "answer": "KURAL"
     },
     {
@@ -166,7 +166,7 @@
       "row": 5,
       "col": 3,
       "length": 4,
-      "clue": "Havada uçan taşıt",
+      "clue": "Havada uçan taşıt karşılığı olarak kullanılan kelime",
       "answer": "UÇAK"
     },
     {
@@ -175,7 +175,7 @@
       "row": 8,
       "col": 3,
       "length": 4,
-      "clue": "Yüzeylerin birleşimi",
+      "clue": "Günlük dilde Yüzeylerin birleşimi olarak bilinen kavram",
       "answer": "KÖŞE"
     }
   ]

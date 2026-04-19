@@ -157,7 +157,7 @@
       "row": 0,
       "col": 6,
       "length": 7,
-      "clue": "Bağlılık, vefa",
+      "clue": "Bağlılık ya da vefa için kullanılan yaygın ifade",
       "answer": "SADAKAT"
     },
     {
@@ -166,7 +166,7 @@
       "row": 1,
       "col": 3,
       "length": 5,
-      "clue": "Bilme, anlayış",
+      "clue": "Bilme ya da anlayış karşılığı olarak kullanılan kelime",
       "answer": "İRFAN"
     },
     {
@@ -175,7 +175,7 @@
       "row": 2,
       "col": 8,
       "length": 3,
-      "clue": "Ün, şöhret",
+      "clue": "Günlük dilde Ün ya da şöhret olarak bilinen kavram",
       "answer": "ŞAN"
     },
     {
@@ -184,7 +184,7 @@
       "row": 3,
       "col": 5,
       "length": 5,
-      "clue": "Hükümdar konutu",
+      "clue": "Hükümdar konutu anlamına gelen sözcük",
       "answer": "SARAY"
     },
     {
@@ -193,7 +193,7 @@
       "row": 5,
       "col": 4,
       "length": 7,
-      "clue": "Avunma, avuntu",
+      "clue": "Bulmacada Avunma ya da avuntu karşılığını veren yanıt",
       "answer": "TESELLİ"
     },
     {
@@ -202,7 +202,7 @@
       "row": 6,
       "col": 3,
       "length": 6,
-      "clue": "Tutkun, vurgun",
+      "clue": "Günlük dilde Tutkun ya da vurgun olarak bilinen kavram",
       "answer": "MEFTUN"
     },
     {
@@ -211,7 +211,7 @@
       "row": 6,
       "col": 8,
       "length": 5,
-      "clue": "İnce söz, espri",
+      "clue": "Bulmacada İnce söz ya da espri karşılığını veren yanıt",
       "answer": "NÜKTE"
     },
     {
@@ -220,7 +220,7 @@
       "row": 8,
       "col": 1,
       "length": 4,
-      "clue": "Yüzeylerin birleşimi",
+      "clue": "Günlük dilde Yüzeylerin birleşimi olarak bilinen kavram",
       "answer": "KÖŞE"
     },
     {
@@ -229,7 +229,7 @@
       "row": 10,
       "col": 0,
       "length": 5,
-      "clue": "Esas, kök",
+      "clue": "Esas ya da kök anlamına gelen sözcük",
       "answer": "TEMEL"
     },
     {
@@ -238,7 +238,7 @@
       "row": 10,
       "col": 6,
       "length": 4,
-      "clue": "Başlangıcı olmayan",
+      "clue": "Başlangıcı olmayan için kullanılan yaygın ifade",
       "answer": "EZEL"
     }
   ]

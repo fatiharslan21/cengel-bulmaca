@@ -121,7 +121,7 @@
       "row": 0,
       "col": 5,
       "length": 4,
-      "clue": "Toprak eşme",
+      "clue": "Bulmacada Toprak eşme karşılığını veren yanıt",
       "answer": "KAZI"
     },
     {
@@ -130,7 +130,7 @@
       "row": 1,
       "col": 4,
       "length": 3,
-      "clue": "Sıcak mevsim",
+      "clue": "Bulmacada Sıcak mevsim karşılığını veren yanıt",
       "answer": "YAZ"
     },
     {
@@ -139,7 +139,7 @@
       "row": 2,
       "col": 8,
       "length": 4,
-      "clue": "Müzikle hareket",
+      "clue": "Müzikle hareket karşılığı olarak kullanılan kelime",
       "answer": "DANS"
     },
     {
@@ -148,7 +148,7 @@
       "row": 3,
       "col": 5,
       "length": 5,
-      "clue": "Suyla ıslanmış",
+      "clue": "Bulmacada Suyla ıslanmış karşılığını veren yanıt",
       "answer": "ISLAK"
     },
     {
@@ -157,7 +157,7 @@
       "row": 5,
       "col": 6,
       "length": 4,
-      "clue": "Yemek mobilyası",
+      "clue": "Günlük dilde Yemek mobilyası olarak bilinen kavram",
       "answer": "MASA"
     },
     {
@@ -166,7 +166,7 @@
       "row": 5,
       "col": 6,
       "length": 3,
-      "clue": "Eflatun renk",
+      "clue": "Eflatun renk için kullanılan yaygın ifade",
       "answer": "MOR"
     },
     {
@@ -175,7 +175,7 @@
       "row": 6,
       "col": 4,
       "length": 3,
-      "clue": "Ev bölümü",
+      "clue": "Bulmacada Ev bölümü karşılığını veren yanıt",
       "answer": "ODA"
     },
     {
@@ -184,7 +184,7 @@
       "row": 7,
       "col": 4,
       "length": 4,
-      "clue": "Küçük akarsu",
+      "clue": "Küçük akarsu anlamına gelen sözcük",
       "answer": "DERE"
     },
     {
@@ -193,7 +193,7 @@
       "row": 8,
       "col": 0,
       "length": 5,
-      "clue": "Zar masa oyunu",
+      "clue": "Zar masa oyunu için kullanılan yaygın ifade",
       "answer": "TAVLA"
     }
   ]

@@ -145,7 +145,7 @@
       "row": 0,
       "col": 7,
       "length": 5,
-      "clue": "Yaşadığımız gezegen",
+      "clue": "Bulmacada Yaşadığımız gezegen karşılığını veren yanıt",
       "answer": "DÜNYA"
     },
     {
@@ -154,7 +154,7 @@
       "row": 1,
       "col": 6,
       "length": 3,
-      "clue": "Beyaz besin sıvısı",
+      "clue": "Bulmacada Beyaz besin sıvısı karşılığını veren yanıt",
       "answer": "SÜT"
     },
     {
@@ -163,7 +163,7 @@
       "row": 4,
       "col": 2,
       "length": 3,
-      "clue": "Damaktaki lezzet",
+      "clue": "Günlük dilde Damaktaki lezzet olarak bilinen kavram",
       "answer": "TAT"
     },
     {
@@ -172,7 +172,7 @@
       "row": 4,
       "col": 4,
       "length": 5,
-      "clue": "Söz, laf",
+      "clue": "Söz ya da laf karşılığı olarak kullanılan kelime",
       "answer": "KELAM"
     },
     {
@@ -181,7 +181,7 @@
       "row": 4,
       "col": 4,
       "length": 4,
-      "clue": "Ev bedeli",
+      "clue": "Bulmacada Ev bedeli karşılığını veren yanıt",
       "answer": "KIRA"
     },
     {
@@ -190,7 +190,7 @@
       "row": 5,
       "col": 1,
       "length": 4,
-      "clue": "Rakam ifadesi",
+      "clue": "Bulmacada Rakam ifadesi karşılığını veren yanıt",
       "answer": "SAYI"
     },
     {
@@ -199,7 +199,7 @@
       "row": 7,
       "col": 3,
       "length": 5,
-      "clue": "Deniz kıyısı",
+      "clue": "Bulmacada Deniz kıyısı karşılığını veren yanıt",
       "answer": "SAHİL"
     },
     {
@@ -208,7 +208,7 @@
       "row": 7,
       "col": 3,
       "length": 5,
-      "clue": "Hayal, ilüzyon",
+      "clue": "Hayal ya da ilüzyon karşılığı olarak kullanılan kelime",
       "answer": "SERAP"
     },
     {
@@ -217,7 +217,7 @@
       "row": 7,
       "col": 5,
       "length": 5,
-      "clue": "Sayısal işlem",
+      "clue": "Sayısal işlem karşılığı olarak kullanılan kelime",
       "answer": "HESAP"
     },
     {
@@ -226,7 +226,7 @@
       "row": 8,
       "col": 0,
       "length": 4,
-      "clue": "Kalın olmayan",
+      "clue": "Kalın olmayan anlamına gelen sözcük",
       "answer": "İNCE"
     }
   ]

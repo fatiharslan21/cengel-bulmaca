@@ -130,7 +130,7 @@
       "row": 0,
       "col": 6,
       "length": 4,
-      "clue": "Zaman aralığı",
+      "clue": "Zaman aralığı için kullanılan yaygın ifade",
       "answer": "SÜRE"
     },
     {
@@ -139,7 +139,7 @@
       "row": 2,
       "col": 3,
       "length": 4,
-      "clue": "Ev bedeli",
+      "clue": "Bulmacada Ev bedeli karşılığını veren yanıt",
       "answer": "KIRA"
     },
     {
@@ -148,7 +148,7 @@
       "row": 2,
       "col": 3,
       "length": 5,
-      "clue": "İki yakayı birleştiren",
+      "clue": "İki yakayı birleştiren için kullanılan yaygın ifade",
       "answer": "KÖPRÜ"
     },
     {
@@ -157,7 +157,7 @@
       "row": 3,
       "col": 1,
       "length": 3,
-      "clue": "Havadaki rutubet",
+      "clue": "Bulmacada Havadaki rutubet karşılığını veren yanıt",
       "answer": "NEM"
     },
     {
@@ -166,7 +166,7 @@
       "row": 3,
       "col": 8,
       "length": 3,
-      "clue": "On yüzlük sayı",
+      "clue": "On yüzlük sayı anlamına gelen sözcük",
       "answer": "BİN"
     },
     {
@@ -175,7 +175,7 @@
       "row": 4,
       "col": 0,
       "length": 6,
-      "clue": "Yer sarsıntısı",
+      "clue": "Bulmacada Yer sarsıntısı karşılığını veren yanıt",
       "answer": "DEPREM"
     },
     {
@@ -184,7 +184,7 @@
       "row": 4,
       "col": 5,
       "length": 5,
-      "clue": "Hayal ürünü hikaye",
+      "clue": "Hayal ürünü hikaye karşılığı olarak kullanılan kelime",
       "answer": "MASAL"
     },
     {
@@ -193,7 +193,7 @@
       "row": 4,
       "col": 8,
       "length": 3,
-      "clue": "Birinci, baştaki",
+      "clue": "Birinci ya da baştaki anlamına gelen sözcük",
       "answer": "İLK"
     },
     {
@@ -202,7 +202,7 @@
       "row": 5,
       "col": 5,
       "length": 4,
-      "clue": "Geniş düzlük",
+      "clue": "Günlük dilde Geniş düzlük olarak bilinen kavram",
       "answer": "ALAN"
     },
     {
@@ -211,7 +211,7 @@
       "row": 7,
       "col": 4,
       "length": 3,
-      "clue": "Devir, dönem",
+      "clue": "Devir ya da dönem karşılığı olarak kullanılan kelime",
       "answer": "ÇAĞ"
     }
   ]

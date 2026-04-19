@@ -123,7 +123,7 @@
       "row": 0,
       "col": 4,
       "length": 3,
-      "clue": "Kırmızı taneli meyve",
+      "clue": "Kırmızı taneli meyve karşılığı olarak kullanılan kelime",
       "answer": "NAR"
     },
     {
@@ -132,7 +132,7 @@
       "row": 0,
       "col": 5,
       "length": 4,
-      "clue": "Bacak ucu",
+      "clue": "Günlük dilde Bacak ucu olarak bilinen kavram",
       "answer": "AYAK"
     },
     {
@@ -141,7 +141,7 @@
       "row": 3,
       "col": 5,
       "length": 3,
-      "clue": "Seramik toprağı",
+      "clue": "Seramik toprağı karşılığı olarak kullanılan kelime",
       "answer": "KİL"
     },
     {
@@ -150,7 +150,7 @@
       "row": 3,
       "col": 6,
       "length": 5,
-      "clue": "Anlayış",
+      "clue": "Günlük dilde Anlayış olarak bilinen kavram",
       "answer": "İDRAK"
     },
     {
@@ -159,7 +159,7 @@
       "row": 4,
       "col": 0,
       "length": 5,
-      "clue": "Yaşadığımız gezegen",
+      "clue": "Bulmacada Yaşadığımız gezegen karşılığını veren yanıt",
       "answer": "DÜNYA"
     },
     {
@@ -168,7 +168,7 @@
       "row": 4,
       "col": 2,
       "length": 5,
-      "clue": "İyilik, bolluk",
+      "clue": "İyilik ya da bolluk için kullanılan yaygın ifade",
       "answer": "NİMET"
     },
     {
@@ -177,7 +177,7 @@
       "row": 6,
       "col": 4,
       "length": 4,
-      "clue": "Bildirme, hüküm",
+      "clue": "Bildirme ya da hüküm anlamına gelen sözcük",
       "answer": "İLAM"
     },
     {
@@ -186,7 +186,7 @@
       "row": 6,
       "col": 4,
       "length": 5,
-      "clue": "Talih, yükselme",
+      "clue": "Bulmacada Talih ya da yükselme karşılığını veren yanıt",
       "answer": "İKBAL"
     },
     {
@@ -195,7 +195,7 @@
       "row": 7,
       "col": 1,
       "length": 4,
-      "clue": "Arzu, istek",
+      "clue": "Arzu ya da istek için kullanılan yaygın ifade",
       "answer": "ŞEVK"
     },
     {
@@ -204,7 +204,7 @@
       "row": 9,
       "col": 3,
       "length": 3,
-      "clue": "Geniş olmayan",
+      "clue": "Geniş olmayan karşılığı olarak kullanılan kelime",
       "answer": "DAR"
     }
   ]

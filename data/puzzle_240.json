@@ -112,7 +112,7 @@
       "row": 0,
       "col": 1,
       "length": 4,
-      "clue": "Deniz taşıtı",
+      "clue": "Bulmacada Deniz taşıtı karşılığını veren yanıt",
       "answer": "GEMİ"
     },
     {
@@ -121,7 +121,7 @@
       "row": 0,
       "col": 3,
       "length": 5,
-      "clue": "Ekin alanı",
+      "clue": "Ekin alanı anlamına gelen sözcük",
       "answer": "TARLA"
     },
     {
@@ -130,7 +130,7 @@
       "row": 1,
       "col": 0,
       "length": 4,
-      "clue": "Kez, kere",
+      "clue": "Günlük dilde Kez ya da kere olarak bilinen kavram",
       "answer": "DEFA"
     },
     {
@@ -139,7 +139,7 @@
       "row": 3,
       "col": 5,
       "length": 4,
-      "clue": "Şehir",
+      "clue": "Şehir anlamına gelen sözcük",
       "answer": "KENT"
     },
     {
@@ -148,7 +148,7 @@
       "row": 3,
       "col": 5,
       "length": 4,
-      "clue": "Eşya kabı",
+      "clue": "Eşya kabı karşılığı olarak kullanılan kelime",
       "answer": "KUTU"
     },
     {
@@ -157,7 +157,7 @@
       "row": 3,
       "col": 7,
       "length": 3,
-      "clue": "Damaktaki lezzet",
+      "clue": "Günlük dilde Damaktaki lezzet olarak bilinen kavram",
       "answer": "TAT"
     },
     {
@@ -166,7 +166,7 @@
       "row": 4,
       "col": 2,
       "length": 4,
-      "clue": "Ferahlatıcı bitki",
+      "clue": "Ferahlatıcı bitki anlamına gelen sözcük",
       "answer": "NANE"
     },
     {
@@ -175,7 +175,7 @@
       "row": 6,
       "col": 4,
       "length": 3,
-      "clue": "Ced, büyükbaba",
+      "clue": "Günlük dilde Ced ya da büyükbaba olarak bilinen kavram",
       "answer": "ATA"
     },
     {
@@ -184,7 +184,7 @@
       "row": 6,
       "col": 4,
       "length": 3,
-      "clue": "Sunma, takdim",
+      "clue": "Sunma ya da takdim anlamına gelen sözcük",
       "answer": "ARZ"
     },
     {
@@ -193,7 +193,7 @@
       "row": 6,
       "col": 6,
       "length": 3,
-      "clue": "Yakışıklı, gösterişli",
+      "clue": "Yakışıklı ya da gösterişli anlamına gelen sözcük",
       "answer": "AFİ"
     }
   ]

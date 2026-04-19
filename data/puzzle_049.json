@@ -121,7 +121,7 @@
       "row": 0,
       "col": 6,
       "length": 4,
-      "clue": "Başarı karşılığı",
+      "clue": "Bulmacada Başarı karşılığı karşılığını veren yanıt",
       "answer": "ÖDÜL"
     },
     {
@@ -130,7 +130,7 @@
       "row": 3,
       "col": 6,
       "length": 4,
-      "clue": "Türk parası",
+      "clue": "Günlük dilde Türk parası olarak bilinen kavram",
       "answer": "LİRA"
     },
     {
@@ -139,7 +139,7 @@
       "row": 3,
       "col": 8,
       "length": 5,
-      "clue": "Programlanabilir makine",
+      "clue": "Programlanabilir makine için kullanılan yaygın ifade",
       "answer": "ROBOT"
     },
     {
@@ -148,7 +148,7 @@
       "row": 4,
       "col": 1,
       "length": 3,
-      "clue": "Ün, şöhret",
+      "clue": "Günlük dilde Ün ya da şöhret olarak bilinen kavram",
       "answer": "ŞAN"
     },
     {
@@ -157,7 +157,7 @@
       "row": 5,
       "col": 0,
       "length": 4,
-      "clue": "Çözüm yolu",
+      "clue": "Çözüm yolu anlamına gelen sözcük",
       "answer": "ÇARE"
     },
     {
@@ -166,7 +166,7 @@
       "row": 5,
       "col": 3,
       "length": 4,
-      "clue": "Yük hayvanı",
+      "clue": "Yük hayvanı için kullanılan yaygın ifade",
       "answer": "EŞEK"
     },
     {
@@ -175,7 +175,7 @@
       "row": 5,
       "col": 5,
       "length": 3,
-      "clue": "Buz tutma",
+      "clue": "Günlük dilde Buz tutma olarak bilinen kavram",
       "answer": "DON"
     },
     {
@@ -184,7 +184,7 @@
       "row": 5,
       "col": 5,
       "length": 5,
-      "clue": "Ani vuruş",
+      "clue": "Ani vuruş anlamına gelen sözcük",
       "answer": "DARBE"
     },
     {
@@ -193,7 +193,7 @@
       "row": 7,
       "col": 2,
       "length": 5,
-      "clue": "Küçük deniz taşıtı",
+      "clue": "Küçük deniz taşıtı anlamına gelen sözcük",
       "answer": "TEKNE"
     }
   ]

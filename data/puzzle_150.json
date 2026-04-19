@@ -121,7 +121,7 @@
       "row": 0,
       "col": 6,
       "length": 4,
-      "clue": "Geniş düzlük",
+      "clue": "Günlük dilde Geniş düzlük olarak bilinen kavram",
       "answer": "ALAN"
     },
     {
@@ -130,7 +130,7 @@
       "row": 3,
       "col": 2,
       "length": 3,
-      "clue": "Birinci, baştaki",
+      "clue": "Birinci ya da baştaki anlamına gelen sözcük",
       "answer": "İLK"
     },
     {
@@ -139,7 +139,7 @@
       "row": 3,
       "col": 4,
       "length": 3,
-      "clue": "Yanık kalıntısı",
+      "clue": "Yanık kalıntısı için kullanılan yaygın ifade",
       "answer": "KÜL"
     },
     {
@@ -148,7 +148,7 @@
       "row": 3,
       "col": 4,
       "length": 4,
-      "clue": "Şehir",
+      "clue": "Şehir anlamına gelen sözcük",
       "answer": "KENT"
     },
     {
@@ -157,7 +157,7 @@
       "row": 3,
       "col": 7,
       "length": 5,
-      "clue": "Küçük deniz taşıtı",
+      "clue": "Küçük deniz taşıtı anlamına gelen sözcük",
       "answer": "TEKNE"
     },
     {
@@ -166,7 +166,7 @@
       "row": 4,
       "col": 0,
       "length": 3,
-      "clue": "Mektup pulu",
+      "clue": "Posta gönderilerinin üzerine yapıştırılan değer etiketi",
       "answer": "PUL"
     },
     {
@@ -175,7 +175,7 @@
       "row": 5,
       "col": 2,
       "length": 3,
-      "clue": "Gitme, burada dur",
+      "clue": "Bulmacada Gitme ya da burada dur karşılığını veren yanıt",
       "answer": "KAL"
     },
     {
@@ -184,7 +184,7 @@
       "row": 5,
       "col": 3,
       "length": 4,
-      "clue": "Hedef, gaye",
+      "clue": "Bulmacada Hedef ya da gaye karşılığını veren yanıt",
       "answer": "AMAÇ"
     },
     {
@@ -193,7 +193,7 @@
       "row": 5,
       "col": 7,
       "length": 3,
-      "clue": "Bina bölümü",
+      "clue": "Bulmacada Bina bölümü karşılığını veren yanıt",
       "answer": "KAT"
     },
     {
@@ -202,7 +202,7 @@
       "row": 7,
       "col": 2,
       "length": 3,
-      "clue": "Asit karşıtı",
+      "clue": "Asit karşıtı için kullanılan yaygın ifade",
       "answer": "BAZ"
     }
   ]

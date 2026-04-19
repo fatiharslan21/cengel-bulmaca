@@ -109,7 +109,7 @@
       "row": 0,
       "col": 4,
       "length": 4,
-      "clue": "Üstünü kapatan",
+      "clue": "Üstünü kapatan karşılığı olarak kullanılan kelime",
       "answer": "ÖRTÜ"
     },
     {
@@ -118,7 +118,7 @@
       "row": 2,
       "col": 8,
       "length": 3,
-      "clue": "Mektup pulu",
+      "clue": "Posta gönderilerinin üzerine yapıştırılan değer etiketi",
       "answer": "PUL"
     },
     {
@@ -127,7 +127,7 @@
       "row": 3,
       "col": 3,
       "length": 3,
-      "clue": "Rüya, hayal",
+      "clue": "Rüya ya da hayal için kullanılan yaygın ifade",
       "answer": "DÜŞ"
     },
     {
@@ -136,7 +136,7 @@
       "row": 3,
       "col": 3,
       "length": 5,
-      "clue": "Tuzlu büyük su",
+      "clue": "Tuzlu büyük su karşılığı olarak kullanılan kelime",
       "answer": "DENİZ"
     },
     {
@@ -145,7 +145,7 @@
       "row": 4,
       "col": 0,
       "length": 4,
-      "clue": "Zaman aralığı",
+      "clue": "Zaman aralığı için kullanılan yaygın ifade",
       "answer": "SÜRE"
     },
     {
@@ -154,7 +154,7 @@
       "row": 4,
       "col": 6,
       "length": 4,
-      "clue": "Yapışkan şerit",
+      "clue": "Yapışkan şerit karşılığı olarak kullanılan kelime",
       "answer": "BANT"
     },
     {
@@ -163,7 +163,7 @@
       "row": 4,
       "col": 6,
       "length": 3,
-      "clue": "Arı ürünü tatlı",
+      "clue": "Arı ürünü tatlı için kullanılan yaygın ifade",
       "answer": "BAL"
     },
     {
@@ -172,7 +172,7 @@
       "row": 5,
       "col": 3,
       "length": 4,
-      "clue": "Müzik işareti",
+      "clue": "Müzik işareti için kullanılan yaygın ifade",
       "answer": "NOTA"
     },
     {
@@ -181,7 +181,7 @@
       "row": 6,
       "col": 1,
       "length": 3,
-      "clue": "Kötünün zıttı",
+      "clue": "Kötünün zıttı karşılığı olarak kullanılan kelime",
       "answer": "İYİ"
     },
     {
@@ -190,7 +190,7 @@
       "row": 7,
       "col": 6,
       "length": 4,
-      "clue": "Raylı taşıt",
+      "clue": "Bulmacada Raylı taşıt karşılığını veren yanıt",
       "answer": "TREN"
     }
   ]

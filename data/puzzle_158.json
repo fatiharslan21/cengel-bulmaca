@@ -133,7 +133,7 @@
       "row": 0,
       "col": 4,
       "length": 4,
-      "clue": "Çözüm yolu",
+      "clue": "Çözüm yolu anlamına gelen sözcük",
       "answer": "ÇARE"
     },
     {
@@ -142,7 +142,7 @@
       "row": 0,
       "col": 7,
       "length": 6,
-      "clue": "Kürekli tekne",
+      "clue": "Günlük dilde Kürekli tekne olarak bilinen kavram",
       "answer": "SANDAL"
     },
     {
@@ -151,7 +151,7 @@
       "row": 1,
       "col": 3,
       "length": 5,
-      "clue": "Ekin alanı",
+      "clue": "Ekin alanı anlamına gelen sözcük",
       "answer": "TARLA"
     },
     {
@@ -160,7 +160,7 @@
       "row": 1,
       "col": 9,
       "length": 3,
-      "clue": "Omuz örtüsü",
+      "clue": "Omuz örtüsü anlamına gelen sözcük",
       "answer": "ŞAL"
     },
     {
@@ -169,7 +169,7 @@
       "row": 3,
       "col": 0,
       "length": 6,
-      "clue": "Konular listesi",
+      "clue": "Konular listesi için kullanılan yaygın ifade",
       "answer": "GÜNDEM"
     },
     {
@@ -178,7 +178,7 @@
       "row": 3,
       "col": 3,
       "length": 4,
-      "clue": "Müzikle hareket",
+      "clue": "Müzikle hareket karşılığı olarak kullanılan kelime",
       "answer": "DANS"
     },
     {
@@ -187,7 +187,7 @@
       "row": 3,
       "col": 7,
       "length": 3,
-      "clue": "Konuşma organı",
+      "clue": "Konuşma organı anlamına gelen sözcük",
       "answer": "DİL"
     },
     {
@@ -196,7 +196,7 @@
       "row": 5,
       "col": 1,
       "length": 3,
-      "clue": "Buz tutma",
+      "clue": "Günlük dilde Buz tutma olarak bilinen kavram",
       "answer": "DON"
     },
     {
@@ -205,7 +205,7 @@
       "row": 5,
       "col": 5,
       "length": 5,
-      "clue": "Suyla ıslanmış",
+      "clue": "Bulmacada Suyla ıslanmış karşılığını veren yanıt",
       "answer": "ISLAK"
     },
     {
@@ -214,7 +214,7 @@
       "row": 5,
       "col": 8,
       "length": 5,
-      "clue": "Harita kitabı",
+      "clue": "Harita kitabı karşılığı olarak kullanılan kelime",
       "answer": "ATLAS"
     }
   ]

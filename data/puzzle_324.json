@@ -112,7 +112,7 @@
       "row": 0,
       "col": 3,
       "length": 4,
-      "clue": "Felaket, kötülük",
+      "clue": "Günlük dilde Felaket ya da kötülük olarak bilinen kavram",
       "answer": "BELA"
     },
     {
@@ -121,7 +121,7 @@
       "row": 1,
       "col": 0,
       "length": 4,
-      "clue": "Yüksek yapı",
+      "clue": "Bulmacada Yüksek yapı karşılığını veren yanıt",
       "answer": "KULE"
     },
     {
@@ -130,7 +130,7 @@
       "row": 2,
       "col": 6,
       "length": 4,
-      "clue": "Başarı karşılığı",
+      "clue": "Bulmacada Başarı karşılığı karşılığını veren yanıt",
       "answer": "ÖDÜL"
     },
     {
@@ -139,7 +139,7 @@
       "row": 3,
       "col": 1,
       "length": 4,
-      "clue": "Yakın olmayan",
+      "clue": "Yakın olmayan karşılığı olarak kullanılan kelime",
       "answer": "UZAK"
     },
     {
@@ -148,7 +148,7 @@
       "row": 3,
       "col": 4,
       "length": 5,
-      "clue": "Olgunluk",
+      "clue": "Olgunluk için kullanılan yaygın ifade",
       "answer": "KEMAL"
     },
     {
@@ -157,7 +157,7 @@
       "row": 5,
       "col": 2,
       "length": 3,
-      "clue": "İçi dolu olmayan",
+      "clue": "Günlük dilde İçi dolu olmayan olarak bilinen kavram",
       "answer": "BOŞ"
     },
     {
@@ -166,7 +166,7 @@
       "row": 5,
       "col": 4,
       "length": 5,
-      "clue": "Hüzün, usanç",
+      "clue": "Bulmacada Hüzün ya da usanç karşılığını veren yanıt",
       "answer": "MELAL"
     },
     {
@@ -175,7 +175,7 @@
       "row": 5,
       "col": 7,
       "length": 4,
-      "clue": "Yansıtıcı cam",
+      "clue": "Bulmacada Yansıtıcı cam karşılığını veren yanıt",
       "answer": "AYNA"
     },
     {
@@ -184,7 +184,7 @@
       "row": 6,
       "col": 2,
       "length": 3,
-      "clue": "İğneyle süsleme",
+      "clue": "Günlük dilde İğneyle süsleme olarak bilinen kavram",
       "answer": "OYA"
     },
     {
@@ -193,7 +193,7 @@
       "row": 8,
       "col": 6,
       "length": 3,
-      "clue": "Sıcak mevsim",
+      "clue": "Bulmacada Sıcak mevsim karşılığını veren yanıt",
       "answer": "YAZ"
     }
   ]

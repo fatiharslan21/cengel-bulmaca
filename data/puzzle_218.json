@@ -123,7 +123,7 @@
       "row": 0,
       "col": 0,
       "length": 4,
-      "clue": "Müzikle hareket",
+      "clue": "Müzikle hareket karşılığı olarak kullanılan kelime",
       "answer": "DANS"
     },
     {
@@ -132,7 +132,7 @@
       "row": 0,
       "col": 3,
       "length": 3,
-      "clue": "Sağın karşıtı",
+      "clue": "Günlük dilde Sağın karşıtı olarak bilinen kavram",
       "answer": "SOL"
     },
     {
@@ -141,7 +141,7 @@
       "row": 1,
       "col": 5,
       "length": 3,
-      "clue": "Ün, şöhret",
+      "clue": "Günlük dilde Ün ya da şöhret olarak bilinen kavram",
       "answer": "ŞAN"
     },
     {
@@ -150,7 +150,7 @@
       "row": 2,
       "col": 2,
       "length": 5,
-      "clue": "En sert taş",
+      "clue": "En sert taş karşılığı olarak kullanılan kelime",
       "answer": "ELMAS"
     },
     {
@@ -159,7 +159,7 @@
       "row": 2,
       "col": 2,
       "length": 4,
-      "clue": "Kırmızı meyve",
+      "clue": "Bulmacada Kırmızı meyve karşılığını veren yanıt",
       "answer": "ELMA"
     },
     {
@@ -168,7 +168,7 @@
       "row": 3,
       "col": 7,
       "length": 4,
-      "clue": "Yüzeylerin birleşimi",
+      "clue": "Günlük dilde Yüzeylerin birleşimi olarak bilinen kavram",
       "answer": "KÖŞE"
     },
     {
@@ -177,7 +177,7 @@
       "row": 4,
       "col": 4,
       "length": 4,
-      "clue": "Yırtık yamağı",
+      "clue": "Yırtığı kapatmak için eklenen parça",
       "answer": "YAMA"
     },
     {
@@ -186,7 +186,7 @@
       "row": 5,
       "col": 1,
       "length": 4,
-      "clue": "Siyah renk",
+      "clue": "Siyah renk karşılığı olarak kullanılan kelime",
       "answer": "KARA"
     },
     {
@@ -195,7 +195,7 @@
       "row": 5,
       "col": 1,
       "length": 5,
-      "clue": "İki yakayı birleştiren",
+      "clue": "İki yakayı birleştiren için kullanılan yaygın ifade",
       "answer": "KÖPRÜ"
     },
     {
@@ -204,7 +204,7 @@
       "row": 6,
       "col": 4,
       "length": 5,
-      "clue": "Kanatlı kutsal varlık",
+      "clue": "Bulmacada Kanatlı kutsal varlık karşılığını veren yanıt",
       "answer": "MELEK"
     }
   ]

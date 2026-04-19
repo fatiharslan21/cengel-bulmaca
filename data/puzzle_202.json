@@ -145,7 +145,7 @@
       "row": 0,
       "col": 6,
       "length": 4,
-      "clue": "Ev bedeli",
+      "clue": "Bulmacada Ev bedeli karşılığını veren yanıt",
       "answer": "KIRA"
     },
     {
@@ -154,7 +154,7 @@
       "row": 1,
       "col": 4,
       "length": 3,
-      "clue": "Uçurum, yarık",
+      "clue": "Derin uçurum ya da dik çatlak",
       "answer": "YAR"
     },
     {
@@ -163,7 +163,7 @@
       "row": 3,
       "col": 2,
       "length": 4,
-      "clue": "Yapışkan şerit",
+      "clue": "Yapışkan şerit karşılığı olarak kullanılan kelime",
       "answer": "BANT"
     },
     {
@@ -172,7 +172,7 @@
       "row": 3,
       "col": 2,
       "length": 6,
-      "clue": "İçecek kabı",
+      "clue": "İçecek kabı anlamına gelen sözcük",
       "answer": "BARDAK"
     },
     {
@@ -181,7 +181,7 @@
       "row": 3,
       "col": 7,
       "length": 4,
-      "clue": "Yüksek yapı",
+      "clue": "Bulmacada Yüksek yapı karşılığını veren yanıt",
       "answer": "KULE"
     },
     {
@@ -190,7 +190,7 @@
       "row": 5,
       "col": 0,
       "length": 6,
-      "clue": "Konular listesi",
+      "clue": "Konular listesi için kullanılan yaygın ifade",
       "answer": "GÜNDEM"
     },
     {
@@ -199,7 +199,7 @@
       "row": 6,
       "col": 6,
       "length": 3,
-      "clue": "Dokuma kumaş parçası",
+      "clue": "Bulmacada Dokuma kumaş parçası karşılığını veren yanıt",
       "answer": "BEZ"
     },
     {
@@ -208,7 +208,7 @@
       "row": 6,
       "col": 8,
       "length": 3,
-      "clue": "Güç, kolay değil",
+      "clue": "Günlük dilde Güç ya da kolay değil olarak bilinen kavram",
       "answer": "ZOR"
     },
     {
@@ -217,7 +217,7 @@
       "row": 8,
       "col": 6,
       "length": 4,
-      "clue": "Otlak alan",
+      "clue": "Bulmacada Otlak alan karşılığını veren yanıt",
       "answer": "MERA"
     },
     {
@@ -226,7 +226,7 @@
       "row": 8,
       "col": 9,
       "length": 3,
-      "clue": "Ced, büyükbaba",
+      "clue": "Günlük dilde Ced ya da büyükbaba olarak bilinen kavram",
       "answer": "ATA"
     }
   ]

@@ -145,7 +145,7 @@
       "row": 0,
       "col": 5,
       "length": 5,
-      "clue": "Gökyüzü su kümeleri",
+      "clue": "Günlük dilde Gökyüzü su kümeleri olarak bilinen kavram",
       "answer": "BULUT"
     },
     {
@@ -154,7 +154,7 @@
       "row": 0,
       "col": 5,
       "length": 4,
-      "clue": "Yapı, bina",
+      "clue": "İnsanların yaşadığı veya çalıştığı yapı",
       "answer": "BİNA"
     },
     {
@@ -163,7 +163,7 @@
       "row": 1,
       "col": 2,
       "length": 5,
-      "clue": "Aşk, tutku",
+      "clue": "Günlük dilde Aşk ya da tutku olarak bilinen kavram",
       "answer": "SEVDA"
     },
     {
@@ -172,7 +172,7 @@
       "row": 1,
       "col": 2,
       "length": 4,
-      "clue": "Cevap bekleyen",
+      "clue": "Cevap bekleyen karşılığı olarak kullanılan kelime",
       "answer": "SORU"
     },
     {
@@ -181,7 +181,7 @@
       "row": 3,
       "col": 0,
       "length": 5,
-      "clue": "Üflemeli ses aleti",
+      "clue": "Üflemeli ses aleti karşılığı olarak kullanılan kelime",
       "answer": "DÜDÜK"
     },
     {
@@ -190,7 +190,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "Hörgüçlü hayvan",
+      "clue": "Hörgüçlü hayvan için kullanılan yaygın ifade",
       "answer": "DEVE"
     },
     {
@@ -199,7 +199,7 @@
       "row": 6,
       "col": 3,
       "length": 5,
-      "clue": "Yer, konum",
+      "clue": "Günlük dilde Yer ya da konum olarak bilinen kavram",
       "answer": "MEVKİ"
     },
     {
@@ -208,7 +208,7 @@
       "row": 7,
       "col": 0,
       "length": 5,
-      "clue": "Sadık evcil hayvan",
+      "clue": "Sadık evcil hayvan anlamına gelen sözcük",
       "answer": "KÖPEK"
     },
     {
@@ -217,7 +217,7 @@
       "row": 9,
       "col": 1,
       "length": 3,
-      "clue": "İşve, cilve",
+      "clue": "İşve ya da cilve anlamına gelen sözcük",
       "answer": "NAZ"
     },
     {
@@ -226,7 +226,7 @@
       "row": 10,
       "col": 0,
       "length": 4,
-      "clue": "Uyan, bağlı",
+      "clue": "Uyan ya da bağlı karşılığı olarak kullanılan kelime",
       "answer": "TABİ"
     }
   ]

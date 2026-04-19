@@ -121,7 +121,7 @@
       "row": 0,
       "col": 2,
       "length": 4,
-      "clue": "Kalın olmayan",
+      "clue": "Kalın olmayan anlamına gelen sözcük",
       "answer": "İNCE"
     },
     {
@@ -130,7 +130,7 @@
       "row": 0,
       "col": 3,
       "length": 4,
-      "clue": "Müzik işareti",
+      "clue": "Müzik işareti için kullanılan yaygın ifade",
       "answer": "NOTA"
     },
     {
@@ -139,7 +139,7 @@
       "row": 3,
       "col": 2,
       "length": 4,
-      "clue": "Kızarmış sandviç",
+      "clue": "Kızarmış sandviç anlamına gelen sözcük",
       "answer": "TOST"
     },
     {
@@ -148,7 +148,7 @@
       "row": 3,
       "col": 2,
       "length": 3,
-      "clue": "Sert kayaç parçası",
+      "clue": "Sert kayaç parçası için kullanılan yaygın ifade",
       "answer": "TAŞ"
     },
     {
@@ -157,7 +157,7 @@
       "row": 6,
       "col": 2,
       "length": 4,
-      "clue": "Biçim, üslup",
+      "clue": "Biçim ya da üslup için kullanılan yaygın ifade",
       "answer": "TARZ"
     },
     {
@@ -166,7 +166,7 @@
       "row": 6,
       "col": 5,
       "length": 5,
-      "clue": "En yüksek nokta",
+      "clue": "En yüksek nokta karşılığı olarak kullanılan kelime",
       "answer": "ZİRVE"
     },
     {
@@ -175,7 +175,7 @@
       "row": 8,
       "col": 3,
       "length": 3,
-      "clue": "Karalarla çevrili su",
+      "clue": "Bulmacada Karalarla çevrili su karşılığını veren yanıt",
       "answer": "GÖL"
     },
     {
@@ -184,7 +184,7 @@
       "row": 8,
       "col": 3,
       "length": 4,
-      "clue": "İlerinin zıttı",
+      "clue": "Günlük dilde İlerinin zıttı olarak bilinen kavram",
       "answer": "GERİ"
     },
     {
@@ -193,7 +193,7 @@
       "row": 9,
       "col": 0,
       "length": 3,
-      "clue": "İçine konan kab",
+      "clue": "Bulmacada İçine konan kab karşılığını veren yanıt",
       "answer": "KAP"
     },
     {
@@ -202,7 +202,7 @@
       "row": 10,
       "col": 0,
       "length": 4,
-      "clue": "Gerçek, hakiki",
+      "clue": "Gerçek ya da hakiki için kullanılan yaygın ifade",
       "answer": "ASIL"
     }
   ]

@@ -145,7 +145,7 @@
       "row": 0,
       "col": 1,
       "length": 3,
-      "clue": "Buz tutma",
+      "clue": "Günlük dilde Buz tutma olarak bilinen kavram",
       "answer": "DON"
     },
     {
@@ -154,7 +154,7 @@
       "row": 0,
       "col": 1,
       "length": 4,
-      "clue": "Hörgüçlü hayvan",
+      "clue": "Hörgüçlü hayvan için kullanılan yaygın ifade",
       "answer": "DEVE"
     },
     {
@@ -163,7 +163,7 @@
       "row": 2,
       "col": 3,
       "length": 6,
-      "clue": "Anlatılan olay",
+      "clue": "Günlük dilde Anlatılan olay olarak bilinen kavram",
       "answer": "HİKAYE"
     },
     {
@@ -172,7 +172,7 @@
       "row": 3,
       "col": 1,
       "length": 4,
-      "clue": "Buyruk, komut",
+      "clue": "Günlük dilde Buyruk ya da komut olarak bilinen kavram",
       "answer": "EMİR"
     },
     {
@@ -181,7 +181,7 @@
       "row": 4,
       "col": 0,
       "length": 3,
-      "clue": "Bitiş, final",
+      "clue": "Bitiş ya da final için kullanılan yaygın ifade",
       "answer": "SON"
     },
     {
@@ -190,7 +190,7 @@
       "row": 5,
       "col": 0,
       "length": 5,
-      "clue": "Vücut bölümü",
+      "clue": "Vücut bölümü karşılığı olarak kullanılan kelime",
       "answer": "ORGAN"
     },
     {
@@ -199,7 +199,7 @@
       "row": 5,
       "col": 6,
       "length": 4,
-      "clue": "Böcekten kumaş",
+      "clue": "Böcekten kumaş anlamına gelen sözcük",
       "answer": "İPEK"
     },
     {
@@ -208,7 +208,7 @@
       "row": 7,
       "col": 3,
       "length": 5,
-      "clue": "Temel buğday gıdası",
+      "clue": "Temel buğday gıdası anlamına gelen sözcük",
       "answer": "EKMEK"
     },
     {
@@ -217,7 +217,7 @@
       "row": 7,
       "col": 4,
       "length": 5,
-      "clue": "Yüzeyin sınırı",
+      "clue": "Günlük dilde Yüzeyin sınırı olarak bilinen kavram",
       "answer": "KENAR"
     },
     {
@@ -226,7 +226,7 @@
       "row": 10,
       "col": 3,
       "length": 6,
-      "clue": "Bitkinin yeşil organı",
+      "clue": "Bitkinin yeşil organı anlamına gelen sözcük",
       "answer": "YAPRAK"
     }
   ]

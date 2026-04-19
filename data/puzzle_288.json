@@ -139,7 +139,7 @@
       "row": 0,
       "col": 1,
       "length": 4,
-      "clue": "Baş, kelle",
+      "clue": "Baş ya da kelle için kullanılan yaygın ifade",
       "answer": "KAFA"
     },
     {
@@ -148,7 +148,7 @@
       "row": 2,
       "col": 3,
       "length": 3,
-      "clue": "Çiğneme organı",
+      "clue": "Bulmacada Çiğneme organı karşılığını veren yanıt",
       "answer": "DİŞ"
     },
     {
@@ -157,7 +157,7 @@
       "row": 2,
       "col": 5,
       "length": 4,
-      "clue": "Bitki yapısı",
+      "clue": "Günlük dilde Bitki yapısı olarak bilinen kavram",
       "answer": "SERA"
     },
     {
@@ -166,7 +166,7 @@
       "row": 3,
       "col": 0,
       "length": 3,
-      "clue": "Beyaz besin sıvısı",
+      "clue": "Bulmacada Beyaz besin sıvısı karşılığını veren yanıt",
       "answer": "SÜT"
     },
     {
@@ -175,7 +175,7 @@
       "row": 3,
       "col": 0,
       "length": 6,
-      "clue": "Kısa an",
+      "clue": "Kısa an anlamına gelen sözcük",
       "answer": "SANİYE"
     },
     {
@@ -184,7 +184,7 @@
       "row": 4,
       "col": 8,
       "length": 4,
-      "clue": "Kırmızı meyve",
+      "clue": "Bulmacada Kırmızı meyve karşılığını veren yanıt",
       "answer": "ELMA"
     },
     {
@@ -193,7 +193,7 @@
       "row": 4,
       "col": 10,
       "length": 5,
-      "clue": "Vaktinden önce",
+      "clue": "Vaktinden önce karşılığı olarak kullanılan kelime",
       "answer": "ERKEN"
     },
     {
@@ -202,7 +202,7 @@
       "row": 5,
       "col": 0,
       "length": 3,
-      "clue": "Hekimlik bilimi",
+      "clue": "Bulmacada Hekimlik bilimi karşılığını veren yanıt",
       "answer": "TIP"
     },
     {
@@ -211,7 +211,7 @@
       "row": 5,
       "col": 5,
       "length": 4,
-      "clue": "Gerçek, hakiki",
+      "clue": "Gerçek ya da hakiki için kullanılan yaygın ifade",
       "answer": "ASIL"
     },
     {
@@ -220,7 +220,7 @@
       "row": 7,
       "col": 7,
       "length": 5,
-      "clue": "Yas, acı",
+      "clue": "Bulmacada Yas ya da acı karşılığını veren yanıt",
       "answer": "MATEM"
     }
   ]

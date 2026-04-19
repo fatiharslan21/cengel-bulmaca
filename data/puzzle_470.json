@@ -123,7 +123,7 @@
       "row": 0,
       "col": 1,
       "length": 7,
-      "clue": "Üzülme",
+      "clue": "Üzülme anlamına gelen sözcük",
       "answer": "TEESSÜR"
     },
     {
@@ -132,7 +132,7 @@
       "row": 1,
       "col": 8,
       "length": 5,
-      "clue": "Talih, yükselme",
+      "clue": "Bulmacada Talih ya da yükselme karşılığını veren yanıt",
       "answer": "İKBAL"
     },
     {
@@ -141,7 +141,7 @@
       "row": 2,
       "col": 5,
       "length": 4,
-      "clue": "Arzu, istek",
+      "clue": "Arzu ya da istek için kullanılan yaygın ifade",
       "answer": "ŞEVK"
     },
     {
@@ -150,7 +150,7 @@
       "row": 4,
       "col": 4,
       "length": 5,
-      "clue": "Aşk, tutku",
+      "clue": "Günlük dilde Aşk ya da tutku olarak bilinen kavram",
       "answer": "SEVDA"
     },
     {
@@ -159,7 +159,7 @@
       "row": 5,
       "col": 0,
       "length": 5,
-      "clue": "İyi haber",
+      "clue": "İyi haber anlamına gelen sözcük",
       "answer": "MÜJDE"
     },
     {
@@ -168,7 +168,7 @@
       "row": 5,
       "col": 6,
       "length": 5,
-      "clue": "Üzüntü",
+      "clue": "Bulmacada Üzüntü karşılığını veren yanıt",
       "answer": "KEDER"
     },
     {
@@ -177,7 +177,7 @@
       "row": 5,
       "col": 6,
       "length": 3,
-      "clue": "Yanık kalıntısı",
+      "clue": "Yanık kalıntısı için kullanılan yaygın ifade",
       "answer": "KÜL"
     },
     {
@@ -186,7 +186,7 @@
       "row": 7,
       "col": 2,
       "length": 3,
-      "clue": "Uzaklaşma eylemi",
+      "clue": "Bulmacada Uzaklaşma eylemi karşılığını veren yanıt",
       "answer": "GİT"
     },
     {
@@ -195,7 +195,7 @@
       "row": 7,
       "col": 4,
       "length": 5,
-      "clue": "Üflemeli ses aleti",
+      "clue": "Üflemeli ses aleti karşılığı olarak kullanılan kelime",
       "answer": "DÜDÜK"
     },
     {
@@ -204,7 +204,7 @@
       "row": 8,
       "col": 1,
       "length": 4,
-      "clue": "Seslenme",
+      "clue": "Bulmacada Seslenme karşılığını veren yanıt",
       "answer": "NİDA"
     }
   ]

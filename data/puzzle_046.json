@@ -94,7 +94,7 @@
       "row": 0,
       "col": 3,
       "length": 5,
-      "clue": "Bitkinin renkli kısmı",
+      "clue": "Bulmacada Bitkinin renkli kısmı karşılığını veren yanıt",
       "answer": "ÇİÇEK"
     },
     {
@@ -103,7 +103,7 @@
       "row": 1,
       "col": 0,
       "length": 3,
-      "clue": "Bir şeye ilişkin",
+      "clue": "Bulmacada Bir şeye ilişkin karşılığını veren yanıt",
       "answer": "AİT"
     },
     {
@@ -112,7 +112,7 @@
       "row": 1,
       "col": 2,
       "length": 3,
-      "clue": "Çiğneme organı",
+      "clue": "Bulmacada Çiğneme organı karşılığını veren yanıt",
       "answer": "DİŞ"
     },
     {
@@ -121,7 +121,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "Adet, parça",
+      "clue": "Günlük dilde Adet ya da parça olarak bilinen kavram",
       "answer": "TANE"
     },
     {
@@ -130,7 +130,7 @@
       "row": 3,
       "col": 1,
       "length": 3,
-      "clue": "Sunma, takdim",
+      "clue": "Sunma ya da takdim anlamına gelen sözcük",
       "answer": "ARZ"
     },
     {
@@ -139,7 +139,7 @@
       "row": 4,
       "col": 3,
       "length": 4,
-      "clue": "Eşya kabı",
+      "clue": "Eşya kabı karşılığı olarak kullanılan kelime",
       "answer": "KUTU"
     },
     {
@@ -148,7 +148,7 @@
       "row": 4,
       "col": 5,
       "length": 4,
-      "clue": "Kızarmış sandviç",
+      "clue": "Kızarmış sandviç anlamına gelen sözcük",
       "answer": "TOST"
     },
     {
@@ -157,7 +157,7 @@
       "row": 6,
       "col": 3,
       "length": 3,
-      "clue": "Yaklaşma eylemi",
+      "clue": "Yaklaşma eylemi karşılığı olarak kullanılan kelime",
       "answer": "GEL"
     },
     {
@@ -166,7 +166,7 @@
       "row": 7,
       "col": 2,
       "length": 4,
-      "clue": "Şehir",
+      "clue": "Şehir anlamına gelen sözcük",
       "answer": "KENT"
     }
   ]

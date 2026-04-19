@@ -112,7 +112,7 @@
       "row": 0,
       "col": 2,
       "length": 4,
-      "clue": "Toprak eşme",
+      "clue": "Bulmacada Toprak eşme karşılığını veren yanıt",
       "answer": "KAZI"
     },
     {
@@ -121,7 +121,7 @@
       "row": 1,
       "col": 2,
       "length": 4,
-      "clue": "Av yapan kişi",
+      "clue": "Av yapan kişi anlamına gelen sözcük",
       "answer": "AVCI"
     },
     {
@@ -130,7 +130,7 @@
       "row": 1,
       "col": 4,
       "length": 5,
-      "clue": "Geniş ana yol",
+      "clue": "Geniş ana yol için kullanılan yaygın ifade",
       "answer": "CADDE"
     },
     {
@@ -139,7 +139,7 @@
       "row": 2,
       "col": 8,
       "length": 3,
-      "clue": "Ses çıkaran metal",
+      "clue": "Ses çıkaran metal karşılığı olarak kullanılan kelime",
       "answer": "ÇAN"
     },
     {
@@ -148,7 +148,7 @@
       "row": 3,
       "col": 4,
       "length": 5,
-      "clue": "Yaşadığımız gezegen",
+      "clue": "Bulmacada Yaşadığımız gezegen karşılığını veren yanıt",
       "answer": "DÜNYA"
     },
     {
@@ -157,7 +157,7 @@
       "row": 4,
       "col": 1,
       "length": 4,
-      "clue": "Üçten sonra gelen",
+      "clue": "Üçten sonra gelen için kullanılan yaygın ifade",
       "answer": "DÖRT"
     },
     {
@@ -166,7 +166,7 @@
       "row": 5,
       "col": 0,
       "length": 5,
-      "clue": "Işık arkası",
+      "clue": "Işık arkası için kullanılan yaygın ifade",
       "answer": "GÖLGE"
     },
     {
@@ -175,7 +175,7 @@
       "row": 5,
       "col": 3,
       "length": 4,
-      "clue": "Deniz taşıtı",
+      "clue": "Bulmacada Deniz taşıtı karşılığını veren yanıt",
       "answer": "GEMİ"
     },
     {
@@ -184,7 +184,7 @@
       "row": 8,
       "col": 3,
       "length": 4,
-      "clue": "Tedavi maddesi",
+      "clue": "Tedavi maddesi için kullanılan yaygın ifade",
       "answer": "İLAÇ"
     }
   ]

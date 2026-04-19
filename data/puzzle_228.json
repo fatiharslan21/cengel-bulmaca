@@ -145,7 +145,7 @@
       "row": 0,
       "col": 6,
       "length": 6,
-      "clue": "Ülke yönetimi",
+      "clue": "Ülke yönetimi için kullanılan yaygın ifade",
       "answer": "DEVLET"
     },
     {
@@ -154,7 +154,7 @@
       "row": 3,
       "col": 2,
       "length": 5,
-      "clue": "Kutlama tatlısı",
+      "clue": "Kutlama tatlısı anlamına gelen sözcük",
       "answer": "PASTA"
     },
     {
@@ -163,7 +163,7 @@
       "row": 3,
       "col": 4,
       "length": 6,
-      "clue": "İçecek kabı",
+      "clue": "İçecek kabı anlamına gelen sözcük",
       "answer": "BARDAK"
     },
     {
@@ -172,7 +172,7 @@
       "row": 3,
       "col": 4,
       "length": 3,
-      "clue": "Arı ürünü tatlı",
+      "clue": "Arı ürünü tatlı için kullanılan yaygın ifade",
       "answer": "BAL"
     },
     {
@@ -181,7 +181,7 @@
       "row": 4,
       "col": 1,
       "length": 4,
-      "clue": "Ateş aleti",
+      "clue": "Günlük dilde Ateş aleti olarak bilinen kavram",
       "answer": "MAŞA"
     },
     {
@@ -190,7 +190,7 @@
       "row": 5,
       "col": 6,
       "length": 4,
-      "clue": "Bağlama aracı",
+      "clue": "Bağlama aracı anlamına gelen sözcük",
       "answer": "TOKA"
     },
     {
@@ -199,7 +199,7 @@
       "row": 6,
       "col": 0,
       "length": 3,
-      "clue": "Bahçe engeli",
+      "clue": "Bulmacada Bahçe engeli karşılığını veren yanıt",
       "answer": "ÇİT"
     },
     {
@@ -208,7 +208,7 @@
       "row": 7,
       "col": 4,
       "length": 4,
-      "clue": "Elektrik hareketi",
+      "clue": "Elektrik hareketi için kullanılan yaygın ifade",
       "answer": "AKIM"
     },
     {
@@ -217,7 +217,7 @@
       "row": 7,
       "col": 7,
       "length": 4,
-      "clue": "Otlak alan",
+      "clue": "Bulmacada Otlak alan karşılığını veren yanıt",
       "answer": "MERA"
     },
     {
@@ -226,7 +226,7 @@
       "row": 10,
       "col": 6,
       "length": 3,
-      "clue": "Damar sıvısı",
+      "clue": "Bulmacada Damar sıvısı karşılığını veren yanıt",
       "answer": "KAN"
     }
   ]

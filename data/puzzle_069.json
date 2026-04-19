@@ -109,7 +109,7 @@
       "row": 0,
       "col": 5,
       "length": 4,
-      "clue": "Kez, kere",
+      "clue": "Günlük dilde Kez ya da kere olarak bilinen kavram",
       "answer": "DEFA"
     },
     {
@@ -118,7 +118,7 @@
       "row": 1,
       "col": 4,
       "length": 3,
-      "clue": "Lider, baş aşçı",
+      "clue": "Günlük dilde Lider ya da baş aşçı olarak bilinen kavram",
       "answer": "ŞEF"
     },
     {
@@ -127,7 +127,7 @@
       "row": 3,
       "col": 4,
       "length": 5,
-      "clue": "Evin yeşil alanı",
+      "clue": "Evin yeşil alanı anlamına gelen sözcük",
       "answer": "BAHÇE"
     },
     {
@@ -136,7 +136,7 @@
       "row": 3,
       "col": 4,
       "length": 5,
-      "clue": "Suda yaşayan canlı",
+      "clue": "Suda yaşayan canlı karşılığı olarak kullanılan kelime",
       "answer": "BALIK"
     },
     {
@@ -145,7 +145,7 @@
       "row": 3,
       "col": 7,
       "length": 5,
-      "clue": "Etraf, çepeçevre",
+      "clue": "Bir şeyin etrafını kuşatan alan",
       "answer": "ÇEVRE"
     },
     {
@@ -154,7 +154,7 @@
       "row": 4,
       "col": 0,
       "length": 4,
-      "clue": "Yeşil alan",
+      "clue": "Günlük dilde Yeşil alan olarak bilinen kavram",
       "answer": "PARK"
     },
     {
@@ -163,7 +163,7 @@
       "row": 5,
       "col": 9,
       "length": 3,
-      "clue": "Tropikal meyve",
+      "clue": "Tropikal meyve karşılığı olarak kullanılan kelime",
       "answer": "MUZ"
     },
     {
@@ -172,7 +172,7 @@
       "row": 6,
       "col": 6,
       "length": 4,
-      "clue": "Silahlı kuvvetler",
+      "clue": "Günlük dilde Silahlı kuvvetler olarak bilinen kavram",
       "answer": "ORDU"
     },
     {
@@ -181,7 +181,7 @@
       "row": 7,
       "col": 0,
       "length": 5,
-      "clue": "Sadık evcil hayvan",
+      "clue": "Sadık evcil hayvan anlamına gelen sözcük",
       "answer": "KÖPEK"
     }
   ]

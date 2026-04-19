@@ -123,7 +123,7 @@
       "row": 0,
       "col": 2,
       "length": 4,
-      "clue": "Yeşil alan",
+      "clue": "Günlük dilde Yeşil alan olarak bilinen kavram",
       "answer": "PARK"
     },
     {
@@ -132,7 +132,7 @@
       "row": 1,
       "col": 1,
       "length": 3,
-      "clue": "Durum, vaziyet",
+      "clue": "Bulmacada Durum ya da vaziyet karşılığını veren yanıt",
       "answer": "HAL"
     },
     {
@@ -141,7 +141,7 @@
       "row": 3,
       "col": 0,
       "length": 5,
-      "clue": "Ambalajlı koli",
+      "clue": "Ambalajlı koli karşılığı olarak kullanılan kelime",
       "answer": "PAKET"
     },
     {
@@ -150,7 +150,7 @@
       "row": 3,
       "col": 1,
       "length": 3,
-      "clue": "Koruyucu ilaç",
+      "clue": "Bulmacada Koruyucu ilaç karşılığını veren yanıt",
       "answer": "AŞI"
     },
     {
@@ -159,7 +159,7 @@
       "row": 3,
       "col": 4,
       "length": 4,
-      "clue": "Kızarmış sandviç",
+      "clue": "Kızarmış sandviç anlamına gelen sözcük",
       "answer": "TOST"
     },
     {
@@ -168,7 +168,7 @@
       "row": 3,
       "col": 8,
       "length": 4,
-      "clue": "Ev, konut",
+      "clue": "Ev ya da konut karşılığı olarak kullanılan kelime",
       "answer": "HANE"
     },
     {
@@ -177,7 +177,7 @@
       "row": 5,
       "col": 4,
       "length": 5,
-      "clue": "Temizlik maddesi",
+      "clue": "Günlük dilde Temizlik maddesi olarak bilinen kavram",
       "answer": "SABUN"
     },
     {
@@ -186,7 +186,7 @@
       "row": 5,
       "col": 6,
       "length": 5,
-      "clue": "Öğrenilen her şey",
+      "clue": "Bulmacada Öğrenilen her şey karşılığını veren yanıt",
       "answer": "BİLGİ"
     },
     {
@@ -195,7 +195,7 @@
       "row": 7,
       "col": 5,
       "length": 3,
-      "clue": "Birinci, baştaki",
+      "clue": "Birinci ya da baştaki anlamına gelen sözcük",
       "answer": "İLK"
     },
     {
@@ -204,7 +204,7 @@
       "row": 9,
       "col": 3,
       "length": 4,
-      "clue": "Deniz taşıtı",
+      "clue": "Bulmacada Deniz taşıtı karşılığını veren yanıt",
       "answer": "GEMİ"
     }
   ]

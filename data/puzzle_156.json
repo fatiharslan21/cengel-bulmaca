@@ -112,7 +112,7 @@
       "row": 0,
       "col": 5,
       "length": 3,
-      "clue": "Mekan, konum",
+      "clue": "Günlük dilde Mekan ya da konum olarak bilinen kavram",
       "answer": "YER"
     },
     {
@@ -121,7 +121,7 @@
       "row": 1,
       "col": 1,
       "length": 4,
-      "clue": "Başarı karşılığı",
+      "clue": "Bulmacada Başarı karşılığı karşılığını veren yanıt",
       "answer": "ÖDÜL"
     },
     {
@@ -130,7 +130,7 @@
       "row": 2,
       "col": 3,
       "length": 3,
-      "clue": "Baştaki kıllar",
+      "clue": "Baştaki kıllar anlamına gelen sözcük",
       "answer": "SAÇ"
     },
     {
@@ -139,7 +139,7 @@
       "row": 2,
       "col": 3,
       "length": 4,
-      "clue": "Altın rengi",
+      "clue": "Altın rengi için kullanılan yaygın ifade",
       "answer": "SARI"
     },
     {
@@ -148,7 +148,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "Uykuda hayal",
+      "clue": "Uykuda hayal karşılığı olarak kullanılan kelime",
       "answer": "RÜYA"
     },
     {
@@ -157,7 +157,7 @@
       "row": 3,
       "col": 7,
       "length": 4,
-      "clue": "Suça yaptırım",
+      "clue": "Bulmacada Suça yaptırım karşılığını veren yanıt",
       "answer": "CEZA"
     },
     {
@@ -166,7 +166,7 @@
       "row": 4,
       "col": 3,
       "length": 5,
-      "clue": "Etraf, çepeçevre",
+      "clue": "Bir şeyin etrafını kuşatan alan",
       "answer": "ÇEVRE"
     },
     {
@@ -175,7 +175,7 @@
       "row": 6,
       "col": 4,
       "length": 5,
-      "clue": "Yemek kabı",
+      "clue": "Yemek kabı anlamına gelen sözcük",
       "answer": "TABAK"
     },
     {
@@ -184,7 +184,7 @@
       "row": 6,
       "col": 5,
       "length": 3,
-      "clue": "Hatıra, geçmiş olay",
+      "clue": "Hatıra ya da geçmiş olay karşılığı olarak kullanılan kelime",
       "answer": "ANI"
     },
     {
@@ -193,7 +193,7 @@
       "row": 6,
       "col": 8,
       "length": 3,
-      "clue": "İçine konan kab",
+      "clue": "Bulmacada İçine konan kab karşılığını veren yanıt",
       "answer": "KAP"
     }
   ]

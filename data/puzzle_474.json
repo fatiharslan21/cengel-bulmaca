@@ -145,7 +145,7 @@
       "row": 0,
       "col": 8,
       "length": 4,
-      "clue": "Mutlaka yapılması gereken",
+      "clue": "Bulmacada Mutlaka yapılması gereken karşılığını veren yanıt",
       "answer": "FARZ"
     },
     {
@@ -154,7 +154,7 @@
       "row": 1,
       "col": 4,
       "length": 6,
-      "clue": "Sevgi, acıma",
+      "clue": "Bulmacada Sevgi ya da acıma karşılığını veren yanıt",
       "answer": "ŞEFKAT"
     },
     {
@@ -163,7 +163,7 @@
       "row": 1,
       "col": 6,
       "length": 5,
-      "clue": "Feryat, ağlama",
+      "clue": "Günlük dilde Feryat ya da ağlama olarak bilinen kavram",
       "answer": "FİGAN"
     },
     {
@@ -172,7 +172,7 @@
       "row": 3,
       "col": 1,
       "length": 4,
-      "clue": "İnanç",
+      "clue": "Bulmacada İnanç karşılığını veren yanıt",
       "answer": "İMAN"
     },
     {
@@ -181,7 +181,7 @@
       "row": 4,
       "col": 3,
       "length": 4,
-      "clue": "Ferahlatıcı bitki",
+      "clue": "Ferahlatıcı bitki anlamına gelen sözcük",
       "answer": "NANE"
     },
     {
@@ -190,7 +190,7 @@
       "row": 4,
       "col": 3,
       "length": 5,
-      "clue": "Yakarma",
+      "clue": "Günlük dilde Yakarma olarak bilinen kavram",
       "answer": "NİYAZ"
     },
     {
@@ -199,7 +199,7 @@
       "row": 5,
       "col": 0,
       "length": 4,
-      "clue": "Yanlış, kusur",
+      "clue": "Günlük dilde Yanlış ya da kusur olarak bilinen kavram",
       "answer": "HATA"
     },
     {
@@ -208,7 +208,7 @@
       "row": 7,
       "col": 2,
       "length": 4,
-      "clue": "Sözünde durma",
+      "clue": "Sözünde durma karşılığı olarak kullanılan kelime",
       "answer": "VEFA"
     },
     {
@@ -217,7 +217,7 @@
       "row": 7,
       "col": 5,
       "length": 4,
-      "clue": "Hafif olmayan",
+      "clue": "Hafif olmayan için kullanılan yaygın ifade",
       "answer": "AĞIR"
     },
     {
@@ -226,7 +226,7 @@
       "row": 10,
       "col": 3,
       "length": 4,
-      "clue": "Zodyak işareti",
+      "clue": "Günlük dilde Zodyak işareti olarak bilinen kavram",
       "answer": "BURÇ"
     }
   ]

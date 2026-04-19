@@ -123,7 +123,7 @@
       "row": 0,
       "col": 3,
       "length": 4,
-      "clue": "Anlama yeteneği",
+      "clue": "Anlama yeteneği için kullanılan yaygın ifade",
       "answer": "ZEKA"
     },
     {
@@ -132,7 +132,7 @@
       "row": 1,
       "col": 2,
       "length": 3,
-      "clue": "Vücudun orta bölümü",
+      "clue": "Bulmacada Vücudun orta bölümü karşılığını veren yanıt",
       "answer": "BEL"
     },
     {
@@ -141,7 +141,7 @@
       "row": 3,
       "col": 2,
       "length": 3,
-      "clue": "Sert kayaç parçası",
+      "clue": "Sert kayaç parçası için kullanılan yaygın ifade",
       "answer": "TAŞ"
     },
     {
@@ -150,7 +150,7 @@
       "row": 3,
       "col": 2,
       "length": 5,
-      "clue": "Küçük deniz taşıtı",
+      "clue": "Küçük deniz taşıtı anlamına gelen sözcük",
       "answer": "TEKNE"
     },
     {
@@ -159,7 +159,7 @@
       "row": 5,
       "col": 0,
       "length": 4,
-      "clue": "Gömlek boyun kısmı",
+      "clue": "Gömlek boyun kısmı için kullanılan yaygın ifade",
       "answer": "YAKA"
     },
     {
@@ -168,7 +168,7 @@
       "row": 6,
       "col": 6,
       "length": 3,
-      "clue": "Bitiş, final",
+      "clue": "Bitiş ya da final için kullanılan yaygın ifade",
       "answer": "SON"
     },
     {
@@ -177,7 +177,7 @@
       "row": 6,
       "col": 7,
       "length": 4,
-      "clue": "Eğitim kurumu",
+      "clue": "Eğitim kurumu için kullanılan yaygın ifade",
       "answer": "OKUL"
     },
     {
@@ -186,7 +186,7 @@
       "row": 7,
       "col": 1,
       "length": 5,
-      "clue": "Kanatlı kutsal varlık",
+      "clue": "Bulmacada Kanatlı kutsal varlık karşılığını veren yanıt",
       "answer": "MELEK"
     },
     {
@@ -195,7 +195,7 @@
       "row": 7,
       "col": 5,
       "length": 3,
-      "clue": "Kanatlı uçan hayvan",
+      "clue": "Kanatlı uçan hayvan anlamına gelen sözcük",
       "answer": "KUŞ"
     },
     {
@@ -204,7 +204,7 @@
       "row": 8,
       "col": 5,
       "length": 3,
-      "clue": "Yüce, büyük",
+      "clue": "Yüce ya da büyük anlamına gelen sözcük",
       "answer": "ULU"
     }
   ]

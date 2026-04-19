@@ -130,7 +130,7 @@
       "row": 0,
       "col": 3,
       "length": 4,
-      "clue": "Yük hayvanı",
+      "clue": "Yük hayvanı için kullanılan yaygın ifade",
       "answer": "EŞEK"
     },
     {
@@ -139,7 +139,7 @@
       "row": 0,
       "col": 6,
       "length": 4,
-      "clue": "Yüksek yapı",
+      "clue": "Bulmacada Yüksek yapı karşılığını veren yanıt",
       "answer": "KULE"
     },
     {
@@ -148,7 +148,7 @@
       "row": 3,
       "col": 0,
       "length": 3,
-      "clue": "Ömür süresi",
+      "clue": "Ömür süresi anlamına gelen sözcük",
       "answer": "YAŞ"
     },
     {
@@ -157,7 +157,7 @@
       "row": 3,
       "col": 2,
       "length": 3,
-      "clue": "Ün, şöhret",
+      "clue": "Günlük dilde Ün ya da şöhret olarak bilinen kavram",
       "answer": "ŞAN"
     },
     {
@@ -166,7 +166,7 @@
       "row": 3,
       "col": 5,
       "length": 5,
-      "clue": "Yenilebilen bitki",
+      "clue": "Yenilebilen bitki için kullanılan yaygın ifade",
       "answer": "SEBZE"
     },
     {
@@ -175,7 +175,7 @@
       "row": 3,
       "col": 5,
       "length": 3,
-      "clue": "Baştaki kıllar",
+      "clue": "Baştaki kıllar anlamına gelen sözcük",
       "answer": "SAÇ"
     },
     {
@@ -184,7 +184,7 @@
       "row": 3,
       "col": 7,
       "length": 6,
-      "clue": "Bina çıkıntısı",
+      "clue": "Bina çıkıntısı karşılığı olarak kullanılan kelime",
       "answer": "BALKON"
     },
     {
@@ -193,7 +193,7 @@
       "row": 4,
       "col": 2,
       "length": 4,
-      "clue": "Yansıtıcı cam",
+      "clue": "Bulmacada Yansıtıcı cam karşılığını veren yanıt",
       "answer": "AYNA"
     },
     {
@@ -202,7 +202,7 @@
       "row": 6,
       "col": 7,
       "length": 4,
-      "clue": "Düz ince levha",
+      "clue": "Düz ince levha anlamına gelen sözcük",
       "answer": "KART"
     },
     {
@@ -211,7 +211,7 @@
       "row": 6,
       "col": 10,
       "length": 3,
-      "clue": "Lezzet verici",
+      "clue": "Lezzet verici anlamına gelen sözcük",
       "answer": "TUZ"
     }
   ]

@@ -112,7 +112,7 @@
       "row": 0,
       "col": 6,
       "length": 4,
-      "clue": "Kırmızı meyve",
+      "clue": "Bulmacada Kırmızı meyve karşılığını veren yanıt",
       "answer": "ELMA"
     },
     {
@@ -121,7 +121,7 @@
       "row": 1,
       "col": 3,
       "length": 4,
-      "clue": "Ayrım, değişiklik",
+      "clue": "Ayrım ya da değişiklik anlamına gelen sözcük",
       "answer": "FARK"
     },
     {
@@ -130,7 +130,7 @@
       "row": 1,
       "col": 5,
       "length": 4,
-      "clue": "Tedavi maddesi",
+      "clue": "Tedavi maddesi için kullanılan yaygın ifade",
       "answer": "İLAÇ"
     },
     {
@@ -139,7 +139,7 @@
       "row": 3,
       "col": 3,
       "length": 4,
-      "clue": "Uykuda hayal",
+      "clue": "Uykuda hayal karşılığı olarak kullanılan kelime",
       "answer": "RÜYA"
     },
     {
@@ -148,7 +148,7 @@
       "row": 3,
       "col": 5,
       "length": 4,
-      "clue": "Kuş evi",
+      "clue": "Kuş evi için kullanılan yaygın ifade",
       "answer": "YUVA"
     },
     {
@@ -157,7 +157,7 @@
       "row": 4,
       "col": 0,
       "length": 4,
-      "clue": "Bacak ucu",
+      "clue": "Günlük dilde Bacak ucu olarak bilinen kavram",
       "answer": "AYAK"
     },
     {
@@ -166,7 +166,7 @@
       "row": 6,
       "col": 4,
       "length": 3,
-      "clue": "Evin çatısı",
+      "clue": "Evin çatısı anlamına gelen sözcük",
       "answer": "DAM"
     },
     {
@@ -175,7 +175,7 @@
       "row": 6,
       "col": 4,
       "length": 3,
-      "clue": "Yön değiştir",
+      "clue": "Yön değiştir karşılığı olarak kullanılan kelime",
       "answer": "DÖN"
     },
     {
@@ -184,7 +184,7 @@
       "row": 8,
       "col": 2,
       "length": 3,
-      "clue": "Hayat, yaşam",
+      "clue": "Hayat ya da yaşam anlamına gelen sözcük",
       "answer": "CAN"
     }
   ]

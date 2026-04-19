@@ -153,7 +153,7 @@
       "row": 0,
       "col": 3,
       "length": 5,
-      "clue": "Kitap yazan",
+      "clue": "Kitap yazan için kullanılan yaygın ifade",
       "answer": "YAZAR"
     },
     {
@@ -162,7 +162,7 @@
       "row": 1,
       "col": 2,
       "length": 3,
-      "clue": "Bina bölümü",
+      "clue": "Bulmacada Bina bölümü karşılığını veren yanıt",
       "answer": "KAT"
     },
     {
@@ -171,7 +171,7 @@
       "row": 4,
       "col": 1,
       "length": 4,
-      "clue": "Sıkıntı, üzüntü",
+      "clue": "Günlük dilde Sıkıntı ya da üzüntü olarak bilinen kavram",
       "answer": "DERT"
     },
     {
@@ -180,7 +180,7 @@
       "row": 4,
       "col": 4,
       "length": 5,
-      "clue": "Şans, baht",
+      "clue": "Bulmacada Şans ya da baht karşılığını veren yanıt",
       "answer": "TALİH"
     },
     {
@@ -189,7 +189,7 @@
       "row": 5,
       "col": 8,
       "length": 5,
-      "clue": "Bitkinin renkli kısmı",
+      "clue": "Bulmacada Bitkinin renkli kısmı karşılığını veren yanıt",
       "answer": "ÇİÇEK"
     },
     {
@@ -198,7 +198,7 @@
       "row": 5,
       "col": 8,
       "length": 4,
-      "clue": "İki adet, eş",
+      "clue": "İki adet ya da eş karşılığı olarak kullanılan kelime",
       "answer": "ÇİFT"
     },
     {
@@ -207,7 +207,7 @@
       "row": 6,
       "col": 0,
       "length": 5,
-      "clue": "Yok olma",
+      "clue": "Bulmacada Yok olma karşılığını veren yanıt",
       "answer": "ZEVAL"
     },
     {
@@ -216,7 +216,7 @@
       "row": 6,
       "col": 1,
       "length": 4,
-      "clue": "Sanat yapıtı",
+      "clue": "Bulmacada Sanat yapıtı karşılığını veren yanıt",
       "answer": "ESER"
     },
     {
@@ -225,7 +225,7 @@
       "row": 8,
       "col": 4,
       "length": 5,
-      "clue": "Pay, nasip",
+      "clue": "Bulmacada Pay ya da nasip karşılığını veren yanıt",
       "answer": "HİSSE"
     },
     {
@@ -234,7 +234,7 @@
       "row": 9,
       "col": 8,
       "length": 4,
-      "clue": "Düz ince levha",
+      "clue": "Düz ince levha anlamına gelen sözcük",
       "answer": "KART"
     }
   ]

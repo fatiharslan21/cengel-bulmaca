@@ -123,7 +123,7 @@
       "row": 0,
       "col": 1,
       "length": 4,
-      "clue": "Eğitim kurumu",
+      "clue": "Eğitim kurumu için kullanılan yaygın ifade",
       "answer": "OKUL"
     },
     {
@@ -132,7 +132,7 @@
       "row": 0,
       "col": 2,
       "length": 4,
-      "clue": "Su kabı",
+      "clue": "Günlük dilde Su kabı olarak bilinen kavram",
       "answer": "KOVA"
     },
     {
@@ -141,7 +141,7 @@
       "row": 1,
       "col": 5,
       "length": 3,
-      "clue": "Konuşma organı",
+      "clue": "Konuşma organı anlamına gelen sözcük",
       "answer": "DİL"
     },
     {
@@ -150,7 +150,7 @@
       "row": 1,
       "col": 5,
       "length": 3,
-      "clue": "Yüksek arazi şekli",
+      "clue": "Yüksek arazi şekli için kullanılan yaygın ifade",
       "answer": "DAĞ"
     },
     {
@@ -159,7 +159,7 @@
       "row": 3,
       "col": 1,
       "length": 5,
-      "clue": "Bilme isteği",
+      "clue": "Bilme isteği için kullanılan yaygın ifade",
       "answer": "MERAK"
     },
     {
@@ -168,7 +168,7 @@
       "row": 3,
       "col": 1,
       "length": 5,
-      "clue": "Hayal ürünü hikaye",
+      "clue": "Hayal ürünü hikaye karşılığı olarak kullanılan kelime",
       "answer": "MASAL"
     },
     {
@@ -177,7 +177,7 @@
       "row": 5,
       "col": 0,
       "length": 4,
-      "clue": "Üstünü kapatan",
+      "clue": "Üstünü kapatan karşılığı olarak kullanılan kelime",
       "answer": "ÖRTÜ"
     },
     {
@@ -186,7 +186,7 @@
       "row": 6,
       "col": 4,
       "length": 5,
-      "clue": "Yazı aleti",
+      "clue": "Günlük dilde Yazı aleti olarak bilinen kavram",
       "answer": "KALEM"
     },
     {
@@ -195,7 +195,7 @@
       "row": 7,
       "col": 1,
       "length": 4,
-      "clue": "Ödül bardağı",
+      "clue": "Ödül bardağı anlamına gelen sözcük",
       "answer": "KUPA"
     }
   ]

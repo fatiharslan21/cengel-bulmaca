@@ -121,7 +121,7 @@
       "row": 0,
       "col": 1,
       "length": 3,
-      "clue": "Vücudun orta bölümü",
+      "clue": "Bulmacada Vücudun orta bölümü karşılığını veren yanıt",
       "answer": "BEL"
     },
     {
@@ -130,7 +130,7 @@
       "row": 1,
       "col": 4,
       "length": 3,
-      "clue": "İğne yapraklı ağaç",
+      "clue": "Bulmacada İğne yapraklı ağaç karşılığını veren yanıt",
       "answer": "ÇAM"
     },
     {
@@ -139,7 +139,7 @@
       "row": 1,
       "col": 5,
       "length": 3,
-      "clue": "Tatlının zıttı",
+      "clue": "Bulmacada Tatlının zıttı karşılığını veren yanıt",
       "answer": "ACI"
     },
     {
@@ -148,7 +148,7 @@
       "row": 2,
       "col": 0,
       "length": 4,
-      "clue": "Tedavi maddesi",
+      "clue": "Tedavi maddesi için kullanılan yaygın ifade",
       "answer": "İLAÇ"
     },
     {
@@ -157,7 +157,7 @@
       "row": 2,
       "col": 3,
       "length": 4,
-      "clue": "Bodur ağaç",
+      "clue": "Bodur ağaç anlamına gelen sözcük",
       "answer": "ÇALI"
     },
     {
@@ -166,7 +166,7 @@
       "row": 3,
       "col": 3,
       "length": 3,
-      "clue": "Hatıra, geçmiş olay",
+      "clue": "Hatıra ya da geçmiş olay karşılığı olarak kullanılan kelime",
       "answer": "ANI"
     },
     {
@@ -175,7 +175,7 @@
       "row": 3,
       "col": 7,
       "length": 6,
-      "clue": "Başkent",
+      "clue": "Başkent karşılığı olarak kullanılan kelime",
       "answer": "ANKARA"
     },
     {
@@ -184,7 +184,7 @@
       "row": 4,
       "col": 1,
       "length": 3,
-      "clue": "Dev kara hayvanı",
+      "clue": "Dev kara hayvanı karşılığı olarak kullanılan kelime",
       "answer": "FİL"
     },
     {
@@ -193,7 +193,7 @@
       "row": 5,
       "col": 3,
       "length": 5,
-      "clue": "Suyla ıslanmış",
+      "clue": "Bulmacada Suyla ıslanmış karşılığını veren yanıt",
       "answer": "ISLAK"
     },
     {
@@ -202,7 +202,7 @@
       "row": 7,
       "col": 5,
       "length": 5,
-      "clue": "En yüksek nokta",
+      "clue": "En yüksek nokta karşılığı olarak kullanılan kelime",
       "answer": "ZİRVE"
     }
   ]

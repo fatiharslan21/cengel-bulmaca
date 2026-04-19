@@ -112,7 +112,7 @@
       "row": 0,
       "col": 3,
       "length": 6,
-      "clue": "Ülke yönetimi",
+      "clue": "Ülke yönetimi için kullanılan yaygın ifade",
       "answer": "DEVLET"
     },
     {
@@ -121,7 +121,7 @@
       "row": 1,
       "col": 2,
       "length": 5,
-      "clue": "Esas, kök",
+      "clue": "Esas ya da kök anlamına gelen sözcük",
       "answer": "TEMEL"
     },
     {
@@ -130,7 +130,7 @@
       "row": 3,
       "col": 1,
       "length": 5,
-      "clue": "Şans, baht",
+      "clue": "Bulmacada Şans ya da baht karşılığını veren yanıt",
       "answer": "TALİH"
     },
     {
@@ -139,7 +139,7 @@
       "row": 5,
       "col": 1,
       "length": 5,
-      "clue": "Issız, boş",
+      "clue": "Issız ya da boş için kullanılan yaygın ifade",
       "answer": "TENHA"
     },
     {
@@ -148,7 +148,7 @@
       "row": 5,
       "col": 1,
       "length": 3,
-      "clue": "Damaktaki lezzet",
+      "clue": "Günlük dilde Damaktaki lezzet olarak bilinen kavram",
       "answer": "TAT"
     },
     {
@@ -157,7 +157,7 @@
       "row": 5,
       "col": 6,
       "length": 4,
-      "clue": "Bitki yapısı",
+      "clue": "Günlük dilde Bitki yapısı olarak bilinen kavram",
       "answer": "SERA"
     },
     {
@@ -166,7 +166,7 @@
       "row": 8,
       "col": 3,
       "length": 3,
-      "clue": "Oyun küpü",
+      "clue": "Günlük dilde Oyun küpü olarak bilinen kavram",
       "answer": "ZAR"
     },
     {
@@ -175,7 +175,7 @@
       "row": 8,
       "col": 3,
       "length": 4,
-      "clue": "Işık, aydınlık",
+      "clue": "Günlük dilde Işık ya da aydınlık olarak bilinen kavram",
       "answer": "ZİYA"
     },
     {
@@ -184,7 +184,7 @@
       "row": 8,
       "col": 5,
       "length": 3,
-      "clue": "Ömür süresi",
+      "clue": "Ömür süresi anlamına gelen sözcük",
       "answer": "YAŞ"
     },
     {
@@ -193,7 +193,7 @@
       "row": 9,
       "col": 0,
       "length": 4,
-      "clue": "Büyük sert taş",
+      "clue": "Büyük sert taş için kullanılan yaygın ifade",
       "answer": "KAYA"
     }
   ]

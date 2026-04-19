@@ -117,7 +117,7 @@
       "row": 0,
       "col": 8,
       "length": 5,
-      "clue": "Kitap yazan",
+      "clue": "Kitap yazan için kullanılan yaygın ifade",
       "answer": "YAZAR"
     },
     {
@@ -126,7 +126,7 @@
       "row": 1,
       "col": 5,
       "length": 3,
-      "clue": "Hatıra, geçmiş olay",
+      "clue": "Hatıra ya da geçmiş olay karşılığı olarak kullanılan kelime",
       "answer": "ANI"
     },
     {
@@ -135,7 +135,7 @@
       "row": 1,
       "col": 5,
       "length": 5,
-      "clue": "Harita kitabı",
+      "clue": "Harita kitabı karşılığı olarak kullanılan kelime",
       "answer": "ATLAS"
     },
     {
@@ -144,7 +144,7 @@
       "row": 2,
       "col": 3,
       "length": 4,
-      "clue": "Ferahlatıcı bitki",
+      "clue": "Ferahlatıcı bitki anlamına gelen sözcük",
       "answer": "NANE"
     },
     {
@@ -153,7 +153,7 @@
       "row": 2,
       "col": 10,
       "length": 3,
-      "clue": "Konuşma organı",
+      "clue": "Konuşma organı anlamına gelen sözcük",
       "answer": "DİL"
     },
     {
@@ -162,7 +162,7 @@
       "row": 3,
       "col": 2,
       "length": 5,
-      "clue": "Suda yaşayan canlı",
+      "clue": "Suda yaşayan canlı karşılığı olarak kullanılan kelime",
       "answer": "BALIK"
     },
     {
@@ -171,7 +171,7 @@
       "row": 3,
       "col": 8,
       "length": 3,
-      "clue": "Yakışıklı, gösterişli",
+      "clue": "Yakışıklı ya da gösterişli anlamına gelen sözcük",
       "answer": "AFİ"
     },
     {
@@ -180,7 +180,7 @@
       "row": 4,
       "col": 1,
       "length": 4,
-      "clue": "Yapışkan şerit",
+      "clue": "Yapışkan şerit karşılığı olarak kullanılan kelime",
       "answer": "BANT"
     },
     {
@@ -189,7 +189,7 @@
       "row": 5,
       "col": 0,
       "length": 4,
-      "clue": "Çözüm yolu",
+      "clue": "Çözüm yolu anlamına gelen sözcük",
       "answer": "ÇARE"
     },
     {
@@ -198,7 +198,7 @@
       "row": 7,
       "col": 1,
       "length": 3,
-      "clue": "Bin kilogram",
+      "clue": "Bin kilogram için kullanılan yaygın ifade",
       "answer": "TON"
     }
   ]

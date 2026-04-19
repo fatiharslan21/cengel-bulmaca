@@ -112,7 +112,7 @@
       "row": 0,
       "col": 6,
       "length": 4,
-      "clue": "Zaman ölçer",
+      "clue": "Bulmacada Zaman ölçer karşılığını veren yanıt",
       "answer": "SAAT"
     },
     {
@@ -121,7 +121,7 @@
       "row": 1,
       "col": 5,
       "length": 3,
-      "clue": "Devir, dönem",
+      "clue": "Devir ya da dönem karşılığı olarak kullanılan kelime",
       "answer": "ÇAĞ"
     },
     {
@@ -130,7 +130,7 @@
       "row": 3,
       "col": 4,
       "length": 3,
-      "clue": "Ses çıkaran metal",
+      "clue": "Ses çıkaran metal karşılığı olarak kullanılan kelime",
       "answer": "ÇAN"
     },
     {
@@ -139,7 +139,7 @@
       "row": 3,
       "col": 4,
       "length": 3,
-      "clue": "Bahçe engeli",
+      "clue": "Bulmacada Bahçe engeli karşılığını veren yanıt",
       "answer": "ÇİT"
     },
     {
@@ -148,7 +148,7 @@
       "row": 4,
       "col": 2,
       "length": 3,
-      "clue": "Ced, büyükbaba",
+      "clue": "Günlük dilde Ced ya da büyükbaba olarak bilinen kavram",
       "answer": "ATA"
     },
     {
@@ -157,7 +157,7 @@
       "row": 4,
       "col": 2,
       "length": 4,
-      "clue": "Av yapan kişi",
+      "clue": "Av yapan kişi anlamına gelen sözcük",
       "answer": "AVCI"
     },
     {
@@ -166,7 +166,7 @@
       "row": 4,
       "col": 8,
       "length": 5,
-      "clue": "Algılama sistemi",
+      "clue": "Algılama sistemi karşılığı olarak kullanılan kelime",
       "answer": "RADAR"
     },
     {
@@ -175,7 +175,7 @@
       "row": 5,
       "col": 4,
       "length": 5,
-      "clue": "En küçük işaret",
+      "clue": "En küçük işaret için kullanılan yaygın ifade",
       "answer": "NOKTA"
     },
     {
@@ -184,7 +184,7 @@
       "row": 6,
       "col": 0,
       "length": 4,
-      "clue": "Ses birimi",
+      "clue": "Ses birimi için kullanılan yaygın ifade",
       "answer": "HECE"
     }
   ]

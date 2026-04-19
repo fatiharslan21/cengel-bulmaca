@@ -121,7 +121,7 @@
       "row": 0,
       "col": 5,
       "length": 5,
-      "clue": "Zaman, süre",
+      "clue": "Bulmacada Zaman ya da süre karşılığını veren yanıt",
       "answer": "VAKİT"
     },
     {
@@ -130,7 +130,7 @@
       "row": 1,
       "col": 4,
       "length": 3,
-      "clue": "Ağacın kolu",
+      "clue": "Bulmacada Ağacın kolu karşılığını veren yanıt",
       "answer": "DAL"
     },
     {
@@ -139,7 +139,7 @@
       "row": 3,
       "col": 3,
       "length": 5,
-      "clue": "Pay, nasip",
+      "clue": "Bulmacada Pay ya da nasip karşılığını veren yanıt",
       "answer": "HİSSE"
     },
     {
@@ -148,7 +148,7 @@
       "row": 4,
       "col": 2,
       "length": 4,
-      "clue": "İki adet, eş",
+      "clue": "İki adet ya da eş karşılığı olarak kullanılan kelime",
       "answer": "ÇİFT"
     },
     {
@@ -157,7 +157,7 @@
       "row": 6,
       "col": 5,
       "length": 5,
-      "clue": "Ani vuruş",
+      "clue": "Ani vuruş anlamına gelen sözcük",
       "answer": "DARBE"
     },
     {
@@ -166,7 +166,7 @@
       "row": 7,
       "col": 0,
       "length": 5,
-      "clue": "Kitap yazan",
+      "clue": "Kitap yazan için kullanılan yaygın ifade",
       "answer": "YAZAR"
     },
     {
@@ -175,7 +175,7 @@
       "row": 7,
       "col": 2,
       "length": 5,
-      "clue": "Yer, mahal",
+      "clue": "Yer ya da mahal anlamına gelen sözcük",
       "answer": "MEKAN"
     },
     {
@@ -184,7 +184,7 @@
       "row": 7,
       "col": 2,
       "length": 5,
-      "clue": "Yer, konum",
+      "clue": "Günlük dilde Yer ya da konum olarak bilinen kavram",
       "answer": "MEVKİ"
     },
     {
@@ -193,7 +193,7 @@
       "row": 9,
       "col": 0,
       "length": 4,
-      "clue": "Haz, keyif",
+      "clue": "Günlük dilde Haz ya da keyif olarak bilinen kavram",
       "answer": "ZEVK"
     },
     {
@@ -202,7 +202,7 @@
       "row": 10,
       "col": 4,
       "length": 3,
-      "clue": "Giyside küçük kese",
+      "clue": "Giyside küçük kese karşılığı olarak kullanılan kelime",
       "answer": "CEP"
     }
   ]

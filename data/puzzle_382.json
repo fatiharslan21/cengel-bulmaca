@@ -143,7 +143,7 @@
       "row": 0,
       "col": 5,
       "length": 5,
-      "clue": "Eşya mobilyası",
+      "clue": "Günlük dilde Eşya mobilyası olarak bilinen kavram",
       "answer": "DOLAP"
     },
     {
@@ -152,7 +152,7 @@
       "row": 1,
       "col": 2,
       "length": 5,
-      "clue": "Olgunluk",
+      "clue": "Olgunluk için kullanılan yaygın ifade",
       "answer": "KEMAL"
     },
     {
@@ -161,7 +161,7 @@
       "row": 1,
       "col": 7,
       "length": 5,
-      "clue": "Pay, nasip",
+      "clue": "Bulmacada Pay ya da nasip karşılığını veren yanıt",
       "answer": "HİSSE"
     },
     {
@@ -170,7 +170,7 @@
       "row": 2,
       "col": 1,
       "length": 7,
-      "clue": "Görünme, belirme",
+      "clue": "Bulmacada Görünme ya da belirme karşılığını veren yanıt",
       "answer": "TECELLİ"
     },
     {
@@ -179,7 +179,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "Doku hasarı",
+      "clue": "Doku hasarı anlamına gelen sözcük",
       "answer": "YARA"
     },
     {
@@ -188,7 +188,7 @@
       "row": 3,
       "col": 9,
       "length": 4,
-      "clue": "Keder, acı",
+      "clue": "Keder ya da acı karşılığı olarak kullanılan kelime",
       "answer": "ELEM"
     },
     {
@@ -197,7 +197,7 @@
       "row": 4,
       "col": 0,
       "length": 4,
-      "clue": "Geniş düzlük",
+      "clue": "Günlük dilde Geniş düzlük olarak bilinen kavram",
       "answer": "ALAN"
     },
     {
@@ -206,7 +206,7 @@
       "row": 5,
       "col": 6,
       "length": 5,
-      "clue": "Üzüntü",
+      "clue": "Bulmacada Üzüntü karşılığını veren yanıt",
       "answer": "KEDER"
     },
     {
@@ -215,7 +215,7 @@
       "row": 5,
       "col": 6,
       "length": 5,
-      "clue": "Alın yazısı",
+      "clue": "Günlük dilde Alın yazısı olarak bilinen kavram",
       "answer": "KADER"
     },
     {
@@ -224,7 +224,7 @@
       "row": 8,
       "col": 0,
       "length": 7,
-      "clue": "Tedavi merkezi",
+      "clue": "Tedavi merkezi karşılığı olarak kullanılan kelime",
       "answer": "HASTANE"
     }
   ]

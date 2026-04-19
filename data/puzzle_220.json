@@ -145,7 +145,7 @@
       "row": 0,
       "col": 1,
       "length": 3,
-      "clue": "İğneyle süsleme",
+      "clue": "Günlük dilde İğneyle süsleme olarak bilinen kavram",
       "answer": "OYA"
     },
     {
@@ -154,7 +154,7 @@
       "row": 1,
       "col": 3,
       "length": 4,
-      "clue": "Yapı, bina",
+      "clue": "İnsanların yaşadığı veya çalıştığı yapı",
       "answer": "BİNA"
     },
     {
@@ -163,7 +163,7 @@
       "row": 2,
       "col": 0,
       "length": 5,
-      "clue": "Deniz kıyısı",
+      "clue": "Bulmacada Deniz kıyısı karşılığını veren yanıt",
       "answer": "SAHİL"
     },
     {
@@ -172,7 +172,7 @@
       "row": 2,
       "col": 0,
       "length": 4,
-      "clue": "Cevap bekleyen",
+      "clue": "Cevap bekleyen karşılığı olarak kullanılan kelime",
       "answer": "SORU"
     },
     {
@@ -181,7 +181,7 @@
       "row": 4,
       "col": 2,
       "length": 3,
-      "clue": "Demir korozyonu",
+      "clue": "Demir korozyonu karşılığı olarak kullanılan kelime",
       "answer": "PAS"
     },
     {
@@ -190,7 +190,7 @@
       "row": 4,
       "col": 4,
       "length": 4,
-      "clue": "Rakam ifadesi",
+      "clue": "Bulmacada Rakam ifadesi karşılığını veren yanıt",
       "answer": "SAYI"
     },
     {
@@ -199,7 +199,7 @@
       "row": 5,
       "col": 6,
       "length": 3,
-      "clue": "Birinci, baştaki",
+      "clue": "Birinci ya da baştaki anlamına gelen sözcük",
       "answer": "İLK"
     },
     {
@@ -208,7 +208,7 @@
       "row": 6,
       "col": 4,
       "length": 3,
-      "clue": "Güzergah, patika",
+      "clue": "Bulmacada Güzergah ya da patika karşılığını veren yanıt",
       "answer": "YOL"
     },
     {
@@ -217,7 +217,7 @@
       "row": 7,
       "col": 6,
       "length": 3,
-      "clue": "Damar sıvısı",
+      "clue": "Bulmacada Damar sıvısı karşılığını veren yanıt",
       "answer": "KAN"
     },
     {
@@ -226,7 +226,7 @@
       "row": 7,
       "col": 7,
       "length": 5,
-      "clue": "Harita kitabı",
+      "clue": "Harita kitabı karşılığı olarak kullanılan kelime",
       "answer": "ATLAS"
     }
   ]

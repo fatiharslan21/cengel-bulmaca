@@ -121,7 +121,7 @@
       "row": 0,
       "col": 0,
       "length": 4,
-      "clue": "Eşya kabı",
+      "clue": "Eşya kabı karşılığı olarak kullanılan kelime",
       "answer": "KUTU"
     },
     {
@@ -130,7 +130,7 @@
       "row": 2,
       "col": 0,
       "length": 4,
-      "clue": "Küçük yükselti",
+      "clue": "Bulmacada Küçük yükselti karşılığını veren yanıt",
       "answer": "TEPE"
     },
     {
@@ -139,7 +139,7 @@
       "row": 2,
       "col": 2,
       "length": 5,
-      "clue": "Mektup servisi",
+      "clue": "Mektup servisi için kullanılan yaygın ifade",
       "answer": "POSTA"
     },
     {
@@ -148,7 +148,7 @@
       "row": 2,
       "col": 8,
       "length": 5,
-      "clue": "Etraf, çepeçevre",
+      "clue": "Bir şeyin etrafını kuşatan alan",
       "answer": "ÇEVRE"
     },
     {
@@ -157,7 +157,7 @@
       "row": 3,
       "col": 5,
       "length": 4,
-      "clue": "Yüzeylerin birleşimi",
+      "clue": "Günlük dilde Yüzeylerin birleşimi olarak bilinen kavram",
       "answer": "KÖŞE"
     },
     {
@@ -166,7 +166,7 @@
       "row": 3,
       "col": 5,
       "length": 5,
-      "clue": "Sadık evcil hayvan",
+      "clue": "Sadık evcil hayvan anlamına gelen sözcük",
       "answer": "KÖPEK"
     },
     {
@@ -175,7 +175,7 @@
       "row": 6,
       "col": 1,
       "length": 5,
-      "clue": "Evin yeşil alanı",
+      "clue": "Evin yeşil alanı anlamına gelen sözcük",
       "answer": "BAHÇE"
     },
     {
@@ -184,7 +184,7 @@
       "row": 6,
       "col": 3,
       "length": 3,
-      "clue": "Asla, kesinlikle hayır",
+      "clue": "Bulmacada Asla ya da kesinlikle hayır karşılığını veren yanıt",
       "answer": "HİÇ"
     },
     {
@@ -193,7 +193,7 @@
       "row": 6,
       "col": 7,
       "length": 3,
-      "clue": "Giyside küçük kese",
+      "clue": "Giyside küçük kese karşılığı olarak kullanılan kelime",
       "answer": "CEP"
     }
   ]

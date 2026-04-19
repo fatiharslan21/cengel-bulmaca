@@ -90,7 +90,7 @@
       "row": 0,
       "col": 1,
       "length": 3,
-      "clue": "Güç, kolay değil",
+      "clue": "Günlük dilde Güç ya da kolay değil olarak bilinen kavram",
       "answer": "ZOR"
     },
     {
@@ -99,7 +99,7 @@
       "row": 0,
       "col": 3,
       "length": 4,
-      "clue": "Katlanır bıçak",
+      "clue": "Günlük dilde Katlanır bıçak olarak bilinen kavram",
       "answer": "ÇAKI"
     },
     {
@@ -108,7 +108,7 @@
       "row": 0,
       "col": 5,
       "length": 5,
-      "clue": "Gökyüzü su kümeleri",
+      "clue": "Günlük dilde Gökyüzü su kümeleri olarak bilinen kavram",
       "answer": "BULUT"
     },
     {
@@ -117,7 +117,7 @@
       "row": 0,
       "col": 7,
       "length": 3,
-      "clue": "Göllü doğu ili",
+      "clue": "Göllü doğu ili için kullanılan yaygın ifade",
       "answer": "VAN"
     },
     {
@@ -126,7 +126,7 @@
       "row": 1,
       "col": 0,
       "length": 4,
-      "clue": "Su kabı",
+      "clue": "Günlük dilde Su kabı olarak bilinen kavram",
       "answer": "KOVA"
     },
     {
@@ -135,7 +135,7 @@
       "row": 1,
       "col": 5,
       "length": 4,
-      "clue": "Havada uçan taşıt",
+      "clue": "Havada uçan taşıt karşılığı olarak kullanılan kelime",
       "answer": "UÇAK"
     },
     {
@@ -144,7 +144,7 @@
       "row": 2,
       "col": 3,
       "length": 3,
-      "clue": "Gitme, burada dur",
+      "clue": "Bulmacada Gitme ya da burada dur karşılığını veren yanıt",
       "answer": "KAL"
     },
     {
@@ -153,7 +153,7 @@
       "row": 4,
       "col": 5,
       "length": 4,
-      "clue": "Anadolu halkı",
+      "clue": "Anadolu halkı için kullanılan yaygın ifade",
       "answer": "TÜRK"
     },
     {
@@ -162,7 +162,7 @@
       "row": 4,
       "col": 8,
       "length": 3,
-      "clue": "Yanık kalıntısı",
+      "clue": "Yanık kalıntısı için kullanılan yaygın ifade",
       "answer": "KÜL"
     }
   ]

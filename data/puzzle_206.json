@@ -169,7 +169,7 @@
       "row": 0,
       "col": 8,
       "length": 4,
-      "clue": "Doku hasarı",
+      "clue": "Doku hasarı anlamına gelen sözcük",
       "answer": "YARA"
     },
     {
@@ -178,7 +178,7 @@
       "row": 3,
       "col": 5,
       "length": 3,
-      "clue": "Devir, dönem",
+      "clue": "Devir ya da dönem karşılığı olarak kullanılan kelime",
       "answer": "ÇAĞ"
     },
     {
@@ -187,7 +187,7 @@
       "row": 3,
       "col": 7,
       "length": 3,
-      "clue": "Ömür süresi",
+      "clue": "Ömür süresi anlamına gelen sözcük",
       "answer": "YAŞ"
     },
     {
@@ -196,7 +196,7 @@
       "row": 3,
       "col": 7,
       "length": 4,
-      "clue": "Yazılmış metin",
+      "clue": "Bulmacada Yazılmış metin karşılığını veren yanıt",
       "answer": "YAZI"
     },
     {
@@ -205,7 +205,7 @@
       "row": 4,
       "col": 5,
       "length": 3,
-      "clue": "Toprak sahibi",
+      "clue": "Günlük dilde Toprak sahibi olarak bilinen kavram",
       "answer": "AĞA"
     },
     {
@@ -214,7 +214,7 @@
       "row": 5,
       "col": 3,
       "length": 3,
-      "clue": "Yüksek arazi şekli",
+      "clue": "Yüksek arazi şekli için kullanılan yaygın ifade",
       "answer": "DAĞ"
     },
     {
@@ -223,7 +223,7 @@
       "row": 5,
       "col": 4,
       "length": 3,
-      "clue": "Sunma, takdim",
+      "clue": "Sunma ya da takdim anlamına gelen sözcük",
       "answer": "ARZ"
     },
     {
@@ -232,7 +232,7 @@
       "row": 6,
       "col": 1,
       "length": 6,
-      "clue": "Orta nokta",
+      "clue": "Bulmacada Orta nokta karşılığını veren yanıt",
       "answer": "MERKEZ"
     },
     {
@@ -241,7 +241,7 @@
       "row": 7,
       "col": 0,
       "length": 5,
-      "clue": "Tuzlu büyük su",
+      "clue": "Tuzlu büyük su karşılığı olarak kullanılan kelime",
       "answer": "DENİZ"
     },
     {
@@ -250,7 +250,7 @@
       "row": 10,
       "col": 0,
       "length": 3,
-      "clue": "Dokuma kumaş parçası",
+      "clue": "Bulmacada Dokuma kumaş parçası karşılığını veren yanıt",
       "answer": "BEZ"
     }
   ]

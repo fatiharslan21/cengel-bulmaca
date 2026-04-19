@@ -109,7 +109,7 @@
       "row": 0,
       "col": 3,
       "length": 5,
-      "clue": "Bitkinin renkli kısmı",
+      "clue": "Bulmacada Bitkinin renkli kısmı karşılığını veren yanıt",
       "answer": "ÇİÇEK"
     },
     {
@@ -118,7 +118,7 @@
       "row": 0,
       "col": 5,
       "length": 3,
-      "clue": "Hekimlik bilimi",
+      "clue": "Bulmacada Hekimlik bilimi karşılığını veren yanıt",
       "answer": "TIP"
     },
     {
@@ -127,7 +127,7 @@
       "row": 1,
       "col": 5,
       "length": 5,
-      "clue": "Suyla ıslanmış",
+      "clue": "Bulmacada Suyla ıslanmış karşılığını veren yanıt",
       "answer": "ISLAK"
     },
     {
@@ -136,7 +136,7 @@
       "row": 1,
       "col": 8,
       "length": 3,
-      "clue": "Koruyucu ilaç",
+      "clue": "Bulmacada Koruyucu ilaç karşılığını veren yanıt",
       "answer": "AŞI"
     },
     {
@@ -145,7 +145,7 @@
       "row": 2,
       "col": 1,
       "length": 4,
-      "clue": "Düz ince levha",
+      "clue": "Düz ince levha anlamına gelen sözcük",
       "answer": "KART"
     },
     {
@@ -154,7 +154,7 @@
       "row": 2,
       "col": 3,
       "length": 3,
-      "clue": "Daire çapı",
+      "clue": "Dairenin merkezinden geçen doğru parçası",
       "answer": "ÇAP"
     },
     {
@@ -163,7 +163,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "Bayat olmayan",
+      "clue": "Bulmacada Bayat olmayan karşılığını veren yanıt",
       "answer": "TAZE"
     },
     {
@@ -172,7 +172,7 @@
       "row": 3,
       "col": 6,
       "length": 4,
-      "clue": "Düşünme yetisi",
+      "clue": "Günlük dilde Düşünme yetisi olarak bilinen kavram",
       "answer": "AKIL"
     },
     {
@@ -181,7 +181,7 @@
       "row": 4,
       "col": 3,
       "length": 3,
-      "clue": "Yanık kalıntısı",
+      "clue": "Yanık kalıntısı için kullanılan yaygın ifade",
       "answer": "KÜL"
     },
     {
@@ -190,7 +190,7 @@
       "row": 4,
       "col": 5,
       "length": 4,
-      "clue": "Türk parası",
+      "clue": "Günlük dilde Türk parası olarak bilinen kavram",
       "answer": "LİRA"
     }
   ]

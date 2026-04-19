@@ -94,7 +94,7 @@
       "row": 0,
       "col": 1,
       "length": 4,
-      "clue": "Doku hasarı",
+      "clue": "Doku hasarı anlamına gelen sözcük",
       "answer": "YARA"
     },
     {
@@ -103,7 +103,7 @@
       "row": 1,
       "col": 5,
       "length": 4,
-      "clue": "Gövdeli bitki",
+      "clue": "Gövdeli bitki karşılığı olarak kullanılan kelime",
       "answer": "AĞAÇ"
     },
     {
@@ -112,7 +112,7 @@
       "row": 2,
       "col": 4,
       "length": 3,
-      "clue": "Tırnak törpüsü",
+      "clue": "Tırnak törpüsü için kullanılan yaygın ifade",
       "answer": "EĞE"
     },
     {
@@ -121,7 +121,7 @@
       "row": 3,
       "col": 0,
       "length": 3,
-      "clue": "Çehre; sayı 100",
+      "clue": "Çehre; sayı 100 için kullanılan yaygın ifade",
       "answer": "YÜZ"
     },
     {
@@ -130,7 +130,7 @@
       "row": 3,
       "col": 0,
       "length": 3,
-      "clue": "Ömür süresi",
+      "clue": "Ömür süresi anlamına gelen sözcük",
       "answer": "YAŞ"
     },
     {
@@ -139,7 +139,7 @@
       "row": 4,
       "col": 3,
       "length": 3,
-      "clue": "Asla, kesinlikle hayır",
+      "clue": "Bulmacada Asla ya da kesinlikle hayır karşılığını veren yanıt",
       "answer": "HİÇ"
     },
     {
@@ -148,7 +148,7 @@
       "row": 4,
       "col": 3,
       "length": 5,
-      "clue": "Maç yöneticisi",
+      "clue": "Bulmacada Maç yöneticisi karşılığını veren yanıt",
       "answer": "HAKEM"
     },
     {
@@ -157,7 +157,7 @@
       "row": 5,
       "col": 0,
       "length": 4,
-      "clue": "Anlama yeteneği",
+      "clue": "Anlama yeteneği için kullanılan yaygın ifade",
       "answer": "ZEKA"
     },
     {
@@ -166,7 +166,7 @@
       "row": 7,
       "col": 1,
       "length": 4,
-      "clue": "Yapılması gereken iş",
+      "clue": "Yapılması gereken iş için kullanılan yaygın ifade",
       "answer": "ÖDEV"
     }
   ]

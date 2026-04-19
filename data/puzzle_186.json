@@ -169,7 +169,7 @@
       "row": 0,
       "col": 2,
       "length": 4,
-      "clue": "Ayrım, değişiklik",
+      "clue": "Ayrım ya da değişiklik anlamına gelen sözcük",
       "answer": "FARK"
     },
     {
@@ -178,7 +178,7 @@
       "row": 2,
       "col": 2,
       "length": 5,
-      "clue": "Programlanabilir makine",
+      "clue": "Programlanabilir makine için kullanılan yaygın ifade",
       "answer": "ROBOT"
     },
     {
@@ -187,7 +187,7 @@
       "row": 2,
       "col": 4,
       "length": 5,
-      "clue": "El kol eklemi",
+      "clue": "El kol eklemi karşılığı olarak kullanılan kelime",
       "answer": "BİLEK"
     },
     {
@@ -196,7 +196,7 @@
       "row": 2,
       "col": 6,
       "length": 4,
-      "clue": "Anadolu halkı",
+      "clue": "Anadolu halkı için kullanılan yaygın ifade",
       "answer": "TÜRK"
     },
     {
@@ -205,7 +205,7 @@
       "row": 4,
       "col": 1,
       "length": 6,
-      "clue": "Söylence, mit",
+      "clue": "Söylence ya da mit anlamına gelen sözcük",
       "answer": "EFSANE"
     },
     {
@@ -214,7 +214,7 @@
       "row": 4,
       "col": 9,
       "length": 4,
-      "clue": "İlerinin zıttı",
+      "clue": "Günlük dilde İlerinin zıttı olarak bilinen kavram",
       "answer": "GERİ"
     },
     {
@@ -223,7 +223,7 @@
       "row": 5,
       "col": 6,
       "length": 5,
-      "clue": "Sadık evcil hayvan",
+      "clue": "Sadık evcil hayvan anlamına gelen sözcük",
       "answer": "KÖPEK"
     },
     {
@@ -232,7 +232,7 @@
       "row": 6,
       "col": 0,
       "length": 5,
-      "clue": "Suyla ıslanmış",
+      "clue": "Bulmacada Suyla ıslanmış karşılığını veren yanıt",
       "answer": "ISLAK"
     },
     {
@@ -241,7 +241,7 @@
       "row": 9,
       "col": 0,
       "length": 5,
-      "clue": "Tatlı madde",
+      "clue": "Tatlı madde için kullanılan yaygın ifade",
       "answer": "ŞEKER"
     },
     {
@@ -250,7 +250,7 @@
       "row": 9,
       "col": 2,
       "length": 3,
-      "clue": "Bina bölümü",
+      "clue": "Bulmacada Bina bölümü karşılığını veren yanıt",
       "answer": "KAT"
     }
   ]

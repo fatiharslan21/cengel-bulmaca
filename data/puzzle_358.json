@@ -145,7 +145,7 @@
       "row": 0,
       "col": 9,
       "length": 4,
-      "clue": "Arzu, istek",
+      "clue": "Arzu ya da istek için kullanılan yaygın ifade",
       "answer": "ŞEVK"
     },
     {
@@ -154,7 +154,7 @@
       "row": 3,
       "col": 2,
       "length": 3,
-      "clue": "Durum, vaziyet",
+      "clue": "Bulmacada Durum ya da vaziyet karşılığını veren yanıt",
       "answer": "HAL"
     },
     {
@@ -163,7 +163,7 @@
       "row": 3,
       "col": 6,
       "length": 5,
-      "clue": "Zar masa oyunu",
+      "clue": "Zar masa oyunu için kullanılan yaygın ifade",
       "answer": "TAVLA"
     },
     {
@@ -172,7 +172,7 @@
       "row": 3,
       "col": 6,
       "length": 4,
-      "clue": "Anadolu halkı",
+      "clue": "Anadolu halkı için kullanılan yaygın ifade",
       "answer": "TÜRK"
     },
     {
@@ -181,7 +181,7 @@
       "row": 3,
       "col": 8,
       "length": 5,
-      "clue": "Hasım, muhalif",
+      "clue": "Hasım ya da muhalif için kullanılan yaygın ifade",
       "answer": "RAKİP"
     },
     {
@@ -190,7 +190,7 @@
       "row": 4,
       "col": 1,
       "length": 4,
-      "clue": "Amaç, maksat",
+      "clue": "Amaç ya da maksat için kullanılan yaygın ifade",
       "answer": "GAYE"
     },
     {
@@ -199,7 +199,7 @@
       "row": 4,
       "col": 4,
       "length": 5,
-      "clue": "Vaktinden önce",
+      "clue": "Vaktinden önce karşılığı olarak kullanılan kelime",
       "answer": "ERKEN"
     },
     {
@@ -208,7 +208,7 @@
       "row": 6,
       "col": 3,
       "length": 4,
-      "clue": "Eğitim kurumu",
+      "clue": "Eğitim kurumu için kullanılan yaygın ifade",
       "answer": "OKUL"
     },
     {
@@ -217,7 +217,7 @@
       "row": 8,
       "col": 0,
       "length": 5,
-      "clue": "Vücut bölümü",
+      "clue": "Vücut bölümü karşılığı olarak kullanılan kelime",
       "answer": "ORGAN"
     },
     {
@@ -226,7 +226,7 @@
       "row": 8,
       "col": 3,
       "length": 3,
-      "clue": "Ced, büyükbaba",
+      "clue": "Günlük dilde Ced ya da büyükbaba olarak bilinen kavram",
       "answer": "ATA"
     }
   ]

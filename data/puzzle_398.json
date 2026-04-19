@@ -130,7 +130,7 @@
       "row": 0,
       "col": 9,
       "length": 5,
-      "clue": "Ayrılık",
+      "clue": "Ayrılık anlamına gelen sözcük",
       "answer": "FIRAK"
     },
     {
@@ -139,7 +139,7 @@
       "row": 1,
       "col": 1,
       "length": 3,
-      "clue": "Damaktaki lezzet",
+      "clue": "Günlük dilde Damaktaki lezzet olarak bilinen kavram",
       "answer": "TAT"
     },
     {
@@ -148,7 +148,7 @@
       "row": 1,
       "col": 5,
       "length": 4,
-      "clue": "Üstünü kapatan",
+      "clue": "Üstünü kapatan karşılığı olarak kullanılan kelime",
       "answer": "ÖRTÜ"
     },
     {
@@ -157,7 +157,7 @@
       "row": 1,
       "col": 8,
       "length": 3,
-      "clue": "Gizli bilgi",
+      "clue": "Gizli bilgi için kullanılan yaygın ifade",
       "answer": "SIR"
     },
     {
@@ -166,7 +166,7 @@
       "row": 2,
       "col": 0,
       "length": 6,
-      "clue": "Kıyamet yeri",
+      "clue": "Kıyamet yeri için kullanılan yaygın ifade",
       "answer": "MAHŞER"
     },
     {
@@ -175,7 +175,7 @@
       "row": 2,
       "col": 3,
       "length": 4,
-      "clue": "Görkemli yapı",
+      "clue": "Görkemli yapı karşılığı olarak kullanılan kelime",
       "answer": "ŞATO"
     },
     {
@@ -184,7 +184,7 @@
       "row": 2,
       "col": 7,
       "length": 4,
-      "clue": "Kalın olmayan",
+      "clue": "Kalın olmayan anlamına gelen sözcük",
       "answer": "İNCE"
     },
     {
@@ -193,7 +193,7 @@
       "row": 3,
       "col": 5,
       "length": 5,
-      "clue": "Issız, boş",
+      "clue": "Issız ya da boş için kullanılan yaygın ifade",
       "answer": "TENHA"
     },
     {
@@ -202,7 +202,7 @@
       "row": 5,
       "col": 0,
       "length": 5,
-      "clue": "Uçak kullanan",
+      "clue": "Bulmacada Uçak kullanan karşılığını veren yanıt",
       "answer": "PİLOT"
     },
     {
@@ -211,7 +211,7 @@
       "row": 5,
       "col": 4,
       "length": 4,
-      "clue": "Küçük yükselti",
+      "clue": "Bulmacada Küçük yükselti karşılığını veren yanıt",
       "answer": "TEPE"
     }
   ]

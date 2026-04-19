@@ -10,6 +10,17 @@
     <!-- Firebase yapılandırması: ./js/firebase-config.js dosyasını oluşturup
          window.CB_FIREBASE_CONFIG = {...} tanımlayabilirsiniz. -->
     <script src="./js/firebase-config.js" onerror="console.info('firebase-config.js bulunamadı; yerel mod.')"></script>
+    <script>
+        (function(){
+            try {
+                const raw = localStorage.getItem('cb_user');
+                if(!raw) {
+                    const next = encodeURIComponent(window.location.pathname + window.location.search);
+                    window.location.replace(`login.html?next=${next}`);
+                }
+            } catch(e) {}
+        })();
+    </script>
 </head>
 <body>
 <div class="grain"></div>
@@ -48,10 +59,7 @@
         </div>
     </div>
 
-    <div class="hero-badge">
-        <span class="hb-dot"></span>
-        <span><b>500</b> bulmaca · Türkçe &amp; eski Türkçe · Her gün yeni</span>
-    </div>
+    <div class="hero-badge" style="display:none"></div>
 
     <h1 class="hero-headline">
         Harf harf<br>
@@ -59,7 +67,7 @@
         meydan oku.
     </h1>
 
-    <p class="hero-tagline">Çengel bulmacayı yeniden tasarladık. Mobilde akıcı, zor bölümlerde zekice, her gün farklı.</p>
+    <p class="hero-tagline">Hızını ve kelime zekânı aynı anda zorlayan yeni nesil çengel deneyimi.</p>
 
     <div class="hero-stats-row">
         <div class="stat-cell">
@@ -97,6 +105,17 @@
     </div>
 </a>
 
+<a class="daily-card" id="continue-card" href="#" style="display:none; margin-top:10px;">
+    <div class="daily-left">
+        <div class="daily-badge">⏯ DEVAM ET</div>
+        <div class="daily-date" id="continue-title">Kaldığın yer</div>
+        <div class="daily-meta">
+            <span class="daily-status" id="continue-status">Son oynadığın bulmacadan devam et</span>
+        </div>
+    </div>
+    <div class="daily-right"><div class="daily-play">Devam →</div></div>
+</a>
+
 <nav class="tabs tabs-new">
     <button class="tab on diff-kolay-tab" data-d="Kolay">
         <span class="tab-emoji">🌱</span>
@@ -128,7 +147,7 @@
         </div>
         <div class="db-stat">
             <span class="db-stat-num" id="db-stat-num">0</span>
-            <span class="db-stat-lbl">/125</span>
+            <span class="db-stat-lbl" id="db-stat-total">/125</span>
         </div>
     </div>
 </div>
@@ -155,31 +174,50 @@
     <p>Çengel Bulmaca © 2026</p>
 </footer>
 
+<div id="wow-toast" class="wow-toast" style="display:none"></div>
+
 </div>
 
 <script>
     // TEMA KONTROLCÜSÜ
 const themeToggle = document.getElementById('theme-toggle');
-const currentTheme = localStorage.getItem('theme');
+const THEMES = ['light', 'dark', 'ocean', 'sunset'];
+const THEME_ICONS = { light: '🌞', dark: '🌙', ocean: '🌊', sunset: '🌇' };
+const currentTheme = localStorage.getItem('theme') || 'light';
 
-if (currentTheme === 'dark') {
-    document.body.classList.add('dark-mode');
-    if(themeToggle) themeToggle.textContent = '☀️';
+function applyTheme(t) {
+    document.body.classList.remove('dark-mode', 'theme-ocean', 'theme-sunset');
+    document.body.dataset.theme = t;
+    if(t === 'dark') document.body.classList.add('dark-mode');
+    if(t === 'ocean') document.body.classList.add('theme-ocean');
+    if(t === 'sunset') document.body.classList.add('theme-sunset');
+    if(themeToggle) themeToggle.textContent = THEME_ICONS[t] || '🎨';
+    localStorage.setItem('theme', t);
 }
+applyTheme(currentTheme);
 
 if(themeToggle) {
     themeToggle.addEventListener('click', () => {
-        document.body.classList.toggle('dark-mode');
-        const isDark = document.body.classList.contains('dark-mode');
-        themeToggle.textContent = isDark ? '☀️' : '🌙';
-        localStorage.setItem('theme', isDark ? 'dark' : 'light');
+        const cur = document.body.dataset.theme || 'light';
+        const idx = THEMES.indexOf(cur);
+        const next = THEMES[(idx + 1) % THEMES.length];
+        applyTheme(next);
     });
 }
 // PYTHON DÖNGÜLERİ YERİNE JAVASCRIPT KART OLUŞTURUCU
 const levelsContainer = document.getElementById('levels-container');
-const difficulties = ['Kolay', 'Orta', 'Zor', 'Çok Zor'];
+const LEVEL_PLAN = [
+    { name: 'Kolay', count: 125 },
+    { name: 'Orta', count: 125 },
+    { name: 'Zor', count: 125 },
+    { name: 'Çok Zor', count: 125 }
+];
+const TOTAL_LEVELS = LEVEL_PLAN.reduce((s, x) => s + x.count, 0);
+const DIFF_TOTALS = Object.fromEntries(LEVEL_PLAN.map(x => [x.name, x.count]));
+document.getElementById('hs-total').textContent = TOTAL_LEVELS;
 
-difficulties.forEach((diff, index) => {
+let cursor = 1;
+LEVEL_PLAN.forEach(({ name: diff, count }) => {
     const section = document.createElement('section');
     section.className = `sec ${diff !== 'Kolay' ? 'hide' : ''}`;
     section.dataset.d = diff;
@@ -187,9 +225,8 @@ difficulties.forEach((diff, index) => {
     const grid = document.createElement('div');
     grid.className = 'grid-list';
 
-    // Her zorluk için 125 bölüm (Toplam 500)
-    const start = index * 125 + 1;
-    const end = (index + 1) * 125;
+    const start = cursor;
+    const end = cursor + count - 1;
 
     for (let i = start; i <= end; i++) {
         // LİNK DÜZELTİLDİ: /bulmaca/1 yerine play.html?id=1
@@ -210,6 +247,7 @@ difficulties.forEach((diff, index) => {
     }
     section.appendChild(grid);
     levelsContainer.appendChild(section);
+    cursor = end + 1;
 });
 
 // TAB SİSTEMİ VE ANİMASYONLAR
@@ -228,7 +266,12 @@ document.querySelectorAll('.tab').forEach(t=>{t.onclick=()=>{
     if(typeof updateBanner === 'function') {
         updateBanner(diff);
         const el = document.getElementById('stat-' + diff);
-        if(el) document.getElementById('db-stat-num').textContent = el.textContent.split('/')[0];
+        if(el) {
+            const [done, total] = el.textContent.split('/');
+            document.getElementById('db-stat-num').textContent = done;
+            const totalLbl = document.getElementById('db-stat-total');
+            if(totalLbl) totalLbl.textContent = '/' + total;
+        }
     }
 }});
 
@@ -273,8 +316,8 @@ function refreshScores(){
         const text = document.getElementById('global-progress-text');
         const fill = document.getElementById('ps-fill');
         if(completedCount > 0) {
-            const pct = (completedCount / 500) * 100;
-            text.innerHTML = `<b>${completedCount}</b>/500 tamamlandı · <span style="color:var(--green)">%${pct|0}</span>`;
+            const pct = (completedCount / TOTAL_LEVELS) * 100;
+            text.innerHTML = `<b>${completedCount}</b>/${TOTAL_LEVELS} tamamlandı · <span style="color:var(--green)">%${pct|0}</span>`;
             fill.style.width = pct + '%';
             strip.style.display = 'block';
         } else {
@@ -292,6 +335,7 @@ window.addEventListener('cbScoresSynced', refreshScores);
 <script src="./js/auth.js"></script>
 <script src="./js/welcome.js"></script>
 <script src="./js/scoreboard.js"></script>
+<script src="./js/profile.js"></script>
 <script>
 // USER CHIP
 const userChip = document.getElementById('user-chip');
@@ -299,15 +343,16 @@ const sbBtn = document.getElementById('open-scoreboard');
 
 function refreshUserChip(user) {
     if(!userChip) return;
-    const name = user?.name || 'Misafir';
+    const name = user?.name || 'Giriş yok';
     userChip.querySelector('.uc-avatar').textContent = name[0].toUpperCase();
     userChip.querySelector('.uc-name').textContent = name.split(' ')[0];
-    userChip.title = name + ' — isim değiştirmek için tıkla';
+    userChip.title = user ? (name + ' — profili aç') : 'Giriş yap';
 }
 if(window.CBAuth) window.CBAuth.onAuthChange(refreshUserChip);
 
 userChip?.addEventListener('click', () => {
-    if(window.CBWelcome) window.CBWelcome.open({ mode: 'edit' });
+    if(window.CBProfile) { window.CBProfile.open(); return; }
+    if(window.CBWelcome) window.CBWelcome.open({mode:'login', forced:true});
 });
 sbBtn.addEventListener('click', () => window.CBScoreboard.open());
 
@@ -335,25 +380,67 @@ function updateDiffStats() {
     try {
         const s = JSON.parse(localStorage.getItem('cb') || '{}');
         const counts = { 'Kolay': 0, 'Orta': 0, 'Zor': 0, 'Çok Zor': 0 };
+        const bounds = [];
+        let start = 1;
+        LEVEL_PLAN.forEach(p => {
+            bounds.push({ name: p.name, start, end: start + p.count - 1 });
+            start += p.count;
+        });
         Object.keys(s).forEach(id => {
-            const idx = parseInt(id);
-            if(idx <= 125) counts['Kolay']++;
-            else if(idx <= 250) counts['Orta']++;
-            else if(idx <= 375) counts['Zor']++;
-            else if(idx <= 500) counts['Çok Zor']++;
+            const idx = parseInt(id, 10);
+            const b = bounds.find(x => idx >= x.start && idx <= x.end);
+            if(b) counts[b.name]++;
         });
         Object.entries(counts).forEach(([d, c]) => {
             const el = document.getElementById('stat-' + d);
-            if(el) el.textContent = `${c}/125`;
+            if(el) el.textContent = `${c}/${DIFF_TOTALS[d]}`;
             if(c > 0) document.querySelector(`.tab[data-d="${d}"]`)?.classList.add('has-progress');
         });
         const active = document.querySelector('.tab.on')?.dataset.d || 'Kolay';
         document.getElementById('db-stat-num').textContent = counts[active];
+        const totalLbl = document.getElementById('db-stat-total');
+        if(totalLbl) totalLbl.textContent = `/${DIFF_TOTALS[active]}`;
     } catch(e) {}
 }
 
 updateBanner('Kolay');
 updateDiffStats();
+
+// GİRİŞ ZORUNLULUĞU
+function guardAuthNavigation(e) {
+    if(window.CBWelcome && !window.CBWelcome.requireAuth({ mode: 'login' })) {
+        e.preventDefault();
+        return false;
+    }
+    return true;
+}
+document.querySelectorAll('a.card').forEach(a => a.addEventListener('click', guardAuthNavigation));
+document.getElementById('daily-card')?.addEventListener('click', guardAuthNavigation);
+
+function refreshContinueCard(){
+    try {
+        const last = JSON.parse(localStorage.getItem('cb_last') || 'null');
+        const card = document.getElementById('continue-card');
+        if(!card || !last || !last.id) return;
+        card.style.display = 'flex';
+        card.href = `play.html?id=${last.id}`;
+        document.getElementById('continue-title').textContent = `Bölüm ${String(last.id).padStart(3,'0')}`;
+        document.getElementById('continue-status').textContent = last.when ? `Son giriş: ${last.when}` : 'Kaldığın yerden devam et';
+        card.addEventListener('click', guardAuthNavigation);
+    } catch(e) {}
+}
+refreshContinueCard();
+
+
+function showWowToast(text, type='info') {
+    const t = document.getElementById('wow-toast');
+    if(!t) return;
+    t.textContent = text;
+    t.className = `wow-toast show ${type}`;
+    t.style.display = 'block';
+    setTimeout(() => { t.classList.remove('show'); }, 2200);
+    setTimeout(() => { t.style.display = 'none'; }, 2600);
+}
 
 // ─── GÜNÜN BULMACASI ───
 (function(){
@@ -362,12 +449,15 @@ updateDiffStats();
     const dateKey = `${now.getFullYear()}-${String(now.getMonth()+1).padStart(2,'0')}-${String(now.getDate()).padStart(2,'0')}`;
     const epoch = new Date(2026, 0, 1);
     const daysSince = Math.floor((now - epoch) / 86400000);
-    const puzzleId = ((daysSince * 37 + 13) % 500) + 1;
+    const puzzleId = ((daysSince * 37 + 13) % TOTAL_LEVELS) + 1;
 
     let diff = 'Kolay';
-    if(puzzleId > 375) diff = 'Çok Zor';
-    else if(puzzleId > 250) diff = 'Zor';
-    else if(puzzleId > 125) diff = 'Orta';
+    const b1 = LEVEL_PLAN[0].count;
+    const b2 = b1 + LEVEL_PLAN[1].count;
+    const b3 = b2 + LEVEL_PLAN[2].count;
+    if(puzzleId > b3) diff = 'Çok Zor';
+    else if(puzzleId > b2) diff = 'Zor';
+    else if(puzzleId > b1) diff = 'Orta';
     const emoji = {'Kolay':'🌱','Orta':'🔥','Zor':'⚡','Çok Zor':'💎'}[diff];
 
     document.getElementById('daily-date').textContent =
@@ -402,6 +492,12 @@ updateDiffStats();
         if(streak > 0) {
             streakEl.style.display = 'flex';
             document.getElementById('ds-num').textContent = streak;
+            const key = `cb_streak_toast_${dateKey}`;
+            const shown = localStorage.getItem(key);
+            if(!shown && [3,7,14].includes(streak)) {
+                showWowToast(`🔥 ${streak} gün seri! Efsane gidiyorsun!`, 'success');
+                localStorage.setItem(key, '1');
+            }
         } else {
             streakEl.style.display = 'none';
         }

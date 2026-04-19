@@ -101,7 +101,7 @@
       "row": 0,
       "col": 1,
       "length": 5,
-      "clue": "Kanatlı kutsal varlık",
+      "clue": "Bulmacada Kanatlı kutsal varlık karşılığını veren yanıt",
       "answer": "MELEK"
     },
     {
@@ -110,7 +110,7 @@
       "row": 0,
       "col": 5,
       "length": 3,
-      "clue": "Yanık kalıntısı",
+      "clue": "Yanık kalıntısı için kullanılan yaygın ifade",
       "answer": "KÜL"
     },
     {
@@ -119,7 +119,7 @@
       "row": 0,
       "col": 7,
       "length": 3,
-      "clue": "İğneyle süsleme",
+      "clue": "Günlük dilde İğneyle süsleme olarak bilinen kavram",
       "answer": "OYA"
     },
     {
@@ -128,7 +128,7 @@
       "row": 2,
       "col": 4,
       "length": 4,
-      "clue": "Kırmızı meyve",
+      "clue": "Bulmacada Kırmızı meyve karşılığını veren yanıt",
       "answer": "ELMA"
     },
     {
@@ -137,7 +137,7 @@
       "row": 2,
       "col": 4,
       "length": 5,
-      "clue": "En sert taş",
+      "clue": "En sert taş karşılığı olarak kullanılan kelime",
       "answer": "ELMAS"
     },
     {
@@ -146,7 +146,7 @@
       "row": 3,
       "col": 0,
       "length": 5,
-      "clue": "Gerçek olmayan düş",
+      "clue": "Günlük dilde Gerçek olmayan düş olarak bilinen kavram",
       "answer": "HAYAL"
     },
     {
@@ -155,7 +155,7 @@
       "row": 3,
       "col": 1,
       "length": 3,
-      "clue": "Koruyucu ilaç",
+      "clue": "Bulmacada Koruyucu ilaç karşılığını veren yanıt",
       "answer": "AŞI"
     },
     {
@@ -164,7 +164,7 @@
       "row": 4,
       "col": 6,
       "length": 4,
-      "clue": "Anlama yeteneği",
+      "clue": "Anlama yeteneği için kullanılan yaygın ifade",
       "answer": "ZEKA"
     },
     {
@@ -173,7 +173,7 @@
       "row": 5,
       "col": 3,
       "length": 5,
-      "clue": "Yazı aleti",
+      "clue": "Günlük dilde Yazı aleti olarak bilinen kavram",
       "answer": "KALEM"
     },
     {
@@ -182,7 +182,7 @@
       "row": 7,
       "col": 5,
       "length": 4,
-      "clue": "Görkemli yapı",
+      "clue": "Görkemli yapı karşılığı olarak kullanılan kelime",
       "answer": "ŞATO"
     }
   ]

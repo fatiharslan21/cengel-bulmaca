@@ -156,7 +156,7 @@
       "row": 0,
       "col": 7,
       "length": 5,
-      "clue": "Tuzlu büyük su",
+      "clue": "Tuzlu büyük su karşılığı olarak kullanılan kelime",
       "answer": "DENİZ"
     },
     {
@@ -165,7 +165,7 @@
       "row": 1,
       "col": 6,
       "length": 5,
-      "clue": "Sayısal işlem",
+      "clue": "Sayısal işlem karşılığı olarak kullanılan kelime",
       "answer": "HESAP"
     },
     {
@@ -174,7 +174,7 @@
       "row": 3,
       "col": 5,
       "length": 3,
-      "clue": "Ağacın kolu",
+      "clue": "Bulmacada Ağacın kolu karşılığını veren yanıt",
       "answer": "DAL"
     },
     {
@@ -183,7 +183,7 @@
       "row": 4,
       "col": 5,
       "length": 3,
-      "clue": "Sunma, takdim",
+      "clue": "Sunma ya da takdim anlamına gelen sözcük",
       "answer": "ARZ"
     },
     {
@@ -192,7 +192,7 @@
       "row": 5,
       "col": 0,
       "length": 6,
-      "clue": "Kıyamet yeri",
+      "clue": "Kıyamet yeri için kullanılan yaygın ifade",
       "answer": "MAHŞER"
     },
     {
@@ -201,7 +201,7 @@
       "row": 5,
       "col": 3,
       "length": 3,
-      "clue": "Üst beden uzvu",
+      "clue": "Günlük dilde Üst beden uzvu olarak bilinen kavram",
       "answer": "KOL"
     },
     {
@@ -210,7 +210,7 @@
       "row": 5,
       "col": 3,
       "length": 6,
-      "clue": "Güç, kuvvet",
+      "clue": "Günlük dilde Güç ya da kuvvet olarak bilinen kavram",
       "answer": "KUDRET"
     },
     {
@@ -219,7 +219,7 @@
       "row": 6,
       "col": 0,
       "length": 4,
-      "clue": "İstek, dilek",
+      "clue": "İstek ya da dilek için kullanılan yaygın ifade",
       "answer": "ARZU"
     },
     {
@@ -228,7 +228,7 @@
       "row": 6,
       "col": 6,
       "length": 3,
-      "clue": "Arı ürünü tatlı",
+      "clue": "Arı ürünü tatlı için kullanılan yaygın ifade",
       "answer": "BAL"
     },
     {
@@ -237,7 +237,7 @@
       "row": 7,
       "col": 3,
       "length": 5,
-      "clue": "Eşya mobilyası",
+      "clue": "Günlük dilde Eşya mobilyası olarak bilinen kavram",
       "answer": "DOLAP"
     }
   ]

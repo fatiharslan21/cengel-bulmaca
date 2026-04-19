@@ -143,7 +143,7 @@
       "row": 0,
       "col": 6,
       "length": 4,
-      "clue": "Bacak ucu",
+      "clue": "Günlük dilde Bacak ucu olarak bilinen kavram",
       "answer": "AYAK"
     },
     {
@@ -152,7 +152,7 @@
       "row": 1,
       "col": 4,
       "length": 5,
-      "clue": "Ölçü, ebat",
+      "clue": "Günlük dilde Ölçü ya da ebat olarak bilinen kavram",
       "answer": "BOYUT"
     },
     {
@@ -161,7 +161,7 @@
       "row": 3,
       "col": 2,
       "length": 5,
-      "clue": "Üflemeli ses aleti",
+      "clue": "Üflemeli ses aleti karşılığı olarak kullanılan kelime",
       "answer": "DÜDÜK"
     },
     {
@@ -170,7 +170,7 @@
       "row": 3,
       "col": 4,
       "length": 6,
-      "clue": "Ülke yönetimi",
+      "clue": "Ülke yönetimi için kullanılan yaygın ifade",
       "answer": "DEVLET"
     },
     {
@@ -179,7 +179,7 @@
       "row": 3,
       "col": 8,
       "length": 6,
-      "clue": "Konular listesi",
+      "clue": "Konular listesi için kullanılan yaygın ifade",
       "answer": "GÜNDEM"
     },
     {
@@ -188,7 +188,7 @@
       "row": 5,
       "col": 4,
       "length": 5,
-      "clue": "Yurt, memleket",
+      "clue": "Bulmacada Yurt ya da memleket karşılığını veren yanıt",
       "answer": "VATAN"
     },
     {
@@ -197,7 +197,7 @@
       "row": 6,
       "col": 2,
       "length": 4,
-      "clue": "Üçten sonra gelen",
+      "clue": "Üçten sonra gelen için kullanılan yaygın ifade",
       "answer": "DÖRT"
     },
     {
@@ -206,7 +206,7 @@
       "row": 6,
       "col": 8,
       "length": 3,
-      "clue": "Çiğneme organı",
+      "clue": "Bulmacada Çiğneme organı karşılığını veren yanıt",
       "answer": "DİŞ"
     },
     {
@@ -215,7 +215,7 @@
       "row": 7,
       "col": 1,
       "length": 4,
-      "clue": "Yüzeylerin birleşimi",
+      "clue": "Günlük dilde Yüzeylerin birleşimi olarak bilinen kavram",
       "answer": "KÖŞE"
     },
     {
@@ -224,7 +224,7 @@
       "row": 9,
       "col": 0,
       "length": 4,
-      "clue": "Üstünü kapatan",
+      "clue": "Üstünü kapatan karşılığı olarak kullanılan kelime",
       "answer": "ÖRTÜ"
     }
   ]

@@ -134,7 +134,7 @@
       "row": 0,
       "col": 5,
       "length": 6,
-      "clue": "Bina çıkıntısı",
+      "clue": "Bina çıkıntısı karşılığı olarak kullanılan kelime",
       "answer": "BALKON"
     },
     {
@@ -143,7 +143,7 @@
       "row": 1,
       "col": 2,
       "length": 5,
-      "clue": "Sayfalardan eser",
+      "clue": "Sayfalardan eser karşılığı olarak kullanılan kelime",
       "answer": "KİTAP"
     },
     {
@@ -152,7 +152,7 @@
       "row": 1,
       "col": 3,
       "length": 3,
-      "clue": "Kötünün zıttı",
+      "clue": "Kötünün zıttı karşılığı olarak kullanılan kelime",
       "answer": "İYİ"
     },
     {
@@ -161,7 +161,7 @@
       "row": 2,
       "col": 0,
       "length": 4,
-      "clue": "Böcekten kumaş",
+      "clue": "Böcekten kumaş anlamına gelen sözcük",
       "answer": "İPEK"
     },
     {
@@ -170,7 +170,7 @@
       "row": 3,
       "col": 5,
       "length": 3,
-      "clue": "Üst beden uzvu",
+      "clue": "Günlük dilde Üst beden uzvu olarak bilinen kavram",
       "answer": "KOL"
     },
     {
@@ -179,7 +179,7 @@
       "row": 3,
       "col": 7,
       "length": 4,
-      "clue": "Türk parası",
+      "clue": "Günlük dilde Türk parası olarak bilinen kavram",
       "answer": "LİRA"
     },
     {
@@ -188,7 +188,7 @@
       "row": 5,
       "col": 0,
       "length": 6,
-      "clue": "Yük aracı",
+      "clue": "Yük aracı karşılığı olarak kullanılan kelime",
       "answer": "KAMYON"
     },
     {
@@ -197,7 +197,7 @@
       "row": 5,
       "col": 1,
       "length": 3,
-      "clue": "Yakışıklı, gösterişli",
+      "clue": "Yakışıklı ya da gösterişli anlamına gelen sözcük",
       "answer": "AFİ"
     },
     {
@@ -206,7 +206,7 @@
       "row": 5,
       "col": 3,
       "length": 6,
-      "clue": "Bitkinin yeşil organı",
+      "clue": "Bitkinin yeşil organı anlamına gelen sözcük",
       "answer": "YAPRAK"
     },
     {
@@ -215,7 +215,7 @@
       "row": 6,
       "col": 6,
       "length": 3,
-      "clue": "Devir, dönem",
+      "clue": "Devir ya da dönem karşılığı olarak kullanılan kelime",
       "answer": "ÇAĞ"
     }
   ]

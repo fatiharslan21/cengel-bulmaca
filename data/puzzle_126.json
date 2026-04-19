@@ -157,7 +157,7 @@
       "row": 0,
       "col": 1,
       "length": 5,
-      "clue": "Geniş ana yol",
+      "clue": "Geniş ana yol için kullanılan yaygın ifade",
       "answer": "CADDE"
     },
     {
@@ -166,7 +166,7 @@
       "row": 1,
       "col": 0,
       "length": 5,
-      "clue": "Kutlama tatlısı",
+      "clue": "Kutlama tatlısı anlamına gelen sözcük",
       "answer": "PASTA"
     },
     {
@@ -175,7 +175,7 @@
       "row": 3,
       "col": 3,
       "length": 4,
-      "clue": "Yırtık yamağı",
+      "clue": "Yırtığı kapatmak için eklenen parça",
       "answer": "YAMA"
     },
     {
@@ -184,7 +184,7 @@
       "row": 3,
       "col": 6,
       "length": 4,
-      "clue": "Müzikle hareket",
+      "clue": "Müzikle hareket karşılığı olarak kullanılan kelime",
       "answer": "DANS"
     },
     {
@@ -193,7 +193,7 @@
       "row": 3,
       "col": 7,
       "length": 4,
-      "clue": "Düşünme yetisi",
+      "clue": "Günlük dilde Düşünme yetisi olarak bilinen kavram",
       "answer": "AKIL"
     },
     {
@@ -202,7 +202,7 @@
       "row": 4,
       "col": 0,
       "length": 5,
-      "clue": "Yüzeyin sınırı",
+      "clue": "Günlük dilde Yüzeyin sınırı olarak bilinen kavram",
       "answer": "KENAR"
     },
     {
@@ -211,7 +211,7 @@
       "row": 6,
       "col": 2,
       "length": 6,
-      "clue": "Kürekli tekne",
+      "clue": "Günlük dilde Kürekli tekne olarak bilinen kavram",
       "answer": "SANDAL"
     },
     {
@@ -220,7 +220,7 @@
       "row": 6,
       "col": 6,
       "length": 4,
-      "clue": "Yansıtıcı cam",
+      "clue": "Bulmacada Yansıtıcı cam karşılığını veren yanıt",
       "answer": "AYNA"
     },
     {
@@ -229,7 +229,7 @@
       "row": 8,
       "col": 9,
       "length": 4,
-      "clue": "Yaşam süresi",
+      "clue": "Yaşam süresi karşılığı olarak kullanılan kelime",
       "answer": "ÖMÜR"
     },
     {
@@ -238,7 +238,7 @@
       "row": 9,
       "col": 6,
       "length": 4,
-      "clue": "Yürüyüş mesafesi",
+      "clue": "Günlük dilde Yürüyüş mesafesi olarak bilinen kavram",
       "answer": "ADIM"
     }
   ]

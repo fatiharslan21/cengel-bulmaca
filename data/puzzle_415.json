@@ -143,7 +143,7 @@
       "row": 0,
       "col": 9,
       "length": 5,
-      "clue": "Taşıma, aktarma",
+      "clue": "Bulmacada Taşıma ya da aktarma karşılığını veren yanıt",
       "answer": "NAKİL"
     },
     {
@@ -152,7 +152,7 @@
       "row": 1,
       "col": 8,
       "length": 3,
-      "clue": "Uçurum, yarık",
+      "clue": "Derin uçurum ya da dik çatlak",
       "answer": "YAR"
     },
     {
@@ -161,7 +161,7 @@
       "row": 3,
       "col": 1,
       "length": 5,
-      "clue": "Maç yöneticisi",
+      "clue": "Bulmacada Maç yöneticisi karşılığını veren yanıt",
       "answer": "HAKEM"
     },
     {
@@ -170,7 +170,7 @@
       "row": 3,
       "col": 6,
       "length": 5,
-      "clue": "Ağır, kötü",
+      "clue": "Ağır ya da kötü karşılığı olarak kullanılan kelime",
       "answer": "VAHİM"
     },
     {
@@ -179,7 +179,7 @@
       "row": 4,
       "col": 0,
       "length": 4,
-      "clue": "Uyan, bağlı",
+      "clue": "Uyan ya da bağlı karşılığı olarak kullanılan kelime",
       "answer": "TABİ"
     },
     {
@@ -188,7 +188,7 @@
       "row": 4,
       "col": 6,
       "length": 4,
-      "clue": "Gerçek, hakiki",
+      "clue": "Gerçek ya da hakiki için kullanılan yaygın ifade",
       "answer": "ASIL"
     },
     {
@@ -197,7 +197,7 @@
       "row": 6,
       "col": 0,
       "length": 7,
-      "clue": "Görünme, belirme",
+      "clue": "Bulmacada Görünme ya da belirme karşılığını veren yanıt",
       "answer": "TECELLİ"
     },
     {
@@ -206,7 +206,7 @@
       "row": 6,
       "col": 3,
       "length": 4,
-      "clue": "Özlenen istek",
+      "clue": "Özlenen istek için kullanılan yaygın ifade",
       "answer": "EMEL"
     },
     {
@@ -215,7 +215,7 @@
       "row": 7,
       "col": 6,
       "length": 5,
-      "clue": "Hüzün, usanç",
+      "clue": "Bulmacada Hüzün ya da usanç karşılığını veren yanıt",
       "answer": "MELAL"
     },
     {
@@ -224,7 +224,7 @@
       "row": 9,
       "col": 1,
       "length": 5,
-      "clue": "İçten bağlılık",
+      "clue": "İçten bağlılık anlamına gelen sözcük",
       "answer": "HULUS"
     }
   ]

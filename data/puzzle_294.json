@@ -121,7 +121,7 @@
       "row": 0,
       "col": 2,
       "length": 4,
-      "clue": "Yanlış, kusur",
+      "clue": "Günlük dilde Yanlış ya da kusur olarak bilinen kavram",
       "answer": "HATA"
     },
     {
@@ -130,7 +130,7 @@
       "row": 1,
       "col": 2,
       "length": 4,
-      "clue": "İstek, dilek",
+      "clue": "İstek ya da dilek için kullanılan yaygın ifade",
       "answer": "ARZU"
     },
     {
@@ -139,7 +139,7 @@
       "row": 1,
       "col": 7,
       "length": 6,
-      "clue": "Üst giysi",
+      "clue": "Üst giysi karşılığı olarak kullanılan kelime",
       "answer": "GÖMLEK"
     },
     {
@@ -148,7 +148,7 @@
       "row": 1,
       "col": 7,
       "length": 3,
-      "clue": "Kuvvet, enerji",
+      "clue": "Bulmacada Kuvvet ya da enerji karşılığını veren yanıt",
       "answer": "GÜÇ"
     },
     {
@@ -157,7 +157,7 @@
       "row": 3,
       "col": 1,
       "length": 4,
-      "clue": "Yemek mobilyası",
+      "clue": "Günlük dilde Yemek mobilyası olarak bilinen kavram",
       "answer": "MASA"
     },
     {
@@ -166,7 +166,7 @@
       "row": 3,
       "col": 4,
       "length": 5,
-      "clue": "Harita kitabı",
+      "clue": "Harita kitabı karşılığı olarak kullanılan kelime",
       "answer": "ATLAS"
     },
     {
@@ -175,7 +175,7 @@
       "row": 4,
       "col": 4,
       "length": 5,
-      "clue": "Ekin alanı",
+      "clue": "Ekin alanı anlamına gelen sözcük",
       "answer": "TARLA"
     },
     {
@@ -184,7 +184,7 @@
       "row": 5,
       "col": 1,
       "length": 4,
-      "clue": "Bağlama aracı",
+      "clue": "Bağlama aracı anlamına gelen sözcük",
       "answer": "TOKA"
     },
     {
@@ -193,7 +193,7 @@
       "row": 6,
       "col": 1,
       "length": 5,
-      "clue": "Ağaçlık alan",
+      "clue": "Bulmacada Ağaçlık alan karşılığını veren yanıt",
       "answer": "ORMAN"
     },
     {
@@ -202,7 +202,7 @@
       "row": 8,
       "col": 0,
       "length": 4,
-      "clue": "Yeşil alan",
+      "clue": "Günlük dilde Yeşil alan olarak bilinen kavram",
       "answer": "PARK"
     }
   ]

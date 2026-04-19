@@ -145,7 +145,7 @@
       "row": 0,
       "col": 1,
       "length": 7,
-      "clue": "Görünme, belirme",
+      "clue": "Bulmacada Görünme ya da belirme karşılığını veren yanıt",
       "answer": "TECELLİ"
     },
     {
@@ -154,7 +154,7 @@
       "row": 1,
       "col": 0,
       "length": 3,
-      "clue": "Rüzgar, esinti",
+      "clue": "Bulmacada Rüzgar ya da esinti karşılığını veren yanıt",
       "answer": "YEL"
     },
     {
@@ -163,7 +163,7 @@
       "row": 4,
       "col": 0,
       "length": 4,
-      "clue": "Bildirme, hüküm",
+      "clue": "Bildirme ya da hüküm anlamına gelen sözcük",
       "answer": "İLAM"
     },
     {
@@ -172,7 +172,7 @@
       "row": 6,
       "col": 1,
       "length": 4,
-      "clue": "Açıklama",
+      "clue": "Günlük dilde Açıklama olarak bilinen kavram",
       "answer": "İZAH"
     },
     {
@@ -181,7 +181,7 @@
       "row": 6,
       "col": 3,
       "length": 4,
-      "clue": "Bacak ucu",
+      "clue": "Günlük dilde Bacak ucu olarak bilinen kavram",
       "answer": "AYAK"
     },
     {
@@ -190,7 +190,7 @@
       "row": 7,
       "col": 5,
       "length": 5,
-      "clue": "Şans, baht",
+      "clue": "Bulmacada Şans ya da baht karşılığını veren yanıt",
       "answer": "TALİH"
     },
     {
@@ -199,7 +199,7 @@
       "row": 7,
       "col": 5,
       "length": 4,
-      "clue": "Küçük yükselti",
+      "clue": "Bulmacada Küçük yükselti karşılığını veren yanıt",
       "answer": "TEPE"
     },
     {
@@ -208,7 +208,7 @@
       "row": 8,
       "col": 0,
       "length": 4,
-      "clue": "Müzik işareti",
+      "clue": "Müzik işareti için kullanılan yaygın ifade",
       "answer": "NOTA"
     },
     {
@@ -217,7 +217,7 @@
       "row": 9,
       "col": 3,
       "length": 3,
-      "clue": "Gitme, burada dur",
+      "clue": "Bulmacada Gitme ya da burada dur karşılığını veren yanıt",
       "answer": "KAL"
     },
     {
@@ -226,7 +226,7 @@
       "row": 11,
       "col": 3,
       "length": 6,
-      "clue": "Güçlük, eziyet",
+      "clue": "Güçlük ya da eziyet anlamına gelen sözcük",
       "answer": "ZAHMET"
     }
   ]

@@ -103,7 +103,7 @@
       "row": 0,
       "col": 3,
       "length": 4,
-      "clue": "Kırmızı meyve",
+      "clue": "Bulmacada Kırmızı meyve karşılığını veren yanıt",
       "answer": "ELMA"
     },
     {
@@ -112,7 +112,7 @@
       "row": 3,
       "col": 3,
       "length": 4,
-      "clue": "Elektrik hareketi",
+      "clue": "Elektrik hareketi için kullanılan yaygın ifade",
       "answer": "AKIM"
     },
     {
@@ -121,7 +121,7 @@
       "row": 3,
       "col": 4,
       "length": 4,
-      "clue": "Ev bedeli",
+      "clue": "Bulmacada Ev bedeli karşılığını veren yanıt",
       "answer": "KIRA"
     },
     {
@@ -130,7 +130,7 @@
       "row": 4,
       "col": 1,
       "length": 4,
-      "clue": "Doku hasarı",
+      "clue": "Doku hasarı anlamına gelen sözcük",
       "answer": "YARA"
     },
     {
@@ -139,7 +139,7 @@
       "row": 5,
       "col": 0,
       "length": 3,
-      "clue": "Sert kayaç parçası",
+      "clue": "Sert kayaç parçası için kullanılan yaygın ifade",
       "answer": "TAŞ"
     },
     {
@@ -148,7 +148,7 @@
       "row": 6,
       "col": 3,
       "length": 4,
-      "clue": "Ses birimi",
+      "clue": "Ses birimi için kullanılan yaygın ifade",
       "answer": "HECE"
     },
     {
@@ -157,7 +157,7 @@
       "row": 6,
       "col": 3,
       "length": 3,
-      "clue": "Çizgi, yol",
+      "clue": "Çizgi ya da yol anlamına gelen sözcük",
       "answer": "HAT"
     },
     {
@@ -166,7 +166,7 @@
       "row": 7,
       "col": 0,
       "length": 4,
-      "clue": "Adet, parça",
+      "clue": "Günlük dilde Adet ya da parça olarak bilinen kavram",
       "answer": "TANE"
     },
     {
@@ -175,7 +175,7 @@
       "row": 9,
       "col": 0,
       "length": 4,
-      "clue": "Sivri dikiş aracı",
+      "clue": "Sivri dikiş aracı anlamına gelen sözcük",
       "answer": "İĞNE"
     }
   ]

@@ -112,7 +112,7 @@
       "row": 0,
       "col": 3,
       "length": 5,
-      "clue": "Evin yeşil alanı",
+      "clue": "Evin yeşil alanı anlamına gelen sözcük",
       "answer": "BAHÇE"
     },
     {
@@ -121,7 +121,7 @@
       "row": 1,
       "col": 2,
       "length": 3,
-      "clue": "Çizgi, yol",
+      "clue": "Çizgi ya da yol anlamına gelen sözcük",
       "answer": "HAT"
     },
     {
@@ -130,7 +130,7 @@
       "row": 2,
       "col": 6,
       "length": 4,
-      "clue": "Vatan",
+      "clue": "Vatan karşılığı olarak kullanılan kelime",
       "answer": "YURT"
     },
     {
@@ -139,7 +139,7 @@
       "row": 2,
       "col": 6,
       "length": 3,
-      "clue": "Rüzgar, esinti",
+      "clue": "Bulmacada Rüzgar ya da esinti karşılığını veren yanıt",
       "answer": "YEL"
     },
     {
@@ -148,7 +148,7 @@
       "row": 3,
       "col": 1,
       "length": 3,
-      "clue": "Evin çatısı",
+      "clue": "Evin çatısı anlamına gelen sözcük",
       "answer": "DAM"
     },
     {
@@ -157,7 +157,7 @@
       "row": 4,
       "col": 0,
       "length": 5,
-      "clue": "Yazı aleti",
+      "clue": "Günlük dilde Yazı aleti olarak bilinen kavram",
       "answer": "KALEM"
     },
     {
@@ -166,7 +166,7 @@
       "row": 4,
       "col": 4,
       "length": 5,
-      "clue": "Hayal ürünü hikaye",
+      "clue": "Hayal ürünü hikaye karşılığı olarak kullanılan kelime",
       "answer": "MASAL"
     },
     {
@@ -175,7 +175,7 @@
       "row": 5,
       "col": 4,
       "length": 3,
-      "clue": "Bir şeye ilişkin",
+      "clue": "Bulmacada Bir şeye ilişkin karşılığını veren yanıt",
       "answer": "AİT"
     },
     {
@@ -184,7 +184,7 @@
       "row": 7,
       "col": 3,
       "length": 3,
-      "clue": "Hayat, yaşam",
+      "clue": "Hayat ya da yaşam anlamına gelen sözcük",
       "answer": "CAN"
     }
   ]

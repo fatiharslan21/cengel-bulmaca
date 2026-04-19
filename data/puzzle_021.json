@@ -97,7 +97,7 @@
       "row": 0,
       "col": 0,
       "length": 4,
-      "clue": "Sıkıntı, üzüntü",
+      "clue": "Günlük dilde Sıkıntı ya da üzüntü olarak bilinen kavram",
       "answer": "DERT"
     },
     {
@@ -106,7 +106,7 @@
       "row": 0,
       "col": 3,
       "length": 3,
-      "clue": "Çeşit, tür",
+      "clue": "Aynı özellikleri taşıyan canlı grubu",
       "answer": "TÜR"
     },
     {
@@ -115,7 +115,7 @@
       "row": 2,
       "col": 1,
       "length": 3,
-      "clue": "Güç, kolay değil",
+      "clue": "Günlük dilde Güç ya da kolay değil olarak bilinen kavram",
       "answer": "ZOR"
     },
     {
@@ -124,7 +124,7 @@
       "row": 2,
       "col": 2,
       "length": 4,
-      "clue": "Konaklama yeri",
+      "clue": "Bulmacada Konaklama yeri karşılığını veren yanıt",
       "answer": "OTEL"
     },
     {
@@ -133,7 +133,7 @@
       "row": 2,
       "col": 5,
       "length": 5,
-      "clue": "Harita kitabı",
+      "clue": "Harita kitabı karşılığı olarak kullanılan kelime",
       "answer": "ATLAS"
     },
     {
@@ -142,7 +142,7 @@
       "row": 2,
       "col": 6,
       "length": 5,
-      "clue": "Küçük deniz taşıtı",
+      "clue": "Küçük deniz taşıtı anlamına gelen sözcük",
       "answer": "TEKNE"
     },
     {
@@ -151,7 +151,7 @@
       "row": 3,
       "col": 4,
       "length": 4,
-      "clue": "Türk parası",
+      "clue": "Günlük dilde Türk parası olarak bilinen kavram",
       "answer": "LİRA"
     },
     {
@@ -160,7 +160,7 @@
       "row": 4,
       "col": 1,
       "length": 4,
-      "clue": "Deniz taşıtı",
+      "clue": "Bulmacada Deniz taşıtı karşılığını veren yanıt",
       "answer": "GEMİ"
     },
     {
@@ -169,7 +169,7 @@
       "row": 6,
       "col": 3,
       "length": 4,
-      "clue": "Çözüm yolu",
+      "clue": "Çözüm yolu anlamına gelen sözcük",
       "answer": "ÇARE"
     }
   ]

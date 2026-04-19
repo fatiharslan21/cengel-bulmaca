@@ -143,7 +143,7 @@
       "row": 0,
       "col": 9,
       "length": 4,
-      "clue": "Raylı taşıt",
+      "clue": "Bulmacada Raylı taşıt karşılığını veren yanıt",
       "answer": "TREN"
     },
     {
@@ -152,7 +152,7 @@
       "row": 1,
       "col": 7,
       "length": 4,
-      "clue": "Sıvı geçen tüp",
+      "clue": "Günlük dilde Sıvı geçen tüp olarak bilinen kavram",
       "answer": "BORU"
     },
     {
@@ -161,7 +161,7 @@
       "row": 3,
       "col": 6,
       "length": 4,
-      "clue": "Eğlence faaliyeti",
+      "clue": "Bulmacada Eğlence faaliyeti karşılığını veren yanıt",
       "answer": "OYUN"
     },
     {
@@ -170,7 +170,7 @@
       "row": 3,
       "col": 7,
       "length": 4,
-      "clue": "Vatan",
+      "clue": "Vatan karşılığı olarak kullanılan kelime",
       "answer": "YURT"
     },
     {
@@ -179,7 +179,7 @@
       "row": 5,
       "col": 5,
       "length": 3,
-      "clue": "Gizli bilgi",
+      "clue": "Gizli bilgi için kullanılan yaygın ifade",
       "answer": "SIR"
     },
     {
@@ -188,7 +188,7 @@
       "row": 5,
       "col": 5,
       "length": 5,
-      "clue": "Hayal, ilüzyon",
+      "clue": "Hayal ya da ilüzyon karşılığı olarak kullanılan kelime",
       "answer": "SERAP"
     },
     {
@@ -197,7 +197,7 @@
       "row": 6,
       "col": 0,
       "length": 6,
-      "clue": "Kısa an",
+      "clue": "Kısa an anlamına gelen sözcük",
       "answer": "SANİYE"
     },
     {
@@ -206,7 +206,7 @@
       "row": 6,
       "col": 7,
       "length": 3,
-      "clue": "Cilt, deri",
+      "clue": "Cilt ya da deri karşılığı olarak kullanılan kelime",
       "answer": "TEN"
     },
     {
@@ -215,7 +215,7 @@
       "row": 6,
       "col": 8,
       "length": 4,
-      "clue": "Keder, acı",
+      "clue": "Keder ya da acı karşılığı olarak kullanılan kelime",
       "answer": "ELEM"
     },
     {
@@ -224,7 +224,7 @@
       "row": 8,
       "col": 7,
       "length": 4,
-      "clue": "Şehir",
+      "clue": "Şehir anlamına gelen sözcük",
       "answer": "KENT"
     }
   ]

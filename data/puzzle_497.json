@@ -157,7 +157,7 @@
       "row": 0,
       "col": 8,
       "length": 4,
-      "clue": "Amaç, maksat",
+      "clue": "Amaç ya da maksat için kullanılan yaygın ifade",
       "answer": "GAYE"
     },
     {
@@ -166,7 +166,7 @@
       "row": 1,
       "col": 5,
       "length": 4,
-      "clue": "Kullanılan nesneler",
+      "clue": "Kullanılan nesneler anlamına gelen sözcük",
       "answer": "EŞYA"
     },
     {
@@ -175,7 +175,7 @@
       "row": 3,
       "col": 5,
       "length": 4,
-      "clue": "Kalın olmayan",
+      "clue": "Kalın olmayan anlamına gelen sözcük",
       "answer": "İNCE"
     },
     {
@@ -184,7 +184,7 @@
       "row": 3,
       "col": 5,
       "length": 3,
-      "clue": "Kötünün zıttı",
+      "clue": "Kötünün zıttı karşılığı olarak kullanılan kelime",
       "answer": "İYİ"
     },
     {
@@ -193,7 +193,7 @@
       "row": 5,
       "col": 4,
       "length": 5,
-      "clue": "Yakarma",
+      "clue": "Günlük dilde Yakarma olarak bilinen kavram",
       "answer": "NİYAZ"
     },
     {
@@ -202,7 +202,7 @@
       "row": 5,
       "col": 4,
       "length": 5,
-      "clue": "Soluk alma verme",
+      "clue": "Günlük dilde Soluk alma verme olarak bilinen kavram",
       "answer": "NEFES"
     },
     {
@@ -211,7 +211,7 @@
       "row": 6,
       "col": 0,
       "length": 5,
-      "clue": "İyi haber",
+      "clue": "İyi haber anlamına gelen sözcük",
       "answer": "MÜJDE"
     },
     {
@@ -220,7 +220,7 @@
       "row": 8,
       "col": 3,
       "length": 5,
-      "clue": "Kanatlı kutsal varlık",
+      "clue": "Bulmacada Kanatlı kutsal varlık karşılığını veren yanıt",
       "answer": "MELEK"
     },
     {
@@ -229,7 +229,7 @@
       "row": 8,
       "col": 6,
       "length": 4,
-      "clue": "Yük hayvanı",
+      "clue": "Yük hayvanı için kullanılan yaygın ifade",
       "answer": "EŞEK"
     },
     {
@@ -238,7 +238,7 @@
       "row": 10,
       "col": 6,
       "length": 4,
-      "clue": "Karşılık, sevap",
+      "clue": "Bulmacada Karşılık ya da sevap karşılığını veren yanıt",
       "answer": "ECİR"
     }
   ]

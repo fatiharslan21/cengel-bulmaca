@@ -145,7 +145,7 @@
       "row": 0,
       "col": 1,
       "length": 5,
-      "clue": "Bilimsel test",
+      "clue": "Günlük dilde Bilimsel test olarak bilinen kavram",
       "answer": "DENEY"
     },
     {
@@ -154,7 +154,7 @@
       "row": 1,
       "col": 0,
       "length": 4,
-      "clue": "Felaket, kötülük",
+      "clue": "Günlük dilde Felaket ya da kötülük olarak bilinen kavram",
       "answer": "BELA"
     },
     {
@@ -163,7 +163,7 @@
       "row": 2,
       "col": 4,
       "length": 5,
-      "clue": "Tatlı madde",
+      "clue": "Tatlı madde için kullanılan yaygın ifade",
       "answer": "ŞEKER"
     },
     {
@@ -172,7 +172,7 @@
       "row": 2,
       "col": 6,
       "length": 3,
-      "clue": "Mülk, eşya",
+      "clue": "Mülk ya da eşya anlamına gelen sözcük",
       "answer": "MAL"
     },
     {
@@ -181,7 +181,7 @@
       "row": 3,
       "col": 0,
       "length": 5,
-      "clue": "Yenilebilen bitki",
+      "clue": "Yenilebilen bitki için kullanılan yaygın ifade",
       "answer": "SEBZE"
     },
     {
@@ -190,7 +190,7 @@
       "row": 4,
       "col": 4,
       "length": 3,
-      "clue": "Yanık kalıntısı",
+      "clue": "Yanık kalıntısı için kullanılan yaygın ifade",
       "answer": "KÜL"
     },
     {
@@ -199,7 +199,7 @@
       "row": 6,
       "col": 3,
       "length": 5,
-      "clue": "Vücut bölümü",
+      "clue": "Vücut bölümü karşılığı olarak kullanılan kelime",
       "answer": "ORGAN"
     },
     {
@@ -208,7 +208,7 @@
       "row": 6,
       "col": 7,
       "length": 5,
-      "clue": "Soluk alma verme",
+      "clue": "Günlük dilde Soluk alma verme olarak bilinen kavram",
       "answer": "NEFES"
     },
     {
@@ -217,7 +217,7 @@
       "row": 9,
       "col": 6,
       "length": 4,
-      "clue": "Bitki yapısı",
+      "clue": "Günlük dilde Bitki yapısı olarak bilinen kavram",
       "answer": "SERA"
     }
   ]

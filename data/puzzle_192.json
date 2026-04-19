@@ -130,7 +130,7 @@
       "row": 0,
       "col": 10,
       "length": 3,
-      "clue": "Karalarla çevrili su",
+      "clue": "Bulmacada Karalarla çevrili su karşılığını veren yanıt",
       "answer": "GÖL"
     },
     {
@@ -139,7 +139,7 @@
       "row": 2,
       "col": 8,
       "length": 3,
-      "clue": "Sıcak mevsim",
+      "clue": "Bulmacada Sıcak mevsim karşılığını veren yanıt",
       "answer": "YAZ"
     },
     {
@@ -148,7 +148,7 @@
       "row": 2,
       "col": 8,
       "length": 3,
-      "clue": "Güzergah, patika",
+      "clue": "Bulmacada Güzergah ya da patika karşılığını veren yanıt",
       "answer": "YOL"
     },
     {
@@ -157,7 +157,7 @@
       "row": 3,
       "col": 5,
       "length": 4,
-      "clue": "Renk veren madde",
+      "clue": "Günlük dilde Renk veren madde olarak bilinen kavram",
       "answer": "BOYA"
     },
     {
@@ -166,7 +166,7 @@
       "row": 3,
       "col": 6,
       "length": 3,
-      "clue": "İğneyle süsleme",
+      "clue": "Günlük dilde İğneyle süsleme olarak bilinen kavram",
       "answer": "OYA"
     },
     {
@@ -175,7 +175,7 @@
       "row": 4,
       "col": 0,
       "length": 4,
-      "clue": "Miyavlayan evcil",
+      "clue": "Miyavlayan evcil anlamına gelen sözcük",
       "answer": "KEDİ"
     },
     {
@@ -184,7 +184,7 @@
       "row": 4,
       "col": 2,
       "length": 4,
-      "clue": "Müzikle hareket",
+      "clue": "Müzikle hareket karşılığı olarak kullanılan kelime",
       "answer": "DANS"
     },
     {
@@ -193,7 +193,7 @@
       "row": 5,
       "col": 4,
       "length": 3,
-      "clue": "Toprak sahibi",
+      "clue": "Günlük dilde Toprak sahibi olarak bilinen kavram",
       "answer": "AĞA"
     },
     {
@@ -202,7 +202,7 @@
       "row": 5,
       "col": 4,
       "length": 4,
-      "clue": "Yemek pişiren",
+      "clue": "Yemek pişiren karşılığı olarak kullanılan kelime",
       "answer": "AŞÇI"
     },
     {
@@ -211,7 +211,7 @@
       "row": 7,
       "col": 2,
       "length": 3,
-      "clue": "Baştaki kıllar",
+      "clue": "Baştaki kıllar anlamına gelen sözcük",
       "answer": "SAÇ"
     }
   ]

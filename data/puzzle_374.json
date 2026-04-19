@@ -153,7 +153,7 @@
       "row": 0,
       "col": 0,
       "length": 6,
-      "clue": "Güçlük, eziyet",
+      "clue": "Güçlük ya da eziyet anlamına gelen sözcük",
       "answer": "ZAHMET"
     },
     {
@@ -162,7 +162,7 @@
       "row": 2,
       "col": 4,
       "length": 4,
-      "clue": "Kötü, berbat",
+      "clue": "Kötü ya da berbat karşılığı olarak kullanılan kelime",
       "answer": "FENA"
     },
     {
@@ -171,7 +171,7 @@
       "row": 3,
       "col": 0,
       "length": 5,
-      "clue": "İyi haber",
+      "clue": "İyi haber anlamına gelen sözcük",
       "answer": "MÜJDE"
     },
     {
@@ -180,7 +180,7 @@
       "row": 3,
       "col": 6,
       "length": 3,
-      "clue": "Harici, dış yüzey",
+      "clue": "Günlük dilde Harici ya da dış yüzey olarak bilinen kavram",
       "answer": "DIŞ"
     },
     {
@@ -189,7 +189,7 @@
       "row": 4,
       "col": 8,
       "length": 3,
-      "clue": "Sunma, takdim",
+      "clue": "Sunma ya da takdim anlamına gelen sözcük",
       "answer": "ARZ"
     },
     {
@@ -198,7 +198,7 @@
       "row": 4,
       "col": 10,
       "length": 4,
-      "clue": "Solunan gaz",
+      "clue": "Solunan gaz anlamına gelen sözcük",
       "answer": "HAVA"
     },
     {
@@ -207,7 +207,7 @@
       "row": 5,
       "col": 3,
       "length": 6,
-      "clue": "Kıyamet yeri",
+      "clue": "Kıyamet yeri için kullanılan yaygın ifade",
       "answer": "MAHŞER"
     },
     {
@@ -216,7 +216,7 @@
       "row": 5,
       "col": 3,
       "length": 5,
-      "clue": "Seslerle sanat",
+      "clue": "Bulmacada Seslerle sanat karşılığını veren yanıt",
       "answer": "MÜZİK"
     },
     {
@@ -225,7 +225,7 @@
       "row": 6,
       "col": 8,
       "length": 4,
-      "clue": "Haz, keyif",
+      "clue": "Günlük dilde Haz ya da keyif olarak bilinen kavram",
       "answer": "ZEVK"
     },
     {
@@ -234,7 +234,7 @@
       "row": 9,
       "col": 3,
       "length": 4,
-      "clue": "Miyavlayan evcil",
+      "clue": "Miyavlayan evcil anlamına gelen sözcük",
       "answer": "KEDİ"
     }
   ]

@@ -143,7 +143,7 @@
       "row": 0,
       "col": 1,
       "length": 3,
-      "clue": "Daire çapı",
+      "clue": "Dairenin merkezinden geçen doğru parçası",
       "answer": "ÇAP"
     },
     {
@@ -152,7 +152,7 @@
       "row": 0,
       "col": 3,
       "length": 5,
-      "clue": "Katlanma, dayanma",
+      "clue": "Bulmacada Katlanma ya da dayanma karşılığını veren yanıt",
       "answer": "SABIR"
     },
     {
@@ -161,7 +161,7 @@
       "row": 1,
       "col": 0,
       "length": 5,
-      "clue": "Yurt, memleket",
+      "clue": "Bulmacada Yurt ya da memleket karşılığını veren yanıt",
       "answer": "VATAN"
     },
     {
@@ -170,7 +170,7 @@
       "row": 3,
       "col": 6,
       "length": 3,
-      "clue": "Evin çatısı",
+      "clue": "Evin çatısı anlamına gelen sözcük",
       "answer": "DAM"
     },
     {
@@ -179,7 +179,7 @@
       "row": 3,
       "col": 8,
       "length": 5,
-      "clue": "Soluk alma verme",
+      "clue": "Günlük dilde Soluk alma verme olarak bilinen kavram",
       "answer": "NEFES"
     },
     {
@@ -188,7 +188,7 @@
       "row": 4,
       "col": 3,
       "length": 7,
-      "clue": "Gevşeklik",
+      "clue": "Gevşeklik anlamına gelen sözcük",
       "answer": "REHAVET"
     },
     {
@@ -197,7 +197,7 @@
       "row": 4,
       "col": 4,
       "length": 5,
-      "clue": "En sert taş",
+      "clue": "En sert taş karşılığı olarak kullanılan kelime",
       "answer": "ELMAS"
     },
     {
@@ -206,7 +206,7 @@
       "row": 5,
       "col": 10,
       "length": 5,
-      "clue": "Dil, konuşma",
+      "clue": "Bulmacada Dil ya da konuşma karşılığını veren yanıt",
       "answer": "LİSAN"
     },
     {
@@ -215,7 +215,7 @@
       "row": 6,
       "col": 7,
       "length": 4,
-      "clue": "İlerinin zıttı",
+      "clue": "Günlük dilde İlerinin zıttı olarak bilinen kavram",
       "answer": "GERİ"
     },
     {
@@ -224,7 +224,7 @@
       "row": 9,
       "col": 8,
       "length": 3,
-      "clue": "Birinci tekil kişi",
+      "clue": "Birinci tekil kişi karşılığı olarak kullanılan kelime",
       "answer": "BEN"
     }
   ]

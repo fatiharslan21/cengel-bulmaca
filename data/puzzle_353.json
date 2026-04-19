@@ -145,7 +145,7 @@
       "row": 0,
       "col": 6,
       "length": 6,
-      "clue": "Bitkinin yeşil organı",
+      "clue": "Bitkinin yeşil organı anlamına gelen sözcük",
       "answer": "YAPRAK"
     },
     {
@@ -154,7 +154,7 @@
       "row": 1,
       "col": 5,
       "length": 3,
-      "clue": "Hava gibi madde",
+      "clue": "Hava gibi madde için kullanılan yaygın ifade",
       "answer": "GAZ"
     },
     {
@@ -163,7 +163,7 @@
       "row": 3,
       "col": 1,
       "length": 6,
-      "clue": "Boşuna, yararsız",
+      "clue": "Boşuna ya da yararsız için kullanılan yaygın ifade",
       "answer": "NAFİLE"
     },
     {
@@ -172,7 +172,7 @@
       "row": 4,
       "col": 6,
       "length": 4,
-      "clue": "Geniş düzlük",
+      "clue": "Günlük dilde Geniş düzlük olarak bilinen kavram",
       "answer": "ALAN"
     },
     {
@@ -181,7 +181,7 @@
       "row": 5,
       "col": 3,
       "length": 4,
-      "clue": "Anlama yeteneği",
+      "clue": "Anlama yeteneği için kullanılan yaygın ifade",
       "answer": "ZEKA"
     },
     {
@@ -190,7 +190,7 @@
       "row": 5,
       "col": 3,
       "length": 4,
-      "clue": "Haz, keyif",
+      "clue": "Günlük dilde Haz ya da keyif olarak bilinen kavram",
       "answer": "ZEVK"
     },
     {
@@ -199,7 +199,7 @@
       "row": 6,
       "col": 0,
       "length": 4,
-      "clue": "Düzen, oyun",
+      "clue": "Günlük dilde Düzen ya da oyun olarak bilinen kavram",
       "answer": "HİLE"
     },
     {
@@ -208,7 +208,7 @@
       "row": 7,
       "col": 5,
       "length": 4,
-      "clue": "Yanlış, kusur",
+      "clue": "Günlük dilde Yanlış ya da kusur olarak bilinen kavram",
       "answer": "HATA"
     },
     {
@@ -217,7 +217,7 @@
       "row": 8,
       "col": 3,
       "length": 3,
-      "clue": "Benekli, alacalı",
+      "clue": "Tek renk olmayan, benekli görünüm",
       "answer": "ALA"
     },
     {
@@ -226,7 +226,7 @@
       "row": 10,
       "col": 4,
       "length": 3,
-      "clue": "Damar sıvısı",
+      "clue": "Bulmacada Damar sıvısı karşılığını veren yanıt",
       "answer": "KAN"
     }
   ]

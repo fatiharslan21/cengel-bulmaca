@@ -101,7 +101,7 @@
       "row": 0,
       "col": 7,
       "length": 4,
-      "clue": "Müzik işareti",
+      "clue": "Müzik işareti için kullanılan yaygın ifade",
       "answer": "NOTA"
     },
     {
@@ -110,7 +110,7 @@
       "row": 1,
       "col": 4,
       "length": 5,
-      "clue": "Uçak kullanan",
+      "clue": "Bulmacada Uçak kullanan karşılığını veren yanıt",
       "answer": "PİLOT"
     },
     {
@@ -119,7 +119,7 @@
       "row": 1,
       "col": 4,
       "length": 5,
-      "clue": "Kutlama tatlısı",
+      "clue": "Kutlama tatlısı anlamına gelen sözcük",
       "answer": "PASTA"
     },
     {
@@ -128,7 +128,7 @@
       "row": 2,
       "col": 0,
       "length": 5,
-      "clue": "Nefesli çalgı",
+      "clue": "Nefesli çalgı için kullanılan yaygın ifade",
       "answer": "ZURNA"
     },
     {
@@ -137,7 +137,7 @@
       "row": 3,
       "col": 6,
       "length": 3,
-      "clue": "Mülk, eşya",
+      "clue": "Mülk ya da eşya anlamına gelen sözcük",
       "answer": "MAL"
     },
     {
@@ -146,7 +146,7 @@
       "row": 4,
       "col": 0,
       "length": 5,
-      "clue": "Ambalajlı koli",
+      "clue": "Ambalajlı koli karşılığı olarak kullanılan kelime",
       "answer": "PAKET"
     },
     {
@@ -155,7 +155,7 @@
       "row": 4,
       "col": 2,
       "length": 3,
-      "clue": "Seramik toprağı",
+      "clue": "Seramik toprağı karşılığı olarak kullanılan kelime",
       "answer": "KİL"
     },
     {
@@ -164,7 +164,7 @@
       "row": 5,
       "col": 4,
       "length": 3,
-      "clue": "Hatıra, geçmiş olay",
+      "clue": "Hatıra ya da geçmiş olay karşılığı olarak kullanılan kelime",
       "answer": "ANI"
     },
     {
@@ -173,7 +173,7 @@
       "row": 5,
       "col": 5,
       "length": 3,
-      "clue": "Havadaki rutubet",
+      "clue": "Bulmacada Havadaki rutubet karşılığını veren yanıt",
       "answer": "NEM"
     },
     {
@@ -182,7 +182,7 @@
       "row": 6,
       "col": 0,
       "length": 3,
-      "clue": "Kurak kumluk arazi",
+      "clue": "Kurak kumluk arazi anlamına gelen sözcük",
       "answer": "ÇÖL"
     }
   ]

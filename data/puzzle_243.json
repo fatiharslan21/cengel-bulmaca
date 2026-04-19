@@ -134,7 +134,7 @@
       "row": 0,
       "col": 4,
       "length": 4,
-      "clue": "Bağlama aracı",
+      "clue": "Bağlama aracı anlamına gelen sözcük",
       "answer": "TOKA"
     },
     {
@@ -143,7 +143,7 @@
       "row": 3,
       "col": 3,
       "length": 4,
-      "clue": "Tahta oyunu",
+      "clue": "Tahta oyunu anlamına gelen sözcük",
       "answer": "DAMA"
     },
     {
@@ -152,7 +152,7 @@
       "row": 3,
       "col": 3,
       "length": 3,
-      "clue": "Yön değiştir",
+      "clue": "Yön değiştir karşılığı olarak kullanılan kelime",
       "answer": "DÖN"
     },
     {
@@ -161,7 +161,7 @@
       "row": 3,
       "col": 5,
       "length": 5,
-      "clue": "Seslerle sanat",
+      "clue": "Bulmacada Seslerle sanat karşılığını veren yanıt",
       "answer": "MÜZİK"
     },
     {
@@ -170,7 +170,7 @@
       "row": 3,
       "col": 8,
       "length": 4,
-      "clue": "Yakın olmayan",
+      "clue": "Yakın olmayan karşılığı olarak kullanılan kelime",
       "answer": "UZAK"
     },
     {
@@ -179,7 +179,7 @@
       "row": 6,
       "col": 1,
       "length": 3,
-      "clue": "Daire çapı",
+      "clue": "Dairenin merkezinden geçen doğru parçası",
       "answer": "ÇAP"
     },
     {
@@ -188,7 +188,7 @@
       "row": 6,
       "col": 5,
       "length": 4,
-      "clue": "Böcekten kumaş",
+      "clue": "Böcekten kumaş anlamına gelen sözcük",
       "answer": "İPEK"
     },
     {
@@ -197,7 +197,7 @@
       "row": 6,
       "col": 7,
       "length": 4,
-      "clue": "Kırmızı meyve",
+      "clue": "Bulmacada Kırmızı meyve karşılığını veren yanıt",
       "answer": "ELMA"
     },
     {
@@ -206,7 +206,7 @@
       "row": 7,
       "col": 0,
       "length": 6,
-      "clue": "İçecek kabı",
+      "clue": "İçecek kabı anlamına gelen sözcük",
       "answer": "BARDAK"
     },
     {
@@ -215,7 +215,7 @@
       "row": 7,
       "col": 4,
       "length": 4,
-      "clue": "Yansıtıcı cam",
+      "clue": "Bulmacada Yansıtıcı cam karşılığını veren yanıt",
       "answer": "AYNA"
     }
   ]

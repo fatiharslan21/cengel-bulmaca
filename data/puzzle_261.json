@@ -133,7 +133,7 @@
       "row": 0,
       "col": 7,
       "length": 3,
-      "clue": "Seramik toprağı",
+      "clue": "Seramik toprağı karşılığı olarak kullanılan kelime",
       "answer": "KİL"
     },
     {
@@ -142,7 +142,7 @@
       "row": 2,
       "col": 5,
       "length": 3,
-      "clue": "Mektup pulu",
+      "clue": "Posta gönderilerinin üzerine yapıştırılan değer etiketi",
       "answer": "PUL"
     },
     {
@@ -151,7 +151,7 @@
       "row": 2,
       "col": 6,
       "length": 4,
-      "clue": "Yöntem, tarz",
+      "clue": "Bulmacada Yöntem ya da tarz karşılığını veren yanıt",
       "answer": "USUL"
     },
     {
@@ -160,7 +160,7 @@
       "row": 5,
       "col": 4,
       "length": 5,
-      "clue": "Gerçek olmayan düş",
+      "clue": "Günlük dilde Gerçek olmayan düş olarak bilinen kavram",
       "answer": "HAYAL"
     },
     {
@@ -169,7 +169,7 @@
       "row": 5,
       "col": 4,
       "length": 4,
-      "clue": "Düzen, oyun",
+      "clue": "Günlük dilde Düzen ya da oyun olarak bilinen kavram",
       "answer": "HİLE"
     },
     {
@@ -178,7 +178,7 @@
       "row": 6,
       "col": 1,
       "length": 4,
-      "clue": "Ses, seda",
+      "clue": "Ses ya da seda karşılığı olarak kullanılan kelime",
       "answer": "SADA"
     },
     {
@@ -187,7 +187,7 @@
       "row": 7,
       "col": 4,
       "length": 3,
-      "clue": "Çehre; sayı 100",
+      "clue": "Çehre; sayı 100 için kullanılan yaygın ifade",
       "answer": "YÜZ"
     },
     {
@@ -196,7 +196,7 @@
       "row": 8,
       "col": 1,
       "length": 4,
-      "clue": "Yırtık yamağı",
+      "clue": "Yırtığı kapatmak için eklenen parça",
       "answer": "YAMA"
     },
     {
@@ -205,7 +205,7 @@
       "row": 9,
       "col": 0,
       "length": 5,
-      "clue": "Taşıma, aktarma",
+      "clue": "Bulmacada Taşıma ya da aktarma karşılığını veren yanıt",
       "answer": "NAKİL"
     },
     {
@@ -214,7 +214,7 @@
       "row": 11,
       "col": 1,
       "length": 3,
-      "clue": "Yakışıklı, gösterişli",
+      "clue": "Yakışıklı ya da gösterişli anlamına gelen sözcük",
       "answer": "AFİ"
     }
   ]

@@ -130,7 +130,7 @@
       "row": 0,
       "col": 3,
       "length": 5,
-      "clue": "Yas, acı",
+      "clue": "Bulmacada Yas ya da acı karşılığını veren yanıt",
       "answer": "MATEM"
     },
     {
@@ -139,7 +139,7 @@
       "row": 1,
       "col": 2,
       "length": 4,
-      "clue": "Görkemli yapı",
+      "clue": "Görkemli yapı karşılığı olarak kullanılan kelime",
       "answer": "ŞATO"
     },
     {
@@ -148,7 +148,7 @@
       "row": 2,
       "col": 1,
       "length": 4,
-      "clue": "Çiçek süs kabı",
+      "clue": "Bulmacada Çiçek süs kabı karşılığını veren yanıt",
       "answer": "VAZO"
     },
     {
@@ -157,7 +157,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "Adet, parça",
+      "clue": "Günlük dilde Adet ya da parça olarak bilinen kavram",
       "answer": "TANE"
     },
     {
@@ -166,7 +166,7 @@
       "row": 3,
       "col": 6,
       "length": 3,
-      "clue": "Omuz örtüsü",
+      "clue": "Omuz örtüsü anlamına gelen sözcük",
       "answer": "ŞAL"
     },
     {
@@ -175,7 +175,7 @@
       "row": 3,
       "col": 6,
       "length": 4,
-      "clue": "Arzu, istek",
+      "clue": "Arzu ya da istek için kullanılan yaygın ifade",
       "answer": "ŞEVK"
     },
     {
@@ -184,7 +184,7 @@
       "row": 3,
       "col": 8,
       "length": 4,
-      "clue": "Ayrılırken selam",
+      "clue": "Ayrılırken selam için kullanılan yaygın ifade",
       "answer": "VEDA"
     },
     {
@@ -193,7 +193,7 @@
       "row": 4,
       "col": 3,
       "length": 4,
-      "clue": "Yemek mobilyası",
+      "clue": "Günlük dilde Yemek mobilyası olarak bilinen kavram",
       "answer": "MASA"
     },
     {
@@ -202,7 +202,7 @@
       "row": 6,
       "col": 7,
       "length": 4,
-      "clue": "Talih, baht",
+      "clue": "Talih ya da baht karşılığı olarak kullanılan kelime",
       "answer": "ŞANS"
     },
     {
@@ -211,7 +211,7 @@
       "row": 6,
       "col": 9,
       "length": 3,
-      "clue": "İşve, cilve",
+      "clue": "İşve ya da cilve anlamına gelen sözcük",
       "answer": "NAZ"
     }
   ]

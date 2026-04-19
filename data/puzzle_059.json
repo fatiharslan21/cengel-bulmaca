@@ -157,7 +157,7 @@
       "row": 0,
       "col": 6,
       "length": 5,
-      "clue": "Suda yaşayan canlı",
+      "clue": "Suda yaşayan canlı karşılığı olarak kullanılan kelime",
       "answer": "BALIK"
     },
     {
@@ -166,7 +166,7 @@
       "row": 2,
       "col": 4,
       "length": 5,
-      "clue": "Ambalajlı koli",
+      "clue": "Ambalajlı koli karşılığı olarak kullanılan kelime",
       "answer": "PAKET"
     },
     {
@@ -175,7 +175,7 @@
       "row": 3,
       "col": 3,
       "length": 4,
-      "clue": "Rakam ifadesi",
+      "clue": "Bulmacada Rakam ifadesi karşılığını veren yanıt",
       "answer": "SAYI"
     },
     {
@@ -184,7 +184,7 @@
       "row": 4,
       "col": 6,
       "length": 4,
-      "clue": "Ev bedeli",
+      "clue": "Bulmacada Ev bedeli karşılığını veren yanıt",
       "answer": "KIRA"
     },
     {
@@ -193,7 +193,7 @@
       "row": 6,
       "col": 0,
       "length": 5,
-      "clue": "Ölçü, ebat",
+      "clue": "Günlük dilde Ölçü ya da ebat olarak bilinen kavram",
       "answer": "BOYUT"
     },
     {
@@ -202,7 +202,7 @@
       "row": 6,
       "col": 1,
       "length": 3,
-      "clue": "İğneyle süsleme",
+      "clue": "Günlük dilde İğneyle süsleme olarak bilinen kavram",
       "answer": "OYA"
     },
     {
@@ -211,7 +211,7 @@
       "row": 8,
       "col": 0,
       "length": 4,
-      "clue": "Siyah renk",
+      "clue": "Siyah renk karşılığı olarak kullanılan kelime",
       "answer": "KARA"
     },
     {
@@ -220,7 +220,7 @@
       "row": 8,
       "col": 0,
       "length": 4,
-      "clue": "Çukur yemek kabı",
+      "clue": "Çukur yemek kabı anlamına gelen sözcük",
       "answer": "KASE"
     },
     {
@@ -229,7 +229,7 @@
       "row": 8,
       "col": 3,
       "length": 4,
-      "clue": "Elektrik hareketi",
+      "clue": "Elektrik hareketi için kullanılan yaygın ifade",
       "answer": "AKIM"
     }
   ]

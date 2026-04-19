@@ -167,7 +167,7 @@
       "row": 0,
       "col": 6,
       "length": 5,
-      "clue": "Nefesli çalgı",
+      "clue": "Nefesli çalgı için kullanılan yaygın ifade",
       "answer": "ZURNA"
     },
     {
@@ -176,7 +176,7 @@
       "row": 1,
       "col": 5,
       "length": 5,
-      "clue": "İç rahatlığı",
+      "clue": "İç rahatlığı için kullanılan yaygın ifade",
       "answer": "HUZUR"
     },
     {
@@ -185,7 +185,7 @@
       "row": 3,
       "col": 2,
       "length": 5,
-      "clue": "Vaktinden önce",
+      "clue": "Vaktinden önce karşılığı olarak kullanılan kelime",
       "answer": "ERKEN"
     },
     {
@@ -194,7 +194,7 @@
       "row": 4,
       "col": 0,
       "length": 3,
-      "clue": "Gizli bilgi",
+      "clue": "Gizli bilgi için kullanılan yaygın ifade",
       "answer": "SIR"
     },
     {
@@ -203,7 +203,7 @@
       "row": 4,
       "col": 5,
       "length": 5,
-      "clue": "İki yakayı birleştiren",
+      "clue": "İki yakayı birleştiren için kullanılan yaygın ifade",
       "answer": "KÖPRÜ"
     },
     {
@@ -212,7 +212,7 @@
       "row": 4,
       "col": 5,
       "length": 5,
-      "clue": "Yemek aracı",
+      "clue": "Günlük dilde Yemek aracı olarak bilinen kavram",
       "answer": "KAŞIK"
     },
     {
@@ -221,7 +221,7 @@
       "row": 4,
       "col": 9,
       "length": 5,
-      "clue": "Olgunluk",
+      "clue": "Olgunluk için kullanılan yaygın ifade",
       "answer": "KEMAL"
     },
     {
@@ -230,7 +230,7 @@
       "row": 6,
       "col": 1,
       "length": 5,
-      "clue": "Sayısal işlem",
+      "clue": "Sayısal işlem karşılığı olarak kullanılan kelime",
       "answer": "HESAP"
     },
     {
@@ -239,7 +239,7 @@
       "row": 6,
       "col": 7,
       "length": 5,
-      "clue": "Esas, kök",
+      "clue": "Esas ya da kök anlamına gelen sözcük",
       "answer": "TEMEL"
     },
     {
@@ -248,7 +248,7 @@
       "row": 6,
       "col": 7,
       "length": 5,
-      "clue": "Küçük deniz taşıtı",
+      "clue": "Küçük deniz taşıtı anlamına gelen sözcük",
       "answer": "TEKNE"
     }
   ]

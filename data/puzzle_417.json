@@ -130,7 +130,7 @@
       "row": 0,
       "col": 3,
       "length": 6,
-      "clue": "Yetinme, razı olma",
+      "clue": "Günlük dilde Yetinme ya da razı olma olarak bilinen kavram",
       "answer": "KANAAT"
     },
     {
@@ -139,7 +139,7 @@
       "row": 1,
       "col": 9,
       "length": 5,
-      "clue": "Onur, itibar",
+      "clue": "Onur ya da itibar için kullanılan yaygın ifade",
       "answer": "ŞEREF"
     },
     {
@@ -148,7 +148,7 @@
       "row": 2,
       "col": 5,
       "length": 6,
-      "clue": "Ülke yönetimi",
+      "clue": "Ülke yönetimi için kullanılan yaygın ifade",
       "answer": "DEVLET"
     },
     {
@@ -157,7 +157,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "Yalvarma, dilek",
+      "clue": "Yalvarma ya da dilek karşılığı olarak kullanılan kelime",
       "answer": "RİCA"
     },
     {
@@ -166,7 +166,7 @@
       "row": 4,
       "col": 7,
       "length": 4,
-      "clue": "Sanat yapıtı",
+      "clue": "Bulmacada Sanat yapıtı karşılığını veren yanıt",
       "answer": "ESER"
     },
     {
@@ -175,7 +175,7 @@
       "row": 5,
       "col": 0,
       "length": 4,
-      "clue": "Yakın arkadaş",
+      "clue": "Bulmacada Yakın arkadaş karşılığını veren yanıt",
       "answer": "DOST"
     },
     {
@@ -184,7 +184,7 @@
       "row": 5,
       "col": 2,
       "length": 3,
-      "clue": "Beyaz besin sıvısı",
+      "clue": "Bulmacada Beyaz besin sıvısı karşılığını veren yanıt",
       "answer": "SÜT"
     },
     {
@@ -193,7 +193,7 @@
       "row": 5,
       "col": 5,
       "length": 4,
-      "clue": "Ses, seda",
+      "clue": "Ses ya da seda karşılığı olarak kullanılan kelime",
       "answer": "SADA"
     },
     {
@@ -202,7 +202,7 @@
       "row": 5,
       "col": 7,
       "length": 4,
-      "clue": "Gönül huzuru",
+      "clue": "Gönül huzuru anlamına gelen sözcük",
       "answer": "SAFA"
     },
     {
@@ -211,7 +211,7 @@
       "row": 7,
       "col": 2,
       "length": 6,
-      "clue": "Beğenme, övme",
+      "clue": "Günlük dilde Beğenme ya da övme olarak bilinen kavram",
       "answer": "TAKDİR"
     }
   ]

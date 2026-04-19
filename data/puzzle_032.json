@@ -78,7 +78,7 @@
       "row": 0,
       "col": 3,
       "length": 3,
-      "clue": "Havadaki rutubet",
+      "clue": "Bulmacada Havadaki rutubet karşılığını veren yanıt",
       "answer": "NEM"
     },
     {
@@ -87,7 +87,7 @@
       "row": 0,
       "col": 5,
       "length": 3,
-      "clue": "Mülk, eşya",
+      "clue": "Mülk ya da eşya anlamına gelen sözcük",
       "answer": "MAL"
     },
     {
@@ -96,7 +96,7 @@
       "row": 0,
       "col": 8,
       "length": 3,
-      "clue": "Gizli bilgi",
+      "clue": "Gizli bilgi için kullanılan yaygın ifade",
       "answer": "SIR"
     },
     {
@@ -105,7 +105,7 @@
       "row": 0,
       "col": 8,
       "length": 3,
-      "clue": "Baştaki kıllar",
+      "clue": "Baştaki kıllar anlamına gelen sözcük",
       "answer": "SAÇ"
     },
     {
@@ -114,7 +114,7 @@
       "row": 1,
       "col": 0,
       "length": 4,
-      "clue": "Yakın olmayan",
+      "clue": "Yakın olmayan karşılığı olarak kullanılan kelime",
       "answer": "UZAK"
     },
     {
@@ -123,7 +123,7 @@
       "row": 1,
       "col": 5,
       "length": 4,
-      "clue": "Av yapan kişi",
+      "clue": "Av yapan kişi anlamına gelen sözcük",
       "answer": "AVCI"
     },
     {
@@ -132,7 +132,7 @@
       "row": 2,
       "col": 3,
       "length": 3,
-      "clue": "Vücudun orta bölümü",
+      "clue": "Bulmacada Vücudun orta bölümü karşılığını veren yanıt",
       "answer": "BEL"
     },
     {
@@ -141,7 +141,7 @@
       "row": 2,
       "col": 3,
       "length": 3,
-      "clue": "Arı ürünü tatlı",
+      "clue": "Arı ürünü tatlı için kullanılan yaygın ifade",
       "answer": "BAL"
     },
     {
@@ -150,7 +150,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "Yansıtıcı cam",
+      "clue": "Bulmacada Yansıtıcı cam karşılığını veren yanıt",
       "answer": "AYNA"
     }
   ]

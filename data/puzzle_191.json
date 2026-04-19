@@ -153,7 +153,7 @@
       "row": 0,
       "col": 4,
       "length": 6,
-      "clue": "Anlatılan olay",
+      "clue": "Günlük dilde Anlatılan olay olarak bilinen kavram",
       "answer": "HİKAYE"
     },
     {
@@ -162,7 +162,7 @@
       "row": 1,
       "col": 4,
       "length": 3,
-      "clue": "Kötünün zıttı",
+      "clue": "Kötünün zıttı karşılığı olarak kullanılan kelime",
       "answer": "İYİ"
     },
     {
@@ -171,7 +171,7 @@
       "row": 3,
       "col": 4,
       "length": 5,
-      "clue": "Konum bilgisi",
+      "clue": "Günlük dilde Konum bilgisi olarak bilinen kavram",
       "answer": "ADRES"
     },
     {
@@ -180,7 +180,7 @@
       "row": 3,
       "col": 8,
       "length": 5,
-      "clue": "Günün başı",
+      "clue": "Günün başı anlamına gelen sözcük",
       "answer": "SABAH"
     },
     {
@@ -189,7 +189,7 @@
       "row": 4,
       "col": 2,
       "length": 6,
-      "clue": "Başkent",
+      "clue": "Başkent karşılığı olarak kullanılan kelime",
       "answer": "ANKARA"
     },
     {
@@ -198,7 +198,7 @@
       "row": 5,
       "col": 0,
       "length": 6,
-      "clue": "Konular listesi",
+      "clue": "Konular listesi için kullanılan yaygın ifade",
       "answer": "GÜNDEM"
     },
     {
@@ -207,7 +207,7 @@
       "row": 5,
       "col": 10,
       "length": 3,
-      "clue": "Yüce, büyük",
+      "clue": "Yüce ya da büyük anlamına gelen sözcük",
       "answer": "ULU"
     },
     {
@@ -216,7 +216,7 @@
       "row": 6,
       "col": 7,
       "length": 5,
-      "clue": "Ekin alanı",
+      "clue": "Ekin alanı anlamına gelen sözcük",
       "answer": "TARLA"
     },
     {
@@ -225,7 +225,7 @@
       "row": 7,
       "col": 2,
       "length": 4,
-      "clue": "Düşünme yetisi",
+      "clue": "Günlük dilde Düşünme yetisi olarak bilinen kavram",
       "answer": "AKIL"
     },
     {
@@ -234,7 +234,7 @@
       "row": 8,
       "col": 0,
       "length": 3,
-      "clue": "Mekan, konum",
+      "clue": "Günlük dilde Mekan ya da konum olarak bilinen kavram",
       "answer": "YER"
     }
   ]

@@ -101,7 +101,7 @@
       "row": 0,
       "col": 3,
       "length": 5,
-      "clue": "Temizlik maddesi",
+      "clue": "Günlük dilde Temizlik maddesi olarak bilinen kavram",
       "answer": "SABUN"
     },
     {
@@ -110,7 +110,7 @@
       "row": 0,
       "col": 5,
       "length": 3,
-      "clue": "Havadaki rutubet",
+      "clue": "Bulmacada Havadaki rutubet karşılığını veren yanıt",
       "answer": "NEM"
     },
     {
@@ -119,7 +119,7 @@
       "row": 1,
       "col": 2,
       "length": 4,
-      "clue": "Savunma yapısı",
+      "clue": "Savunma yapısı karşılığı olarak kullanılan kelime",
       "answer": "KALE"
     },
     {
@@ -128,7 +128,7 @@
       "row": 3,
       "col": 0,
       "length": 5,
-      "clue": "Gökyüzü su kümeleri",
+      "clue": "Günlük dilde Gökyüzü su kümeleri olarak bilinen kavram",
       "answer": "BULUT"
     },
     {
@@ -137,7 +137,7 @@
       "row": 3,
       "col": 0,
       "length": 3,
-      "clue": "Asit karşıtı",
+      "clue": "Asit karşıtı için kullanılan yaygın ifade",
       "answer": "BAZ"
     },
     {
@@ -146,7 +146,7 @@
       "row": 5,
       "col": 0,
       "length": 3,
-      "clue": "Oyun küpü",
+      "clue": "Günlük dilde Oyun küpü olarak bilinen kavram",
       "answer": "ZAR"
     },
     {
@@ -155,7 +155,7 @@
       "row": 5,
       "col": 1,
       "length": 3,
-      "clue": "Elin iç kısmı",
+      "clue": "Elin iç kısmı anlamına gelen sözcük",
       "answer": "AYA"
     },
     {
@@ -164,7 +164,7 @@
       "row": 7,
       "col": 0,
       "length": 4,
-      "clue": "Düz ince levha",
+      "clue": "Düz ince levha anlamına gelen sözcük",
       "answer": "KART"
     },
     {
@@ -173,7 +173,7 @@
       "row": 7,
       "col": 0,
       "length": 4,
-      "clue": "Yüksek yapı",
+      "clue": "Bulmacada Yüksek yapı karşılığını veren yanıt",
       "answer": "KULE"
     },
     {
@@ -182,7 +182,7 @@
       "row": 7,
       "col": 3,
       "length": 3,
-      "clue": "Lezzet verici",
+      "clue": "Lezzet verici anlamına gelen sözcük",
       "answer": "TUZ"
     }
   ]

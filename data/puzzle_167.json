@@ -157,7 +157,7 @@
       "row": 0,
       "col": 6,
       "length": 5,
-      "clue": "Ekin alanı",
+      "clue": "Ekin alanı anlamına gelen sözcük",
       "answer": "TARLA"
     },
     {
@@ -166,7 +166,7 @@
       "row": 3,
       "col": 9,
       "length": 3,
-      "clue": "Lider, baş aşçı",
+      "clue": "Günlük dilde Lider ya da baş aşçı olarak bilinen kavram",
       "answer": "ŞEF"
     },
     {
@@ -175,7 +175,7 @@
       "row": 4,
       "col": 5,
       "length": 6,
-      "clue": "Bina çıkıntısı",
+      "clue": "Bina çıkıntısı karşılığı olarak kullanılan kelime",
       "answer": "BALKON"
     },
     {
@@ -184,7 +184,7 @@
       "row": 4,
       "col": 5,
       "length": 5,
-      "clue": "Evin yeşil alanı",
+      "clue": "Evin yeşil alanı anlamına gelen sözcük",
       "answer": "BAHÇE"
     },
     {
@@ -193,7 +193,7 @@
       "row": 6,
       "col": 3,
       "length": 3,
-      "clue": "Mektup pulu",
+      "clue": "Posta gönderilerinin üzerine yapıştırılan değer etiketi",
       "answer": "PUL"
     },
     {
@@ -202,7 +202,7 @@
       "row": 8,
       "col": 0,
       "length": 4,
-      "clue": "Yakın arkadaş",
+      "clue": "Bulmacada Yakın arkadaş karşılığını veren yanıt",
       "answer": "DOST"
     },
     {
@@ -211,7 +211,7 @@
       "row": 8,
       "col": 7,
       "length": 3,
-      "clue": "Giyside küçük kese",
+      "clue": "Giyside küçük kese karşılığı olarak kullanılan kelime",
       "answer": "CEP"
     },
     {
@@ -220,7 +220,7 @@
       "row": 9,
       "col": 3,
       "length": 6,
-      "clue": "Konular listesi",
+      "clue": "Konular listesi için kullanılan yaygın ifade",
       "answer": "GÜNDEM"
     },
     {
@@ -229,7 +229,7 @@
       "row": 9,
       "col": 3,
       "length": 3,
-      "clue": "24 saatlik süre",
+      "clue": "24 saatlik süre karşılığı olarak kullanılan kelime",
       "answer": "GÜN"
     },
     {
@@ -238,7 +238,7 @@
       "row": 11,
       "col": 0,
       "length": 4,
-      "clue": "Raylı taşıt",
+      "clue": "Bulmacada Raylı taşıt karşılığını veren yanıt",
       "answer": "TREN"
     }
   ]

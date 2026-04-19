@@ -133,7 +133,7 @@
       "row": 0,
       "col": 5,
       "length": 3,
-      "clue": "Mekan, konum",
+      "clue": "Günlük dilde Mekan ya da konum olarak bilinen kavram",
       "answer": "YER"
     },
     {
@@ -142,7 +142,7 @@
       "row": 1,
       "col": 4,
       "length": 4,
-      "clue": "Şehir",
+      "clue": "Şehir anlamına gelen sözcük",
       "answer": "KENT"
     },
     {
@@ -151,7 +151,7 @@
       "row": 1,
       "col": 7,
       "length": 4,
-      "clue": "Anadolu halkı",
+      "clue": "Anadolu halkı için kullanılan yaygın ifade",
       "answer": "TÜRK"
     },
     {
@@ -160,7 +160,7 @@
       "row": 4,
       "col": 3,
       "length": 5,
-      "clue": "Suyla ıslanmış",
+      "clue": "Bulmacada Suyla ıslanmış karşılığını veren yanıt",
       "answer": "ISLAK"
     },
     {
@@ -169,7 +169,7 @@
       "row": 4,
       "col": 4,
       "length": 5,
-      "clue": "Temizlik maddesi",
+      "clue": "Günlük dilde Temizlik maddesi olarak bilinen kavram",
       "answer": "SABUN"
     },
     {
@@ -178,7 +178,7 @@
       "row": 4,
       "col": 6,
       "length": 3,
-      "clue": "Benekli, alacalı",
+      "clue": "Tek renk olmayan, benekli görünüm",
       "answer": "ALA"
     },
     {
@@ -187,7 +187,7 @@
       "row": 6,
       "col": 0,
       "length": 4,
-      "clue": "Felaket, kötülük",
+      "clue": "Günlük dilde Felaket ya da kötülük olarak bilinen kavram",
       "answer": "BELA"
     },
     {
@@ -196,7 +196,7 @@
       "row": 8,
       "col": 0,
       "length": 5,
-      "clue": "Gemi barınağı",
+      "clue": "Bulmacada Gemi barınağı karşılığını veren yanıt",
       "answer": "LİMAN"
     },
     {
@@ -205,7 +205,7 @@
       "row": 8,
       "col": 2,
       "length": 4,
-      "clue": "Ateş aleti",
+      "clue": "Günlük dilde Ateş aleti olarak bilinen kavram",
       "answer": "MAŞA"
     }
   ]

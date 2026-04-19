@@ -109,7 +109,7 @@
       "row": 0,
       "col": 0,
       "length": 4,
-      "clue": "Boş olmayan",
+      "clue": "Günlük dilde Boş olmayan olarak bilinen kavram",
       "answer": "DOLU"
     },
     {
@@ -118,7 +118,7 @@
       "row": 0,
       "col": 3,
       "length": 4,
-      "clue": "Yakın olmayan",
+      "clue": "Yakın olmayan karşılığı olarak kullanılan kelime",
       "answer": "UZAK"
     },
     {
@@ -127,7 +127,7 @@
       "row": 0,
       "col": 6,
       "length": 6,
-      "clue": "Daire çevresi",
+      "clue": "Daire çevresi anlamına gelen sözcük",
       "answer": "ÇEMBER"
     },
     {
@@ -136,7 +136,7 @@
       "row": 2,
       "col": 1,
       "length": 3,
-      "clue": "Oyun küpü",
+      "clue": "Günlük dilde Oyun küpü olarak bilinen kavram",
       "answer": "ZAR"
     },
     {
@@ -145,7 +145,7 @@
       "row": 2,
       "col": 3,
       "length": 4,
-      "clue": "Elektrik hareketi",
+      "clue": "Elektrik hareketi için kullanılan yaygın ifade",
       "answer": "AKIM"
     },
     {
@@ -154,7 +154,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "Yeşil alan",
+      "clue": "Günlük dilde Yeşil alan olarak bilinen kavram",
       "answer": "PARK"
     },
     {
@@ -163,7 +163,7 @@
       "row": 3,
       "col": 6,
       "length": 4,
-      "clue": "Zodyak işareti",
+      "clue": "Günlük dilde Zodyak işareti olarak bilinen kavram",
       "answer": "BURÇ"
     },
     {
@@ -172,7 +172,7 @@
       "row": 5,
       "col": 4,
       "length": 3,
-      "clue": "Güç, kolay değil",
+      "clue": "Günlük dilde Güç ya da kolay değil olarak bilinen kavram",
       "answer": "ZOR"
     },
     {
@@ -181,7 +181,7 @@
       "row": 5,
       "col": 5,
       "length": 3,
-      "clue": "Ev bölümü",
+      "clue": "Bulmacada Ev bölümü karşılığını veren yanıt",
       "answer": "ODA"
     },
     {
@@ -190,7 +190,7 @@
       "row": 7,
       "col": 4,
       "length": 4,
-      "clue": "Ayrım, değişiklik",
+      "clue": "Ayrım ya da değişiklik anlamına gelen sözcük",
       "answer": "FARK"
     }
   ]

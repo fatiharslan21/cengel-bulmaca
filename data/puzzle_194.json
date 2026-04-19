@@ -157,7 +157,7 @@
       "row": 0,
       "col": 9,
       "length": 4,
-      "clue": "Altın rengi",
+      "clue": "Altın rengi için kullanılan yaygın ifade",
       "answer": "SARI"
     },
     {
@@ -166,7 +166,7 @@
       "row": 1,
       "col": 5,
       "length": 4,
-      "clue": "Miyavlayan evcil",
+      "clue": "Miyavlayan evcil anlamına gelen sözcük",
       "answer": "KEDİ"
     },
     {
@@ -175,7 +175,7 @@
       "row": 2,
       "col": 4,
       "length": 6,
-      "clue": "Daire çevresi",
+      "clue": "Daire çevresi anlamına gelen sözcük",
       "answer": "ÇEMBER"
     },
     {
@@ -184,7 +184,7 @@
       "row": 3,
       "col": 1,
       "length": 4,
-      "clue": "Yapı, bina",
+      "clue": "İnsanların yaşadığı veya çalıştığı yapı",
       "answer": "BİNA"
     },
     {
@@ -193,7 +193,7 @@
       "row": 3,
       "col": 1,
       "length": 3,
-      "clue": "İçi dolu olmayan",
+      "clue": "Günlük dilde İçi dolu olmayan olarak bilinen kavram",
       "answer": "BOŞ"
     },
     {
@@ -202,7 +202,7 @@
       "row": 4,
       "col": 4,
       "length": 3,
-      "clue": "On yüzlük sayı",
+      "clue": "On yüzlük sayı anlamına gelen sözcük",
       "answer": "BİN"
     },
     {
@@ -211,7 +211,7 @@
       "row": 4,
       "col": 4,
       "length": 3,
-      "clue": "Çok miktarda",
+      "clue": "Çok miktarda karşılığı olarak kullanılan kelime",
       "answer": "BOL"
     },
     {
@@ -220,7 +220,7 @@
       "row": 6,
       "col": 0,
       "length": 5,
-      "clue": "Gerçek olmayan düş",
+      "clue": "Günlük dilde Gerçek olmayan düş olarak bilinen kavram",
       "answer": "HAYAL"
     },
     {
@@ -229,7 +229,7 @@
       "row": 6,
       "col": 0,
       "length": 6,
-      "clue": "Anlatılan olay",
+      "clue": "Günlük dilde Anlatılan olay olarak bilinen kavram",
       "answer": "HİKAYE"
     },
     {
@@ -238,7 +238,7 @@
       "row": 6,
       "col": 3,
       "length": 4,
-      "clue": "Bacak ucu",
+      "clue": "Günlük dilde Bacak ucu olarak bilinen kavram",
       "answer": "AYAK"
     }
   ]

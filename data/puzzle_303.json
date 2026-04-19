@@ -109,7 +109,7 @@
       "row": 0,
       "col": 4,
       "length": 5,
-      "clue": "Kutlama tatlısı",
+      "clue": "Kutlama tatlısı anlamına gelen sözcük",
       "answer": "PASTA"
     },
     {
@@ -118,7 +118,7 @@
       "row": 0,
       "col": 6,
       "length": 3,
-      "clue": "En soğuk mevsim",
+      "clue": "Günlük dilde En soğuk mevsim olarak bilinen kavram",
       "answer": "KIŞ"
     },
     {
@@ -127,7 +127,7 @@
       "row": 1,
       "col": 3,
       "length": 4,
-      "clue": "Bodur ağaç",
+      "clue": "Bodur ağaç anlamına gelen sözcük",
       "answer": "ÇALI"
     },
     {
@@ -136,7 +136,7 @@
       "row": 3,
       "col": 7,
       "length": 5,
-      "clue": "Olgunluk",
+      "clue": "Olgunluk için kullanılan yaygın ifade",
       "answer": "KEMAL"
     },
     {
@@ -145,7 +145,7 @@
       "row": 4,
       "col": 1,
       "length": 3,
-      "clue": "İşitilen titreşim",
+      "clue": "İşitilen titreşim anlamına gelen sözcük",
       "answer": "SES"
     },
     {
@@ -154,7 +154,7 @@
       "row": 4,
       "col": 3,
       "length": 6,
-      "clue": "Güçlük, eziyet",
+      "clue": "Güçlük ya da eziyet anlamına gelen sözcük",
       "answer": "ZAHMET"
     },
     {
@@ -163,7 +163,7 @@
       "row": 4,
       "col": 3,
       "length": 4,
-      "clue": "Haz, keyif",
+      "clue": "Günlük dilde Haz ya da keyif olarak bilinen kavram",
       "answer": "ZEVK"
     },
     {
@@ -172,7 +172,7 @@
       "row": 4,
       "col": 5,
       "length": 4,
-      "clue": "Ses birimi",
+      "clue": "Ses birimi için kullanılan yaygın ifade",
       "answer": "HECE"
     },
     {
@@ -181,7 +181,7 @@
       "row": 5,
       "col": 0,
       "length": 4,
-      "clue": "Karanlık zaman",
+      "clue": "Karanlık zaman anlamına gelen sözcük",
       "answer": "GECE"
     },
     {
@@ -190,7 +190,7 @@
       "row": 6,
       "col": 7,
       "length": 3,
-      "clue": "Bal yapan böcek",
+      "clue": "Günlük dilde Bal yapan böcek olarak bilinen kavram",
       "answer": "ARI"
     }
   ]

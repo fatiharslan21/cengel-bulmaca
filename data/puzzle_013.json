@@ -121,7 +121,7 @@
       "row": 0,
       "col": 7,
       "length": 3,
-      "clue": "Ün, şöhret",
+      "clue": "Günlük dilde Ün ya da şöhret olarak bilinen kavram",
       "answer": "ŞAN"
     },
     {
@@ -130,7 +130,7 @@
       "row": 2,
       "col": 0,
       "length": 3,
-      "clue": "Görme organı",
+      "clue": "Günlük dilde Görme organı olarak bilinen kavram",
       "answer": "GÖZ"
     },
     {
@@ -139,7 +139,7 @@
       "row": 2,
       "col": 2,
       "length": 4,
-      "clue": "Anlama yeteneği",
+      "clue": "Anlama yeteneği için kullanılan yaygın ifade",
       "answer": "ZEKA"
     },
     {
@@ -148,7 +148,7 @@
       "row": 2,
       "col": 5,
       "length": 3,
-      "clue": "On yüzlük sayı",
+      "clue": "On yüzlük sayı anlamına gelen sözcük",
       "answer": "BİN"
     },
     {
@@ -157,7 +157,7 @@
       "row": 2,
       "col": 5,
       "length": 3,
-      "clue": "Çok miktarda",
+      "clue": "Çok miktarda karşılığı olarak kullanılan kelime",
       "answer": "BOL"
     },
     {
@@ -166,7 +166,7 @@
       "row": 4,
       "col": 2,
       "length": 5,
-      "clue": "İple oynatılan",
+      "clue": "İple oynatılan karşılığı olarak kullanılan kelime",
       "answer": "KUKLA"
     },
     {
@@ -175,7 +175,7 @@
       "row": 4,
       "col": 4,
       "length": 3,
-      "clue": "Bina bölümü",
+      "clue": "Bulmacada Bina bölümü karşılığını veren yanıt",
       "answer": "KAT"
     },
     {
@@ -184,7 +184,7 @@
       "row": 4,
       "col": 6,
       "length": 5,
-      "clue": "Harita kitabı",
+      "clue": "Harita kitabı karşılığı olarak kullanılan kelime",
       "answer": "ATLAS"
     },
     {
@@ -193,7 +193,7 @@
       "row": 8,
       "col": 6,
       "length": 4,
-      "clue": "Cevap bekleyen",
+      "clue": "Cevap bekleyen karşılığı olarak kullanılan kelime",
       "answer": "SORU"
     }
   ]

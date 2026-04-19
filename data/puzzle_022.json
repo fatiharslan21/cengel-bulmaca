@@ -104,7 +104,7 @@
       "row": 0,
       "col": 2,
       "length": 3,
-      "clue": "Bitiş, final",
+      "clue": "Bitiş ya da final için kullanılan yaygın ifade",
       "answer": "SON"
     },
     {
@@ -113,7 +113,7 @@
       "row": 0,
       "col": 4,
       "length": 4,
-      "clue": "Solunan gaz",
+      "clue": "Solunan gaz anlamına gelen sözcük",
       "answer": "HAVA"
     },
     {
@@ -122,7 +122,7 @@
       "row": 1,
       "col": 1,
       "length": 4,
-      "clue": "Bağlama aracı",
+      "clue": "Bağlama aracı anlamına gelen sözcük",
       "answer": "TOKA"
     },
     {
@@ -131,7 +131,7 @@
       "row": 1,
       "col": 6,
       "length": 4,
-      "clue": "Çukur yemek kabı",
+      "clue": "Çukur yemek kabı anlamına gelen sözcük",
       "answer": "KASE"
     },
     {
@@ -140,7 +140,7 @@
       "row": 1,
       "col": 6,
       "length": 5,
-      "clue": "Yüzeyin sınırı",
+      "clue": "Günlük dilde Yüzeyin sınırı olarak bilinen kavram",
       "answer": "KENAR"
     },
     {
@@ -149,7 +149,7 @@
       "row": 3,
       "col": 1,
       "length": 4,
-      "clue": "Kızarmış sandviç",
+      "clue": "Kızarmış sandviç anlamına gelen sözcük",
       "answer": "TOST"
     },
     {
@@ -158,7 +158,7 @@
       "row": 3,
       "col": 3,
       "length": 4,
-      "clue": "Müzikle hareket",
+      "clue": "Müzikle hareket karşılığı olarak kullanılan kelime",
       "answer": "DANS"
     },
     {
@@ -167,7 +167,7 @@
       "row": 3,
       "col": 3,
       "length": 3,
-      "clue": "Su ile yıkanma",
+      "clue": "Bulmacada Su ile yıkanma karşılığını veren yanıt",
       "answer": "DUŞ"
     },
     {
@@ -176,7 +176,7 @@
       "row": 4,
       "col": 0,
       "length": 4,
-      "clue": "Burnun algısı",
+      "clue": "Günlük dilde Burnun algısı olarak bilinen kavram",
       "answer": "KOKU"
     }
   ]

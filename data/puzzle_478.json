@@ -111,7 +111,7 @@
       "row": 0,
       "col": 1,
       "length": 4,
-      "clue": "Seslenme",
+      "clue": "Bulmacada Seslenme karşılığını veren yanıt",
       "answer": "NİDA"
     },
     {
@@ -120,7 +120,7 @@
       "row": 0,
       "col": 1,
       "length": 5,
-      "clue": "Bakış, göz",
+      "clue": "Bakış ya da göz anlamına gelen sözcük",
       "answer": "NAZAR"
     },
     {
@@ -129,7 +129,7 @@
       "row": 0,
       "col": 7,
       "length": 5,
-      "clue": "Yenilebilen bitki",
+      "clue": "Yenilebilen bitki için kullanılan yaygın ifade",
       "answer": "SEBZE"
     },
     {
@@ -138,7 +138,7 @@
       "row": 0,
       "col": 9,
       "length": 4,
-      "clue": "Talih, şans",
+      "clue": "Talih ya da şans için kullanılan yaygın ifade",
       "answer": "BAHT"
     },
     {
@@ -147,7 +147,7 @@
       "row": 1,
       "col": 6,
       "length": 5,
-      "clue": "Olgunluk",
+      "clue": "Olgunluk için kullanılan yaygın ifade",
       "answer": "KEMAL"
     },
     {
@@ -156,7 +156,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "Ateş aleti",
+      "clue": "Günlük dilde Ateş aleti olarak bilinen kavram",
       "answer": "MAŞA"
     },
     {
@@ -165,7 +165,7 @@
       "row": 3,
       "col": 3,
       "length": 4,
-      "clue": "Yürüyüş mesafesi",
+      "clue": "Günlük dilde Yürüyüş mesafesi olarak bilinen kavram",
       "answer": "ADIM"
     },
     {
@@ -174,7 +174,7 @@
       "row": 3,
       "col": 9,
       "length": 3,
-      "clue": "İnce parçacıklar",
+      "clue": "İnce parçacıklar karşılığı olarak kullanılan kelime",
       "answer": "TOZ"
     },
     {
@@ -183,7 +183,7 @@
       "row": 4,
       "col": 3,
       "length": 5,
-      "clue": "Ani vuruş",
+      "clue": "Ani vuruş anlamına gelen sözcük",
       "answer": "DARBE"
     },
     {
@@ -192,7 +192,7 @@
       "row": 4,
       "col": 6,
       "length": 3,
-      "clue": "Arı ürünü tatlı",
+      "clue": "Arı ürünü tatlı için kullanılan yaygın ifade",
       "answer": "BAL"
     }
   ]

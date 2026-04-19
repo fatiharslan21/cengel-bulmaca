@@ -103,7 +103,7 @@
       "row": 0,
       "col": 3,
       "length": 5,
-      "clue": "Soluk alma verme",
+      "clue": "Günlük dilde Soluk alma verme olarak bilinen kavram",
       "answer": "NEFES"
     },
     {
@@ -112,7 +112,7 @@
       "row": 1,
       "col": 1,
       "length": 4,
-      "clue": "Yapılması gereken iş",
+      "clue": "Yapılması gereken iş için kullanılan yaygın ifade",
       "answer": "ÖDEV"
     },
     {
@@ -121,7 +121,7 @@
       "row": 1,
       "col": 1,
       "length": 4,
-      "clue": "Yaşam süresi",
+      "clue": "Yaşam süresi karşılığı olarak kullanılan kelime",
       "answer": "ÖMÜR"
     },
     {
@@ -130,7 +130,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "Zaman aralığı",
+      "clue": "Zaman aralığı için kullanılan yaygın ifade",
       "answer": "SÜRE"
     },
     {
@@ -139,7 +139,7 @@
       "row": 3,
       "col": 6,
       "length": 4,
-      "clue": "Sayısal değer",
+      "clue": "Sayısal değer için kullanılan yaygın ifade",
       "answer": "PUAN"
     },
     {
@@ -148,7 +148,7 @@
       "row": 4,
       "col": 3,
       "length": 4,
-      "clue": "Cevap bekleyen",
+      "clue": "Cevap bekleyen karşılığı olarak kullanılan kelime",
       "answer": "SORU"
     },
     {
@@ -157,7 +157,7 @@
       "row": 5,
       "col": 0,
       "length": 4,
-      "clue": "Karanlık zaman",
+      "clue": "Karanlık zaman anlamına gelen sözcük",
       "answer": "GECE"
     },
     {
@@ -166,7 +166,7 @@
       "row": 6,
       "col": 3,
       "length": 4,
-      "clue": "Geniş düzlük",
+      "clue": "Günlük dilde Geniş düzlük olarak bilinen kavram",
       "answer": "ALAN"
     },
     {
@@ -175,7 +175,7 @@
       "row": 6,
       "col": 3,
       "length": 4,
-      "clue": "Bacak ucu",
+      "clue": "Günlük dilde Bacak ucu olarak bilinen kavram",
       "answer": "AYAK"
     },
     {
@@ -184,7 +184,7 @@
       "row": 8,
       "col": 0,
       "length": 4,
-      "clue": "Kırmızı meyve",
+      "clue": "Bulmacada Kırmızı meyve karşılığını veren yanıt",
       "answer": "ELMA"
     }
   ]

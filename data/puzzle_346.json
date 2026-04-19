@@ -139,7 +139,7 @@
       "row": 0,
       "col": 7,
       "length": 5,
-      "clue": "Hüzün, usanç",
+      "clue": "Bulmacada Hüzün ya da usanç karşılığını veren yanıt",
       "answer": "MELAL"
     },
     {
@@ -148,7 +148,7 @@
       "row": 1,
       "col": 6,
       "length": 3,
-      "clue": "Vücudun orta bölümü",
+      "clue": "Bulmacada Vücudun orta bölümü karşılığını veren yanıt",
       "answer": "BEL"
     },
     {
@@ -157,7 +157,7 @@
       "row": 3,
       "col": 3,
       "length": 4,
-      "clue": "Yalvarma, dilek",
+      "clue": "Yalvarma ya da dilek karşılığı olarak kullanılan kelime",
       "answer": "RİCA"
     },
     {
@@ -166,7 +166,7 @@
       "row": 4,
       "col": 3,
       "length": 5,
-      "clue": "Talih, yükselme",
+      "clue": "Bulmacada Talih ya da yükselme karşılığını veren yanıt",
       "answer": "İKBAL"
     },
     {
@@ -175,7 +175,7 @@
       "row": 4,
       "col": 5,
       "length": 4,
-      "clue": "Talih, şans",
+      "clue": "Talih ya da şans için kullanılan yaygın ifade",
       "answer": "BAHT"
     },
     {
@@ -184,7 +184,7 @@
       "row": 4,
       "col": 11,
       "length": 5,
-      "clue": "Büyük oda",
+      "clue": "Büyük oda için kullanılan yaygın ifade",
       "answer": "SALON"
     },
     {
@@ -193,7 +193,7 @@
       "row": 5,
       "col": 8,
       "length": 4,
-      "clue": "Ayrım, değişiklik",
+      "clue": "Ayrım ya da değişiklik anlamına gelen sözcük",
       "answer": "FARK"
     },
     {
@@ -202,7 +202,7 @@
       "row": 5,
       "col": 8,
       "length": 4,
-      "clue": "Kötü, berbat",
+      "clue": "Kötü ya da berbat karşılığı olarak kullanılan kelime",
       "answer": "FENA"
     },
     {
@@ -211,7 +211,7 @@
       "row": 6,
       "col": 0,
       "length": 4,
-      "clue": "Büyük sert taş",
+      "clue": "Büyük sert taş için kullanılan yaygın ifade",
       "answer": "KAYA"
     },
     {
@@ -220,7 +220,7 @@
       "row": 6,
       "col": 5,
       "length": 4,
-      "clue": "Yanlış, kusur",
+      "clue": "Günlük dilde Yanlış ya da kusur olarak bilinen kavram",
       "answer": "HATA"
     }
   ]

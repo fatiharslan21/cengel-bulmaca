@@ -156,7 +156,7 @@
       "row": 0,
       "col": 7,
       "length": 4,
-      "clue": "Ferahlatıcı bitki",
+      "clue": "Ferahlatıcı bitki anlamına gelen sözcük",
       "answer": "NANE"
     },
     {
@@ -165,7 +165,7 @@
       "row": 1,
       "col": 6,
       "length": 3,
-      "clue": "Sıcak mevsim",
+      "clue": "Bulmacada Sıcak mevsim karşılığını veren yanıt",
       "answer": "YAZ"
     },
     {
@@ -174,7 +174,7 @@
       "row": 3,
       "col": 7,
       "length": 4,
-      "clue": "Buyruk, komut",
+      "clue": "Günlük dilde Buyruk ya da komut olarak bilinen kavram",
       "answer": "EMİR"
     },
     {
@@ -183,7 +183,7 @@
       "row": 3,
       "col": 8,
       "length": 5,
-      "clue": "Seslerle sanat",
+      "clue": "Bulmacada Seslerle sanat karşılığını veren yanıt",
       "answer": "MÜZİK"
     },
     {
@@ -192,7 +192,7 @@
       "row": 6,
       "col": 6,
       "length": 5,
-      "clue": "Yok olma",
+      "clue": "Bulmacada Yok olma karşılığını veren yanıt",
       "answer": "ZEVAL"
     },
     {
@@ -201,7 +201,7 @@
       "row": 7,
       "col": 1,
       "length": 3,
-      "clue": "Rüzgar, esinti",
+      "clue": "Bulmacada Rüzgar ya da esinti karşılığını veren yanıt",
       "answer": "YEL"
     },
     {
@@ -210,7 +210,7 @@
       "row": 7,
       "col": 5,
       "length": 4,
-      "clue": "Arzu, istek",
+      "clue": "Arzu ya da istek için kullanılan yaygın ifade",
       "answer": "ŞEVK"
     },
     {
@@ -219,7 +219,7 @@
       "row": 8,
       "col": 0,
       "length": 4,
-      "clue": "Çaba, gayret",
+      "clue": "Bulmacada Çaba ya da gayret karşılığını veren yanıt",
       "answer": "CEHD"
     },
     {
@@ -228,7 +228,7 @@
       "row": 8,
       "col": 3,
       "length": 3,
-      "clue": "Konuşma organı",
+      "clue": "Konuşma organı anlamına gelen sözcük",
       "answer": "DİL"
     },
     {
@@ -237,7 +237,7 @@
       "row": 9,
       "col": 3,
       "length": 5,
-      "clue": "Talih, yükselme",
+      "clue": "Bulmacada Talih ya da yükselme karşılığını veren yanıt",
       "answer": "İKBAL"
     }
   ]

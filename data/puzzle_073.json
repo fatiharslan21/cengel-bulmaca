@@ -101,7 +101,7 @@
       "row": 0,
       "col": 7,
       "length": 4,
-      "clue": "Elektrik hareketi",
+      "clue": "Elektrik hareketi için kullanılan yaygın ifade",
       "answer": "AKIM"
     },
     {
@@ -110,7 +110,7 @@
       "row": 1,
       "col": 5,
       "length": 5,
-      "clue": "Suda yaşayan canlı",
+      "clue": "Suda yaşayan canlı karşılığı olarak kullanılan kelime",
       "answer": "BALIK"
     },
     {
@@ -119,7 +119,7 @@
       "row": 2,
       "col": 0,
       "length": 3,
-      "clue": "Çok miktarda",
+      "clue": "Çok miktarda karşılığı olarak kullanılan kelime",
       "answer": "BOL"
     },
     {
@@ -128,7 +128,7 @@
       "row": 2,
       "col": 5,
       "length": 4,
-      "clue": "Gerçek, hakiki",
+      "clue": "Gerçek ya da hakiki için kullanılan yaygın ifade",
       "answer": "ASIL"
     },
     {
@@ -137,7 +137,7 @@
       "row": 3,
       "col": 0,
       "length": 3,
-      "clue": "Ev bölümü",
+      "clue": "Bulmacada Ev bölümü karşılığını veren yanıt",
       "answer": "ODA"
     },
     {
@@ -146,7 +146,7 @@
       "row": 3,
       "col": 2,
       "length": 3,
-      "clue": "İki şey arası boşluk",
+      "clue": "Bulmacada Mesafe ya da açıklık karşılığını veren yanıt",
       "answer": "ARA"
     },
     {
@@ -155,7 +155,7 @@
       "row": 5,
       "col": 2,
       "length": 4,
-      "clue": "Bacak ucu",
+      "clue": "Günlük dilde Bacak ucu olarak bilinen kavram",
       "answer": "AYAK"
     },
     {
@@ -164,7 +164,7 @@
       "row": 5,
       "col": 4,
       "length": 3,
-      "clue": "Ced, büyükbaba",
+      "clue": "Günlük dilde Ced ya da büyükbaba olarak bilinen kavram",
       "answer": "ATA"
     },
     {
@@ -173,7 +173,7 @@
       "row": 7,
       "col": 4,
       "length": 3,
-      "clue": "Koruyucu ilaç",
+      "clue": "Bulmacada Koruyucu ilaç karşılığını veren yanıt",
       "answer": "AŞI"
     }
   ]

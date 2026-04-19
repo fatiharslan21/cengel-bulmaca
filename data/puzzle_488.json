@@ -157,7 +157,7 @@
       "row": 0,
       "col": 4,
       "length": 4,
-      "clue": "Çaba, gayret",
+      "clue": "Bulmacada Çaba ya da gayret karşılığını veren yanıt",
       "answer": "CEHD"
     },
     {
@@ -166,7 +166,7 @@
       "row": 0,
       "col": 6,
       "length": 7,
-      "clue": "Tedavi merkezi",
+      "clue": "Tedavi merkezi karşılığı olarak kullanılan kelime",
       "answer": "HASTANE"
     },
     {
@@ -175,7 +175,7 @@
       "row": 2,
       "col": 6,
       "length": 4,
-      "clue": "Zaman ölçer",
+      "clue": "Bulmacada Zaman ölçer karşılığını veren yanıt",
       "answer": "SAAT"
     },
     {
@@ -184,7 +184,7 @@
       "row": 3,
       "col": 2,
       "length": 5,
-      "clue": "İyilik, bolluk",
+      "clue": "İyilik ya da bolluk için kullanılan yaygın ifade",
       "answer": "NİMET"
     },
     {
@@ -193,7 +193,7 @@
       "row": 5,
       "col": 3,
       "length": 4,
-      "clue": "Bağlama aracı",
+      "clue": "Bağlama aracı anlamına gelen sözcük",
       "answer": "TOKA"
     },
     {
@@ -202,7 +202,7 @@
       "row": 5,
       "col": 3,
       "length": 5,
-      "clue": "Küçük deniz taşıtı",
+      "clue": "Küçük deniz taşıtı anlamına gelen sözcük",
       "answer": "TEKNE"
     },
     {
@@ -211,7 +211,7 @@
       "row": 7,
       "col": 1,
       "length": 5,
-      "clue": "Bitkinin renkli kısmı",
+      "clue": "Bulmacada Bitkinin renkli kısmı karşılığını veren yanıt",
       "answer": "ÇİÇEK"
     },
     {
@@ -220,7 +220,7 @@
       "row": 7,
       "col": 3,
       "length": 3,
-      "clue": "Bina bölümü",
+      "clue": "Bulmacada Bina bölümü karşılığını veren yanıt",
       "answer": "KAT"
     },
     {
@@ -229,7 +229,7 @@
       "row": 8,
       "col": 0,
       "length": 4,
-      "clue": "Yapı, bina",
+      "clue": "İnsanların yaşadığı veya çalıştığı yapı",
       "answer": "BİNA"
     },
     {
@@ -238,7 +238,7 @@
       "row": 10,
       "col": 0,
       "length": 4,
-      "clue": "Karanlık zaman",
+      "clue": "Karanlık zaman anlamına gelen sözcük",
       "answer": "GECE"
     }
   ]

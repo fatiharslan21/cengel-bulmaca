@@ -145,7 +145,7 @@
       "row": 0,
       "col": 7,
       "length": 4,
-      "clue": "Su kabı",
+      "clue": "Günlük dilde Su kabı olarak bilinen kavram",
       "answer": "KOVA"
     },
     {
@@ -154,7 +154,7 @@
       "row": 3,
       "col": 4,
       "length": 4,
-      "clue": "Suça yaptırım",
+      "clue": "Bulmacada Suça yaptırım karşılığını veren yanıt",
       "answer": "CEZA"
     },
     {
@@ -163,7 +163,7 @@
       "row": 3,
       "col": 6,
       "length": 4,
-      "clue": "Yüksek yapı",
+      "clue": "Bulmacada Yüksek yapı karşılığını veren yanıt",
       "answer": "KULE"
     },
     {
@@ -172,7 +172,7 @@
       "row": 3,
       "col": 6,
       "length": 3,
-      "clue": "Göz üstü kıl şeridi",
+      "clue": "Göz üstü kıl şeridi anlamına gelen sözcük",
       "answer": "KAŞ"
     },
     {
@@ -181,7 +181,7 @@
       "row": 4,
       "col": 1,
       "length": 4,
-      "clue": "Ev, konut",
+      "clue": "Ev ya da konut karşılığı olarak kullanılan kelime",
       "answer": "HANE"
     },
     {
@@ -190,7 +190,7 @@
       "row": 6,
       "col": 3,
       "length": 4,
-      "clue": "Eşya kabı",
+      "clue": "Eşya kabı karşılığı olarak kullanılan kelime",
       "answer": "KUTU"
     },
     {
@@ -199,7 +199,7 @@
       "row": 6,
       "col": 3,
       "length": 4,
-      "clue": "Çukur yemek kabı",
+      "clue": "Çukur yemek kabı anlamına gelen sözcük",
       "answer": "KASE"
     },
     {
@@ -208,7 +208,7 @@
       "row": 7,
       "col": 1,
       "length": 5,
-      "clue": "Sadık evcil hayvan",
+      "clue": "Sadık evcil hayvan anlamına gelen sözcük",
       "answer": "KÖPEK"
     },
     {
@@ -217,7 +217,7 @@
       "row": 8,
       "col": 0,
       "length": 4,
-      "clue": "Üçten sonra gelen",
+      "clue": "Üçten sonra gelen için kullanılan yaygın ifade",
       "answer": "DÖRT"
     },
     {
@@ -226,7 +226,7 @@
       "row": 10,
       "col": 0,
       "length": 3,
-      "clue": "Mekan, konum",
+      "clue": "Günlük dilde Mekan ya da konum olarak bilinen kavram",
       "answer": "YER"
     }
   ]

@@ -143,7 +143,7 @@
       "row": 0,
       "col": 10,
       "length": 5,
-      "clue": "Yenilebilen bitki",
+      "clue": "Yenilebilen bitki için kullanılan yaygın ifade",
       "answer": "SEBZE"
     },
     {
@@ -152,7 +152,7 @@
       "row": 1,
       "col": 7,
       "length": 4,
-      "clue": "Adet, parça",
+      "clue": "Günlük dilde Adet ya da parça olarak bilinen kavram",
       "answer": "TANE"
     },
     {
@@ -161,7 +161,7 @@
       "row": 3,
       "col": 8,
       "length": 3,
-      "clue": "Birinci tekil kişi",
+      "clue": "Birinci tekil kişi karşılığı olarak kullanılan kelime",
       "answer": "BEN"
     },
     {
@@ -170,7 +170,7 @@
       "row": 3,
       "col": 8,
       "length": 3,
-      "clue": "Donmuş su",
+      "clue": "Donmuş su anlamına gelen sözcük",
       "answer": "BUZ"
     },
     {
@@ -179,7 +179,7 @@
       "row": 5,
       "col": 4,
       "length": 5,
-      "clue": "Günün başı",
+      "clue": "Günün başı anlamına gelen sözcük",
       "answer": "SABAH"
     },
     {
@@ -188,7 +188,7 @@
       "row": 5,
       "col": 6,
       "length": 4,
-      "clue": "Zodyak işareti",
+      "clue": "Günlük dilde Zodyak işareti olarak bilinen kavram",
       "answer": "BURÇ"
     },
     {
@@ -197,7 +197,7 @@
       "row": 5,
       "col": 6,
       "length": 3,
-      "clue": "On yüzlük sayı",
+      "clue": "On yüzlük sayı anlamına gelen sözcük",
       "answer": "BİN"
     },
     {
@@ -206,7 +206,7 @@
       "row": 6,
       "col": 2,
       "length": 3,
-      "clue": "İğneyle süsleme",
+      "clue": "Günlük dilde İğneyle süsleme olarak bilinen kavram",
       "answer": "OYA"
     },
     {
@@ -215,7 +215,7 @@
       "row": 7,
       "col": 4,
       "length": 3,
-      "clue": "İlk doğal sayı",
+      "clue": "İlk doğal sayı için kullanılan yaygın ifade",
       "answer": "BİR"
     },
     {
@@ -224,7 +224,7 @@
       "row": 8,
       "col": 0,
       "length": 5,
-      "clue": "Ekin alanı",
+      "clue": "Ekin alanı anlamına gelen sözcük",
       "answer": "TARLA"
     }
   ]

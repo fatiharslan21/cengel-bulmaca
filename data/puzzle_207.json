@@ -139,7 +139,7 @@
       "row": 0,
       "col": 10,
       "length": 6,
-      "clue": "Konular listesi",
+      "clue": "Konular listesi için kullanılan yaygın ifade",
       "answer": "GÜNDEM"
     },
     {
@@ -148,7 +148,7 @@
       "row": 1,
       "col": 8,
       "length": 3,
-      "clue": "Birinci, baştaki",
+      "clue": "Birinci ya da baştaki anlamına gelen sözcük",
       "answer": "İLK"
     },
     {
@@ -157,7 +157,7 @@
       "row": 2,
       "col": 3,
       "length": 4,
-      "clue": "Zaman aralığı",
+      "clue": "Zaman aralığı için kullanılan yaygın ifade",
       "answer": "SÜRE"
     },
     {
@@ -166,7 +166,7 @@
       "row": 2,
       "col": 3,
       "length": 6,
-      "clue": "Kürekli tekne",
+      "clue": "Günlük dilde Kürekli tekne olarak bilinen kavram",
       "answer": "SANDAL"
     },
     {
@@ -175,7 +175,7 @@
       "row": 3,
       "col": 8,
       "length": 4,
-      "clue": "Miyavlayan evcil",
+      "clue": "Miyavlayan evcil anlamına gelen sözcük",
       "answer": "KEDİ"
     },
     {
@@ -184,7 +184,7 @@
       "row": 4,
       "col": 1,
       "length": 5,
-      "clue": "Seslerle sanat",
+      "clue": "Bulmacada Seslerle sanat karşılığını veren yanıt",
       "answer": "MÜZİK"
     },
     {
@@ -193,7 +193,7 @@
       "row": 4,
       "col": 1,
       "length": 3,
-      "clue": "Eflatun renk",
+      "clue": "Eflatun renk için kullanılan yaygın ifade",
       "answer": "MOR"
     },
     {
@@ -202,7 +202,7 @@
       "row": 4,
       "col": 6,
       "length": 3,
-      "clue": "Kaygan besin",
+      "clue": "Kaygan besin karşılığı olarak kullanılan kelime",
       "answer": "YAĞ"
     },
     {
@@ -211,7 +211,7 @@
       "row": 5,
       "col": 3,
       "length": 5,
-      "clue": "En sert taş",
+      "clue": "En sert taş karşılığı olarak kullanılan kelime",
       "answer": "ELMAS"
     },
     {
@@ -220,7 +220,7 @@
       "row": 7,
       "col": 0,
       "length": 3,
-      "clue": "Bahçe engeli",
+      "clue": "Bulmacada Bahçe engeli karşılığını veren yanıt",
       "answer": "ÇİT"
     }
   ]

@@ -157,7 +157,7 @@
       "row": 0,
       "col": 3,
       "length": 5,
-      "clue": "Ezgi, tını",
+      "clue": "Ezgi ya da tını anlamına gelen sözcük",
       "answer": "NAĞME"
     },
     {
@@ -166,7 +166,7 @@
       "row": 1,
       "col": 2,
       "length": 3,
-      "clue": "Daire çapı",
+      "clue": "Dairenin merkezinden geçen doğru parçası",
       "answer": "ÇAP"
     },
     {
@@ -175,7 +175,7 @@
       "row": 3,
       "col": 1,
       "length": 4,
-      "clue": "Haz, keyif",
+      "clue": "Günlük dilde Haz ya da keyif olarak bilinen kavram",
       "answer": "ZEVK"
     },
     {
@@ -184,7 +184,7 @@
       "row": 4,
       "col": 0,
       "length": 4,
-      "clue": "Karanlık zaman",
+      "clue": "Karanlık zaman anlamına gelen sözcük",
       "answer": "GECE"
     },
     {
@@ -193,7 +193,7 @@
       "row": 4,
       "col": 5,
       "length": 5,
-      "clue": "Topluluk, küme",
+      "clue": "Topluluk ya da küme için kullanılan yaygın ifade",
       "answer": "ZÜMRE"
     },
     {
@@ -202,7 +202,7 @@
       "row": 4,
       "col": 8,
       "length": 7,
-      "clue": "Gevşeklik",
+      "clue": "Gevşeklik anlamına gelen sözcük",
       "answer": "REHAVET"
     },
     {
@@ -211,7 +211,7 @@
       "row": 6,
       "col": 1,
       "length": 5,
-      "clue": "Yazı aleti",
+      "clue": "Günlük dilde Yazı aleti olarak bilinen kavram",
       "answer": "KALEM"
     },
     {
@@ -220,7 +220,7 @@
       "row": 7,
       "col": 5,
       "length": 5,
-      "clue": "Algılama sistemi",
+      "clue": "Algılama sistemi karşılığı olarak kullanılan kelime",
       "answer": "RADAR"
     },
     {
@@ -229,7 +229,7 @@
       "row": 8,
       "col": 2,
       "length": 4,
-      "clue": "Bayat olmayan",
+      "clue": "Bulmacada Bayat olmayan karşılığını veren yanıt",
       "answer": "TAZE"
     },
     {
@@ -238,7 +238,7 @@
       "row": 8,
       "col": 2,
       "length": 4,
-      "clue": "Bağlama aracı",
+      "clue": "Bağlama aracı anlamına gelen sözcük",
       "answer": "TOKA"
     }
   ]

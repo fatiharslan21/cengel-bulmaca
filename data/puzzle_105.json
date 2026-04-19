@@ -101,7 +101,7 @@
       "row": 0,
       "col": 0,
       "length": 5,
-      "clue": "Harita kitabı",
+      "clue": "Harita kitabı karşılığı olarak kullanılan kelime",
       "answer": "ATLAS"
     },
     {
@@ -110,7 +110,7 @@
       "row": 0,
       "col": 4,
       "length": 4,
-      "clue": "Zaman aralığı",
+      "clue": "Zaman aralığı için kullanılan yaygın ifade",
       "answer": "SÜRE"
     },
     {
@@ -119,7 +119,7 @@
       "row": 2,
       "col": 6,
       "length": 5,
-      "clue": "Yurt, memleket",
+      "clue": "Bulmacada Yurt ya da memleket karşılığını veren yanıt",
       "answer": "VATAN"
     },
     {
@@ -128,7 +128,7 @@
       "row": 3,
       "col": 3,
       "length": 5,
-      "clue": "Yüzeyin sınırı",
+      "clue": "Günlük dilde Yüzeyin sınırı olarak bilinen kavram",
       "answer": "KENAR"
     },
     {
@@ -137,7 +137,7 @@
       "row": 3,
       "col": 3,
       "length": 3,
-      "clue": "Gitme, burada dur",
+      "clue": "Bulmacada Gitme ya da burada dur karşılığını veren yanıt",
       "answer": "KAL"
     },
     {
@@ -146,7 +146,7 @@
       "row": 4,
       "col": 0,
       "length": 4,
-      "clue": "Kez, kere",
+      "clue": "Günlük dilde Kez ya da kere olarak bilinen kavram",
       "answer": "DEFA"
     },
     {
@@ -155,7 +155,7 @@
       "row": 4,
       "col": 0,
       "length": 3,
-      "clue": "Harici, dış yüzey",
+      "clue": "Günlük dilde Harici ya da dış yüzey olarak bilinen kavram",
       "answer": "DIŞ"
     },
     {
@@ -164,7 +164,7 @@
       "row": 5,
       "col": 5,
       "length": 4,
-      "clue": "Biçim, üslup",
+      "clue": "Biçim ya da üslup için kullanılan yaygın ifade",
       "answer": "TARZ"
     },
     {
@@ -173,7 +173,7 @@
       "row": 5,
       "col": 8,
       "length": 3,
-      "clue": "Güç, kolay değil",
+      "clue": "Günlük dilde Güç ya da kolay değil olarak bilinen kavram",
       "answer": "ZOR"
     }
   ]

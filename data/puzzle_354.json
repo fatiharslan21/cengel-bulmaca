@@ -117,7 +117,7 @@
       "row": 0,
       "col": 1,
       "length": 5,
-      "clue": "Şans, baht",
+      "clue": "Bulmacada Şans ya da baht karşılığını veren yanıt",
       "answer": "TALİH"
     },
     {
@@ -126,7 +126,7 @@
       "row": 0,
       "col": 3,
       "length": 5,
-      "clue": "Dil, konuşma",
+      "clue": "Bulmacada Dil ya da konuşma karşılığını veren yanıt",
       "answer": "LİSAN"
     },
     {
@@ -135,7 +135,7 @@
       "row": 0,
       "col": 9,
       "length": 4,
-      "clue": "Yanlış, kusur",
+      "clue": "Günlük dilde Yanlış ya da kusur olarak bilinen kavram",
       "answer": "HATA"
     },
     {
@@ -144,7 +144,7 @@
       "row": 1,
       "col": 7,
       "length": 4,
-      "clue": "Eğitim kurumu",
+      "clue": "Eğitim kurumu için kullanılan yaygın ifade",
       "answer": "OKUL"
     },
     {
@@ -153,7 +153,7 @@
       "row": 2,
       "col": 7,
       "length": 4,
-      "clue": "Eşya kabı",
+      "clue": "Eşya kabı karşılığı olarak kullanılan kelime",
       "answer": "KUTU"
     },
     {
@@ -162,7 +162,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "Suça yaptırım",
+      "clue": "Bulmacada Suça yaptırım karşılığını veren yanıt",
       "answer": "CEZA"
     },
     {
@@ -171,7 +171,7 @@
       "row": 3,
       "col": 1,
       "length": 5,
-      "clue": "Vaktinden önce",
+      "clue": "Vaktinden önce karşılığı olarak kullanılan kelime",
       "answer": "ERKEN"
     },
     {
@@ -180,7 +180,7 @@
       "row": 4,
       "col": 3,
       "length": 5,
-      "clue": "Taşıma, aktarma",
+      "clue": "Bulmacada Taşıma ya da aktarma karşılığını veren yanıt",
       "answer": "NAKİL"
     },
     {
@@ -189,7 +189,7 @@
       "row": 4,
       "col": 5,
       "length": 3,
-      "clue": "Göz üstü kıl şeridi",
+      "clue": "Göz üstü kıl şeridi anlamına gelen sözcük",
       "answer": "KAŞ"
     },
     {
@@ -198,7 +198,7 @@
       "row": 6,
       "col": 0,
       "length": 3,
-      "clue": "Havadaki rutubet",
+      "clue": "Bulmacada Havadaki rutubet karşılığını veren yanıt",
       "answer": "NEM"
     }
   ]

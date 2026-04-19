@@ -133,7 +133,7 @@
       "row": 0,
       "col": 7,
       "length": 4,
-      "clue": "Cevap bekleyen",
+      "clue": "Cevap bekleyen karşılığı olarak kullanılan kelime",
       "answer": "SORU"
     },
     {
@@ -142,7 +142,7 @@
       "row": 1,
       "col": 2,
       "length": 4,
-      "clue": "Türk simgesi çiçek",
+      "clue": "Türk simgesi çiçek için kullanılan yaygın ifade",
       "answer": "LALE"
     },
     {
@@ -151,7 +151,7 @@
       "row": 1,
       "col": 4,
       "length": 6,
-      "clue": "Nasip, pay",
+      "clue": "Nasip ya da pay karşılığı olarak kullanılan kelime",
       "answer": "KISMET"
     },
     {
@@ -160,7 +160,7 @@
       "row": 1,
       "col": 6,
       "length": 4,
-      "clue": "Sıvı geçen tüp",
+      "clue": "Günlük dilde Sıvı geçen tüp olarak bilinen kavram",
       "answer": "BORU"
     },
     {
@@ -169,7 +169,7 @@
       "row": 2,
       "col": 2,
       "length": 3,
-      "clue": "Koruyucu ilaç",
+      "clue": "Bulmacada Koruyucu ilaç karşılığını veren yanıt",
       "answer": "AŞI"
     },
     {
@@ -178,7 +178,7 @@
       "row": 3,
       "col": 0,
       "length": 3,
-      "clue": "Yaklaşma eylemi",
+      "clue": "Yaklaşma eylemi karşılığı olarak kullanılan kelime",
       "answer": "GEL"
     },
     {
@@ -187,7 +187,7 @@
       "row": 3,
       "col": 4,
       "length": 5,
-      "clue": "Düşme, sessizlik",
+      "clue": "Düşme ya da sessizlik karşılığı olarak kullanılan kelime",
       "answer": "SUKUT"
     },
     {
@@ -196,7 +196,7 @@
       "row": 5,
       "col": 3,
       "length": 7,
-      "clue": "İletişim cihazı",
+      "clue": "Bulmacada İletişim cihazı karşılığını veren yanıt",
       "answer": "TELEFON"
     },
     {
@@ -205,7 +205,7 @@
       "row": 5,
       "col": 6,
       "length": 5,
-      "clue": "En sert taş",
+      "clue": "En sert taş karşılığı olarak kullanılan kelime",
       "answer": "ELMAS"
     },
     {
@@ -214,7 +214,7 @@
       "row": 8,
       "col": 3,
       "length": 5,
-      "clue": "Söz, laf",
+      "clue": "Söz ya da laf karşılığı olarak kullanılan kelime",
       "answer": "KELAM"
     }
   ]

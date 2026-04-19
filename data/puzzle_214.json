@@ -103,7 +103,7 @@
       "row": 0,
       "col": 3,
       "length": 3,
-      "clue": "Hayat, yaşam",
+      "clue": "Hayat ya da yaşam anlamına gelen sözcük",
       "answer": "CAN"
     },
     {
@@ -112,7 +112,7 @@
       "row": 0,
       "col": 5,
       "length": 4,
-      "clue": "Otlak alan",
+      "clue": "Bulmacada Otlak alan karşılığını veren yanıt",
       "answer": "MERA"
     },
     {
@@ -121,7 +121,7 @@
       "row": 1,
       "col": 2,
       "length": 4,
-      "clue": "Çukur yemek kabı",
+      "clue": "Çukur yemek kabı anlamına gelen sözcük",
       "answer": "KASE"
     },
     {
@@ -130,7 +130,7 @@
       "row": 3,
       "col": 4,
       "length": 3,
-      "clue": "Ömür süresi",
+      "clue": "Ömür süresi anlamına gelen sözcük",
       "answer": "YAŞ"
     },
     {
@@ -139,7 +139,7 @@
       "row": 3,
       "col": 4,
       "length": 4,
-      "clue": "Yırtık yamağı",
+      "clue": "Yırtığı kapatmak için eklenen parça",
       "answer": "YAMA"
     },
     {
@@ -148,7 +148,7 @@
       "row": 4,
       "col": 2,
       "length": 3,
-      "clue": "Ced, büyükbaba",
+      "clue": "Günlük dilde Ced ya da büyükbaba olarak bilinen kavram",
       "answer": "ATA"
     },
     {
@@ -157,7 +157,7 @@
       "row": 5,
       "col": 4,
       "length": 4,
-      "clue": "Yemek mobilyası",
+      "clue": "Günlük dilde Yemek mobilyası olarak bilinen kavram",
       "answer": "MASA"
     },
     {
@@ -166,7 +166,7 @@
       "row": 5,
       "col": 7,
       "length": 4,
-      "clue": "Av yapan kişi",
+      "clue": "Av yapan kişi anlamına gelen sözcük",
       "answer": "AVCI"
     },
     {
@@ -175,7 +175,7 @@
       "row": 6,
       "col": 0,
       "length": 5,
-      "clue": "Yaşadığımız gezegen",
+      "clue": "Bulmacada Yaşadığımız gezegen karşılığını veren yanıt",
       "answer": "DÜNYA"
     },
     {
@@ -184,7 +184,7 @@
       "row": 6,
       "col": 3,
       "length": 3,
-      "clue": "Güzergah, patika",
+      "clue": "Bulmacada Güzergah ya da patika karşılığını veren yanıt",
       "answer": "YOL"
     }
   ]

@@ -112,7 +112,7 @@
       "row": 0,
       "col": 1,
       "length": 3,
-      "clue": "İlk doğal sayı",
+      "clue": "İlk doğal sayı için kullanılan yaygın ifade",
       "answer": "BİR"
     },
     {
@@ -121,7 +121,7 @@
       "row": 0,
       "col": 4,
       "length": 5,
-      "clue": "Kabir",
+      "clue": "Kabir için kullanılan yaygın ifade",
       "answer": "MEZAR"
     },
     {
@@ -130,7 +130,7 @@
       "row": 1,
       "col": 1,
       "length": 5,
-      "clue": "Namus, iffet",
+      "clue": "Namus ve ahlaki ölçülülük hali",
       "answer": "İFFET"
     },
     {
@@ -139,7 +139,7 @@
       "row": 4,
       "col": 2,
       "length": 3,
-      "clue": "Ateş közü",
+      "clue": "Günlük dilde Ateş közü olarak bilinen kavram",
       "answer": "KOR"
     },
     {
@@ -148,7 +148,7 @@
       "row": 4,
       "col": 2,
       "length": 5,
-      "clue": "Küçük kırmızı meyve",
+      "clue": "Günlük dilde Küçük kırmızı meyve olarak bilinen kavram",
       "answer": "KİRAZ"
     },
     {
@@ -157,7 +157,7 @@
       "row": 5,
       "col": 6,
       "length": 3,
-      "clue": "Ses çıkaran metal",
+      "clue": "Ses çıkaran metal karşılığı olarak kullanılan kelime",
       "answer": "ÇAN"
     },
     {
@@ -166,7 +166,7 @@
       "row": 6,
       "col": 0,
       "length": 7,
-      "clue": "Çalışkan böcek",
+      "clue": "Çalışkan böcek karşılığı olarak kullanılan kelime",
       "answer": "KARINCA"
     },
     {
@@ -175,7 +175,7 @@
       "row": 6,
       "col": 4,
       "length": 5,
-      "clue": "En küçük işaret",
+      "clue": "En küçük işaret için kullanılan yaygın ifade",
       "answer": "NOKTA"
     },
     {
@@ -184,7 +184,7 @@
       "row": 8,
       "col": 0,
       "length": 3,
-      "clue": "Donmuş su",
+      "clue": "Donmuş su anlamına gelen sözcük",
       "answer": "BUZ"
     },
     {
@@ -193,7 +193,7 @@
       "row": 10,
       "col": 1,
       "length": 4,
-      "clue": "İkiyüzlülük",
+      "clue": "Bulmacada İkiyüzlülük karşılığını veren yanıt",
       "answer": "RİYA"
     }
   ]

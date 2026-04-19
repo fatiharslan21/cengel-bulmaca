@@ -156,7 +156,7 @@
       "row": 0,
       "col": 1,
       "length": 4,
-      "clue": "Bildirme, hüküm",
+      "clue": "Bildirme ya da hüküm anlamına gelen sözcük",
       "answer": "İLAM"
     },
     {
@@ -165,7 +165,7 @@
       "row": 1,
       "col": 0,
       "length": 4,
-      "clue": "Keder, acı",
+      "clue": "Keder ya da acı karşılığı olarak kullanılan kelime",
       "answer": "ELEM"
     },
     {
@@ -174,7 +174,7 @@
       "row": 3,
       "col": 1,
       "length": 4,
-      "clue": "Yemek mobilyası",
+      "clue": "Günlük dilde Yemek mobilyası olarak bilinen kavram",
       "answer": "MASA"
     },
     {
@@ -183,7 +183,7 @@
       "row": 3,
       "col": 3,
       "length": 5,
-      "clue": "Esenleme sözü",
+      "clue": "Esenleme sözü için kullanılan yaygın ifade",
       "answer": "SELAM"
     },
     {
@@ -192,7 +192,7 @@
       "row": 5,
       "col": 10,
       "length": 4,
-      "clue": "Havada uçan taşıt",
+      "clue": "Havada uçan taşıt karşılığı olarak kullanılan kelime",
       "answer": "UÇAK"
     },
     {
@@ -201,7 +201,7 @@
       "row": 6,
       "col": 2,
       "length": 5,
-      "clue": "Yas, acı",
+      "clue": "Bulmacada Yas ya da acı karşılığını veren yanıt",
       "answer": "MATEM"
     },
     {
@@ -210,7 +210,7 @@
       "row": 6,
       "col": 6,
       "length": 5,
-      "clue": "Örnek, benzer",
+      "clue": "Örnek ya da benzer için kullanılan yaygın ifade",
       "answer": "MİSAL"
     },
     {
@@ -219,7 +219,7 @@
       "row": 6,
       "col": 8,
       "length": 3,
-      "clue": "Asla, kesinlikle hayır",
+      "clue": "Bulmacada Asla ya da kesinlikle hayır karşılığını veren yanıt",
       "answer": "HİÇ"
     },
     {
@@ -228,7 +228,7 @@
       "row": 6,
       "col": 8,
       "length": 4,
-      "clue": "Düzen, oyun",
+      "clue": "Günlük dilde Düzen ya da oyun olarak bilinen kavram",
       "answer": "HİLE"
     },
     {
@@ -237,7 +237,7 @@
       "row": 9,
       "col": 5,
       "length": 5,
-      "clue": "Alın yazısı",
+      "clue": "Günlük dilde Alın yazısı olarak bilinen kavram",
       "answer": "KADER"
     }
   ]

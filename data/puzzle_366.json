@@ -125,7 +125,7 @@
       "row": 0,
       "col": 7,
       "length": 5,
-      "clue": "Anlayış",
+      "clue": "Günlük dilde Anlayış olarak bilinen kavram",
       "answer": "İDRAK"
     },
     {
@@ -134,7 +134,7 @@
       "row": 0,
       "col": 8,
       "length": 5,
-      "clue": "Eşya mobilyası",
+      "clue": "Günlük dilde Eşya mobilyası olarak bilinen kavram",
       "answer": "DOLAP"
     },
     {
@@ -143,7 +143,7 @@
       "row": 2,
       "col": 3,
       "length": 6,
-      "clue": "Yük aracı",
+      "clue": "Yük aracı karşılığı olarak kullanılan kelime",
       "answer": "KAMYON"
     },
     {
@@ -152,7 +152,7 @@
       "row": 3,
       "col": 1,
       "length": 3,
-      "clue": "Damar sıvısı",
+      "clue": "Bulmacada Damar sıvısı karşılığını veren yanıt",
       "answer": "KAN"
     },
     {
@@ -161,7 +161,7 @@
       "row": 3,
       "col": 5,
       "length": 4,
-      "clue": "Silahlı kuvvetler",
+      "clue": "Günlük dilde Silahlı kuvvetler olarak bilinen kavram",
       "answer": "ORDU"
     },
     {
@@ -170,7 +170,7 @@
       "row": 3,
       "col": 5,
       "length": 5,
-      "clue": "Ağaçlık alan",
+      "clue": "Bulmacada Ağaçlık alan karşılığını veren yanıt",
       "answer": "ORMAN"
     },
     {
@@ -179,7 +179,7 @@
       "row": 4,
       "col": 0,
       "length": 6,
-      "clue": "Gökten su damlaları",
+      "clue": "Gökten su damlaları için kullanılan yaygın ifade",
       "answer": "YAĞMUR"
     },
     {
@@ -188,7 +188,7 @@
       "row": 5,
       "col": 7,
       "length": 3,
-      "clue": "Ağacın kolu",
+      "clue": "Bulmacada Ağacın kolu karşılığını veren yanıt",
       "answer": "DAL"
     },
     {
@@ -197,7 +197,7 @@
       "row": 6,
       "col": 5,
       "length": 4,
-      "clue": "Yakın olmayan",
+      "clue": "Yakın olmayan karşılığı olarak kullanılan kelime",
       "answer": "UZAK"
     },
     {
@@ -206,7 +206,7 @@
       "row": 7,
       "col": 1,
       "length": 3,
-      "clue": "Ses çıkaran metal",
+      "clue": "Ses çıkaran metal karşılığı olarak kullanılan kelime",
       "answer": "ÇAN"
     }
   ]

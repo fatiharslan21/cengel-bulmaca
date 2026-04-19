@@ -121,7 +121,7 @@
       "row": 0,
       "col": 3,
       "length": 5,
-      "clue": "Ani vuruş",
+      "clue": "Ani vuruş anlamına gelen sözcük",
       "answer": "DARBE"
     },
     {
@@ -130,7 +130,7 @@
       "row": 0,
       "col": 5,
       "length": 4,
-      "clue": "Gönül huzuru",
+      "clue": "Gönül huzuru anlamına gelen sözcük",
       "answer": "SAFA"
     },
     {
@@ -139,7 +139,7 @@
       "row": 0,
       "col": 5,
       "length": 5,
-      "clue": "Deniz kıyısı",
+      "clue": "Bulmacada Deniz kıyısı karşılığını veren yanıt",
       "answer": "SAHİL"
     },
     {
@@ -148,7 +148,7 @@
       "row": 1,
       "col": 2,
       "length": 4,
-      "clue": "Solunan gaz",
+      "clue": "Solunan gaz anlamına gelen sözcük",
       "answer": "HAVA"
     },
     {
@@ -157,7 +157,7 @@
       "row": 3,
       "col": 1,
       "length": 6,
-      "clue": "Özlü söz",
+      "clue": "Özlü söz için kullanılan yaygın ifade",
       "answer": "VECİZE"
     },
     {
@@ -166,7 +166,7 @@
       "row": 3,
       "col": 5,
       "length": 4,
-      "clue": "Hedef, gaye",
+      "clue": "Bulmacada Hedef ya da gaye karşılığını veren yanıt",
       "answer": "AMAÇ"
     },
     {
@@ -175,7 +175,7 @@
       "row": 4,
       "col": 0,
       "length": 4,
-      "clue": "Karanlık zaman",
+      "clue": "Karanlık zaman anlamına gelen sözcük",
       "answer": "GECE"
     },
     {
@@ -184,7 +184,7 @@
       "row": 5,
       "col": 4,
       "length": 3,
-      "clue": "Bitiş, final",
+      "clue": "Bitiş ya da final için kullanılan yaygın ifade",
       "answer": "SON"
     },
     {
@@ -193,7 +193,7 @@
       "row": 5,
       "col": 4,
       "length": 4,
-      "clue": "Cevap bekleyen",
+      "clue": "Cevap bekleyen karşılığı olarak kullanılan kelime",
       "answer": "SORU"
     },
     {
@@ -202,7 +202,7 @@
       "row": 7,
       "col": 1,
       "length": 5,
-      "clue": "Topluluk, küme",
+      "clue": "Topluluk ya da küme için kullanılan yaygın ifade",
       "answer": "ZÜMRE"
     }
   ]

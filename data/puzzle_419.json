@@ -157,7 +157,7 @@
       "row": 0,
       "col": 2,
       "length": 5,
-      "clue": "Bolluk, huzur",
+      "clue": "Bolluk ya da huzur için kullanılan yaygın ifade",
       "answer": "REFAH"
     },
     {
@@ -166,7 +166,7 @@
       "row": 1,
       "col": 1,
       "length": 5,
-      "clue": "Yer, konum",
+      "clue": "Günlük dilde Yer ya da konum olarak bilinen kavram",
       "answer": "MEVKİ"
     },
     {
@@ -175,7 +175,7 @@
       "row": 3,
       "col": 0,
       "length": 3,
-      "clue": "Elin iç kısmı",
+      "clue": "Elin iç kısmı anlamına gelen sözcük",
       "answer": "AYA"
     },
     {
@@ -184,7 +184,7 @@
       "row": 3,
       "col": 5,
       "length": 5,
-      "clue": "Habersiz, aymaz",
+      "clue": "Habersiz ya da aymaz anlamına gelen sözcük",
       "answer": "GAFİL"
     },
     {
@@ -193,7 +193,7 @@
       "row": 4,
       "col": 2,
       "length": 5,
-      "clue": "Utanç, çekinme",
+      "clue": "Utanç ya da çekinme anlamına gelen sözcük",
       "answer": "HİCAP"
     },
     {
@@ -202,7 +202,7 @@
       "row": 5,
       "col": 8,
       "length": 4,
-      "clue": "Raylı taşıt",
+      "clue": "Bulmacada Raylı taşıt karşılığını veren yanıt",
       "answer": "TREN"
     },
     {
@@ -211,7 +211,7 @@
       "row": 7,
       "col": 3,
       "length": 7,
-      "clue": "Renkli kanatlı böcek",
+      "clue": "Renkli kanatlı böcek karşılığı olarak kullanılan kelime",
       "answer": "KELEBEK"
     },
     {
@@ -220,7 +220,7 @@
       "row": 7,
       "col": 3,
       "length": 5,
-      "clue": "Olgunluk",
+      "clue": "Olgunluk için kullanılan yaygın ifade",
       "answer": "KEMAL"
     },
     {
@@ -229,7 +229,7 @@
       "row": 7,
       "col": 6,
       "length": 4,
-      "clue": "Kırmızı meyve",
+      "clue": "Bulmacada Kırmızı meyve karşılığını veren yanıt",
       "answer": "ELMA"
     },
     {
@@ -238,7 +238,7 @@
       "row": 10,
       "col": 6,
       "length": 3,
-      "clue": "İki şey arası boşluk",
+      "clue": "Bulmacada Mesafe ya da açıklık karşılığını veren yanıt",
       "answer": "ARA"
     }
   ]

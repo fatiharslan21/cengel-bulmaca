@@ -156,7 +156,7 @@
       "row": 0,
       "col": 6,
       "length": 6,
-      "clue": "Üst giysi",
+      "clue": "Üst giysi karşılığı olarak kullanılan kelime",
       "answer": "GÖMLEK"
     },
     {
@@ -165,7 +165,7 @@
       "row": 1,
       "col": 6,
       "length": 4,
-      "clue": "Üstünü kapatan",
+      "clue": "Üstünü kapatan karşılığı olarak kullanılan kelime",
       "answer": "ÖRTÜ"
     },
     {
@@ -174,7 +174,7 @@
       "row": 2,
       "col": 4,
       "length": 3,
-      "clue": "Elin iç kısmı",
+      "clue": "Elin iç kısmı anlamına gelen sözcük",
       "answer": "AYA"
     },
     {
@@ -183,7 +183,7 @@
       "row": 3,
       "col": 8,
       "length": 4,
-      "clue": "Düzen, oyun",
+      "clue": "Günlük dilde Düzen ya da oyun olarak bilinen kavram",
       "answer": "HİLE"
     },
     {
@@ -192,7 +192,7 @@
       "row": 4,
       "col": 3,
       "length": 5,
-      "clue": "Yakarma",
+      "clue": "Günlük dilde Yakarma olarak bilinen kavram",
       "answer": "NİYAZ"
     },
     {
@@ -201,7 +201,7 @@
       "row": 4,
       "col": 3,
       "length": 4,
-      "clue": "Ferahlatıcı bitki",
+      "clue": "Ferahlatıcı bitki anlamına gelen sözcük",
       "answer": "NANE"
     },
     {
@@ -210,7 +210,7 @@
       "row": 5,
       "col": 6,
       "length": 5,
-      "clue": "Söz, laf",
+      "clue": "Söz ya da laf karşılığı olarak kullanılan kelime",
       "answer": "KELAM"
     },
     {
@@ -219,7 +219,7 @@
       "row": 6,
       "col": 3,
       "length": 3,
-      "clue": "Kaygan besin",
+      "clue": "Kaygan besin karşılığı olarak kullanılan kelime",
       "answer": "YAĞ"
     },
     {
@@ -228,7 +228,7 @@
       "row": 7,
       "col": 1,
       "length": 4,
-      "clue": "Bodur ağaç",
+      "clue": "Bodur ağaç anlamına gelen sözcük",
       "answer": "ÇALI"
     },
     {
@@ -237,7 +237,7 @@
       "row": 8,
       "col": 0,
       "length": 4,
-      "clue": "Mutlaka yapılması gereken",
+      "clue": "Bulmacada Mutlaka yapılması gereken karşılığını veren yanıt",
       "answer": "FARZ"
     }
   ]

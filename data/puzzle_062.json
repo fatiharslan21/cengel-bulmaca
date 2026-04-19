@@ -93,7 +93,7 @@
       "row": 0,
       "col": 1,
       "length": 5,
-      "clue": "Sayfalardan eser",
+      "clue": "Sayfalardan eser karşılığı olarak kullanılan kelime",
       "answer": "KİTAP"
     },
     {
@@ -102,7 +102,7 @@
       "row": 0,
       "col": 2,
       "length": 4,
-      "clue": "Sivri dikiş aracı",
+      "clue": "Sivri dikiş aracı anlamına gelen sözcük",
       "answer": "İĞNE"
     },
     {
@@ -111,7 +111,7 @@
       "row": 3,
       "col": 1,
       "length": 5,
-      "clue": "Yaşadığımız gezegen",
+      "clue": "Bulmacada Yaşadığımız gezegen karşılığını veren yanıt",
       "answer": "DÜNYA"
     },
     {
@@ -120,7 +120,7 @@
       "row": 3,
       "col": 1,
       "length": 5,
-      "clue": "Tuzlu büyük su",
+      "clue": "Tuzlu büyük su karşılığı olarak kullanılan kelime",
       "answer": "DENİZ"
     },
     {
@@ -129,7 +129,7 @@
       "row": 5,
       "col": 1,
       "length": 3,
-      "clue": "Kırmızı taneli meyve",
+      "clue": "Kırmızı taneli meyve karşılığı olarak kullanılan kelime",
       "answer": "NAR"
     },
     {
@@ -138,7 +138,7 @@
       "row": 5,
       "col": 5,
       "length": 5,
-      "clue": "Ölçü, ebat",
+      "clue": "Günlük dilde Ölçü ya da ebat olarak bilinen kavram",
       "answer": "BOYUT"
     },
     {
@@ -147,7 +147,7 @@
       "row": 7,
       "col": 0,
       "length": 3,
-      "clue": "Çizgi, yol",
+      "clue": "Çizgi ya da yol anlamına gelen sözcük",
       "answer": "HAT"
     },
     {
@@ -156,7 +156,7 @@
       "row": 7,
       "col": 2,
       "length": 3,
-      "clue": "Damaktaki lezzet",
+      "clue": "Günlük dilde Damaktaki lezzet olarak bilinen kavram",
       "answer": "TAT"
     },
     {
@@ -165,7 +165,7 @@
       "row": 8,
       "col": 2,
       "length": 4,
-      "clue": "İstek, dilek",
+      "clue": "İstek ya da dilek için kullanılan yaygın ifade",
       "answer": "ARZU"
     }
   ]

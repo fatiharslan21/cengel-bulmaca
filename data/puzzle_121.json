@@ -97,7 +97,7 @@
       "row": 0,
       "col": 4,
       "length": 3,
-      "clue": "Nesil, aile kökeni",
+      "clue": "Nesil ya da aile kökeni karşılığı olarak kullanılan kelime",
       "answer": "SOY"
     },
     {
@@ -106,7 +106,7 @@
       "row": 0,
       "col": 5,
       "length": 5,
-      "clue": "Ağaçlık alan",
+      "clue": "Bulmacada Ağaçlık alan karşılığını veren yanıt",
       "answer": "ORMAN"
     },
     {
@@ -115,7 +115,7 @@
       "row": 1,
       "col": 2,
       "length": 5,
-      "clue": "Deniz kıyısı",
+      "clue": "Bulmacada Deniz kıyısı karşılığını veren yanıt",
       "answer": "SAHİL"
     },
     {
@@ -124,7 +124,7 @@
       "row": 1,
       "col": 9,
       "length": 3,
-      "clue": "İki şey arası boşluk",
+      "clue": "Bulmacada Mesafe ya da açıklık karşılığını veren yanıt",
       "answer": "ARA"
     },
     {
@@ -133,7 +133,7 @@
       "row": 2,
       "col": 1,
       "length": 5,
-      "clue": "Yazı aleti",
+      "clue": "Günlük dilde Yazı aleti olarak bilinen kavram",
       "answer": "KALEM"
     },
     {
@@ -142,7 +142,7 @@
       "row": 2,
       "col": 7,
       "length": 5,
-      "clue": "Kitap yazan",
+      "clue": "Kitap yazan için kullanılan yaygın ifade",
       "answer": "YAZAR"
     },
     {
@@ -151,7 +151,7 @@
       "row": 3,
       "col": 5,
       "length": 5,
-      "clue": "Dört tekerlekli taşıt",
+      "clue": "Bulmacada Dört tekerlekli taşıt karşılığını veren yanıt",
       "answer": "ARABA"
     },
     {
@@ -160,7 +160,7 @@
       "row": 5,
       "col": 0,
       "length": 5,
-      "clue": "Gökyüzü su kümeleri",
+      "clue": "Günlük dilde Gökyüzü su kümeleri olarak bilinen kavram",
       "answer": "BULUT"
     },
     {
@@ -169,7 +169,7 @@
       "row": 5,
       "col": 6,
       "length": 3,
-      "clue": "Devir, dönem",
+      "clue": "Devir ya da dönem karşılığı olarak kullanılan kelime",
       "answer": "ÇAĞ"
     }
   ]

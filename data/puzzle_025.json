@@ -101,7 +101,7 @@
       "row": 0,
       "col": 3,
       "length": 4,
-      "clue": "Görkemli yapı",
+      "clue": "Görkemli yapı karşılığı olarak kullanılan kelime",
       "answer": "ŞATO"
     },
     {
@@ -110,7 +110,7 @@
       "row": 1,
       "col": 2,
       "length": 3,
-      "clue": "Bina bölümü",
+      "clue": "Bulmacada Bina bölümü karşılığını veren yanıt",
       "answer": "KAT"
     },
     {
@@ -119,7 +119,7 @@
       "row": 1,
       "col": 7,
       "length": 4,
-      "clue": "Geniş düzlük",
+      "clue": "Günlük dilde Geniş düzlük olarak bilinen kavram",
       "answer": "ALAN"
     },
     {
@@ -128,7 +128,7 @@
       "row": 2,
       "col": 5,
       "length": 4,
-      "clue": "Eşya kabı",
+      "clue": "Eşya kabı karşılığı olarak kullanılan kelime",
       "answer": "KUTU"
     },
     {
@@ -137,7 +137,7 @@
       "row": 2,
       "col": 5,
       "length": 4,
-      "clue": "Yüksek yapı",
+      "clue": "Bulmacada Yüksek yapı karşılığını veren yanıt",
       "answer": "KULE"
     },
     {
@@ -146,7 +146,7 @@
       "row": 3,
       "col": 2,
       "length": 4,
-      "clue": "Cevap bekleyen",
+      "clue": "Cevap bekleyen karşılığı olarak kullanılan kelime",
       "answer": "SORU"
     },
     {
@@ -155,7 +155,7 @@
       "row": 3,
       "col": 2,
       "length": 4,
-      "clue": "Zaman aralığı",
+      "clue": "Zaman aralığı için kullanılan yaygın ifade",
       "answer": "SÜRE"
     },
     {
@@ -164,7 +164,7 @@
       "row": 4,
       "col": 0,
       "length": 4,
-      "clue": "Yaşam süresi",
+      "clue": "Yaşam süresi karşılığı olarak kullanılan kelime",
       "answer": "ÖMÜR"
     },
     {
@@ -173,7 +173,7 @@
       "row": 5,
       "col": 0,
       "length": 4,
-      "clue": "Otlak alan",
+      "clue": "Bulmacada Otlak alan karşılığını veren yanıt",
       "answer": "MERA"
     }
   ]
