@@ -1,186 +1,192 @@
 /* ─────────────────────────────────────────────
-   Çengel Bulmaca — İsim-bazlı kimlik + bulut senkronizasyonu
-   ------------------------------------------------------------
-   Kullanıcı kimliği = normalize edilmiş ad (küçük harf, aksansız).
-   Aynı isim → aynı profil (farklı cihazlardan bile).
-   İsim değişirse yerel skorlar sıfırlanır, yeni isim için bulutta
-   kayıt varsa geri yüklenir.
-
-   Not (Firestore Rules): users koleksiyonu için:
-     match /users/{userId} {
-       allow read: if request.auth != null;
-       allow write: if request.auth != null;  // isim-bazlı anahtar
-     }
+   Çengel Bulmaca — Stabil Yerel Hesap Sistemi
+   Not: Bu sürümde hesaplar ve skorlar localStorage'da tutulur.
    ───────────────────────────────────────────── */
 (function(){
-    const STORE_USER = 'cb_user';
-    const STORE_SCORES = 'cb_scores_local';
-    const STORE_SETTINGS = 'cb_settings';
-    const STORE_CB = 'cb';
-    const STORE_DAILY = 'cb_daily';
+    var STORE_USER = 'cb_user';
+    var STORE_DB = 'cb_accounts_db';
+    var STORE_SETTINGS = 'cb_settings';
 
-    const firebaseConfig = window.CB_FIREBASE_CONFIG || window.firebaseConfig || null;
+    // Oyunun mevcut ekranları bu legacy anahtarları okuyor.
+    var STORE_CB = 'cb';
+    var STORE_SCORES = 'cb_scores_local';
+    var STORE_DAILY = 'cb_daily';
 
-    let app, auth, db;
-    let currentUser = null;
-    let firebaseReady = false;
-    let initPromise = null;
+    var currentUser = null;
+    var listeners = [];
 
-    const listeners = new Set();
-    const notify = () => listeners.forEach(fn => { try { fn(currentUser); } catch(e){} });
+    function notify(){
+        for(var i=0;i<listeners.length;i++){
+            try { listeners[i](currentUser); } catch(e) {}
+        }
+    }
 
-    function normalizeName(name) {
+    function normalizeName(name){
         return (name || '').trim().toLowerCase()
-            .normalize('NFD').replace(/\p{Diacritic}/gu, '')
+            .normalize('NFD').replace(/[\u0300-\u036f]/g, '')
             .replace(/[^a-z0-9]+/g, '_')
             .replace(/^_+|_+$/g, '')
             .slice(0, 40);
     }
 
-    function saveUserLocal(user) {
-        if(user) {
-            const data = {
-                uid: user.key || user.uid || ('local_' + Date.now()),
-                key: user.key,
-                name: (user.name || '').trim() || 'Misafir',
-                createdAt: user.createdAt || Date.now()
-            };
-            localStorage.setItem(STORE_USER, JSON.stringify(data));
-            currentUser = data;
-        } else {
-            localStorage.removeItem(STORE_USER);
-            currentUser = null;
-        }
+    function safeParse(raw, fallback){
+        try { return JSON.parse(raw); } catch(e) { return fallback; }
+    }
+
+    function getDB(){
+        var db = safeParse(localStorage.getItem(STORE_DB) || '', null);
+        if(!db || typeof db !== 'object') db = {};
+        if(!db.users || typeof db.users !== 'object') db.users = {};
+        return db;
+    }
+
+    function saveDB(db){
+        localStorage.setItem(STORE_DB, JSON.stringify(db));
+    }
+
+    function userTemplate(username, passHash){
+        return {
+            username: username,
+            passHash: passHash,
+            createdAt: Date.now(),
+            updatedAt: Date.now(),
+            puzzles: {},
+            daily: {},
+            totalScore: 0,
+            completedCount: 0
+        };
+    }
+
+    function readUserSession(){
+        var raw = safeParse(localStorage.getItem(STORE_USER) || '', null);
+        if(raw && raw.key) currentUser = raw;
+    }
+
+    function setUserSession(key, name, createdAt){
+        currentUser = {
+            key: key,
+            uid: key,
+            name: name,
+            createdAt: createdAt || Date.now(),
+            loggedInAt: Date.now()
+        };
+        localStorage.setItem(STORE_USER, JSON.stringify(currentUser));
         notify();
     }
 
-    function loadUserLocal() {
-        try {
-            const raw = localStorage.getItem(STORE_USER);
-            if(raw) currentUser = JSON.parse(raw);
-        } catch(e) {}
+    function clearUserSession(){
+        currentUser = null;
+        localStorage.removeItem(STORE_USER);
+        notify();
     }
 
-    function clearLocalScores() {
-        localStorage.removeItem(STORE_CB);
-        localStorage.removeItem(STORE_DAILY);
-        localStorage.removeItem(STORE_SCORES);
+    function validateCredentials(username, password){
+        var clean = (username || '').trim();
+        if(clean.length < 3) return { ok:false, message:'Kullanıcı adı en az 3 karakter olmalı.' };
+        if((password || '').length < 4) return { ok:false, message:'Şifre en az 4 karakter olmalı.' };
+        var key = normalizeName(clean);
+        if(!key) return { ok:false, message:'Geçerli bir kullanıcı adı girin.' };
+        return { ok:true, username: clean, key: key };
     }
 
-    async function initFirebase() {
-        if(!firebaseConfig || !firebaseConfig.apiKey || firebaseConfig.apiKey.startsWith('YOUR_')) return false;
-        try {
-            const { initializeApp } = await import('https://www.gstatic.com/firebasejs/10.13.2/firebase-app.js');
-            const { getAuth, signInAnonymously, onAuthStateChanged } =
-                await import('https://www.gstatic.com/firebasejs/10.13.2/firebase-auth.js');
-            const { getFirestore, doc, setDoc, getDoc, collection, query, orderBy, limit, getDocs, serverTimestamp } =
-                await import('https://www.gstatic.com/firebasejs/10.13.2/firebase-firestore.js');
-
-            app = initializeApp(firebaseConfig);
-            auth = getAuth(app);
-            db = getFirestore(app);
-
-            window._cbFB = { doc, setDoc, getDoc, collection, query, orderBy, limit, getDocs, serverTimestamp };
-
-            try { await signInAnonymously(auth); }
-            catch(e) {
-                console.warn('[Çengel] Anonim giriş başarısız:', e.message);
-                return false;
-            }
-            await new Promise((resolve) => {
-                onAuthStateChanged(auth, () => resolve());
+    function hashPassword(password){
+        // Kriptografik hash varsa kullan, yoksa deterministik fallback.
+        if(window.crypto && window.crypto.subtle && window.TextEncoder){
+            var data = new TextEncoder().encode(password);
+            return window.crypto.subtle.digest('SHA-256', data).then(function(buf){
+                var arr = Array.prototype.slice.call(new Uint8Array(buf));
+                return arr.map(function(b){ return b.toString(16).padStart(2,'0'); }).join('');
             });
-
-            firebaseReady = true;
-            return true;
-        } catch(err) {
-            console.warn('[Çengel] Firebase init hatası:', err.message);
-            return false;
         }
+        return Promise.resolve('plain:' + password);
     }
 
-    // Buluttan kullanıcı verisini yerel localStorage'a yükle
-    async function loadUserFromCloud(key) {
-        if(!firebaseReady || !key) return false;
-        try {
-            const { doc, getDoc } = window._cbFB;
-            const ref = doc(db, 'users', key);
-            const snap = await getDoc(ref);
-            if(!snap.exists()) return false;
-            const d = snap.data();
+    function loadUserDataToLegacyStores(userRec){
+        var cb = {};
+        var scores = {};
+        var daily = {};
 
-            const puzzles = d.puzzles || {};
-            const cb = {};
-            const local = {};
-            for(const [id, data] of Object.entries(puzzles)) {
-                cb[id] = { s: data.score, t: data.time, h: data.hints };
-                local[id] = data;
-            }
-            if(Object.keys(cb).length) {
-                localStorage.setItem(STORE_CB, JSON.stringify(cb));
-                localStorage.setItem(STORE_SCORES, JSON.stringify(local));
-            }
-
-            const daily = d.daily || {};
-            const cbDaily = {};
-            for(const [dateKey, data] of Object.entries(daily)) {
-                cbDaily[dateKey] = { s: data.score, t: data.time, h: data.hints, id: data.id };
-            }
-            if(Object.keys(cbDaily).length) {
-                localStorage.setItem(STORE_DAILY, JSON.stringify(cbDaily));
-            }
-            return true;
-        } catch(e) {
-            console.warn('Bulut okuma hatası:', e);
-            return false;
+        var puzzles = userRec && userRec.puzzles ? userRec.puzzles : {};
+        for(var pid in puzzles){
+            if(!Object.prototype.hasOwnProperty.call(puzzles, pid)) continue;
+            var p = puzzles[pid] || {};
+            cb[pid] = { s:p.score||0, t:p.time||0, h:p.hints||0 };
+            scores[pid] = {
+                score: p.score||0,
+                time: p.time||0,
+                hints: p.hints||0,
+                difficulty: p.difficulty||'Kolay',
+                completedAt: p.completedAt||Date.now()
+            };
         }
+
+        var dailies = userRec && userRec.daily ? userRec.daily : {};
+        for(var dk in dailies){
+            if(!Object.prototype.hasOwnProperty.call(dailies, dk)) continue;
+            var d = dailies[dk] || {};
+            daily[dk] = { s:d.score||0, t:d.time||0, h:d.hints||0, id:d.id||null };
+        }
+
+        localStorage.setItem(STORE_CB, JSON.stringify(cb));
+        localStorage.setItem(STORE_SCORES, JSON.stringify(scores));
+        localStorage.setItem(STORE_DAILY, JSON.stringify(daily));
+        window.dispatchEvent(new CustomEvent('cbScoresSynced'));
     }
 
-    async function setName(name) {
-        const clean = (name || '').trim();
-        if(!clean) return { ok: false };
-        const newKey = normalizeName(clean);
-        if(!newKey) return { ok: false };
+    function register(username, password){
+        var v = validateCredentials(username, password);
+        if(!v.ok) return Promise.resolve(v);
 
-        // Firebase başlatılıyorsa bekle (buluttaki kayıt eksiksiz yüklensin)
-        if(initPromise) { try { await initPromise; } catch(e){} }
+        var db = getDB();
+        if(db.users[v.key]) return Promise.resolve({ ok:false, message:'Bu kullanıcı adı zaten kayıtlı.' });
 
-        const prevKey = currentUser?.key;
-        const sameUser = prevKey === newKey;
-
-        if(!sameUser) {
-            // Farklı kullanıcıya geçiş — yerel skorları temizle
-            clearLocalScores();
-            // Bulutta bu isimle kayıt varsa yükle
-            if(firebaseReady) {
-                await loadUserFromCloud(newKey);
-            }
-        }
-
-        saveUserLocal({
-            key: newKey,
-            name: clean,
-            createdAt: sameUser ? currentUser?.createdAt : Date.now()
+        return hashPassword(password).then(function(passHash){
+            db.users[v.key] = userTemplate(v.username, passHash);
+            saveDB(db);
+            setUserSession(v.key, v.username, db.users[v.key].createdAt);
+            loadUserDataToLegacyStores(db.users[v.key]);
+            return { ok:true, mode:'register' };
         });
-
-        if(firebaseReady) await syncUserMetaToCloud();
-        return { ok: true, changed: !sameUser };
     }
 
-    async function syncUserMetaToCloud() {
-        if(!firebaseReady || !currentUser?.key) return;
-        try {
-            const { doc, setDoc, serverTimestamp } = window._cbFB;
-            const ref = doc(db, 'users', currentUser.key);
-            await setDoc(ref, {
-                name: currentUser.name,
-                updatedAt: serverTimestamp()
-            }, { merge: true });
-        } catch(e) { console.warn('Meta sync hatası:', e); }
+    function login(username, password){
+        var v = validateCredentials(username, password);
+        if(!v.ok) return Promise.resolve(v);
+
+        var db = getDB();
+        var rec = db.users[v.key];
+        if(!rec) return Promise.resolve({ ok:false, message:'Kullanıcı bulunamadı. Önce kayıt ol.' });
+
+        return hashPassword(password).then(function(passHash){
+            if(rec.passHash !== passHash) return { ok:false, message:'Şifre hatalı.' };
+            rec.updatedAt = Date.now();
+            db.users[v.key] = rec;
+            saveDB(db);
+            setUserSession(v.key, rec.username || v.username, rec.createdAt || Date.now());
+            loadUserDataToLegacyStores(rec);
+            return { ok:true, mode:'login' };
+        });
     }
 
-    async function saveScore(puzzleId, score, time, hints, difficulty, dailyKey = null) {
-        const entry = {
+    function signOut(){
+        clearUserSession();
+        localStorage.removeItem(STORE_CB);
+        localStorage.removeItem(STORE_SCORES);
+        localStorage.removeItem(STORE_DAILY);
+    }
+
+    function saveScore(puzzleId, score, time, hints, difficulty, dailyKey){
+        if(!currentUser || !currentUser.key) return;
+        var key = String(puzzleId);
+        var db = getDB();
+        var rec = db.users[currentUser.key];
+        if(!rec){
+            rec = userTemplate(currentUser.name || currentUser.key, '');
+        }
+        if(!rec.puzzles) rec.puzzles = {};
+        if(!rec.daily) rec.daily = {};
+
+        var nextEntry = {
             score: score|0,
             time: time|0,
             hints: hints|0,
@@ -188,178 +194,107 @@
             completedAt: Date.now()
         };
 
-        const all = JSON.parse(localStorage.getItem(STORE_SCORES) || '{}');
-        if(!all[puzzleId] || all[puzzleId].score < score) {
-            all[puzzleId] = entry;
-            localStorage.setItem(STORE_SCORES, JSON.stringify(all));
+        var prev = rec.puzzles[key];
+        if(!prev || (prev.score||0) < nextEntry.score) {
+            rec.puzzles[key] = nextEntry;
         }
 
-        if(!firebaseReady || !currentUser?.key) return;
-        try {
-            const { doc, setDoc, getDoc, serverTimestamp } = window._cbFB;
-            const ref = doc(db, 'users', currentUser.key);
-            const snap = await getDoc(ref);
-            const existing = snap.exists() ? snap.data() : {};
-            const puzzles = existing.puzzles || {};
-            const daily = existing.daily || {};
-
-            let changed = false;
-            if(!puzzles[puzzleId] || puzzles[puzzleId].score < score) {
-                puzzles[puzzleId] = entry;
-                changed = true;
-            }
-            if(dailyKey && (!daily[dailyKey] || daily[dailyKey].score < score)) {
-                daily[dailyKey] = { ...entry, id: puzzleId };
-                changed = true;
-            }
-            if(!changed) return;
-
-            const totalScore = Object.values(puzzles).reduce((s, x) => s + (x.score || 0), 0);
-            await setDoc(ref, {
-                name: currentUser.name,
-                puzzles, daily,
-                totalScore,
-                completedCount: Object.keys(puzzles).length,
-                updatedAt: serverTimestamp()
-            }, { merge: true });
-        } catch(e) { console.warn('Skor bulut kaydı hatası:', e); }
-    }
-
-    async function syncLocalScoresToCloud() {
-        if(!firebaseReady || !currentUser?.key) return;
-        try {
-            const oldScores = JSON.parse(localStorage.getItem(STORE_CB) || '{}');
-            const newScores = JSON.parse(localStorage.getItem(STORE_SCORES) || '{}');
-            const localDaily = JSON.parse(localStorage.getItem(STORE_DAILY) || '{}');
-
-            const merged = {};
-            for(const [id, d] of Object.entries({ ...oldScores, ...newScores })) {
-                merged[id] = {
-                    score: d.s || d.score || 0,
-                    time: d.t || d.time || 0,
-                    hints: d.h || d.hints || 0,
-                    difficulty: d.difficulty || 'Kolay'
+        if(dailyKey){
+            var dk = String(dailyKey);
+            var oldDaily = rec.daily[dk];
+            if(!oldDaily || (oldDaily.score||0) < nextEntry.score){
+                rec.daily[dk] = {
+                    score: nextEntry.score,
+                    time: nextEntry.time,
+                    hints: nextEntry.hints,
+                    id: puzzleId,
+                    completedAt: nextEntry.completedAt
                 };
             }
-            if(Object.keys(merged).length === 0 && Object.keys(localDaily).length === 0) return;
-
-            const { doc, setDoc, getDoc, serverTimestamp } = window._cbFB;
-            const ref = doc(db, 'users', currentUser.key);
-            const snap = await getDoc(ref);
-            const existing = snap.exists() ? snap.data() : {};
-            const puzzles = existing.puzzles || {};
-            const daily = existing.daily || {};
-
-            let changed = false;
-            for(const [id, data] of Object.entries(merged)) {
-                if(!puzzles[id] || puzzles[id].score < data.score) {
-                    puzzles[id] = data; changed = true;
-                }
-            }
-            for(const [k, d] of Object.entries(localDaily)) {
-                const data = { score: d.s || 0, time: d.t || 0, hints: d.h || 0, id: d.id };
-                if(!daily[k] || daily[k].score < data.score) {
-                    daily[k] = data; changed = true;
-                }
-            }
-            if(!changed) return;
-
-            const totalScore = Object.values(puzzles).reduce((s, x) => s + (x.score || 0), 0);
-            await setDoc(ref, {
-                name: currentUser.name,
-                puzzles, daily,
-                totalScore,
-                completedCount: Object.keys(puzzles).length,
-                updatedAt: serverTimestamp()
-            }, { merge: true });
-        } catch(e) { console.warn('Toplu sync hatası:', e); }
-    }
-
-    async function getLeaderboard(topN = 50) {
-        if(firebaseReady) {
-            try {
-                const { collection, query, orderBy, limit, getDocs } = window._cbFB;
-                const q = query(collection(db, 'users'), orderBy('totalScore', 'desc'), limit(topN));
-                const snap = await getDocs(q);
-                const list = [];
-                snap.forEach(doc => {
-                    const d = doc.data();
-                    if(!d.name) return;
-                    list.push({
-                        uid: doc.id,
-                        name: d.name,
-                        totalScore: d.totalScore || 0,
-                        completedCount: d.completedCount || 0
-                    });
-                });
-                return list;
-            } catch(e) { console.warn('LB hata:', e); }
         }
-        return localLeaderboard();
+
+        var total = 0;
+        var count = 0;
+        for(var pid in rec.puzzles){
+            if(!Object.prototype.hasOwnProperty.call(rec.puzzles, pid)) continue;
+            count += 1;
+            total += rec.puzzles[pid].score || 0;
+        }
+        rec.totalScore = total;
+        rec.completedCount = count;
+        rec.updatedAt = Date.now();
+
+        db.users[currentUser.key] = rec;
+        saveDB(db);
+        loadUserDataToLegacyStores(rec);
     }
 
-    function localLeaderboard() {
-        const user = currentUser || { uid: 'guest', name: 'Sen' };
-        const oldScores = JSON.parse(localStorage.getItem(STORE_CB) || '{}');
-        const newScores = JSON.parse(localStorage.getItem(STORE_SCORES) || '{}');
-        const merged = { ...oldScores, ...newScores };
-        const total = Object.values(merged).reduce((s, x) => s + (x.s || x.score || 0), 0);
-        const count = Object.keys(merged).length;
-        return [{ uid: user.uid, name: user.name, totalScore: total, completedCount: count }];
+    function getLeaderboard(topN){
+        var n = topN || 50;
+        var db = getDB();
+        var list = [];
+        for(var key in db.users){
+            if(!Object.prototype.hasOwnProperty.call(db.users, key)) continue;
+            var u = db.users[key] || {};
+            list.push({
+                uid: key,
+                name: u.username || key,
+                totalScore: u.totalScore || 0,
+                completedCount: u.completedCount || 0
+            });
+        }
+        list.sort(function(a,b){ return (b.totalScore||0) - (a.totalScore||0); });
+        return Promise.resolve(list.slice(0, n));
     }
 
-    function maskName(name) {
+    function maskName(name){
         if(!name) return '•••';
-        const trimmed = name.trim();
-        if(trimmed.length <= 1) return trimmed;
-        return trimmed[0].toUpperCase() + '•'.repeat(Math.min(trimmed.length - 1, 6));
+        var t = String(name).trim();
+        if(t.length <= 1) return t;
+        return t[0].toUpperCase() + '•'.repeat(Math.min(t.length - 1, 6));
     }
 
-    function onAuthChange(fn) {
-        listeners.add(fn);
-        fn(currentUser);
-        return () => listeners.delete(fn);
+    function onAuthChange(fn){
+        if(typeof fn !== 'function') return function(){};
+        listeners.push(fn);
+        try { fn(currentUser); } catch(e) {}
+        return function(){
+            listeners = listeners.filter(function(x){ return x !== fn; });
+        };
     }
 
-    function getSettings() {
-        try { return JSON.parse(localStorage.getItem(STORE_SETTINGS) || '{}'); } catch(e) { return {}; }
+    function getSettings(){
+        return safeParse(localStorage.getItem(STORE_SETTINGS) || '', {}) || {};
     }
-    function setSetting(key, val) {
-        const s = getSettings();
+
+    function setSetting(key, val){
+        var s = getSettings();
         s[key] = val;
         localStorage.setItem(STORE_SETTINGS, JSON.stringify(s));
     }
 
-    // Başlat
-    loadUserLocal();
-
-    // Eski kullanıcı verisi varsa ama key yoksa normalize et (geriye dönük uyum)
-    if(currentUser && !currentUser.key && currentUser.name) {
-        currentUser.key = normalizeName(currentUser.name);
-        saveUserLocal(currentUser);
+    // Init
+    readUserSession();
+    if(currentUser && currentUser.key){
+        var db = getDB();
+        var rec = db.users[currentUser.key];
+        if(rec) loadUserDataToLegacyStores(rec);
+        else clearUserSession();
     }
 
-    initPromise = initFirebase().then(async ready => {
-        if(!ready) { console.info('[Çengel] Firebase yok/kapalı — skorlar sadece yerel.'); return; }
-        if(currentUser?.key) {
-            await loadUserFromCloud(currentUser.key);
-            await syncLocalScoresToCloud();
-            // Buluttan yüklenen skorlar yerele yansıdı — UI dinliyorsa güncellesin
-            window.dispatchEvent(new CustomEvent('cbScoresSynced'));
-        }
-    });
-
     window.CBAuth = {
-        setName,
-        signOut: () => { saveUserLocal(null); clearLocalScores(); },
-        getUser: () => currentUser,
-        saveScore,
-        getLeaderboard,
-        maskName,
-        onAuthChange,
-        getSettings,
-        setSetting,
-        isFirebaseReady: () => firebaseReady,
-        normalizeName
+        register: register,
+        login: login,
+        signOut: signOut,
+        getUser: function(){ return currentUser; },
+        isLoggedIn: function(){ return !!(currentUser && currentUser.key); },
+        saveScore: saveScore,
+        getLeaderboard: getLeaderboard,
+        maskName: maskName,
+        onAuthChange: onAuthChange,
+        getSettings: getSettings,
+        setSetting: setSetting,
+        isFirebaseReady: function(){ return false; },
+        normalizeName: normalizeName
     };
 })();

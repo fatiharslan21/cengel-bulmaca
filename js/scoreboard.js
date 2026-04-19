@@ -54,24 +54,20 @@
                         <div class="sb-me-name">${escapeHtml(user.name)}</div>
                         <div class="sb-me-sub">${window.CBAuth.isFirebaseReady() ? '☁️ Bulut senkronize' : '📱 Yerel oyuncu'}</div>
                     </div>
-                    <button class="sb-signout">İsmi Değiştir</button>
+                    <button class="sb-signout">Çıkış Yap</button>
                 </div>
             `;
             authDiv.querySelector('.sb-signout').onclick = () => {
-                window.CBWelcome && window.CBWelcome.open({ mode: 'edit' });
-                const obs = setInterval(() => {
-                    if(!document.querySelector('.welcome-overlay.show')) {
-                        clearInterval(obs);
-                        render();
-                    }
-                }, 300);
+                if(window.CBAuth){ window.CBAuth.signOut(); }
+                window.CBWelcome && window.CBWelcome.open({ mode: 'login', forced: true });
+                render();
             };
         } else {
             authDiv.innerHTML = `
                 <div class="sb-signin-box">
-                    <p>Henüz isim girilmemiş.</p>
+                    <p>Henüz giriş yapılmamış.</p>
                     <button class="sb-google-btn">
-                        <span>✨</span> İsmini Gir
+                        <span>✨</span> Giriş / Kayıt
                     </button>
                 </div>
             `;
@@ -111,7 +107,7 @@
                     ${avatar}
                     <div class="sb-row-info">
                         <div class="sb-row-name">${displayName}${isMe ? ' <span class="sb-you">sen</span>' : ''}</div>
-                        <div class="sb-row-sub">${e.completedCount}/100 tamamlandı</div>
+                        <div class="sb-row-sub">${e.completedCount}/500 tamamlandı</div>
                     </div>
                     <div class="sb-row-score">${e.totalScore.toLocaleString('tr')}</div>
                 </div>
@@ -133,7 +129,7 @@
                     <div class="sb-row-avatar sb-avatar-fallback">${(me.name||'?')[0].toUpperCase()}</div>
                     <div class="sb-row-info">
                         <div class="sb-row-name">${escapeHtml(me.name)} <span class="sb-you">sen</span></div>
-                        <div class="sb-row-sub">${count}/100 tamamlandı</div>
+                        <div class="sb-row-sub">${count}/500 tamamlandı</div>
                     </div>
                     <div class="sb-row-score">${total.toLocaleString('tr')}</div>
                 </div>
