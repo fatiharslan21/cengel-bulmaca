@@ -152,7 +152,7 @@
       "row": 1,
       "col": 3,
       "length": 4,
-      "clue": "Eğlence faaliyeti",
+      "clue": "Boş zamanda keyif için yapılan etkinlik",
       "answer": "OYUN"
     },
     {
@@ -161,7 +161,7 @@
       "row": 3,
       "col": 2,
       "length": 3,
-      "clue": "Daire çapı",
+      "clue": "Dairenin merkezinden geçen doğru parçası",
       "answer": "ÇAP"
     },
     {
@@ -170,7 +170,7 @@
       "row": 3,
       "col": 2,
       "length": 5,
-      "clue": "Etraf, çepeçevre",
+      "clue": "Bir alanın ya da cismin etrafını saran sınır",
       "answer": "ÇEVRE"
     },
     {
@@ -179,7 +179,7 @@
       "row": 3,
       "col": 4,
       "length": 3,
-      "clue": "Demir korozyonu",
+      "clue": "Demirin nemle zamanla aldığı kızıl tabaka",
       "answer": "PAS"
     },
     {
@@ -197,7 +197,7 @@
       "row": 7,
       "col": 1,
       "length": 5,
-      "clue": "Tuzlu büyük su",
+      "clue": "Kıtaları ayıran geniş ve tuzlu su kütlesi",
       "answer": "DENİZ"
     },
     {
@@ -206,7 +206,7 @@
       "row": 7,
       "col": 1,
       "length": 4,
-      "clue": "Müzikle hareket",
+      "clue": "Müzik eşliğinde ritme göre yapılan hareketler",
       "answer": "DANS"
     }
   ]
