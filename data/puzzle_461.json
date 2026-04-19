@@ -121,7 +121,7 @@
       "row": 0,
       "col": 2,
       "length": 4,
-      "clue": "Kızarmış sandviç",
+      "clue": "Kızarmış sandviç anlamına gelen sözcük",
       "answer": "TOST"
     },
     {
@@ -130,7 +130,7 @@
       "row": 2,
       "col": 2,
       "length": 5,
-      "clue": "Düşme, sessizlik",
+      "clue": "Düşme ya da sessizlik karşılığı olarak kullanılan kelime",
       "answer": "SUKUT"
     },
     {
@@ -139,7 +139,7 @@
       "row": 3,
       "col": 0,
       "length": 3,
-      "clue": "Damaktaki lezzet",
+      "clue": "Günlük dilde Damaktaki lezzet olarak bilinen kavram",
       "answer": "TAT"
     },
     {
@@ -148,7 +148,7 @@
       "row": 3,
       "col": 1,
       "length": 3,
-      "clue": "Tatlının zıttı",
+      "clue": "Bulmacada Tatlının zıttı karşılığını veren yanıt",
       "answer": "ACI"
     },
     {
@@ -157,7 +157,7 @@
       "row": 4,
       "col": 4,
       "length": 6,
-      "clue": "Alçakgönüllülük",
+      "clue": "Bulmacada Alçakgönüllülük karşılığını veren yanıt",
       "answer": "TEVAZU"
     },
     {
@@ -166,7 +166,7 @@
       "row": 5,
       "col": 0,
       "length": 6,
-      "clue": "Nasip, pay",
+      "clue": "Nasip ya da pay karşılığı olarak kullanılan kelime",
       "answer": "KISMET"
     },
     {
@@ -175,7 +175,7 @@
       "row": 5,
       "col": 0,
       "length": 3,
-      "clue": "Yanık kalıntısı",
+      "clue": "Yanık kalıntısı için kullanılan yaygın ifade",
       "answer": "KÜL"
     },
     {
@@ -184,7 +184,7 @@
       "row": 6,
       "col": 6,
       "length": 6,
-      "clue": "Üzgün, kederli",
+      "clue": "Günlük dilde Üzgün ya da kederli olarak bilinen kavram",
       "answer": "MAHZUN"
     },
     {
@@ -202,7 +202,7 @@
       "row": 9,
       "col": 1,
       "length": 4,
-      "clue": "Silahlı kuvvetler",
+      "clue": "Günlük dilde Silahlı kuvvetler olarak bilinen kavram",
       "answer": "ORDU"
     }
   ]

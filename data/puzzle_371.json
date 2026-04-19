@@ -134,7 +134,7 @@
       "row": 0,
       "col": 6,
       "length": 3,
-      "clue": "Üzüm bahçesi",
+      "clue": "Günlük dilde Üzüm bahçesi olarak bilinen kavram",
       "answer": "BAĞ"
     },
     {
@@ -143,7 +143,7 @@
       "row": 1,
       "col": 0,
       "length": 3,
-      "clue": "On yüzlük sayı",
+      "clue": "On yüzlük sayı anlamına gelen sözcük",
       "answer": "BİN"
     },
     {
@@ -152,7 +152,7 @@
       "row": 1,
       "col": 3,
       "length": 5,
-      "clue": "Yer, mahal",
+      "clue": "Yer ya da mahal anlamına gelen sözcük",
       "answer": "MEKAN"
     },
     {
@@ -161,7 +161,7 @@
       "row": 1,
       "col": 3,
       "length": 5,
-      "clue": "Yer, konum",
+      "clue": "Günlük dilde Yer ya da konum olarak bilinen kavram",
       "answer": "MEVKİ"
     },
     {
@@ -170,7 +170,7 @@
       "row": 2,
       "col": 0,
       "length": 4,
-      "clue": "Kalın olmayan",
+      "clue": "Kalın olmayan anlamına gelen sözcük",
       "answer": "İNCE"
     },
     {
@@ -179,7 +179,7 @@
       "row": 4,
       "col": 5,
       "length": 5,
-      "clue": "Amaç, arzu",
+      "clue": "Amaç ya da arzu anlamına gelen sözcük",
       "answer": "MERAM"
     },
     {
@@ -188,7 +188,7 @@
       "row": 5,
       "col": 2,
       "length": 5,
-      "clue": "İyilik, bolluk",
+      "clue": "İyilik ya da bolluk için kullanılan yaygın ifade",
       "answer": "NİMET"
     },
     {
@@ -197,7 +197,7 @@
       "row": 6,
       "col": 7,
       "length": 5,
-      "clue": "Kitap yazan",
+      "clue": "Kitap yazan için kullanılan yaygın ifade",
       "answer": "YAZAR"
     },
     {
@@ -206,7 +206,7 @@
       "row": 7,
       "col": 4,
       "length": 4,
-      "clue": "Gönül huzuru",
+      "clue": "Gönül huzuru anlamına gelen sözcük",
       "answer": "SAFA"
     },
     {
@@ -215,7 +215,7 @@
       "row": 9,
       "col": 6,
       "length": 3,
-      "clue": "Adalet, doğruluk",
+      "clue": "Bulmacada Adalet ya da doğruluk karşılığını veren yanıt",
       "answer": "HAK"
     }
   ]

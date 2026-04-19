@@ -112,7 +112,7 @@
       "row": 0,
       "col": 2,
       "length": 5,
-      "clue": "Tuzlu büyük su",
+      "clue": "Tuzlu büyük su karşılığı olarak kullanılan kelime",
       "answer": "DENİZ"
     },
     {
@@ -121,7 +121,7 @@
       "row": 1,
       "col": 1,
       "length": 4,
-      "clue": "Şehir",
+      "clue": "Şehir anlamına gelen sözcük",
       "answer": "KENT"
     },
     {
@@ -130,7 +130,7 @@
       "row": 4,
       "col": 0,
       "length": 3,
-      "clue": "Asit karşıtı",
+      "clue": "Asit karşıtı için kullanılan yaygın ifade",
       "answer": "BAZ"
     },
     {
@@ -148,7 +148,7 @@
       "row": 5,
       "col": 3,
       "length": 6,
-      "clue": "Yırtıcı büyük kuş",
+      "clue": "Yırtıcı büyük kuş için kullanılan yaygın ifade",
       "answer": "KARTAL"
     },
     {
@@ -157,7 +157,7 @@
       "row": 6,
       "col": 0,
       "length": 5,
-      "clue": "Yemek kabı",
+      "clue": "Yemek kabı anlamına gelen sözcük",
       "answer": "TABAK"
     },
     {
@@ -166,7 +166,7 @@
       "row": 8,
       "col": 0,
       "length": 4,
-      "clue": "Zaman ölçer",
+      "clue": "Bulmacada Zaman ölçer karşılığını veren yanıt",
       "answer": "SAAT"
     },
     {
@@ -175,7 +175,7 @@
       "row": 8,
       "col": 1,
       "length": 3,
-      "clue": "Yakışıklı, gösterişli",
+      "clue": "Yakışıklı ya da gösterişli anlamına gelen sözcük",
       "answer": "AFİ"
     },
     {
@@ -184,7 +184,7 @@
       "row": 8,
       "col": 5,
       "length": 3,
-      "clue": "Kırmızı taneli meyve",
+      "clue": "Kırmızı taneli meyve karşılığı olarak kullanılan kelime",
       "answer": "NAR"
     },
     {
@@ -193,7 +193,7 @@
       "row": 9,
       "col": 3,
       "length": 4,
-      "clue": "Hedef, gaye",
+      "clue": "Bulmacada Hedef ya da gaye karşılığını veren yanıt",
       "answer": "AMAÇ"
     }
   ]

@@ -109,7 +109,7 @@
       "row": 0,
       "col": 3,
       "length": 4,
-      "clue": "Başarı karşılığı",
+      "clue": "Bulmacada Başarı karşılığı karşılığını veren yanıt",
       "answer": "ÖDÜL"
     },
     {
@@ -118,7 +118,7 @@
       "row": 0,
       "col": 9,
       "length": 5,
-      "clue": "Ani vuruş",
+      "clue": "Ani vuruş anlamına gelen sözcük",
       "answer": "DARBE"
     },
     {
@@ -127,7 +127,7 @@
       "row": 1,
       "col": 0,
       "length": 6,
-      "clue": "Konular listesi",
+      "clue": "Konular listesi için kullanılan yaygın ifade",
       "answer": "GÜNDEM"
     },
     {
@@ -136,7 +136,7 @@
       "row": 1,
       "col": 5,
       "length": 5,
-      "clue": "Seslerle sanat",
+      "clue": "Bulmacada Seslerle sanat karşılığını veren yanıt",
       "answer": "MÜZİK"
     },
     {
@@ -145,7 +145,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "Başlangıcı olmayan",
+      "clue": "Başlangıcı olmayan için kullanılan yaygın ifade",
       "answer": "EZEL"
     },
     {
@@ -154,7 +154,7 @@
       "row": 3,
       "col": 2,
       "length": 5,
-      "clue": "Temel buğday gıdası",
+      "clue": "Temel buğday gıdası anlamına gelen sözcük",
       "answer": "EKMEK"
     },
     {
@@ -163,7 +163,7 @@
       "row": 3,
       "col": 7,
       "length": 5,
-      "clue": "Yemek kabı",
+      "clue": "Yemek kabı anlamına gelen sözcük",
       "answer": "TABAK"
     },
     {
@@ -172,7 +172,7 @@
       "row": 4,
       "col": 4,
       "length": 6,
-      "clue": "Anlatılan olay",
+      "clue": "Günlük dilde Anlatılan olay olarak bilinen kavram",
       "answer": "HİKAYE"
     },
     {
@@ -181,7 +181,7 @@
       "row": 6,
       "col": 0,
       "length": 4,
-      "clue": "Konaklama yeri",
+      "clue": "Bulmacada Konaklama yeri karşılığını veren yanıt",
       "answer": "OTEL"
     },
     {
@@ -190,7 +190,7 @@
       "row": 6,
       "col": 6,
       "length": 4,
-      "clue": "Yazılmış metin",
+      "clue": "Bulmacada Yazılmış metin karşılığını veren yanıt",
       "answer": "YAZI"
     }
   ]

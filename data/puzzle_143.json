@@ -123,7 +123,7 @@
       "row": 0,
       "col": 5,
       "length": 3,
-      "clue": "Hava gibi madde",
+      "clue": "Hava gibi madde için kullanılan yaygın ifade",
       "answer": "GAZ"
     },
     {
@@ -132,7 +132,7 @@
       "row": 0,
       "col": 6,
       "length": 3,
-      "clue": "Mesafe, açıklık",
+      "clue": "Bulmacada Mesafe ya da açıklık karşılığını veren yanıt",
       "answer": "ARA"
     },
     {
@@ -141,7 +141,7 @@
       "row": 2,
       "col": 0,
       "length": 5,
-      "clue": "Bitkinin ürünü",
+      "clue": "Günlük dilde Bitkinin ürünü olarak bilinen kavram",
       "answer": "MEYVE"
     },
     {
@@ -150,7 +150,7 @@
       "row": 2,
       "col": 3,
       "length": 5,
-      "clue": "Uyulması gereken",
+      "clue": "Uyulması gereken için kullanılan yaygın ifade",
       "answer": "KURAL"
     },
     {
@@ -159,7 +159,7 @@
       "row": 2,
       "col": 3,
       "length": 5,
-      "clue": "Sayfalardan eser",
+      "clue": "Sayfalardan eser karşılığı olarak kullanılan kelime",
       "answer": "KİTAP"
     },
     {
@@ -168,7 +168,7 @@
       "row": 4,
       "col": 0,
       "length": 4,
-      "clue": "Vatan",
+      "clue": "Vatan karşılığı olarak kullanılan kelime",
       "answer": "YURT"
     },
     {
@@ -177,7 +177,7 @@
       "row": 4,
       "col": 5,
       "length": 4,
-      "clue": "Şehir",
+      "clue": "Şehir anlamına gelen sözcük",
       "answer": "KENT"
     },
     {
@@ -186,7 +186,7 @@
       "row": 5,
       "col": 3,
       "length": 4,
-      "clue": "Ateşin parlak kısmı",
+      "clue": "Ateşin parlak kısmı karşılığı olarak kullanılan kelime",
       "answer": "ALEV"
     },
     {
@@ -195,7 +195,7 @@
       "row": 6,
       "col": 8,
       "length": 4,
-      "clue": "Felaket, kötülük",
+      "clue": "Günlük dilde Felaket ya da kötülük olarak bilinen kavram",
       "answer": "BELA"
     },
     {
@@ -204,7 +204,7 @@
       "row": 7,
       "col": 5,
       "length": 4,
-      "clue": "Bayat olmayan",
+      "clue": "Bulmacada Bayat olmayan karşılığını veren yanıt",
       "answer": "TAZE"
     }
   ]

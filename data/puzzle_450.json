@@ -123,7 +123,7 @@
       "row": 0,
       "col": 1,
       "length": 4,
-      "clue": "Arzu, istek",
+      "clue": "Arzu ya da istek için kullanılan yaygın ifade",
       "answer": "ŞEVK"
     },
     {
@@ -132,7 +132,7 @@
       "row": 1,
       "col": 5,
       "length": 4,
-      "clue": "Anadolu halkı",
+      "clue": "Anadolu halkı için kullanılan yaygın ifade",
       "answer": "TÜRK"
     },
     {
@@ -141,7 +141,7 @@
       "row": 3,
       "col": 1,
       "length": 5,
-      "clue": "Yüzeyin sınırı",
+      "clue": "Günlük dilde Yüzeyin sınırı olarak bilinen kavram",
       "answer": "KENAR"
     },
     {
@@ -150,7 +150,7 @@
       "row": 3,
       "col": 3,
       "length": 5,
-      "clue": "İnce söz, espri",
+      "clue": "Bulmacada İnce söz ya da espri karşılığını veren yanıt",
       "answer": "NÜKTE"
     },
     {
@@ -159,7 +159,7 @@
       "row": 5,
       "col": 0,
       "length": 4,
-      "clue": "Böcekten kumaş",
+      "clue": "Böcekten kumaş anlamına gelen sözcük",
       "answer": "İPEK"
     },
     {
@@ -168,7 +168,7 @@
       "row": 5,
       "col": 0,
       "length": 5,
-      "clue": "Anlayış",
+      "clue": "Günlük dilde Anlayış olarak bilinen kavram",
       "answer": "İDRAK"
     },
     {
@@ -177,7 +177,7 @@
       "row": 5,
       "col": 6,
       "length": 3,
-      "clue": "Arı ürünü tatlı",
+      "clue": "Arı ürünü tatlı için kullanılan yaygın ifade",
       "answer": "BAL"
     },
     {
@@ -186,7 +186,7 @@
       "row": 6,
       "col": 6,
       "length": 3,
-      "clue": "Sunma, takdim",
+      "clue": "Sunma ya da takdim anlamına gelen sözcük",
       "answer": "ARZ"
     },
     {
@@ -195,7 +195,7 @@
       "row": 6,
       "col": 8,
       "length": 4,
-      "clue": "Güçsüzlük",
+      "clue": "Bulmacada Güçsüzlük karşılığını veren yanıt",
       "answer": "ZAAF"
     },
     {
@@ -204,7 +204,7 @@
       "row": 7,
       "col": 3,
       "length": 4,
-      "clue": "Özlenen istek",
+      "clue": "Özlenen istek için kullanılan yaygın ifade",
       "answer": "EMEL"
     }
   ]

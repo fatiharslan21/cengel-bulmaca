@@ -143,7 +143,7 @@
       "row": 0,
       "col": 1,
       "length": 7,
-      "clue": "Görünme, belirme",
+      "clue": "Bulmacada Görünme ya da belirme karşılığını veren yanıt",
       "answer": "TECELLİ"
     },
     {
@@ -152,7 +152,7 @@
       "row": 0,
       "col": 7,
       "length": 5,
-      "clue": "Yenilebilen bitki",
+      "clue": "Yenilebilen bitki için kullanılan yaygın ifade",
       "answer": "SEBZE"
     },
     {
@@ -161,7 +161,7 @@
       "row": 3,
       "col": 0,
       "length": 5,
-      "clue": "Hüzün, usanç",
+      "clue": "Bulmacada Hüzün ya da usanç karşılığını veren yanıt",
       "answer": "MELAL"
     },
     {
@@ -170,7 +170,7 @@
       "row": 3,
       "col": 9,
       "length": 6,
-      "clue": "Değerli şeyler",
+      "clue": "Günlük dilde Değerli şeyler olarak bilinen kavram",
       "answer": "HAZİNE"
     },
     {
@@ -179,7 +179,7 @@
       "row": 4,
       "col": 6,
       "length": 6,
-      "clue": "Ayrılık acısı",
+      "clue": "Ayrılık acısı için kullanılan yaygın ifade",
       "answer": "HİCRAN"
     },
     {
@@ -188,7 +188,7 @@
       "row": 4,
       "col": 6,
       "length": 5,
-      "clue": "Sayısal işlem",
+      "clue": "Sayısal işlem karşılığı olarak kullanılan kelime",
       "answer": "HESAP"
     },
     {
@@ -206,7 +206,7 @@
       "row": 6,
       "col": 0,
       "length": 4,
-      "clue": "Düzen, oyun",
+      "clue": "Günlük dilde Düzen ya da oyun olarak bilinen kavram",
       "answer": "HİLE"
     },
     {
@@ -215,7 +215,7 @@
       "row": 7,
       "col": 8,
       "length": 3,
-      "clue": "Hatıra, geçmiş olay",
+      "clue": "Hatıra ya da geçmiş olay karşılığı olarak kullanılan kelime",
       "answer": "ANI"
     },
     {
@@ -224,7 +224,7 @@
       "row": 8,
       "col": 1,
       "length": 7,
-      "clue": "Hatıra, armağan",
+      "clue": "Hatıra ya da armağan için kullanılan yaygın ifade",
       "answer": "YADİGAR"
     }
   ]

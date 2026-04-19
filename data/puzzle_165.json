@@ -167,7 +167,7 @@
       "row": 0,
       "col": 7,
       "length": 5,
-      "clue": "Sürdürme",
+      "clue": "Sürdürme karşılığı olarak kullanılan kelime",
       "answer": "DEVAM"
     },
     {
@@ -176,7 +176,7 @@
       "row": 1,
       "col": 3,
       "length": 6,
-      "clue": "Üst giysi",
+      "clue": "Üst giysi karşılığı olarak kullanılan kelime",
       "answer": "GÖMLEK"
     },
     {
@@ -185,7 +185,7 @@
       "row": 3,
       "col": 5,
       "length": 4,
-      "clue": "Bitki yapısı",
+      "clue": "Günlük dilde Bitki yapısı olarak bilinen kavram",
       "answer": "SERA"
     },
     {
@@ -194,7 +194,7 @@
       "row": 4,
       "col": 5,
       "length": 4,
-      "clue": "Kırmızı meyve",
+      "clue": "Bulmacada Kırmızı meyve karşılığını veren yanıt",
       "answer": "ELMA"
     },
     {
@@ -203,7 +203,7 @@
       "row": 6,
       "col": 4,
       "length": 6,
-      "clue": "Kürekli tekne",
+      "clue": "Günlük dilde Kürekli tekne olarak bilinen kavram",
       "answer": "SANDAL"
     },
     {
@@ -212,7 +212,7 @@
       "row": 6,
       "col": 4,
       "length": 3,
-      "clue": "Bitki gövdesi",
+      "clue": "Günlük dilde Bitki gövdesi olarak bilinen kavram",
       "answer": "SAP"
     },
     {
@@ -221,7 +221,7 @@
       "row": 6,
       "col": 6,
       "length": 3,
-      "clue": "Kırmızı taneli meyve",
+      "clue": "Kırmızı taneli meyve karşılığı olarak kullanılan kelime",
       "answer": "NAR"
     },
     {
@@ -230,7 +230,7 @@
       "row": 6,
       "col": 9,
       "length": 5,
-      "clue": "Aydınlatma aracı",
+      "clue": "Aydınlatma aracı karşılığı olarak kullanılan kelime",
       "answer": "LAMBA"
     },
     {
@@ -239,7 +239,7 @@
       "row": 7,
       "col": 0,
       "length": 5,
-      "clue": "İple oynatılan",
+      "clue": "İple oynatılan karşılığı olarak kullanılan kelime",
       "answer": "KUKLA"
     },
     {
@@ -248,7 +248,7 @@
       "row": 9,
       "col": 9,
       "length": 3,
-      "clue": "Arı ürünü tatlı",
+      "clue": "Arı ürünü tatlı için kullanılan yaygın ifade",
       "answer": "BAL"
     }
   ]

@@ -123,7 +123,7 @@
       "row": 0,
       "col": 2,
       "length": 5,
-      "clue": "Zaman, süre",
+      "clue": "Bulmacada Zaman ya da süre karşılığını veren yanıt",
       "answer": "VAKİT"
     },
     {
@@ -132,7 +132,7 @@
       "row": 0,
       "col": 2,
       "length": 4,
-      "clue": "Sözünde durma",
+      "clue": "Sözünde durma karşılığı olarak kullanılan kelime",
       "answer": "VEFA"
     },
     {
@@ -141,7 +141,7 @@
       "row": 2,
       "col": 5,
       "length": 6,
-      "clue": "Ün, nam",
+      "clue": "Ün ya da nam anlamına gelen sözcük",
       "answer": "ŞÖHRET"
     },
     {
@@ -150,7 +150,7 @@
       "row": 4,
       "col": 2,
       "length": 5,
-      "clue": "Issız, boş",
+      "clue": "Issız ya da boş için kullanılan yaygın ifade",
       "answer": "TENHA"
     },
     {
@@ -159,7 +159,7 @@
       "row": 5,
       "col": 7,
       "length": 5,
-      "clue": "İç rahatlığı",
+      "clue": "İç rahatlığı için kullanılan yaygın ifade",
       "answer": "HUZUR"
     },
     {
@@ -168,7 +168,7 @@
       "row": 6,
       "col": 1,
       "length": 5,
-      "clue": "Topluluk, küme",
+      "clue": "Topluluk ya da küme için kullanılan yaygın ifade",
       "answer": "ZÜMRE"
     },
     {
@@ -177,7 +177,7 @@
       "row": 6,
       "col": 1,
       "length": 5,
-      "clue": "En yüksek nokta",
+      "clue": "En yüksek nokta karşılığı olarak kullanılan kelime",
       "answer": "ZİRVE"
     },
     {
@@ -186,7 +186,7 @@
       "row": 6,
       "col": 3,
       "length": 3,
-      "clue": "Fitilli aydınlatma",
+      "clue": "Günlük dilde Fitilli aydınlatma olarak bilinen kavram",
       "answer": "MUM"
     },
     {
@@ -195,7 +195,7 @@
       "row": 7,
       "col": 5,
       "length": 3,
-      "clue": "İnce parçacıklar",
+      "clue": "İnce parçacıklar karşılığı olarak kullanılan kelime",
       "answer": "TOZ"
     },
     {
@@ -204,7 +204,7 @@
       "row": 10,
       "col": 0,
       "length": 7,
-      "clue": "Üzülme",
+      "clue": "Üzülme anlamına gelen sözcük",
       "answer": "TEESSÜR"
     }
   ]

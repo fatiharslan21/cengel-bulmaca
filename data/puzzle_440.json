@@ -156,7 +156,7 @@
       "row": 0,
       "col": 5,
       "length": 5,
-      "clue": "İyilik, bolluk",
+      "clue": "İyilik ya da bolluk için kullanılan yaygın ifade",
       "answer": "NİMET"
     },
     {
@@ -165,7 +165,7 @@
       "row": 2,
       "col": 1,
       "length": 3,
-      "clue": "Bal yapan böcek",
+      "clue": "Günlük dilde Bal yapan böcek olarak bilinen kavram",
       "answer": "ARI"
     },
     {
@@ -174,7 +174,7 @@
       "row": 4,
       "col": 0,
       "length": 6,
-      "clue": "Nasip, pay",
+      "clue": "Nasip ya da pay karşılığı olarak kullanılan kelime",
       "answer": "KISMET"
     },
     {
@@ -183,7 +183,7 @@
       "row": 4,
       "col": 0,
       "length": 5,
-      "clue": "İki yakayı birleştiren",
+      "clue": "İki yakayı birleştiren için kullanılan yaygın ifade",
       "answer": "KÖPRÜ"
     },
     {
@@ -192,7 +192,7 @@
       "row": 4,
       "col": 4,
       "length": 5,
-      "clue": "Temel buğday gıdası",
+      "clue": "Temel buğday gıdası anlamına gelen sözcük",
       "answer": "EKMEK"
     },
     {
@@ -201,7 +201,7 @@
       "row": 5,
       "col": 8,
       "length": 4,
-      "clue": "Başka, özge",
+      "clue": "Başka ya da özge karşılığı olarak kullanılan kelime",
       "answer": "GAYR"
     },
     {
@@ -210,7 +210,7 @@
       "row": 5,
       "col": 8,
       "length": 3,
-      "clue": "Karalarla çevrili su",
+      "clue": "Bulmacada Karalarla çevrili su karşılığını veren yanıt",
       "answer": "GÖL"
     },
     {
@@ -219,7 +219,7 @@
       "row": 6,
       "col": 2,
       "length": 5,
-      "clue": "En sert taş",
+      "clue": "En sert taş karşılığı olarak kullanılan kelime",
       "answer": "ELMAS"
     },
     {
@@ -228,7 +228,7 @@
       "row": 8,
       "col": 4,
       "length": 5,
-      "clue": "Alın yazısı",
+      "clue": "Günlük dilde Alın yazısı olarak bilinen kavram",
       "answer": "KADER"
     },
     {
@@ -237,7 +237,7 @@
       "row": 8,
       "col": 6,
       "length": 3,
-      "clue": "Çiğneme organı",
+      "clue": "Bulmacada Çiğneme organı karşılığını veren yanıt",
       "answer": "DİŞ"
     }
   ]

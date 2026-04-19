@@ -121,7 +121,7 @@
       "row": 0,
       "col": 2,
       "length": 6,
-      "clue": "Boşuna, yararsız",
+      "clue": "Boşuna ya da yararsız için kullanılan yaygın ifade",
       "answer": "NAFİLE"
     },
     {
@@ -130,7 +130,7 @@
       "row": 0,
       "col": 5,
       "length": 4,
-      "clue": "Ses birimi",
+      "clue": "Ses birimi için kullanılan yaygın ifade",
       "answer": "HECE"
     },
     {
@@ -139,7 +139,7 @@
       "row": 1,
       "col": 1,
       "length": 5,
-      "clue": "Geniş ana yol",
+      "clue": "Geniş ana yol için kullanılan yaygın ifade",
       "answer": "CADDE"
     },
     {
@@ -157,7 +157,7 @@
       "row": 5,
       "col": 1,
       "length": 5,
-      "clue": "Tatlı madde",
+      "clue": "Tatlı madde için kullanılan yaygın ifade",
       "answer": "ŞEKER"
     },
     {
@@ -166,7 +166,7 @@
       "row": 5,
       "col": 3,
       "length": 4,
-      "clue": "Şehir",
+      "clue": "Şehir anlamına gelen sözcük",
       "answer": "KENT"
     },
     {
@@ -175,7 +175,7 @@
       "row": 7,
       "col": 0,
       "length": 4,
-      "clue": "İnanç",
+      "clue": "Bulmacada İnanç karşılığını veren yanıt",
       "answer": "İMAN"
     },
     {
@@ -184,7 +184,7 @@
       "row": 7,
       "col": 1,
       "length": 5,
-      "clue": "Hüzün, usanç",
+      "clue": "Bulmacada Hüzün ya da usanç karşılığını veren yanıt",
       "answer": "MELAL"
     },
     {
@@ -193,7 +193,7 @@
       "row": 8,
       "col": 3,
       "length": 3,
-      "clue": "İnce parçacıklar",
+      "clue": "İnce parçacıklar karşılığı olarak kullanılan kelime",
       "answer": "TOZ"
     },
     {
@@ -202,7 +202,7 @@
       "row": 10,
       "col": 0,
       "length": 3,
-      "clue": "Ün, şöhret",
+      "clue": "Günlük dilde Ün ya da şöhret olarak bilinen kavram",
       "answer": "ŞAN"
     }
   ]

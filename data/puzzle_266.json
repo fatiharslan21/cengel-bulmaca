@@ -123,7 +123,7 @@
       "row": 0,
       "col": 3,
       "length": 4,
-      "clue": "Sıkıntı, üzüntü",
+      "clue": "Günlük dilde Sıkıntı ya da üzüntü olarak bilinen kavram",
       "answer": "DERT"
     },
     {
@@ -132,7 +132,7 @@
       "row": 1,
       "col": 1,
       "length": 4,
-      "clue": "Konaklama yeri",
+      "clue": "Bulmacada Konaklama yeri karşılığını veren yanıt",
       "answer": "OTEL"
     },
     {
@@ -141,7 +141,7 @@
       "row": 3,
       "col": 3,
       "length": 5,
-      "clue": "Ekin alanı",
+      "clue": "Ekin alanı anlamına gelen sözcük",
       "answer": "TARLA"
     },
     {
@@ -150,7 +150,7 @@
       "row": 3,
       "col": 4,
       "length": 4,
-      "clue": "Geniş düzlük",
+      "clue": "Günlük dilde Geniş düzlük olarak bilinen kavram",
       "answer": "ALAN"
     },
     {
@@ -159,7 +159,7 @@
       "row": 5,
       "col": 0,
       "length": 5,
-      "clue": "Dört tekerlekli taşıt",
+      "clue": "Bulmacada Dört tekerlekli taşıt karşılığını veren yanıt",
       "answer": "ARABA"
     },
     {
@@ -168,7 +168,7 @@
       "row": 5,
       "col": 2,
       "length": 5,
-      "clue": "Konum bilgisi",
+      "clue": "Günlük dilde Konum bilgisi olarak bilinen kavram",
       "answer": "ADRES"
     },
     {
@@ -177,7 +177,7 @@
       "row": 6,
       "col": 4,
       "length": 4,
-      "clue": "Müzik işareti",
+      "clue": "Müzik işareti için kullanılan yaygın ifade",
       "answer": "NOTA"
     },
     {
@@ -186,7 +186,7 @@
       "row": 6,
       "col": 6,
       "length": 5,
-      "clue": "Zar masa oyunu",
+      "clue": "Zar masa oyunu için kullanılan yaygın ifade",
       "answer": "TAVLA"
     },
     {
@@ -195,7 +195,7 @@
       "row": 7,
       "col": 0,
       "length": 4,
-      "clue": "Ev bedeli",
+      "clue": "Bulmacada Ev bedeli karşılığını veren yanıt",
       "answer": "KIRA"
     },
     {
@@ -204,7 +204,7 @@
       "row": 9,
       "col": 2,
       "length": 3,
-      "clue": "Baştaki kıllar",
+      "clue": "Baştaki kıllar anlamına gelen sözcük",
       "answer": "SAÇ"
     }
   ]

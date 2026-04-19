@@ -93,7 +93,7 @@
       "row": 0,
       "col": 3,
       "length": 5,
-      "clue": "Temizlik maddesi",
+      "clue": "Günlük dilde Temizlik maddesi olarak bilinen kavram",
       "answer": "SABUN"
     },
     {
@@ -102,7 +102,7 @@
       "row": 0,
       "col": 5,
       "length": 3,
-      "clue": "Durum, vaziyet",
+      "clue": "Bulmacada Durum ya da vaziyet karşılığını veren yanıt",
       "answer": "HAL"
     },
     {
@@ -111,7 +111,7 @@
       "row": 1,
       "col": 3,
       "length": 4,
-      "clue": "Geniş düzlük",
+      "clue": "Günlük dilde Geniş düzlük olarak bilinen kavram",
       "answer": "ALAN"
     },
     {
@@ -120,7 +120,7 @@
       "row": 2,
       "col": 1,
       "length": 4,
-      "clue": "Kızarmış sandviç",
+      "clue": "Kızarmış sandviç anlamına gelen sözcük",
       "answer": "TOST"
     },
     {
@@ -129,7 +129,7 @@
       "row": 2,
       "col": 7,
       "length": 3,
-      "clue": "Demir korozyonu",
+      "clue": "Demir korozyonu karşılığı olarak kullanılan kelime",
       "answer": "PAS"
     },
     {
@@ -138,7 +138,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "Cevap bekleyen",
+      "clue": "Cevap bekleyen karşılığı olarak kullanılan kelime",
       "answer": "SORU"
     },
     {
@@ -147,7 +147,7 @@
       "row": 4,
       "col": 3,
       "length": 5,
-      "clue": "Soluk alma verme",
+      "clue": "Günlük dilde Soluk alma verme olarak bilinen kavram",
       "answer": "NEFES"
     },
     {
@@ -156,7 +156,7 @@
       "row": 4,
       "col": 4,
       "length": 4,
-      "clue": "Kırmızı meyve",
+      "clue": "Bulmacada Kırmızı meyve karşılığını veren yanıt",
       "answer": "ELMA"
     },
     {

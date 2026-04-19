@@ -103,7 +103,7 @@
       "row": 0,
       "col": 0,
       "length": 5,
-      "clue": "Konum bilgisi",
+      "clue": "Günlük dilde Konum bilgisi olarak bilinen kavram",
       "answer": "ADRES"
     },
     {
@@ -112,7 +112,7 @@
       "row": 0,
       "col": 4,
       "length": 4,
-      "clue": "Zaman ölçer",
+      "clue": "Bulmacada Zaman ölçer karşılığını veren yanıt",
       "answer": "SAAT"
     },
     {
@@ -121,7 +121,7 @@
       "row": 0,
       "col": 6,
       "length": 3,
-      "clue": "Kafa, vücudun üstü",
+      "clue": "Kafa ya da vücudun üstü için kullanılan yaygın ifade",
       "answer": "BAŞ"
     },
     {
@@ -130,7 +130,7 @@
       "row": 1,
       "col": 4,
       "length": 4,
-      "clue": "Hedef, gaye",
+      "clue": "Bulmacada Hedef ya da gaye karşılığını veren yanıt",
       "answer": "AMAÇ"
     },
     {
@@ -139,7 +139,7 @@
       "row": 3,
       "col": 2,
       "length": 3,
-      "clue": "Uzaklaşma eylemi",
+      "clue": "Bulmacada Uzaklaşma eylemi karşılığını veren yanıt",
       "answer": "GİT"
     },
     {
@@ -148,7 +148,7 @@
       "row": 3,
       "col": 2,
       "length": 3,
-      "clue": "Dikenli güzel çiçek",
+      "clue": "Bulmacada Dikenli güzel çiçek karşılığını veren yanıt",
       "answer": "GÜL"
     },
     {
@@ -157,7 +157,7 @@
       "row": 5,
       "col": 0,
       "length": 4,
-      "clue": "Kısa dinlenme",
+      "clue": "Günlük dilde Kısa dinlenme olarak bilinen kavram",
       "answer": "MOLA"
     },
     {
@@ -166,7 +166,7 @@
       "row": 5,
       "col": 1,
       "length": 4,
-      "clue": "Konaklama yeri",
+      "clue": "Bulmacada Konaklama yeri karşılığını veren yanıt",
       "answer": "OTEL"
     },
     {
@@ -175,7 +175,7 @@
       "row": 5,
       "col": 3,
       "length": 4,
-      "clue": "Hafif olmayan",
+      "clue": "Hafif olmayan için kullanılan yaygın ifade",
       "answer": "AĞIR"
     }
   ]

@@ -121,7 +121,7 @@
       "row": 0,
       "col": 2,
       "length": 7,
-      "clue": "Hatıra, armağan",
+      "clue": "Hatıra ya da armağan için kullanılan yaygın ifade",
       "answer": "YADİGAR"
     },
     {
@@ -130,7 +130,7 @@
       "row": 1,
       "col": 1,
       "length": 3,
-      "clue": "İçine konan kab",
+      "clue": "Bulmacada İçine konan kab karşılığını veren yanıt",
       "answer": "KAP"
     },
     {
@@ -139,7 +139,7 @@
       "row": 3,
       "col": 6,
       "length": 3,
-      "clue": "Yüce, büyük",
+      "clue": "Yüce ya da büyük anlamına gelen sözcük",
       "answer": "ULU"
     },
     {
@@ -148,7 +148,7 @@
       "row": 4,
       "col": 0,
       "length": 5,
-      "clue": "Temiz, arı",
+      "clue": "Günlük dilde Temiz ya da arı olarak bilinen kavram",
       "answer": "NEZİH"
     },
     {
@@ -157,7 +157,7 @@
       "row": 4,
       "col": 2,
       "length": 5,
-      "clue": "Habersiz, aymaz",
+      "clue": "Habersiz ya da aymaz anlamına gelen sözcük",
       "answer": "GAFİL"
     },
     {
@@ -166,7 +166,7 @@
       "row": 6,
       "col": 0,
       "length": 3,
-      "clue": "Güç, kolay değil",
+      "clue": "Günlük dilde Güç ya da kolay değil olarak bilinen kavram",
       "answer": "ZOR"
     },
     {
@@ -175,7 +175,7 @@
       "row": 7,
       "col": 3,
       "length": 5,
-      "clue": "Ani vuruş",
+      "clue": "Ani vuruş anlamına gelen sözcük",
       "answer": "DARBE"
     },
     {
@@ -184,7 +184,7 @@
       "row": 8,
       "col": 0,
       "length": 5,
-      "clue": "Gerçek olmayan düş",
+      "clue": "Günlük dilde Gerçek olmayan düş olarak bilinen kavram",
       "answer": "HAYAL"
     },
     {
@@ -193,7 +193,7 @@
       "row": 8,
       "col": 6,
       "length": 4,
-      "clue": "Başarı karşılığı",
+      "clue": "Bulmacada Başarı karşılığı karşılığını veren yanıt",
       "answer": "ÖDÜL"
     },
     {
@@ -202,7 +202,7 @@
       "row": 11,
       "col": 2,
       "length": 5,
-      "clue": "Olgunluk",
+      "clue": "Olgunluk için kullanılan yaygın ifade",
       "answer": "KEMAL"
     }
   ]

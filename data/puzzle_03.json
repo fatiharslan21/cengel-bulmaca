@@ -217,7 +217,7 @@
       "row": 0,
       "col": 5,
       "length": 5,
-      "clue": "Programlanabilir makine",
+      "clue": "Programlanabilir makine için kullanılan yaygın ifade",
       "answer": "ROBOT"
     },
     {
@@ -226,7 +226,7 @@
       "row": 2,
       "col": 0,
       "length": 5,
-      "clue": "Yoğunlaştırılmış ışık ışını",
+      "clue": "Günlük dilde Yoğunlaştırılmış ışık ışını olarak bilinen kavram",
       "answer": "LAZER"
     },
     {
@@ -262,7 +262,7 @@
       "row": 6,
       "col": 0,
       "length": 4,
-      "clue": "Dünya atmosferinin ötesi",
+      "clue": "Bulmacada Dünya atmosferinin ötesi karşılığını veren yanıt",
       "answer": "UZAY"
     },
     {
@@ -271,7 +271,7 @@
       "row": 6,
       "col": 5,
       "length": 6,
-      "clue": "Maddenin dördüncü hali",
+      "clue": "Maddenin dördüncü hali için kullanılan yaygın ifade",
       "answer": "PLAZMA"
     },
     {
@@ -289,7 +289,7 @@
       "row": 8,
       "col": 6,
       "length": 5,
-      "clue": "Işığın en küçük birimi",
+      "clue": "Işığın en küçük birimi anlamına gelen sözcük",
       "answer": "FOTON"
     },
     {

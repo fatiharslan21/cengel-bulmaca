@@ -143,7 +143,7 @@
       "row": 0,
       "col": 7,
       "length": 3,
-      "clue": "Yön değiştir",
+      "clue": "Yön değiştir karşılığı olarak kullanılan kelime",
       "answer": "DÖN"
     },
     {
@@ -152,7 +152,7 @@
       "row": 0,
       "col": 9,
       "length": 3,
-      "clue": "Rüya, hayal",
+      "clue": "Rüya ya da hayal için kullanılan yaygın ifade",
       "answer": "DÜŞ"
     },
     {
@@ -161,7 +161,7 @@
       "row": 1,
       "col": 7,
       "length": 4,
-      "clue": "Yaşam süresi",
+      "clue": "Yaşam süresi karşılığı olarak kullanılan kelime",
       "answer": "ÖMÜR"
     },
     {
@@ -170,7 +170,7 @@
       "row": 2,
       "col": 5,
       "length": 3,
-      "clue": "Göllü doğu ili",
+      "clue": "Göllü doğu ili için kullanılan yaygın ifade",
       "answer": "VAN"
     },
     {
@@ -179,7 +179,7 @@
       "row": 2,
       "col": 6,
       "length": 3,
-      "clue": "Ced, büyükbaba",
+      "clue": "Günlük dilde Ced ya da büyükbaba olarak bilinen kavram",
       "answer": "ATA"
     },
     {
@@ -188,7 +188,7 @@
       "row": 4,
       "col": 3,
       "length": 5,
-      "clue": "Yüzeyin sınırı",
+      "clue": "Günlük dilde Yüzeyin sınırı olarak bilinen kavram",
       "answer": "KENAR"
     },
     {
@@ -197,7 +197,7 @@
       "row": 4,
       "col": 3,
       "length": 6,
-      "clue": "Yük aracı",
+      "clue": "Yük aracı karşılığı olarak kullanılan kelime",
       "answer": "KAMYON"
     },
     {
@@ -206,7 +206,7 @@
       "row": 5,
       "col": 0,
       "length": 4,
-      "clue": "Kötü, berbat",
+      "clue": "Kötü ya da berbat karşılığı olarak kullanılan kelime",
       "answer": "FENA"
     },
     {
@@ -215,7 +215,7 @@
       "row": 6,
       "col": 7,
       "length": 3,
-      "clue": "Ses çıkaran metal",
+      "clue": "Ses çıkaran metal karşılığı olarak kullanılan kelime",
       "answer": "ÇAN"
     },
     {
@@ -224,7 +224,7 @@
       "row": 7,
       "col": 3,
       "length": 6,
-      "clue": "Bitkinin yeşil organı",
+      "clue": "Bitkinin yeşil organı anlamına gelen sözcük",
       "answer": "YAPRAK"
     }
   ]

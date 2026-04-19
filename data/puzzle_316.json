@@ -181,7 +181,7 @@
       "row": 0,
       "col": 2,
       "length": 5,
-      "clue": "Geniş ana yol",
+      "clue": "Geniş ana yol için kullanılan yaygın ifade",
       "answer": "CADDE"
     },
     {
@@ -190,7 +190,7 @@
       "row": 2,
       "col": 0,
       "length": 4,
-      "clue": "Yassı ekmek",
+      "clue": "Bulmacada Yassı ekmek karşılığını veren yanıt",
       "answer": "PİDE"
     },
     {
@@ -199,7 +199,7 @@
       "row": 3,
       "col": 4,
       "length": 6,
-      "clue": "Bina çıkıntısı",
+      "clue": "Bina çıkıntısı karşılığı olarak kullanılan kelime",
       "answer": "BALKON"
     },
     {
@@ -208,7 +208,7 @@
       "row": 4,
       "col": 1,
       "length": 5,
-      "clue": "Hayal, ilüzyon",
+      "clue": "Hayal ya da ilüzyon karşılığı olarak kullanılan kelime",
       "answer": "SERAP"
     },
     {
@@ -217,7 +217,7 @@
       "row": 4,
       "col": 1,
       "length": 4,
-      "clue": "Bitki yapısı",
+      "clue": "Günlük dilde Bitki yapısı olarak bilinen kavram",
       "answer": "SERA"
     },
     {
@@ -226,7 +226,7 @@
       "row": 6,
       "col": 4,
       "length": 4,
-      "clue": "Miyavlayan evcil",
+      "clue": "Miyavlayan evcil anlamına gelen sözcük",
       "answer": "KEDİ"
     },
     {
@@ -244,7 +244,7 @@
       "row": 8,
       "col": 2,
       "length": 4,
-      "clue": "Sivri dikiş aracı",
+      "clue": "Sivri dikiş aracı anlamına gelen sözcük",
       "answer": "İĞNE"
     },
     {
@@ -253,7 +253,7 @@
       "row": 8,
       "col": 10,
       "length": 4,
-      "clue": "Arzu, istek",
+      "clue": "Arzu ya da istek için kullanılan yaygın ifade",
       "answer": "ŞEVK"
     },
     {
@@ -262,7 +262,7 @@
       "row": 9,
       "col": 6,
       "length": 6,
-      "clue": "Ülke yönetimi",
+      "clue": "Ülke yönetimi için kullanılan yaygın ifade",
       "answer": "DEVLET"
     }
   ]

@@ -117,7 +117,7 @@
       "row": 0,
       "col": 2,
       "length": 4,
-      "clue": "Suça yaptırım",
+      "clue": "Bulmacada Suça yaptırım karşılığını veren yanıt",
       "answer": "CEZA"
     },
     {
@@ -126,7 +126,7 @@
       "row": 1,
       "col": 1,
       "length": 5,
-      "clue": "Esenleme sözü",
+      "clue": "Esenleme sözü için kullanılan yaygın ifade",
       "answer": "SELAM"
     },
     {
@@ -135,7 +135,7 @@
       "row": 3,
       "col": 1,
       "length": 5,
-      "clue": "Zaman, süre",
+      "clue": "Bulmacada Zaman ya da süre karşılığını veren yanıt",
       "answer": "VAKİT"
     },
     {
@@ -144,7 +144,7 @@
       "row": 3,
       "col": 3,
       "length": 4,
-      "clue": "Büyük sert taş",
+      "clue": "Büyük sert taş için kullanılan yaygın ifade",
       "answer": "KAYA"
     },
     {
@@ -153,7 +153,7 @@
       "row": 3,
       "col": 5,
       "length": 5,
-      "clue": "İstek",
+      "clue": "Günlük dilde İstek olarak bilinen kavram",
       "answer": "TALEP"
     },
     {
@@ -171,7 +171,7 @@
       "row": 5,
       "col": 1,
       "length": 3,
-      "clue": "Damaktaki lezzet",
+      "clue": "Günlük dilde Damaktaki lezzet olarak bilinen kavram",
       "answer": "TAT"
     },
     {
@@ -180,7 +180,7 @@
       "row": 5,
       "col": 8,
       "length": 3,
-      "clue": "Oyun küpü",
+      "clue": "Günlük dilde Oyun küpü olarak bilinen kavram",
       "answer": "ZAR"
     },
     {
@@ -189,7 +189,7 @@
       "row": 6,
       "col": 0,
       "length": 4,
-      "clue": "Ses, seda",
+      "clue": "Ses ya da seda karşılığı olarak kullanılan kelime",
       "answer": "SADA"
     },
     {
@@ -198,7 +198,7 @@
       "row": 6,
       "col": 5,
       "length": 6,
-      "clue": "Söylence, mit",
+      "clue": "Söylence ya da mit anlamına gelen sözcük",
       "answer": "EFSANE"
     }
   ]

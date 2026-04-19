@@ -104,7 +104,7 @@
       "row": 0,
       "col": 7,
       "length": 4,
-      "clue": "Renk veren madde",
+      "clue": "Günlük dilde Renk veren madde olarak bilinen kavram",
       "answer": "BOYA"
     },
     {
@@ -113,7 +113,7 @@
       "row": 1,
       "col": 7,
       "length": 4,
-      "clue": "Eğlence faaliyeti",
+      "clue": "Bulmacada Eğlence faaliyeti karşılığını veren yanıt",
       "answer": "OYUN"
     },
     {
@@ -122,7 +122,7 @@
       "row": 2,
       "col": 1,
       "length": 4,
-      "clue": "Müzikle hareket",
+      "clue": "Müzikle hareket karşılığı olarak kullanılan kelime",
       "answer": "DANS"
     },
     {
@@ -131,7 +131,7 @@
       "row": 2,
       "col": 3,
       "length": 3,
-      "clue": "Giyside küçük kese",
+      "clue": "Giyside küçük kese karşılığı olarak kullanılan kelime",
       "answer": "CEP"
     },
     {
@@ -140,7 +140,7 @@
       "row": 2,
       "col": 5,
       "length": 5,
-      "clue": "Hayal ürünü hikaye",
+      "clue": "Hayal ürünü hikaye karşılığı olarak kullanılan kelime",
       "answer": "MASAL"
     },
     {
@@ -149,7 +149,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "Çukur yemek kabı",
+      "clue": "Çukur yemek kabı anlamına gelen sözcük",
       "answer": "KASE"
     },
     {
@@ -167,7 +167,7 @@
       "row": 4,
       "col": 3,
       "length": 3,
-      "clue": "Demir korozyonu",
+      "clue": "Demir korozyonu karşılığı olarak kullanılan kelime",
       "answer": "PAS"
     },
     {
@@ -176,7 +176,7 @@
       "row": 6,
       "col": 2,
       "length": 5,
-      "clue": "Ekin alanı",
+      "clue": "Ekin alanı anlamına gelen sözcük",
       "answer": "TARLA"
     }
   ]

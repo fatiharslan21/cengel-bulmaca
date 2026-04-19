@@ -130,7 +130,7 @@
       "row": 0,
       "col": 1,
       "length": 5,
-      "clue": "Esas, kök",
+      "clue": "Esas ya da kök anlamına gelen sözcük",
       "answer": "TEMEL"
     },
     {
@@ -139,7 +139,7 @@
       "row": 1,
       "col": 0,
       "length": 6,
-      "clue": "Daire çevresi",
+      "clue": "Daire çevresi anlamına gelen sözcük",
       "answer": "ÇEMBER"
     },
     {
@@ -148,7 +148,7 @@
       "row": 1,
       "col": 3,
       "length": 3,
-      "clue": "Arı ürünü tatlı",
+      "clue": "Arı ürünü tatlı için kullanılan yaygın ifade",
       "answer": "BAL"
     },
     {
@@ -157,7 +157,7 @@
       "row": 1,
       "col": 5,
       "length": 4,
-      "clue": "Tesadüf, denk gelme",
+      "clue": "Tesadüf ya da denk gelme anlamına gelen sözcük",
       "answer": "RAST"
     },
     {
@@ -166,7 +166,7 @@
       "row": 1,
       "col": 9,
       "length": 3,
-      "clue": "Sıcak içecek",
+      "clue": "Günlük dilde Sıcak içecek olarak bilinen kavram",
       "answer": "ÇAY"
     },
     {
@@ -175,7 +175,7 @@
       "row": 3,
       "col": 5,
       "length": 6,
-      "clue": "Kısa an",
+      "clue": "Kısa an anlamına gelen sözcük",
       "answer": "SANİYE"
     },
     {
@@ -184,7 +184,7 @@
       "row": 3,
       "col": 8,
       "length": 4,
-      "clue": "Sivri dikiş aracı",
+      "clue": "Sivri dikiş aracı anlamına gelen sözcük",
       "answer": "İĞNE"
     },
     {
@@ -193,7 +193,7 @@
       "row": 3,
       "col": 10,
       "length": 4,
-      "clue": "Terbiye, görgü",
+      "clue": "Terbiye ya da görgü karşılığı olarak kullanılan kelime",
       "answer": "EDEP"
     },
     {
@@ -202,7 +202,7 @@
       "row": 5,
       "col": 4,
       "length": 4,
-      "clue": "Rakam ifadesi",
+      "clue": "Bulmacada Rakam ifadesi karşılığını veren yanıt",
       "answer": "SAYI"
     },
     {
@@ -211,7 +211,7 @@
       "row": 6,
       "col": 3,
       "length": 6,
-      "clue": "Boşuna, yararsız",
+      "clue": "Boşuna ya da yararsız için kullanılan yaygın ifade",
       "answer": "NAFİLE"
     }
   ]

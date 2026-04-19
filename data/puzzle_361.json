@@ -134,7 +134,7 @@
       "row": 0,
       "col": 3,
       "length": 6,
-      "clue": "Yırtıcı büyük kuş",
+      "clue": "Yırtıcı büyük kuş için kullanılan yaygın ifade",
       "answer": "KARTAL"
     },
     {
@@ -143,7 +143,7 @@
       "row": 1,
       "col": 2,
       "length": 3,
-      "clue": "Sıcak mevsim",
+      "clue": "Bulmacada Sıcak mevsim karşılığını veren yanıt",
       "answer": "YAZ"
     },
     {
@@ -152,7 +152,7 @@
       "row": 3,
       "col": 5,
       "length": 4,
-      "clue": "Toprak eşme",
+      "clue": "Bulmacada Toprak eşme karşılığını veren yanıt",
       "answer": "KAZI"
     },
     {
@@ -161,7 +161,7 @@
       "row": 3,
       "col": 5,
       "length": 4,
-      "clue": "Zarif su kuşu",
+      "clue": "Günlük dilde Zarif su kuşu olarak bilinen kavram",
       "answer": "KUĞU"
     },
     {
@@ -179,7 +179,7 @@
       "row": 5,
       "col": 1,
       "length": 3,
-      "clue": "Yaklaşma eylemi",
+      "clue": "Yaklaşma eylemi karşılığı olarak kullanılan kelime",
       "answer": "GEL"
     },
     {
@@ -188,7 +188,7 @@
       "row": 5,
       "col": 1,
       "length": 6,
-      "clue": "Konular listesi",
+      "clue": "Konular listesi için kullanılan yaygın ifade",
       "answer": "GÜNDEM"
     },
     {
@@ -197,7 +197,7 @@
       "row": 5,
       "col": 5,
       "length": 3,
-      "clue": "Oyun küpü",
+      "clue": "Günlük dilde Oyun küpü olarak bilinen kavram",
       "answer": "ZAR"
     },
     {
@@ -206,7 +206,7 @@
       "row": 8,
       "col": 0,
       "length": 4,
-      "clue": "Terbiye, görgü",
+      "clue": "Terbiye ya da görgü karşılığı olarak kullanılan kelime",
       "answer": "EDEP"
     },
     {
@@ -215,7 +215,7 @@
       "row": 10,
       "col": 1,
       "length": 4,
-      "clue": "Geçmiş zaman",
+      "clue": "Geçmiş zaman karşılığı olarak kullanılan kelime",
       "answer": "MAZİ"
     }
   ]

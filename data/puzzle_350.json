@@ -130,7 +130,7 @@
       "row": 0,
       "col": 5,
       "length": 4,
-      "clue": "Keder, acı",
+      "clue": "Keder ya da acı karşılığı olarak kullanılan kelime",
       "answer": "ELEM"
     },
     {
@@ -139,7 +139,7 @@
       "row": 0,
       "col": 5,
       "length": 4,
-      "clue": "Yük hayvanı",
+      "clue": "Yük hayvanı için kullanılan yaygın ifade",
       "answer": "EŞEK"
     },
     {
@@ -148,7 +148,7 @@
       "row": 1,
       "col": 3,
       "length": 3,
-      "clue": "Vücudun orta bölümü",
+      "clue": "Bulmacada Vücudun orta bölümü karşılığını veren yanıt",
       "answer": "BEL"
     },
     {
@@ -157,7 +157,7 @@
       "row": 1,
       "col": 3,
       "length": 3,
-      "clue": "Çok miktarda",
+      "clue": "Çok miktarda karşılığı olarak kullanılan kelime",
       "answer": "BOL"
     },
     {
@@ -166,7 +166,7 @@
       "row": 2,
       "col": 8,
       "length": 6,
-      "clue": "Orta nokta",
+      "clue": "Bulmacada Orta nokta karşılığını veren yanıt",
       "answer": "MERKEZ"
     },
     {
@@ -175,7 +175,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "Yöntem, tarz",
+      "clue": "Bulmacada Yöntem ya da tarz karşılığını veren yanıt",
       "answer": "USUL"
     },
     {
@@ -184,7 +184,7 @@
       "row": 3,
       "col": 5,
       "length": 5,
-      "clue": "Yas, acı",
+      "clue": "Bulmacada Yas ya da acı karşılığını veren yanıt",
       "answer": "MATEM"
     },
     {
@@ -193,7 +193,7 @@
       "row": 5,
       "col": 6,
       "length": 4,
-      "clue": "Burnun algısı",
+      "clue": "Günlük dilde Burnun algısı olarak bilinen kavram",
       "answer": "KOKU"
     },
     {
@@ -202,7 +202,7 @@
       "row": 5,
       "col": 6,
       "length": 4,
-      "clue": "Yüksek yapı",
+      "clue": "Bulmacada Yüksek yapı karşılığını veren yanıt",
       "answer": "KULE"
     },
     {
@@ -211,7 +211,7 @@
       "row": 7,
       "col": 8,
       "length": 3,
-      "clue": "Oyun küpü",
+      "clue": "Günlük dilde Oyun küpü olarak bilinen kavram",
       "answer": "ZAR"
     }
   ]

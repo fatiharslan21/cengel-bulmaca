@@ -142,7 +142,7 @@
       "row": 0,
       "col": 3,
       "length": 5,
-      "clue": "Mektup servisi",
+      "clue": "Mektup servisi için kullanılan yaygın ifade",
       "answer": "POSTA"
     },
     {
@@ -151,7 +151,7 @@
       "row": 0,
       "col": 7,
       "length": 3,
-      "clue": "Üstün karşıtı",
+      "clue": "Bulmacada Üstün karşıtı karşılığını veren yanıt",
       "answer": "ALT"
     },
     {
@@ -160,7 +160,7 @@
       "row": 2,
       "col": 1,
       "length": 5,
-      "clue": "Sayfalardan eser",
+      "clue": "Sayfalardan eser karşılığı olarak kullanılan kelime",
       "answer": "KİTAP"
     },
     {
@@ -169,7 +169,7 @@
       "row": 2,
       "col": 1,
       "length": 3,
-      "clue": "Yanık kalıntısı",
+      "clue": "Yanık kalıntısı için kullanılan yaygın ifade",
       "answer": "KÜL"
     },
     {
@@ -178,7 +178,7 @@
       "row": 4,
       "col": 4,
       "length": 5,
-      "clue": "İple oynatılan",
+      "clue": "İple oynatılan karşılığı olarak kullanılan kelime",
       "answer": "KUKLA"
     },
     {
@@ -187,7 +187,7 @@
       "row": 5,
       "col": 0,
       "length": 6,
-      "clue": "Gökten su damlaları",
+      "clue": "Gökten su damlaları için kullanılan yaygın ifade",
       "answer": "YAĞMUR"
     },
     {
@@ -196,7 +196,7 @@
       "row": 8,
       "col": 3,
       "length": 4,
-      "clue": "Sıkıntı, üzüntü",
+      "clue": "Günlük dilde Sıkıntı ya da üzüntü olarak bilinen kavram",
       "answer": "DERT"
     },
     {
@@ -205,7 +205,7 @@
       "row": 8,
       "col": 3,
       "length": 3,
-      "clue": "Ağacın kolu",
+      "clue": "Bulmacada Ağacın kolu karşılığını veren yanıt",
       "answer": "DAL"
     },
     {
@@ -214,7 +214,7 @@
       "row": 10,
       "col": 1,
       "length": 4,
-      "clue": "Küçük kemirgen",
+      "clue": "Küçük kemirgen karşılığı olarak kullanılan kelime",
       "answer": "FARE"
     }
   ]

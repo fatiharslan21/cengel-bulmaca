@@ -121,7 +121,7 @@
       "row": 0,
       "col": 1,
       "length": 4,
-      "clue": "Türk simgesi çiçek",
+      "clue": "Türk simgesi çiçek için kullanılan yaygın ifade",
       "answer": "LALE"
     },
     {
@@ -130,7 +130,7 @@
       "row": 1,
       "col": 0,
       "length": 5,
-      "clue": "Maç yöneticisi",
+      "clue": "Bulmacada Maç yöneticisi karşılığını veren yanıt",
       "answer": "HAKEM"
     },
     {
@@ -139,7 +139,7 @@
       "row": 1,
       "col": 4,
       "length": 5,
-      "clue": "Seslerle sanat",
+      "clue": "Bulmacada Seslerle sanat karşılığını veren yanıt",
       "answer": "MÜZİK"
     },
     {
@@ -148,7 +148,7 @@
       "row": 3,
       "col": 4,
       "length": 3,
-      "clue": "Güç, kolay değil",
+      "clue": "Günlük dilde Güç ya da kolay değil olarak bilinen kavram",
       "answer": "ZOR"
     },
     {
@@ -157,7 +157,7 @@
       "row": 4,
       "col": 7,
       "length": 5,
-      "clue": "Yeni bilgi",
+      "clue": "Günlük dilde Yeni bilgi olarak bilinen kavram",
       "answer": "HABER"
     },
     {
@@ -166,7 +166,7 @@
       "row": 4,
       "col": 7,
       "length": 3,
-      "clue": "Durum, vaziyet",
+      "clue": "Bulmacada Durum ya da vaziyet karşılığını veren yanıt",
       "answer": "HAL"
     },
     {
@@ -175,7 +175,7 @@
       "row": 5,
       "col": 4,
       "length": 4,
-      "clue": "Ödül bardağı",
+      "clue": "Ödül bardağı anlamına gelen sözcük",
       "answer": "KUPA"
     },
     {
@@ -184,7 +184,7 @@
       "row": 5,
       "col": 5,
       "length": 4,
-      "clue": "Havada uçan taşıt",
+      "clue": "Havada uçan taşıt karşılığı olarak kullanılan kelime",
       "answer": "UÇAK"
     },
     {
@@ -193,7 +193,7 @@
       "row": 7,
       "col": 2,
       "length": 4,
-      "clue": "Kuş evi",
+      "clue": "Kuş evi için kullanılan yaygın ifade",
       "answer": "YUVA"
     }
   ]

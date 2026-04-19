@@ -112,7 +112,7 @@
       "row": 0,
       "col": 4,
       "length": 4,
-      "clue": "Konaklama yeri",
+      "clue": "Bulmacada Konaklama yeri karşılığını veren yanıt",
       "answer": "OTEL"
     },
     {
@@ -121,7 +121,7 @@
       "row": 0,
       "col": 6,
       "length": 4,
-      "clue": "Müzik işareti",
+      "clue": "Müzik işareti için kullanılan yaygın ifade",
       "answer": "NOTA"
     },
     {
@@ -130,7 +130,7 @@
       "row": 1,
       "col": 2,
       "length": 6,
-      "clue": "Popüler top oyunu",
+      "clue": "Bulmacada Popüler top oyunu karşılığını veren yanıt",
       "answer": "FUTBOL"
     },
     {
@@ -139,7 +139,7 @@
       "row": 3,
       "col": 2,
       "length": 3,
-      "clue": "Omuz örtüsü",
+      "clue": "Omuz örtüsü anlamına gelen sözcük",
       "answer": "ŞAL"
     },
     {
@@ -148,7 +148,7 @@
       "row": 3,
       "col": 2,
       "length": 3,
-      "clue": "Lider, baş aşçı",
+      "clue": "Günlük dilde Lider ya da baş aşçı olarak bilinen kavram",
       "answer": "ŞEF"
     },
     {
@@ -157,7 +157,7 @@
       "row": 3,
       "col": 6,
       "length": 3,
-      "clue": "Sunma, takdim",
+      "clue": "Sunma ya da takdim anlamına gelen sözcük",
       "answer": "ARZ"
     },
     {
@@ -166,7 +166,7 @@
       "row": 4,
       "col": 5,
       "length": 5,
-      "clue": "Söz, laf",
+      "clue": "Söz ya da laf karşılığı olarak kullanılan kelime",
       "answer": "KELAM"
     },
     {
@@ -175,7 +175,7 @@
       "row": 5,
       "col": 0,
       "length": 6,
-      "clue": "Boşuna, yararsız",
+      "clue": "Boşuna ya da yararsız için kullanılan yaygın ifade",
       "answer": "NAFİLE"
     },
     {
@@ -184,7 +184,7 @@
       "row": 6,
       "col": 7,
       "length": 3,
-      "clue": "Kafa, vücudun üstü",
+      "clue": "Kafa ya da vücudun üstü için kullanılan yaygın ifade",
       "answer": "BAŞ"
     },
     {
@@ -193,7 +193,7 @@
       "row": 7,
       "col": 4,
       "length": 4,
-      "clue": "Ses, seda",
+      "clue": "Ses ya da seda karşılığı olarak kullanılan kelime",
       "answer": "SADA"
     }
   ]

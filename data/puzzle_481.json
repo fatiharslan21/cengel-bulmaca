@@ -145,7 +145,7 @@
       "row": 0,
       "col": 1,
       "length": 3,
-      "clue": "Beyaz yağış",
+      "clue": "Beyaz yağış için kullanılan yaygın ifade",
       "answer": "KAR"
     },
     {
@@ -163,7 +163,7 @@
       "row": 1,
       "col": 0,
       "length": 5,
-      "clue": "Katlanma, dayanma",
+      "clue": "Bulmacada Katlanma ya da dayanma karşılığını veren yanıt",
       "answer": "SABIR"
     },
     {
@@ -172,7 +172,7 @@
       "row": 1,
       "col": 4,
       "length": 5,
-      "clue": "Hasım, muhalif",
+      "clue": "Hasım ya da muhalif için kullanılan yaygın ifade",
       "answer": "RAKİP"
     },
     {
@@ -181,7 +181,7 @@
       "row": 1,
       "col": 6,
       "length": 3,
-      "clue": "Tatlının zıttı",
+      "clue": "Bulmacada Tatlının zıttı karşılığını veren yanıt",
       "answer": "ACI"
     },
     {
@@ -190,7 +190,7 @@
       "row": 3,
       "col": 2,
       "length": 5,
-      "clue": "En küçük işaret",
+      "clue": "En küçük işaret için kullanılan yaygın ifade",
       "answer": "NOKTA"
     },
     {
@@ -208,7 +208,7 @@
       "row": 5,
       "col": 7,
       "length": 3,
-      "clue": "Ağacın kolu",
+      "clue": "Bulmacada Ağacın kolu karşılığını veren yanıt",
       "answer": "DAL"
     },
     {
@@ -217,7 +217,7 @@
       "row": 7,
       "col": 5,
       "length": 3,
-      "clue": "Seramik toprağı",
+      "clue": "Seramik toprağı karşılığı olarak kullanılan kelime",
       "answer": "KİL"
     },
     {
@@ -226,7 +226,7 @@
       "row": 7,
       "col": 5,
       "length": 5,
-      "clue": "İki yakayı birleştiren",
+      "clue": "İki yakayı birleştiren için kullanılan yaygın ifade",
       "answer": "KÖPRÜ"
     }
   ]

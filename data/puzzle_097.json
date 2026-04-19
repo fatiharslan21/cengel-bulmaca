@@ -94,7 +94,7 @@
       "row": 0,
       "col": 3,
       "length": 5,
-      "clue": "Bitkinin renkli kısmı",
+      "clue": "Bulmacada Bitkinin renkli kısmı karşılığını veren yanıt",
       "answer": "ÇİÇEK"
     },
     {
@@ -103,7 +103,7 @@
       "row": 0,
       "col": 6,
       "length": 4,
-      "clue": "Sanat yapıtı",
+      "clue": "Bulmacada Sanat yapıtı karşılığını veren yanıt",
       "answer": "ESER"
     },
     {
@@ -112,7 +112,7 @@
       "row": 1,
       "col": 2,
       "length": 3,
-      "clue": "Asla, kesinlikle hayır",
+      "clue": "Bulmacada Asla ya da kesinlikle hayır karşılığını veren yanıt",
       "answer": "HİÇ"
     },
     {
@@ -121,7 +121,7 @@
       "row": 3,
       "col": 0,
       "length": 3,
-      "clue": "Devir, dönem",
+      "clue": "Devir ya da dönem karşılığı olarak kullanılan kelime",
       "answer": "ÇAĞ"
     },
     {
@@ -130,7 +130,7 @@
       "row": 3,
       "col": 3,
       "length": 4,
-      "clue": "Buyruk, komut",
+      "clue": "Günlük dilde Buyruk ya da komut olarak bilinen kavram",
       "answer": "EMİR"
     },
     {
@@ -139,7 +139,7 @@
       "row": 4,
       "col": 0,
       "length": 4,
-      "clue": "Bacak ucu",
+      "clue": "Günlük dilde Bacak ucu olarak bilinen kavram",
       "answer": "AYAK"
     },
     {
@@ -148,7 +148,7 @@
       "row": 4,
       "col": 2,
       "length": 5,
-      "clue": "Dört tekerlekli taşıt",
+      "clue": "Bulmacada Dört tekerlekli taşıt karşılığını veren yanıt",
       "answer": "ARABA"
     },
     {
@@ -157,7 +157,7 @@
       "row": 6,
       "col": 1,
       "length": 3,
-      "clue": "Ömür süresi",
+      "clue": "Ömür süresi anlamına gelen sözcük",
       "answer": "YAŞ"
     },
     {
@@ -166,7 +166,7 @@
       "row": 8,
       "col": 1,
       "length": 3,
-      "clue": "Adalet, doğruluk",
+      "clue": "Bulmacada Adalet ya da doğruluk karşılığını veren yanıt",
       "answer": "HAK"
     }
   ]

@@ -157,7 +157,7 @@
       "row": 0,
       "col": 2,
       "length": 5,
-      "clue": "Deniz kıyısı",
+      "clue": "Bulmacada Deniz kıyısı karşılığını veren yanıt",
       "answer": "SAHİL"
     },
     {
@@ -166,7 +166,7 @@
       "row": 0,
       "col": 8,
       "length": 4,
-      "clue": "Müzik işareti",
+      "clue": "Müzik işareti için kullanılan yaygın ifade",
       "answer": "NOTA"
     },
     {
@@ -175,7 +175,7 @@
       "row": 3,
       "col": 4,
       "length": 4,
-      "clue": "Miyavlayan evcil",
+      "clue": "Miyavlayan evcil anlamına gelen sözcük",
       "answer": "KEDİ"
     },
     {
@@ -184,7 +184,7 @@
       "row": 3,
       "col": 4,
       "length": 5,
-      "clue": "İple oynatılan",
+      "clue": "İple oynatılan karşılığı olarak kullanılan kelime",
       "answer": "KUKLA"
     },
     {
@@ -193,7 +193,7 @@
       "row": 4,
       "col": 0,
       "length": 5,
-      "clue": "Işık arkası",
+      "clue": "Işık arkası için kullanılan yaygın ifade",
       "answer": "GÖLGE"
     },
     {
@@ -202,7 +202,7 @@
       "row": 5,
       "col": 6,
       "length": 4,
-      "clue": "Suça yaptırım",
+      "clue": "Bulmacada Suça yaptırım karşılığını veren yanıt",
       "answer": "CEZA"
     },
     {
@@ -211,7 +211,7 @@
       "row": 6,
       "col": 3,
       "length": 4,
-      "clue": "Yassı ekmek",
+      "clue": "Bulmacada Yassı ekmek karşılığını veren yanıt",
       "answer": "PİDE"
     },
     {
@@ -220,7 +220,7 @@
       "row": 8,
       "col": 5,
       "length": 4,
-      "clue": "Yapışkan şerit",
+      "clue": "Yapışkan şerit karşılığı olarak kullanılan kelime",
       "answer": "BANT"
     },
     {
@@ -229,7 +229,7 @@
       "row": 8,
       "col": 8,
       "length": 4,
-      "clue": "Bağlama aracı",
+      "clue": "Bağlama aracı anlamına gelen sözcük",
       "answer": "TOKA"
     },
     {

@@ -109,7 +109,7 @@
       "row": 0,
       "col": 4,
       "length": 4,
-      "clue": "Yapılması gereken iş",
+      "clue": "Yapılması gereken iş için kullanılan yaygın ifade",
       "answer": "ÖDEV"
     },
     {
@@ -118,7 +118,7 @@
       "row": 0,
       "col": 4,
       "length": 4,
-      "clue": "Yaşam süresi",
+      "clue": "Yaşam süresi karşılığı olarak kullanılan kelime",
       "answer": "ÖMÜR"
     },
     {
@@ -127,7 +127,7 @@
       "row": 0,
       "col": 6,
       "length": 5,
-      "clue": "En sert taş",
+      "clue": "En sert taş karşılığı olarak kullanılan kelime",
       "answer": "ELMAS"
     },
     {
@@ -136,7 +136,7 @@
       "row": 2,
       "col": 8,
       "length": 3,
-      "clue": "Hayat, yaşam",
+      "clue": "Hayat ya da yaşam anlamına gelen sözcük",
       "answer": "CAN"
     },
     {
@@ -145,7 +145,7 @@
       "row": 3,
       "col": 2,
       "length": 3,
-      "clue": "Mekan, konum",
+      "clue": "Günlük dilde Mekan ya da konum olarak bilinen kavram",
       "answer": "YER"
     },
     {
@@ -154,7 +154,7 @@
       "row": 3,
       "col": 3,
       "length": 5,
-      "clue": "Temel buğday gıdası",
+      "clue": "Temel buğday gıdası anlamına gelen sözcük",
       "answer": "EKMEK"
     },
     {
@@ -163,7 +163,7 @@
       "row": 3,
       "col": 6,
       "length": 4,
-      "clue": "Hedef, gaye",
+      "clue": "Bulmacada Hedef ya da gaye karşılığını veren yanıt",
       "answer": "AMAÇ"
     },
     {
@@ -172,7 +172,7 @@
       "row": 6,
       "col": 0,
       "length": 4,
-      "clue": "Adet, parça",
+      "clue": "Günlük dilde Adet ya da parça olarak bilinen kavram",
       "answer": "TANE"
     },
     {
@@ -181,7 +181,7 @@
       "row": 7,
       "col": 3,
       "length": 5,
-      "clue": "İki yakayı birleştiren",
+      "clue": "İki yakayı birleştiren için kullanılan yaygın ifade",
       "answer": "KÖPRÜ"
     }
   ]

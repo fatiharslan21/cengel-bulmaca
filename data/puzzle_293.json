@@ -156,7 +156,7 @@
       "row": 0,
       "col": 1,
       "length": 4,
-      "clue": "Çukur yemek kabı",
+      "clue": "Çukur yemek kabı anlamına gelen sözcük",
       "answer": "KASE"
     },
     {
@@ -165,7 +165,7 @@
       "row": 1,
       "col": 0,
       "length": 4,
-      "clue": "Müzikle hareket",
+      "clue": "Müzikle hareket karşılığı olarak kullanılan kelime",
       "answer": "DANS"
     },
     {
@@ -174,7 +174,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "Küçük yükselti",
+      "clue": "Bulmacada Küçük yükselti karşılığını veren yanıt",
       "answer": "TEPE"
     },
     {
@@ -183,7 +183,7 @@
       "row": 3,
       "col": 3,
       "length": 4,
-      "clue": "Özlenen istek",
+      "clue": "Özlenen istek için kullanılan yaygın ifade",
       "answer": "EMEL"
     },
     {
@@ -192,7 +192,7 @@
       "row": 3,
       "col": 6,
       "length": 5,
-      "clue": "Kabir",
+      "clue": "Kabir için kullanılan yaygın ifade",
       "answer": "MEZAR"
     },
     {
@@ -201,7 +201,7 @@
       "row": 4,
       "col": 3,
       "length": 5,
-      "clue": "Kanatlı kutsal varlık",
+      "clue": "Bulmacada Kanatlı kutsal varlık karşılığını veren yanıt",
       "answer": "MELEK"
     },
     {
@@ -210,7 +210,7 @@
       "row": 5,
       "col": 0,
       "length": 4,
-      "clue": "Amaç, maksat",
+      "clue": "Amaç ya da maksat için kullanılan yaygın ifade",
       "answer": "GAYE"
     },
     {
@@ -219,7 +219,7 @@
       "row": 5,
       "col": 1,
       "length": 6,
-      "clue": "Başkent",
+      "clue": "Başkent karşılığı olarak kullanılan kelime",
       "answer": "ANKARA"
     },
     {
@@ -228,7 +228,7 @@
       "row": 6,
       "col": 9,
       "length": 3,
-      "clue": "Ün, şöhret",
+      "clue": "Günlük dilde Ün ya da şöhret olarak bilinen kavram",
       "answer": "ŞAN"
     },
     {
@@ -237,7 +237,7 @@
       "row": 7,
       "col": 6,
       "length": 5,
-      "clue": "Bolluk, huzur",
+      "clue": "Bolluk ya da huzur için kullanılan yaygın ifade",
       "answer": "REFAH"
     }
   ]

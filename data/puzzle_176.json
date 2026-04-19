@@ -130,7 +130,7 @@
       "row": 0,
       "col": 6,
       "length": 4,
-      "clue": "Ödül bardağı",
+      "clue": "Ödül bardağı anlamına gelen sözcük",
       "answer": "KUPA"
     },
     {
@@ -139,7 +139,7 @@
       "row": 0,
       "col": 8,
       "length": 3,
-      "clue": "Donmuş su",
+      "clue": "Donmuş su anlamına gelen sözcük",
       "answer": "BUZ"
     },
     {
@@ -148,7 +148,7 @@
       "row": 0,
       "col": 8,
       "length": 4,
-      "clue": "Zodyak işareti",
+      "clue": "Günlük dilde Zodyak işareti olarak bilinen kavram",
       "answer": "BURÇ"
     },
     {
@@ -157,7 +157,7 @@
       "row": 1,
       "col": 3,
       "length": 4,
-      "clue": "Eşya kabı",
+      "clue": "Eşya kabı karşılığı olarak kullanılan kelime",
       "answer": "KUTU"
     },
     {
@@ -166,7 +166,7 @@
       "row": 2,
       "col": 6,
       "length": 4,
-      "clue": "Yeşil alan",
+      "clue": "Günlük dilde Yeşil alan olarak bilinen kavram",
       "answer": "PARK"
     },
     {
@@ -175,7 +175,7 @@
       "row": 3,
       "col": 2,
       "length": 5,
-      "clue": "En küçük işaret",
+      "clue": "En küçük işaret için kullanılan yaygın ifade",
       "answer": "NOKTA"
     },
     {
@@ -184,7 +184,7 @@
       "row": 3,
       "col": 4,
       "length": 5,
-      "clue": "Yazı aleti",
+      "clue": "Günlük dilde Yazı aleti olarak bilinen kavram",
       "answer": "KALEM"
     },
     {
@@ -193,7 +193,7 @@
       "row": 5,
       "col": 1,
       "length": 5,
-      "clue": "İple oynatılan",
+      "clue": "İple oynatılan karşılığı olarak kullanılan kelime",
       "answer": "KUKLA"
     },
     {
@@ -202,7 +202,7 @@
       "row": 5,
       "col": 1,
       "length": 4,
-      "clue": "Yüzeylerin birleşimi",
+      "clue": "Günlük dilde Yüzeylerin birleşimi olarak bilinen kavram",
       "answer": "KÖŞE"
     },
     {
@@ -211,7 +211,7 @@
       "row": 8,
       "col": 0,
       "length": 3,
-      "clue": "Vücudun orta bölümü",
+      "clue": "Bulmacada Vücudun orta bölümü karşılığını veren yanıt",
       "answer": "BEL"
     }
   ]

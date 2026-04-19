@@ -101,7 +101,7 @@
       "row": 0,
       "col": 1,
       "length": 4,
-      "clue": "Baş, kelle",
+      "clue": "Baş ya da kelle için kullanılan yaygın ifade",
       "answer": "KAFA"
     },
     {
@@ -110,7 +110,7 @@
       "row": 1,
       "col": 0,
       "length": 3,
-      "clue": "Oyun küpü",
+      "clue": "Günlük dilde Oyun küpü olarak bilinen kavram",
       "answer": "ZAR"
     },
     {
@@ -119,7 +119,7 @@
       "row": 3,
       "col": 0,
       "length": 3,
-      "clue": "Adalet, doğruluk",
+      "clue": "Bulmacada Adalet ya da doğruluk karşılığını veren yanıt",
       "answer": "HAK"
     },
     {
@@ -128,7 +128,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "Ev, konut",
+      "clue": "Ev ya da konut karşılığı olarak kullanılan kelime",
       "answer": "HANE"
     },
     {
@@ -137,7 +137,7 @@
       "row": 3,
       "col": 2,
       "length": 3,
-      "clue": "Üst beden uzvu",
+      "clue": "Günlük dilde Üst beden uzvu olarak bilinen kavram",
       "answer": "KOL"
     },
     {
@@ -146,7 +146,7 @@
       "row": 3,
       "col": 5,
       "length": 5,
-      "clue": "Ekin alanı",
+      "clue": "Ekin alanı anlamına gelen sözcük",
       "answer": "TARLA"
     },
     {
@@ -155,7 +155,7 @@
       "row": 4,
       "col": 2,
       "length": 5,
-      "clue": "Vücut bölümü",
+      "clue": "Vücut bölümü karşılığı olarak kullanılan kelime",
       "answer": "ORGAN"
     },
     {
@@ -173,7 +173,7 @@
       "row": 7,
       "col": 4,
       "length": 5,
-      "clue": "Hükümdar konutu",
+      "clue": "Hükümdar konutu anlamına gelen sözcük",
       "answer": "SARAY"
     }
   ]

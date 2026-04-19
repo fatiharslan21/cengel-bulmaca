@@ -139,7 +139,7 @@
       "row": 0,
       "col": 5,
       "length": 4,
-      "clue": "Solunan gaz",
+      "clue": "Solunan gaz anlamına gelen sözcük",
       "answer": "HAVA"
     },
     {
@@ -148,7 +148,7 @@
       "row": 1,
       "col": 1,
       "length": 6,
-      "clue": "Sevgi, acıma",
+      "clue": "Bulmacada Sevgi ya da acıma karşılığını veren yanıt",
       "answer": "ŞEFKAT"
     },
     {
@@ -157,7 +157,7 @@
       "row": 3,
       "col": 0,
       "length": 3,
-      "clue": "Sıcak mevsim",
+      "clue": "Bulmacada Sıcak mevsim karşılığını veren yanıt",
       "answer": "YAZ"
     },
     {
@@ -166,7 +166,7 @@
       "row": 3,
       "col": 4,
       "length": 5,
-      "clue": "Evin yeşil alanı",
+      "clue": "Evin yeşil alanı anlamına gelen sözcük",
       "answer": "BAHÇE"
     },
     {
@@ -175,7 +175,7 @@
       "row": 3,
       "col": 7,
       "length": 5,
-      "clue": "Bitkinin renkli kısmı",
+      "clue": "Bulmacada Bitkinin renkli kısmı karşılığını veren yanıt",
       "answer": "ÇİÇEK"
     },
     {
@@ -184,7 +184,7 @@
       "row": 4,
       "col": 3,
       "length": 5,
-      "clue": "Geniş ana yol",
+      "clue": "Geniş ana yol için kullanılan yaygın ifade",
       "answer": "CADDE"
     },
     {
@@ -193,7 +193,7 @@
       "row": 5,
       "col": 0,
       "length": 5,
-      "clue": "Yok olma",
+      "clue": "Bulmacada Yok olma karşılığını veren yanıt",
       "answer": "ZEVAL"
     },
     {
@@ -202,7 +202,7 @@
       "row": 5,
       "col": 1,
       "length": 4,
-      "clue": "Karşılık, sevap",
+      "clue": "Bulmacada Karşılık ya da sevap karşılığını veren yanıt",
       "answer": "ECİR"
     },
     {
@@ -220,7 +220,7 @@
       "row": 7,
       "col": 3,
       "length": 5,
-      "clue": "Üflemeli ses aleti",
+      "clue": "Üflemeli ses aleti karşılığı olarak kullanılan kelime",
       "answer": "DÜDÜK"
     }
   ]

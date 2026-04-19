@@ -133,7 +133,7 @@
       "row": 0,
       "col": 0,
       "length": 6,
-      "clue": "Güçlük, eziyet",
+      "clue": "Güçlük ya da eziyet anlamına gelen sözcük",
       "answer": "ZAHMET"
     },
     {
@@ -142,7 +142,7 @@
       "row": 0,
       "col": 3,
       "length": 5,
-      "clue": "İyi haber",
+      "clue": "İyi haber anlamına gelen sözcük",
       "answer": "MÜJDE"
     },
     {
@@ -151,7 +151,7 @@
       "row": 0,
       "col": 5,
       "length": 4,
-      "clue": "Uyan, bağlı",
+      "clue": "Uyan ya da bağlı karşılığı olarak kullanılan kelime",
       "answer": "TABİ"
     },
     {
@@ -160,7 +160,7 @@
       "row": 3,
       "col": 1,
       "length": 4,
-      "clue": "Hörgüçlü hayvan",
+      "clue": "Hörgüçlü hayvan için kullanılan yaygın ifade",
       "answer": "DEVE"
     },
     {
@@ -169,7 +169,7 @@
       "row": 4,
       "col": 1,
       "length": 4,
-      "clue": "Ölüm vakti",
+      "clue": "Ölüm vakti karşılığı olarak kullanılan kelime",
       "answer": "ECEL"
     },
     {
@@ -178,7 +178,7 @@
       "row": 6,
       "col": 0,
       "length": 5,
-      "clue": "Esenleme sözü",
+      "clue": "Esenleme sözü için kullanılan yaygın ifade",
       "answer": "SELAM"
     },
     {
@@ -187,7 +187,7 @@
       "row": 6,
       "col": 3,
       "length": 4,
-      "clue": "Gövdeli bitki",
+      "clue": "Gövdeli bitki karşılığı olarak kullanılan kelime",
       "answer": "AĞAÇ"
     },
     {
@@ -196,7 +196,7 @@
       "row": 6,
       "col": 6,
       "length": 4,
-      "clue": "Tahta oyunu",
+      "clue": "Tahta oyunu anlamına gelen sözcük",
       "answer": "DAMA"
     },
     {
@@ -205,7 +205,7 @@
       "row": 7,
       "col": 6,
       "length": 4,
-      "clue": "Hafif olmayan",
+      "clue": "Hafif olmayan için kullanılan yaygın ifade",
       "answer": "AĞIR"
     },
     {
@@ -214,7 +214,7 @@
       "row": 8,
       "col": 2,
       "length": 5,
-      "clue": "Yas, acı",
+      "clue": "Bulmacada Yas ya da acı karşılığını veren yanıt",
       "answer": "MATEM"
     }
   ]

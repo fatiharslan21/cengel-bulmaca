@@ -167,7 +167,7 @@
       "row": 0,
       "col": 10,
       "length": 5,
-      "clue": "Temizlik maddesi",
+      "clue": "Günlük dilde Temizlik maddesi olarak bilinen kavram",
       "answer": "SABUN"
     },
     {
@@ -176,7 +176,7 @@
       "row": 1,
       "col": 9,
       "length": 3,
-      "clue": "Gitme, burada dur",
+      "clue": "Bulmacada Gitme ya da burada dur karşılığını veren yanıt",
       "answer": "KAL"
     },
     {
@@ -185,7 +185,7 @@
       "row": 3,
       "col": 6,
       "length": 5,
-      "clue": "Günün başı",
+      "clue": "Günün başı anlamına gelen sözcük",
       "answer": "SABAH"
     },
     {
@@ -194,7 +194,7 @@
       "row": 4,
       "col": 5,
       "length": 6,
-      "clue": "Bina çıkıntısı",
+      "clue": "Bina çıkıntısı karşılığı olarak kullanılan kelime",
       "answer": "BALKON"
     },
     {
@@ -203,7 +203,7 @@
       "row": 4,
       "col": 8,
       "length": 4,
-      "clue": "Zarif su kuşu",
+      "clue": "Günlük dilde Zarif su kuşu olarak bilinen kavram",
       "answer": "KUĞU"
     },
     {
@@ -212,7 +212,7 @@
       "row": 5,
       "col": 1,
       "length": 4,
-      "clue": "Üçten sonra gelen",
+      "clue": "Üçten sonra gelen için kullanılan yaygın ifade",
       "answer": "DÖRT"
     },
     {
@@ -221,7 +221,7 @@
       "row": 5,
       "col": 4,
       "length": 4,
-      "clue": "Bağlama aracı",
+      "clue": "Bağlama aracı anlamına gelen sözcük",
       "answer": "TOKA"
     },
     {
@@ -230,7 +230,7 @@
       "row": 6,
       "col": 4,
       "length": 3,
-      "clue": "İğneyle süsleme",
+      "clue": "Günlük dilde İğneyle süsleme olarak bilinen kavram",
       "answer": "OYA"
     },
     {
@@ -239,7 +239,7 @@
       "row": 7,
       "col": 2,
       "length": 4,
-      "clue": "İstek, dilek",
+      "clue": "İstek ya da dilek için kullanılan yaygın ifade",
       "answer": "ARZU"
     },
     {
@@ -248,7 +248,7 @@
       "row": 8,
       "col": 0,
       "length": 5,
-      "clue": "Ekin alanı",
+      "clue": "Ekin alanı anlamına gelen sözcük",
       "answer": "TARLA"
     }
   ]

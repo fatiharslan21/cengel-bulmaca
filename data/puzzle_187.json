@@ -109,7 +109,7 @@
       "row": 0,
       "col": 0,
       "length": 5,
-      "clue": "Kanatlı kutsal varlık",
+      "clue": "Bulmacada Kanatlı kutsal varlık karşılığını veren yanıt",
       "answer": "MELEK"
     },
     {
@@ -118,7 +118,7 @@
       "row": 0,
       "col": 0,
       "length": 5,
-      "clue": "Bitkinin ürünü",
+      "clue": "Günlük dilde Bitkinin ürünü olarak bilinen kavram",
       "answer": "MEYVE"
     },
     {
@@ -127,7 +127,7 @@
       "row": 3,
       "col": 2,
       "length": 4,
-      "clue": "Kırmızı meyve",
+      "clue": "Bulmacada Kırmızı meyve karşılığını veren yanıt",
       "answer": "ELMA"
     },
     {
@@ -136,7 +136,7 @@
       "row": 3,
       "col": 2,
       "length": 5,
-      "clue": "Vaktinden önce",
+      "clue": "Vaktinden önce karşılığı olarak kullanılan kelime",
       "answer": "ERKEN"
     },
     {
@@ -145,7 +145,7 @@
       "row": 4,
       "col": 0,
       "length": 3,
-      "clue": "Yanık kalıntısı",
+      "clue": "Yanık kalıntısı için kullanılan yaygın ifade",
       "answer": "KÜL"
     },
     {
@@ -154,7 +154,7 @@
       "row": 4,
       "col": 9,
       "length": 3,
-      "clue": "Gizli bilgi",
+      "clue": "Gizli bilgi için kullanılan yaygın ifade",
       "answer": "SIR"
     },
     {
@@ -163,7 +163,7 @@
       "row": 5,
       "col": 4,
       "length": 3,
-      "clue": "Yüksek arazi şekli",
+      "clue": "Yüksek arazi şekli için kullanılan yaygın ifade",
       "answer": "DAĞ"
     },
     {
@@ -172,7 +172,7 @@
       "row": 5,
       "col": 6,
       "length": 3,
-      "clue": "Kaygan besin",
+      "clue": "Kaygan besin karşılığı olarak kullanılan kelime",
       "answer": "YAĞ"
     },
     {
@@ -181,7 +181,7 @@
       "row": 5,
       "col": 6,
       "length": 4,
-      "clue": "Yazılmış metin",
+      "clue": "Bulmacada Yazılmış metin karşılığını veren yanıt",
       "answer": "YAZI"
     },
     {
@@ -190,7 +190,7 @@
       "row": 6,
       "col": 2,
       "length": 5,
-      "clue": "Dört tekerlekli taşıt",
+      "clue": "Bulmacada Dört tekerlekli taşıt karşılığını veren yanıt",
       "answer": "ARABA"
     }
   ]

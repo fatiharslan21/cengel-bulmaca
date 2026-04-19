@@ -208,7 +208,7 @@
       "row": 0,
       "col": 0,
       "length": 6,
-      "clue": "Türkiye'nin başkenti",
+      "clue": "Türkiye'nin başkenti için kullanılan yaygın ifade",
       "answer": "ANKARA"
     },
     {
@@ -226,7 +226,7 @@
       "row": 2,
       "col": 7,
       "length": 5,
-      "clue": "Tuzlu su kütlesi",
+      "clue": "Tuzlu su kütlesi anlamına gelen sözcük",
       "answer": "DENİZ"
     },
     {
@@ -262,7 +262,7 @@
       "row": 8,
       "col": 6,
       "length": 5,
-      "clue": "Telli bir müzik aleti",
+      "clue": "Telli bir müzik aleti anlamına gelen sözcük",
       "answer": "GİTAR"
     },
     {
@@ -280,7 +280,7 @@
       "row": 0,
       "col": 5,
       "length": 5,
-      "clue": "Dört tekerlekli taşıt",
+      "clue": "Bulmacada Dört tekerlekli taşıt karşılığını veren yanıt",
       "answer": "ARABA"
     },
     {
@@ -289,7 +289,7 @@
       "row": 2,
       "col": 10,
       "length": 4,
-      "clue": "Hastalıkta içilen şey",
+      "clue": "Günlük dilde Hastalıkta içilen şey olarak bilinen kavram",
       "answer": "İLAÇ"
     }
   ]

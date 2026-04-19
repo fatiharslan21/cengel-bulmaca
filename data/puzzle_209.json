@@ -97,7 +97,7 @@
       "row": 0,
       "col": 1,
       "length": 4,
-      "clue": "Felaket, kötülük",
+      "clue": "Günlük dilde Felaket ya da kötülük olarak bilinen kavram",
       "answer": "BELA"
     },
     {
@@ -106,7 +106,7 @@
       "row": 1,
       "col": 6,
       "length": 3,
-      "clue": "Kuvvet, enerji",
+      "clue": "Bulmacada Kuvvet ya da enerji karşılığını veren yanıt",
       "answer": "GÜÇ"
     },
     {
@@ -115,7 +115,7 @@
       "row": 1,
       "col": 8,
       "length": 4,
-      "clue": "Çözüm yolu",
+      "clue": "Çözüm yolu anlamına gelen sözcük",
       "answer": "ÇARE"
     },
     {
@@ -124,7 +124,7 @@
       "row": 2,
       "col": 3,
       "length": 3,
-      "clue": "Birinci tekil kişi",
+      "clue": "Birinci tekil kişi karşılığı olarak kullanılan kelime",
       "answer": "BEN"
     },
     {
@@ -133,7 +133,7 @@
       "row": 2,
       "col": 3,
       "length": 3,
-      "clue": "Uzunluk, endam",
+      "clue": "Uzunluk ya da endam için kullanılan yaygın ifade",
       "answer": "BOY"
     },
     {
@@ -142,7 +142,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "Adet, parça",
+      "clue": "Günlük dilde Adet ya da parça olarak bilinen kavram",
       "answer": "TANE"
     },
     {
@@ -151,7 +151,7 @@
       "row": 3,
       "col": 6,
       "length": 4,
-      "clue": "Üçten sonra gelen",
+      "clue": "Üçten sonra gelen için kullanılan yaygın ifade",
       "answer": "DÖRT"
     },
     {
@@ -160,7 +160,7 @@
       "row": 3,
       "col": 6,
       "length": 4,
-      "clue": "Tahta oyunu",
+      "clue": "Tahta oyunu anlamına gelen sözcük",
       "answer": "DAMA"
     },
     {
@@ -169,7 +169,7 @@
       "row": 4,
       "col": 3,
       "length": 4,
-      "clue": "Müzik işareti",
+      "clue": "Müzik işareti için kullanılan yaygın ifade",
       "answer": "NOTA"
     },
     {
@@ -178,7 +178,7 @@
       "row": 6,
       "col": 6,
       "length": 4,
-      "clue": "Hafif olmayan",
+      "clue": "Hafif olmayan için kullanılan yaygın ifade",
       "answer": "AĞIR"
     }
   ]

@@ -169,7 +169,7 @@
       "row": 0,
       "col": 5,
       "length": 4,
-      "clue": "Sanat yapıtı",
+      "clue": "Bulmacada Sanat yapıtı karşılığını veren yanıt",
       "answer": "ESER"
     },
     {
@@ -178,7 +178,7 @@
       "row": 3,
       "col": 3,
       "length": 3,
-      "clue": "Mekan, konum",
+      "clue": "Günlük dilde Mekan ya da konum olarak bilinen kavram",
       "answer": "YER"
     },
     {
@@ -187,7 +187,7 @@
       "row": 3,
       "col": 4,
       "length": 6,
-      "clue": "Söylence, mit",
+      "clue": "Söylence ya da mit anlamına gelen sözcük",
       "answer": "EFSANE"
     },
     {
@@ -196,7 +196,7 @@
       "row": 5,
       "col": 7,
       "length": 4,
-      "clue": "Bayat olmayan",
+      "clue": "Bulmacada Bayat olmayan karşılığını veren yanıt",
       "answer": "TAZE"
     },
     {
@@ -205,7 +205,7 @@
       "row": 5,
       "col": 9,
       "length": 3,
-      "clue": "En soğuk mevsim",
+      "clue": "Günlük dilde En soğuk mevsim olarak bilinen kavram",
       "answer": "KIŞ"
     },
     {
@@ -214,7 +214,7 @@
       "row": 6,
       "col": 0,
       "length": 5,
-      "clue": "Dört tekerlekli taşıt",
+      "clue": "Bulmacada Dört tekerlekli taşıt karşılığını veren yanıt",
       "answer": "ARABA"
     },
     {
@@ -223,7 +223,7 @@
       "row": 6,
       "col": 6,
       "length": 5,
-      "clue": "Yemek aracı",
+      "clue": "Günlük dilde Yemek aracı olarak bilinen kavram",
       "answer": "KAŞIK"
     },
     {
@@ -232,7 +232,7 @@
       "row": 8,
       "col": 3,
       "length": 6,
-      "clue": "Orta nokta",
+      "clue": "Bulmacada Orta nokta karşılığını veren yanıt",
       "answer": "MERKEZ"
     },
     {
@@ -241,7 +241,7 @@
       "row": 8,
       "col": 6,
       "length": 4,
-      "clue": "Su kabı",
+      "clue": "Günlük dilde Su kabı olarak bilinen kavram",
       "answer": "KOVA"
     },
     {
@@ -250,7 +250,7 @@
       "row": 11,
       "col": 5,
       "length": 3,
-      "clue": "Göz üstü kıl şeridi",
+      "clue": "Göz üstü kıl şeridi anlamına gelen sözcük",
       "answer": "KAŞ"
     }
   ]

@@ -109,7 +109,7 @@
       "row": 0,
       "col": 2,
       "length": 4,
-      "clue": "İki adet, eş",
+      "clue": "İki adet ya da eş karşılığı olarak kullanılan kelime",
       "answer": "ÇİFT"
     },
     {
@@ -118,7 +118,7 @@
       "row": 0,
       "col": 5,
       "length": 3,
-      "clue": "Bin kilogram",
+      "clue": "Bin kilogram için kullanılan yaygın ifade",
       "answer": "TON"
     },
     {
@@ -127,7 +127,7 @@
       "row": 1,
       "col": 5,
       "length": 5,
-      "clue": "Ağaçlık alan",
+      "clue": "Bulmacada Ağaçlık alan karşılığını veren yanıt",
       "answer": "ORMAN"
     },
     {
@@ -136,7 +136,7 @@
       "row": 2,
       "col": 1,
       "length": 4,
-      "clue": "Anlama yeteneği",
+      "clue": "Anlama yeteneği için kullanılan yaygın ifade",
       "answer": "ZEKA"
     },
     {
@@ -145,7 +145,7 @@
       "row": 2,
       "col": 3,
       "length": 3,
-      "clue": "Birinci tekil kişi",
+      "clue": "Birinci tekil kişi karşılığı olarak kullanılan kelime",
       "answer": "BEN"
     },
     {
@@ -154,7 +154,7 @@
       "row": 2,
       "col": 3,
       "length": 5,
-      "clue": "Suda yaşayan canlı",
+      "clue": "Suda yaşayan canlı karşılığı olarak kullanılan kelime",
       "answer": "BALIK"
     },
     {
@@ -163,7 +163,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "Suça yaptırım",
+      "clue": "Bulmacada Suça yaptırım karşılığını veren yanıt",
       "answer": "CEZA"
     },
     {
@@ -172,7 +172,7 @@
       "row": 3,
       "col": 6,
       "length": 5,
-      "clue": "Ani vuruş",
+      "clue": "Ani vuruş anlamına gelen sözcük",
       "answer": "DARBE"
     },
     {
@@ -181,7 +181,7 @@
       "row": 4,
       "col": 3,
       "length": 5,
-      "clue": "Gemi barınağı",
+      "clue": "Bulmacada Gemi barınağı karşılığını veren yanıt",
       "answer": "LİMAN"
     },
     {
@@ -190,7 +190,7 @@
       "row": 7,
       "col": 5,
       "length": 4,
-      "clue": "Kötü, berbat",
+      "clue": "Kötü ya da berbat karşılığı olarak kullanılan kelime",
       "answer": "FENA"
     }
   ]

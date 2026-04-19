@@ -112,7 +112,7 @@
       "row": 0,
       "col": 4,
       "length": 4,
-      "clue": "Sanat yapıtı",
+      "clue": "Bulmacada Sanat yapıtı karşılığını veren yanıt",
       "answer": "ESER"
     },
     {
@@ -121,7 +121,7 @@
       "row": 1,
       "col": 2,
       "length": 6,
-      "clue": "Daire çevresi",
+      "clue": "Daire çevresi anlamına gelen sözcük",
       "answer": "ÇEMBER"
     },
     {
@@ -130,7 +130,7 @@
       "row": 3,
       "col": 1,
       "length": 4,
-      "clue": "Yaşam süresi",
+      "clue": "Yaşam süresi karşılığı olarak kullanılan kelime",
       "answer": "ÖMÜR"
     },
     {
@@ -139,7 +139,7 @@
       "row": 5,
       "col": 4,
       "length": 3,
-      "clue": "Bitki gövdesi",
+      "clue": "Günlük dilde Bitki gövdesi olarak bilinen kavram",
       "answer": "SAP"
     },
     {
@@ -148,7 +148,7 @@
       "row": 5,
       "col": 5,
       "length": 3,
-      "clue": "Yakışıklı, gösterişli",
+      "clue": "Yakışıklı ya da gösterişli anlamına gelen sözcük",
       "answer": "AFİ"
     },
     {
@@ -157,7 +157,7 @@
       "row": 6,
       "col": 0,
       "length": 4,
-      "clue": "Anadolu halkı",
+      "clue": "Anadolu halkı için kullanılan yaygın ifade",
       "answer": "TÜRK"
     },
     {
@@ -166,7 +166,7 @@
       "row": 6,
       "col": 3,
       "length": 3,
-      "clue": "Seramik toprağı",
+      "clue": "Seramik toprağı karşılığı olarak kullanılan kelime",
       "answer": "KİL"
     },
     {
@@ -175,7 +175,7 @@
       "row": 7,
       "col": 3,
       "length": 3,
-      "clue": "Kötünün zıttı",
+      "clue": "Kötünün zıttı karşılığı olarak kullanılan kelime",
       "answer": "İYİ"
     },
     {
@@ -184,7 +184,7 @@
       "row": 8,
       "col": 1,
       "length": 3,
-      "clue": "Arı ürünü tatlı",
+      "clue": "Arı ürünü tatlı için kullanılan yaygın ifade",
       "answer": "BAL"
     },
     {
@@ -193,7 +193,7 @@
       "row": 8,
       "col": 2,
       "length": 3,
-      "clue": "Koruyucu ilaç",
+      "clue": "Bulmacada Koruyucu ilaç karşılığını veren yanıt",
       "answer": "AŞI"
     }
   ]

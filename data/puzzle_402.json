@@ -167,7 +167,7 @@
       "row": 0,
       "col": 7,
       "length": 4,
-      "clue": "Yemek mobilyası",
+      "clue": "Günlük dilde Yemek mobilyası olarak bilinen kavram",
       "answer": "MASA"
     },
     {
@@ -176,7 +176,7 @@
       "row": 3,
       "col": 6,
       "length": 5,
-      "clue": "İçten bağlılık",
+      "clue": "İçten bağlılık anlamına gelen sözcük",
       "answer": "HULUS"
     },
     {
@@ -185,7 +185,7 @@
       "row": 3,
       "col": 6,
       "length": 6,
-      "clue": "Özlem, göresi",
+      "clue": "Özlem ya da göresi karşılığı olarak kullanılan kelime",
       "answer": "HASRET"
     },
     {
@@ -194,7 +194,7 @@
       "row": 5,
       "col": 4,
       "length": 6,
-      "clue": "Ün, nam",
+      "clue": "Ün ya da nam anlamına gelen sözcük",
       "answer": "ŞÖHRET"
     },
     {
@@ -203,7 +203,7 @@
       "row": 6,
       "col": 8,
       "length": 5,
-      "clue": "Amaç, arzu",
+      "clue": "Amaç ya da arzu anlamına gelen sözcük",
       "answer": "MERAM"
     },
     {
@@ -212,7 +212,7 @@
       "row": 6,
       "col": 10,
       "length": 5,
-      "clue": "Habersiz, aymaz",
+      "clue": "Habersiz ya da aymaz anlamına gelen sözcük",
       "answer": "GAFİL"
     },
     {
@@ -221,7 +221,7 @@
       "row": 7,
       "col": 1,
       "length": 3,
-      "clue": "Bina bölümü",
+      "clue": "Bulmacada Bina bölümü karşılığını veren yanıt",
       "answer": "KAT"
     },
     {
@@ -230,7 +230,7 @@
       "row": 7,
       "col": 4,
       "length": 5,
-      "clue": "Pay, nasip",
+      "clue": "Bulmacada Pay ya da nasip karşılığını veren yanıt",
       "answer": "HİSSE"
     },
     {
@@ -239,7 +239,7 @@
       "row": 8,
       "col": 0,
       "length": 5,
-      "clue": "Katlanma, dayanma",
+      "clue": "Bulmacada Katlanma ya da dayanma karşılığını veren yanıt",
       "answer": "SABIR"
     },
     {
@@ -248,7 +248,7 @@
       "row": 9,
       "col": 7,
       "length": 5,
-      "clue": "Zaman, süre",
+      "clue": "Bulmacada Zaman ya da süre karşılığını veren yanıt",
       "answer": "VAKİT"
     }
   ]

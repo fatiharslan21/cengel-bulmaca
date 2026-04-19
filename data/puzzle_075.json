@@ -103,7 +103,7 @@
       "row": 0,
       "col": 6,
       "length": 5,
-      "clue": "Bilimsel test",
+      "clue": "Günlük dilde Bilimsel test olarak bilinen kavram",
       "answer": "DENEY"
     },
     {
@@ -112,7 +112,7 @@
       "row": 3,
       "col": 0,
       "length": 3,
-      "clue": "Asla, kesinlikle hayır",
+      "clue": "Bulmacada Asla ya da kesinlikle hayır karşılığını veren yanıt",
       "answer": "HİÇ"
     },
     {
@@ -121,7 +121,7 @@
       "row": 3,
       "col": 1,
       "length": 3,
-      "clue": "Kötünün zıttı",
+      "clue": "Kötünün zıttı karşılığı olarak kullanılan kelime",
       "answer": "İYİ"
     },
     {
@@ -130,7 +130,7 @@
       "row": 3,
       "col": 4,
       "length": 4,
-      "clue": "Anlama yeteneği",
+      "clue": "Anlama yeteneği için kullanılan yaygın ifade",
       "answer": "ZEKA"
     },
     {
@@ -139,7 +139,7 @@
       "row": 4,
       "col": 4,
       "length": 4,
-      "clue": "Kullanılan nesneler",
+      "clue": "Kullanılan nesneler anlamına gelen sözcük",
       "answer": "EŞYA"
     },
     {
@@ -148,7 +148,7 @@
       "row": 5,
       "col": 1,
       "length": 4,
-      "clue": "Böcekten kumaş",
+      "clue": "Böcekten kumaş anlamına gelen sözcük",
       "answer": "İPEK"
     },
     {
@@ -157,7 +157,7 @@
       "row": 5,
       "col": 2,
       "length": 4,
-      "clue": "Sayısal değer",
+      "clue": "Sayısal değer için kullanılan yaygın ifade",
       "answer": "PUAN"
     },
     {
@@ -166,7 +166,7 @@
       "row": 6,
       "col": 4,
       "length": 3,
-      "clue": "Bir şeye ilişkin",
+      "clue": "Bulmacada Bir şeye ilişkin karşılığını veren yanıt",
       "answer": "AİT"
     },
     {
@@ -175,7 +175,7 @@
       "row": 7,
       "col": 1,
       "length": 3,
-      "clue": "Kafa, vücudun üstü",
+      "clue": "Kafa ya da vücudun üstü için kullanılan yaygın ifade",
       "answer": "BAŞ"
     }
   ]

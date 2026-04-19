@@ -117,7 +117,7 @@
       "row": 0,
       "col": 2,
       "length": 5,
-      "clue": "Maç yöneticisi",
+      "clue": "Bulmacada Maç yöneticisi karşılığını veren yanıt",
       "answer": "HAKEM"
     },
     {
@@ -126,7 +126,7 @@
       "row": 1,
       "col": 0,
       "length": 3,
-      "clue": "Toprak sahibi",
+      "clue": "Günlük dilde Toprak sahibi olarak bilinen kavram",
       "answer": "AĞA"
     },
     {
@@ -135,7 +135,7 @@
       "row": 2,
       "col": 4,
       "length": 6,
-      "clue": "İçecek kabı",
+      "clue": "İçecek kabı anlamına gelen sözcük",
       "answer": "BARDAK"
     },
     {
@@ -144,7 +144,7 @@
       "row": 3,
       "col": 1,
       "length": 4,
-      "clue": "Kez, kere",
+      "clue": "Günlük dilde Kez ya da kere olarak bilinen kavram",
       "answer": "DEFA"
     },
     {
@@ -153,7 +153,7 @@
       "row": 3,
       "col": 6,
       "length": 3,
-      "clue": "Kuvvet, enerji",
+      "clue": "Bulmacada Kuvvet ya da enerji karşılığını veren yanıt",
       "answer": "GÜÇ"
     },
     {
@@ -162,7 +162,7 @@
       "row": 3,
       "col": 6,
       "length": 3,
-      "clue": "Karalarla çevrili su",
+      "clue": "Bulmacada Karalarla çevrili su karşılığını veren yanıt",
       "answer": "GÖL"
     },
     {
@@ -171,7 +171,7 @@
       "row": 3,
       "col": 8,
       "length": 3,
-      "clue": "Devir, dönem",
+      "clue": "Devir ya da dönem karşılığı olarak kullanılan kelime",
       "answer": "ÇAĞ"
     },
     {
@@ -180,7 +180,7 @@
       "row": 4,
       "col": 8,
       "length": 3,
-      "clue": "Bal yapan böcek",
+      "clue": "Günlük dilde Bal yapan böcek olarak bilinen kavram",
       "answer": "ARI"
     },
     {
@@ -189,7 +189,7 @@
       "row": 5,
       "col": 3,
       "length": 4,
-      "clue": "Başarı karşılığı",
+      "clue": "Bulmacada Başarı karşılığı karşılığını veren yanıt",
       "answer": "ÖDÜL"
     },
     {
@@ -198,7 +198,7 @@
       "row": 7,
       "col": 4,
       "length": 3,
-      "clue": "Üst beden uzvu",
+      "clue": "Günlük dilde Üst beden uzvu olarak bilinen kavram",
       "answer": "KOL"
     }
   ]

@@ -111,7 +111,7 @@
       "row": 0,
       "col": 5,
       "length": 4,
-      "clue": "Tahta oyunu",
+      "clue": "Tahta oyunu anlamına gelen sözcük",
       "answer": "DAMA"
     },
     {
@@ -120,7 +120,7 @@
       "row": 1,
       "col": 4,
       "length": 4,
-      "clue": "Büyük sert taş",
+      "clue": "Büyük sert taş için kullanılan yaygın ifade",
       "answer": "KAYA"
     },
     {
@@ -129,7 +129,7 @@
       "row": 1,
       "col": 7,
       "length": 3,
-      "clue": "Bir şeye ilişkin",
+      "clue": "Bulmacada Bir şeye ilişkin karşılığını veren yanıt",
       "answer": "AİT"
     },
     {
@@ -138,7 +138,7 @@
       "row": 1,
       "col": 11,
       "length": 5,
-      "clue": "Suyla ıslanmış",
+      "clue": "Bulmacada Suyla ıslanmış karşılığını veren yanıt",
       "answer": "ISLAK"
     },
     {
@@ -147,7 +147,7 @@
       "row": 2,
       "col": 3,
       "length": 5,
-      "clue": "Gerçek olmayan düş",
+      "clue": "Günlük dilde Gerçek olmayan düş olarak bilinen kavram",
       "answer": "HAYAL"
     },
     {
@@ -156,7 +156,7 @@
       "row": 3,
       "col": 3,
       "length": 3,
-      "clue": "Toprak sahibi",
+      "clue": "Günlük dilde Toprak sahibi olarak bilinen kavram",
       "answer": "AĞA"
     },
     {
@@ -165,7 +165,7 @@
       "row": 3,
       "col": 7,
       "length": 3,
-      "clue": "Hekimlik bilimi",
+      "clue": "Bulmacada Hekimlik bilimi karşılığını veren yanıt",
       "answer": "TIP"
     },
     {
@@ -174,7 +174,7 @@
       "row": 3,
       "col": 9,
       "length": 4,
-      "clue": "Yeşil alan",
+      "clue": "Günlük dilde Yeşil alan olarak bilinen kavram",
       "answer": "PARK"
     },
     {
@@ -183,7 +183,7 @@
       "row": 5,
       "col": 0,
       "length": 5,
-      "clue": "Sürdürme",
+      "clue": "Sürdürme karşılığı olarak kullanılan kelime",
       "answer": "DEVAM"
     },
     {
@@ -192,7 +192,7 @@
       "row": 5,
       "col": 7,
       "length": 5,
-      "clue": "Bilme isteği",
+      "clue": "Bilme isteği için kullanılan yaygın ifade",
       "answer": "MERAK"
     }
   ]

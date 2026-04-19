@@ -134,7 +134,7 @@
       "row": 0,
       "col": 2,
       "length": 4,
-      "clue": "Haz, keyif",
+      "clue": "Günlük dilde Haz ya da keyif olarak bilinen kavram",
       "answer": "ZEVK"
     },
     {
@@ -143,7 +143,7 @@
       "row": 1,
       "col": 1,
       "length": 3,
-      "clue": "Yaklaşma eylemi",
+      "clue": "Yaklaşma eylemi karşılığı olarak kullanılan kelime",
       "answer": "GEL"
     },
     {
@@ -152,7 +152,7 @@
       "row": 2,
       "col": 5,
       "length": 6,
-      "clue": "Ülke yönetimi",
+      "clue": "Ülke yönetimi için kullanılan yaygın ifade",
       "answer": "DEVLET"
     },
     {
@@ -161,7 +161,7 @@
       "row": 3,
       "col": 2,
       "length": 4,
-      "clue": "Çukur yemek kabı",
+      "clue": "Çukur yemek kabı anlamına gelen sözcük",
       "answer": "KASE"
     },
     {
@@ -170,7 +170,7 @@
       "row": 4,
       "col": 5,
       "length": 4,
-      "clue": "Çiçek süs kabı",
+      "clue": "Bulmacada Çiçek süs kabı karşılığını veren yanıt",
       "answer": "VAZO"
     },
     {
@@ -179,7 +179,7 @@
       "row": 5,
       "col": 1,
       "length": 5,
-      "clue": "Taşıma, aktarma",
+      "clue": "Bulmacada Taşıma ya da aktarma karşılığını veren yanıt",
       "answer": "NAKİL"
     },
     {
@@ -188,7 +188,7 @@
       "row": 5,
       "col": 3,
       "length": 6,
-      "clue": "Güç, kuvvet",
+      "clue": "Günlük dilde Güç ya da kuvvet olarak bilinen kavram",
       "answer": "KUDRET"
     },
     {
@@ -197,7 +197,7 @@
       "row": 6,
       "col": 5,
       "length": 4,
-      "clue": "Buyruk, komut",
+      "clue": "Günlük dilde Buyruk ya da komut olarak bilinen kavram",
       "answer": "EMİR"
     },
     {
@@ -206,7 +206,7 @@
       "row": 7,
       "col": 0,
       "length": 4,
-      "clue": "Çaba, gayret",
+      "clue": "Bulmacada Çaba ya da gayret karşılığını veren yanıt",
       "answer": "CEHD"
     },
     {
@@ -215,7 +215,7 @@
       "row": 9,
       "col": 2,
       "length": 6,
-      "clue": "Orta nokta",
+      "clue": "Bulmacada Orta nokta karşılığını veren yanıt",
       "answer": "MERKEZ"
     }
   ]

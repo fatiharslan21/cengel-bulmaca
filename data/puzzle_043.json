@@ -78,7 +78,7 @@
       "row": 0,
       "col": 4,
       "length": 4,
-      "clue": "Çiçek süs kabı",
+      "clue": "Bulmacada Çiçek süs kabı karşılığını veren yanıt",
       "answer": "VAZO"
     },
     {
@@ -87,7 +87,7 @@
       "row": 0,
       "col": 6,
       "length": 5,
-      "clue": "Sürdürme",
+      "clue": "Sürdürme karşılığı olarak kullanılan kelime",
       "answer": "DEVAM"
     },
     {
@@ -105,7 +105,7 @@
       "row": 1,
       "col": 4,
       "length": 4,
-      "clue": "Yanan ısı ve ışık",
+      "clue": "Günlük dilde Yanan ısı ve ışık olarak bilinen kavram",
       "answer": "ATEŞ"
     },
     {
@@ -114,7 +114,7 @@
       "row": 2,
       "col": 0,
       "length": 5,
-      "clue": "Küçük kırmızı meyve",
+      "clue": "Günlük dilde Küçük kırmızı meyve olarak bilinen kavram",
       "answer": "KİRAZ"
     },
     {
@@ -123,7 +123,7 @@
       "row": 2,
       "col": 8,
       "length": 3,
-      "clue": "En soğuk mevsim",
+      "clue": "Günlük dilde En soğuk mevsim olarak bilinen kavram",
       "answer": "KIŞ"
     },
     {
@@ -132,7 +132,7 @@
       "row": 2,
       "col": 8,
       "length": 3,
-      "clue": "Kanatlı uçan hayvan",
+      "clue": "Kanatlı uçan hayvan anlamına gelen sözcük",
       "answer": "KUŞ"
     },
     {
@@ -141,7 +141,7 @@
       "row": 3,
       "col": 6,
       "length": 3,
-      "clue": "Bal yapan böcek",
+      "clue": "Günlük dilde Bal yapan böcek olarak bilinen kavram",
       "answer": "ARI"
     },
     {
@@ -150,7 +150,7 @@
       "row": 4,
       "col": 0,
       "length": 3,
-      "clue": "Kafa, vücudun üstü",
+      "clue": "Kafa ya da vücudun üstü için kullanılan yaygın ifade",
       "answer": "BAŞ"
     }
   ]

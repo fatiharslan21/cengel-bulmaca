@@ -123,7 +123,7 @@
       "row": 0,
       "col": 4,
       "length": 5,
-      "clue": "Bitkinin ürünü",
+      "clue": "Günlük dilde Bitkinin ürünü olarak bilinen kavram",
       "answer": "MEYVE"
     },
     {
@@ -132,7 +132,7 @@
       "row": 4,
       "col": 1,
       "length": 3,
-      "clue": "Rüya, hayal",
+      "clue": "Rüya ya da hayal için kullanılan yaygın ifade",
       "answer": "DÜŞ"
     },
     {
@@ -141,7 +141,7 @@
       "row": 4,
       "col": 3,
       "length": 4,
-      "clue": "Küçük akarsu",
+      "clue": "Küçük akarsu anlamına gelen sözcük",
       "answer": "DERE"
     },
     {
@@ -150,7 +150,7 @@
       "row": 4,
       "col": 3,
       "length": 4,
-      "clue": "Sıkıntı, üzüntü",
+      "clue": "Günlük dilde Sıkıntı ya da üzüntü olarak bilinen kavram",
       "answer": "DERT"
     },
     {
@@ -159,7 +159,7 @@
       "row": 5,
       "col": 0,
       "length": 4,
-      "clue": "Zaman aralığı",
+      "clue": "Zaman aralığı için kullanılan yaygın ifade",
       "answer": "SÜRE"
     },
     {
@@ -168,7 +168,7 @@
       "row": 6,
       "col": 5,
       "length": 5,
-      "clue": "Kitap yazan",
+      "clue": "Kitap yazan için kullanılan yaygın ifade",
       "answer": "YAZAR"
     },
     {
@@ -177,7 +177,7 @@
       "row": 7,
       "col": 2,
       "length": 5,
-      "clue": "Bilme isteği",
+      "clue": "Bilme isteği için kullanılan yaygın ifade",
       "answer": "MERAK"
     },
     {
@@ -186,7 +186,7 @@
       "row": 9,
       "col": 3,
       "length": 3,
-      "clue": "Ev bölümü",
+      "clue": "Bulmacada Ev bölümü karşılığını veren yanıt",
       "answer": "ODA"
     },
     {
@@ -195,7 +195,7 @@
       "row": 10,
       "col": 5,
       "length": 3,
-      "clue": "Can, maneviyat",
+      "clue": "Bulmacada Can ya da maneviyat karşılığını veren yanıt",
       "answer": "RUH"
     }
   ]

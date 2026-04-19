@@ -133,7 +133,7 @@
       "row": 0,
       "col": 1,
       "length": 3,
-      "clue": "Lider, baş aşçı",
+      "clue": "Günlük dilde Lider ya da baş aşçı olarak bilinen kavram",
       "answer": "ŞEF"
     },
     {
@@ -142,7 +142,7 @@
       "row": 1,
       "col": 4,
       "length": 4,
-      "clue": "Katlanır bıçak",
+      "clue": "Günlük dilde Katlanır bıçak olarak bilinen kavram",
       "answer": "ÇAKI"
     },
     {
@@ -151,7 +151,7 @@
       "row": 1,
       "col": 7,
       "length": 4,
-      "clue": "Anadolu halkı",
+      "clue": "Anadolu halkı için kullanılan yaygın ifade",
       "answer": "TÜRK"
     },
     {
@@ -160,7 +160,7 @@
       "row": 2,
       "col": 1,
       "length": 4,
-      "clue": "Kötü, berbat",
+      "clue": "Kötü ya da berbat karşılığı olarak kullanılan kelime",
       "answer": "FENA"
     },
     {
@@ -169,7 +169,7 @@
       "row": 3,
       "col": 4,
       "length": 6,
-      "clue": "Güç, kuvvet",
+      "clue": "Günlük dilde Güç ya da kuvvet olarak bilinen kavram",
       "answer": "KUDRET"
     },
     {
@@ -178,7 +178,7 @@
       "row": 4,
       "col": 1,
       "length": 4,
-      "clue": "Av yapan kişi",
+      "clue": "Av yapan kişi anlamına gelen sözcük",
       "answer": "AVCI"
     },
     {
@@ -187,7 +187,7 @@
       "row": 4,
       "col": 1,
       "length": 3,
-      "clue": "Toprak sahibi",
+      "clue": "Günlük dilde Toprak sahibi olarak bilinen kavram",
       "answer": "AĞA"
     },
     {
@@ -196,7 +196,7 @@
       "row": 6,
       "col": 0,
       "length": 4,
-      "clue": "Yeşil alan",
+      "clue": "Günlük dilde Yeşil alan olarak bilinen kavram",
       "answer": "PARK"
     },
     {
@@ -205,7 +205,7 @@
       "row": 6,
       "col": 3,
       "length": 4,
-      "clue": "Büyük sert taş",
+      "clue": "Büyük sert taş için kullanılan yaygın ifade",
       "answer": "KAYA"
     },
     {
@@ -214,7 +214,7 @@
       "row": 7,
       "col": 3,
       "length": 5,
-      "clue": "Harita kitabı",
+      "clue": "Harita kitabı karşılığı olarak kullanılan kelime",
       "answer": "ATLAS"
     }
   ]

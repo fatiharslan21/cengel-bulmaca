@@ -157,7 +157,7 @@
       "row": 0,
       "col": 5,
       "length": 6,
-      "clue": "Giz, bilmece",
+      "clue": "Giz ya da bilmece anlamına gelen sözcük",
       "answer": "MUAMMA"
     },
     {
@@ -166,7 +166,7 @@
       "row": 2,
       "col": 2,
       "length": 5,
-      "clue": "Heyecan, kaygı",
+      "clue": "Günlük dilde Heyecan ya da kaygı olarak bilinen kavram",
       "answer": "TELAŞ"
     },
     {
@@ -175,7 +175,7 @@
       "row": 3,
       "col": 8,
       "length": 6,
-      "clue": "Özlem, göresi",
+      "clue": "Özlem ya da göresi karşılığı olarak kullanılan kelime",
       "answer": "HASRET"
     },
     {
@@ -184,7 +184,7 @@
       "row": 4,
       "col": 3,
       "length": 4,
-      "clue": "Çözüm yolu",
+      "clue": "Çözüm yolu anlamına gelen sözcük",
       "answer": "ÇARE"
     },
     {
@@ -193,7 +193,7 @@
       "row": 4,
       "col": 5,
       "length": 5,
-      "clue": "Yer, mahal",
+      "clue": "Yer ya da mahal anlamına gelen sözcük",
       "answer": "MEKAN"
     },
     {
@@ -211,7 +211,7 @@
       "row": 6,
       "col": 1,
       "length": 5,
-      "clue": "Sayısal işlem",
+      "clue": "Sayısal işlem karşılığı olarak kullanılan kelime",
       "answer": "HESAP"
     },
     {
@@ -220,7 +220,7 @@
       "row": 7,
       "col": 0,
       "length": 5,
-      "clue": "Esas, kök",
+      "clue": "Esas ya da kök anlamına gelen sözcük",
       "answer": "TEMEL"
     },
     {
@@ -229,7 +229,7 @@
       "row": 9,
       "col": 0,
       "length": 6,
-      "clue": "Yük aracı",
+      "clue": "Yük aracı karşılığı olarak kullanılan kelime",
       "answer": "KAMYON"
     },
     {
@@ -238,7 +238,7 @@
       "row": 9,
       "col": 3,
       "length": 3,
-      "clue": "Mekan, konum",
+      "clue": "Günlük dilde Mekan ya da konum olarak bilinen kavram",
       "answer": "YER"
     }
   ]

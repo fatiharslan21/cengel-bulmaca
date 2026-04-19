@@ -153,7 +153,7 @@
       "row": 0,
       "col": 6,
       "length": 5,
-      "clue": "Sakin, huzurlu",
+      "clue": "Sakin ya da huzurlu için kullanılan yaygın ifade",
       "answer": "ASUDE"
     },
     {
@@ -162,7 +162,7 @@
       "row": 4,
       "col": 3,
       "length": 5,
-      "clue": "Alın yazısı",
+      "clue": "Günlük dilde Alın yazısı olarak bilinen kavram",
       "answer": "KADER"
     },
     {
@@ -171,7 +171,7 @@
       "row": 4,
       "col": 4,
       "length": 4,
-      "clue": "Elektrik hareketi",
+      "clue": "Elektrik hareketi için kullanılan yaygın ifade",
       "answer": "AKIM"
     },
     {
@@ -180,7 +180,7 @@
       "row": 4,
       "col": 7,
       "length": 4,
-      "clue": "Tesadüf, denk gelme",
+      "clue": "Tesadüf ya da denk gelme anlamına gelen sözcük",
       "answer": "RAST"
     },
     {
@@ -189,7 +189,7 @@
       "row": 5,
       "col": 0,
       "length": 3,
-      "clue": "Rüzgar, esinti",
+      "clue": "Bulmacada Rüzgar ya da esinti karşılığını veren yanıt",
       "answer": "YEL"
     },
     {
@@ -198,7 +198,7 @@
       "row": 5,
       "col": 2,
       "length": 5,
-      "clue": "Hoş, ince",
+      "clue": "Hoş ya da ince için kullanılan yaygın ifade",
       "answer": "LATİF"
     },
     {
@@ -207,7 +207,7 @@
       "row": 5,
       "col": 10,
       "length": 5,
-      "clue": "İple oynatılan",
+      "clue": "İple oynatılan karşılığı olarak kullanılan kelime",
       "answer": "KUKLA"
     },
     {
@@ -216,7 +216,7 @@
       "row": 6,
       "col": 7,
       "length": 4,
-      "clue": "Cevap bekleyen",
+      "clue": "Cevap bekleyen karşılığı olarak kullanılan kelime",
       "answer": "SORU"
     },
     {
@@ -225,7 +225,7 @@
       "row": 7,
       "col": 0,
       "length": 5,
-      "clue": "Yas, acı",
+      "clue": "Bulmacada Yas ya da acı karşılığını veren yanıt",
       "answer": "MATEM"
     },
     {
@@ -234,7 +234,7 @@
       "row": 9,
       "col": 8,
       "length": 4,
-      "clue": "Açıklama",
+      "clue": "Günlük dilde Açıklama olarak bilinen kavram",
       "answer": "İZAH"
     }
   ]

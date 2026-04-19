@@ -121,7 +121,7 @@
       "row": 0,
       "col": 2,
       "length": 3,
-      "clue": "Yön değiştir",
+      "clue": "Yön değiştir karşılığı olarak kullanılan kelime",
       "answer": "DÖN"
     },
     {
@@ -130,7 +130,7 @@
       "row": 0,
       "col": 2,
       "length": 5,
-      "clue": "Yaşadığımız gezegen",
+      "clue": "Bulmacada Yaşadığımız gezegen karşılığını veren yanıt",
       "answer": "DÜNYA"
     },
     {
@@ -139,7 +139,7 @@
       "row": 2,
       "col": 0,
       "length": 3,
-      "clue": "Bitiş, final",
+      "clue": "Bitiş ya da final için kullanılan yaygın ifade",
       "answer": "SON"
     },
     {
@@ -148,7 +148,7 @@
       "row": 2,
       "col": 1,
       "length": 4,
-      "clue": "Konaklama yeri",
+      "clue": "Bulmacada Konaklama yeri karşılığını veren yanıt",
       "answer": "OTEL"
     },
     {
@@ -157,7 +157,7 @@
       "row": 3,
       "col": 3,
       "length": 4,
-      "clue": "Doku hasarı",
+      "clue": "Doku hasarı anlamına gelen sözcük",
       "answer": "YARA"
     },
     {
@@ -166,7 +166,7 @@
       "row": 4,
       "col": 0,
       "length": 5,
-      "clue": "Sürdürme",
+      "clue": "Sürdürme karşılığı olarak kullanılan kelime",
       "answer": "DEVAM"
     },
     {
@@ -175,7 +175,7 @@
       "row": 5,
       "col": 5,
       "length": 4,
-      "clue": "Otlak alan",
+      "clue": "Bulmacada Otlak alan karşılığını veren yanıt",
       "answer": "MERA"
     },
     {
@@ -184,7 +184,7 @@
       "row": 6,
       "col": 2,
       "length": 4,
-      "clue": "Bayat olmayan",
+      "clue": "Bulmacada Bayat olmayan karşılığını veren yanıt",
       "answer": "TAZE"
     },
     {
@@ -193,7 +193,7 @@
       "row": 8,
       "col": 2,
       "length": 4,
-      "clue": "Yansıtıcı cam",
+      "clue": "Bulmacada Yansıtıcı cam karşılığını veren yanıt",
       "answer": "AYNA"
     },
     {
@@ -202,7 +202,7 @@
       "row": 8,
       "col": 2,
       "length": 4,
-      "clue": "Geniş düzlük",
+      "clue": "Günlük dilde Geniş düzlük olarak bilinen kavram",
       "answer": "ALAN"
     }
   ]

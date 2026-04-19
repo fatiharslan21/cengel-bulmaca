@@ -109,7 +109,7 @@
       "row": 0,
       "col": 5,
       "length": 3,
-      "clue": "Oyun küpü",
+      "clue": "Günlük dilde Oyun küpü olarak bilinen kavram",
       "answer": "ZAR"
     },
     {
@@ -118,7 +118,7 @@
       "row": 1,
       "col": 8,
       "length": 4,
-      "clue": "Ev, konut",
+      "clue": "Ev ya da konut karşılığı olarak kullanılan kelime",
       "answer": "HANE"
     },
     {
@@ -127,7 +127,7 @@
       "row": 2,
       "col": 3,
       "length": 4,
-      "clue": "Üçten sonra gelen",
+      "clue": "Üçten sonra gelen için kullanılan yaygın ifade",
       "answer": "DÖRT"
     },
     {
@@ -136,7 +136,7 @@
       "row": 2,
       "col": 6,
       "length": 4,
-      "clue": "Adet, parça",
+      "clue": "Günlük dilde Adet ya da parça olarak bilinen kavram",
       "answer": "TANE"
     },
     {
@@ -145,7 +145,7 @@
       "row": 3,
       "col": 6,
       "length": 4,
-      "clue": "Yansıtıcı cam",
+      "clue": "Bulmacada Yansıtıcı cam karşılığını veren yanıt",
       "answer": "AYNA"
     },
     {
@@ -154,7 +154,7 @@
       "row": 4,
       "col": 2,
       "length": 5,
-      "clue": "Büyük oda",
+      "clue": "Büyük oda için kullanılan yaygın ifade",
       "answer": "SALON"
     },
     {
@@ -163,7 +163,7 @@
       "row": 4,
       "col": 3,
       "length": 4,
-      "clue": "Hafif olmayan",
+      "clue": "Hafif olmayan için kullanılan yaygın ifade",
       "answer": "AĞIR"
     },
     {
@@ -172,7 +172,7 @@
       "row": 5,
       "col": 1,
       "length": 3,
-      "clue": "Mülk, eşya",
+      "clue": "Mülk ya da eşya anlamına gelen sözcük",
       "answer": "MAL"
     },
     {
@@ -181,7 +181,7 @@
       "row": 6,
       "col": 0,
       "length": 4,
-      "clue": "Katlanır bıçak",
+      "clue": "Günlük dilde Katlanır bıçak olarak bilinen kavram",
       "answer": "ÇAKI"
     }
   ]

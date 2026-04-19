@@ -169,7 +169,7 @@
       "row": 0,
       "col": 2,
       "length": 5,
-      "clue": "Yazı aleti",
+      "clue": "Günlük dilde Yazı aleti olarak bilinen kavram",
       "answer": "KALEM"
     },
     {
@@ -178,7 +178,7 @@
       "row": 1,
       "col": 1,
       "length": 4,
-      "clue": "Ev, konut",
+      "clue": "Ev ya da konut karşılığı olarak kullanılan kelime",
       "answer": "HANE"
     },
     {
@@ -187,7 +187,7 @@
       "row": 3,
       "col": 1,
       "length": 6,
-      "clue": "Özlü söz",
+      "clue": "Özlü söz için kullanılan yaygın ifade",
       "answer": "VECİZE"
     },
     {
@@ -196,7 +196,7 @@
       "row": 3,
       "col": 6,
       "length": 5,
-      "clue": "En sert taş",
+      "clue": "En sert taş karşılığı olarak kullanılan kelime",
       "answer": "ELMAS"
     },
     {
@@ -205,7 +205,7 @@
       "row": 5,
       "col": 4,
       "length": 4,
-      "clue": "Tahta oyunu",
+      "clue": "Tahta oyunu anlamına gelen sözcük",
       "answer": "DAMA"
     },
     {
@@ -214,7 +214,7 @@
       "row": 5,
       "col": 4,
       "length": 4,
-      "clue": "Hörgüçlü hayvan",
+      "clue": "Hörgüçlü hayvan için kullanılan yaygın ifade",
       "answer": "DEVE"
     },
     {
@@ -223,7 +223,7 @@
       "row": 6,
       "col": 1,
       "length": 6,
-      "clue": "Giz, bilmece",
+      "clue": "Giz ya da bilmece anlamına gelen sözcük",
       "answer": "MUAMMA"
     },
     {
@@ -232,7 +232,7 @@
       "row": 7,
       "col": 6,
       "length": 5,
-      "clue": "Büyük oda",
+      "clue": "Büyük oda için kullanılan yaygın ifade",
       "answer": "SALON"
     },
     {
@@ -241,7 +241,7 @@
       "row": 8,
       "col": 0,
       "length": 6,
-      "clue": "Özlem, göresi",
+      "clue": "Özlem ya da göresi karşılığı olarak kullanılan kelime",
       "answer": "HASRET"
     },
     {
@@ -250,7 +250,7 @@
       "row": 11,
       "col": 0,
       "length": 3,
-      "clue": "Çizgi, yol",
+      "clue": "Çizgi ya da yol anlamına gelen sözcük",
       "answer": "HAT"
     }
   ]

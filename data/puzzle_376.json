@@ -157,7 +157,7 @@
       "row": 0,
       "col": 0,
       "length": 4,
-      "clue": "Bacak ucu",
+      "clue": "Günlük dilde Bacak ucu olarak bilinen kavram",
       "answer": "AYAK"
     },
     {
@@ -166,7 +166,7 @@
       "row": 0,
       "col": 8,
       "length": 3,
-      "clue": "Gitme, burada dur",
+      "clue": "Bulmacada Gitme ya da burada dur karşılığını veren yanıt",
       "answer": "KAL"
     },
     {
@@ -175,7 +175,7 @@
       "row": 1,
       "col": 4,
       "length": 3,
-      "clue": "Mekan, konum",
+      "clue": "Günlük dilde Mekan ya da konum olarak bilinen kavram",
       "answer": "YER"
     },
     {
@@ -184,7 +184,7 @@
       "row": 1,
       "col": 4,
       "length": 6,
-      "clue": "Bitkinin yeşil organı",
+      "clue": "Bitkinin yeşil organı anlamına gelen sözcük",
       "answer": "YAPRAK"
     },
     {
@@ -193,7 +193,7 @@
       "row": 3,
       "col": 0,
       "length": 5,
-      "clue": "Üzüntü",
+      "clue": "Bulmacada Üzüntü karşılığını veren yanıt",
       "answer": "KEDER"
     },
     {
@@ -202,7 +202,7 @@
       "row": 3,
       "col": 1,
       "length": 6,
-      "clue": "Söylence, mit",
+      "clue": "Söylence ya da mit anlamına gelen sözcük",
       "answer": "EFSANE"
     },
     {
@@ -211,7 +211,7 @@
       "row": 5,
       "col": 3,
       "length": 7,
-      "clue": "Avunma, avuntu",
+      "clue": "Bulmacada Avunma ya da avuntu karşılığını veren yanıt",
       "answer": "TESELLİ"
     },
     {
@@ -220,7 +220,7 @@
       "row": 6,
       "col": 0,
       "length": 5,
-      "clue": "Yas, acı",
+      "clue": "Bulmacada Yas ya da acı karşılığını veren yanıt",
       "answer": "MATEM"
     },
     {
@@ -229,7 +229,7 @@
       "row": 8,
       "col": 0,
       "length": 5,
-      "clue": "Soluk alma verme",
+      "clue": "Günlük dilde Soluk alma verme olarak bilinen kavram",
       "answer": "NEFES"
     },
     {
@@ -238,7 +238,7 @@
       "row": 10,
       "col": 1,
       "length": 5,
-      "clue": "Eşya mobilyası",
+      "clue": "Günlük dilde Eşya mobilyası olarak bilinen kavram",
       "answer": "DOLAP"
     }
   ]

@@ -145,7 +145,7 @@
       "row": 0,
       "col": 2,
       "length": 3,
-      "clue": "Evin çatısı",
+      "clue": "Evin çatısı anlamına gelen sözcük",
       "answer": "DAM"
     },
     {
@@ -154,7 +154,7 @@
       "row": 0,
       "col": 4,
       "length": 4,
-      "clue": "Ateş aleti",
+      "clue": "Günlük dilde Ateş aleti olarak bilinen kavram",
       "answer": "MAŞA"
     },
     {
@@ -163,7 +163,7 @@
       "row": 2,
       "col": 1,
       "length": 3,
-      "clue": "Hayat, yaşam",
+      "clue": "Hayat ya da yaşam anlamına gelen sözcük",
       "answer": "CAN"
     },
     {
@@ -172,7 +172,7 @@
       "row": 2,
       "col": 4,
       "length": 5,
-      "clue": "Onur, itibar",
+      "clue": "Onur ya da itibar için kullanılan yaygın ifade",
       "answer": "ŞEREF"
     },
     {
@@ -181,7 +181,7 @@
       "row": 2,
       "col": 7,
       "length": 5,
-      "clue": "En sert taş",
+      "clue": "En sert taş karşılığı olarak kullanılan kelime",
       "answer": "ELMAS"
     },
     {
@@ -190,7 +190,7 @@
       "row": 3,
       "col": 1,
       "length": 4,
-      "clue": "Yansıtıcı cam",
+      "clue": "Bulmacada Yansıtıcı cam karşılığını veren yanıt",
       "answer": "AYNA"
     },
     {
@@ -199,7 +199,7 @@
       "row": 3,
       "col": 3,
       "length": 5,
-      "clue": "Soluk alma verme",
+      "clue": "Günlük dilde Soluk alma verme olarak bilinen kavram",
       "answer": "NEFES"
     },
     {
@@ -208,7 +208,7 @@
       "row": 7,
       "col": 1,
       "length": 4,
-      "clue": "Yakın arkadaş",
+      "clue": "Bulmacada Yakın arkadaş karşılığını veren yanıt",
       "answer": "DOST"
     },
     {
@@ -217,7 +217,7 @@
       "row": 7,
       "col": 4,
       "length": 5,
-      "clue": "Ekin alanı",
+      "clue": "Ekin alanı anlamına gelen sözcük",
       "answer": "TARLA"
     },
     {
@@ -226,7 +226,7 @@
       "row": 10,
       "col": 0,
       "length": 5,
-      "clue": "Talih, yükselme",
+      "clue": "Bulmacada Talih ya da yükselme karşılığını veren yanıt",
       "answer": "İKBAL"
     }
   ]

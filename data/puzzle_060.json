@@ -112,7 +112,7 @@
       "row": 0,
       "col": 3,
       "length": 3,
-      "clue": "Uzunluk, endam",
+      "clue": "Uzunluk ya da endam için kullanılan yaygın ifade",
       "answer": "BOY"
     },
     {
@@ -121,7 +121,7 @@
       "row": 0,
       "col": 5,
       "length": 5,
-      "clue": "Kutlama tatlısı",
+      "clue": "Kutlama tatlısı anlamına gelen sözcük",
       "answer": "PASTA"
     },
     {
@@ -130,7 +130,7 @@
       "row": 1,
       "col": 2,
       "length": 4,
-      "clue": "Kısa dinlenme",
+      "clue": "Günlük dilde Kısa dinlenme olarak bilinen kavram",
       "answer": "MOLA"
     },
     {
@@ -139,7 +139,7 @@
       "row": 1,
       "col": 7,
       "length": 3,
-      "clue": "Sunma, takdim",
+      "clue": "Sunma ya da takdim anlamına gelen sözcük",
       "answer": "ARZ"
     },
     {
@@ -148,7 +148,7 @@
       "row": 2,
       "col": 5,
       "length": 4,
-      "clue": "Zaman aralığı",
+      "clue": "Zaman aralığı için kullanılan yaygın ifade",
       "answer": "SÜRE"
     },
     {
@@ -157,7 +157,7 @@
       "row": 4,
       "col": 1,
       "length": 5,
-      "clue": "Yaşadığımız gezegen",
+      "clue": "Bulmacada Yaşadığımız gezegen karşılığını veren yanıt",
       "answer": "DÜNYA"
     },
     {
@@ -166,7 +166,7 @@
       "row": 4,
       "col": 1,
       "length": 3,
-      "clue": "Konuşma organı",
+      "clue": "Konuşma organı anlamına gelen sözcük",
       "answer": "DİL"
     },
     {
@@ -184,7 +184,7 @@
       "row": 6,
       "col": 2,
       "length": 3,
-      "clue": "Elin iç kısmı",
+      "clue": "Elin iç kısmı anlamına gelen sözcük",
       "answer": "AYA"
     }
   ]

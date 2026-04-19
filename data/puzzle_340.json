@@ -134,7 +134,7 @@
       "row": 0,
       "col": 8,
       "length": 4,
-      "clue": "Yanlış, kusur",
+      "clue": "Günlük dilde Yanlış ya da kusur olarak bilinen kavram",
       "answer": "HATA"
     },
     {
@@ -143,7 +143,7 @@
       "row": 2,
       "col": 3,
       "length": 5,
-      "clue": "Yenilebilen bitki",
+      "clue": "Yenilebilen bitki için kullanılan yaygın ifade",
       "answer": "SEBZE"
     },
     {
@@ -152,7 +152,7 @@
       "row": 2,
       "col": 5,
       "length": 5,
-      "clue": "Yüzeyin sınırı",
+      "clue": "Günlük dilde Yüzeyin sınırı olarak bilinen kavram",
       "answer": "KENAR"
     },
     {
@@ -161,7 +161,7 @@
       "row": 2,
       "col": 5,
       "length": 4,
-      "clue": "Şehir",
+      "clue": "Şehir anlamına gelen sözcük",
       "answer": "KENT"
     },
     {
@@ -170,7 +170,7 @@
       "row": 3,
       "col": 2,
       "length": 4,
-      "clue": "Ses birimi",
+      "clue": "Ses birimi için kullanılan yaygın ifade",
       "answer": "HECE"
     },
     {
@@ -179,7 +179,7 @@
       "row": 5,
       "col": 5,
       "length": 3,
-      "clue": "Sunma, takdim",
+      "clue": "Sunma ya da takdim anlamına gelen sözcük",
       "answer": "ARZ"
     },
     {
@@ -188,7 +188,7 @@
       "row": 6,
       "col": 0,
       "length": 4,
-      "clue": "Küçük akarsu",
+      "clue": "Küçük akarsu anlamına gelen sözcük",
       "answer": "DERE"
     },
     {
@@ -197,7 +197,7 @@
       "row": 6,
       "col": 0,
       "length": 5,
-      "clue": "Eşya mobilyası",
+      "clue": "Günlük dilde Eşya mobilyası olarak bilinen kavram",
       "answer": "DOLAP"
     },
     {
@@ -206,7 +206,7 @@
       "row": 6,
       "col": 2,
       "length": 3,
-      "clue": "Can, maneviyat",
+      "clue": "Bulmacada Can ya da maneviyat karşılığını veren yanıt",
       "answer": "RUH"
     },
     {
@@ -215,7 +215,7 @@
       "row": 8,
       "col": 2,
       "length": 3,
-      "clue": "Çizgi, yol",
+      "clue": "Çizgi ya da yol anlamına gelen sözcük",
       "answer": "HAT"
     }
   ]

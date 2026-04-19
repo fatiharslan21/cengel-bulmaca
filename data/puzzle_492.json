@@ -139,7 +139,7 @@
       "row": 0,
       "col": 4,
       "length": 4,
-      "clue": "Ev, konut",
+      "clue": "Ev ya da konut karşılığı olarak kullanılan kelime",
       "answer": "HANE"
     },
     {
@@ -148,7 +148,7 @@
       "row": 1,
       "col": 3,
       "length": 3,
-      "clue": "İçine konan kab",
+      "clue": "Bulmacada İçine konan kab karşılığını veren yanıt",
       "answer": "KAP"
     },
     {
@@ -157,7 +157,7 @@
       "row": 1,
       "col": 7,
       "length": 5,
-      "clue": "Düşme, sessizlik",
+      "clue": "Düşme ya da sessizlik karşılığı olarak kullanılan kelime",
       "answer": "SUKUT"
     },
     {
@@ -166,7 +166,7 @@
       "row": 3,
       "col": 3,
       "length": 5,
-      "clue": "Kanatlı kutsal varlık",
+      "clue": "Bulmacada Kanatlı kutsal varlık karşılığını veren yanıt",
       "answer": "MELEK"
     },
     {
@@ -175,7 +175,7 @@
       "row": 3,
       "col": 3,
       "length": 6,
-      "clue": "Kıyamet yeri",
+      "clue": "Kıyamet yeri için kullanılan yaygın ifade",
       "answer": "MAHŞER"
     },
     {
@@ -184,7 +184,7 @@
       "row": 4,
       "col": 0,
       "length": 4,
-      "clue": "Siyah renk",
+      "clue": "Siyah renk karşılığı olarak kullanılan kelime",
       "answer": "KARA"
     },
     {
@@ -193,7 +193,7 @@
       "row": 4,
       "col": 10,
       "length": 4,
-      "clue": "Işık, aydınlık",
+      "clue": "Günlük dilde Işık ya da aydınlık olarak bilinen kavram",
       "answer": "ZİYA"
     },
     {
@@ -202,7 +202,7 @@
       "row": 5,
       "col": 7,
       "length": 5,
-      "clue": "Şans, baht",
+      "clue": "Bulmacada Şans ya da baht karşılığını veren yanıt",
       "answer": "TALİH"
     },
     {
@@ -211,7 +211,7 @@
       "row": 6,
       "col": 3,
       "length": 4,
-      "clue": "Arzu, istek",
+      "clue": "Arzu ya da istek için kullanılan yaygın ifade",
       "answer": "ŞEVK"
     },
     {
@@ -220,7 +220,7 @@
       "row": 7,
       "col": 7,
       "length": 5,
-      "clue": "Feryat, ağlama",
+      "clue": "Günlük dilde Feryat ya da ağlama olarak bilinen kavram",
       "answer": "FİGAN"
     }
   ]

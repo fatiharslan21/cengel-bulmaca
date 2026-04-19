@@ -104,7 +104,7 @@
       "row": 0,
       "col": 3,
       "length": 4,
-      "clue": "Küçük yükselti",
+      "clue": "Bulmacada Küçük yükselti karşılığını veren yanıt",
       "answer": "TEPE"
     },
     {
@@ -113,7 +113,7 @@
       "row": 0,
       "col": 5,
       "length": 4,
-      "clue": "Ferahlatıcı bitki",
+      "clue": "Ferahlatıcı bitki anlamına gelen sözcük",
       "answer": "NANE"
     },
     {
@@ -122,7 +122,7 @@
       "row": 1,
       "col": 2,
       "length": 4,
-      "clue": "Anlama yeteneği",
+      "clue": "Anlama yeteneği için kullanılan yaygın ifade",
       "answer": "ZEKA"
     },
     {
@@ -131,7 +131,7 @@
       "row": 1,
       "col": 8,
       "length": 4,
-      "clue": "Tedavi maddesi",
+      "clue": "Tedavi maddesi için kullanılan yaygın ifade",
       "answer": "İLAÇ"
     },
     {
@@ -140,7 +140,7 @@
       "row": 2,
       "col": 1,
       "length": 3,
-      "clue": "Durum, vaziyet",
+      "clue": "Bulmacada Durum ya da vaziyet karşılığını veren yanıt",
       "answer": "HAL"
     },
     {
@@ -149,7 +149,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "Savunma yapısı",
+      "clue": "Savunma yapısı karşılığı olarak kullanılan kelime",
       "answer": "KALE"
     },
     {
@@ -158,7 +158,7 @@
       "row": 3,
       "col": 5,
       "length": 4,
-      "clue": "Kırmızı meyve",
+      "clue": "Bulmacada Kırmızı meyve karşılığını veren yanıt",
       "answer": "ELMA"
     },
     {
@@ -167,7 +167,7 @@
       "row": 3,
       "col": 6,
       "length": 4,
-      "clue": "Türk parası",
+      "clue": "Günlük dilde Türk parası olarak bilinen kavram",
       "answer": "LİRA"
     },
     {
@@ -176,7 +176,7 @@
       "row": 4,
       "col": 8,
       "length": 3,
-      "clue": "Ses çıkaran metal",
+      "clue": "Ses çıkaran metal karşılığı olarak kullanılan kelime",
       "answer": "ÇAN"
     },
     {
@@ -185,7 +185,7 @@
       "row": 6,
       "col": 5,
       "length": 4,
-      "clue": "Çukur yemek kabı",
+      "clue": "Çukur yemek kabı anlamına gelen sözcük",
       "answer": "KASE"
     }
   ]

@@ -109,7 +109,7 @@
       "row": 0,
       "col": 2,
       "length": 4,
-      "clue": "Çukur yemek kabı",
+      "clue": "Çukur yemek kabı anlamına gelen sözcük",
       "answer": "KASE"
     },
     {
@@ -118,7 +118,7 @@
       "row": 0,
       "col": 5,
       "length": 4,
-      "clue": "Ölüm vakti",
+      "clue": "Ölüm vakti karşılığı olarak kullanılan kelime",
       "answer": "ECEL"
     },
     {
@@ -127,7 +127,7 @@
       "row": 1,
       "col": 1,
       "length": 6,
-      "clue": "Ülke simgesi",
+      "clue": "Ülke simgesi için kullanılan yaygın ifade",
       "answer": "BAYRAK"
     },
     {
@@ -136,7 +136,7 @@
       "row": 2,
       "col": 0,
       "length": 3,
-      "clue": "Hava gibi madde",
+      "clue": "Hava gibi madde için kullanılan yaygın ifade",
       "answer": "GAZ"
     },
     {
@@ -145,7 +145,7 @@
       "row": 3,
       "col": 5,
       "length": 5,
-      "clue": "İyilik, bağış",
+      "clue": "Günlük dilde İyilik ya da bağış olarak bilinen kavram",
       "answer": "LÜTUF"
     },
     {
@@ -154,7 +154,7 @@
       "row": 3,
       "col": 7,
       "length": 4,
-      "clue": "Anadolu halkı",
+      "clue": "Anadolu halkı için kullanılan yaygın ifade",
       "answer": "TÜRK"
     },
     {
@@ -163,7 +163,7 @@
       "row": 5,
       "col": 0,
       "length": 4,
-      "clue": "Yapışkan şerit",
+      "clue": "Yapışkan şerit karşılığı olarak kullanılan kelime",
       "answer": "BANT"
     },
     {
@@ -172,7 +172,7 @@
       "row": 5,
       "col": 3,
       "length": 3,
-      "clue": "Hekimlik bilimi",
+      "clue": "Bulmacada Hekimlik bilimi karşılığını veren yanıt",
       "answer": "TIP"
     },
     {
@@ -181,7 +181,7 @@
       "row": 5,
       "col": 5,
       "length": 3,
-      "clue": "Yüce, büyük",
+      "clue": "Yüce ya da büyük anlamına gelen sözcük",
       "answer": "ULU"
     },
     {
@@ -190,7 +190,7 @@
       "row": 6,
       "col": 3,
       "length": 5,
-      "clue": "Suyla ıslanmış",
+      "clue": "Bulmacada Suyla ıslanmış karşılığını veren yanıt",
       "answer": "ISLAK"
     }
   ]

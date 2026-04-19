@@ -94,7 +94,7 @@
       "row": 0,
       "col": 3,
       "length": 4,
-      "clue": "Katlanır bıçak",
+      "clue": "Günlük dilde Katlanır bıçak olarak bilinen kavram",
       "answer": "ÇAKI"
     },
     {
@@ -103,7 +103,7 @@
       "row": 1,
       "col": 0,
       "length": 5,
-      "clue": "Kanatlı kutsal varlık",
+      "clue": "Bulmacada Kanatlı kutsal varlık karşılığını veren yanıt",
       "answer": "MELEK"
     },
     {
@@ -112,7 +112,7 @@
       "row": 1,
       "col": 2,
       "length": 3,
-      "clue": "Ömür süresi",
+      "clue": "Ömür süresi anlamına gelen sözcük",
       "answer": "YAŞ"
     },
     {
@@ -121,7 +121,7 @@
       "row": 2,
       "col": 5,
       "length": 3,
-      "clue": "Demir korozyonu",
+      "clue": "Demir korozyonu karşılığı olarak kullanılan kelime",
       "answer": "PAS"
     },
     {
@@ -130,7 +130,7 @@
       "row": 3,
       "col": 2,
       "length": 5,
-      "clue": "Ayrılık",
+      "clue": "Ayrılık anlamına gelen sözcük",
       "answer": "FIRAK"
     },
     {
@@ -139,7 +139,7 @@
       "row": 3,
       "col": 2,
       "length": 4,
-      "clue": "Kötü, berbat",
+      "clue": "Kötü ya da berbat karşılığı olarak kullanılan kelime",
       "answer": "FENA"
     },
     {
@@ -148,7 +148,7 @@
       "row": 4,
       "col": 0,
       "length": 3,
-      "clue": "Tırnak törpüsü",
+      "clue": "Tırnak törpüsü için kullanılan yaygın ifade",
       "answer": "EĞE"
     },
     {
@@ -157,7 +157,7 @@
       "row": 6,
       "col": 1,
       "length": 6,
-      "clue": "Beğenme, övme",
+      "clue": "Günlük dilde Beğenme ya da övme olarak bilinen kavram",
       "answer": "TAKDİR"
     },
     {
@@ -166,7 +166,7 @@
       "row": 6,
       "col": 3,
       "length": 3,
-      "clue": "Ateş közü",
+      "clue": "Günlük dilde Ateş közü olarak bilinen kavram",
       "answer": "KOR"
     },
     {
@@ -175,7 +175,7 @@
       "row": 8,
       "col": 1,
       "length": 5,
-      "clue": "Bilme isteği",
+      "clue": "Bilme isteği için kullanılan yaygın ifade",
       "answer": "MERAK"
     }
   ]

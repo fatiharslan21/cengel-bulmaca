@@ -112,7 +112,7 @@
       "row": 0,
       "col": 1,
       "length": 4,
-      "clue": "Felaket, kötülük",
+      "clue": "Günlük dilde Felaket ya da kötülük olarak bilinen kavram",
       "answer": "BELA"
     },
     {
@@ -121,7 +121,7 @@
       "row": 0,
       "col": 3,
       "length": 4,
-      "clue": "Kızarmış sandviç",
+      "clue": "Kızarmış sandviç anlamına gelen sözcük",
       "answer": "TOST"
     },
     {
@@ -130,7 +130,7 @@
       "row": 0,
       "col": 6,
       "length": 6,
-      "clue": "Yük aracı",
+      "clue": "Yük aracı karşılığı olarak kullanılan kelime",
       "answer": "KAMYON"
     },
     {
@@ -139,7 +139,7 @@
       "row": 1,
       "col": 5,
       "length": 4,
-      "clue": "Bodur ağaç",
+      "clue": "Bodur ağaç anlamına gelen sözcük",
       "answer": "ÇALI"
     },
     {
@@ -148,7 +148,7 @@
       "row": 3,
       "col": 0,
       "length": 5,
-      "clue": "Kutlama tatlısı",
+      "clue": "Kutlama tatlısı anlamına gelen sözcük",
       "answer": "PASTA"
     },
     {
@@ -157,7 +157,7 @@
       "row": 3,
       "col": 2,
       "length": 4,
-      "clue": "Zaman aralığı",
+      "clue": "Zaman aralığı için kullanılan yaygın ifade",
       "answer": "SÜRE"
     },
     {
@@ -166,7 +166,7 @@
       "row": 5,
       "col": 4,
       "length": 4,
-      "clue": "Müzikle hareket",
+      "clue": "Müzikle hareket karşılığı olarak kullanılan kelime",
       "answer": "DANS"
     },
     {
@@ -175,7 +175,7 @@
       "row": 5,
       "col": 4,
       "length": 3,
-      "clue": "Yüksek arazi şekli",
+      "clue": "Yüksek arazi şekli için kullanılan yaygın ifade",
       "answer": "DAĞ"
     },
     {
@@ -184,7 +184,7 @@
       "row": 5,
       "col": 7,
       "length": 4,
-      "clue": "Zaman ölçer",
+      "clue": "Bulmacada Zaman ölçer karşılığını veren yanıt",
       "answer": "SAAT"
     },
     {
@@ -193,7 +193,7 @@
       "row": 6,
       "col": 1,
       "length": 4,
-      "clue": "Suça yaptırım",
+      "clue": "Bulmacada Suça yaptırım karşılığını veren yanıt",
       "answer": "CEZA"
     }
   ]

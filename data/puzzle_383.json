@@ -134,7 +134,7 @@
       "row": 0,
       "col": 3,
       "length": 4,
-      "clue": "Yük hayvanı",
+      "clue": "Yük hayvanı için kullanılan yaygın ifade",
       "answer": "EŞEK"
     },
     {
@@ -143,7 +143,7 @@
       "row": 0,
       "col": 4,
       "length": 6,
-      "clue": "Sevgi, acıma",
+      "clue": "Bulmacada Sevgi ya da acıma karşılığını veren yanıt",
       "answer": "ŞEFKAT"
     },
     {
@@ -152,7 +152,7 @@
       "row": 0,
       "col": 6,
       "length": 3,
-      "clue": "Bina bölümü",
+      "clue": "Bulmacada Bina bölümü karşılığını veren yanıt",
       "answer": "KAT"
     },
     {
@@ -161,7 +161,7 @@
       "row": 0,
       "col": 8,
       "length": 5,
-      "clue": "Ağaçlık alan",
+      "clue": "Bulmacada Ağaçlık alan karşılığını veren yanıt",
       "answer": "ORMAN"
     },
     {
@@ -170,7 +170,7 @@
       "row": 4,
       "col": 3,
       "length": 6,
-      "clue": "Bina çıkıntısı",
+      "clue": "Bina çıkıntısı karşılığı olarak kullanılan kelime",
       "answer": "BALKON"
     },
     {
@@ -179,7 +179,7 @@
       "row": 4,
       "col": 6,
       "length": 5,
-      "clue": "Alın yazısı",
+      "clue": "Günlük dilde Alın yazısı olarak bilinen kavram",
       "answer": "KADER"
     },
     {
@@ -188,7 +188,7 @@
       "row": 6,
       "col": 1,
       "length": 4,
-      "clue": "Uyan, bağlı",
+      "clue": "Uyan ya da bağlı karşılığı olarak kullanılan kelime",
       "answer": "TABİ"
     },
     {
@@ -197,7 +197,7 @@
       "row": 6,
       "col": 3,
       "length": 5,
-      "clue": "Ağır, kötü",
+      "clue": "Ağır ya da kötü karşılığı olarak kullanılan kelime",
       "answer": "VAHİM"
     },
     {
@@ -206,7 +206,7 @@
       "row": 7,
       "col": 0,
       "length": 4,
-      "clue": "Gönül huzuru",
+      "clue": "Gönül huzuru anlamına gelen sözcük",
       "answer": "SAFA"
     },
     {
@@ -215,7 +215,7 @@
       "row": 8,
       "col": 3,
       "length": 6,
-      "clue": "Ayrılık acısı",
+      "clue": "Ayrılık acısı için kullanılan yaygın ifade",
       "answer": "HİCRAN"
     }
   ]

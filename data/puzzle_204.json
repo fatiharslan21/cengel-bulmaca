@@ -133,7 +133,7 @@
       "row": 0,
       "col": 6,
       "length": 6,
-      "clue": "Okyanus memelisi",
+      "clue": "Okyanus memelisi için kullanılan yaygın ifade",
       "answer": "BALİNA"
     },
     {
@@ -142,7 +142,7 @@
       "row": 1,
       "col": 5,
       "length": 4,
-      "clue": "Altın rengi",
+      "clue": "Altın rengi için kullanılan yaygın ifade",
       "answer": "SARI"
     },
     {
@@ -151,7 +151,7 @@
       "row": 3,
       "col": 2,
       "length": 4,
-      "clue": "Eğlence faaliyeti",
+      "clue": "Bulmacada Eğlence faaliyeti karşılığını veren yanıt",
       "answer": "OYUN"
     },
     {
@@ -160,7 +160,7 @@
       "row": 3,
       "col": 8,
       "length": 3,
-      "clue": "Toprak sahibi",
+      "clue": "Günlük dilde Toprak sahibi olarak bilinen kavram",
       "answer": "AĞA"
     },
     {
@@ -169,7 +169,7 @@
       "row": 4,
       "col": 4,
       "length": 3,
-      "clue": "Yön değiştir",
+      "clue": "Yön değiştir karşılığı olarak kullanılan kelime",
       "answer": "DÖN"
     },
     {
@@ -178,7 +178,7 @@
       "row": 4,
       "col": 4,
       "length": 4,
-      "clue": "Üçten sonra gelen",
+      "clue": "Üçten sonra gelen için kullanılan yaygın ifade",
       "answer": "DÖRT"
     },
     {
@@ -187,7 +187,7 @@
       "row": 5,
       "col": 6,
       "length": 4,
-      "clue": "Bacak ucu",
+      "clue": "Günlük dilde Bacak ucu olarak bilinen kavram",
       "answer": "AYAK"
     },
     {
@@ -196,7 +196,7 @@
       "row": 5,
       "col": 7,
       "length": 3,
-      "clue": "Çehre; sayı 100",
+      "clue": "Çehre; sayı 100 için kullanılan yaygın ifade",
       "answer": "YÜZ"
     },
     {
@@ -205,7 +205,7 @@
       "row": 6,
       "col": 0,
       "length": 5,
-      "clue": "Gölge ağacı",
+      "clue": "Bulmacada Gölge ağacı karşılığını veren yanıt",
       "answer": "ÇINAR"
     },
     {
@@ -214,7 +214,7 @@
       "row": 6,
       "col": 0,
       "length": 4,
-      "clue": "Bodur ağaç",
+      "clue": "Bodur ağaç anlamına gelen sözcük",
       "answer": "ÇALI"
     }
   ]

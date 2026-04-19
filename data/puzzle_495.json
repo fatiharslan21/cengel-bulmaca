@@ -133,7 +133,7 @@
       "row": 0,
       "col": 0,
       "length": 4,
-      "clue": "Çukur yemek kabı",
+      "clue": "Çukur yemek kabı anlamına gelen sözcük",
       "answer": "KASE"
     },
     {
@@ -142,7 +142,7 @@
       "row": 0,
       "col": 2,
       "length": 5,
-      "clue": "Hayal, ilüzyon",
+      "clue": "Hayal ya da ilüzyon karşılığı olarak kullanılan kelime",
       "answer": "SERAP"
     },
     {
@@ -151,7 +151,7 @@
       "row": 2,
       "col": 4,
       "length": 4,
-      "clue": "Kez, kere",
+      "clue": "Günlük dilde Kez ya da kere olarak bilinen kavram",
       "answer": "DEFA"
     },
     {
@@ -160,7 +160,7 @@
       "row": 3,
       "col": 1,
       "length": 4,
-      "clue": "Amaç, maksat",
+      "clue": "Amaç ya da maksat için kullanılan yaygın ifade",
       "answer": "GAYE"
     },
     {
@@ -169,7 +169,7 @@
       "row": 5,
       "col": 3,
       "length": 4,
-      "clue": "Gönül huzuru",
+      "clue": "Gönül huzuru anlamına gelen sözcük",
       "answer": "SAFA"
     },
     {
@@ -178,7 +178,7 @@
       "row": 5,
       "col": 5,
       "length": 5,
-      "clue": "Feryat, ağlama",
+      "clue": "Günlük dilde Feryat ya da ağlama olarak bilinen kavram",
       "answer": "FİGAN"
     },
     {
@@ -187,7 +187,7 @@
       "row": 5,
       "col": 9,
       "length": 4,
-      "clue": "Başka, özge",
+      "clue": "Başka ya da özge karşılığı olarak kullanılan kelime",
       "answer": "GAYR"
     },
     {
@@ -196,7 +196,7 @@
       "row": 7,
       "col": 7,
       "length": 3,
-      "clue": "Üzüm bahçesi",
+      "clue": "Günlük dilde Üzüm bahçesi olarak bilinen kavram",
       "answer": "BAĞ"
     },
     {
@@ -205,7 +205,7 @@
       "row": 7,
       "col": 7,
       "length": 3,
-      "clue": "Uzunluk, endam",
+      "clue": "Uzunluk ya da endam için kullanılan yaygın ifade",
       "answer": "BOY"
     },
     {
@@ -214,7 +214,7 @@
       "row": 8,
       "col": 4,
       "length": 4,
-      "clue": "Siyah renk",
+      "clue": "Siyah renk karşılığı olarak kullanılan kelime",
       "answer": "KARA"
     }
   ]

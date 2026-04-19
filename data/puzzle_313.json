@@ -125,7 +125,7 @@
       "row": 0,
       "col": 0,
       "length": 5,
-      "clue": "Harita kitabı",
+      "clue": "Harita kitabı karşılığı olarak kullanılan kelime",
       "answer": "ATLAS"
     },
     {
@@ -134,7 +134,7 @@
       "row": 0,
       "col": 4,
       "length": 6,
-      "clue": "Kürekli tekne",
+      "clue": "Günlük dilde Kürekli tekne olarak bilinen kavram",
       "answer": "SANDAL"
     },
     {
@@ -143,7 +143,7 @@
       "row": 0,
       "col": 6,
       "length": 4,
-      "clue": "Küçük akarsu",
+      "clue": "Küçük akarsu anlamına gelen sözcük",
       "answer": "DERE"
     },
     {
@@ -152,7 +152,7 @@
       "row": 0,
       "col": 9,
       "length": 3,
-      "clue": "Sert kayaç parçası",
+      "clue": "Sert kayaç parçası için kullanılan yaygın ifade",
       "answer": "TAŞ"
     },
     {
@@ -161,7 +161,7 @@
       "row": 0,
       "col": 9,
       "length": 3,
-      "clue": "İnce parçacıklar",
+      "clue": "İnce parçacıklar karşılığı olarak kullanılan kelime",
       "answer": "TOZ"
     },
     {
@@ -170,7 +170,7 @@
       "row": 1,
       "col": 6,
       "length": 4,
-      "clue": "Kırmızı meyve",
+      "clue": "Bulmacada Kırmızı meyve karşılığını veren yanıt",
       "answer": "ELMA"
     },
     {
@@ -179,7 +179,7 @@
       "row": 2,
       "col": 2,
       "length": 5,
-      "clue": "Yüzeyin sınırı",
+      "clue": "Günlük dilde Yüzeyin sınırı olarak bilinen kavram",
       "answer": "KENAR"
     },
     {
@@ -188,7 +188,7 @@
       "row": 2,
       "col": 2,
       "length": 6,
-      "clue": "Nasip, pay",
+      "clue": "Nasip ya da pay karşılığı olarak kullanılan kelime",
       "answer": "KISMET"
     },
     {
@@ -197,7 +197,7 @@
       "row": 4,
       "col": 0,
       "length": 3,
-      "clue": "İşitilen titreşim",
+      "clue": "İşitilen titreşim anlamına gelen sözcük",
       "answer": "SES"
     },
     {
@@ -206,7 +206,7 @@
       "row": 6,
       "col": 0,
       "length": 4,
-      "clue": "Özlenen istek",
+      "clue": "Özlenen istek için kullanılan yaygın ifade",
       "answer": "EMEL"
     }
   ]

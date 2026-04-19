@@ -139,7 +139,7 @@
       "row": 0,
       "col": 7,
       "length": 4,
-      "clue": "Anadolu halkı",
+      "clue": "Anadolu halkı için kullanılan yaygın ifade",
       "answer": "TÜRK"
     },
     {
@@ -148,7 +148,7 @@
       "row": 0,
       "col": 7,
       "length": 5,
-      "clue": "Yemek kabı",
+      "clue": "Yemek kabı anlamına gelen sözcük",
       "answer": "TABAK"
     },
     {
@@ -157,7 +157,7 @@
       "row": 0,
       "col": 11,
       "length": 5,
-      "clue": "Yemek aracı",
+      "clue": "Günlük dilde Yemek aracı olarak bilinen kavram",
       "answer": "KAŞIK"
     },
     {
@@ -166,7 +166,7 @@
       "row": 2,
       "col": 5,
       "length": 4,
-      "clue": "Felaket, kötülük",
+      "clue": "Günlük dilde Felaket ya da kötülük olarak bilinen kavram",
       "answer": "BELA"
     },
     {
@@ -175,7 +175,7 @@
       "row": 3,
       "col": 5,
       "length": 5,
-      "clue": "Vaktinden önce",
+      "clue": "Vaktinden önce karşılığı olarak kullanılan kelime",
       "answer": "ERKEN"
     },
     {
@@ -184,7 +184,7 @@
       "row": 3,
       "col": 8,
       "length": 3,
-      "clue": "Tırnak törpüsü",
+      "clue": "Tırnak törpüsü için kullanılan yaygın ifade",
       "answer": "EĞE"
     },
     {
@@ -193,7 +193,7 @@
       "row": 4,
       "col": 1,
       "length": 5,
-      "clue": "Suyla ıslanmış",
+      "clue": "Bulmacada Suyla ıslanmış karşılığını veren yanıt",
       "answer": "ISLAK"
     },
     {
@@ -202,7 +202,7 @@
       "row": 4,
       "col": 3,
       "length": 4,
-      "clue": "Ev, konut",
+      "clue": "Ev ya da konut karşılığı olarak kullanılan kelime",
       "answer": "HANE"
     },
     {
@@ -211,7 +211,7 @@
       "row": 5,
       "col": 3,
       "length": 4,
-      "clue": "Hedef, gaye",
+      "clue": "Bulmacada Hedef ya da gaye karşılığını veren yanıt",
       "answer": "AMAÇ"
     },
     {
@@ -220,7 +220,7 @@
       "row": 7,
       "col": 0,
       "length": 4,
-      "clue": "Ferahlatıcı bitki",
+      "clue": "Ferahlatıcı bitki anlamına gelen sözcük",
       "answer": "NANE"
     }
   ]

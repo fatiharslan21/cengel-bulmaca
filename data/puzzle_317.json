@@ -143,7 +143,7 @@
       "row": 0,
       "col": 1,
       "length": 4,
-      "clue": "Küçük kemirgen",
+      "clue": "Küçük kemirgen karşılığı olarak kullanılan kelime",
       "answer": "FARE"
     },
     {
@@ -152,7 +152,7 @@
       "row": 1,
       "col": 0,
       "length": 3,
-      "clue": "Mülk, eşya",
+      "clue": "Mülk ya da eşya anlamına gelen sözcük",
       "answer": "MAL"
     },
     {
@@ -161,7 +161,7 @@
       "row": 3,
       "col": 0,
       "length": 3,
-      "clue": "Havadaki rutubet",
+      "clue": "Bulmacada Havadaki rutubet karşılığını veren yanıt",
       "answer": "NEM"
     },
     {
@@ -170,7 +170,7 @@
       "row": 3,
       "col": 2,
       "length": 4,
-      "clue": "Geçmiş zaman",
+      "clue": "Geçmiş zaman karşılığı olarak kullanılan kelime",
       "answer": "MAZİ"
     },
     {
@@ -179,7 +179,7 @@
       "row": 3,
       "col": 4,
       "length": 6,
-      "clue": "Anlatılan olay",
+      "clue": "Günlük dilde Anlatılan olay olarak bilinen kavram",
       "answer": "HİKAYE"
     },
     {
@@ -188,7 +188,7 @@
       "row": 4,
       "col": 2,
       "length": 3,
-      "clue": "Yakışıklı, gösterişli",
+      "clue": "Yakışıklı ya da gösterişli anlamına gelen sözcük",
       "answer": "AFİ"
     },
     {
@@ -197,7 +197,7 @@
       "row": 5,
       "col": 0,
       "length": 3,
-      "clue": "İnce parçacıklar",
+      "clue": "İnce parçacıklar karşılığı olarak kullanılan kelime",
       "answer": "TOZ"
     },
     {
@@ -206,7 +206,7 @@
       "row": 5,
       "col": 6,
       "length": 5,
-      "clue": "Temel buğday gıdası",
+      "clue": "Temel buğday gıdası anlamına gelen sözcük",
       "answer": "EKMEK"
     },
     {
@@ -215,7 +215,7 @@
       "row": 6,
       "col": 6,
       "length": 5,
-      "clue": "Üzüntü",
+      "clue": "Bulmacada Üzüntü karşılığını veren yanıt",
       "answer": "KEDER"
     },
     {
@@ -224,7 +224,7 @@
       "row": 8,
       "col": 3,
       "length": 5,
-      "clue": "Onur, itibar",
+      "clue": "Onur ya da itibar için kullanılan yaygın ifade",
       "answer": "ŞEREF"
     }
   ]

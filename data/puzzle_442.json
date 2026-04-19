@@ -123,7 +123,7 @@
       "row": 0,
       "col": 3,
       "length": 4,
-      "clue": "Sözünde durma",
+      "clue": "Sözünde durma karşılığı olarak kullanılan kelime",
       "answer": "VEFA"
     },
     {
@@ -132,7 +132,7 @@
       "row": 0,
       "col": 5,
       "length": 4,
-      "clue": "Tesadüf, denk gelme",
+      "clue": "Tesadüf ya da denk gelme anlamına gelen sözcük",
       "answer": "RAST"
     },
     {
@@ -141,7 +141,7 @@
       "row": 2,
       "col": 1,
       "length": 4,
-      "clue": "Ev, konut",
+      "clue": "Ev ya da konut karşılığı olarak kullanılan kelime",
       "answer": "HANE"
     },
     {
@@ -150,7 +150,7 @@
       "row": 2,
       "col": 7,
       "length": 4,
-      "clue": "Silahlı kuvvetler",
+      "clue": "Günlük dilde Silahlı kuvvetler olarak bilinen kavram",
       "answer": "ORDU"
     },
     {
@@ -159,7 +159,7 @@
       "row": 3,
       "col": 1,
       "length": 7,
-      "clue": "Kilit açma aleti",
+      "clue": "Kilit açma aleti karşılığı olarak kullanılan kelime",
       "answer": "ANAHTAR"
     },
     {
@@ -168,7 +168,7 @@
       "row": 5,
       "col": 0,
       "length": 5,
-      "clue": "Yanıt, karşılık",
+      "clue": "Yanıt ya da karşılık için kullanılan yaygın ifade",
       "answer": "CEVAP"
     },
     {
@@ -177,7 +177,7 @@
       "row": 5,
       "col": 3,
       "length": 4,
-      "clue": "Yemek pişiren",
+      "clue": "Yemek pişiren karşılığı olarak kullanılan kelime",
       "answer": "AŞÇI"
     },
     {
@@ -186,7 +186,7 @@
       "row": 6,
       "col": 6,
       "length": 4,
-      "clue": "Gönül huzuru",
+      "clue": "Gönül huzuru anlamına gelen sözcük",
       "answer": "SAFA"
     },
     {
@@ -195,7 +195,7 @@
       "row": 7,
       "col": 3,
       "length": 5,
-      "clue": "Gölge ağacı",
+      "clue": "Bulmacada Gölge ağacı karşılığını veren yanıt",
       "answer": "ÇINAR"
     },
     {
@@ -204,7 +204,7 @@
       "row": 9,
       "col": 5,
       "length": 4,
-      "clue": "Mutlaka yapılması gereken",
+      "clue": "Bulmacada Mutlaka yapılması gereken karşılığını veren yanıt",
       "answer": "FARZ"
     }
   ]

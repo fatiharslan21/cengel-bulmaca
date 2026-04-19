@@ -157,7 +157,7 @@
       "row": 0,
       "col": 6,
       "length": 4,
-      "clue": "Seslenme",
+      "clue": "Bulmacada Seslenme karşılığını veren yanıt",
       "answer": "NİDA"
     },
     {
@@ -166,7 +166,7 @@
       "row": 2,
       "col": 3,
       "length": 6,
-      "clue": "Okyanus memelisi",
+      "clue": "Okyanus memelisi için kullanılan yaygın ifade",
       "answer": "BALİNA"
     },
     {
@@ -175,7 +175,7 @@
       "row": 3,
       "col": 3,
       "length": 4,
-      "clue": "Yansıtıcı cam",
+      "clue": "Bulmacada Yansıtıcı cam karşılığını veren yanıt",
       "answer": "AYNA"
     },
     {
@@ -184,7 +184,7 @@
       "row": 4,
       "col": 0,
       "length": 4,
-      "clue": "Konaklama yeri",
+      "clue": "Bulmacada Konaklama yeri karşılığını veren yanıt",
       "answer": "OTEL"
     },
     {
@@ -193,7 +193,7 @@
       "row": 5,
       "col": 6,
       "length": 3,
-      "clue": "Arı ürünü tatlı",
+      "clue": "Arı ürünü tatlı için kullanılan yaygın ifade",
       "answer": "BAL"
     },
     {
@@ -211,7 +211,7 @@
       "row": 7,
       "col": 2,
       "length": 5,
-      "clue": "Örnek, benzer",
+      "clue": "Örnek ya da benzer için kullanılan yaygın ifade",
       "answer": "MİSAL"
     },
     {
@@ -220,7 +220,7 @@
       "row": 7,
       "col": 2,
       "length": 5,
-      "clue": "Hayal ürünü hikaye",
+      "clue": "Hayal ürünü hikaye karşılığı olarak kullanılan kelime",
       "answer": "MASAL"
     },
     {
@@ -229,7 +229,7 @@
       "row": 7,
       "col": 5,
       "length": 3,
-      "clue": "Yakışıklı, gösterişli",
+      "clue": "Yakışıklı ya da gösterişli anlamına gelen sözcük",
       "answer": "AFİ"
     },
     {
@@ -238,7 +238,7 @@
       "row": 10,
       "col": 1,
       "length": 4,
-      "clue": "Talih, şans",
+      "clue": "Talih ya da şans için kullanılan yaygın ifade",
       "answer": "BAHT"
     }
   ]

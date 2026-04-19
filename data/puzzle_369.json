@@ -125,7 +125,7 @@
       "row": 0,
       "col": 10,
       "length": 4,
-      "clue": "Gömlek boyun kısmı",
+      "clue": "Gömlek boyun kısmı için kullanılan yaygın ifade",
       "answer": "YAKA"
     },
     {
@@ -134,7 +134,7 @@
       "row": 1,
       "col": 7,
       "length": 4,
-      "clue": "Açıklama",
+      "clue": "Günlük dilde Açıklama olarak bilinen kavram",
       "answer": "İZAH"
     },
     {
@@ -143,7 +143,7 @@
       "row": 1,
       "col": 7,
       "length": 5,
-      "clue": "Bilme, anlayış",
+      "clue": "Bilme ya da anlayış karşılığı olarak kullanılan kelime",
       "answer": "İRFAN"
     },
     {
@@ -152,7 +152,7 @@
       "row": 2,
       "col": 4,
       "length": 4,
-      "clue": "Renk veren madde",
+      "clue": "Günlük dilde Renk veren madde olarak bilinen kavram",
       "answer": "BOYA"
     },
     {
@@ -161,7 +161,7 @@
       "row": 3,
       "col": 1,
       "length": 5,
-      "clue": "Yok olma",
+      "clue": "Bulmacada Yok olma karşılığını veren yanıt",
       "answer": "ZEVAL"
     },
     {
@@ -170,7 +170,7 @@
       "row": 3,
       "col": 4,
       "length": 5,
-      "clue": "Vücut bölümü",
+      "clue": "Vücut bölümü karşılığı olarak kullanılan kelime",
       "answer": "ORGAN"
     },
     {
@@ -179,7 +179,7 @@
       "row": 5,
       "col": 3,
       "length": 3,
-      "clue": "Sert kayaç parçası",
+      "clue": "Sert kayaç parçası için kullanılan yaygın ifade",
       "answer": "TAŞ"
     },
     {
@@ -188,7 +188,7 @@
       "row": 5,
       "col": 3,
       "length": 3,
-      "clue": "Cilt, deri",
+      "clue": "Cilt ya da deri karşılığı olarak kullanılan kelime",
       "answer": "TEN"
     },
     {
@@ -197,7 +197,7 @@
       "row": 6,
       "col": 0,
       "length": 4,
-      "clue": "Bayat olmayan",
+      "clue": "Bulmacada Bayat olmayan karşılığını veren yanıt",
       "answer": "TAZE"
     },
     {
@@ -206,7 +206,7 @@
       "row": 7,
       "col": 3,
       "length": 5,
-      "clue": "Taşıma, aktarma",
+      "clue": "Bulmacada Taşıma ya da aktarma karşılığını veren yanıt",
       "answer": "NAKİL"
     }
   ]

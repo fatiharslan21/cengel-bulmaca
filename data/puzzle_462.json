@@ -169,7 +169,7 @@
       "row": 0,
       "col": 1,
       "length": 4,
-      "clue": "Karşılık, sevap",
+      "clue": "Bulmacada Karşılık ya da sevap karşılığını veren yanıt",
       "answer": "ECİR"
     },
     {
@@ -178,7 +178,7 @@
       "row": 0,
       "col": 4,
       "length": 5,
-      "clue": "Bolluk, huzur",
+      "clue": "Bolluk ya da huzur için kullanılan yaygın ifade",
       "answer": "REFAH"
     },
     {
@@ -187,7 +187,7 @@
       "row": 2,
       "col": 2,
       "length": 5,
-      "clue": "Aşk, tutku",
+      "clue": "Günlük dilde Aşk ya da tutku olarak bilinen kavram",
       "answer": "SEVDA"
     },
     {
@@ -196,7 +196,7 @@
       "row": 3,
       "col": 1,
       "length": 5,
-      "clue": "Sürdürme",
+      "clue": "Sürdürme karşılığı olarak kullanılan kelime",
       "answer": "DEVAM"
     },
     {
@@ -205,7 +205,7 @@
       "row": 6,
       "col": 1,
       "length": 4,
-      "clue": "Çiçek süs kabı",
+      "clue": "Bulmacada Çiçek süs kabı karşılığını veren yanıt",
       "answer": "VAZO"
     },
     {
@@ -214,7 +214,7 @@
       "row": 6,
       "col": 1,
       "length": 6,
-      "clue": "Özlü söz",
+      "clue": "Özlü söz için kullanılan yaygın ifade",
       "answer": "VECİZE"
     },
     {
@@ -223,7 +223,7 @@
       "row": 7,
       "col": 5,
       "length": 5,
-      "clue": "Esenleme sözü",
+      "clue": "Esenleme sözü için kullanılan yaygın ifade",
       "answer": "SELAM"
     },
     {
@@ -232,7 +232,7 @@
       "row": 8,
       "col": 1,
       "length": 3,
-      "clue": "Hayat, yaşam",
+      "clue": "Hayat ya da yaşam anlamına gelen sözcük",
       "answer": "CAN"
     },
     {
@@ -241,7 +241,7 @@
       "row": 10,
       "col": 5,
       "length": 6,
-      "clue": "Başkent",
+      "clue": "Başkent karşılığı olarak kullanılan kelime",
       "answer": "ANKARA"
     },
     {
@@ -250,7 +250,7 @@
       "row": 11,
       "col": 0,
       "length": 6,
-      "clue": "Yer sarsıntısı",
+      "clue": "Bulmacada Yer sarsıntısı karşılığını veren yanıt",
       "answer": "DEPREM"
     }
   ]

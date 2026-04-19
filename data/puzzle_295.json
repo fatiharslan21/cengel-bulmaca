@@ -181,7 +181,7 @@
       "row": 0,
       "col": 9,
       "length": 6,
-      "clue": "Üst giysi",
+      "clue": "Üst giysi karşılığı olarak kullanılan kelime",
       "answer": "GÖMLEK"
     },
     {
@@ -190,7 +190,7 @@
       "row": 1,
       "col": 8,
       "length": 4,
-      "clue": "Üçten sonra gelen",
+      "clue": "Üçten sonra gelen için kullanılan yaygın ifade",
       "answer": "DÖRT"
     },
     {
@@ -199,7 +199,7 @@
       "row": 4,
       "col": 5,
       "length": 6,
-      "clue": "Güç, kuvvet",
+      "clue": "Günlük dilde Güç ya da kuvvet olarak bilinen kavram",
       "answer": "KUDRET"
     },
     {
@@ -208,7 +208,7 @@
       "row": 4,
       "col": 5,
       "length": 6,
-      "clue": "Nasip, pay",
+      "clue": "Nasip ya da pay karşılığı olarak kullanılan kelime",
       "answer": "KISMET"
     },
     {
@@ -217,7 +217,7 @@
       "row": 5,
       "col": 2,
       "length": 4,
-      "clue": "Eşya kabı",
+      "clue": "Eşya kabı karşılığı olarak kullanılan kelime",
       "answer": "KUTU"
     },
     {
@@ -226,7 +226,7 @@
       "row": 6,
       "col": 7,
       "length": 4,
-      "clue": "Yazılmış metin",
+      "clue": "Bulmacada Yazılmış metin karşılığını veren yanıt",
       "answer": "YAZI"
     },
     {
@@ -235,7 +235,7 @@
       "row": 7,
       "col": 4,
       "length": 5,
-      "clue": "Bilme, anlayış",
+      "clue": "Bilme ya da anlayış karşılığı olarak kullanılan kelime",
       "answer": "İRFAN"
     },
     {
@@ -244,7 +244,7 @@
       "row": 8,
       "col": 1,
       "length": 4,
-      "clue": "Savunma yapısı",
+      "clue": "Savunma yapısı karşılığı olarak kullanılan kelime",
       "answer": "KALE"
     },
     {
@@ -253,7 +253,7 @@
       "row": 8,
       "col": 3,
       "length": 4,
-      "clue": "İnanç",
+      "clue": "Bulmacada İnanç karşılığını veren yanıt",
       "answer": "İMAN"
     },
     {
@@ -262,7 +262,7 @@
       "row": 9,
       "col": 0,
       "length": 6,
-      "clue": "Güçlük, eziyet",
+      "clue": "Güçlük ya da eziyet anlamına gelen sözcük",
       "answer": "ZAHMET"
     }
   ]

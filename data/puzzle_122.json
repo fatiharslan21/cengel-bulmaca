@@ -101,7 +101,7 @@
       "row": 0,
       "col": 2,
       "length": 4,
-      "clue": "Yeşil alan",
+      "clue": "Günlük dilde Yeşil alan olarak bilinen kavram",
       "answer": "PARK"
     },
     {
@@ -110,7 +110,7 @@
       "row": 0,
       "col": 7,
       "length": 4,
-      "clue": "Ayrım, değişiklik",
+      "clue": "Ayrım ya da değişiklik anlamına gelen sözcük",
       "answer": "FARK"
     },
     {
@@ -119,7 +119,7 @@
       "row": 1,
       "col": 1,
       "length": 4,
-      "clue": "Rakam ifadesi",
+      "clue": "Bulmacada Rakam ifadesi karşılığını veren yanıt",
       "answer": "SAYI"
     },
     {
@@ -128,7 +128,7 @@
       "row": 2,
       "col": 5,
       "length": 5,
-      "clue": "El kol eklemi",
+      "clue": "El kol eklemi karşılığı olarak kullanılan kelime",
       "answer": "BİLEK"
     },
     {
@@ -137,7 +137,7 @@
       "row": 2,
       "col": 5,
       "length": 4,
-      "clue": "Zodyak işareti",
+      "clue": "Günlük dilde Zodyak işareti olarak bilinen kavram",
       "answer": "BURÇ"
     },
     {
@@ -146,7 +146,7 @@
       "row": 3,
       "col": 2,
       "length": 4,
-      "clue": "Miyavlayan evcil",
+      "clue": "Miyavlayan evcil anlamına gelen sözcük",
       "answer": "KEDİ"
     },
     {
@@ -155,7 +155,7 @@
       "row": 5,
       "col": 2,
       "length": 5,
-      "clue": "Maç yöneticisi",
+      "clue": "Bulmacada Maç yöneticisi karşılığını veren yanıt",
       "answer": "HAKEM"
     },
     {
@@ -164,7 +164,7 @@
       "row": 5,
       "col": 3,
       "length": 3,
-      "clue": "Toprak sahibi",
+      "clue": "Günlük dilde Toprak sahibi olarak bilinen kavram",
       "answer": "AĞA"
     },
     {
@@ -173,7 +173,7 @@
       "row": 7,
       "col": 0,
       "length": 4,
-      "clue": "Müzik işareti",
+      "clue": "Müzik işareti için kullanılan yaygın ifade",
       "answer": "NOTA"
     }
   ]

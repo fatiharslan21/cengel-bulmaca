@@ -123,7 +123,7 @@
       "row": 0,
       "col": 7,
       "length": 3,
-      "clue": "Çizgi, yol",
+      "clue": "Çizgi ya da yol anlamına gelen sözcük",
       "answer": "HAT"
     },
     {
@@ -132,7 +132,7 @@
       "row": 2,
       "col": 2,
       "length": 6,
-      "clue": "Ün, nam",
+      "clue": "Ün ya da nam anlamına gelen sözcük",
       "answer": "ŞÖHRET"
     },
     {
@@ -141,7 +141,7 @@
       "row": 2,
       "col": 4,
       "length": 4,
-      "clue": "Solunan gaz",
+      "clue": "Solunan gaz anlamına gelen sözcük",
       "answer": "HAVA"
     },
     {
@@ -150,7 +150,7 @@
       "row": 4,
       "col": 7,
       "length": 5,
-      "clue": "Ölçü, ebat",
+      "clue": "Günlük dilde Ölçü ya da ebat olarak bilinen kavram",
       "answer": "BOYUT"
     },
     {
@@ -159,7 +159,7 @@
       "row": 5,
       "col": 1,
       "length": 5,
-      "clue": "Olgunluk",
+      "clue": "Olgunluk için kullanılan yaygın ifade",
       "answer": "KEMAL"
     },
     {
@@ -168,7 +168,7 @@
       "row": 5,
       "col": 3,
       "length": 3,
-      "clue": "Arı ürünü tatlı",
+      "clue": "Arı ürünü tatlı için kullanılan yaygın ifade",
       "answer": "BAL"
     },
     {
@@ -177,7 +177,7 @@
       "row": 5,
       "col": 3,
       "length": 6,
-      "clue": "Bina çıkıntısı",
+      "clue": "Bina çıkıntısı karşılığı olarak kullanılan kelime",
       "answer": "BALKON"
     },
     {
@@ -186,7 +186,7 @@
       "row": 6,
       "col": 0,
       "length": 4,
-      "clue": "Kez, kere",
+      "clue": "Günlük dilde Kez ya da kere olarak bilinen kavram",
       "answer": "DEFA"
     },
     {
@@ -204,7 +204,7 @@
       "row": 8,
       "col": 0,
       "length": 3,
-      "clue": "Sert kayaç parçası",
+      "clue": "Sert kayaç parçası için kullanılan yaygın ifade",
       "answer": "TAŞ"
     }
   ]

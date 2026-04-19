@@ -181,7 +181,7 @@
       "row": 0,
       "col": 6,
       "length": 5,
-      "clue": "İyilik, bolluk",
+      "clue": "İyilik ya da bolluk için kullanılan yaygın ifade",
       "answer": "NİMET"
     },
     {
@@ -190,7 +190,7 @@
       "row": 0,
       "col": 6,
       "length": 5,
-      "clue": "Bakış, göz",
+      "clue": "Bakış ya da göz anlamına gelen sözcük",
       "answer": "NAZAR"
     },
     {
@@ -199,7 +199,7 @@
       "row": 0,
       "col": 9,
       "length": 4,
-      "clue": "Terbiye, görgü",
+      "clue": "Terbiye ya da görgü karşılığı olarak kullanılan kelime",
       "answer": "EDEP"
     },
     {
@@ -208,7 +208,7 @@
       "row": 1,
       "col": 3,
       "length": 4,
-      "clue": "Gönül huzuru",
+      "clue": "Gönül huzuru anlamına gelen sözcük",
       "answer": "SAFA"
     },
     {
@@ -217,7 +217,7 @@
       "row": 2,
       "col": 8,
       "length": 4,
-      "clue": "Gökyüzü",
+      "clue": "Gökyüzü anlamına gelen sözcük",
       "answer": "SEMA"
     },
     {
@@ -226,7 +226,7 @@
       "row": 3,
       "col": 4,
       "length": 6,
-      "clue": "Kısa an",
+      "clue": "Kısa an anlamına gelen sözcük",
       "answer": "SANİYE"
     },
     {
@@ -235,7 +235,7 @@
       "row": 4,
       "col": 3,
       "length": 6,
-      "clue": "Özlem, göresi",
+      "clue": "Özlem ya da göresi karşılığı olarak kullanılan kelime",
       "answer": "HASRET"
     },
     {
@@ -244,7 +244,7 @@
       "row": 6,
       "col": 4,
       "length": 4,
-      "clue": "Sivri dikiş aracı",
+      "clue": "Sivri dikiş aracı anlamına gelen sözcük",
       "answer": "İĞNE"
     },
     {
@@ -253,7 +253,7 @@
       "row": 7,
       "col": 1,
       "length": 5,
-      "clue": "İstek",
+      "clue": "Günlük dilde İstek olarak bilinen kavram",
       "answer": "TALEP"
     },
     {
@@ -262,7 +262,7 @@
       "row": 8,
       "col": 0,
       "length": 6,
-      "clue": "Kıyamet yeri",
+      "clue": "Kıyamet yeri için kullanılan yaygın ifade",
       "answer": "MAHŞER"
     }
   ]

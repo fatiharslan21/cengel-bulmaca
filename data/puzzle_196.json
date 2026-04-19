@@ -133,7 +133,7 @@
       "row": 0,
       "col": 4,
       "length": 5,
-      "clue": "Dört tekerlekli taşıt",
+      "clue": "Bulmacada Dört tekerlekli taşıt karşılığını veren yanıt",
       "answer": "ARABA"
     },
     {
@@ -142,7 +142,7 @@
       "row": 1,
       "col": 2,
       "length": 3,
-      "clue": "Gizli bilgi",
+      "clue": "Gizli bilgi için kullanılan yaygın ifade",
       "answer": "SIR"
     },
     {
@@ -151,7 +151,7 @@
       "row": 4,
       "col": 2,
       "length": 4,
-      "clue": "Tedavi maddesi",
+      "clue": "Tedavi maddesi için kullanılan yaygın ifade",
       "answer": "İLAÇ"
     },
     {
@@ -160,7 +160,7 @@
       "row": 4,
       "col": 5,
       "length": 5,
-      "clue": "Gölge ağacı",
+      "clue": "Bulmacada Gölge ağacı karşılığını veren yanıt",
       "answer": "ÇINAR"
     },
     {
@@ -169,7 +169,7 @@
       "row": 6,
       "col": 0,
       "length": 6,
-      "clue": "Yük aracı",
+      "clue": "Yük aracı karşılığı olarak kullanılan kelime",
       "answer": "KAMYON"
     },
     {
@@ -178,7 +178,7 @@
       "row": 6,
       "col": 7,
       "length": 5,
-      "clue": "Yüzeyin sınırı",
+      "clue": "Günlük dilde Yüzeyin sınırı olarak bilinen kavram",
       "answer": "KENAR"
     },
     {
@@ -187,7 +187,7 @@
       "row": 8,
       "col": 2,
       "length": 3,
-      "clue": "Güç, kolay değil",
+      "clue": "Günlük dilde Güç ya da kolay değil olarak bilinen kavram",
       "answer": "ZOR"
     },
     {
@@ -196,7 +196,7 @@
       "row": 8,
       "col": 4,
       "length": 4,
-      "clue": "Biçim, üslup",
+      "clue": "Biçim ya da üslup için kullanılan yaygın ifade",
       "answer": "TARZ"
     },
     {
@@ -205,7 +205,7 @@
       "row": 8,
       "col": 4,
       "length": 4,
-      "clue": "Raylı taşıt",
+      "clue": "Bulmacada Raylı taşıt karşılığını veren yanıt",
       "answer": "TREN"
     },
     {
@@ -214,7 +214,7 @@
       "row": 9,
       "col": 1,
       "length": 4,
-      "clue": "Bağlama aracı",
+      "clue": "Bağlama aracı anlamına gelen sözcük",
       "answer": "TOKA"
     }
   ]

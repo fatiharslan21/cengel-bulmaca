@@ -156,7 +156,7 @@
       "row": 0,
       "col": 10,
       "length": 5,
-      "clue": "Ekin alanı",
+      "clue": "Ekin alanı anlamına gelen sözcük",
       "answer": "TARLA"
     },
     {
@@ -165,7 +165,7 @@
       "row": 2,
       "col": 3,
       "length": 4,
-      "clue": "Zaman ölçer",
+      "clue": "Bulmacada Zaman ölçer karşılığını veren yanıt",
       "answer": "SAAT"
     },
     {
@@ -174,7 +174,7 @@
       "row": 3,
       "col": 1,
       "length": 4,
-      "clue": "Çözüm yolu",
+      "clue": "Çözüm yolu anlamına gelen sözcük",
       "answer": "ÇARE"
     },
     {
@@ -183,7 +183,7 @@
       "row": 3,
       "col": 6,
       "length": 4,
-      "clue": "Tedavi maddesi",
+      "clue": "Tedavi maddesi için kullanılan yaygın ifade",
       "answer": "İLAÇ"
     },
     {
@@ -192,7 +192,7 @@
       "row": 4,
       "col": 0,
       "length": 4,
-      "clue": "Tahta oyunu",
+      "clue": "Tahta oyunu anlamına gelen sözcük",
       "answer": "DAMA"
     },
     {
@@ -201,7 +201,7 @@
       "row": 4,
       "col": 6,
       "length": 5,
-      "clue": "Aydınlatma aracı",
+      "clue": "Aydınlatma aracı karşılığı olarak kullanılan kelime",
       "answer": "LAMBA"
     },
     {
@@ -210,7 +210,7 @@
       "row": 5,
       "col": 3,
       "length": 4,
-      "clue": "Bağlama aracı",
+      "clue": "Bağlama aracı anlamına gelen sözcük",
       "answer": "TOKA"
     },
     {
@@ -219,7 +219,7 @@
       "row": 5,
       "col": 4,
       "length": 6,
-      "clue": "Toplu taşıma",
+      "clue": "Bulmacada Toplu taşıma karşılığını veren yanıt",
       "answer": "OTOBÜS"
     },
     {
@@ -228,7 +228,7 @@
       "row": 6,
       "col": 6,
       "length": 5,
-      "clue": "Gölge ağacı",
+      "clue": "Bulmacada Gölge ağacı karşılığını veren yanıt",
       "answer": "ÇINAR"
     },
     {
@@ -237,7 +237,7 @@
       "row": 8,
       "col": 4,
       "length": 3,
-      "clue": "Kafa, vücudun üstü",
+      "clue": "Kafa ya da vücudun üstü için kullanılan yaygın ifade",
       "answer": "BAŞ"
     }
   ]

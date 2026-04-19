@@ -130,7 +130,7 @@
       "row": 0,
       "col": 3,
       "length": 4,
-      "clue": "Yemek mobilyası",
+      "clue": "Günlük dilde Yemek mobilyası olarak bilinen kavram",
       "answer": "MASA"
     },
     {
@@ -139,7 +139,7 @@
       "row": 0,
       "col": 3,
       "length": 5,
-      "clue": "Seslerle sanat",
+      "clue": "Bulmacada Seslerle sanat karşılığını veren yanıt",
       "answer": "MÜZİK"
     },
     {
@@ -148,7 +148,7 @@
       "row": 3,
       "col": 0,
       "length": 5,
-      "clue": "Günün başı",
+      "clue": "Günün başı anlamına gelen sözcük",
       "answer": "SABAH"
     },
     {
@@ -157,7 +157,7 @@
       "row": 3,
       "col": 1,
       "length": 6,
-      "clue": "Başkent",
+      "clue": "Başkent karşılığı olarak kullanılan kelime",
       "answer": "ANKARA"
     },
     {
@@ -166,7 +166,7 @@
       "row": 3,
       "col": 7,
       "length": 3,
-      "clue": "Ateş közü",
+      "clue": "Günlük dilde Ateş közü olarak bilinen kavram",
       "answer": "KOR"
     },
     {
@@ -175,7 +175,7 @@
       "row": 3,
       "col": 7,
       "length": 4,
-      "clue": "Ev bedeli",
+      "clue": "Bulmacada Ev bedeli karşılığını veren yanıt",
       "answer": "KIRA"
     },
     {
@@ -184,7 +184,7 @@
       "row": 5,
       "col": 3,
       "length": 4,
-      "clue": "Gönül huzuru",
+      "clue": "Gönül huzuru anlamına gelen sözcük",
       "answer": "SAFA"
     },
     {
@@ -193,7 +193,7 @@
       "row": 5,
       "col": 3,
       "length": 5,
-      "clue": "Katlanma, dayanma",
+      "clue": "Bulmacada Katlanma ya da dayanma karşılığını veren yanıt",
       "answer": "SABIR"
     },
     {
@@ -202,7 +202,7 @@
       "row": 6,
       "col": 0,
       "length": 4,
-      "clue": "İddia, tez",
+      "clue": "İddia ya da tez karşılığı olarak kullanılan kelime",
       "answer": "DAVA"
     },
     {
@@ -211,7 +211,7 @@
       "row": 8,
       "col": 1,
       "length": 3,
-      "clue": "Ced, büyükbaba",
+      "clue": "Günlük dilde Ced ya da büyükbaba olarak bilinen kavram",
       "answer": "ATA"
     }
   ]

@@ -157,7 +157,7 @@
       "row": 0,
       "col": 4,
       "length": 4,
-      "clue": "Yanlış, kusur",
+      "clue": "Günlük dilde Yanlış ya da kusur olarak bilinen kavram",
       "answer": "HATA"
     },
     {
@@ -166,7 +166,7 @@
       "row": 2,
       "col": 6,
       "length": 4,
-      "clue": "Kötü, berbat",
+      "clue": "Kötü ya da berbat karşılığı olarak kullanılan kelime",
       "answer": "FENA"
     },
     {
@@ -175,7 +175,7 @@
       "row": 3,
       "col": 3,
       "length": 4,
-      "clue": "Amaç, maksat",
+      "clue": "Amaç ya da maksat için kullanılan yaygın ifade",
       "answer": "GAYE"
     },
     {
@@ -184,7 +184,7 @@
       "row": 5,
       "col": 5,
       "length": 5,
-      "clue": "Katlanma, dayanma",
+      "clue": "Bulmacada Katlanma ya da dayanma karşılığını veren yanıt",
       "answer": "SABIR"
     },
     {
@@ -193,7 +193,7 @@
       "row": 5,
       "col": 7,
       "length": 6,
-      "clue": "Güzel öten kuş",
+      "clue": "Güzel öten kuş için kullanılan yaygın ifade",
       "answer": "BÜLBÜL"
     },
     {
@@ -202,7 +202,7 @@
       "row": 7,
       "col": 4,
       "length": 5,
-      "clue": "Şans, baht",
+      "clue": "Bulmacada Şans ya da baht karşılığını veren yanıt",
       "answer": "TALİH"
     },
     {
@@ -211,7 +211,7 @@
       "row": 7,
       "col": 4,
       "length": 5,
-      "clue": "Zar masa oyunu",
+      "clue": "Zar masa oyunu için kullanılan yaygın ifade",
       "answer": "TAVLA"
     },
     {
@@ -220,7 +220,7 @@
       "row": 8,
       "col": 1,
       "length": 4,
-      "clue": "Suça yaptırım",
+      "clue": "Bulmacada Suça yaptırım karşılığını veren yanıt",
       "answer": "CEZA"
     },
     {
@@ -229,7 +229,7 @@
       "row": 9,
       "col": 1,
       "length": 4,
-      "clue": "Ölüm vakti",
+      "clue": "Ölüm vakti karşılığı olarak kullanılan kelime",
       "answer": "ECEL"
     },
     {

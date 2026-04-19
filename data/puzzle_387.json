@@ -139,7 +139,7 @@
       "row": 0,
       "col": 4,
       "length": 5,
-      "clue": "Hasım, muhalif",
+      "clue": "Hasım ya da muhalif için kullanılan yaygın ifade",
       "answer": "RAKİP"
     },
     {
@@ -148,7 +148,7 @@
       "row": 1,
       "col": 3,
       "length": 3,
-      "clue": "Kırmızı taneli meyve",
+      "clue": "Kırmızı taneli meyve karşılığı olarak kullanılan kelime",
       "answer": "NAR"
     },
     {
@@ -157,7 +157,7 @@
       "row": 1,
       "col": 8,
       "length": 4,
-      "clue": "Kötü, berbat",
+      "clue": "Kötü ya da berbat karşılığı olarak kullanılan kelime",
       "answer": "FENA"
     },
     {
@@ -166,7 +166,7 @@
       "row": 1,
       "col": 10,
       "length": 4,
-      "clue": "Güçsüzlük",
+      "clue": "Bulmacada Güçsüzlük karşılığını veren yanıt",
       "answer": "ZAAF"
     },
     {
@@ -175,7 +175,7 @@
       "row": 2,
       "col": 7,
       "length": 5,
-      "clue": "Yer, mahal",
+      "clue": "Yer ya da mahal anlamına gelen sözcük",
       "answer": "MEKAN"
     },
     {
@@ -184,7 +184,7 @@
       "row": 3,
       "col": 1,
       "length": 6,
-      "clue": "Yetinme, razı olma",
+      "clue": "Günlük dilde Yetinme ya da razı olma olarak bilinen kavram",
       "answer": "KANAAT"
     },
     {
@@ -193,7 +193,7 @@
       "row": 4,
       "col": 4,
       "length": 5,
-      "clue": "Kutlama tatlısı",
+      "clue": "Kutlama tatlısı anlamına gelen sözcük",
       "answer": "PASTA"
     },
     {
@@ -202,7 +202,7 @@
       "row": 4,
       "col": 5,
       "length": 4,
-      "clue": "Ateşin parlak kısmı",
+      "clue": "Ateşin parlak kısmı karşılığı olarak kullanılan kelime",
       "answer": "ALEV"
     },
     {
@@ -211,7 +211,7 @@
       "row": 5,
       "col": 3,
       "length": 3,
-      "clue": "Seramik toprağı",
+      "clue": "Seramik toprağı karşılığı olarak kullanılan kelime",
       "answer": "KİL"
     },
     {
@@ -220,7 +220,7 @@
       "row": 6,
       "col": 0,
       "length": 6,
-      "clue": "Boşuna, yararsız",
+      "clue": "Boşuna ya da yararsız için kullanılan yaygın ifade",
       "answer": "NAFİLE"
     }
   ]

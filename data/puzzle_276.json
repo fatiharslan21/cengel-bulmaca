@@ -117,7 +117,7 @@
       "row": 0,
       "col": 6,
       "length": 5,
-      "clue": "Seslerle sanat",
+      "clue": "Bulmacada Seslerle sanat karşılığını veren yanıt",
       "answer": "MÜZİK"
     },
     {
@@ -126,7 +126,7 @@
       "row": 0,
       "col": 6,
       "length": 5,
-      "clue": "İyi haber",
+      "clue": "İyi haber anlamına gelen sözcük",
       "answer": "MÜJDE"
     },
     {
@@ -135,7 +135,7 @@
       "row": 1,
       "col": 3,
       "length": 4,
-      "clue": "Anlama yeteneği",
+      "clue": "Anlama yeteneği için kullanılan yaygın ifade",
       "answer": "ZEKA"
     },
     {
@@ -144,7 +144,7 @@
       "row": 2,
       "col": 0,
       "length": 4,
-      "clue": "Ferahlatıcı bitki",
+      "clue": "Ferahlatıcı bitki anlamına gelen sözcük",
       "answer": "NANE"
     },
     {
@@ -153,7 +153,7 @@
       "row": 2,
       "col": 9,
       "length": 5,
-      "clue": "Yemek kabı",
+      "clue": "Yemek kabı anlamına gelen sözcük",
       "answer": "TABAK"
     },
     {
@@ -162,7 +162,7 @@
       "row": 3,
       "col": 6,
       "length": 5,
-      "clue": "Anlayış",
+      "clue": "Günlük dilde Anlayış olarak bilinen kavram",
       "answer": "İDRAK"
     },
     {
@@ -171,7 +171,7 @@
       "row": 4,
       "col": 3,
       "length": 4,
-      "clue": "Bacak ucu",
+      "clue": "Günlük dilde Bacak ucu olarak bilinen kavram",
       "answer": "AYAK"
     },
     {
@@ -180,7 +180,7 @@
       "row": 4,
       "col": 5,
       "length": 4,
-      "clue": "Yemek pişiren",
+      "clue": "Yemek pişiren karşılığı olarak kullanılan kelime",
       "answer": "AŞÇI"
     },
     {
@@ -189,7 +189,7 @@
       "row": 5,
       "col": 8,
       "length": 3,
-      "clue": "Ses çıkaran metal",
+      "clue": "Ses çıkaran metal karşılığı olarak kullanılan kelime",
       "answer": "ÇAN"
     },
     {
@@ -198,7 +198,7 @@
       "row": 6,
       "col": 2,
       "length": 4,
-      "clue": "Tedavi maddesi",
+      "clue": "Tedavi maddesi için kullanılan yaygın ifade",
       "answer": "İLAÇ"
     }
   ]

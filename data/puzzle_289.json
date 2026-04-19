@@ -125,7 +125,7 @@
       "row": 0,
       "col": 1,
       "length": 4,
-      "clue": "İddia, tez",
+      "clue": "İddia ya da tez karşılığı olarak kullanılan kelime",
       "answer": "DAVA"
     },
     {
@@ -134,7 +134,7 @@
       "row": 0,
       "col": 4,
       "length": 3,
-      "clue": "Ced, büyükbaba",
+      "clue": "Günlük dilde Ced ya da büyükbaba olarak bilinen kavram",
       "answer": "ATA"
     },
     {
@@ -143,7 +143,7 @@
       "row": 1,
       "col": 4,
       "length": 3,
-      "clue": "Hekimlik bilimi",
+      "clue": "Bulmacada Hekimlik bilimi karşılığını veren yanıt",
       "answer": "TIP"
     },
     {
@@ -152,7 +152,7 @@
       "row": 1,
       "col": 6,
       "length": 4,
-      "clue": "Yassı ekmek",
+      "clue": "Bulmacada Yassı ekmek karşılığını veren yanıt",
       "answer": "PİDE"
     },
     {
@@ -161,7 +161,7 @@
       "row": 1,
       "col": 8,
       "length": 6,
-      "clue": "Ülke simgesi",
+      "clue": "Ülke simgesi için kullanılan yaygın ifade",
       "answer": "BAYRAK"
     },
     {
@@ -170,7 +170,7 @@
       "row": 2,
       "col": 0,
       "length": 5,
-      "clue": "Mektup servisi",
+      "clue": "Mektup servisi için kullanılan yaygın ifade",
       "answer": "POSTA"
     },
     {
@@ -179,7 +179,7 @@
       "row": 2,
       "col": 6,
       "length": 4,
-      "clue": "Açıklama",
+      "clue": "Günlük dilde Açıklama olarak bilinen kavram",
       "answer": "İZAH"
     },
     {
@@ -188,7 +188,7 @@
       "row": 2,
       "col": 11,
       "length": 6,
-      "clue": "Güç, kuvvet",
+      "clue": "Günlük dilde Güç ya da kuvvet olarak bilinen kavram",
       "answer": "KUDRET"
     },
     {
@@ -206,7 +206,7 @@
       "row": 5,
       "col": 7,
       "length": 5,
-      "clue": "Bakış, göz",
+      "clue": "Bakış ya da göz anlamına gelen sözcük",
       "answer": "NAZAR"
     }
   ]

@@ -121,7 +121,7 @@
       "row": 0,
       "col": 3,
       "length": 5,
-      "clue": "Ani vuruş",
+      "clue": "Ani vuruş anlamına gelen sözcük",
       "answer": "DARBE"
     },
     {
@@ -130,7 +130,7 @@
       "row": 1,
       "col": 2,
       "length": 3,
-      "clue": "Kırmızı taneli meyve",
+      "clue": "Kırmızı taneli meyve karşılığı olarak kullanılan kelime",
       "answer": "NAR"
     },
     {
@@ -139,7 +139,7 @@
       "row": 3,
       "col": 1,
       "length": 3,
-      "clue": "İçine konan kab",
+      "clue": "Bulmacada İçine konan kab karşılığını veren yanıt",
       "answer": "KAP"
     },
     {
@@ -148,7 +148,7 @@
       "row": 3,
       "col": 3,
       "length": 3,
-      "clue": "Donmuş su",
+      "clue": "Donmuş su anlamına gelen sözcük",
       "answer": "BUZ"
     },
     {
@@ -157,7 +157,7 @@
       "row": 3,
       "col": 5,
       "length": 3,
-      "clue": "Güç, kolay değil",
+      "clue": "Günlük dilde Güç ya da kolay değil olarak bilinen kavram",
       "answer": "ZOR"
     },
     {
@@ -166,7 +166,7 @@
       "row": 4,
       "col": 0,
       "length": 4,
-      "clue": "Bayat olmayan",
+      "clue": "Bulmacada Bayat olmayan karşılığını veren yanıt",
       "answer": "TAZE"
     },
     {
@@ -175,7 +175,7 @@
       "row": 5,
       "col": 5,
       "length": 5,
-      "clue": "Programlanabilir makine",
+      "clue": "Programlanabilir makine için kullanılan yaygın ifade",
       "answer": "ROBOT"
     },
     {
@@ -184,7 +184,7 @@
       "row": 5,
       "col": 9,
       "length": 4,
-      "clue": "Raylı taşıt",
+      "clue": "Bulmacada Raylı taşıt karşılığını veren yanıt",
       "answer": "TREN"
     },
     {
@@ -193,7 +193,7 @@
       "row": 7,
       "col": 5,
       "length": 5,
-      "clue": "Küçük deniz taşıtı",
+      "clue": "Küçük deniz taşıtı anlamına gelen sözcük",
       "answer": "TEKNE"
     }
   ]

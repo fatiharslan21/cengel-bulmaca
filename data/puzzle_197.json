@@ -85,7 +85,7 @@
       "row": 0,
       "col": 1,
       "length": 6,
-      "clue": "İçecek kabı",
+      "clue": "İçecek kabı anlamına gelen sözcük",
       "answer": "BARDAK"
     },
     {
@@ -94,7 +94,7 @@
       "row": 0,
       "col": 6,
       "length": 4,
-      "clue": "Böcekten kumaş",
+      "clue": "Böcekten kumaş anlamına gelen sözcük",
       "answer": "İPEK"
     },
     {
@@ -103,7 +103,7 @@
       "row": 0,
       "col": 9,
       "length": 4,
-      "clue": "Toprak eşme",
+      "clue": "Bulmacada Toprak eşme karşılığını veren yanıt",
       "answer": "KAZI"
     },
     {
@@ -112,7 +112,7 @@
       "row": 1,
       "col": 0,
       "length": 3,
-      "clue": "Kaygan besin",
+      "clue": "Kaygan besin karşılığı olarak kullanılan kelime",
       "answer": "YAĞ"
     },
     {
@@ -121,7 +121,7 @@
       "row": 1,
       "col": 5,
       "length": 5,
-      "clue": "Vaktinden önce",
+      "clue": "Vaktinden önce karşılığı olarak kullanılan kelime",
       "answer": "ERKEN"
     },
     {
@@ -139,7 +139,7 @@
       "row": 2,
       "col": 7,
       "length": 3,
-      "clue": "Çehre; sayı 100",
+      "clue": "Çehre; sayı 100 için kullanılan yaygın ifade",
       "answer": "YÜZ"
     },
     {
@@ -148,7 +148,7 @@
       "row": 3,
       "col": 3,
       "length": 3,
-      "clue": "En soğuk mevsim",
+      "clue": "Günlük dilde En soğuk mevsim olarak bilinen kavram",
       "answer": "KIŞ"
     },
     {
@@ -157,7 +157,7 @@
       "row": 3,
       "col": 3,
       "length": 5,
-      "clue": "İple oynatılan",
+      "clue": "İple oynatılan karşılığı olarak kullanılan kelime",
       "answer": "KUKLA"
     },
     {
@@ -166,7 +166,7 @@
       "row": 4,
       "col": 0,
       "length": 4,
-      "clue": "Bodur ağaç",
+      "clue": "Bodur ağaç anlamına gelen sözcük",
       "answer": "ÇALI"
     }
   ]

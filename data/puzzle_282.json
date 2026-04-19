@@ -169,7 +169,7 @@
       "row": 0,
       "col": 2,
       "length": 6,
-      "clue": "Yırtıcı büyük kuş",
+      "clue": "Yırtıcı büyük kuş için kullanılan yaygın ifade",
       "answer": "KARTAL"
     },
     {
@@ -178,7 +178,7 @@
       "row": 1,
       "col": 1,
       "length": 3,
-      "clue": "Sert kayaç parçası",
+      "clue": "Sert kayaç parçası için kullanılan yaygın ifade",
       "answer": "TAŞ"
     },
     {
@@ -187,7 +187,7 @@
       "row": 4,
       "col": 4,
       "length": 5,
-      "clue": "Bitkinin ürünü",
+      "clue": "Günlük dilde Bitkinin ürünü olarak bilinen kavram",
       "answer": "MEYVE"
     },
     {
@@ -196,7 +196,7 @@
       "row": 5,
       "col": 0,
       "length": 5,
-      "clue": "Işık arkası",
+      "clue": "Işık arkası için kullanılan yaygın ifade",
       "answer": "GÖLGE"
     },
     {
@@ -205,7 +205,7 @@
       "row": 5,
       "col": 7,
       "length": 5,
-      "clue": "Tatlı madde",
+      "clue": "Tatlı madde için kullanılan yaygın ifade",
       "answer": "ŞEKER"
     },
     {
@@ -214,7 +214,7 @@
       "row": 6,
       "col": 6,
       "length": 4,
-      "clue": "Ayrılırken selam",
+      "clue": "Ayrılırken selam için kullanılan yaygın ifade",
       "answer": "VEDA"
     },
     {
@@ -223,7 +223,7 @@
       "row": 8,
       "col": 3,
       "length": 5,
-      "clue": "Küçük deniz taşıtı",
+      "clue": "Küçük deniz taşıtı anlamına gelen sözcük",
       "answer": "TEKNE"
     },
     {
@@ -232,7 +232,7 @@
       "row": 8,
       "col": 3,
       "length": 4,
-      "clue": "Uyan, bağlı",
+      "clue": "Uyan ya da bağlı karşılığı olarak kullanılan kelime",
       "answer": "TABİ"
     },
     {
@@ -241,7 +241,7 @@
       "row": 8,
       "col": 5,
       "length": 3,
-      "clue": "En soğuk mevsim",
+      "clue": "Günlük dilde En soğuk mevsim olarak bilinen kavram",
       "answer": "KIŞ"
     },
     {
@@ -250,7 +250,7 @@
       "row": 9,
       "col": 7,
       "length": 4,
-      "clue": "Uykuda hayal",
+      "clue": "Uykuda hayal karşılığı olarak kullanılan kelime",
       "answer": "RÜYA"
     }
   ]

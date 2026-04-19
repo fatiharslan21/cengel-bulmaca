@@ -167,7 +167,7 @@
       "row": 0,
       "col": 4,
       "length": 4,
-      "clue": "Yeşil alan",
+      "clue": "Günlük dilde Yeşil alan olarak bilinen kavram",
       "answer": "PARK"
     },
     {
@@ -176,7 +176,7 @@
       "row": 0,
       "col": 7,
       "length": 5,
-      "clue": "İple oynatılan",
+      "clue": "İple oynatılan karşılığı olarak kullanılan kelime",
       "answer": "KUKLA"
     },
     {
@@ -185,7 +185,7 @@
       "row": 2,
       "col": 2,
       "length": 4,
-      "clue": "Deniz taşıtı",
+      "clue": "Bulmacada Deniz taşıtı karşılığını veren yanıt",
       "answer": "GEMİ"
     },
     {
@@ -194,7 +194,7 @@
       "row": 2,
       "col": 4,
       "length": 5,
-      "clue": "Yer, konum",
+      "clue": "Günlük dilde Yer ya da konum olarak bilinen kavram",
       "answer": "MEVKİ"
     },
     {
@@ -203,7 +203,7 @@
       "row": 3,
       "col": 7,
       "length": 5,
-      "clue": "İyilik, bağış",
+      "clue": "Günlük dilde İyilik ya da bağış olarak bilinen kavram",
       "answer": "LÜTUF"
     },
     {
@@ -212,7 +212,7 @@
       "row": 4,
       "col": 4,
       "length": 4,
-      "clue": "Ayrılırken selam",
+      "clue": "Ayrılırken selam için kullanılan yaygın ifade",
       "answer": "VEDA"
     },
     {
@@ -221,7 +221,7 @@
       "row": 5,
       "col": 2,
       "length": 6,
-      "clue": "Saç kesen esnaf",
+      "clue": "Günlük dilde Saç kesen esnaf olarak bilinen kavram",
       "answer": "BERBER"
     },
     {
@@ -230,7 +230,7 @@
       "row": 6,
       "col": 2,
       "length": 4,
-      "clue": "Buyruk, komut",
+      "clue": "Günlük dilde Buyruk ya da komut olarak bilinen kavram",
       "answer": "EMİR"
     },
     {
@@ -239,7 +239,7 @@
       "row": 8,
       "col": 2,
       "length": 3,
-      "clue": "Uzunluk, endam",
+      "clue": "Uzunluk ya da endam için kullanılan yaygın ifade",
       "answer": "BOY"
     },
     {
@@ -248,7 +248,7 @@
       "row": 10,
       "col": 0,
       "length": 4,
-      "clue": "Altın rengi",
+      "clue": "Altın rengi için kullanılan yaygın ifade",
       "answer": "SARI"
     }
   ]

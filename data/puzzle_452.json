@@ -181,7 +181,7 @@
       "row": 0,
       "col": 0,
       "length": 7,
-      "clue": "Üzülme",
+      "clue": "Üzülme anlamına gelen sözcük",
       "answer": "TEESSÜR"
     },
     {
@@ -190,7 +190,7 @@
       "row": 2,
       "col": 3,
       "length": 4,
-      "clue": "Yanlış, kusur",
+      "clue": "Günlük dilde Yanlış ya da kusur olarak bilinen kavram",
       "answer": "HATA"
     },
     {
@@ -199,7 +199,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "Gönül huzuru",
+      "clue": "Gönül huzuru anlamına gelen sözcük",
       "answer": "SAFA"
     },
     {
@@ -208,7 +208,7 @@
       "row": 4,
       "col": 5,
       "length": 5,
-      "clue": "Yer, mahal",
+      "clue": "Yer ya da mahal anlamına gelen sözcük",
       "answer": "MEKAN"
     },
     {
@@ -217,7 +217,7 @@
       "row": 5,
       "col": 2,
       "length": 4,
-      "clue": "Savunma yapısı",
+      "clue": "Savunma yapısı karşılığı olarak kullanılan kelime",
       "answer": "KALE"
     },
     {
@@ -226,7 +226,7 @@
       "row": 7,
       "col": 4,
       "length": 4,
-      "clue": "Başka, özge",
+      "clue": "Başka ya da özge karşılığı olarak kullanılan kelime",
       "answer": "GAYR"
     },
     {
@@ -235,7 +235,7 @@
       "row": 7,
       "col": 7,
       "length": 4,
-      "clue": "Yalvarma, dilek",
+      "clue": "Yalvarma ya da dilek karşılığı olarak kullanılan kelime",
       "answer": "RİCA"
     },
     {
@@ -244,7 +244,7 @@
       "row": 7,
       "col": 9,
       "length": 5,
-      "clue": "Bilimsel test",
+      "clue": "Günlük dilde Bilimsel test olarak bilinen kavram",
       "answer": "DENEY"
     },
     {
@@ -253,7 +253,7 @@
       "row": 10,
       "col": 6,
       "length": 4,
-      "clue": "Türk simgesi çiçek",
+      "clue": "Türk simgesi çiçek için kullanılan yaygın ifade",
       "answer": "LALE"
     },
     {
@@ -262,7 +262,7 @@
       "row": 11,
       "col": 9,
       "length": 3,
-      "clue": "Rüzgar, esinti",
+      "clue": "Bulmacada Rüzgar ya da esinti karşılığını veren yanıt",
       "answer": "YEL"
     }
   ]

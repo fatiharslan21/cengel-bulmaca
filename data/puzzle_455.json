@@ -154,7 +154,7 @@
       "row": 1,
       "col": 0,
       "length": 3,
-      "clue": "Asit karşıtı",
+      "clue": "Asit karşıtı için kullanılan yaygın ifade",
       "answer": "BAZ"
     },
     {
@@ -163,7 +163,7 @@
       "row": 1,
       "col": 2,
       "length": 4,
-      "clue": "Amaç, maksat",
+      "clue": "Amaç ya da maksat için kullanılan yaygın ifade",
       "answer": "GAYE"
     },
     {
@@ -172,7 +172,7 @@
       "row": 1,
       "col": 5,
       "length": 4,
-      "clue": "Yük hayvanı",
+      "clue": "Yük hayvanı için kullanılan yaygın ifade",
       "answer": "EŞEK"
     },
     {
@@ -181,7 +181,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "Işık, aydınlık",
+      "clue": "Günlük dilde Işık ya da aydınlık olarak bilinen kavram",
       "answer": "ZİYA"
     },
     {
@@ -190,7 +190,7 @@
       "row": 3,
       "col": 7,
       "length": 4,
-      "clue": "Kullanılan nesneler",
+      "clue": "Kullanılan nesneler anlamına gelen sözcük",
       "answer": "EŞYA"
     },
     {
@@ -199,7 +199,7 @@
       "row": 4,
       "col": 5,
       "length": 3,
-      "clue": "Kanatlı uçan hayvan",
+      "clue": "Kanatlı uçan hayvan anlamına gelen sözcük",
       "answer": "KUŞ"
     },
     {
@@ -208,7 +208,7 @@
       "row": 6,
       "col": 6,
       "length": 4,
-      "clue": "Rakam ifadesi",
+      "clue": "Bulmacada Rakam ifadesi karşılığını veren yanıt",
       "answer": "SAYI"
     },
     {
@@ -217,7 +217,7 @@
       "row": 6,
       "col": 6,
       "length": 5,
-      "clue": "Günün başı",
+      "clue": "Günün başı anlamına gelen sözcük",
       "answer": "SABAH"
     },
     {
@@ -226,7 +226,7 @@
       "row": 7,
       "col": 3,
       "length": 4,
-      "clue": "Bağlama aracı",
+      "clue": "Bağlama aracı anlamına gelen sözcük",
       "answer": "TOKA"
     }
   ]

@@ -157,7 +157,7 @@
       "row": 0,
       "col": 5,
       "length": 4,
-      "clue": "Haz, keyif",
+      "clue": "Günlük dilde Haz ya da keyif olarak bilinen kavram",
       "answer": "ZEVK"
     },
     {
@@ -166,7 +166,7 @@
       "row": 1,
       "col": 3,
       "length": 3,
-      "clue": "Güç, kolay değil",
+      "clue": "Günlük dilde Güç ya da kolay değil olarak bilinen kavram",
       "answer": "ZOR"
     },
     {
@@ -175,7 +175,7 @@
       "row": 1,
       "col": 5,
       "length": 5,
-      "clue": "Vaktinden önce",
+      "clue": "Vaktinden önce karşılığı olarak kullanılan kelime",
       "answer": "ERKEN"
     },
     {
@@ -184,7 +184,7 @@
       "row": 3,
       "col": 3,
       "length": 5,
-      "clue": "Hasım, muhalif",
+      "clue": "Hasım ya da muhalif için kullanılan yaygın ifade",
       "answer": "RAKİP"
     },
     {
@@ -193,7 +193,7 @@
       "row": 3,
       "col": 4,
       "length": 3,
-      "clue": "Bal yapan böcek",
+      "clue": "Günlük dilde Bal yapan böcek olarak bilinen kavram",
       "answer": "ARI"
     },
     {
@@ -202,7 +202,7 @@
       "row": 4,
       "col": 2,
       "length": 4,
-      "clue": "Altın rengi",
+      "clue": "Altın rengi için kullanılan yaygın ifade",
       "answer": "SARI"
     },
     {
@@ -211,7 +211,7 @@
       "row": 5,
       "col": 1,
       "length": 4,
-      "clue": "Yazılmış metin",
+      "clue": "Bulmacada Yazılmış metin karşılığını veren yanıt",
       "answer": "YAZI"
     },
     {
@@ -220,7 +220,7 @@
       "row": 7,
       "col": 0,
       "length": 3,
-      "clue": "Hatıra, geçmiş olay",
+      "clue": "Hatıra ya da geçmiş olay karşılığı olarak kullanılan kelime",
       "answer": "ANI"
     },
     {
@@ -229,7 +229,7 @@
       "row": 7,
       "col": 1,
       "length": 5,
-      "clue": "Bakış, göz",
+      "clue": "Bakış ya da göz anlamına gelen sözcük",
       "answer": "NAZAR"
     },
     {
@@ -238,7 +238,7 @@
       "row": 10,
       "col": 0,
       "length": 3,
-      "clue": "İğne yapraklı ağaç",
+      "clue": "Bulmacada İğne yapraklı ağaç karşılığını veren yanıt",
       "answer": "ÇAM"
     }
   ]

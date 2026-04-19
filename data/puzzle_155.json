@@ -109,7 +109,7 @@
       "row": 0,
       "col": 6,
       "length": 4,
-      "clue": "Bayat olmayan",
+      "clue": "Bulmacada Bayat olmayan karşılığını veren yanıt",
       "answer": "TAZE"
     },
     {
@@ -118,7 +118,7 @@
       "row": 0,
       "col": 6,
       "length": 4,
-      "clue": "Anadolu halkı",
+      "clue": "Anadolu halkı için kullanılan yaygın ifade",
       "answer": "TÜRK"
     },
     {
@@ -127,7 +127,7 @@
       "row": 0,
       "col": 9,
       "length": 3,
-      "clue": "Bina bölümü",
+      "clue": "Bulmacada Bina bölümü karşılığını veren yanıt",
       "answer": "KAT"
     },
     {
@@ -136,7 +136,7 @@
       "row": 2,
       "col": 0,
       "length": 3,
-      "clue": "Ev bölümü",
+      "clue": "Bulmacada Ev bölümü karşılığını veren yanıt",
       "answer": "ODA"
     },
     {
@@ -145,7 +145,7 @@
       "row": 2,
       "col": 0,
       "length": 4,
-      "clue": "Eğlence faaliyeti",
+      "clue": "Bulmacada Eğlence faaliyeti karşılığını veren yanıt",
       "answer": "OYUN"
     },
     {
@@ -154,7 +154,7 @@
       "row": 2,
       "col": 2,
       "length": 3,
-      "clue": "Bir şeye ilişkin",
+      "clue": "Bulmacada Bir şeye ilişkin karşılığını veren yanıt",
       "answer": "AİT"
     },
     {
@@ -163,7 +163,7 @@
       "row": 2,
       "col": 4,
       "length": 3,
-      "clue": "Asit karşıtı",
+      "clue": "Asit karşıtı için kullanılan yaygın ifade",
       "answer": "BAZ"
     },
     {
@@ -172,7 +172,7 @@
       "row": 2,
       "col": 4,
       "length": 3,
-      "clue": "Donmuş su",
+      "clue": "Donmuş su anlamına gelen sözcük",
       "answer": "BUZ"
     },
     {
@@ -181,7 +181,7 @@
       "row": 4,
       "col": 2,
       "length": 3,
-      "clue": "Lezzet verici",
+      "clue": "Lezzet verici anlamına gelen sözcük",
       "answer": "TUZ"
     },
     {
@@ -190,7 +190,7 @@
       "row": 4,
       "col": 3,
       "length": 4,
-      "clue": "Havada uçan taşıt",
+      "clue": "Havada uçan taşıt karşılığı olarak kullanılan kelime",
       "answer": "UÇAK"
     }
   ]

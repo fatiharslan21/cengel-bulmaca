@@ -117,7 +117,7 @@
       "row": 0,
       "col": 1,
       "length": 4,
-      "clue": "Uyan, bağlı",
+      "clue": "Uyan ya da bağlı karşılığı olarak kullanılan kelime",
       "answer": "TABİ"
     },
     {
@@ -126,7 +126,7 @@
       "row": 1,
       "col": 0,
       "length": 4,
-      "clue": "Yemek mobilyası",
+      "clue": "Günlük dilde Yemek mobilyası olarak bilinen kavram",
       "answer": "MASA"
     },
     {
@@ -135,7 +135,7 @@
       "row": 1,
       "col": 3,
       "length": 3,
-      "clue": "Üstün karşıtı",
+      "clue": "Bulmacada Üstün karşıtı karşılığını veren yanıt",
       "answer": "ALT"
     },
     {
@@ -144,7 +144,7 @@
       "row": 1,
       "col": 5,
       "length": 4,
-      "clue": "Gömlek boyun kısmı",
+      "clue": "Gömlek boyun kısmı için kullanılan yaygın ifade",
       "answer": "YAKA"
     },
     {
@@ -153,7 +153,7 @@
       "row": 2,
       "col": 7,
       "length": 4,
-      "clue": "Çaba, gayret",
+      "clue": "Bulmacada Çaba ya da gayret karşılığını veren yanıt",
       "answer": "CEHD"
     },
     {
@@ -162,7 +162,7 @@
       "row": 3,
       "col": 3,
       "length": 5,
-      "clue": "Küçük deniz taşıtı",
+      "clue": "Küçük deniz taşıtı anlamına gelen sözcük",
       "answer": "TEKNE"
     },
     {
@@ -171,7 +171,7 @@
       "row": 4,
       "col": 9,
       "length": 4,
-      "clue": "Deniz taşıtı",
+      "clue": "Bulmacada Deniz taşıtı karşılığını veren yanıt",
       "answer": "GEMİ"
     },
     {
@@ -180,7 +180,7 @@
       "row": 5,
       "col": 6,
       "length": 5,
-      "clue": "Konum bilgisi",
+      "clue": "Günlük dilde Konum bilgisi olarak bilinen kavram",
       "answer": "ADRES"
     },
     {
@@ -189,7 +189,7 @@
       "row": 5,
       "col": 6,
       "length": 3,
-      "clue": "Elin iç kısmı",
+      "clue": "Elin iç kısmı anlamına gelen sözcük",
       "answer": "AYA"
     },
     {
@@ -198,7 +198,7 @@
       "row": 7,
       "col": 3,
       "length": 5,
-      "clue": "Yok olma",
+      "clue": "Bulmacada Yok olma karşılığını veren yanıt",
       "answer": "ZEVAL"
     }
   ]

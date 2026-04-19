@@ -121,7 +121,7 @@
       "row": 0,
       "col": 0,
       "length": 5,
-      "clue": "Bilme isteği",
+      "clue": "Bilme isteği için kullanılan yaygın ifade",
       "answer": "MERAK"
     },
     {
@@ -130,7 +130,7 @@
       "row": 0,
       "col": 4,
       "length": 4,
-      "clue": "Ödül bardağı",
+      "clue": "Ödül bardağı anlamına gelen sözcük",
       "answer": "KUPA"
     },
     {
@@ -139,7 +139,7 @@
       "row": 1,
       "col": 7,
       "length": 5,
-      "clue": "En küçük işaret",
+      "clue": "En küçük işaret için kullanılan yaygın ifade",
       "answer": "NOKTA"
     },
     {
@@ -148,7 +148,7 @@
       "row": 3,
       "col": 3,
       "length": 5,
-      "clue": "İki yakayı birleştiren",
+      "clue": "İki yakayı birleştiren için kullanılan yaygın ifade",
       "answer": "KÖPRÜ"
     },
     {
@@ -157,7 +157,7 @@
       "row": 3,
       "col": 3,
       "length": 5,
-      "clue": "Yemek aracı",
+      "clue": "Günlük dilde Yemek aracı olarak bilinen kavram",
       "answer": "KAŞIK"
     },
     {
@@ -166,7 +166,7 @@
       "row": 4,
       "col": 1,
       "length": 5,
-      "clue": "Seslerle sanat",
+      "clue": "Bulmacada Seslerle sanat karşılığını veren yanıt",
       "answer": "MÜZİK"
     },
     {
@@ -175,7 +175,7 @@
       "row": 4,
       "col": 7,
       "length": 3,
-      "clue": "Sert kayaç parçası",
+      "clue": "Sert kayaç parçası için kullanılan yaygın ifade",
       "answer": "TAŞ"
     },
     {
@@ -184,7 +184,7 @@
       "row": 5,
       "col": 5,
       "length": 3,
-      "clue": "Toprak sahibi",
+      "clue": "Günlük dilde Toprak sahibi olarak bilinen kavram",
       "answer": "AĞA"
     },
     {
@@ -193,7 +193,7 @@
       "row": 6,
       "col": 1,
       "length": 3,
-      "clue": "Güç, kolay değil",
+      "clue": "Günlük dilde Güç ya da kolay değil olarak bilinen kavram",
       "answer": "ZOR"
     }
   ]

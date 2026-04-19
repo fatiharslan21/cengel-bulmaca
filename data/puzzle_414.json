@@ -153,7 +153,7 @@
       "row": 0,
       "col": 8,
       "length": 4,
-      "clue": "Suça yaptırım",
+      "clue": "Bulmacada Suça yaptırım karşılığını veren yanıt",
       "answer": "CEZA"
     },
     {
@@ -162,7 +162,7 @@
       "row": 1,
       "col": 6,
       "length": 4,
-      "clue": "Konaklama yeri",
+      "clue": "Bulmacada Konaklama yeri karşılığını veren yanıt",
       "answer": "OTEL"
     },
     {
@@ -171,7 +171,7 @@
       "row": 3,
       "col": 7,
       "length": 5,
-      "clue": "Gün ağarması",
+      "clue": "Gün ağarması anlamına gelen sözcük",
       "answer": "ŞAFAK"
     },
     {
@@ -180,7 +180,7 @@
       "row": 3,
       "col": 7,
       "length": 4,
-      "clue": "Arzu, istek",
+      "clue": "Arzu ya da istek için kullanılan yaygın ifade",
       "answer": "ŞEVK"
     },
     {
@@ -189,7 +189,7 @@
       "row": 3,
       "col": 9,
       "length": 4,
-      "clue": "Ayrım, değişiklik",
+      "clue": "Ayrım ya da değişiklik anlamına gelen sözcük",
       "answer": "FARK"
     },
     {
@@ -198,7 +198,7 @@
       "row": 3,
       "col": 11,
       "length": 4,
-      "clue": "Yüzeylerin birleşimi",
+      "clue": "Günlük dilde Yüzeylerin birleşimi olarak bilinen kavram",
       "answer": "KÖŞE"
     },
     {
@@ -207,7 +207,7 @@
       "row": 4,
       "col": 5,
       "length": 3,
-      "clue": "Güzergah, patika",
+      "clue": "Bulmacada Güzergah ya da patika karşılığını veren yanıt",
       "answer": "YOL"
     },
     {
@@ -216,7 +216,7 @@
       "row": 6,
       "col": 3,
       "length": 5,
-      "clue": "Kanatlı kutsal varlık",
+      "clue": "Bulmacada Kanatlı kutsal varlık karşılığını veren yanıt",
       "answer": "MELEK"
     },
     {
@@ -225,7 +225,7 @@
       "row": 6,
       "col": 3,
       "length": 4,
-      "clue": "Otlak alan",
+      "clue": "Bulmacada Otlak alan karşılığını veren yanıt",
       "answer": "MERA"
     },
     {
@@ -234,7 +234,7 @@
       "row": 9,
       "col": 0,
       "length": 4,
-      "clue": "Ayrılırken selam",
+      "clue": "Ayrılırken selam için kullanılan yaygın ifade",
       "answer": "VEDA"
     }
   ]

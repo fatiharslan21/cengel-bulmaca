@@ -145,7 +145,7 @@
       "row": 0,
       "col": 6,
       "length": 6,
-      "clue": "Sevgi, acıma",
+      "clue": "Bulmacada Sevgi ya da acıma karşılığını veren yanıt",
       "answer": "ŞEFKAT"
     },
     {
@@ -154,7 +154,7 @@
       "row": 4,
       "col": 3,
       "length": 3,
-      "clue": "Yanık kalıntısı",
+      "clue": "Yanık kalıntısı için kullanılan yaygın ifade",
       "answer": "KÜL"
     },
     {
@@ -163,7 +163,7 @@
       "row": 4,
       "col": 3,
       "length": 4,
-      "clue": "Ödül bardağı",
+      "clue": "Ödül bardağı anlamına gelen sözcük",
       "answer": "KUPA"
     },
     {
@@ -172,7 +172,7 @@
       "row": 5,
       "col": 8,
       "length": 5,
-      "clue": "Gökyüzü su kümeleri",
+      "clue": "Günlük dilde Gökyüzü su kümeleri olarak bilinen kavram",
       "answer": "BULUT"
     },
     {
@@ -181,7 +181,7 @@
       "row": 6,
       "col": 0,
       "length": 6,
-      "clue": "Üst giysi",
+      "clue": "Üst giysi karşılığı olarak kullanılan kelime",
       "answer": "GÖMLEK"
     },
     {
@@ -190,7 +190,7 @@
       "row": 6,
       "col": 5,
       "length": 4,
-      "clue": "Savunma yapısı",
+      "clue": "Savunma yapısı karşılığı olarak kullanılan kelime",
       "answer": "KALE"
     },
     {
@@ -199,7 +199,7 @@
       "row": 7,
       "col": 5,
       "length": 4,
-      "clue": "Gerçek, hakiki",
+      "clue": "Gerçek ya da hakiki için kullanılan yaygın ifade",
       "answer": "ASIL"
     },
     {
@@ -208,7 +208,7 @@
       "row": 8,
       "col": 3,
       "length": 3,
-      "clue": "Konuşma organı",
+      "clue": "Konuşma organı anlamına gelen sözcük",
       "answer": "DİL"
     },
     {
@@ -217,7 +217,7 @@
       "row": 8,
       "col": 3,
       "length": 4,
-      "clue": "Boş olmayan",
+      "clue": "Günlük dilde Boş olmayan olarak bilinen kavram",
       "answer": "DOLU"
     },
     {
@@ -226,7 +226,7 @@
       "row": 10,
       "col": 2,
       "length": 3,
-      "clue": "Üstün karşıtı",
+      "clue": "Bulmacada Üstün karşıtı karşılığını veren yanıt",
       "answer": "ALT"
     }
   ]

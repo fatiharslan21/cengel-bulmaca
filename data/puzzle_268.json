@@ -101,7 +101,7 @@
       "row": 0,
       "col": 2,
       "length": 5,
-      "clue": "Üzüntü",
+      "clue": "Bulmacada Üzüntü karşılığını veren yanıt",
       "answer": "KEDER"
     },
     {
@@ -110,7 +110,7 @@
       "row": 0,
       "col": 2,
       "length": 6,
-      "clue": "Yük aracı",
+      "clue": "Yük aracı karşılığı olarak kullanılan kelime",
       "answer": "KAMYON"
     },
     {
@@ -119,7 +119,7 @@
       "row": 2,
       "col": 6,
       "length": 6,
-      "clue": "Kısa an",
+      "clue": "Kısa an anlamına gelen sözcük",
       "answer": "SANİYE"
     },
     {
@@ -128,7 +128,7 @@
       "row": 2,
       "col": 8,
       "length": 4,
-      "clue": "Çaba, gayret",
+      "clue": "Bulmacada Çaba ya da gayret karşılığını veren yanıt",
       "answer": "CEHD"
     },
     {
@@ -137,7 +137,7 @@
       "row": 3,
       "col": 5,
       "length": 4,
-      "clue": "Bayat olmayan",
+      "clue": "Bulmacada Bayat olmayan karşılığını veren yanıt",
       "answer": "TAZE"
     },
     {
@@ -146,7 +146,7 @@
       "row": 4,
       "col": 0,
       "length": 3,
-      "clue": "Mekan, konum",
+      "clue": "Günlük dilde Mekan ya da konum olarak bilinen kavram",
       "answer": "YER"
     },
     {
@@ -155,7 +155,7 @@
       "row": 4,
       "col": 1,
       "length": 4,
-      "clue": "Sanat yapıtı",
+      "clue": "Bulmacada Sanat yapıtı karşılığını veren yanıt",
       "answer": "ESER"
     },
     {
@@ -164,7 +164,7 @@
       "row": 4,
       "col": 4,
       "length": 4,
-      "clue": "Küçük kemirgen",
+      "clue": "Küçük kemirgen karşılığı olarak kullanılan kelime",
       "answer": "FARE"
     },
     {
@@ -173,7 +173,7 @@
       "row": 6,
       "col": 1,
       "length": 4,
-      "clue": "Buyruk, komut",
+      "clue": "Günlük dilde Buyruk ya da komut olarak bilinen kavram",
       "answer": "EMİR"
     },
     {
@@ -182,7 +182,7 @@
       "row": 7,
       "col": 4,
       "length": 3,
-      "clue": "Tırnak törpüsü",
+      "clue": "Tırnak törpüsü için kullanılan yaygın ifade",
       "answer": "EĞE"
     }
   ]

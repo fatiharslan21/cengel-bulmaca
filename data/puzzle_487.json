@@ -181,7 +181,7 @@
       "row": 0,
       "col": 7,
       "length": 5,
-      "clue": "Bakış, göz",
+      "clue": "Bakış ya da göz anlamına gelen sözcük",
       "answer": "NAZAR"
     },
     {
@@ -190,7 +190,7 @@
       "row": 1,
       "col": 7,
       "length": 3,
-      "clue": "Mesafe, açıklık",
+      "clue": "Bulmacada Mesafe ya da açıklık karşılığını veren yanıt",
       "answer": "ARA"
     },
     {
@@ -199,7 +199,7 @@
       "row": 3,
       "col": 4,
       "length": 4,
-      "clue": "Baş, kelle",
+      "clue": "Baş ya da kelle için kullanılan yaygın ifade",
       "answer": "KAFA"
     },
     {
@@ -208,7 +208,7 @@
       "row": 3,
       "col": 4,
       "length": 5,
-      "clue": "Sadık evcil hayvan",
+      "clue": "Sadık evcil hayvan anlamına gelen sözcük",
       "answer": "KÖPEK"
     },
     {
@@ -217,7 +217,7 @@
       "row": 4,
       "col": 7,
       "length": 5,
-      "clue": "Hasım, muhalif",
+      "clue": "Hasım ya da muhalif için kullanılan yaygın ifade",
       "answer": "RAKİP"
     },
     {
@@ -226,7 +226,7 @@
       "row": 4,
       "col": 8,
       "length": 4,
-      "clue": "Yansıtıcı cam",
+      "clue": "Bulmacada Yansıtıcı cam karşılığını veren yanıt",
       "answer": "AYNA"
     },
     {
@@ -235,7 +235,7 @@
       "row": 5,
       "col": 0,
       "length": 5,
-      "clue": "Hayal, ilüzyon",
+      "clue": "Hayal ya da ilüzyon karşılığı olarak kullanılan kelime",
       "answer": "SERAP"
     },
     {
@@ -244,7 +244,7 @@
       "row": 7,
       "col": 6,
       "length": 4,
-      "clue": "Tedavi maddesi",
+      "clue": "Tedavi maddesi için kullanılan yaygın ifade",
       "answer": "İLAÇ"
     },
     {
@@ -253,7 +253,7 @@
       "row": 7,
       "col": 7,
       "length": 5,
-      "clue": "İyilik, bağış",
+      "clue": "Günlük dilde İyilik ya da bağış olarak bilinen kavram",
       "answer": "LÜTUF"
     },
     {
@@ -262,7 +262,7 @@
       "row": 10,
       "col": 6,
       "length": 3,
-      "clue": "Kanatlı uçan hayvan",
+      "clue": "Kanatlı uçan hayvan anlamına gelen sözcük",
       "answer": "KUŞ"
     }
   ]

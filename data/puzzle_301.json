@@ -104,7 +104,7 @@
       "row": 0,
       "col": 0,
       "length": 3,
-      "clue": "Eflatun renk",
+      "clue": "Eflatun renk için kullanılan yaygın ifade",
       "answer": "MOR"
     },
     {
@@ -113,7 +113,7 @@
       "row": 1,
       "col": 0,
       "length": 4,
-      "clue": "Konaklama yeri",
+      "clue": "Bulmacada Konaklama yeri karşılığını veren yanıt",
       "answer": "OTEL"
     },
     {
@@ -122,7 +122,7 @@
       "row": 1,
       "col": 2,
       "length": 4,
-      "clue": "Özlenen istek",
+      "clue": "Özlenen istek için kullanılan yaygın ifade",
       "answer": "EMEL"
     },
     {
@@ -131,7 +131,7 @@
       "row": 2,
       "col": 4,
       "length": 5,
-      "clue": "Yer, mahal",
+      "clue": "Yer ya da mahal anlamına gelen sözcük",
       "answer": "MEKAN"
     },
     {
@@ -140,7 +140,7 @@
       "row": 2,
       "col": 10,
       "length": 3,
-      "clue": "Kuvvet, enerji",
+      "clue": "Bulmacada Kuvvet ya da enerji karşılığını veren yanıt",
       "answer": "GÜÇ"
     },
     {
@@ -149,7 +149,7 @@
       "row": 3,
       "col": 1,
       "length": 5,
-      "clue": "Soluk alma verme",
+      "clue": "Günlük dilde Soluk alma verme olarak bilinen kavram",
       "answer": "NEFES"
     },
     {
@@ -158,7 +158,7 @@
       "row": 3,
       "col": 7,
       "length": 4,
-      "clue": "Altın rengi",
+      "clue": "Altın rengi için kullanılan yaygın ifade",
       "answer": "SARI"
     },
     {
@@ -167,7 +167,7 @@
       "row": 4,
       "col": 7,
       "length": 4,
-      "clue": "Hedef, gaye",
+      "clue": "Bulmacada Hedef ya da gaye karşılığını veren yanıt",
       "answer": "AMAÇ"
     },
     {
@@ -176,7 +176,7 @@
       "row": 4,
       "col": 9,
       "length": 3,
-      "clue": "Bir şeye ilişkin",
+      "clue": "Bulmacada Bir şeye ilişkin karşılığını veren yanıt",
       "answer": "AİT"
     },
     {
@@ -185,7 +185,7 @@
       "row": 5,
       "col": 3,
       "length": 5,
-      "clue": "Alın yazısı",
+      "clue": "Günlük dilde Alın yazısı olarak bilinen kavram",
       "answer": "KADER"
     }
   ]

@@ -152,7 +152,7 @@
       "row": 3,
       "col": 0,
       "length": 5,
-      "clue": "Feryat, ağlama",
+      "clue": "Günlük dilde Feryat ya da ağlama olarak bilinen kavram",
       "answer": "FİGAN"
     },
     {
@@ -161,7 +161,7 @@
       "row": 3,
       "col": 2,
       "length": 4,
-      "clue": "Deniz taşıtı",
+      "clue": "Bulmacada Deniz taşıtı karşılığını veren yanıt",
       "answer": "GEMİ"
     },
     {
@@ -170,7 +170,7 @@
       "row": 3,
       "col": 8,
       "length": 4,
-      "clue": "Ses, seda",
+      "clue": "Ses ya da seda karşılığı olarak kullanılan kelime",
       "answer": "SADA"
     },
     {
@@ -179,7 +179,7 @@
       "row": 3,
       "col": 8,
       "length": 3,
-      "clue": "Gizli bilgi",
+      "clue": "Gizli bilgi için kullanılan yaygın ifade",
       "answer": "SIR"
     },
     {
@@ -188,7 +188,7 @@
       "row": 4,
       "col": 5,
       "length": 3,
-      "clue": "Ağacın kolu",
+      "clue": "Bulmacada Ağacın kolu karşılığını veren yanıt",
       "answer": "DAL"
     },
     {
@@ -197,7 +197,7 @@
       "row": 5,
       "col": 5,
       "length": 5,
-      "clue": "Sakin, huzurlu",
+      "clue": "Sakin ya da huzurlu için kullanılan yaygın ifade",
       "answer": "ASUDE"
     },
     {
@@ -206,7 +206,7 @@
       "row": 6,
       "col": 1,
       "length": 5,
-      "clue": "Örnek, benzer",
+      "clue": "Örnek ya da benzer için kullanılan yaygın ifade",
       "answer": "MİSAL"
     },
     {
@@ -215,7 +215,7 @@
       "row": 6,
       "col": 4,
       "length": 4,
-      "clue": "Geniş düzlük",
+      "clue": "Günlük dilde Geniş düzlük olarak bilinen kavram",
       "answer": "ALAN"
     },
     {
@@ -224,7 +224,7 @@
       "row": 8,
       "col": 1,
       "length": 5,
-      "clue": "Dil, konuşma",
+      "clue": "Bulmacada Dil ya da konuşma karşılığını veren yanıt",
       "answer": "LİSAN"
     }
   ]

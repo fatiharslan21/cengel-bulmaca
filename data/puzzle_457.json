@@ -153,7 +153,7 @@
       "row": 0,
       "col": 7,
       "length": 5,
-      "clue": "Düşme, sessizlik",
+      "clue": "Düşme ya da sessizlik karşılığı olarak kullanılan kelime",
       "answer": "SUKUT"
     },
     {
@@ -162,7 +162,7 @@
       "row": 0,
       "col": 7,
       "length": 4,
-      "clue": "Ses, seda",
+      "clue": "Ses ya da seda karşılığı olarak kullanılan kelime",
       "answer": "SADA"
     },
     {
@@ -180,7 +180,7 @@
       "row": 2,
       "col": 5,
       "length": 5,
-      "clue": "Taşıma, aktarma",
+      "clue": "Bulmacada Taşıma ya da aktarma karşılığını veren yanıt",
       "answer": "NAKİL"
     },
     {
@@ -189,7 +189,7 @@
       "row": 2,
       "col": 5,
       "length": 5,
-      "clue": "İyilik, bolluk",
+      "clue": "İyilik ya da bolluk için kullanılan yaygın ifade",
       "answer": "NİMET"
     },
     {
@@ -198,7 +198,7 @@
       "row": 4,
       "col": 0,
       "length": 6,
-      "clue": "Yer sarsıntısı",
+      "clue": "Bulmacada Yer sarsıntısı karşılığını veren yanıt",
       "answer": "DEPREM"
     },
     {
@@ -207,7 +207,7 @@
       "row": 4,
       "col": 0,
       "length": 4,
-      "clue": "Üçten sonra gelen",
+      "clue": "Üçten sonra gelen için kullanılan yaygın ifade",
       "answer": "DÖRT"
     },
     {
@@ -216,7 +216,7 @@
       "row": 4,
       "col": 7,
       "length": 5,
-      "clue": "Esas, kök",
+      "clue": "Esas ya da kök anlamına gelen sözcük",
       "answer": "TEMEL"
     },
     {
@@ -225,7 +225,7 @@
       "row": 6,
       "col": 5,
       "length": 5,
-      "clue": "Issız, boş",
+      "clue": "Issız ya da boş için kullanılan yaygın ifade",
       "answer": "TENHA"
     },
     {
@@ -234,7 +234,7 @@
       "row": 6,
       "col": 6,
       "length": 4,
-      "clue": "Buyruk, komut",
+      "clue": "Günlük dilde Buyruk ya da komut olarak bilinen kavram",
       "answer": "EMİR"
     }
   ]

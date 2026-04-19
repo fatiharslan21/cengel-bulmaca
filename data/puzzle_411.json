@@ -157,7 +157,7 @@
       "row": 0,
       "col": 3,
       "length": 4,
-      "clue": "Doku hasarı",
+      "clue": "Doku hasarı anlamına gelen sözcük",
       "answer": "YARA"
     },
     {
@@ -166,7 +166,7 @@
       "row": 1,
       "col": 2,
       "length": 4,
-      "clue": "Mutlaka yapılması gereken",
+      "clue": "Bulmacada Mutlaka yapılması gereken karşılığını veren yanıt",
       "answer": "FARZ"
     },
     {
@@ -175,7 +175,7 @@
       "row": 2,
       "col": 1,
       "length": 5,
-      "clue": "İyilik, bağış",
+      "clue": "Günlük dilde İyilik ya da bağış olarak bilinen kavram",
       "answer": "LÜTUF"
     },
     {
@@ -184,7 +184,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "Uykuda hayal",
+      "clue": "Uykuda hayal karşılığı olarak kullanılan kelime",
       "answer": "RÜYA"
     },
     {
@@ -193,7 +193,7 @@
       "row": 5,
       "col": 0,
       "length": 6,
-      "clue": "Güç, kuvvet",
+      "clue": "Günlük dilde Güç ya da kuvvet olarak bilinen kavram",
       "answer": "KUDRET"
     },
     {
@@ -202,7 +202,7 @@
       "row": 5,
       "col": 3,
       "length": 7,
-      "clue": "Gevşeklik",
+      "clue": "Gevşeklik anlamına gelen sözcük",
       "answer": "REHAVET"
     },
     {
@@ -211,7 +211,7 @@
       "row": 5,
       "col": 5,
       "length": 4,
-      "clue": "Kızarmış sandviç",
+      "clue": "Kızarmış sandviç anlamına gelen sözcük",
       "answer": "TOST"
     },
     {
@@ -220,7 +220,7 @@
       "row": 7,
       "col": 5,
       "length": 5,
-      "clue": "Büyük oda",
+      "clue": "Büyük oda için kullanılan yaygın ifade",
       "answer": "SALON"
     },
     {
@@ -229,7 +229,7 @@
       "row": 8,
       "col": 0,
       "length": 4,
-      "clue": "Sözünde durma",
+      "clue": "Sözünde durma karşılığı olarak kullanılan kelime",
       "answer": "VEFA"
     },
     {
@@ -238,7 +238,7 @@
       "row": 10,
       "col": 0,
       "length": 5,
-      "clue": "Alın yazısı",
+      "clue": "Günlük dilde Alın yazısı olarak bilinen kavram",
       "answer": "KADER"
     }
   ]

@@ -134,7 +134,7 @@
       "row": 0,
       "col": 3,
       "length": 4,
-      "clue": "Ev, konut",
+      "clue": "Ev ya da konut karşılığı olarak kullanılan kelime",
       "answer": "HANE"
     },
     {
@@ -143,7 +143,7 @@
       "row": 0,
       "col": 6,
       "length": 5,
-      "clue": "Hoş, ince",
+      "clue": "Hoş ya da ince için kullanılan yaygın ifade",
       "answer": "LATİF"
     },
     {
@@ -152,7 +152,7 @@
       "row": 1,
       "col": 5,
       "length": 4,
-      "clue": "Uyan, bağlı",
+      "clue": "Uyan ya da bağlı karşılığı olarak kullanılan kelime",
       "answer": "TABİ"
     },
     {
@@ -161,7 +161,7 @@
       "row": 3,
       "col": 0,
       "length": 7,
-      "clue": "Avunma, avuntu",
+      "clue": "Bulmacada Avunma ya da avuntu karşılığını veren yanıt",
       "answer": "TESELLİ"
     },
     {
@@ -170,7 +170,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "Adet, parça",
+      "clue": "Günlük dilde Adet ya da parça olarak bilinen kavram",
       "answer": "TANE"
     },
     {
@@ -179,7 +179,7 @@
       "row": 3,
       "col": 2,
       "length": 6,
-      "clue": "Kısa an",
+      "clue": "Kısa an anlamına gelen sözcük",
       "answer": "SANİYE"
     },
     {
@@ -188,7 +188,7 @@
       "row": 4,
       "col": 6,
       "length": 3,
-      "clue": "Dev kara hayvanı",
+      "clue": "Dev kara hayvanı karşılığı olarak kullanılan kelime",
       "answer": "FİL"
     },
     {
@@ -197,7 +197,7 @@
       "row": 4,
       "col": 7,
       "length": 5,
-      "clue": "Bilme, anlayış",
+      "clue": "Bilme ya da anlayış karşılığı olarak kullanılan kelime",
       "answer": "İRFAN"
     },
     {
@@ -206,7 +206,7 @@
       "row": 6,
       "col": 5,
       "length": 5,
-      "clue": "Habersiz, aymaz",
+      "clue": "Habersiz ya da aymaz anlamına gelen sözcük",
       "answer": "GAFİL"
     },
     {
@@ -215,7 +215,7 @@
       "row": 7,
       "col": 4,
       "length": 4,
-      "clue": "Büyük sert taş",
+      "clue": "Büyük sert taş için kullanılan yaygın ifade",
       "answer": "KAYA"
     }
   ]

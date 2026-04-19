@@ -85,7 +85,7 @@
       "row": 0,
       "col": 2,
       "length": 3,
-      "clue": "Çiğneme organı",
+      "clue": "Bulmacada Çiğneme organı karşılığını veren yanıt",
       "answer": "DİŞ"
     },
     {
@@ -94,7 +94,7 @@
       "row": 0,
       "col": 4,
       "length": 5,
-      "clue": "Temel buğday gıdası",
+      "clue": "Temel buğday gıdası anlamına gelen sözcük",
       "answer": "EKMEK"
     },
     {
@@ -103,7 +103,7 @@
       "row": 1,
       "col": 2,
       "length": 3,
-      "clue": "Birinci, baştaki",
+      "clue": "Birinci ya da baştaki anlamına gelen sözcük",
       "answer": "İLK"
     },
     {
@@ -112,7 +112,7 @@
       "row": 2,
       "col": 0,
       "length": 3,
-      "clue": "İçi dolu olmayan",
+      "clue": "Günlük dilde İçi dolu olmayan olarak bilinen kavram",
       "answer": "BOŞ"
     },
     {
@@ -121,7 +121,7 @@
       "row": 2,
       "col": 7,
       "length": 3,
-      "clue": "Adalet, doğruluk",
+      "clue": "Bulmacada Adalet ya da doğruluk karşılığını veren yanıt",
       "answer": "HAK"
     },
     {
@@ -130,7 +130,7 @@
       "row": 2,
       "col": 9,
       "length": 4,
-      "clue": "Yüksek yapı",
+      "clue": "Bulmacada Yüksek yapı karşılığını veren yanıt",
       "answer": "KULE"
     },
     {
@@ -139,7 +139,7 @@
       "row": 3,
       "col": 4,
       "length": 4,
-      "clue": "Kırmızı meyve",
+      "clue": "Bulmacada Kırmızı meyve karşılığını veren yanıt",
       "answer": "ELMA"
     },
     {
@@ -148,7 +148,7 @@
       "row": 4,
       "col": 1,
       "length": 4,
-      "clue": "Yeşil alan",
+      "clue": "Günlük dilde Yeşil alan olarak bilinen kavram",
       "answer": "PARK"
     },
     {
@@ -157,7 +157,7 @@
       "row": 4,
       "col": 7,
       "length": 3,
-      "clue": "Seramik toprağı",
+      "clue": "Seramik toprağı karşılığı olarak kullanılan kelime",
       "answer": "KİL"
     }
   ]

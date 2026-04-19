@@ -123,7 +123,7 @@
       "row": 0,
       "col": 4,
       "length": 3,
-      "clue": "Asit karşıtı",
+      "clue": "Asit karşıtı için kullanılan yaygın ifade",
       "answer": "BAZ"
     },
     {
@@ -150,7 +150,7 @@
       "row": 2,
       "col": 2,
       "length": 4,
-      "clue": "Kuş evi",
+      "clue": "Kuş evi için kullanılan yaygın ifade",
       "answer": "YUVA"
     },
     {
@@ -159,7 +159,7 @@
       "row": 4,
       "col": 0,
       "length": 6,
-      "clue": "Orta nokta",
+      "clue": "Bulmacada Orta nokta karşılığını veren yanıt",
       "answer": "MERKEZ"
     },
     {
@@ -168,7 +168,7 @@
       "row": 4,
       "col": 1,
       "length": 5,
-      "clue": "En sert taş",
+      "clue": "En sert taş karşılığı olarak kullanılan kelime",
       "answer": "ELMAS"
     },
     {
@@ -177,7 +177,7 @@
       "row": 4,
       "col": 4,
       "length": 4,
-      "clue": "Kırmızı meyve",
+      "clue": "Bulmacada Kırmızı meyve karşılığını veren yanıt",
       "answer": "ELMA"
     },
     {
@@ -186,7 +186,7 @@
       "row": 7,
       "col": 0,
       "length": 3,
-      "clue": "Ömür süresi",
+      "clue": "Ömür süresi anlamına gelen sözcük",
       "answer": "YAŞ"
     },
     {
@@ -195,7 +195,7 @@
       "row": 7,
       "col": 4,
       "length": 5,
-      "clue": "Konum bilgisi",
+      "clue": "Günlük dilde Konum bilgisi olarak bilinen kavram",
       "answer": "ADRES"
     },
     {
@@ -204,7 +204,7 @@
       "row": 7,
       "col": 8,
       "length": 3,
-      "clue": "Beyaz besin sıvısı",
+      "clue": "Bulmacada Beyaz besin sıvısı karşılığını veren yanıt",
       "answer": "SÜT"
     }
   ]

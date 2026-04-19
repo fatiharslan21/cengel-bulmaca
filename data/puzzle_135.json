@@ -130,7 +130,7 @@
       "row": 0,
       "col": 9,
       "length": 4,
-      "clue": "Yazılmış metin",
+      "clue": "Bulmacada Yazılmış metin karşılığını veren yanıt",
       "answer": "YAZI"
     },
     {
@@ -139,7 +139,7 @@
       "row": 1,
       "col": 3,
       "length": 5,
-      "clue": "Kanatlı kutsal varlık",
+      "clue": "Bulmacada Kanatlı kutsal varlık karşılığını veren yanıt",
       "answer": "MELEK"
     },
     {
@@ -148,7 +148,7 @@
       "row": 1,
       "col": 8,
       "length": 3,
-      "clue": "Göz üstü kıl şeridi",
+      "clue": "Göz üstü kıl şeridi anlamına gelen sözcük",
       "answer": "KAŞ"
     },
     {
@@ -157,7 +157,7 @@
       "row": 2,
       "col": 2,
       "length": 5,
-      "clue": "Bilimsel test",
+      "clue": "Günlük dilde Bilimsel test olarak bilinen kavram",
       "answer": "DENEY"
     },
     {
@@ -166,7 +166,7 @@
       "row": 2,
       "col": 6,
       "length": 6,
-      "clue": "Gökten su damlaları",
+      "clue": "Gökten su damlaları için kullanılan yaygın ifade",
       "answer": "YAĞMUR"
     },
     {
@@ -175,7 +175,7 @@
       "row": 3,
       "col": 1,
       "length": 6,
-      "clue": "Ülke yönetimi",
+      "clue": "Ülke yönetimi için kullanılan yaygın ifade",
       "answer": "DEVLET"
     },
     {
@@ -184,7 +184,7 @@
       "row": 3,
       "col": 6,
       "length": 4,
-      "clue": "Yemek pişiren",
+      "clue": "Yemek pişiren karşılığı olarak kullanılan kelime",
       "answer": "AŞÇI"
     },
     {
@@ -193,7 +193,7 @@
       "row": 4,
       "col": 1,
       "length": 4,
-      "clue": "Sanat yapıtı",
+      "clue": "Bulmacada Sanat yapıtı karşılığını veren yanıt",
       "answer": "ESER"
     },
     {
@@ -202,7 +202,7 @@
       "row": 6,
       "col": 0,
       "length": 3,
-      "clue": "Birinci, baştaki",
+      "clue": "Birinci ya da baştaki anlamına gelen sözcük",
       "answer": "İLK"
     },
     {
@@ -211,7 +211,7 @@
       "row": 7,
       "col": 5,
       "length": 3,
-      "clue": "Bal yapan böcek",
+      "clue": "Günlük dilde Bal yapan böcek olarak bilinen kavram",
       "answer": "ARI"
     }
   ]

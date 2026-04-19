@@ -113,7 +113,7 @@
       "row": 0,
       "col": 6,
       "length": 4,
-      "clue": "Türk parası",
+      "clue": "Günlük dilde Türk parası olarak bilinen kavram",
       "answer": "LİRA"
     },
     {
@@ -122,7 +122,7 @@
       "row": 1,
       "col": 5,
       "length": 3,
-      "clue": "Asla, kesinlikle hayır",
+      "clue": "Bulmacada Asla ya da kesinlikle hayır karşılığını veren yanıt",
       "answer": "HİÇ"
     },
     {
@@ -131,7 +131,7 @@
       "row": 3,
       "col": 1,
       "length": 4,
-      "clue": "Utanma duygusu",
+      "clue": "Utanma duygusu anlamına gelen sözcük",
       "answer": "HAYA"
     },
     {
@@ -140,7 +140,7 @@
       "row": 3,
       "col": 3,
       "length": 5,
-      "clue": "Sayısal işlem",
+      "clue": "Sayısal işlem karşılığı olarak kullanılan kelime",
       "answer": "HESAP"
     },
     {
@@ -149,7 +149,7 @@
       "row": 3,
       "col": 3,
       "length": 3,
-      "clue": "Durum, vaziyet",
+      "clue": "Bulmacada Durum ya da vaziyet karşılığını veren yanıt",
       "answer": "HAL"
     },
     {
@@ -158,7 +158,7 @@
       "row": 3,
       "col": 5,
       "length": 5,
-      "clue": "Katlanma, dayanma",
+      "clue": "Bulmacada Katlanma ya da dayanma karşılığını veren yanıt",
       "answer": "SABIR"
     },
     {
@@ -167,7 +167,7 @@
       "row": 4,
       "col": 0,
       "length": 4,
-      "clue": "Siyah renk",
+      "clue": "Siyah renk karşılığı olarak kullanılan kelime",
       "answer": "KARA"
     },
     {
@@ -176,7 +176,7 @@
       "row": 5,
       "col": 5,
       "length": 3,
-      "clue": "Arı ürünü tatlı",
+      "clue": "Arı ürünü tatlı için kullanılan yaygın ifade",
       "answer": "BAL"
     },
     {
@@ -185,7 +185,7 @@
       "row": 7,
       "col": 3,
       "length": 3,
-      "clue": "Mekan, konum",
+      "clue": "Günlük dilde Mekan ya da konum olarak bilinen kavram",
       "answer": "YER"
     },
     {

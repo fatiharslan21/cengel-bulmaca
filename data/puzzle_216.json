@@ -109,7 +109,7 @@
       "row": 0,
       "col": 7,
       "length": 4,
-      "clue": "Çukur yemek kabı",
+      "clue": "Çukur yemek kabı anlamına gelen sözcük",
       "answer": "KASE"
     },
     {
@@ -118,7 +118,7 @@
       "row": 1,
       "col": 4,
       "length": 3,
-      "clue": "Bahçe engeli",
+      "clue": "Bulmacada Bahçe engeli karşılığını veren yanıt",
       "answer": "ÇİT"
     },
     {
@@ -127,7 +127,7 @@
       "row": 1,
       "col": 6,
       "length": 4,
-      "clue": "Talih, baht",
+      "clue": "Talih ya da baht karşılığı olarak kullanılan kelime",
       "answer": "ŞANS"
     },
     {
@@ -136,7 +136,7 @@
       "row": 1,
       "col": 9,
       "length": 3,
-      "clue": "Sağın karşıtı",
+      "clue": "Günlük dilde Sağın karşıtı olarak bilinen kavram",
       "answer": "SOL"
     },
     {
@@ -145,7 +145,7 @@
       "row": 2,
       "col": 1,
       "length": 4,
-      "clue": "İlerinin zıttı",
+      "clue": "Günlük dilde İlerinin zıttı olarak bilinen kavram",
       "answer": "GERİ"
     },
     {
@@ -154,7 +154,7 @@
       "row": 2,
       "col": 2,
       "length": 6,
-      "clue": "Söylence, mit",
+      "clue": "Söylence ya da mit anlamına gelen sözcük",
       "answer": "EFSANE"
     },
     {
@@ -163,7 +163,7 @@
       "row": 3,
       "col": 4,
       "length": 4,
-      "clue": "Bayat olmayan",
+      "clue": "Bulmacada Bayat olmayan karşılığını veren yanıt",
       "answer": "TAZE"
     },
     {
@@ -172,7 +172,7 @@
       "row": 3,
       "col": 5,
       "length": 3,
-      "clue": "Hatıra, geçmiş olay",
+      "clue": "Hatıra ya da geçmiş olay karşılığı olarak kullanılan kelime",
       "answer": "ANI"
     },
     {
@@ -181,7 +181,7 @@
       "row": 5,
       "col": 4,
       "length": 3,
-      "clue": "Harici, dış yüzey",
+      "clue": "Günlük dilde Harici ya da dış yüzey olarak bilinen kavram",
       "answer": "DIŞ"
     },
     {
@@ -190,7 +190,7 @@
       "row": 6,
       "col": 0,
       "length": 4,
-      "clue": "Ev, konut",
+      "clue": "Ev ya da konut karşılığı olarak kullanılan kelime",
       "answer": "HANE"
     }
   ]

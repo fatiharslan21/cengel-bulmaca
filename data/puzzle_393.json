@@ -157,7 +157,7 @@
       "row": 0,
       "col": 2,
       "length": 5,
-      "clue": "Yemek kabı",
+      "clue": "Yemek kabı anlamına gelen sözcük",
       "answer": "TABAK"
     },
     {
@@ -166,7 +166,7 @@
       "row": 1,
       "col": 0,
       "length": 4,
-      "clue": "İnanç",
+      "clue": "Bulmacada İnanç karşılığını veren yanıt",
       "answer": "İMAN"
     },
     {
@@ -175,7 +175,7 @@
       "row": 2,
       "col": 4,
       "length": 5,
-      "clue": "Heyecan, kaygı",
+      "clue": "Günlük dilde Heyecan ya da kaygı olarak bilinen kavram",
       "answer": "TELAŞ"
     },
     {
@@ -184,7 +184,7 @@
       "row": 3,
       "col": 1,
       "length": 5,
-      "clue": "Alın yazısı",
+      "clue": "Günlük dilde Alın yazısı olarak bilinen kavram",
       "answer": "KADER"
     },
     {
@@ -193,7 +193,7 @@
       "row": 5,
       "col": 3,
       "length": 7,
-      "clue": "Bağlılık, vefa",
+      "clue": "Bağlılık ya da vefa için kullanılan yaygın ifade",
       "answer": "SADAKAT"
     },
     {
@@ -202,7 +202,7 @@
       "row": 5,
       "col": 7,
       "length": 5,
-      "clue": "Söz, laf",
+      "clue": "Söz ya da laf karşılığı olarak kullanılan kelime",
       "answer": "KELAM"
     },
     {
@@ -211,7 +211,7 @@
       "row": 5,
       "col": 9,
       "length": 5,
-      "clue": "Zar masa oyunu",
+      "clue": "Zar masa oyunu için kullanılan yaygın ifade",
       "answer": "TAVLA"
     },
     {
@@ -220,7 +220,7 @@
       "row": 8,
       "col": 4,
       "length": 4,
-      "clue": "Yalvarma, dilek",
+      "clue": "Yalvarma ya da dilek karşılığı olarak kullanılan kelime",
       "answer": "RİCA"
     },
     {
@@ -229,7 +229,7 @@
       "row": 8,
       "col": 5,
       "length": 4,
-      "clue": "Sivri dikiş aracı",
+      "clue": "Sivri dikiş aracı anlamına gelen sözcük",
       "answer": "İĞNE"
     },
     {
@@ -238,7 +238,7 @@
       "row": 11,
       "col": 4,
       "length": 5,
-      "clue": "Hüzün, usanç",
+      "clue": "Bulmacada Hüzün ya da usanç karşılığını veren yanıt",
       "answer": "MELAL"
     }
   ]

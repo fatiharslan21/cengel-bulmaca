@@ -181,7 +181,7 @@
       "row": 0,
       "col": 6,
       "length": 4,
-      "clue": "Küçük kemirgen",
+      "clue": "Küçük kemirgen karşılığı olarak kullanılan kelime",
       "answer": "FARE"
     },
     {
@@ -190,7 +190,7 @@
       "row": 1,
       "col": 5,
       "length": 5,
-      "clue": "Algılama sistemi",
+      "clue": "Algılama sistemi karşılığı olarak kullanılan kelime",
       "answer": "RADAR"
     },
     {
@@ -208,7 +208,7 @@
       "row": 3,
       "col": 8,
       "length": 5,
-      "clue": "Bilimsel test",
+      "clue": "Günlük dilde Bilimsel test olarak bilinen kavram",
       "answer": "DENEY"
     },
     {
@@ -217,7 +217,7 @@
       "row": 5,
       "col": 4,
       "length": 5,
-      "clue": "Büyük oda",
+      "clue": "Büyük oda için kullanılan yaygın ifade",
       "answer": "SALON"
     },
     {
@@ -226,7 +226,7 @@
       "row": 5,
       "col": 4,
       "length": 6,
-      "clue": "Kısa an",
+      "clue": "Kısa an anlamına gelen sözcük",
       "answer": "SANİYE"
     },
     {
@@ -235,7 +235,7 @@
       "row": 5,
       "col": 11,
       "length": 4,
-      "clue": "Amaç, maksat",
+      "clue": "Amaç ya da maksat için kullanılan yaygın ifade",
       "answer": "GAYE"
     },
     {
@@ -244,7 +244,7 @@
       "row": 6,
       "col": 8,
       "length": 4,
-      "clue": "Kırmızı meyve",
+      "clue": "Bulmacada Kırmızı meyve karşılığını veren yanıt",
       "answer": "ELMA"
     },
     {
@@ -253,7 +253,7 @@
       "row": 9,
       "col": 1,
       "length": 3,
-      "clue": "Beyaz yağış",
+      "clue": "Beyaz yağış için kullanılan yaygın ifade",
       "answer": "KAR"
     },
     {
@@ -262,7 +262,7 @@
       "row": 10,
       "col": 0,
       "length": 6,
-      "clue": "Kıyamet yeri",
+      "clue": "Kıyamet yeri için kullanılan yaygın ifade",
       "answer": "MAHŞER"
     }
   ]

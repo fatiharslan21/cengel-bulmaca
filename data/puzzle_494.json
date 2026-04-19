@@ -167,7 +167,7 @@
       "row": 0,
       "col": 9,
       "length": 6,
-      "clue": "Ün, nam",
+      "clue": "Ün ya da nam anlamına gelen sözcük",
       "answer": "ŞÖHRET"
     },
     {
@@ -176,7 +176,7 @@
       "row": 1,
       "col": 4,
       "length": 6,
-      "clue": "Popüler top oyunu",
+      "clue": "Bulmacada Popüler top oyunu karşılığını veren yanıt",
       "answer": "FUTBOL"
     },
     {
@@ -185,7 +185,7 @@
       "row": 1,
       "col": 7,
       "length": 4,
-      "clue": "Ayrılırken selam",
+      "clue": "Ayrılırken selam için kullanılan yaygın ifade",
       "answer": "VEDA"
     },
     {
@@ -194,7 +194,7 @@
       "row": 1,
       "col": 11,
       "length": 5,
-      "clue": "Dil, konuşma",
+      "clue": "Bulmacada Dil ya da konuşma karşılığını veren yanıt",
       "answer": "LİSAN"
     },
     {
@@ -203,7 +203,7 @@
       "row": 3,
       "col": 4,
       "length": 6,
-      "clue": "Beğenme, övme",
+      "clue": "Günlük dilde Beğenme ya da övme olarak bilinen kavram",
       "answer": "TAKDİR"
     },
     {
@@ -212,7 +212,7 @@
       "row": 5,
       "col": 1,
       "length": 5,
-      "clue": "Küçük deniz taşıtı",
+      "clue": "Küçük deniz taşıtı anlamına gelen sözcük",
       "answer": "TEKNE"
     },
     {
@@ -221,7 +221,7 @@
       "row": 5,
       "col": 9,
       "length": 3,
-      "clue": "Bin kilogram",
+      "clue": "Bin kilogram için kullanılan yaygın ifade",
       "answer": "TON"
     },
     {
@@ -230,7 +230,7 @@
       "row": 6,
       "col": 1,
       "length": 4,
-      "clue": "Özlenen istek",
+      "clue": "Özlenen istek için kullanılan yaygın ifade",
       "answer": "EMEL"
     },
     {
@@ -239,7 +239,7 @@
       "row": 8,
       "col": 3,
       "length": 3,
-      "clue": "Damar sıvısı",
+      "clue": "Bulmacada Damar sıvısı karşılığını veren yanıt",
       "answer": "KAN"
     },
     {
@@ -248,7 +248,7 @@
       "row": 9,
       "col": 0,
       "length": 5,
-      "clue": "Heyecan, kaygı",
+      "clue": "Günlük dilde Heyecan ya da kaygı olarak bilinen kavram",
       "answer": "TELAŞ"
     }
   ]

@@ -169,7 +169,7 @@
       "row": 0,
       "col": 1,
       "length": 6,
-      "clue": "Üzgün, kederli",
+      "clue": "Günlük dilde Üzgün ya da kederli olarak bilinen kavram",
       "answer": "MAHZUN"
     },
     {
@@ -178,7 +178,7 @@
       "row": 1,
       "col": 0,
       "length": 3,
-      "clue": "Beyaz yağış",
+      "clue": "Beyaz yağış için kullanılan yaygın ifade",
       "answer": "KAR"
     },
     {
@@ -187,7 +187,7 @@
       "row": 3,
       "col": 3,
       "length": 3,
-      "clue": "Üstün karşıtı",
+      "clue": "Bulmacada Üstün karşıtı karşılığını veren yanıt",
       "answer": "ALT"
     },
     {
@@ -196,7 +196,7 @@
       "row": 3,
       "col": 4,
       "length": 5,
-      "clue": "Hoş, ince",
+      "clue": "Hoş ya da ince için kullanılan yaygın ifade",
       "answer": "LATİF"
     },
     {
@@ -205,7 +205,7 @@
       "row": 5,
       "col": 1,
       "length": 5,
-      "clue": "İnce söz, espri",
+      "clue": "Bulmacada İnce söz ya da espri karşılığını veren yanıt",
       "answer": "NÜKTE"
     },
     {
@@ -214,7 +214,7 @@
       "row": 7,
       "col": 2,
       "length": 5,
-      "clue": "Bilme, anlayış",
+      "clue": "Bilme ya da anlayış karşılığı olarak kullanılan kelime",
       "answer": "İRFAN"
     },
     {
@@ -223,7 +223,7 @@
       "row": 7,
       "col": 6,
       "length": 5,
-      "clue": "Temiz, arı",
+      "clue": "Günlük dilde Temiz ya da arı olarak bilinen kavram",
       "answer": "NEZİH"
     },
     {
@@ -232,7 +232,7 @@
       "row": 7,
       "col": 8,
       "length": 3,
-      "clue": "Gitme, burada dur",
+      "clue": "Bulmacada Gitme ya da burada dur karşılığını veren yanıt",
       "answer": "KAL"
     },
     {
@@ -241,7 +241,7 @@
       "row": 7,
       "col": 9,
       "length": 5,
-      "clue": "Sakin, huzurlu",
+      "clue": "Sakin ya da huzurlu için kullanılan yaygın ifade",
       "answer": "ASUDE"
     },
     {
@@ -250,7 +250,7 @@
       "row": 11,
       "col": 4,
       "length": 7,
-      "clue": "Gevşeklik",
+      "clue": "Gevşeklik anlamına gelen sözcük",
       "answer": "REHAVET"
     }
   ]

@@ -145,7 +145,7 @@
       "row": 0,
       "col": 3,
       "length": 5,
-      "clue": "En küçük işaret",
+      "clue": "En küçük işaret için kullanılan yaygın ifade",
       "answer": "NOKTA"
     },
     {
@@ -154,7 +154,7 @@
       "row": 1,
       "col": 1,
       "length": 5,
-      "clue": "Söz, laf",
+      "clue": "Söz ya da laf karşılığı olarak kullanılan kelime",
       "answer": "KELAM"
     },
     {
@@ -163,7 +163,7 @@
       "row": 2,
       "col": 3,
       "length": 5,
-      "clue": "Küçük kırmızı meyve",
+      "clue": "Günlük dilde Küçük kırmızı meyve olarak bilinen kavram",
       "answer": "KİRAZ"
     },
     {
@@ -172,7 +172,7 @@
       "row": 4,
       "col": 0,
       "length": 7,
-      "clue": "Bağlılık, vefa",
+      "clue": "Bağlılık ya da vefa için kullanılan yaygın ifade",
       "answer": "SADAKAT"
     },
     {
@@ -181,7 +181,7 @@
       "row": 4,
       "col": 4,
       "length": 3,
-      "clue": "Seramik toprağı",
+      "clue": "Seramik toprağı karşılığı olarak kullanılan kelime",
       "answer": "KİL"
     },
     {
@@ -190,7 +190,7 @@
       "row": 4,
       "col": 6,
       "length": 5,
-      "clue": "Issız, boş",
+      "clue": "Issız ya da boş için kullanılan yaygın ifade",
       "answer": "TENHA"
     },
     {
@@ -199,7 +199,7 @@
       "row": 4,
       "col": 8,
       "length": 5,
-      "clue": "Ayrılık",
+      "clue": "Ayrılık anlamına gelen sözcük",
       "answer": "FIRAK"
     },
     {
@@ -208,7 +208,7 @@
       "row": 6,
       "col": 6,
       "length": 3,
-      "clue": "Kırmızı taneli meyve",
+      "clue": "Kırmızı taneli meyve karşılığı olarak kullanılan kelime",
       "answer": "NAR"
     },
     {
@@ -217,7 +217,7 @@
       "row": 8,
       "col": 1,
       "length": 6,
-      "clue": "Giz, bilmece",
+      "clue": "Giz ya da bilmece anlamına gelen sözcük",
       "answer": "MUAMMA"
     },
     {
@@ -226,7 +226,7 @@
       "row": 8,
       "col": 3,
       "length": 4,
-      "clue": "Hafif olmayan",
+      "clue": "Hafif olmayan için kullanılan yaygın ifade",
       "answer": "AĞIR"
     }
   ]

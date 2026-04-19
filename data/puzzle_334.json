@@ -143,7 +143,7 @@
       "row": 0,
       "col": 8,
       "length": 5,
-      "clue": "Bilimsel test",
+      "clue": "Günlük dilde Bilimsel test olarak bilinen kavram",
       "answer": "DENEY"
     },
     {
@@ -152,7 +152,7 @@
       "row": 1,
       "col": 5,
       "length": 5,
-      "clue": "Üzüntü",
+      "clue": "Bulmacada Üzüntü karşılığını veren yanıt",
       "answer": "KEDER"
     },
     {
@@ -161,7 +161,7 @@
       "row": 2,
       "col": 1,
       "length": 4,
-      "clue": "Zaman ölçer",
+      "clue": "Bulmacada Zaman ölçer karşılığını veren yanıt",
       "answer": "SAAT"
     },
     {
@@ -170,7 +170,7 @@
       "row": 2,
       "col": 4,
       "length": 4,
-      "clue": "Ses, seda",
+      "clue": "Ses ya da seda karşılığı olarak kullanılan kelime",
       "answer": "SADA"
     },
     {
@@ -179,7 +179,7 @@
       "row": 3,
       "col": 0,
       "length": 5,
-      "clue": "Zar masa oyunu",
+      "clue": "Zar masa oyunu için kullanılan yaygın ifade",
       "answer": "TAVLA"
     },
     {
@@ -188,7 +188,7 @@
       "row": 4,
       "col": 6,
       "length": 5,
-      "clue": "Öğrenilen her şey",
+      "clue": "Bulmacada Öğrenilen her şey karşılığını veren yanıt",
       "answer": "BİLGİ"
     },
     {
@@ -197,7 +197,7 @@
       "row": 4,
       "col": 6,
       "length": 5,
-      "clue": "Ölçü, ebat",
+      "clue": "Günlük dilde Ölçü ya da ebat olarak bilinen kavram",
       "answer": "BOYUT"
     },
     {
@@ -206,7 +206,7 @@
       "row": 5,
       "col": 4,
       "length": 3,
-      "clue": "Yakışıklı, gösterişli",
+      "clue": "Yakışıklı ya da gösterişli anlamına gelen sözcük",
       "answer": "AFİ"
     },
     {
@@ -215,7 +215,7 @@
       "row": 7,
       "col": 4,
       "length": 3,
-      "clue": "Giyside küçük kese",
+      "clue": "Giyside küçük kese karşılığı olarak kullanılan kelime",
       "answer": "CEP"
     },
     {
@@ -224,7 +224,7 @@
       "row": 8,
       "col": 3,
       "length": 4,
-      "clue": "Miyavlayan evcil",
+      "clue": "Miyavlayan evcil anlamına gelen sözcük",
       "answer": "KEDİ"
     }
   ]

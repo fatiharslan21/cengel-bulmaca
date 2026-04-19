@@ -103,7 +103,7 @@
       "row": 0,
       "col": 2,
       "length": 4,
-      "clue": "Yazılmış metin",
+      "clue": "Bulmacada Yazılmış metin karşılığını veren yanıt",
       "answer": "YAZI"
     },
     {
@@ -112,7 +112,7 @@
       "row": 0,
       "col": 4,
       "length": 5,
-      "clue": "Ani vuruş",
+      "clue": "Ani vuruş anlamına gelen sözcük",
       "answer": "DARBE"
     },
     {
@@ -121,7 +121,7 @@
       "row": 0,
       "col": 4,
       "length": 4,
-      "clue": "Üçten sonra gelen",
+      "clue": "Üçten sonra gelen için kullanılan yaygın ifade",
       "answer": "DÖRT"
     },
     {
@@ -148,7 +148,7 @@
       "row": 3,
       "col": 6,
       "length": 3,
-      "clue": "Bitki gövdesi",
+      "clue": "Günlük dilde Bitki gövdesi olarak bilinen kavram",
       "answer": "SAP"
     },
     {
@@ -157,7 +157,7 @@
       "row": 4,
       "col": 3,
       "length": 4,
-      "clue": "Kez, kere",
+      "clue": "Günlük dilde Kez ya da kere olarak bilinen kavram",
       "answer": "DEFA"
     },
     {
@@ -166,7 +166,7 @@
       "row": 4,
       "col": 3,
       "length": 5,
-      "clue": "Bilimsel test",
+      "clue": "Günlük dilde Bilimsel test olarak bilinen kavram",
       "answer": "DENEY"
     },
     {
@@ -175,7 +175,7 @@
       "row": 6,
       "col": 0,
       "length": 4,
-      "clue": "Eğlence faaliyeti",
+      "clue": "Bulmacada Eğlence faaliyeti karşılığını veren yanıt",
       "answer": "OYUN"
     }
   ]

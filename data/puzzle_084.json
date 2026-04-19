@@ -97,7 +97,7 @@
       "row": 0,
       "col": 8,
       "length": 5,
-      "clue": "Geniş ana yol",
+      "clue": "Geniş ana yol için kullanılan yaygın ifade",
       "answer": "CADDE"
     },
     {
@@ -106,7 +106,7 @@
       "row": 1,
       "col": 5,
       "length": 5,
-      "clue": "Uyulması gereken",
+      "clue": "Uyulması gereken için kullanılan yaygın ifade",
       "answer": "KURAL"
     },
     {
@@ -115,7 +115,7 @@
       "row": 1,
       "col": 5,
       "length": 5,
-      "clue": "Küçük kırmızı meyve",
+      "clue": "Günlük dilde Küçük kırmızı meyve olarak bilinen kavram",
       "answer": "KİRAZ"
     },
     {
@@ -124,7 +124,7 @@
       "row": 2,
       "col": 1,
       "length": 3,
-      "clue": "Rüzgar, esinti",
+      "clue": "Bulmacada Rüzgar ya da esinti karşılığını veren yanıt",
       "answer": "YEL"
     },
     {
@@ -133,7 +133,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "İlerinin zıttı",
+      "clue": "Günlük dilde İlerinin zıttı olarak bilinen kavram",
       "answer": "GERİ"
     },
     {
@@ -142,7 +142,7 @@
       "row": 3,
       "col": 3,
       "length": 3,
-      "clue": "Birinci, baştaki",
+      "clue": "Birinci ya da baştaki anlamına gelen sözcük",
       "answer": "İLK"
     },
     {
@@ -151,7 +151,7 @@
       "row": 4,
       "col": 7,
       "length": 3,
-      "clue": "Birinci tekil kişi",
+      "clue": "Birinci tekil kişi karşılığı olarak kullanılan kelime",
       "answer": "BEN"
     },
     {
@@ -160,7 +160,7 @@
       "row": 4,
       "col": 7,
       "length": 3,
-      "clue": "Asit karşıtı",
+      "clue": "Asit karşıtı için kullanılan yaygın ifade",
       "answer": "BAZ"
     },
     {
@@ -169,7 +169,7 @@
       "row": 5,
       "col": 3,
       "length": 3,
-      "clue": "Üst beden uzvu",
+      "clue": "Günlük dilde Üst beden uzvu olarak bilinen kavram",
       "answer": "KOL"
     }
   ]

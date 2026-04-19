@@ -145,7 +145,7 @@
       "row": 0,
       "col": 1,
       "length": 6,
-      "clue": "Giz, bilmece",
+      "clue": "Giz ya da bilmece anlamına gelen sözcük",
       "answer": "MUAMMA"
     },
     {
@@ -154,7 +154,7 @@
       "row": 0,
       "col": 5,
       "length": 4,
-      "clue": "Baş, kelle",
+      "clue": "Baş ya da kelle için kullanılan yaygın ifade",
       "answer": "KAFA"
     },
     {
@@ -163,7 +163,7 @@
       "row": 2,
       "col": 0,
       "length": 4,
-      "clue": "Mutlaka yapılması gereken",
+      "clue": "Bulmacada Mutlaka yapılması gereken karşılığını veren yanıt",
       "answer": "FARZ"
     },
     {
@@ -172,7 +172,7 @@
       "row": 3,
       "col": 4,
       "length": 5,
-      "clue": "İçten bağlılık",
+      "clue": "İçten bağlılık anlamına gelen sözcük",
       "answer": "HULUS"
     },
     {
@@ -181,7 +181,7 @@
       "row": 3,
       "col": 4,
       "length": 3,
-      "clue": "Adalet, doğruluk",
+      "clue": "Bulmacada Adalet ya da doğruluk karşılığını veren yanıt",
       "answer": "HAK"
     },
     {
@@ -190,7 +190,7 @@
       "row": 5,
       "col": 0,
       "length": 6,
-      "clue": "Boşuna, yararsız",
+      "clue": "Boşuna ya da yararsız için kullanılan yaygın ifade",
       "answer": "NAFİLE"
     },
     {
@@ -199,7 +199,7 @@
       "row": 5,
       "col": 0,
       "length": 5,
-      "clue": "İyilik, bolluk",
+      "clue": "İyilik ya da bolluk için kullanılan yaygın ifade",
       "answer": "NİMET"
     },
     {
@@ -208,7 +208,7 @@
       "row": 6,
       "col": 9,
       "length": 5,
-      "clue": "Heyecan, kaygı",
+      "clue": "Günlük dilde Heyecan ya da kaygı olarak bilinen kavram",
       "answer": "TELAŞ"
     },
     {
@@ -217,7 +217,7 @@
       "row": 7,
       "col": 4,
       "length": 6,
-      "clue": "Kısa an",
+      "clue": "Kısa an anlamına gelen sözcük",
       "answer": "SANİYE"
     },
     {
@@ -226,7 +226,7 @@
       "row": 7,
       "col": 6,
       "length": 3,
-      "clue": "Kırmızı taneli meyve",
+      "clue": "Kırmızı taneli meyve karşılığı olarak kullanılan kelime",
       "answer": "NAR"
     }
   ]

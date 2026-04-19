@@ -217,7 +217,7 @@
       "row": 2,
       "col": 0,
       "length": 5,
-      "clue": "Akan tatlı su yolu",
+      "clue": "Bulmacada Akan tatlı su yolu karşılığını veren yanıt",
       "answer": "NEHİR"
     },
     {
@@ -226,7 +226,7 @@
       "row": 2,
       "col": 7,
       "length": 6,
-      "clue": "Lav püskürten dağ",
+      "clue": "Lav püskürten dağ karşılığı olarak kullanılan kelime",
       "answer": "VOLKAN"
     },
     {
@@ -262,7 +262,7 @@
       "row": 6,
       "col": 6,
       "length": 4,
-      "clue": "Küçük yükselti, doruk",
+      "clue": "Küçük yükselti ya da doruk anlamına gelen sözcük",
       "answer": "TEPE"
     },
     {
@@ -271,7 +271,7 @@
       "row": 8,
       "col": 0,
       "length": 4,
-      "clue": "Sert, büyük taş kütlesi",
+      "clue": "Bulmacada Sert ya da büyük taş kütlesi karşılığını veren yanıt",
       "answer": "KAYA"
     },
     {
@@ -307,7 +307,7 @@
       "row": 1,
       "col": 5,
       "length": 5,
-      "clue": "Büyük akarsu, nehir",
+      "clue": "Büyük akarsu ya da nehir için kullanılan yaygın ifade",
       "answer": "IRMAK"
     }
   ]

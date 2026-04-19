@@ -112,7 +112,7 @@
       "row": 0,
       "col": 3,
       "length": 6,
-      "clue": "Özlü söz",
+      "clue": "Özlü söz için kullanılan yaygın ifade",
       "answer": "VECİZE"
     },
     {
@@ -121,7 +121,7 @@
       "row": 1,
       "col": 0,
       "length": 5,
-      "clue": "Yeni bilgi",
+      "clue": "Günlük dilde Yeni bilgi olarak bilinen kavram",
       "answer": "HABER"
     },
     {
@@ -130,7 +130,7 @@
       "row": 3,
       "col": 0,
       "length": 5,
-      "clue": "Uysal, yumuşak",
+      "clue": "Günlük dilde Uysal ya da yumuşak olarak bilinen kavram",
       "answer": "MUNİS"
     },
     {
@@ -139,7 +139,7 @@
       "row": 5,
       "col": 0,
       "length": 4,
-      "clue": "Sivri dikiş aracı",
+      "clue": "Sivri dikiş aracı anlamına gelen sözcük",
       "answer": "İĞNE"
     },
     {
@@ -148,7 +148,7 @@
       "row": 5,
       "col": 2,
       "length": 6,
-      "clue": "Boşuna, yararsız",
+      "clue": "Boşuna ya da yararsız için kullanılan yaygın ifade",
       "answer": "NAFİLE"
     },
     {
@@ -157,7 +157,7 @@
       "row": 6,
       "col": 4,
       "length": 3,
-      "clue": "Omuz örtüsü",
+      "clue": "Omuz örtüsü anlamına gelen sözcük",
       "answer": "ŞAL"
     },
     {
@@ -166,7 +166,7 @@
       "row": 6,
       "col": 5,
       "length": 3,
-      "clue": "Elin iç kısmı",
+      "clue": "Elin iç kısmı anlamına gelen sözcük",
       "answer": "AYA"
     },
     {
@@ -175,7 +175,7 @@
       "row": 8,
       "col": 2,
       "length": 5,
-      "clue": "Esin, sezgi",
+      "clue": "Günlük dilde Esin ya da sezgi olarak bilinen kavram",
       "answer": "İLHAM"
     },
     {
@@ -184,7 +184,7 @@
       "row": 9,
       "col": 0,
       "length": 3,
-      "clue": "Ağacın kolu",
+      "clue": "Bulmacada Ağacın kolu karşılığını veren yanıt",
       "answer": "DAL"
     },
     {
@@ -193,7 +193,7 @@
       "row": 10,
       "col": 2,
       "length": 4,
-      "clue": "Ölüm vakti",
+      "clue": "Ölüm vakti karşılığı olarak kullanılan kelime",
       "answer": "ECEL"
     }
   ]

@@ -121,7 +121,7 @@
       "row": 0,
       "col": 3,
       "length": 6,
-      "clue": "Ün, nam",
+      "clue": "Ün ya da nam anlamına gelen sözcük",
       "answer": "ŞÖHRET"
     },
     {
@@ -130,7 +130,7 @@
       "row": 3,
       "col": 1,
       "length": 3,
-      "clue": "İlk doğal sayı",
+      "clue": "İlk doğal sayı için kullanılan yaygın ifade",
       "answer": "BİR"
     },
     {
@@ -139,7 +139,7 @@
       "row": 5,
       "col": 0,
       "length": 5,
-      "clue": "Alın yazısı",
+      "clue": "Günlük dilde Alın yazısı olarak bilinen kavram",
       "answer": "KADER"
     },
     {
@@ -148,7 +148,7 @@
       "row": 5,
       "col": 0,
       "length": 6,
-      "clue": "Yırtıcı büyük kuş",
+      "clue": "Yırtıcı büyük kuş için kullanılan yaygın ifade",
       "answer": "KARTAL"
     },
     {
@@ -157,7 +157,7 @@
       "row": 7,
       "col": 0,
       "length": 3,
-      "clue": "Rüya, hayal",
+      "clue": "Rüya ya da hayal için kullanılan yaygın ifade",
       "answer": "DÜŞ"
     },
     {
@@ -166,7 +166,7 @@
       "row": 7,
       "col": 2,
       "length": 3,
-      "clue": "Omuz örtüsü",
+      "clue": "Omuz örtüsü anlamına gelen sözcük",
       "answer": "ŞAL"
     },
     {
@@ -175,7 +175,7 @@
       "row": 7,
       "col": 4,
       "length": 4,
-      "clue": "İddia, tez",
+      "clue": "İddia ya da tez karşılığı olarak kullanılan kelime",
       "answer": "DAVA"
     },
     {
@@ -184,7 +184,7 @@
       "row": 7,
       "col": 6,
       "length": 5,
-      "clue": "Uyulması gereken",
+      "clue": "Uyulması gereken için kullanılan yaygın ifade",
       "answer": "KURAL"
     },
     {
@@ -193,7 +193,7 @@
       "row": 8,
       "col": 2,
       "length": 3,
-      "clue": "Mesafe, açıklık",
+      "clue": "Bulmacada Mesafe ya da açıklık karşılığını veren yanıt",
       "answer": "ARA"
     },
     {
@@ -202,7 +202,7 @@
       "row": 10,
       "col": 3,
       "length": 4,
-      "clue": "Büyük sert taş",
+      "clue": "Büyük sert taş için kullanılan yaygın ifade",
       "answer": "KAYA"
     }
   ]

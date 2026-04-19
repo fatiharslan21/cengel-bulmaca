@@ -85,7 +85,7 @@
       "row": 0,
       "col": 6,
       "length": 3,
-      "clue": "Kuvvet, enerji",
+      "clue": "Bulmacada Kuvvet ya da enerji karşılığını veren yanıt",
       "answer": "GÜÇ"
     },
     {
@@ -94,7 +94,7 @@
       "row": 2,
       "col": 4,
       "length": 3,
-      "clue": "Ses çıkaran metal",
+      "clue": "Ses çıkaran metal karşılığı olarak kullanılan kelime",
       "answer": "ÇAN"
     },
     {
@@ -103,7 +103,7 @@
       "row": 2,
       "col": 4,
       "length": 5,
-      "clue": "Bitkinin renkli kısmı",
+      "clue": "Bulmacada Bitkinin renkli kısmı karşılığını veren yanıt",
       "answer": "ÇİÇEK"
     },
     {
@@ -112,7 +112,7 @@
       "row": 2,
       "col": 8,
       "length": 4,
-      "clue": "Çukur yemek kabı",
+      "clue": "Çukur yemek kabı anlamına gelen sözcük",
       "answer": "KASE"
     },
     {
@@ -121,7 +121,7 @@
       "row": 3,
       "col": 0,
       "length": 3,
-      "clue": "Kötünün zıttı",
+      "clue": "Kötünün zıttı karşılığı olarak kullanılan kelime",
       "answer": "İYİ"
     },
     {
@@ -130,7 +130,7 @@
       "row": 3,
       "col": 2,
       "length": 3,
-      "clue": "Üstün karşıtı",
+      "clue": "Bulmacada Üstün karşıtı karşılığını veren yanıt",
       "answer": "ALT"
     },
     {
@@ -139,7 +139,7 @@
       "row": 3,
       "col": 2,
       "length": 3,
-      "clue": "Mesafe, açıklık",
+      "clue": "Bulmacada Mesafe ya da açıklık karşılığını veren yanıt",
       "answer": "ARA"
     },
     {
@@ -148,7 +148,7 @@
       "row": 4,
       "col": 0,
       "length": 3,
-      "clue": "Rüzgar, esinti",
+      "clue": "Bulmacada Rüzgar ya da esinti karşılığını veren yanıt",
       "answer": "YEL"
     },
     {
@@ -157,7 +157,7 @@
       "row": 5,
       "col": 6,
       "length": 4,
-      "clue": "Yanan ısı ve ışık",
+      "clue": "Günlük dilde Yanan ısı ve ışık olarak bilinen kavram",
       "answer": "ATEŞ"
     }
   ]

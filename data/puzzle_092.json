@@ -145,7 +145,7 @@
       "row": 0,
       "col": 7,
       "length": 5,
-      "clue": "Hükümdar konutu",
+      "clue": "Hükümdar konutu anlamına gelen sözcük",
       "answer": "SARAY"
     },
     {
@@ -154,7 +154,7 @@
       "row": 1,
       "col": 6,
       "length": 4,
-      "clue": "Katlanır bıçak",
+      "clue": "Günlük dilde Katlanır bıçak olarak bilinen kavram",
       "answer": "ÇAKI"
     },
     {
@@ -163,7 +163,7 @@
       "row": 4,
       "col": 6,
       "length": 5,
-      "clue": "Ağaçlık alan",
+      "clue": "Bulmacada Ağaçlık alan karşılığını veren yanıt",
       "answer": "ORMAN"
     },
     {
@@ -172,7 +172,7 @@
       "row": 4,
       "col": 6,
       "length": 4,
-      "clue": "Eğlence faaliyeti",
+      "clue": "Bulmacada Eğlence faaliyeti karşılığını veren yanıt",
       "answer": "OYUN"
     },
     {
@@ -181,7 +181,7 @@
       "row": 5,
       "col": 3,
       "length": 5,
-      "clue": "En sert taş",
+      "clue": "En sert taş karşılığı olarak kullanılan kelime",
       "answer": "ELMAS"
     },
     {
@@ -190,7 +190,7 @@
       "row": 5,
       "col": 3,
       "length": 4,
-      "clue": "Buyruk, komut",
+      "clue": "Günlük dilde Buyruk ya da komut olarak bilinen kavram",
       "answer": "EMİR"
     },
     {
@@ -199,7 +199,7 @@
       "row": 7,
       "col": 1,
       "length": 4,
-      "clue": "Vatan",
+      "clue": "Vatan karşılığı olarak kullanılan kelime",
       "answer": "YURT"
     },
     {
@@ -208,7 +208,7 @@
       "row": 7,
       "col": 5,
       "length": 4,
-      "clue": "Yeşil alan",
+      "clue": "Günlük dilde Yeşil alan olarak bilinen kavram",
       "answer": "PARK"
     },
     {
@@ -217,7 +217,7 @@
       "row": 8,
       "col": 0,
       "length": 4,
-      "clue": "Ödül bardağı",
+      "clue": "Ödül bardağı anlamına gelen sözcük",
       "answer": "KUPA"
     }
   ]

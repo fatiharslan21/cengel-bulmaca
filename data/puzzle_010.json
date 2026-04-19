@@ -103,7 +103,7 @@
       "row": 0,
       "col": 5,
       "length": 4,
-      "clue": "Cevap bekleyen",
+      "clue": "Cevap bekleyen karşılığı olarak kullanılan kelime",
       "answer": "SORU"
     },
     {
@@ -112,7 +112,7 @@
       "row": 1,
       "col": 2,
       "length": 5,
-      "clue": "Uçak kullanan",
+      "clue": "Bulmacada Uçak kullanan karşılığını veren yanıt",
       "answer": "PİLOT"
     },
     {
@@ -121,7 +121,7 @@
       "row": 1,
       "col": 2,
       "length": 4,
-      "clue": "Yassı ekmek",
+      "clue": "Bulmacada Yassı ekmek karşılığını veren yanıt",
       "answer": "PİDE"
     },
     {
@@ -130,7 +130,7 @@
       "row": 3,
       "col": 5,
       "length": 3,
-      "clue": "Yüce, büyük",
+      "clue": "Yüce ya da büyük anlamına gelen sözcük",
       "answer": "ULU"
     },
     {
@@ -139,7 +139,7 @@
       "row": 3,
       "col": 6,
       "length": 5,
-      "clue": "Gemi barınağı",
+      "clue": "Bulmacada Gemi barınağı karşılığını veren yanıt",
       "answer": "LİMAN"
     },
     {
@@ -148,7 +148,7 @@
       "row": 4,
       "col": 0,
       "length": 4,
-      "clue": "Böcekten kumaş",
+      "clue": "Böcekten kumaş anlamına gelen sözcük",
       "answer": "İPEK"
     },
     {
@@ -157,7 +157,7 @@
       "row": 5,
       "col": 4,
       "length": 4,
-      "clue": "Baş, kelle",
+      "clue": "Baş ya da kelle için kullanılan yaygın ifade",
       "answer": "KAFA"
     },
     {
@@ -166,7 +166,7 @@
       "row": 6,
       "col": 3,
       "length": 5,
-      "clue": "Yurt, memleket",
+      "clue": "Bulmacada Yurt ya da memleket karşılığını veren yanıt",
       "answer": "VATAN"
     },
     {
@@ -175,7 +175,7 @@
       "row": 8,
       "col": 3,
       "length": 3,
-      "clue": "Bina bölümü",
+      "clue": "Bulmacada Bina bölümü karşılığını veren yanıt",
       "answer": "KAT"
     }
   ]

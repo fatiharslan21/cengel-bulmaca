@@ -97,7 +97,7 @@
       "row": 0,
       "col": 2,
       "length": 3,
-      "clue": "Bin kilogram",
+      "clue": "Bin kilogram için kullanılan yaygın ifade",
       "answer": "TON"
     },
     {
@@ -106,7 +106,7 @@
       "row": 0,
       "col": 2,
       "length": 5,
-      "clue": "Yemek kabı",
+      "clue": "Yemek kabı anlamına gelen sözcük",
       "answer": "TABAK"
     },
     {
@@ -115,7 +115,7 @@
       "row": 1,
       "col": 7,
       "length": 3,
-      "clue": "İlk doğal sayı",
+      "clue": "İlk doğal sayı için kullanılan yaygın ifade",
       "answer": "BİR"
     },
     {
@@ -133,7 +133,7 @@
       "row": 3,
       "col": 0,
       "length": 3,
-      "clue": "Mesafe, açıklık",
+      "clue": "Bulmacada Mesafe ya da açıklık karşılığını veren yanıt",
       "answer": "ARA"
     },
     {
@@ -142,7 +142,7 @@
       "row": 3,
       "col": 6,
       "length": 4,
-      "clue": "Adet, parça",
+      "clue": "Günlük dilde Adet ya da parça olarak bilinen kavram",
       "answer": "TANE"
     },
     {
@@ -151,7 +151,7 @@
       "row": 3,
       "col": 6,
       "length": 4,
-      "clue": "Raylı taşıt",
+      "clue": "Bulmacada Raylı taşıt karşılığını veren yanıt",
       "answer": "TREN"
     },
     {
@@ -160,7 +160,7 @@
       "row": 4,
       "col": 2,
       "length": 5,
-      "clue": "İple oynatılan",
+      "clue": "İple oynatılan karşılığı olarak kullanılan kelime",
       "answer": "KUKLA"
     },
     {
@@ -169,7 +169,7 @@
       "row": 6,
       "col": 5,
       "length": 3,
-      "clue": "Giyside küçük kese",
+      "clue": "Giyside küçük kese karşılığı olarak kullanılan kelime",
       "answer": "CEP"
     }
   ]

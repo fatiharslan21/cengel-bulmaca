@@ -130,7 +130,7 @@
       "row": 0,
       "col": 5,
       "length": 4,
-      "clue": "Görkemli yapı",
+      "clue": "Görkemli yapı karşılığı olarak kullanılan kelime",
       "answer": "ŞATO"
     },
     {
@@ -139,7 +139,7 @@
       "row": 0,
       "col": 8,
       "length": 4,
-      "clue": "Tedavi maddesi",
+      "clue": "Tedavi maddesi için kullanılan yaygın ifade",
       "answer": "İLAÇ"
     },
     {
@@ -148,7 +148,7 @@
       "row": 1,
       "col": 5,
       "length": 4,
-      "clue": "Düşünme yetisi",
+      "clue": "Günlük dilde Düşünme yetisi olarak bilinen kavram",
       "answer": "AKIL"
     },
     {
@@ -157,7 +157,7 @@
       "row": 2,
       "col": 8,
       "length": 3,
-      "clue": "Üstün karşıtı",
+      "clue": "Bulmacada Üstün karşıtı karşılığını veren yanıt",
       "answer": "ALT"
     },
     {
@@ -166,7 +166,7 @@
       "row": 2,
       "col": 10,
       "length": 4,
-      "clue": "Raylı taşıt",
+      "clue": "Bulmacada Raylı taşıt karşılığını veren yanıt",
       "answer": "TREN"
     },
     {
@@ -175,7 +175,7 @@
       "row": 3,
       "col": 2,
       "length": 5,
-      "clue": "Büyük oda",
+      "clue": "Büyük oda için kullanılan yaygın ifade",
       "answer": "SALON"
     },
     {
@@ -184,7 +184,7 @@
       "row": 3,
       "col": 3,
       "length": 4,
-      "clue": "Elektrik hareketi",
+      "clue": "Elektrik hareketi için kullanılan yaygın ifade",
       "answer": "AKIM"
     },
     {
@@ -193,7 +193,7 @@
       "row": 4,
       "col": 1,
       "length": 5,
-      "clue": "Yeni bilgi",
+      "clue": "Günlük dilde Yeni bilgi olarak bilinen kavram",
       "answer": "HABER"
     },
     {
@@ -202,7 +202,7 @@
       "row": 5,
       "col": 0,
       "length": 4,
-      "clue": "Altın rengi",
+      "clue": "Altın rengi için kullanılan yaygın ifade",
       "answer": "SARI"
     },
     {
@@ -211,7 +211,7 @@
       "row": 6,
       "col": 3,
       "length": 4,
-      "clue": "Kısa dinlenme",
+      "clue": "Günlük dilde Kısa dinlenme olarak bilinen kavram",
       "answer": "MOLA"
     }
   ]

@@ -153,7 +153,7 @@
       "row": 0,
       "col": 8,
       "length": 4,
-      "clue": "Çukur yemek kabı",
+      "clue": "Çukur yemek kabı anlamına gelen sözcük",
       "answer": "KASE"
     },
     {
@@ -162,7 +162,7 @@
       "row": 1,
       "col": 10,
       "length": 7,
-      "clue": "Hatıra, armağan",
+      "clue": "Hatıra ya da armağan için kullanılan yaygın ifade",
       "answer": "YADİGAR"
     },
     {
@@ -171,7 +171,7 @@
       "row": 3,
       "col": 5,
       "length": 4,
-      "clue": "Bağlama aracı",
+      "clue": "Bağlama aracı anlamına gelen sözcük",
       "answer": "TOKA"
     },
     {
@@ -180,7 +180,7 @@
       "row": 3,
       "col": 7,
       "length": 3,
-      "clue": "Hayat, yaşam",
+      "clue": "Hayat ya da yaşam anlamına gelen sözcük",
       "answer": "CAN"
     },
     {
@@ -189,7 +189,7 @@
       "row": 3,
       "col": 7,
       "length": 4,
-      "clue": "Çaba, gayret",
+      "clue": "Bulmacada Çaba ya da gayret karşılığını veren yanıt",
       "answer": "CEHD"
     },
     {
@@ -198,7 +198,7 @@
       "row": 4,
       "col": 4,
       "length": 4,
-      "clue": "Renk veren madde",
+      "clue": "Günlük dilde Renk veren madde olarak bilinen kavram",
       "answer": "BOYA"
     },
     {
@@ -216,7 +216,7 @@
       "row": 6,
       "col": 2,
       "length": 5,
-      "clue": "Hüzün, usanç",
+      "clue": "Bulmacada Hüzün ya da usanç karşılığını veren yanıt",
       "answer": "MELAL"
     },
     {
@@ -225,7 +225,7 @@
       "row": 6,
       "col": 9,
       "length": 3,
-      "clue": "Evin çatısı",
+      "clue": "Evin çatısı anlamına gelen sözcük",
       "answer": "DAM"
     },
     {
@@ -234,7 +234,7 @@
       "row": 8,
       "col": 0,
       "length": 5,
-      "clue": "Topluluk, küme",
+      "clue": "Topluluk ya da küme için kullanılan yaygın ifade",
       "answer": "ZÜMRE"
     }
   ]

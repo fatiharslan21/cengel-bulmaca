@@ -113,7 +113,7 @@
       "row": 0,
       "col": 5,
       "length": 5,
-      "clue": "İçten bağlılık",
+      "clue": "İçten bağlılık anlamına gelen sözcük",
       "answer": "HULUS"
     },
     {
@@ -122,7 +122,7 @@
       "row": 2,
       "col": 3,
       "length": 3,
-      "clue": "Dev kara hayvanı",
+      "clue": "Dev kara hayvanı karşılığı olarak kullanılan kelime",
       "answer": "FİL"
     },
     {
@@ -131,7 +131,7 @@
       "row": 3,
       "col": 0,
       "length": 5,
-      "clue": "Ayrılık",
+      "clue": "Ayrılık anlamına gelen sözcük",
       "answer": "FIRAK"
     },
     {
@@ -140,7 +140,7 @@
       "row": 4,
       "col": 2,
       "length": 4,
-      "clue": "Müzikle hareket",
+      "clue": "Müzikle hareket karşılığı olarak kullanılan kelime",
       "answer": "DANS"
     },
     {
@@ -149,7 +149,7 @@
       "row": 4,
       "col": 2,
       "length": 6,
-      "clue": "Ülke yönetimi",
+      "clue": "Ülke yönetimi için kullanılan yaygın ifade",
       "answer": "DEVLET"
     },
     {
@@ -158,7 +158,7 @@
       "row": 6,
       "col": 4,
       "length": 4,
-      "clue": "Katlanır bıçak",
+      "clue": "Günlük dilde Katlanır bıçak olarak bilinen kavram",
       "answer": "ÇAKI"
     },
     {
@@ -167,7 +167,7 @@
       "row": 6,
       "col": 5,
       "length": 4,
-      "clue": "Yanan ısı ve ışık",
+      "clue": "Günlük dilde Yanan ısı ve ışık olarak bilinen kavram",
       "answer": "ATEŞ"
     },
     {
@@ -176,7 +176,7 @@
       "row": 7,
       "col": 0,
       "length": 3,
-      "clue": "Yanık kalıntısı",
+      "clue": "Yanık kalıntısı için kullanılan yaygın ifade",
       "answer": "KÜL"
     },
     {
@@ -185,7 +185,7 @@
       "row": 8,
       "col": 2,
       "length": 5,
-      "clue": "Vaktinden önce",
+      "clue": "Vaktinden önce karşılığı olarak kullanılan kelime",
       "answer": "ERKEN"
     },
     {
@@ -194,7 +194,7 @@
       "row": 9,
       "col": 0,
       "length": 3,
-      "clue": "Üstün karşıtı",
+      "clue": "Bulmacada Üstün karşıtı karşılığını veren yanıt",
       "answer": "ALT"
     }
   ]

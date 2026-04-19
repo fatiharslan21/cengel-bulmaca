@@ -139,7 +139,7 @@
       "row": 0,
       "col": 11,
       "length": 5,
-      "clue": "Yemek aracı",
+      "clue": "Günlük dilde Yemek aracı olarak bilinen kavram",
       "answer": "KAŞIK"
     },
     {
@@ -148,7 +148,7 @@
       "row": 2,
       "col": 9,
       "length": 6,
-      "clue": "İçecek kabı",
+      "clue": "İçecek kabı anlamına gelen sözcük",
       "answer": "BARDAK"
     },
     {
@@ -157,7 +157,7 @@
       "row": 3,
       "col": 9,
       "length": 3,
-      "clue": "Tatlının zıttı",
+      "clue": "Bulmacada Tatlının zıttı karşılığını veren yanıt",
       "answer": "ACI"
     },
     {
@@ -166,7 +166,7 @@
       "row": 4,
       "col": 1,
       "length": 4,
-      "clue": "Bodur ağaç",
+      "clue": "Bodur ağaç anlamına gelen sözcük",
       "answer": "ÇALI"
     },
     {
@@ -175,7 +175,7 @@
       "row": 4,
       "col": 3,
       "length": 5,
-      "clue": "Bitkinin ürünü",
+      "clue": "Günlük dilde Bitkinin ürünü olarak bilinen kavram",
       "answer": "MEYVE"
     },
     {
@@ -184,7 +184,7 @@
       "row": 4,
       "col": 6,
       "length": 4,
-      "clue": "Karşılık, sevap",
+      "clue": "Bulmacada Karşılık ya da sevap karşılığını veren yanıt",
       "answer": "ECİR"
     },
     {
@@ -193,7 +193,7 @@
       "row": 5,
       "col": 0,
       "length": 5,
-      "clue": "İstek",
+      "clue": "Günlük dilde İstek olarak bilinen kavram",
       "answer": "TALEP"
     },
     {
@@ -202,7 +202,7 @@
       "row": 6,
       "col": 6,
       "length": 5,
-      "clue": "Utanç, çekinme",
+      "clue": "Utanç ya da çekinme anlamına gelen sözcük",
       "answer": "HİCAP"
     },
     {
@@ -211,7 +211,7 @@
       "row": 6,
       "col": 6,
       "length": 3,
-      "clue": "Güzel, tatlı",
+      "clue": "Güzel ya da tatlı karşılığı olarak kullanılan kelime",
       "answer": "HOŞ"
     },
     {
@@ -220,7 +220,7 @@
       "row": 7,
       "col": 3,
       "length": 4,
-      "clue": "Çiçek süs kabı",
+      "clue": "Bulmacada Çiçek süs kabı karşılığını veren yanıt",
       "answer": "VAZO"
     }
   ]

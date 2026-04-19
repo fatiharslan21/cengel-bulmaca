@@ -121,7 +121,7 @@
       "row": 0,
       "col": 5,
       "length": 5,
-      "clue": "Sakin, huzurlu",
+      "clue": "Sakin ya da huzurlu için kullanılan yaygın ifade",
       "answer": "ASUDE"
     },
     {
@@ -130,7 +130,7 @@
       "row": 1,
       "col": 1,
       "length": 6,
-      "clue": "Sevgi, acıma",
+      "clue": "Bulmacada Sevgi ya da acıma karşılığını veren yanıt",
       "answer": "ŞEFKAT"
     },
     {
@@ -139,7 +139,7 @@
       "row": 4,
       "col": 1,
       "length": 6,
-      "clue": "Güç, kuvvet",
+      "clue": "Günlük dilde Güç ya da kuvvet olarak bilinen kavram",
       "answer": "KUDRET"
     },
     {
@@ -148,7 +148,7 @@
       "row": 4,
       "col": 6,
       "length": 5,
-      "clue": "Issız, boş",
+      "clue": "Issız ya da boş için kullanılan yaygın ifade",
       "answer": "TENHA"
     },
     {
@@ -157,7 +157,7 @@
       "row": 6,
       "col": 3,
       "length": 4,
-      "clue": "Bitki yapısı",
+      "clue": "Günlük dilde Bitki yapısı olarak bilinen kavram",
       "answer": "SERA"
     },
     {
@@ -166,7 +166,7 @@
       "row": 7,
       "col": 0,
       "length": 5,
-      "clue": "Gölge ağacı",
+      "clue": "Bulmacada Gölge ağacı karşılığını veren yanıt",
       "answer": "ÇINAR"
     },
     {
@@ -175,7 +175,7 @@
       "row": 8,
       "col": 3,
       "length": 4,
-      "clue": "Uykuda hayal",
+      "clue": "Uykuda hayal karşılığı olarak kullanılan kelime",
       "answer": "RÜYA"
     },
     {
@@ -184,7 +184,7 @@
       "row": 8,
       "col": 5,
       "length": 4,
-      "clue": "Vatan",
+      "clue": "Vatan karşılığı olarak kullanılan kelime",
       "answer": "YURT"
     },
     {
@@ -193,7 +193,7 @@
       "row": 9,
       "col": 0,
       "length": 4,
-      "clue": "Seslenme",
+      "clue": "Bulmacada Seslenme karşılığını veren yanıt",
       "answer": "NİDA"
     },
     {
@@ -202,7 +202,7 @@
       "row": 9,
       "col": 2,
       "length": 3,
-      "clue": "Çiğneme organı",
+      "clue": "Bulmacada Çiğneme organı karşılığını veren yanıt",
       "answer": "DİŞ"
     }
   ]

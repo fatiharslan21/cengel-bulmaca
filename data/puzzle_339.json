@@ -125,7 +125,7 @@
       "row": 0,
       "col": 6,
       "length": 5,
-      "clue": "Tatlı madde",
+      "clue": "Tatlı madde için kullanılan yaygın ifade",
       "answer": "ŞEKER"
     },
     {
@@ -134,7 +134,7 @@
       "row": 0,
       "col": 8,
       "length": 5,
-      "clue": "Yemek aracı",
+      "clue": "Günlük dilde Yemek aracı olarak bilinen kavram",
       "answer": "KAŞIK"
     },
     {
@@ -143,7 +143,7 @@
       "row": 1,
       "col": 5,
       "length": 5,
-      "clue": "Hüzün, usanç",
+      "clue": "Bulmacada Hüzün ya da usanç karşılığını veren yanıt",
       "answer": "MELAL"
     },
     {
@@ -152,7 +152,7 @@
       "row": 2,
       "col": 3,
       "length": 4,
-      "clue": "Çukur yemek kabı",
+      "clue": "Çukur yemek kabı anlamına gelen sözcük",
       "answer": "KASE"
     },
     {
@@ -161,7 +161,7 @@
       "row": 3,
       "col": 2,
       "length": 5,
-      "clue": "Ani vuruş",
+      "clue": "Ani vuruş anlamına gelen sözcük",
       "answer": "DARBE"
     },
     {
@@ -179,7 +179,7 @@
       "row": 4,
       "col": 8,
       "length": 4,
-      "clue": "Şehir",
+      "clue": "Şehir anlamına gelen sözcük",
       "answer": "KENT"
     },
     {
@@ -188,7 +188,7 @@
       "row": 4,
       "col": 9,
       "length": 4,
-      "clue": "Kullanılan nesneler",
+      "clue": "Kullanılan nesneler anlamına gelen sözcük",
       "answer": "EŞYA"
     },
     {
@@ -197,7 +197,7 @@
       "row": 5,
       "col": 0,
       "length": 4,
-      "clue": "Amaç, maksat",
+      "clue": "Amaç ya da maksat için kullanılan yaygın ifade",
       "answer": "GAYE"
     },
     {
@@ -206,7 +206,7 @@
       "row": 7,
       "col": 6,
       "length": 4,
-      "clue": "Solunan gaz",
+      "clue": "Solunan gaz anlamına gelen sözcük",
       "answer": "HAVA"
     }
   ]

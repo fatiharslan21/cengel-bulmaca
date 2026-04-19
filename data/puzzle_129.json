@@ -126,7 +126,7 @@
       "row": 1,
       "col": 5,
       "length": 5,
-      "clue": "Küçük kırmızı meyve",
+      "clue": "Günlük dilde Küçük kırmızı meyve olarak bilinen kavram",
       "answer": "KİRAZ"
     },
     {
@@ -135,7 +135,7 @@
       "row": 1,
       "col": 5,
       "length": 5,
-      "clue": "İple oynatılan",
+      "clue": "İple oynatılan karşılığı olarak kullanılan kelime",
       "answer": "KUKLA"
     },
     {
@@ -144,7 +144,7 @@
       "row": 3,
       "col": 1,
       "length": 3,
-      "clue": "Mekan, konum",
+      "clue": "Günlük dilde Mekan ya da konum olarak bilinen kavram",
       "answer": "YER"
     },
     {
@@ -153,7 +153,7 @@
       "row": 3,
       "col": 3,
       "length": 3,
-      "clue": "Seramik toprağı",
+      "clue": "Seramik toprağı karşılığı olarak kullanılan kelime",
       "answer": "KİL"
     },
     {
@@ -162,7 +162,7 @@
       "row": 3,
       "col": 3,
       "length": 4,
-      "clue": "Düz ince levha",
+      "clue": "Düz ince levha anlamına gelen sözcük",
       "answer": "KART"
     },
     {
@@ -171,7 +171,7 @@
       "row": 3,
       "col": 8,
       "length": 3,
-      "clue": "Bina bölümü",
+      "clue": "Bulmacada Bina bölümü karşılığını veren yanıt",
       "answer": "KAT"
     },
     {
@@ -180,7 +180,7 @@
       "row": 4,
       "col": 0,
       "length": 4,
-      "clue": "Deniz taşıtı",
+      "clue": "Bulmacada Deniz taşıtı karşılığını veren yanıt",
       "answer": "GEMİ"
     },
     {
@@ -189,7 +189,7 @@
       "row": 4,
       "col": 7,
       "length": 4,
-      "clue": "Silahlı kuvvetler",
+      "clue": "Günlük dilde Silahlı kuvvetler olarak bilinen kavram",
       "answer": "ORDU"
     },
     {
@@ -198,7 +198,7 @@
       "row": 5,
       "col": 5,
       "length": 5,
-      "clue": "En yüksek nokta",
+      "clue": "En yüksek nokta karşılığı olarak kullanılan kelime",
       "answer": "ZİRVE"
     }
   ]

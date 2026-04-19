@@ -139,7 +139,7 @@
       "row": 1,
       "col": 4,
       "length": 4,
-      "clue": "Utanma duygusu",
+      "clue": "Utanma duygusu anlamına gelen sözcük",
       "answer": "HAYA"
     },
     {
@@ -148,7 +148,7 @@
       "row": 1,
       "col": 5,
       "length": 5,
-      "clue": "Konum bilgisi",
+      "clue": "Günlük dilde Konum bilgisi olarak bilinen kavram",
       "answer": "ADRES"
     },
     {
@@ -157,7 +157,7 @@
       "row": 3,
       "col": 2,
       "length": 6,
-      "clue": "Beğenme, övme",
+      "clue": "Günlük dilde Beğenme ya da övme olarak bilinen kavram",
       "answer": "TAKDİR"
     },
     {
@@ -166,7 +166,7 @@
       "row": 4,
       "col": 1,
       "length": 5,
-      "clue": "Geniş ana yol",
+      "clue": "Geniş ana yol için kullanılan yaygın ifade",
       "answer": "CADDE"
     },
     {
@@ -175,7 +175,7 @@
       "row": 4,
       "col": 9,
       "length": 4,
-      "clue": "Yazılmış metin",
+      "clue": "Bulmacada Yazılmış metin karşılığını veren yanıt",
       "answer": "YAZI"
     },
     {
@@ -184,7 +184,7 @@
       "row": 5,
       "col": 5,
       "length": 6,
-      "clue": "Kürekli tekne",
+      "clue": "Günlük dilde Kürekli tekne olarak bilinen kavram",
       "answer": "SANDAL"
     },
     {
@@ -193,7 +193,7 @@
       "row": 5,
       "col": 6,
       "length": 4,
-      "clue": "Bacak ucu",
+      "clue": "Günlük dilde Bacak ucu olarak bilinen kavram",
       "answer": "AYAK"
     },
     {
@@ -202,7 +202,7 @@
       "row": 6,
       "col": 0,
       "length": 4,
-      "clue": "Ayrılırken selam",
+      "clue": "Ayrılırken selam için kullanılan yaygın ifade",
       "answer": "VEDA"
     },
     {
@@ -211,7 +211,7 @@
       "row": 8,
       "col": 0,
       "length": 5,
-      "clue": "Hükümdar konutu",
+      "clue": "Hükümdar konutu anlamına gelen sözcük",
       "answer": "SARAY"
     }
   ]

@@ -167,7 +167,7 @@
       "row": 0,
       "col": 4,
       "length": 4,
-      "clue": "Arzu, istek",
+      "clue": "Arzu ya da istek için kullanılan yaygın ifade",
       "answer": "ŞEVK"
     },
     {
@@ -176,7 +176,7 @@
       "row": 2,
       "col": 7,
       "length": 6,
-      "clue": "Güçlük, eziyet",
+      "clue": "Güçlük ya da eziyet anlamına gelen sözcük",
       "answer": "ZAHMET"
     },
     {
@@ -185,7 +185,7 @@
       "row": 3,
       "col": 4,
       "length": 5,
-      "clue": "Yüzeyin sınırı",
+      "clue": "Günlük dilde Yüzeyin sınırı olarak bilinen kavram",
       "answer": "KENAR"
     },
     {
@@ -194,7 +194,7 @@
       "row": 4,
       "col": 2,
       "length": 6,
-      "clue": "Ün, nam",
+      "clue": "Ün ya da nam anlamına gelen sözcük",
       "answer": "ŞÖHRET"
     },
     {
@@ -203,7 +203,7 @@
       "row": 5,
       "col": 7,
       "length": 5,
-      "clue": "Yer, konum",
+      "clue": "Günlük dilde Yer ya da konum olarak bilinen kavram",
       "answer": "MEVKİ"
     },
     {
@@ -212,7 +212,7 @@
       "row": 6,
       "col": 2,
       "length": 6,
-      "clue": "Değerli şeyler",
+      "clue": "Günlük dilde Değerli şeyler olarak bilinen kavram",
       "answer": "HAZİNE"
     },
     {
@@ -221,7 +221,7 @@
       "row": 6,
       "col": 5,
       "length": 5,
-      "clue": "Talih, yükselme",
+      "clue": "Bulmacada Talih ya da yükselme karşılığını veren yanıt",
       "answer": "İKBAL"
     },
     {
@@ -239,7 +239,7 @@
       "row": 9,
       "col": 0,
       "length": 4,
-      "clue": "Yanlış, kusur",
+      "clue": "Günlük dilde Yanlış ya da kusur olarak bilinen kavram",
       "answer": "HATA"
     },
     {
@@ -248,7 +248,7 @@
       "row": 9,
       "col": 5,
       "length": 3,
-      "clue": "Sunma, takdim",
+      "clue": "Sunma ya da takdim anlamına gelen sözcük",
       "answer": "ARZ"
     }
   ]

@@ -112,7 +112,7 @@
       "row": 0,
       "col": 7,
       "length": 4,
-      "clue": "Ateş aleti",
+      "clue": "Günlük dilde Ateş aleti olarak bilinen kavram",
       "answer": "MAŞA"
     },
     {
@@ -121,7 +121,7 @@
       "row": 1,
       "col": 6,
       "length": 3,
-      "clue": "Oyun küpü",
+      "clue": "Günlük dilde Oyun küpü olarak bilinen kavram",
       "answer": "ZAR"
     },
     {
@@ -130,7 +130,7 @@
       "row": 3,
       "col": 4,
       "length": 4,
-      "clue": "Bağlama aracı",
+      "clue": "Bağlama aracı anlamına gelen sözcük",
       "answer": "TOKA"
     },
     {
@@ -139,7 +139,7 @@
       "row": 3,
       "col": 6,
       "length": 4,
-      "clue": "Yüzeylerin birleşimi",
+      "clue": "Günlük dilde Yüzeylerin birleşimi olarak bilinen kavram",
       "answer": "KÖŞE"
     },
     {
@@ -148,7 +148,7 @@
       "row": 4,
       "col": 2,
       "length": 5,
-      "clue": "En sert taş",
+      "clue": "En sert taş karşılığı olarak kullanılan kelime",
       "answer": "ELMAS"
     },
     {
@@ -157,7 +157,7 @@
       "row": 5,
       "col": 0,
       "length": 3,
-      "clue": "Sağın karşıtı",
+      "clue": "Günlük dilde Sağın karşıtı olarak bilinen kavram",
       "answer": "SOL"
     },
     {
@@ -166,7 +166,7 @@
       "row": 5,
       "col": 4,
       "length": 3,
-      "clue": "Lezzet verici",
+      "clue": "Lezzet verici anlamına gelen sözcük",
       "answer": "TUZ"
     },
     {
@@ -175,7 +175,7 @@
       "row": 5,
       "col": 4,
       "length": 3,
-      "clue": "Sert kayaç parçası",
+      "clue": "Sert kayaç parçası için kullanılan yaygın ifade",
       "answer": "TAŞ"
     },
     {
@@ -184,7 +184,7 @@
       "row": 7,
       "col": 1,
       "length": 4,
-      "clue": "Biçim, üslup",
+      "clue": "Biçim ya da üslup için kullanılan yaygın ifade",
       "answer": "TARZ"
     }
   ]

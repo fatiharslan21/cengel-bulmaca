@@ -133,7 +133,7 @@
       "row": 0,
       "col": 1,
       "length": 3,
-      "clue": "Adalet, doğruluk",
+      "clue": "Bulmacada Adalet ya da doğruluk karşılığını veren yanıt",
       "answer": "HAK"
     },
     {
@@ -142,7 +142,7 @@
       "row": 0,
       "col": 3,
       "length": 4,
-      "clue": "Büyük sert taş",
+      "clue": "Büyük sert taş için kullanılan yaygın ifade",
       "answer": "KAYA"
     },
     {
@@ -151,7 +151,7 @@
       "row": 1,
       "col": 3,
       "length": 4,
-      "clue": "Hedef, gaye",
+      "clue": "Bulmacada Hedef ya da gaye karşılığını veren yanıt",
       "answer": "AMAÇ"
     },
     {
@@ -160,7 +160,7 @@
       "row": 1,
       "col": 5,
       "length": 4,
-      "clue": "Gerçek, hakiki",
+      "clue": "Gerçek ya da hakiki için kullanılan yaygın ifade",
       "answer": "ASIL"
     },
     {
@@ -169,7 +169,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "Uykuda hayal",
+      "clue": "Uykuda hayal karşılığı olarak kullanılan kelime",
       "answer": "RÜYA"
     },
     {
@@ -178,7 +178,7 @@
       "row": 3,
       "col": 7,
       "length": 4,
-      "clue": "Çiçek süs kabı",
+      "clue": "Bulmacada Çiçek süs kabı karşılığını veren yanıt",
       "answer": "VAZO"
     },
     {
@@ -187,7 +187,7 @@
       "row": 4,
       "col": 4,
       "length": 4,
-      "clue": "Kırmızı meyve",
+      "clue": "Bulmacada Kırmızı meyve karşılığını veren yanıt",
       "answer": "ELMA"
     },
     {
@@ -196,7 +196,7 @@
       "row": 6,
       "col": 6,
       "length": 4,
-      "clue": "Yakın arkadaş",
+      "clue": "Bulmacada Yakın arkadaş karşılığını veren yanıt",
       "answer": "DOST"
     },
     {
@@ -205,7 +205,7 @@
       "row": 6,
       "col": 6,
       "length": 4,
-      "clue": "Sıkıntı, üzüntü",
+      "clue": "Günlük dilde Sıkıntı ya da üzüntü olarak bilinen kavram",
       "answer": "DERT"
     },
     {
@@ -214,7 +214,7 @@
       "row": 8,
       "col": 4,
       "length": 4,
-      "clue": "Ayrım, değişiklik",
+      "clue": "Ayrım ya da değişiklik anlamına gelen sözcük",
       "answer": "FARK"
     }
   ]

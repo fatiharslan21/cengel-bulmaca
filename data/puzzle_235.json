@@ -111,7 +111,7 @@
       "row": 0,
       "col": 1,
       "length": 5,
-      "clue": "Günün başı",
+      "clue": "Günün başı anlamına gelen sözcük",
       "answer": "SABAH"
     },
     {
@@ -120,7 +120,7 @@
       "row": 0,
       "col": 6,
       "length": 5,
-      "clue": "Mektup servisi",
+      "clue": "Mektup servisi için kullanılan yaygın ifade",
       "answer": "POSTA"
     },
     {
@@ -129,7 +129,7 @@
       "row": 0,
       "col": 7,
       "length": 5,
-      "clue": "Ağaçlık alan",
+      "clue": "Bulmacada Ağaçlık alan karşılığını veren yanıt",
       "answer": "ORMAN"
     },
     {
@@ -138,7 +138,7 @@
       "row": 1,
       "col": 0,
       "length": 3,
-      "clue": "Ömür süresi",
+      "clue": "Ömür süresi anlamına gelen sözcük",
       "answer": "YAŞ"
     },
     {
@@ -147,7 +147,7 @@
       "row": 2,
       "col": 5,
       "length": 5,
-      "clue": "Ambalajlı koli",
+      "clue": "Ambalajlı koli karşılığı olarak kullanılan kelime",
       "answer": "PAKET"
     },
     {
@@ -156,7 +156,7 @@
       "row": 2,
       "col": 7,
       "length": 5,
-      "clue": "Kanatlı kutsal varlık",
+      "clue": "Bulmacada Kanatlı kutsal varlık karşılığını veren yanıt",
       "answer": "MELEK"
     },
     {
@@ -165,7 +165,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "Yeşil alan",
+      "clue": "Günlük dilde Yeşil alan olarak bilinen kavram",
       "answer": "PARK"
     },
     {
@@ -174,7 +174,7 @@
       "row": 3,
       "col": 3,
       "length": 4,
-      "clue": "Şehir",
+      "clue": "Şehir anlamına gelen sözcük",
       "answer": "KENT"
     },
     {
@@ -183,7 +183,7 @@
       "row": 4,
       "col": 3,
       "length": 5,
-      "clue": "Vaktinden önce",
+      "clue": "Vaktinden önce karşılığı olarak kullanılan kelime",
       "answer": "ERKEN"
     },
     {
@@ -192,7 +192,7 @@
       "row": 6,
       "col": 3,
       "length": 3,
-      "clue": "Damaktaki lezzet",
+      "clue": "Günlük dilde Damaktaki lezzet olarak bilinen kavram",
       "answer": "TAT"
     }
   ]

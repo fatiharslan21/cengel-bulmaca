@@ -130,7 +130,7 @@
       "row": 0,
       "col": 4,
       "length": 4,
-      "clue": "Silahlı kuvvetler",
+      "clue": "Günlük dilde Silahlı kuvvetler olarak bilinen kavram",
       "answer": "ORDU"
     },
     {
@@ -139,7 +139,7 @@
       "row": 1,
       "col": 0,
       "length": 5,
-      "clue": "Yeni bilgi",
+      "clue": "Günlük dilde Yeni bilgi olarak bilinen kavram",
       "answer": "HABER"
     },
     {
@@ -157,7 +157,7 @@
       "row": 2,
       "col": 6,
       "length": 4,
-      "clue": "Siyah renk",
+      "clue": "Siyah renk karşılığı olarak kullanılan kelime",
       "answer": "KARA"
     },
     {
@@ -166,7 +166,7 @@
       "row": 3,
       "col": 4,
       "length": 4,
-      "clue": "Havada uçan taşıt",
+      "clue": "Havada uçan taşıt karşılığı olarak kullanılan kelime",
       "answer": "UÇAK"
     },
     {
@@ -175,7 +175,7 @@
       "row": 4,
       "col": 8,
       "length": 5,
-      "clue": "Yazı aleti",
+      "clue": "Günlük dilde Yazı aleti olarak bilinen kavram",
       "answer": "KALEM"
     },
     {
@@ -184,7 +184,7 @@
       "row": 4,
       "col": 10,
       "length": 4,
-      "clue": "Türk simgesi çiçek",
+      "clue": "Türk simgesi çiçek için kullanılan yaygın ifade",
       "answer": "LALE"
     },
     {
@@ -202,7 +202,7 @@
       "row": 7,
       "col": 7,
       "length": 4,
-      "clue": "Küçük akarsu",
+      "clue": "Küçük akarsu anlamına gelen sözcük",
       "answer": "DERE"
     }
   ]

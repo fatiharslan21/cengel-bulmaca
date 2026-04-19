@@ -123,7 +123,7 @@
       "row": 0,
       "col": 5,
       "length": 5,
-      "clue": "Ani vuruş",
+      "clue": "Ani vuruş anlamına gelen sözcük",
       "answer": "DARBE"
     },
     {
@@ -132,7 +132,7 @@
       "row": 1,
       "col": 4,
       "length": 3,
-      "clue": "Gitme, burada dur",
+      "clue": "Bulmacada Gitme ya da burada dur karşılığını veren yanıt",
       "answer": "KAL"
     },
     {
@@ -141,7 +141,7 @@
       "row": 3,
       "col": 2,
       "length": 6,
-      "clue": "Toplu taşıma",
+      "clue": "Bulmacada Toplu taşıma karşılığını veren yanıt",
       "answer": "OTOBÜS"
     },
     {
@@ -150,7 +150,7 @@
       "row": 3,
       "col": 3,
       "length": 4,
-      "clue": "Küçük yükselti",
+      "clue": "Bulmacada Küçük yükselti karşılığını veren yanıt",
       "answer": "TEPE"
     },
     {
@@ -159,7 +159,7 @@
       "row": 6,
       "col": 2,
       "length": 4,
-      "clue": "Sıkıntı, üzüntü",
+      "clue": "Günlük dilde Sıkıntı ya da üzüntü olarak bilinen kavram",
       "answer": "DERT"
     },
     {
@@ -168,7 +168,7 @@
       "row": 6,
       "col": 2,
       "length": 4,
-      "clue": "Yakın arkadaş",
+      "clue": "Bulmacada Yakın arkadaş karşılığını veren yanıt",
       "answer": "DOST"
     },
     {
@@ -177,7 +177,7 @@
       "row": 7,
       "col": 6,
       "length": 4,
-      "clue": "Ev, konut",
+      "clue": "Ev ya da konut karşılığı olarak kullanılan kelime",
       "answer": "HANE"
     },
     {
@@ -186,7 +186,7 @@
       "row": 8,
       "col": 4,
       "length": 3,
-      "clue": "Hatıra, geçmiş olay",
+      "clue": "Hatıra ya da geçmiş olay karşılığı olarak kullanılan kelime",
       "answer": "ANI"
     },
     {
@@ -195,7 +195,7 @@
       "row": 8,
       "col": 4,
       "length": 3,
-      "clue": "Toprak sahibi",
+      "clue": "Günlük dilde Toprak sahibi olarak bilinen kavram",
       "answer": "AĞA"
     },
     {
@@ -204,7 +204,7 @@
       "row": 9,
       "col": 0,
       "length": 5,
-      "clue": "Yurt, memleket",
+      "clue": "Bulmacada Yurt ya da memleket karşılığını veren yanıt",
       "answer": "VATAN"
     }
   ]

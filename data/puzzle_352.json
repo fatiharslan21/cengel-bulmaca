@@ -156,7 +156,7 @@
       "row": 0,
       "col": 6,
       "length": 4,
-      "clue": "Katlanır bıçak",
+      "clue": "Günlük dilde Katlanır bıçak olarak bilinen kavram",
       "answer": "ÇAKI"
     },
     {
@@ -165,7 +165,7 @@
       "row": 0,
       "col": 8,
       "length": 4,
-      "clue": "Felaket, kötülük",
+      "clue": "Günlük dilde Felaket ya da kötülük olarak bilinen kavram",
       "answer": "BELA"
     },
     {
@@ -174,7 +174,7 @@
       "row": 1,
       "col": 5,
       "length": 5,
-      "clue": "Yas, acı",
+      "clue": "Bulmacada Yas ya da acı karşılığını veren yanıt",
       "answer": "MATEM"
     },
     {
@@ -183,7 +183,7 @@
       "row": 3,
       "col": 3,
       "length": 4,
-      "clue": "Toprak eşme",
+      "clue": "Bulmacada Toprak eşme karşılığını veren yanıt",
       "answer": "KAZI"
     },
     {
@@ -192,7 +192,7 @@
       "row": 3,
       "col": 3,
       "length": 5,
-      "clue": "İple oynatılan",
+      "clue": "İple oynatılan karşılığı olarak kullanılan kelime",
       "answer": "KUKLA"
     },
     {
@@ -201,7 +201,7 @@
       "row": 3,
       "col": 8,
       "length": 3,
-      "clue": "Koruyucu ilaç",
+      "clue": "Bulmacada Koruyucu ilaç karşılığını veren yanıt",
       "answer": "AŞI"
     },
     {
@@ -210,7 +210,7 @@
       "row": 3,
       "col": 9,
       "length": 6,
-      "clue": "Ün, nam",
+      "clue": "Ün ya da nam anlamına gelen sözcük",
       "answer": "ŞÖHRET"
     },
     {
@@ -219,7 +219,7 @@
       "row": 4,
       "col": 0,
       "length": 4,
-      "clue": "Eşya kabı",
+      "clue": "Eşya kabı karşılığı olarak kullanılan kelime",
       "answer": "KUTU"
     },
     {
@@ -228,7 +228,7 @@
       "row": 5,
       "col": 6,
       "length": 6,
-      "clue": "Kısa an",
+      "clue": "Kısa an anlamına gelen sözcük",
       "answer": "SANİYE"
     },
     {
@@ -237,7 +237,7 @@
       "row": 6,
       "col": 5,
       "length": 5,
-      "clue": "Algılama sistemi",
+      "clue": "Algılama sistemi karşılığı olarak kullanılan kelime",
       "answer": "RADAR"
     }
   ]

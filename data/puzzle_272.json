@@ -133,7 +133,7 @@
       "row": 0,
       "col": 0,
       "length": 4,
-      "clue": "Yöntem, tarz",
+      "clue": "Bulmacada Yöntem ya da tarz karşılığını veren yanıt",
       "answer": "USUL"
     },
     {
@@ -142,7 +142,7 @@
       "row": 0,
       "col": 9,
       "length": 4,
-      "clue": "Yakın olmayan",
+      "clue": "Yakın olmayan karşılığı olarak kullanılan kelime",
       "answer": "UZAK"
     },
     {
@@ -151,7 +151,7 @@
       "row": 1,
       "col": 0,
       "length": 4,
-      "clue": "Ses, seda",
+      "clue": "Ses ya da seda karşılığı olarak kullanılan kelime",
       "answer": "SADA"
     },
     {
@@ -160,7 +160,7 @@
       "row": 1,
       "col": 2,
       "length": 4,
-      "clue": "Tahta oyunu",
+      "clue": "Tahta oyunu anlamına gelen sözcük",
       "answer": "DAMA"
     },
     {
@@ -169,7 +169,7 @@
       "row": 2,
       "col": 5,
       "length": 5,
-      "clue": "Tuzlu büyük su",
+      "clue": "Tuzlu büyük su karşılığı olarak kullanılan kelime",
       "answer": "DENİZ"
     },
     {
@@ -178,7 +178,7 @@
       "row": 3,
       "col": 5,
       "length": 5,
-      "clue": "Temel buğday gıdası",
+      "clue": "Temel buğday gıdası anlamına gelen sözcük",
       "answer": "EKMEK"
     },
     {
@@ -187,7 +187,7 @@
       "row": 4,
       "col": 1,
       "length": 5,
-      "clue": "Büyük oda",
+      "clue": "Büyük oda için kullanılan yaygın ifade",
       "answer": "SALON"
     },
     {
@@ -196,7 +196,7 @@
       "row": 4,
       "col": 1,
       "length": 4,
-      "clue": "Gönül huzuru",
+      "clue": "Gönül huzuru anlamına gelen sözcük",
       "answer": "SAFA"
     },
     {
@@ -205,7 +205,7 @@
       "row": 6,
       "col": 3,
       "length": 4,
-      "clue": "Çiçek süs kabı",
+      "clue": "Bulmacada Çiçek süs kabı karşılığını veren yanıt",
       "answer": "VAZO"
     },
     {
@@ -214,7 +214,7 @@
       "row": 6,
       "col": 4,
       "length": 4,
-      "clue": "Elektrik hareketi",
+      "clue": "Elektrik hareketi için kullanılan yaygın ifade",
       "answer": "AKIM"
     }
   ]

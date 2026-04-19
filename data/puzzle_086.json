@@ -123,7 +123,7 @@
       "row": 0,
       "col": 4,
       "length": 5,
-      "clue": "Yemek kabı",
+      "clue": "Yemek kabı anlamına gelen sözcük",
       "answer": "TABAK"
     },
     {
@@ -132,7 +132,7 @@
       "row": 1,
       "col": 1,
       "length": 4,
-      "clue": "Kötü, berbat",
+      "clue": "Kötü ya da berbat karşılığı olarak kullanılan kelime",
       "answer": "FENA"
     },
     {
@@ -141,7 +141,7 @@
       "row": 3,
       "col": 6,
       "length": 5,
-      "clue": "Bitkinin ürünü",
+      "clue": "Günlük dilde Bitkinin ürünü olarak bilinen kavram",
       "answer": "MEYVE"
     },
     {
@@ -150,7 +150,7 @@
       "row": 4,
       "col": 0,
       "length": 5,
-      "clue": "Yenilebilen bitki",
+      "clue": "Yenilebilen bitki için kullanılan yaygın ifade",
       "answer": "SEBZE"
     },
     {
@@ -168,7 +168,7 @@
       "row": 4,
       "col": 2,
       "length": 5,
-      "clue": "Küçük deniz taşıtı",
+      "clue": "Küçük deniz taşıtı anlamına gelen sözcük",
       "answer": "TEKNE"
     },
     {
@@ -177,7 +177,7 @@
       "row": 6,
       "col": 0,
       "length": 3,
-      "clue": "İlk doğal sayı",
+      "clue": "İlk doğal sayı için kullanılan yaygın ifade",
       "answer": "BİR"
     },
     {
@@ -186,7 +186,7 @@
       "row": 6,
       "col": 4,
       "length": 5,
-      "clue": "Öğrenilen her şey",
+      "clue": "Bulmacada Öğrenilen her şey karşılığını veren yanıt",
       "answer": "BİLGİ"
     },
     {
@@ -195,7 +195,7 @@
       "row": 7,
       "col": 4,
       "length": 4,
-      "clue": "Böcekten kumaş",
+      "clue": "Böcekten kumaş anlamına gelen sözcük",
       "answer": "İPEK"
     }
   ]

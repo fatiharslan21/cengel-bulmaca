@@ -111,7 +111,7 @@
       "row": 0,
       "col": 8,
       "length": 4,
-      "clue": "Anlama yeteneği",
+      "clue": "Anlama yeteneği için kullanılan yaygın ifade",
       "answer": "ZEKA"
     },
     {
@@ -120,7 +120,7 @@
       "row": 0,
       "col": 10,
       "length": 4,
-      "clue": "Kötü, berbat",
+      "clue": "Kötü ya da berbat karşılığı olarak kullanılan kelime",
       "answer": "FENA"
     },
     {
@@ -129,7 +129,7 @@
       "row": 1,
       "col": 7,
       "length": 5,
-      "clue": "Üzüntü",
+      "clue": "Bulmacada Üzüntü karşılığını veren yanıt",
       "answer": "KEDER"
     },
     {
@@ -138,7 +138,7 @@
       "row": 2,
       "col": 2,
       "length": 4,
-      "clue": "Böcekten kumaş",
+      "clue": "Böcekten kumaş anlamına gelen sözcük",
       "answer": "İPEK"
     },
     {
@@ -147,7 +147,7 @@
       "row": 2,
       "col": 5,
       "length": 4,
-      "clue": "Şehir",
+      "clue": "Şehir anlamına gelen sözcük",
       "answer": "KENT"
     },
     {
@@ -156,7 +156,7 @@
       "row": 3,
       "col": 1,
       "length": 4,
-      "clue": "Seslenme",
+      "clue": "Bulmacada Seslenme karşılığını veren yanıt",
       "answer": "NİDA"
     },
     {
@@ -165,7 +165,7 @@
       "row": 3,
       "col": 5,
       "length": 4,
-      "clue": "Kullanılan nesneler",
+      "clue": "Kullanılan nesneler anlamına gelen sözcük",
       "answer": "EŞYA"
     },
     {
@@ -174,7 +174,7 @@
       "row": 4,
       "col": 1,
       "length": 5,
-      "clue": "Bilme, anlayış",
+      "clue": "Bilme ya da anlayış karşılığı olarak kullanılan kelime",
       "answer": "İRFAN"
     },
     {
@@ -183,7 +183,7 @@
       "row": 5,
       "col": 5,
       "length": 7,
-      "clue": "Üzülme",
+      "clue": "Üzülme anlamına gelen sözcük",
       "answer": "TEESSÜR"
     },
     {
@@ -192,7 +192,7 @@
       "row": 6,
       "col": 0,
       "length": 4,
-      "clue": "Müzikle hareket",
+      "clue": "Müzikle hareket karşılığı olarak kullanılan kelime",
       "answer": "DANS"
     }
   ]

@@ -134,7 +134,7 @@
       "row": 0,
       "col": 0,
       "length": 3,
-      "clue": "Uzaklaşma eylemi",
+      "clue": "Bulmacada Uzaklaşma eylemi karşılığını veren yanıt",
       "answer": "GİT"
     },
     {
@@ -143,7 +143,7 @@
       "row": 1,
       "col": 2,
       "length": 5,
-      "clue": "Ağaçlık alan",
+      "clue": "Bulmacada Ağaçlık alan karşılığını veren yanıt",
       "answer": "ORMAN"
     },
     {
@@ -152,7 +152,7 @@
       "row": 2,
       "col": 0,
       "length": 5,
-      "clue": "Ekin alanı",
+      "clue": "Ekin alanı anlamına gelen sözcük",
       "answer": "TARLA"
     },
     {
@@ -161,7 +161,7 @@
       "row": 2,
       "col": 7,
       "length": 4,
-      "clue": "Sıvı geçen tüp",
+      "clue": "Günlük dilde Sıvı geçen tüp olarak bilinen kavram",
       "answer": "BORU"
     },
     {
@@ -170,7 +170,7 @@
       "row": 4,
       "col": 1,
       "length": 4,
-      "clue": "Görkemli yapı",
+      "clue": "Görkemli yapı karşılığı olarak kullanılan kelime",
       "answer": "ŞATO"
     },
     {
@@ -179,7 +179,7 @@
       "row": 4,
       "col": 4,
       "length": 3,
-      "clue": "İğneyle süsleme",
+      "clue": "Günlük dilde İğneyle süsleme olarak bilinen kavram",
       "answer": "OYA"
     },
     {
@@ -188,7 +188,7 @@
       "row": 5,
       "col": 6,
       "length": 6,
-      "clue": "Yer sarsıntısı",
+      "clue": "Bulmacada Yer sarsıntısı karşılığını veren yanıt",
       "answer": "DEPREM"
     },
     {
@@ -197,7 +197,7 @@
       "row": 5,
       "col": 6,
       "length": 3,
-      "clue": "Su ile yıkanma",
+      "clue": "Bulmacada Su ile yıkanma karşılığını veren yanıt",
       "answer": "DUŞ"
     },
     {
@@ -206,7 +206,7 @@
       "row": 6,
       "col": 3,
       "length": 4,
-      "clue": "Türk simgesi çiçek",
+      "clue": "Türk simgesi çiçek için kullanılan yaygın ifade",
       "answer": "LALE"
     },
     {
@@ -215,7 +215,7 @@
       "row": 9,
       "col": 3,
       "length": 4,
-      "clue": "Ferahlatıcı bitki",
+      "clue": "Ferahlatıcı bitki anlamına gelen sözcük",
       "answer": "NANE"
     }
   ]

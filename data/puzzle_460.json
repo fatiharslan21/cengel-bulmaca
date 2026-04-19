@@ -143,7 +143,7 @@
       "row": 0,
       "col": 8,
       "length": 4,
-      "clue": "Ayrım, değişiklik",
+      "clue": "Ayrım ya da değişiklik anlamına gelen sözcük",
       "answer": "FARK"
     },
     {
@@ -152,7 +152,7 @@
       "row": 1,
       "col": 7,
       "length": 4,
-      "clue": "Başka, özge",
+      "clue": "Başka ya da özge karşılığı olarak kullanılan kelime",
       "answer": "GAYR"
     },
     {
@@ -161,7 +161,7 @@
       "row": 2,
       "col": 3,
       "length": 4,
-      "clue": "İlerinin zıttı",
+      "clue": "Günlük dilde İlerinin zıttı olarak bilinen kavram",
       "answer": "GERİ"
     },
     {
@@ -170,7 +170,7 @@
       "row": 2,
       "col": 6,
       "length": 5,
-      "clue": "Kabir",
+      "clue": "Kabir için kullanılan yaygın ifade",
       "answer": "MEZAR"
     },
     {
@@ -179,7 +179,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "Çukur yemek kabı",
+      "clue": "Çukur yemek kabı anlamına gelen sözcük",
       "answer": "KASE"
     },
     {
@@ -188,7 +188,7 @@
       "row": 3,
       "col": 5,
       "length": 4,
-      "clue": "Arzu, istek",
+      "clue": "Arzu ya da istek için kullanılan yaygın ifade",
       "answer": "ŞEVK"
     },
     {
@@ -197,7 +197,7 @@
       "row": 5,
       "col": 2,
       "length": 6,
-      "clue": "Ayrılık acısı",
+      "clue": "Ayrılık acısı için kullanılan yaygın ifade",
       "answer": "HİCRAN"
     },
     {
@@ -206,7 +206,7 @@
       "row": 5,
       "col": 2,
       "length": 5,
-      "clue": "Utanç, çekinme",
+      "clue": "Utanç ya da çekinme anlamına gelen sözcük",
       "answer": "HİCAP"
     },
     {
@@ -215,7 +215,7 @@
       "row": 7,
       "col": 1,
       "length": 4,
-      "clue": "Karşılık, sevap",
+      "clue": "Bulmacada Karşılık ya da sevap karşılığını veren yanıt",
       "answer": "ECİR"
     },
     {
@@ -224,7 +224,7 @@
       "row": 9,
       "col": 0,
       "length": 4,
-      "clue": "Küçük yükselti",
+      "clue": "Bulmacada Küçük yükselti karşılığını veren yanıt",
       "answer": "TEPE"
     }
   ]

@@ -123,7 +123,7 @@
       "row": 0,
       "col": 8,
       "length": 5,
-      "clue": "El kol eklemi",
+      "clue": "El kol eklemi karşılığı olarak kullanılan kelime",
       "answer": "BİLEK"
     },
     {
@@ -132,7 +132,7 @@
       "row": 1,
       "col": 4,
       "length": 4,
-      "clue": "Yemek pişiren",
+      "clue": "Yemek pişiren karşılığı olarak kullanılan kelime",
       "answer": "AŞÇI"
     },
     {
@@ -141,7 +141,7 @@
       "row": 2,
       "col": 2,
       "length": 3,
-      "clue": "İçi dolu olmayan",
+      "clue": "Günlük dilde İçi dolu olmayan olarak bilinen kavram",
       "answer": "BOŞ"
     },
     {
@@ -150,7 +150,7 @@
       "row": 2,
       "col": 2,
       "length": 5,
-      "clue": "Öğrenilen her şey",
+      "clue": "Bulmacada Öğrenilen her şey karşılığını veren yanıt",
       "answer": "BİLGİ"
     },
     {
@@ -168,7 +168,7 @@
       "row": 4,
       "col": 0,
       "length": 3,
-      "clue": "Güzergah, patika",
+      "clue": "Bulmacada Güzergah ya da patika karşılığını veren yanıt",
       "answer": "YOL"
     },
     {
@@ -177,7 +177,7 @@
       "row": 6,
       "col": 1,
       "length": 4,
-      "clue": "İki adet, eş",
+      "clue": "İki adet ya da eş karşılığı olarak kullanılan kelime",
       "answer": "ÇİFT"
     },
     {
@@ -186,7 +186,7 @@
       "row": 6,
       "col": 4,
       "length": 4,
-      "clue": "Raylı taşıt",
+      "clue": "Bulmacada Raylı taşıt karşılığını veren yanıt",
       "answer": "TREN"
     },
     {
@@ -195,7 +195,7 @@
       "row": 9,
       "col": 2,
       "length": 3,
-      "clue": "Bitiş, final",
+      "clue": "Bitiş ya da final için kullanılan yaygın ifade",
       "answer": "SON"
     }
   ]

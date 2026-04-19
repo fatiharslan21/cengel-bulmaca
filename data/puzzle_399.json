@@ -139,7 +139,7 @@
       "row": 0,
       "col": 9,
       "length": 5,
-      "clue": "Büyük oda",
+      "clue": "Büyük oda için kullanılan yaygın ifade",
       "answer": "SALON"
     },
     {
@@ -148,7 +148,7 @@
       "row": 1,
       "col": 8,
       "length": 4,
-      "clue": "Yeşil alan",
+      "clue": "Günlük dilde Yeşil alan olarak bilinen kavram",
       "answer": "PARK"
     },
     {
@@ -157,7 +157,7 @@
       "row": 1,
       "col": 11,
       "length": 5,
-      "clue": "Üzüntü",
+      "clue": "Bulmacada Üzüntü karşılığını veren yanıt",
       "answer": "KEDER"
     },
     {
@@ -166,7 +166,7 @@
       "row": 4,
       "col": 4,
       "length": 5,
-      "clue": "Esin, sezgi",
+      "clue": "Günlük dilde Esin ya da sezgi olarak bilinen kavram",
       "answer": "İLHAM"
     },
     {
@@ -175,7 +175,7 @@
       "row": 4,
       "col": 6,
       "length": 4,
-      "clue": "Sayısal değer",
+      "clue": "Sayısal değer için kullanılan yaygın ifade",
       "answer": "PUAN"
     },
     {
@@ -193,7 +193,7 @@
       "row": 5,
       "col": 0,
       "length": 5,
-      "clue": "Yok olma",
+      "clue": "Bulmacada Yok olma karşılığını veren yanıt",
       "answer": "ZEVAL"
     },
     {
@@ -202,7 +202,7 @@
       "row": 6,
       "col": 4,
       "length": 6,
-      "clue": "Ayrılık acısı",
+      "clue": "Ayrılık acısı için kullanılan yaygın ifade",
       "answer": "HİCRAN"
     },
     {
@@ -211,7 +211,7 @@
       "row": 7,
       "col": 1,
       "length": 4,
-      "clue": "Renk veren madde",
+      "clue": "Günlük dilde Renk veren madde olarak bilinen kavram",
       "answer": "BOYA"
     },
     {
@@ -220,7 +220,7 @@
       "row": 8,
       "col": 4,
       "length": 6,
-      "clue": "Üzgün, kederli",
+      "clue": "Günlük dilde Üzgün ya da kederli olarak bilinen kavram",
       "answer": "MAHZUN"
     }
   ]

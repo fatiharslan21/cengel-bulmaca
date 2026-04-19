@@ -121,7 +121,7 @@
       "row": 0,
       "col": 2,
       "length": 4,
-      "clue": "Işık, aydınlık",
+      "clue": "Günlük dilde Işık ya da aydınlık olarak bilinen kavram",
       "answer": "ZİYA"
     },
     {
@@ -130,7 +130,7 @@
       "row": 1,
       "col": 1,
       "length": 3,
-      "clue": "On yüzlük sayı",
+      "clue": "On yüzlük sayı anlamına gelen sözcük",
       "answer": "BİN"
     },
     {
@@ -139,7 +139,7 @@
       "row": 3,
       "col": 1,
       "length": 3,
-      "clue": "Göz üstü kıl şeridi",
+      "clue": "Göz üstü kıl şeridi anlamına gelen sözcük",
       "answer": "KAŞ"
     },
     {
@@ -148,7 +148,7 @@
       "row": 3,
       "col": 3,
       "length": 6,
-      "clue": "Ün, nam",
+      "clue": "Ün ya da nam anlamına gelen sözcük",
       "answer": "ŞÖHRET"
     },
     {
@@ -166,7 +166,7 @@
       "row": 5,
       "col": 0,
       "length": 3,
-      "clue": "Yüksek arazi şekli",
+      "clue": "Yüksek arazi şekli için kullanılan yaygın ifade",
       "answer": "DAĞ"
     },
     {
@@ -175,7 +175,7 @@
       "row": 6,
       "col": 0,
       "length": 4,
-      "clue": "Hafif olmayan",
+      "clue": "Hafif olmayan için kullanılan yaygın ifade",
       "answer": "AĞIR"
     },
     {
@@ -184,7 +184,7 @@
       "row": 7,
       "col": 3,
       "length": 4,
-      "clue": "Başlangıcı olmayan",
+      "clue": "Başlangıcı olmayan için kullanılan yaygın ifade",
       "answer": "EZEL"
     },
     {
@@ -193,7 +193,7 @@
       "row": 7,
       "col": 6,
       "length": 5,
-      "clue": "İyilik, bağış",
+      "clue": "Günlük dilde İyilik ya da bağış olarak bilinen kavram",
       "answer": "LÜTUF"
     },
     {
@@ -202,7 +202,7 @@
       "row": 8,
       "col": 1,
       "length": 3,
-      "clue": "Bahçe engeli",
+      "clue": "Bulmacada Bahçe engeli karşılığını veren yanıt",
       "answer": "ÇİT"
     }
   ]

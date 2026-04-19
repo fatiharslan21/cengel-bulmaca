@@ -121,7 +121,7 @@
       "row": 0,
       "col": 5,
       "length": 3,
-      "clue": "Nesil, aile kökeni",
+      "clue": "Nesil ya da aile kökeni karşılığı olarak kullanılan kelime",
       "answer": "SOY"
     },
     {
@@ -130,7 +130,7 @@
       "row": 0,
       "col": 5,
       "length": 5,
-      "clue": "Günün başı",
+      "clue": "Günün başı anlamına gelen sözcük",
       "answer": "SABAH"
     },
     {
@@ -139,7 +139,7 @@
       "row": 2,
       "col": 5,
       "length": 4,
-      "clue": "Yazılmış metin",
+      "clue": "Bulmacada Yazılmış metin karşılığını veren yanıt",
       "answer": "YAZI"
     },
     {
@@ -148,7 +148,7 @@
       "row": 2,
       "col": 7,
       "length": 5,
-      "clue": "Nefesli çalgı",
+      "clue": "Nefesli çalgı için kullanılan yaygın ifade",
       "answer": "ZURNA"
     },
     {
@@ -157,7 +157,7 @@
       "row": 4,
       "col": 3,
       "length": 5,
-      "clue": "Geniş ana yol",
+      "clue": "Geniş ana yol için kullanılan yaygın ifade",
       "answer": "CADDE"
     },
     {
@@ -166,7 +166,7 @@
       "row": 5,
       "col": 5,
       "length": 4,
-      "clue": "Yansıtıcı cam",
+      "clue": "Bulmacada Yansıtıcı cam karşılığını veren yanıt",
       "answer": "AYNA"
     },
     {
@@ -175,7 +175,7 @@
       "row": 5,
       "col": 5,
       "length": 3,
-      "clue": "Koruyucu ilaç",
+      "clue": "Bulmacada Koruyucu ilaç karşılığını veren yanıt",
       "answer": "AŞI"
     },
     {
@@ -184,7 +184,7 @@
       "row": 6,
       "col": 3,
       "length": 3,
-      "clue": "Rüya, hayal",
+      "clue": "Rüya ya da hayal için kullanılan yaygın ifade",
       "answer": "DÜŞ"
     },
     {
@@ -193,7 +193,7 @@
       "row": 8,
       "col": 0,
       "length": 5,
-      "clue": "Sadık evcil hayvan",
+      "clue": "Sadık evcil hayvan anlamına gelen sözcük",
       "answer": "KÖPEK"
     }
   ]

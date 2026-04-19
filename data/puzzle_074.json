@@ -145,7 +145,7 @@
       "row": 0,
       "col": 6,
       "length": 5,
-      "clue": "Sayfalardan eser",
+      "clue": "Sayfalardan eser karşılığı olarak kullanılan kelime",
       "answer": "KİTAP"
     },
     {
@@ -154,7 +154,7 @@
       "row": 4,
       "col": 6,
       "length": 3,
-      "clue": "Demir korozyonu",
+      "clue": "Demir korozyonu karşılığı olarak kullanılan kelime",
       "answer": "PAS"
     },
     {
@@ -163,7 +163,7 @@
       "row": 4,
       "col": 7,
       "length": 4,
-      "clue": "Av yapan kişi",
+      "clue": "Av yapan kişi anlamına gelen sözcük",
       "answer": "AVCI"
     },
     {
@@ -172,7 +172,7 @@
       "row": 6,
       "col": 5,
       "length": 4,
-      "clue": "Doku hasarı",
+      "clue": "Doku hasarı anlamına gelen sözcük",
       "answer": "YARA"
     },
     {
@@ -181,7 +181,7 @@
       "row": 7,
       "col": 4,
       "length": 4,
-      "clue": "Yazılmış metin",
+      "clue": "Bulmacada Yazılmış metin karşılığını veren yanıt",
       "answer": "YAZI"
     },
     {
@@ -190,7 +190,7 @@
       "row": 9,
       "col": 1,
       "length": 3,
-      "clue": "Bina bölümü",
+      "clue": "Bulmacada Bina bölümü karşılığını veren yanıt",
       "answer": "KAT"
     },
     {
@@ -199,7 +199,7 @@
       "row": 9,
       "col": 4,
       "length": 3,
-      "clue": "Omuz örtüsü",
+      "clue": "Omuz örtüsü anlamına gelen sözcük",
       "answer": "ŞAL"
     },
     {
@@ -208,7 +208,7 @@
       "row": 9,
       "col": 4,
       "length": 3,
-      "clue": "Ün, şöhret",
+      "clue": "Günlük dilde Ün ya da şöhret olarak bilinen kavram",
       "answer": "ŞAN"
     },
     {
@@ -217,7 +217,7 @@
       "row": 10,
       "col": 0,
       "length": 5,
-      "clue": "Kutlama tatlısı",
+      "clue": "Kutlama tatlısı anlamına gelen sözcük",
       "answer": "PASTA"
     }
   ]
