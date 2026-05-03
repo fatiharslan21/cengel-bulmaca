@@ -90,6 +90,17 @@
     </div>
 </section>
 
+<section class="mode-panel" aria-label="Oyun modu seçimi">
+    <div class="mode-title">🎮 Oyun Modu</div>
+    <div class="mode-row" id="mode-row">
+        <button class="mode-chip on" data-mode="classic">Klasik</button>
+        <button class="mode-chip" data-mode="sprint">Sprint</button>
+        <button class="mode-chip" data-mode="zen">Zen</button>
+        <button class="mode-chip" data-mode="hardcore">Hardcore</button>
+    </div>
+    <div class="mode-note" id="mode-note">Klasik: standart ilerleme.</div>
+</section>
+
 <a class="daily-card" id="daily-card" href="#">
     <div class="daily-left">
         <div class="daily-badge">✨ GÜNÜN BULMACASI</div>
@@ -218,6 +229,14 @@ const LEVEL_PLAN = [
     { name: 'Çok Zor', count: 125 }
 ];
 const TOTAL_LEVELS = LEVEL_PLAN.reduce((s, x) => s + x.count, 0);
+const MODE_INFO = {
+    classic: 'Klasik: standart ilerleme.',
+    sprint: 'Sprint: ayrı ilerleme havuzu, 3dk baskısı.',
+    zen: 'Zen: ayrı ilerleme havuzu, rahat çözüm.',
+    hardcore: 'Hardcore: ayrı ilerleme havuzu, ipucu yok.'
+};
+let currentMode = localStorage.getItem('cb_mode') || 'classic';
+function buildPlayUrl(id, extra=''){ return `play.html?id=${id}&mode=${encodeURIComponent(currentMode)}${extra}`; }
 const DIFF_TOTALS = Object.fromEntries(LEVEL_PLAN.map(x => [x.name, x.count]));
 document.getElementById('hs-total').textContent = TOTAL_LEVELS;
 
@@ -236,7 +255,7 @@ LEVEL_PLAN.forEach(({ name: diff, count }) => {
     for (let i = start; i <= end; i++) {
         // LİNK DÜZELTİLDİ: /bulmaca/1 yerine play.html?id=1
         grid.innerHTML += `
-        <a href="play.html?id=${i}" class="card" id="c${i}" style="--i:${i - start}">
+        <a href="${buildPlayUrl(i)}" class="card" id="c${i}" style="--i:${i - start}">
             <div class="card-inner">
                 <div class="card-num">#${i.toString().padStart(3, '0')}</div>
                 <div class="card-title">Bölüm ${i}</div>
@@ -435,13 +454,42 @@ function refreshContinueCard(){
         const card = document.getElementById('continue-card');
         if(!card || !last || !last.id) return;
         card.style.display = 'flex';
-        card.href = `play.html?id=${last.id}`;
+        card.href = buildPlayUrl(last.id);
         document.getElementById('continue-title').textContent = `Bölüm ${String(last.id).padStart(3,'0')}`;
         document.getElementById('continue-status').textContent = last.when ? `Son giriş: ${last.when}` : 'Kaldığın yerden devam et';
         card.addEventListener('click', guardAuthNavigation);
     } catch(e) {}
 }
 refreshContinueCard();
+
+function applyModeUI(){
+    document.querySelectorAll('.mode-chip').forEach(btn => {
+        const m = btn.getAttribute('data-mode');
+        btn.classList.toggle('on', m === currentMode);
+    });
+    const note = document.getElementById('mode-note');
+    if(note) note.textContent = MODE_INFO[currentMode] || MODE_INFO.classic;
+    document.querySelectorAll('a.card').forEach(a => {
+        const id = a.id?.replace('c','');
+        if(id) a.href = buildPlayUrl(id);
+    });
+    try {
+        const dk = new Date();
+        const key = `${dk.getFullYear()}-${String(dk.getMonth()+1).padStart(2,'0')}-${String(dk.getDate()).padStart(2,'0')}`;
+        const dailyId = (dk.getDate() * 17 + dk.getMonth() * 31) % TOTAL_LEVELS + 1;
+        const dailyCard = document.getElementById('daily-card');
+        if(dailyCard) dailyCard.href = buildPlayUrl(dailyId, `&daily=${encodeURIComponent(key)}`);
+    } catch(e){}
+    refreshContinueCard();
+}
+
+document.querySelectorAll('.mode-chip').forEach(btn => btn.addEventListener('click', () => {
+    currentMode = btn.getAttribute('data-mode') || 'classic';
+    localStorage.setItem('cb_mode', currentMode);
+    applyModeUI();
+}));
+applyModeUI();
+
 
 function diffRange(diff) {
     let start = 1;
@@ -481,7 +529,7 @@ async function recommendNonRepeatingLevel(diff) {
         }
         if(!best) { uniqCard.style.display = 'none'; return; }
         uniqCard.style.display = 'flex';
-        uniqCard.href = `play.html?id=${best.id}`;
+        uniqCard.href = buildPlayUrl(best.id);
         document.getElementById('unique-title').textContent = `Bölüm ${String(best.id).padStart(3,'0')} (${diff})`;
         document.getElementById('unique-status').textContent = `Tekrar skoru: ${best.repeatScore} (düşük daha iyi)`;
     } catch(e) {
@@ -516,7 +564,7 @@ function refreshContinueCard(){
         const card = document.getElementById('continue-card');
         if(!card || !last || !last.id) return;
         card.style.display = 'flex';
-        card.href = `play.html?id=${last.id}`;
+        card.href = buildPlayUrl(last.id);
         document.getElementById('continue-title').textContent = `Bölüm ${String(last.id).padStart(3,'0')}`;
         document.getElementById('continue-status').textContent = last.when ? `Son giriş: ${last.when}` : 'Kaldığın yerden devam et';
         card.addEventListener('click', guardAuthNavigation);
@@ -552,7 +600,7 @@ function refreshContinueCard(){
         const card = document.getElementById('continue-card');
         if(!card || !last || !last.id) return;
         card.style.display = 'flex';
-        card.href = `play.html?id=${last.id}`;
+        card.href = buildPlayUrl(last.id);
         document.getElementById('continue-title').textContent = `Bölüm ${String(last.id).padStart(3,'0')}`;
         document.getElementById('continue-status').textContent = last.when ? `Son giriş: ${last.when}` : 'Kaldığın yerden devam et';
         card.addEventListener('click', guardAuthNavigation);
@@ -588,7 +636,7 @@ function refreshContinueCard(){
         const card = document.getElementById('continue-card');
         if(!card || !last || !last.id) return;
         card.style.display = 'flex';
-        card.href = `play.html?id=${last.id}`;
+        card.href = buildPlayUrl(last.id);
         document.getElementById('continue-title').textContent = `Bölüm ${String(last.id).padStart(3,'0')}`;
         document.getElementById('continue-status').textContent = last.when ? `Son giriş: ${last.when}` : 'Kaldığın yerden devam et';
         card.addEventListener('click', guardAuthNavigation);
@@ -624,7 +672,7 @@ function refreshContinueCard(){
         const card = document.getElementById('continue-card');
         if(!card || !last || !last.id) return;
         card.style.display = 'flex';
-        card.href = `play.html?id=${last.id}`;
+        card.href = buildPlayUrl(last.id);
         document.getElementById('continue-title').textContent = `Bölüm ${String(last.id).padStart(3,'0')}`;
         document.getElementById('continue-status').textContent = last.when ? `Son giriş: ${last.when}` : 'Kaldığın yerden devam et';
         card.addEventListener('click', guardAuthNavigation);
@@ -660,7 +708,7 @@ function refreshContinueCard(){
         const card = document.getElementById('continue-card');
         if(!card || !last || !last.id) return;
         card.style.display = 'flex';
-        card.href = `play.html?id=${last.id}`;
+        card.href = buildPlayUrl(last.id);
         document.getElementById('continue-title').textContent = `Bölüm ${String(last.id).padStart(3,'0')}`;
         document.getElementById('continue-status').textContent = last.when ? `Son giriş: ${last.when}` : 'Kaldığın yerden devam et';
         card.addEventListener('click', guardAuthNavigation);
@@ -696,7 +744,7 @@ function refreshContinueCard(){
         const card = document.getElementById('continue-card');
         if(!card || !last || !last.id) return;
         card.style.display = 'flex';
-        card.href = `play.html?id=${last.id}`;
+        card.href = buildPlayUrl(last.id);
         document.getElementById('continue-title').textContent = `Bölüm ${String(last.id).padStart(3,'0')}`;
         document.getElementById('continue-status').textContent = last.when ? `Son giriş: ${last.when}` : 'Kaldığın yerden devam et';
         card.addEventListener('click', guardAuthNavigation);
@@ -732,7 +780,7 @@ function refreshContinueCard(){
         const card = document.getElementById('continue-card');
         if(!card || !last || !last.id) return;
         card.style.display = 'flex';
-        card.href = `play.html?id=${last.id}`;
+        card.href = buildPlayUrl(last.id);
         document.getElementById('continue-title').textContent = `Bölüm ${String(last.id).padStart(3,'0')}`;
         document.getElementById('continue-status').textContent = last.when ? `Son giriş: ${last.when}` : 'Kaldığın yerden devam et';
         card.addEventListener('click', guardAuthNavigation);
@@ -768,7 +816,7 @@ function refreshContinueCard(){
         const card = document.getElementById('continue-card');
         if(!card || !last || !last.id) return;
         card.style.display = 'flex';
-        card.href = `play.html?id=${last.id}`;
+        card.href = buildPlayUrl(last.id);
         document.getElementById('continue-title').textContent = `Bölüm ${String(last.id).padStart(3,'0')}`;
         document.getElementById('continue-status').textContent = last.when ? `Son giriş: ${last.when}` : 'Kaldığın yerden devam et';
         card.addEventListener('click', guardAuthNavigation);
@@ -804,7 +852,7 @@ function refreshContinueCard(){
         const card = document.getElementById('continue-card');
         if(!card || !last || !last.id) return;
         card.style.display = 'flex';
-        card.href = `play.html?id=${last.id}`;
+        card.href = buildPlayUrl(last.id);
         document.getElementById('continue-title').textContent = `Bölüm ${String(last.id).padStart(3,'0')}`;
         document.getElementById('continue-status').textContent = last.when ? `Son giriş: ${last.when}` : 'Kaldığın yerden devam et';
         card.addEventListener('click', guardAuthNavigation);
@@ -840,7 +888,7 @@ function refreshContinueCard(){
         const card = document.getElementById('continue-card');
         if(!card || !last || !last.id) return;
         card.style.display = 'flex';
-        card.href = `play.html?id=${last.id}`;
+        card.href = buildPlayUrl(last.id);
         document.getElementById('continue-title').textContent = `Bölüm ${String(last.id).padStart(3,'0')}`;
         document.getElementById('continue-status').textContent = last.when ? `Son giriş: ${last.when}` : 'Kaldığın yerden devam et';
         card.addEventListener('click', guardAuthNavigation);
@@ -876,7 +924,7 @@ function refreshContinueCard(){
         const card = document.getElementById('continue-card');
         if(!card || !last || !last.id) return;
         card.style.display = 'flex';
-        card.href = `play.html?id=${last.id}`;
+        card.href = buildPlayUrl(last.id);
         document.getElementById('continue-title').textContent = `Bölüm ${String(last.id).padStart(3,'0')}`;
         document.getElementById('continue-status').textContent = last.when ? `Son giriş: ${last.when}` : 'Kaldığın yerden devam et';
         card.addEventListener('click', guardAuthNavigation);

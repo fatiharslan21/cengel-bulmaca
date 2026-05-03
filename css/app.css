@@ -1556,3 +1556,11 @@ footer p { font-size: 11px; color: var(--ash); font-weight: 500; }
 .profile-actions { display:flex; justify-content:flex-end; }
 .profile-logout { padding: 9px 14px; }
 @media (max-width:560px){ .profile-stats{ grid-template-columns: repeat(2, 1fr);} }
+
+.mode-panel{margin:12px 0 4px;padding:10px;border:1px solid var(--stone);border-radius:12px;background:var(--white)}
+.mode-title{font-size:12px;font-weight:800;letter-spacing:.08em;color:var(--ash);margin-bottom:8px}
+.mode-row{display:flex;gap:8px;flex-wrap:wrap}
+.mode-chip{border:1px solid var(--stone);background:var(--bg);padding:8px 10px;border-radius:999px;font-weight:700;font-size:12px;cursor:pointer}
+.mode-chip.on{background:var(--accent-light);border-color:var(--accent);color:var(--accent)}
+.mode-note{font-size:12px;color:var(--ash);margin-top:8px}
+@media (max-width:768px){.mode-chip{padding:9px 10px;font-size:12px}}

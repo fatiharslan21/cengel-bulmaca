@@ -23,6 +23,7 @@
     <div class="play-title">
         <h1>Bölüm <span class="ui-puzzle-id">...</span></h1>
         <span class="play-diff" id="ui-puzzle-diff">Yükleniyor</span>
+        <span class="play-diff" id="ui-game-mode" style="margin-left:6px;background:#eef2ff;color:#3730a3;">KLASİK</span>
     </div>
     <div class="play-actions">
         <button class="icon-btn" id="sound-toggle" title="Ses">🔊</button>
@@ -40,6 +41,13 @@
         </div>
     </div>
 </header>
+
+<div class="mode-switch" id="mode-switch">
+    <a class="ms-btn" data-mode="classic" href="#">Klasik</a>
+    <a class="ms-btn" data-mode="sprint" href="#">Sprint</a>
+    <a class="ms-btn" data-mode="zen" href="#">Zen</a>
+    <a class="ms-btn" data-mode="hardcore" href="#">Hardcore</a>
+</div>
 
 <div class="clue-strip" id="cbar">
     <span class="clue-num" id="badge">—</span>
@@ -166,7 +174,10 @@
     const levelId = parseInt(urlParams.get('id')) || 1;
     const totalLevels = 750; // Toplam bulmaca sayın
     const dailyKey = urlParams.get('daily') || null;
+    const gameMode = (urlParams.get('mode') || 'classic').toLowerCase();
     window.CB_DAILY_KEY = dailyKey; // play.js bunu kontrol eder
+    window.CB_GAME_MODE = gameMode;
+    const modeSuffix = `&mode=${encodeURIComponent(gameMode)}`;
 
     // Kayıt/giriş zorunlu
     function redirectToLogin() {
@@ -199,8 +210,10 @@
     // Dosya adını bul (Örn: 5 ise "puzzle_005.json" olur)
     // Eğer senin json isimlerin puzzle_1.json gibiyse burayı şu şekilde değiştir: `puzzle_${levelId}.json`
     const fileName = `puzzle_${levelId.toString().padStart(3, '0')}.json`;
-    // 2. Veriyi çek
-    fetch(`./data/${fileName}`)
+    const modePath = `./data/modes/${gameMode}/${fileName}`;
+    const fallbackPath = `./data/${fileName}`;
+    // 2. Veriyi çek (mode havuzu varsa onu kullan)
+    fetch(modePath).then(r => r.ok ? r : fetch(fallbackPath))
         .then(response => {
             if (!response.ok) throw new Error("JSON bulunamadı");
             return response.json();
@@ -221,6 +234,15 @@
             document.getElementById('ptxt').textContent = `0 / ${data.words.length}`;
             
             const diffEl = document.getElementById('ui-puzzle-diff');
+            const modeEl = document.getElementById('ui-game-mode');
+            const MODE_LABELS = { classic:'KLASİK', sprint:'SPRINT 3DK', zen:'ZEN', hardcore:'HARDCORE' };
+            if(modeEl) modeEl.textContent = MODE_LABELS[gameMode] || 'KLASİK';
+            document.querySelectorAll('#mode-switch .ms-btn').forEach(btn => {
+                const m = btn.getAttribute('data-mode');
+                btn.href = `play.html?id=${levelId}${dailyKey ? `&daily=${encodeURIComponent(dailyKey)}` : ''}&mode=${encodeURIComponent(m)}`;
+                btn.classList.toggle('on', m === gameMode);
+            });
+
             if(data.difficulty) {
                 const emoji = {'Kolay':'🌱','Orta':'🔥','Zor':'⚡','Çok Zor':'💎'}[data.difficulty] || '';
                 diffEl.textContent = emoji + ' ' + data.difficulty;
@@ -233,13 +255,13 @@
             const modalNextBtn = document.getElementById('modal-btn-next');
 
             if (!dailyKey && levelId > 1) {
-                prevBtn.href = `play.html?id=${levelId - 1}`;
+                prevBtn.href = `play.html?id=${levelId - 1}${modeSuffix}`;
                 prevBtn.style.display = 'inline-flex';
             }
             if (!dailyKey && levelId < totalLevels) {
-                nextBtn.href = `play.html?id=${levelId + 1}`;
+                nextBtn.href = `play.html?id=${levelId + 1}${modeSuffix}`;
                 nextBtn.style.display = 'inline-flex';
-                modalNextBtn.href = `play.html?id=${levelId + 1}`;
+                modalNextBtn.href = `play.html?id=${levelId + 1}${modeSuffix}`;
                 modalNextBtn.style.display = 'inline-flex';
             }
 
