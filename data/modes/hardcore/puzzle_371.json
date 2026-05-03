@@ -1,0 +1,222 @@
+{
+  "id": 371,
+  "title": "Bölüm 371",
+  "difficulty": "Zor",
+  "grid_size_r": 11,
+  "grid_size_c": 9,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "length": 3,
+      "clue": "Üzüm yetiştirilen tarla; aynı zamanda düğümle tutturma eylemi (3 harf) [B371-S1]",
+      "answer": "BAĞ"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 1,
+      "col": 0,
+      "length": 3,
+      "clue": "Yüzlerin onunun bir araya gelmesiyle oluşan dört basamaklı sayı (3 harf) [B371-S2]",
+      "answer": "BİN"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 1,
+      "col": 3,
+      "length": 5,
+      "clue": "Bir olayın geçtiği ya da bir şeyin bulunduğu belirli yer; mahal (5 harf) [B371-S3]",
+      "answer": "MEKAN"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 1,
+      "col": 3,
+      "length": 5,
+      "clue": "Bir kimsenin toplumdaki yeri, konumu ya da makamı (5 harf) [B371-S3]",
+      "answer": "MEVKİ"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "length": 4,
+      "clue": "Açıklamaya uyan yanıt (4 harf) [B371-S4]",
+      "answer": "İNCE"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 4,
+      "col": 5,
+      "length": 5,
+      "clue": "Gönülde beslenen amaç; ulaşılmak istenen iç istek (5 harf) [B371-S5]",
+      "answer": "MERAM"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 5,
+      "col": 2,
+      "length": 5,
+      "clue": "Yararlanılan, şükür duyulan değerli varlık; insana verilmiş lütuf (5 harf) [B371-S6]",
+      "answer": "NİMET"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 6,
+      "col": 7,
+      "length": 5,
+      "clue": "Kitap, hikâye ya da makale gibi edebi eserler kaleme alan kimse (5 harf) [B371-S7]",
+      "answer": "YAZAR"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 7,
+      "col": 4,
+      "length": 4,
+      "clue": "İçten duyulan gönül rahatlığı; keder bırakmayan tatlı neşe (4 harf) [B371-S8]",
+      "answer": "SAFA"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 9,
+      "col": 6,
+      "length": 3,
+      "clue": "Kişinin yasal olarak sahip olduğu; alması ya da yapması gereken şey (3 harf) [B371-S9]",
+      "answer": "HAK"
+    }
+  ]
+}

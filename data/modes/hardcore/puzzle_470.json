@@ -1,0 +1,211 @@
+{
+  "id": 470,
+  "title": "Bölüm 470",
+  "difficulty": "Çok Zor",
+  "grid_size_r": 10,
+  "grid_size_c": 9,
+  "grid": [
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "length": 7,
+      "clue": "Acıklı bir olay karşısında insanın içine çöken derin hüzün (7 harf) [B470-S1]",
+      "answer": "TEESSÜR"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 1,
+      "col": 8,
+      "length": 5,
+      "clue": "Hayatta yükselme, talih kuşunun başa konması; mevki sahibi olma (5 harf) [B470-S2]",
+      "answer": "İKBAL"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 2,
+      "col": 5,
+      "length": 4,
+      "clue": "İçten doğan büyük istek; insanı coşturan şiddetli arzu ve heves (4 harf) [B470-S3]",
+      "answer": "ŞEVK"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 4,
+      "col": 4,
+      "length": 5,
+      "clue": "Yüreği saran, insanı kendinden geçiren güçlü aşk ve tutku (5 harf) [B470-S4]",
+      "answer": "SEVDA"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "length": 5,
+      "clue": "Sevinçle karşılanan, umut veren yeni gelen güzel haber (5 harf) [B470-S5]",
+      "answer": "MÜJDE"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 5,
+      "col": 6,
+      "length": 5,
+      "clue": "İnsanın içini burkan, uzun süre geçmeyen derin üzüntü hali (5 harf) [B470-S6]",
+      "answer": "KEDER"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 5,
+      "col": 6,
+      "length": 3,
+      "clue": "Bir şeyin yanıp bitmesinin ardından geriye kalan kurumuş toz madde (3 harf) [B470-S6]",
+      "answer": "KÜL"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 7,
+      "col": 2,
+      "length": 3,
+      "clue": "Bulunduğun yerden uzaklaşarak başka bir yere doğru yönel; gel'in zıttı (3 harf) [B470-S7]",
+      "answer": "GİT"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 7,
+      "col": 4,
+      "length": 5,
+      "clue": "İçine üflenince tiz bir ses çıkaran, ince ve boru biçimli küçük alet (5 harf) [B470-S8]",
+      "answer": "DÜDÜK"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 8,
+      "col": 1,
+      "length": 4,
+      "clue": "Birine seslenmek için çıkarılan yüksek ses; çağırmak amaçlı bağırma (4 harf) [B470-S9]",
+      "answer": "NİDA"
+    }
+  ]
+}

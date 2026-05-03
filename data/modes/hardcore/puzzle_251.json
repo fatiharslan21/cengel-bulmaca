@@ -1,0 +1,221 @@
+{
+  "id": 251,
+  "title": "Bölüm 251",
+  "difficulty": "Zor",
+  "grid_size_r": 10,
+  "grid_size_c": 10,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "length": 4,
+      "clue": "Anlaşılmayan bir konuyu açık bir dille anlatma; aydınlatıcı açıklama (4 harf) [B251-S1]",
+      "answer": "İZAH"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 2,
+      "col": 0,
+      "length": 5,
+      "clue": "İçine üflenince tiz bir ses çıkaran, ince ve boru biçimli küçük alet (5 harf) [B251-S2]",
+      "answer": "DÜDÜK"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "length": 4,
+      "clue": "Bir hakkı aramak için mahkemeye başvurularak açılan hukuki süreç (4 harf) [B251-S2]",
+      "answer": "DAVA"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 4,
+      "col": 2,
+      "length": 3,
+      "clue": "Havanın bir yönden diğerine doğru hissedilebilir akışı; rüzgâr (3 harf) [B251-S3]",
+      "answer": "YEL"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "length": 4,
+      "clue": "Çevresindeki yapılardan çok daha yüksek olan, dar ve uzun yapı (4 harf) [B251-S4]",
+      "answer": "KULE"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 6,
+      "col": 3,
+      "length": 4,
+      "clue": "Görgü kurallarına uygun davranış; terbiyeli ve ölçülü olma hali (4 harf) [B251-S5]",
+      "answer": "EDEP"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 6,
+      "col": 5,
+      "length": 4,
+      "clue": "Açıklamaya uyan yanıt (4 harf) [B251-S6]",
+      "answer": "İNCE"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 6,
+      "col": 5,
+      "length": 5,
+      "clue": "Ahlaki ölçülere bağlı kalma; namusu ve temizliği koruma hali (5 harf) [B251-S6]",
+      "answer": "İFFET"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 7,
+      "col": 3,
+      "length": 3,
+      "clue": "Bulunduğun yerden geri çevril; ya da bir eksen etrafında hareket et (3 harf) [B251-S7]",
+      "answer": "DÖN"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "length": 4,
+      "clue": "Dişleri sürekli uzayan, tahtayı ve kâğıdı kemirebilen küçük kemirgen (4 harf) [B251-S8]",
+      "answer": "FARE"
+    }
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "id": 300,
+  "title": "Bölüm 300",
+  "difficulty": "Zor",
+  "grid_size_r": 7,
+  "grid_size_c": 12,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "length": 3,
+      "clue": "İğne yaprakları yıl boyu yeşil kalan, kozalak veren, uzun ömürlü ağaç (3 harf) [B300-S1]",
+      "answer": "ÇAM"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 1,
+      "col": 0,
+      "length": 3,
+      "clue": "Belli bir şekli ve hacmi olmayan, her yöne yayılabilen madde hali (3 harf) [B300-S2]",
+      "answer": "GAZ"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "length": 4,
+      "clue": "Gömleğin boynu çevreleyen üst kısmı; ceketin de boyuna değen kenarı (4 harf) [B300-S3]",
+      "answer": "YAKA"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 1,
+      "col": 3,
+      "length": 3,
+      "clue": "Eskiden köylerde geniş topraklara sahip, sözü geçen nüfuzlu kişi (3 harf) [B300-S4]",
+      "answer": "AĞA"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 1,
+      "col": 8,
+      "length": 5,
+      "clue": "Bir şeyin anlamını kavrama; olup biteni zihinde anlamlandırma yeteneği (5 harf) [B300-S5]",
+      "answer": "İDRAK"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 2,
+      "col": 5,
+      "length": 5,
+      "clue": "Sevinçle karşılanan, umut veren yeni gelen güzel haber (5 harf) [B300-S6]",
+      "answer": "MÜJDE"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "length": 5,
+      "clue": "Varlığı yerinde durmayıp sona ermesi; yokluğa geçme hali (5 harf) [B300-S7]",
+      "answer": "ZEVAL"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 3,
+      "col": 11,
+      "length": 4,
+      "clue": "Dinde kesinlikle yerine getirilmesi emredilen, zorunlu olan yükümlülük (4 harf) [B300-S8]",
+      "answer": "FARZ"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 4,
+      "col": 8,
+      "length": 4,
+      "clue": "Karşısına geçenin görüntüsünü aynen yansıtan sırlanmış cam yüzey (4 harf) [B300-S9]",
+      "answer": "AYNA"
+    },
+    {
+      "number": 10,
+      "direction": "across",
+      "row": 6,
+      "col": 9,
+      "length": 3,
+      "clue": "Bir üstün ya da yetkilinin önüne saygıyla sunma, takdim etme eylemi (3 harf) [B300-S10]",
+      "answer": "ARZ"
+    }
+  ]
+}

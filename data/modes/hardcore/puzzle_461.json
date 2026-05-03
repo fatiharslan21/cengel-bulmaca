@@ -1,0 +1,209 @@
+{
+  "id": 461,
+  "title": "Bölüm 461",
+  "difficulty": "Çok Zor",
+  "grid_size_r": 12,
+  "grid_size_c": 7,
+  "grid": [
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1
+    ],
+    [
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "length": 4,
+      "clue": "Ekmeğin arasına peynir konup ısıtılarak kızartılan sandviç çeşidi (4 harf) [B461-S1]",
+      "answer": "TOST"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 2,
+      "col": 2,
+      "length": 5,
+      "clue": "Etraf çınlayarak susma; hiçbir ses çıkmayan derin sessizlik (5 harf) [B461-S2]",
+      "answer": "SUKUT"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "length": 3,
+      "clue": "Dilin damak aracılığıyla algıladığı; acı, ekşi, tuzlu gibi duyusal nitelik (3 harf) [B461-S3]",
+      "answer": "TAT"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 3,
+      "col": 1,
+      "length": 3,
+      "clue": "Tatlının tam karşıtı olan, biberin ya da kederin bıraktığı keskin duygu (3 harf) [B461-S4]",
+      "answer": "ACI"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 4,
+      "col": 4,
+      "length": 6,
+      "clue": "Kendini üstün görmeyen, sade ve mütevazı davranış; gösterişsiz olma hali (6 harf) [B461-S5]",
+      "answer": "TEVAZU"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "length": 6,
+      "clue": "Kişinin payına düşen; kaderin ona uygun gördüğü nasibi ya da şansı (6 harf) [B461-S6]",
+      "answer": "KISMET"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 5,
+      "col": 0,
+      "length": 3,
+      "clue": "Bir şeyin yanıp bitmesinin ardından geriye kalan kurumuş toz madde (3 harf) [B461-S6]",
+      "answer": "KÜL"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 6,
+      "col": 6,
+      "length": 6,
+      "clue": "Gözleri dalgın, içinde sessiz bir keder taşıyan; hüzünlü görünüşlü (6 harf) [B461-S7]",
+      "answer": "MAHZUN"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 7,
+      "col": 3,
+      "length": 4,
+      "clue": "Bir sözcüğün ya da cümlenin ardında yatan anlam; içerdiği kavram (4 harf) [B461-S8]",
+      "answer": "MANA"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 9,
+      "col": 1,
+      "length": 4,
+      "clue": "Bir ülkenin savunmasını üstlenen, askerlerden oluşan silahlı kuvvetler (4 harf) [B461-S9]",
+      "answer": "ORDU"
+    }
+  ]
+}

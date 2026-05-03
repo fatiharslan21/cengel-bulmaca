@@ -1,0 +1,233 @@
+{
+  "id": 406,
+  "title": "Bölüm 406",
+  "difficulty": "Çok Zor",
+  "grid_size_r": 12,
+  "grid_size_c": 9,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "length": 6,
+      "clue": "Zayıfa ve çaresize duyulan içten sevgi; acıyarak sarılma duygusu (6 harf) [B406-S1]",
+      "answer": "ŞEFKAT"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 4,
+      "col": 3,
+      "length": 3,
+      "clue": "Bir şeyin yanıp bitmesinin ardından geriye kalan kurumuş toz madde (3 harf) [B406-S2]",
+      "answer": "KÜL"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 4,
+      "col": 3,
+      "length": 4,
+      "clue": "Bir yarışmanın galibine ödül olarak verilen, ayaklı madeni kadeh (4 harf) [B406-S2]",
+      "answer": "KUPA"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 5,
+      "col": 8,
+      "length": 5,
+      "clue": "Gökyüzünde süzülen, su buharının yoğunlaşmasıyla oluşan beyaz küme (5 harf) [B406-S3]",
+      "answer": "BULUT"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "length": 6,
+      "clue": "Yakalı, düğmeli ve kollu olan, üstten giyilen ince kumaş giysi (6 harf) [B406-S4]",
+      "answer": "GÖMLEK"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 6,
+      "col": 5,
+      "length": 4,
+      "clue": "Eskiden şehirleri düşmandan korumak için yapılmış yüksek surlu savunma yapısı (4 harf) [B406-S5]",
+      "answer": "KALE"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 7,
+      "col": 5,
+      "length": 4,
+      "clue": "Sahte ya da taklit olmayan; bir şeyin gerçek ve temel olan hali (4 harf) [B406-S6]",
+      "answer": "ASIL"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 8,
+      "col": 3,
+      "length": 3,
+      "clue": "Ağız içindeki kaslı organ; aynı zamanda insanların konuşarak anlaştığı sistem (3 harf) [B406-S7]",
+      "answer": "DİL"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 8,
+      "col": 3,
+      "length": 4,
+      "clue": "İçi boşluk bırakmayacak biçimde bir şeyle tamamen kaplanmış olan (4 harf) [B406-S7]",
+      "answer": "DOLU"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 10,
+      "col": 2,
+      "length": 3,
+      "clue": "Bir cismin aşağı tarafı; üst sözcüğünün tam karşıtı olan yön (3 harf) [B406-S8]",
+      "answer": "ALT"
+    }
+  ]
+}

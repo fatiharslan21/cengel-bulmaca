@@ -1,0 +1,221 @@
+{
+  "id": 489,
+  "title": "Bölüm 489",
+  "difficulty": "Çok Zor",
+  "grid_size_r": 12,
+  "grid_size_c": 8,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "across",
+      "row": 0,
+      "col": 5,
+      "length": 3,
+      "clue": "Üstten sıkılan su ile yıkanmak üzere banyoya yerleştirilmiş düzenek (3 harf) [B489-S1]",
+      "answer": "DUŞ"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "length": 4,
+      "clue": "Bir işin belirli kurallar içinde yapılmasını sağlayan yol; yöntem (4 harf) [B489-S2]",
+      "answer": "USUL"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 2,
+      "col": 3,
+      "length": 5,
+      "clue": "Cilde sürülüp suyla köpürtülerek kirleri temizleyen, kalıp ya da sıvı madde (5 harf) [B489-S3]",
+      "answer": "SABUN"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 3,
+      "col": 2,
+      "length": 5,
+      "clue": "Çevresinde olanlardan haberi olmayan, dalgın ve dikkatsiz kimse (5 harf) [B489-S4]",
+      "answer": "GAFİL"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "length": 5,
+      "clue": "Yelkenli ya da motorlu olup denizde kısa yolculuklara çıkan küçük gemi (5 harf) [B489-S5]",
+      "answer": "TEKNE"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 6,
+      "col": 2,
+      "length": 3,
+      "clue": "Çanak çömlek yapımında kullanılan, suyla yumuşayan yapışkan toprak (3 harf) [B489-S6]",
+      "answer": "KİL"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 6,
+      "col": 4,
+      "length": 5,
+      "clue": "Belirlenen vaktin öncesinde gelme; geç kalmanın tersi durumu (5 harf) [B489-S7]",
+      "answer": "ERKEN"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 7,
+      "col": 7,
+      "length": 5,
+      "clue": "Dinleyeni güldüren ince espri; zarif bir ustalıkla söylenmiş söz (5 harf) [B489-S8]",
+      "answer": "NÜKTE"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "length": 5,
+      "clue": "Kolla eli birbirine bağlayan, küçük kemiklerden oluşan eklem bölgesi (5 harf) [B489-S9]",
+      "answer": "BİLEK"
+    },
+    {
+      "number": 10,
+      "direction": "across",
+      "row": 10,
+      "col": 2,
+      "length": 6,
+      "clue": "Elinde olanla yetinip daha fazlasını istememe; tokgözlülük hali (6 harf) [B489-S10]",
+      "answer": "KANAAT"
+    }
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "id": 422,
+  "title": "Bölüm 422",
+  "difficulty": "Çok Zor",
+  "grid_size_r": 9,
+  "grid_size_c": 12,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "length": 5,
+      "clue": "Tekerlekleri üstünde insan ya da yük taşıyan motorlu kara taşıtı (5 harf) [B422-S1]",
+      "answer": "ARABA"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 10,
+      "length": 4,
+      "clue": "İçten duyulan gönül rahatlığı; keder bırakmayan tatlı neşe (4 harf) [B422-S2]",
+      "answer": "SAFA"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 1,
+      "col": 6,
+      "length": 5,
+      "clue": "Düğünlerde davulla birlikte çalınan, ince tiz sesli üflemeli halk çalgısı (5 harf) [B422-S3]",
+      "answer": "ZURNA"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 2,
+      "col": 2,
+      "length": 5,
+      "clue": "İnsanın başına geleceği önceden yazıldığına inanılan alın yazısı (5 harf) [B422-S4]",
+      "answer": "KADER"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 4,
+      "col": 4,
+      "length": 6,
+      "clue": "Sanatçıların, özellikle şairlerin gerçek adları yerine kullandığı takma ad (6 harf) [B422-S5]",
+      "answer": "MAHLAS"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 4,
+      "col": 4,
+      "length": 5,
+      "clue": "Anlatılanı somutlaştırmak için verilen örnek; kıyas noktası (5 harf) [B422-S5]",
+      "answer": "MİSAL"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 4,
+      "col": 9,
+      "length": 3,
+      "clue": "Bir kişinin atalarından gelen kan bağı; aile kökeni ve nesli (3 harf) [B422-S6]",
+      "answer": "SOY"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 6,
+      "col": 2,
+      "length": 4,
+      "clue": "Birinin ya da bir şeyin beklemediğin anda karşına çıkması; tesadüf (4 harf) [B422-S7]",
+      "answer": "RAST"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 6,
+      "col": 7,
+      "length": 5,
+      "clue": "Alçakgönüllülükle yapılan yalvarış; Tanrı'dan dilenen istek (5 harf) [B422-S8]",
+      "answer": "NİYAZ"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "length": 5,
+      "clue": "Bir şeyin eksiksiz, kusursuz ve en üst düzeyde olgunlaşmış hali (5 harf) [B422-S9]",
+      "answer": "KEMAL"
+    }
+  ]
+}

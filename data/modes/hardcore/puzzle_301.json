@@ -1,0 +1,192 @@
+{
+  "id": 301,
+  "title": "Bölüm 301",
+  "difficulty": "Zor",
+  "grid_size_r": 7,
+  "grid_size_c": 11,
+  "grid": [
+    [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 0,
+      "length": 3,
+      "clue": "Kırmızı ile mavinin karışımından elde edilen, menekşe renginde koyu ton (3 harf) [B301-S1]",
+      "answer": "MOR"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "length": 4,
+      "clue": "Yolcuların ücret karşılığı geceyi geçirdiği, odaları olan konaklama işletmesi (4 harf) [B301-S2]",
+      "answer": "OTEL"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 1,
+      "col": 2,
+      "length": 4,
+      "clue": "Kavuşulması için yıllarca beklenen, gönülde taşınan büyük istek (4 harf) [B301-S3]",
+      "answer": "EMEL"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "length": 5,
+      "clue": "Bir olayın geçtiği ya da bir şeyin bulunduğu belirli yer; mahal (5 harf) [B301-S4]",
+      "answer": "MEKAN"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 2,
+      "col": 10,
+      "length": 3,
+      "clue": "Bir işi yapabilme yeteneği; fiziksel ya da manevi olarak sahip olunan kuvvet (3 harf) [B301-S5]",
+      "answer": "GÜÇ"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 3,
+      "col": 1,
+      "length": 5,
+      "clue": "Ciğerlere hava çekmek ve bırakmak; yaşamın sürdüğünün göstergesi soluk (5 harf) [B301-S6]",
+      "answer": "NEFES"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 3,
+      "col": 7,
+      "length": 4,
+      "clue": "Limon ve altın tonlarında olan, güneşi çağrıştıran canlı sıcak renk (4 harf) [B301-S7]",
+      "answer": "SARI"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 4,
+      "col": 7,
+      "length": 4,
+      "clue": "Bir işin başında konulan, ulaşılmak istenen hedef ya da gaye (4 harf) [B301-S8]",
+      "answer": "AMAÇ"
+    },
+    {
+      "number": 9,
+      "direction": "down",
+      "row": 4,
+      "col": 9,
+      "length": 3,
+      "clue": "Bir şeye bağlı bulunma; onunla ilgili ya da onun sahipliğinde olma (3 harf) [B301-S9]",
+      "answer": "AİT"
+    },
+    {
+      "number": 10,
+      "direction": "across",
+      "row": 5,
+      "col": 3,
+      "length": 5,
+      "clue": "İnsanın başına geleceği önceden yazıldığına inanılan alın yazısı (5 harf) [B301-S10]",
+      "answer": "KADER"
+    }
+  ]
+}
