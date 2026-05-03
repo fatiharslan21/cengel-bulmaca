@@ -1,0 +1,221 @@
+{
+  "id": 149,
+  "title": "Bölüm 149",
+  "difficulty": "Zor",
+  "grid_size_r": 12,
+  "grid_size_c": 8,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1
+    ],
+    [
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "length": 5,
+      "clue": "İnsanın ömür boyu karşılaştığı iyi ya da kötü raslantıların tümü; baht (5 harf) [B271-S1]",
+      "answer": "TALİH"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "length": 6,
+      "clue": "Başı, ortası ve sonu olan; yaşanmış ya da kurmaca kısa anlatı (6 harf) [B271-S2]",
+      "answer": "HİKAYE"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "length": 5,
+      "clue": "Açıklamaya uyan yanıt (5 harf) [B271-S3]",
+      "answer": "BİLGİ"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 4,
+      "col": 4,
+      "length": 4,
+      "clue": "Atmosferi oluşturan, canlıların soluduğu renksiz ve kokusuz gaz karışımı (4 harf) [B271-S4]",
+      "answer": "HAVA"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "length": 3,
+      "clue": "Yaptıklarıyla uzaklarda bile tanınıp bilinir olmanın verdiği büyük ün (3 harf) [B271-S5]",
+      "answer": "ŞAN"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 6,
+      "col": 4,
+      "length": 5,
+      "clue": "Geçim sıkıntısı çekmeden, bolluk içinde sürdürülen rahat ve huzurlu yaşam (5 harf) [B271-S6]",
+      "answer": "REFAH"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "length": 5,
+      "clue": "Bitkinin çiçeğinin olgunlaşmasıyla oluşan, genellikle yenilebilir ürün (5 harf) [B271-S7]",
+      "answer": "MEYVE"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 7,
+      "col": 0,
+      "length": 5,
+      "clue": "Ölünün toprağa verildiği, başında taş bulunan defin yeri; kabir (5 harf) [B271-S7]",
+      "answer": "MEZAR"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 7,
+      "col": 7,
+      "length": 3,
+      "clue": "Derin ve dik uçurum; aynı zamanda sevilen kişi için kullanılan şiirsel ad (3 harf) [B271-S8]",
+      "answer": "YAR"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 9,
+      "col": 3,
+      "length": 5,
+      "clue": "Zorluklara dayanıp isyan etmeden bekleyebilme; hoşgörü ile katlanma (5 harf) [B271-S9]",
+      "answer": "SABIR"
+    }
+  ]
+}

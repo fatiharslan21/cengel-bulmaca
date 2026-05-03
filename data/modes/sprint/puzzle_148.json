@@ -1,0 +1,241 @@
+{
+  "id": 148,
+  "title": "Bölüm 148",
+  "difficulty": "Çok Zor",
+  "grid_size_r": 10,
+  "grid_size_c": 12,
+  "grid": [
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "length": 5,
+      "clue": "Doğada bulunan en sert madde; takılarda kullanılan değerli kıymetli taş (5 harf) [B395-S1]",
+      "answer": "ELMAS"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "length": 3,
+      "clue": "Dikenli gövdesi ve hoş kokulu taç yapraklarıyla bilinen bahçe çiçeği (3 harf) [B395-S2]",
+      "answer": "GÜL"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 3,
+      "col": 2,
+      "length": 3,
+      "clue": "Bir şeye bağlı bulunma; onunla ilgili ya da onun sahipliğinde olma (3 harf) [B395-S3]",
+      "answer": "AİT"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 3,
+      "col": 4,
+      "length": 6,
+      "clue": "Bir kişinin emeğini ya da başarısını görüp açıkça beğenip övme (6 harf) [B395-S4]",
+      "answer": "TAKDİR"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 3,
+      "col": 6,
+      "length": 6,
+      "clue": "Kişinin payına düşen; kaderin ona uygun gördüğü nasibi ya da şansı (6 harf) [B395-S5]",
+      "answer": "KISMET"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 4,
+      "col": 4,
+      "length": 3,
+      "clue": "Bir hastalığa karşı bağışıklık kazandırmak için vücuda verilen ilaç (3 harf) [B395-S6]",
+      "answer": "AŞI"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 5,
+      "col": 10,
+      "length": 4,
+      "clue": "Şehir içinde insanların dinlenip yürüdüğü, ağaçlıklı kamusal yeşil alan (4 harf) [B395-S7]",
+      "answer": "PARK"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 6,
+      "col": 2,
+      "length": 4,
+      "clue": "Birinin ya da bir şeyin beklemediğin anda karşına çıkması; tesadüf (4 harf) [B395-S8]",
+      "answer": "RAST"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 6,
+      "col": 6,
+      "length": 6,
+      "clue": "Sanatçıların, özellikle şairlerin gerçek adları yerine kullandığı takma ad (6 harf) [B395-S9]",
+      "answer": "MAHLAS"
+    },
+    {
+      "number": 10,
+      "direction": "across",
+      "row": 7,
+      "col": 1,
+      "length": 6,
+      "clue": "Değerli eşyaların ya da paraların saklandığı gizli büyük birikim (6 harf) [B395-S10]",
+      "answer": "HAZİNE"
+    }
+  ]
+}

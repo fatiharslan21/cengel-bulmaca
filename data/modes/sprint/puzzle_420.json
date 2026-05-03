@@ -1,0 +1,231 @@
+{
+  "id": 420,
+  "title": "Bölüm 420",
+  "difficulty": "Orta",
+  "grid_size_r": 10,
+  "grid_size_c": 11,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 7,
+      "length": 5,
+      "clue": "Yelkenli ya da motorlu olup denizde kısa yolculuklara çıkan küçük gemi (5 harf) [B164-S1]",
+      "answer": "TEKNE"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 1,
+      "col": 6,
+      "length": 5,
+      "clue": "Bitkinin çiçeğinin olgunlaşmasıyla oluşan, genellikle yenilebilir ürün (5 harf) [B164-S2]",
+      "answer": "MEYVE"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "length": 4,
+      "clue": "İçine çiçek konulmak üzere yapılmış, ince uzun boyunlu süs kabı (4 harf) [B164-S3]",
+      "answer": "VAZO"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 2,
+      "col": 3,
+      "length": 3,
+      "clue": "Bir evin ya da binanın duvarlarla ayrılmış, belirli amaçla kullanılan bölümü (3 harf) [B164-S4]",
+      "answer": "ODA"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 3,
+      "col": 5,
+      "length": 6,
+      "clue": "İnsan ya da kürek gücüyle suda yol alan küçük açık deniz teknesi (6 harf) [B164-S5]",
+      "answer": "SANDAL"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 3,
+      "col": 5,
+      "length": 3,
+      "clue": "Başımızın derisinde biten, her birinin kökten uzayan ince tel kıl (3 harf) [B164-S5]",
+      "answer": "SAÇ"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 3,
+      "col": 9,
+      "length": 3,
+      "clue": "İki şeyin birbirinden ayrıldığı boşluk; kısa mola süresi (3 harf) [B164-S6]",
+      "answer": "ARA"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 4,
+      "col": 2,
+      "length": 4,
+      "clue": "Eskiyip yırtılan giysiyi onarmak için üstüne dikilen küçük kumaş parçası (4 harf) [B164-S7]",
+      "answer": "YAMA"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 5,
+      "col": 8,
+      "length": 3,
+      "clue": "Gözün hemen üstünde bulunan, yaklaşık yay biçimindeki kıl kümesi (3 harf) [B164-S8]",
+      "answer": "KAŞ"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 5,
+      "col": 8,
+      "length": 5,
+      "clue": "Çorba, pilav gibi yemekleri ağza götürmek için kullanılan çukur sap (5 harf) [B164-S8]",
+      "answer": "KAŞIK"
+    }
+  ]
+}

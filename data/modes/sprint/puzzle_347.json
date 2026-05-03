@@ -1,0 +1,176 @@
+{
+  "id": 347,
+  "title": "Bölüm 347",
+  "difficulty": "Kolay",
+  "grid_size_r": 7,
+  "grid_size_c": 10,
+  "grid": [
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "across",
+      "row": 0,
+      "col": 2,
+      "length": 3,
+      "clue": "Bin kilograma eşit olan büyük ağırlık ölçü birimi (3 harf) [B91-S1]",
+      "answer": "TON"
+    },
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "length": 5,
+      "clue": "Yemeklerin servis edildiği, yuvarlak ve yassı porselen ya da cam kap (5 harf) [B91-S1]",
+      "answer": "TABAK"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 1,
+      "col": 7,
+      "length": 3,
+      "clue": "Sayıların başlangıcı olan, tek adedi gösteren ilk doğal rakam (3 harf) [B91-S2]",
+      "answer": "BİR"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 2,
+      "col": 2,
+      "length": 4,
+      "clue": "İnsanların içinde oturduğu ya da çalıştığı, taş ve betondan yapılmış yapı (4 harf) [B91-S3]",
+      "answer": "BİNA"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "length": 3,
+      "clue": "İki şeyin birbirinden ayrıldığı boşluk; kısa mola süresi (3 harf) [B91-S4]",
+      "answer": "ARA"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 3,
+      "col": 6,
+      "length": 4,
+      "clue": "Sayılabilen nesnelerin her biri; küçük parça ya da adet (4 harf) [B91-S5]",
+      "answer": "TANE"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 3,
+      "col": 6,
+      "length": 4,
+      "clue": "Raylar üzerinde hareket eden, vagonları çeken büyük motorlu araç (4 harf) [B91-S5]",
+      "answer": "TREN"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 4,
+      "col": 2,
+      "length": 5,
+      "clue": "İp ya da parmaklarla oynatılan, tiyatro sahnesinde canlanan figürlü bebek (5 harf) [B91-S6]",
+      "answer": "KUKLA"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 6,
+      "col": 5,
+      "length": 3,
+      "clue": "Pantolon ya da ceketin içine dikilmiş, ufak eşya konulan küçük kese (3 harf) [B91-S7]",
+      "answer": "CEP"
+    }
+  ]
+}

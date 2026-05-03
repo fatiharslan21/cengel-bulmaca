@@ -1,0 +1,191 @@
+{
+  "id": 316,
+  "title": "Bölüm 316",
+  "difficulty": "Kolay",
+  "grid_size_r": 9,
+  "grid_size_c": 9,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "length": 3,
+      "clue": "İnsanın başından ayağına kadar olan uzunluğu; endam ya da kamet (3 harf) [B60-S1]",
+      "answer": "BOY"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "length": 5,
+      "clue": "Kat kat hamuru kremayla birleştirilen, doğum günlerinde kesilen tatlı (5 harf) [B60-S2]",
+      "answer": "PASTA"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "length": 4,
+      "clue": "Çalışmaya ya da yolculuğa kısa bir süre ara vererek dinlenme anı (4 harf) [B60-S3]",
+      "answer": "MOLA"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 1,
+      "col": 7,
+      "length": 3,
+      "clue": "Bir üstün ya da yetkilinin önüne saygıyla sunma, takdim etme eylemi (3 harf) [B60-S4]",
+      "answer": "ARZ"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 2,
+      "col": 5,
+      "length": 4,
+      "clue": "Bir olayın başlangıcı ile sonu arasında geçen zaman aralığı (4 harf) [B60-S5]",
+      "answer": "SÜRE"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 4,
+      "col": 1,
+      "length": 5,
+      "clue": "Üzerinde yaşadığımız, Güneş'in çevresinde dönen mavi yeşil gezegen (5 harf) [B60-S6]",
+      "answer": "DÜNYA"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 4,
+      "col": 1,
+      "length": 3,
+      "clue": "Ağız içindeki kaslı organ; aynı zamanda insanların konuşarak anlaştığı sistem (3 harf) [B60-S6]",
+      "answer": "DİL"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "length": 3,
+      "clue": "Birden çok rengin bir arada bulunduğu, benekli ya da karışık görünüm (3 harf) [B60-S7]",
+      "answer": "ALA"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 6,
+      "col": 2,
+      "length": 3,
+      "clue": "Elin iç tarafı; parmakların bittiği yerden bileğe kadar uzanan bölüm (3 harf) [B60-S8]",
+      "answer": "AYA"
+    }
+  ]
+}

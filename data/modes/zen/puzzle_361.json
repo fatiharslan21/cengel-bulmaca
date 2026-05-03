@@ -1,0 +1,209 @@
+{
+  "id": 361,
+  "title": "Bölüm 361",
+  "difficulty": "Çok Zor",
+  "grid_size_r": 9,
+  "grid_size_c": 10,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "length": 5,
+      "clue": "Ani ve sert bir hareketle yapılan vuruş; çarpma sonucu alınan sarsıntı (5 harf) [B483-S1]",
+      "answer": "DARBE"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "length": 4,
+      "clue": "İçten duyulan gönül rahatlığı; keder bırakmayan tatlı neşe (4 harf) [B483-S2]",
+      "answer": "SAFA"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 0,
+      "col": 5,
+      "length": 5,
+      "clue": "Denizin ya da gölün karaya kavuştuğu kumlu ve taşlı kıyı şeridi (5 harf) [B483-S2]",
+      "answer": "SAHİL"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "length": 4,
+      "clue": "Atmosferi oluşturan, canlıların soluduğu renksiz ve kokusuz gaz karışımı (4 harf) [B483-S3]",
+      "answer": "HAVA"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 3,
+      "col": 1,
+      "length": 6,
+      "clue": "Az sözle büyük anlam ifade eden, akılda kalan özlü söz (6 harf) [B483-S4]",
+      "answer": "VECİZE"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 3,
+      "col": 5,
+      "length": 4,
+      "clue": "Bir işin başında konulan, ulaşılmak istenen hedef ya da gaye (4 harf) [B483-S5]",
+      "answer": "AMAÇ"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "length": 4,
+      "clue": "Güneşin batmasından doğmasına kadar süren karanlık zaman dilimi (4 harf) [B483-S6]",
+      "answer": "GECE"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 5,
+      "col": 4,
+      "length": 3,
+      "clue": "Bir işin ya da sürecin bittiği nokta; final ve kapanış anı (3 harf) [B483-S7]",
+      "answer": "SON"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 5,
+      "col": 4,
+      "length": 4,
+      "clue": "Bilinmeyen bir bilgiyi öğrenmek için karşıya yöneltilen cümle (4 harf) [B483-S7]",
+      "answer": "SORU"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 7,
+      "col": 1,
+      "length": 5,
+      "clue": "Aynı ortak özellikleri paylaşan kişilerden oluşan topluluk; grup (5 harf) [B483-S8]",
+      "answer": "ZÜMRE"
+    }
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "id": 204,
+  "title": "Bölüm 204",
+  "difficulty": "Zor",
+  "grid_size_r": 12,
+  "grid_size_c": 8,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "length": 5,
+      "clue": "Mektup ve paketlerin toplanıp yerine ulaştırıldığı geleneksel iletişim hizmeti (5 harf) [B326-S1]",
+      "answer": "POSTA"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 4,
+      "col": 1,
+      "length": 4,
+      "clue": "İlerinin zıttı; arkaya ya da başlangıca doğru olan yön (4 harf) [B326-S2]",
+      "answer": "GERİ"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 4,
+      "col": 3,
+      "length": 4,
+      "clue": "Sobadan ateş almak ya da sıcak şeyleri tutmak için kullanılan uzun kıskaç (4 harf) [B326-S3]",
+      "answer": "MAŞA"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 4,
+      "col": 3,
+      "length": 5,
+      "clue": "Kaybedilen bir yakının ardından tutulan koyu yas; siyahlar giyme hali (5 harf) [B326-S3]",
+      "answer": "MATEM"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "length": 4,
+      "clue": "İçerisi camla kaplı; mevsim dışında bile bitki yetiştirilen ısıtılmış yapı (4 harf) [B326-S4]",
+      "answer": "SERA"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 6,
+      "col": 3,
+      "length": 5,
+      "clue": "Toplumun kişiye duyduğu saygı; alnı ak olma halinin verdiği onur (5 harf) [B326-S5]",
+      "answer": "ŞEREF"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "length": 4,
+      "clue": "Birine seslenmek için çıkarılan yüksek ses; çağırmak amaçlı bağırma (4 harf) [B326-S6]",
+      "answer": "NİDA"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 7,
+      "col": 2,
+      "length": 5,
+      "clue": "Üzerinde yaşadığımız, Güneş'in çevresinde dönen mavi yeşil gezegen (5 harf) [B326-S7]",
+      "answer": "DÜNYA"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 9,
+      "col": 0,
+      "length": 4,
+      "clue": "Sayılabilen nesnelerin her biri; küçük parça ya da adet (4 harf) [B326-S8]",
+      "answer": "TANE"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 11,
+      "col": 2,
+      "length": 3,
+      "clue": "Bir şeye bağlı bulunma; onunla ilgili ya da onun sahipliğinde olma (3 harf) [B326-S9]",
+      "answer": "AİT"
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "id": 133,
+  "title": "Bölüm 133",
+  "difficulty": "Çok Zor",
+  "grid_size_r": 10,
+  "grid_size_c": 8,
+  "grid": [
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "length": 5,
+      "clue": "Mutfağa giren, bitki kökleri ve yapraklarından oluşan yenilebilir besin (5 harf) [B380-S1]",
+      "answer": "SEBZE"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "length": 3,
+      "clue": "Yeteri kadarının üstünde, çokça bulunan; dar sözcüğünün zıttı sayılan (3 harf) [B380-S2]",
+      "answer": "BOL"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "length": 4,
+      "clue": "Yapılan iyiliğin ya da çekilen sıkıntının karşılığı olarak verilen sevap (4 harf) [B380-S3]",
+      "answer": "ECİR"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "length": 3,
+      "clue": "Hortumuyla tanınan, kulakları iri, kara hayvanlarının en büyüklerinden biri (3 harf) [B380-S4]",
+      "answer": "FİL"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "length": 5,
+      "clue": "Hayatta yükselme, talih kuşunun başa konması; mevki sahibi olma (5 harf) [B380-S5]",
+      "answer": "İKBAL"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 3,
+      "col": 4,
+      "length": 4,
+      "clue": "Birinin ya da bir şeyin beklemediğin anda karşına çıkması; tesadüf (4 harf) [B380-S6]",
+      "answer": "RAST"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 4,
+      "col": 1,
+      "length": 3,
+      "clue": "Sayıların başlangıcı olan, tek adedi gösteren ilk doğal rakam (3 harf) [B380-S7]",
+      "answer": "BİR"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "length": 4,
+      "clue": "Maddi olanın üstünde, manevi değerlerle ilgili; kutsal niteliği bulunan (4 harf) [B380-S8]",
+      "answer": "ULVİ"
+    },
+    {
+      "number": 9,
+      "direction": "down",
+      "row": 6,
+      "col": 2,
+      "length": 4,
+      "clue": "Dostluğunu ve sevgisini zaman geçse bile sürdürme; söze sadakat (4 harf) [B380-S9]",
+      "answer": "VEFA"
+    },
+    {
+      "number": 10,
+      "direction": "across",
+      "row": 9,
+      "col": 1,
+      "length": 3,
+      "clue": "Kişinin yasal olarak sahip olduğu; alması ya da yapması gereken şey (3 harf) [B380-S10]",
+      "answer": "HAK"
+    }
+  ]
+}

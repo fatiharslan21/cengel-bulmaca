@@ -1,0 +1,241 @@
+{
+  "id": 107,
+  "title": "Bölüm 107",
+  "difficulty": "Orta",
+  "grid_size_r": 10,
+  "grid_size_c": 12,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "length": 5,
+      "clue": "Şehirlerde iki yanı binalarla çevrili, taşıtların geçtiği geniş ana yol (5 harf) [B229-S1]",
+      "answer": "CADDE"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "length": 3,
+      "clue": "Bir çemberin merkezinden geçerek onu iki eşit yaya bölen doğru parça (3 harf) [B229-S2]",
+      "answer": "ÇAP"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 2,
+      "col": 7,
+      "length": 4,
+      "clue": "İnsanın başına habersizce gelen ağır dert, büyük sıkıntı ya da musibet (4 harf) [B229-S3]",
+      "answer": "BELA"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 2,
+      "col": 9,
+      "length": 3,
+      "clue": "Arıların çiçeklerden topladığı nektarı işleyerek yaptığı koyu, tatlı gıda (3 harf) [B229-S4]",
+      "answer": "BAL"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 2,
+      "col": 10,
+      "length": 4,
+      "clue": "Üzerinde yapı bulunmayan, belli sınırlarla çevrili geniş açık düzlük (4 harf) [B229-S5]",
+      "answer": "ALAN"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 3,
+      "col": 1,
+      "length": 3,
+      "clue": "Dikenli gövdesi ve hoş kokulu taç yapraklarıyla bilinen bahçe çiçeği (3 harf) [B229-S6]",
+      "answer": "GÜL"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 3,
+      "col": 3,
+      "length": 6,
+      "clue": "Yer kabuğunun kırılmasıyla meydana gelen, yüzeyi sarsan doğal olay (6 harf) [B229-S7]",
+      "answer": "DEPREM"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "length": 4,
+      "clue": "Bir olayın başlangıcı ile sonu arasında geçen zaman aralığı (4 harf) [B229-S8]",
+      "answer": "SÜRE"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 5,
+      "col": 6,
+      "length": 6,
+      "clue": "Değerli eşyaların ya da paraların saklandığı gizli büyük birikim (6 harf) [B229-S9]",
+      "answer": "HAZİNE"
+    },
+    {
+      "number": 9,
+      "direction": "down",
+      "row": 5,
+      "col": 6,
+      "length": 5,
+      "clue": "Zihinde canlandırılan, gerçekleşmesi beklenen ya da umulan görüntü (5 harf) [B229-S9]",
+      "answer": "HAYAL"
+    }
+  ]
+}

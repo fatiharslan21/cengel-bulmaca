@@ -1,0 +1,221 @@
+{
+  "id": 127,
+  "title": "Bölüm 127",
+  "difficulty": "Orta",
+  "grid_size_r": 10,
+  "grid_size_c": 10,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "length": 5,
+      "clue": "Üzerinde yaşadığımız, Güneş'in çevresinde dönen mavi yeşil gezegen (5 harf) [B249-S1]",
+      "answer": "DÜNYA"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 2,
+      "col": 4,
+      "length": 5,
+      "clue": "Bir milletin üzerinde yaşayıp kendine yurt bildiği ata toprağı (5 harf) [B249-S2]",
+      "answer": "VATAN"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 2,
+      "col": 5,
+      "length": 5,
+      "clue": "Dünyanın farklı bölgelerini gösteren haritaların toplandığı büyük kitap (5 harf) [B249-S3]",
+      "answer": "ATLAS"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 3,
+      "col": 0,
+      "length": 3,
+      "clue": "İnsanın başından ayağına kadar olan uzunluğu; endam ya da kamet (3 harf) [B249-S4]",
+      "answer": "BOY"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 4,
+      "col": 3,
+      "length": 3,
+      "clue": "Göğüs kafesi ile kalçalar arasında kalan, vücudun orta kısmı (3 harf) [B249-S5]",
+      "answer": "BEL"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 4,
+      "col": 3,
+      "length": 6,
+      "clue": "Okyanuslarda yaşayan, dünyanın en büyük sayılan memeli deniz canlısı (6 harf) [B249-S5]",
+      "answer": "BALİNA"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 4,
+      "col": 7,
+      "length": 3,
+      "clue": "Gitme, olduğun yerde dur; git sözcüğünün tam karşıtı olan emir (3 harf) [B249-S6]",
+      "answer": "KAL"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "length": 4,
+      "clue": "Bir kesik ya da darbe sonucu bedende oluşan açık doku hasarı (4 harf) [B249-S7]",
+      "answer": "YARA"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 6,
+      "col": 5,
+      "length": 4,
+      "clue": "İçerisi camla kaplı; mevsim dışında bile bitki yetiştirilen ısıtılmış yapı (4 harf) [B249-S8]",
+      "answer": "SERA"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 7,
+      "col": 2,
+      "length": 3,
+      "clue": "Bahçeyi ya da tarlayı çevreleyen, tahta veya telden yapılmış alçak engel (3 harf) [B249-S9]",
+      "answer": "ÇİT"
+    }
+  ]
+}

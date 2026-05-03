@@ -1,0 +1,213 @@
+{
+  "id": 409,
+  "title": "Bölüm 409",
+  "difficulty": "Orta",
+  "grid_size_r": 8,
+  "grid_size_c": 12,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 10,
+      "length": 4,
+      "clue": "Katlanabilen küçük bıçak; çoğunlukla cepte taşınan, sivri uçlu el aleti (4 harf) [B153-S1]",
+      "answer": "ÇAKI"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 1,
+      "col": 7,
+      "length": 4,
+      "clue": "Limon ve altın tonlarında olan, güneşi çağrıştıran canlı sıcak renk (4 harf) [B153-S2]",
+      "answer": "SARI"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 1,
+      "col": 7,
+      "length": 5,
+      "clue": "Güneşin doğmasıyla başlayıp öğleye kadar süren günün ilk dilimi (5 harf) [B153-S2]",
+      "answer": "SABAH"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 2,
+      "col": 5,
+      "length": 3,
+      "clue": "Bir evin ya da binanın duvarlarla ayrılmış, belirli amaçla kullanılan bölümü (3 harf) [B153-S3]",
+      "answer": "ODA"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 4,
+      "col": 5,
+      "length": 3,
+      "clue": "Çiçeklerden topladığı nektarı bala dönüştüren, iğneli küçük böcek (3 harf) [B153-S4]",
+      "answer": "ARI"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 4,
+      "col": 5,
+      "length": 4,
+      "clue": "Mutfakta yemek pişirmeyi meslek edinmiş, lezzetten anlayan kişi (4 harf) [B153-S4]",
+      "answer": "AŞÇI"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 5,
+      "col": 3,
+      "length": 3,
+      "clue": "İçin karşıtı; bir şeyin çevresini gören, dışarıya bakan yüzü (3 harf) [B153-S5]",
+      "answer": "DIŞ"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 5,
+      "col": 3,
+      "length": 3,
+      "clue": "Bulunduğun yerden geri çevril; ya da bir eksen etrafında hareket et (3 harf) [B153-S5]",
+      "answer": "DÖN"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 6,
+      "col": 5,
+      "length": 3,
+      "clue": "Yağış almadığı için kum ve kayalarla kaplı, bitkisi çok seyrek olan bölge (3 harf) [B153-S6]",
+      "answer": "ÇÖL"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "length": 4,
+      "clue": "Boş zamanlarda eğlence ya da öğrenme amacıyla kurallara göre oynanan etkinlik (4 harf) [B153-S7]",
+      "answer": "OYUN"
+    }
+  ]
+}

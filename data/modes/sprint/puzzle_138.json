@@ -1,0 +1,257 @@
+{
+  "id": 138,
+  "title": "Bölüm 138",
+  "difficulty": "Çok Zor",
+  "grid_size_r": 12,
+  "grid_size_c": 11,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "length": 4,
+      "clue": "Akrep, yelkovan ve rakamlarla anı gösteren; zamanı ölçen günlük araç (4 harf) [B385-S1]",
+      "answer": "SAAT"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 1,
+      "col": 6,
+      "length": 4,
+      "clue": "Çevresindeki yapılardan çok daha yüksek olan, dar ve uzun yapı (4 harf) [B385-S2]",
+      "answer": "KULE"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "length": 5,
+      "clue": "Yüreği saran, insanı kendinden geçiren güçlü aşk ve tutku (5 harf) [B385-S3]",
+      "answer": "SEVDA"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "length": 5,
+      "clue": "Belirlenen vaktin öncesinde gelme; geç kalmanın tersi durumu (5 harf) [B385-S4]",
+      "answer": "ERKEN"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 3,
+      "col": 4,
+      "length": 7,
+      "clue": "Uzaktaki kişilerle anında sesli iletişim kurmamızı sağlayan cihaz (7 harf) [B385-S5]",
+      "answer": "TELEFON"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 4,
+      "col": 3,
+      "length": 5,
+      "clue": "Dayanılmaz acı anında yükselen yüksek sesli ağlama ve feryat (5 harf) [B385-S6]",
+      "answer": "FİGAN"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 5,
+      "col": 1,
+      "length": 4,
+      "clue": "Yapılan iyiliğin ya da çekilen sıkıntının karşılığı olarak verilen sevap (4 harf) [B385-S7]",
+      "answer": "ECİR"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 7,
+      "col": 5,
+      "length": 5,
+      "clue": "Birbirini gören iki kişinin hal hatır sormak için söylediği esenlik dileği (5 harf) [B385-S8]",
+      "answer": "SELAM"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 8,
+      "col": 1,
+      "length": 6,
+      "clue": "Bir toplantıda ya da günde ele alınacak konuların sıralı listesi (6 harf) [B385-S9]",
+      "answer": "GÜNDEM"
+    },
+    {
+      "number": 10,
+      "direction": "across",
+      "row": 10,
+      "col": 3,
+      "length": 4,
+      "clue": "Anlaşılmayan bir konuyu açık bir dille anlatma; aydınlatıcı açıklama (4 harf) [B385-S10]",
+      "answer": "İZAH"
+    }
+  ]
+}

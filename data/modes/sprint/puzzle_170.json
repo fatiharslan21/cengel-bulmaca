@@ -1,0 +1,218 @@
+{
+  "id": 170,
+  "title": "Bölüm 170",
+  "difficulty": "Çok Zor",
+  "grid_size_r": 9,
+  "grid_size_c": 11,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "length": 6,
+      "clue": "Elinde olanla yetinip daha fazlasını istememe; tokgözlülük hali (6 harf) [B417-S1]",
+      "answer": "KANAAT"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 1,
+      "col": 9,
+      "length": 5,
+      "clue": "Toplumun kişiye duyduğu saygı; alnı ak olma halinin verdiği onur (5 harf) [B417-S2]",
+      "answer": "ŞEREF"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 2,
+      "col": 5,
+      "length": 6,
+      "clue": "Belirli bir ülkenin sınırlarında örgütlenmiş siyasi ve yönetimsel yapı (6 harf) [B417-S3]",
+      "answer": "DEVLET"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "length": 4,
+      "clue": "Birinden nazikçe bir şey istemek; kibarca dile getirilen dilek (4 harf) [B417-S4]",
+      "answer": "RİCA"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 4,
+      "col": 7,
+      "length": 4,
+      "clue": "Bir sanatçının ya da yazarın ortaya koyduğu özgün yapıt (4 harf) [B417-S5]",
+      "answer": "ESER"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "length": 4,
+      "clue": "Kötü günde de yanında olan, gönülden sevilen yakın arkadaş (4 harf) [B417-S6]",
+      "answer": "DOST"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 5,
+      "col": 2,
+      "length": 3,
+      "clue": "İnek, keçi gibi memelilerden sağılan; beyaz renkli besleyici temel içecek (3 harf) [B417-S7]",
+      "answer": "SÜT"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 5,
+      "col": 5,
+      "length": 4,
+      "clue": "Uzaktan duyulan insan ya da doğa sesi; boğumlu ses dalgası (4 harf) [B417-S8]",
+      "answer": "SADA"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 5,
+      "col": 7,
+      "length": 4,
+      "clue": "İçten duyulan gönül rahatlığı; keder bırakmayan tatlı neşe (4 harf) [B417-S9]",
+      "answer": "SAFA"
+    },
+    {
+      "number": 10,
+      "direction": "across",
+      "row": 7,
+      "col": 2,
+      "length": 6,
+      "clue": "Bir kişinin emeğini ya da başarısını görüp açıkça beğenip övme (6 harf) [B417-S10]",
+      "answer": "TAKDİR"
+    }
+  ]
+}

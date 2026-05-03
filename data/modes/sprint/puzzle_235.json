@@ -1,0 +1,209 @@
+{
+  "id": 235,
+  "title": "Bölüm 235",
+  "difficulty": "Çok Zor",
+  "grid_size_r": 9,
+  "grid_size_c": 10,
+  "grid": [
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "length": 5,
+      "clue": "Hayatta yükselme, talih kuşunun başa konması; mevki sahibi olma (5 harf) [B482-S1]",
+      "answer": "İKBAL"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "length": 5,
+      "clue": "Kolla eli birbirine bağlayan, küçük kemiklerden oluşan eklem bölgesi (5 harf) [B482-S2]",
+      "answer": "BİLEK"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 1,
+      "col": 5,
+      "length": 5,
+      "clue": "Kamıştan ya da pancardan elde edilen; çay ve tatlılara katılan tatlı madde (5 harf) [B482-S3]",
+      "answer": "ŞEKER"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 3,
+      "col": 1,
+      "length": 5,
+      "clue": "Bilinmeyen bir şeyi öğrenmek için insanın içine düşen güçlü istek (5 harf) [B482-S4]",
+      "answer": "MERAK"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 3,
+      "col": 7,
+      "length": 3,
+      "clue": "İçine sıvı ya da katı maddeler konulan her türlü şekilli eşya (3 harf) [B482-S5]",
+      "answer": "KAP"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 3,
+      "col": 7,
+      "length": 3,
+      "clue": "Omuzdan bileğe kadar uzanan, eli bedene bağlayan üst uzvumuz (3 harf) [B482-S5]",
+      "answer": "KOL"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 5,
+      "col": 3,
+      "length": 5,
+      "clue": "Çölde ya da sıcakta gerçekte olmayan bir görüntü olarak algılanan yanılsama (5 harf) [B482-S6]",
+      "answer": "SERAP"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 5,
+      "col": 3,
+      "length": 4,
+      "clue": "Uzaktan duyulan insan ya da doğa sesi; boğumlu ses dalgası (4 harf) [B482-S6]",
+      "answer": "SADA"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 5,
+      "col": 6,
+      "length": 3,
+      "clue": "Bir cismin aşağı tarafı; üst sözcüğünün tam karşıtı olan yön (3 harf) [B482-S7]",
+      "answer": "ALT"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "length": 5,
+      "clue": "Anlatılanı somutlaştırmak için verilen örnek; kıyas noktası (5 harf) [B482-S8]",
+      "answer": "MİSAL"
+    }
+  ]
+}

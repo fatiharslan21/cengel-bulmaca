@@ -1,0 +1,199 @@
+{
+  "id": 231,
+  "title": "Bölüm 231",
+  "difficulty": "Çok Zor",
+  "grid_size_r": 7,
+  "grid_size_c": 12,
+  "grid": [
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "length": 4,
+      "clue": "Birine seslenmek için çıkarılan yüksek ses; çağırmak amaçlı bağırma (4 harf) [B478-S1]",
+      "answer": "NİDA"
+    },
+    {
+      "number": 1,
+      "direction": "across",
+      "row": 0,
+      "col": 1,
+      "length": 5,
+      "clue": "Kötü bakışın bir kimseye uğursuzluk getireceğine duyulan halk inancı (5 harf) [B478-S1]",
+      "answer": "NAZAR"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 7,
+      "length": 5,
+      "clue": "Mutfağa giren, bitki kökleri ve yapraklarından oluşan yenilebilir besin (5 harf) [B478-S2]",
+      "answer": "SEBZE"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 0,
+      "col": 9,
+      "length": 4,
+      "clue": "İnsanın başına gelenleri belirlediğine inanılan şans, talih ya da kader (4 harf) [B478-S3]",
+      "answer": "BAHT"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 1,
+      "col": 6,
+      "length": 5,
+      "clue": "Bir şeyin eksiksiz, kusursuz ve en üst düzeyde olgunlaşmış hali (5 harf) [B478-S4]",
+      "answer": "KEMAL"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "length": 4,
+      "clue": "Sobadan ateş almak ya da sıcak şeyleri tutmak için kullanılan uzun kıskaç (4 harf) [B478-S5]",
+      "answer": "MAŞA"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 3,
+      "col": 3,
+      "length": 4,
+      "clue": "Yürürken bir ayağın diğerinin önüne atılmasıyla alınan kısa mesafe (4 harf) [B478-S6]",
+      "answer": "ADIM"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 3,
+      "col": 9,
+      "length": 3,
+      "clue": "Havada uçuşan ya da yüzeyde biriken, çok küçük katı parçacıklar (3 harf) [B478-S7]",
+      "answer": "TOZ"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 4,
+      "col": 3,
+      "length": 5,
+      "clue": "Ani ve sert bir hareketle yapılan vuruş; çarpma sonucu alınan sarsıntı (5 harf) [B478-S8]",
+      "answer": "DARBE"
+    },
+    {
+      "number": 9,
+      "direction": "down",
+      "row": 4,
+      "col": 6,
+      "length": 3,
+      "clue": "Arıların çiçeklerden topladığı nektarı işleyerek yaptığı koyu, tatlı gıda (3 harf) [B478-S9]",
+      "answer": "BAL"
+    }
+  ]
+}

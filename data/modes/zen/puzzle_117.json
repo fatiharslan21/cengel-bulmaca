@@ -1,0 +1,221 @@
+{
+  "id": 117,
+  "title": "Bölüm 117",
+  "difficulty": "Orta",
+  "grid_size_r": 10,
+  "grid_size_c": 10,
+  "grid": [
+    [
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "across",
+      "row": 0,
+      "col": 1,
+      "length": 3,
+      "clue": "Kişinin yasal olarak sahip olduğu; alması ya da yapması gereken şey (3 harf) [B239-S1]",
+      "answer": "HAK"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "length": 4,
+      "clue": "Toprağın üstünde ya da altında bulunan, kolay parçalanmayan büyük taş (4 harf) [B239-S2]",
+      "answer": "KAYA"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 1,
+      "col": 3,
+      "length": 4,
+      "clue": "Bir işin başında konulan, ulaşılmak istenen hedef ya da gaye (4 harf) [B239-S3]",
+      "answer": "AMAÇ"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 1,
+      "col": 5,
+      "length": 4,
+      "clue": "Sahte ya da taklit olmayan; bir şeyin gerçek ve temel olan hali (4 harf) [B239-S4]",
+      "answer": "ASIL"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "length": 4,
+      "clue": "Uykuda iken zihnin sahneler halinde canlandırdığı renkli görüntüler (4 harf) [B239-S5]",
+      "answer": "RÜYA"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 3,
+      "col": 7,
+      "length": 4,
+      "clue": "İçine çiçek konulmak üzere yapılmış, ince uzun boyunlu süs kabı (4 harf) [B239-S6]",
+      "answer": "VAZO"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 4,
+      "col": 4,
+      "length": 4,
+      "clue": "Kabuğu kırmızı, sarı ya da yeşil olabilen, sulu ve çıtır meyve (4 harf) [B239-S7]",
+      "answer": "ELMA"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 6,
+      "col": 6,
+      "length": 4,
+      "clue": "Kötü günde de yanında olan, gönülden sevilen yakın arkadaş (4 harf) [B239-S8]",
+      "answer": "DOST"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 6,
+      "col": 6,
+      "length": 4,
+      "clue": "İnsanı üzen, iç sıkıntısı veren; uzun süre geçmeyen tasa ve keder (4 harf) [B239-S8]",
+      "answer": "DERT"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 8,
+      "col": 4,
+      "length": 4,
+      "clue": "İki şeyin birbirinden ayrıldığı yön; aralarındaki benzemezlik (4 harf) [B239-S9]",
+      "answer": "FARK"
+    }
+  ]
+}

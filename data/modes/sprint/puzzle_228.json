@@ -1,0 +1,233 @@
+{
+  "id": 228,
+  "title": "Bölüm 228",
+  "difficulty": "Çok Zor",
+  "grid_size_r": 11,
+  "grid_size_c": 10,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "length": 6,
+      "clue": "Herkesin duyup tanıdığı; adını çevresinin çok ötesine taşıyan ün (6 harf) [B475-S1]",
+      "answer": "ŞÖHRET"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 1,
+      "col": 7,
+      "length": 3,
+      "clue": "Dört bir yanı suyla çevrili, denizin ortasında kalmış toprak parçası (3 harf) [B475-S2]",
+      "answer": "ADA"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 3,
+      "col": 3,
+      "length": 5,
+      "clue": "Üzerinde buğday, arpa ya da sebze yetiştirilen sürülmüş geniş toprak (5 harf) [B475-S3]",
+      "answer": "TARLA"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 5,
+      "col": 2,
+      "length": 5,
+      "clue": "Dinleyeni güldüren ince espri; zarif bir ustalıkla söylenmiş söz (5 harf) [B475-S4]",
+      "answer": "NÜKTE"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 5,
+      "col": 4,
+      "length": 6,
+      "clue": "Elinde olanla yetinip daha fazlasını istememe; tokgözlülük hali (6 harf) [B475-S5]",
+      "answer": "KANAAT"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 5,
+      "col": 6,
+      "length": 4,
+      "clue": "Yapılan iyiliğin ya da çekilen sıkıntının karşılığı olarak verilen sevap (4 harf) [B475-S6]",
+      "answer": "ECİR"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 5,
+      "col": 8,
+      "length": 4,
+      "clue": "Güneşin batmasından doğmasına kadar süren karanlık zaman dilimi (4 harf) [B475-S7]",
+      "answer": "GECE"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "length": 5,
+      "clue": "Gemilerin yük boşalttığı, fırtınadan korunarak demirlediği deniz kıyısı (5 harf) [B475-S8]",
+      "answer": "LİMAN"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 7,
+      "col": 6,
+      "length": 4,
+      "clue": "Kalınlığı az olan; zarif ve narin yapıda bulunan; kalının karşıtı (4 harf) [B475-S9]",
+      "answer": "İNCE"
+    },
+    {
+      "number": 10,
+      "direction": "across",
+      "row": 9,
+      "col": 1,
+      "length": 5,
+      "clue": "Güneş doğmadan önce ufukta beliren kızıllık; günün en erken aydınlığı (5 harf) [B475-S10]",
+      "answer": "ŞAFAK"
+    }
+  ]
+}

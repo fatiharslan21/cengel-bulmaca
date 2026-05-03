@@ -1,0 +1,231 @@
+{
+  "id": 238,
+  "title": "Bölüm 238",
+  "difficulty": "Çok Zor",
+  "grid_size_r": 10,
+  "grid_size_c": 11,
+  "grid": [
+    [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 0,
+      "length": 4,
+      "clue": "Bir kimsenin doğup büyüdüğü vatanı; ait olduğu aziz memleket (4 harf) [B485-S1]",
+      "answer": "YURT"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 1,
+      "col": 2,
+      "length": 5,
+      "clue": "İç sıkıntısının olmadığı, gönlün rahat ettiği dingin ruh hali (5 harf) [B485-S2]",
+      "answer": "HUZUR"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 1,
+      "col": 4,
+      "length": 6,
+      "clue": "Elinde olanla yetinip daha fazlasını istememe; tokgözlülük hali (6 harf) [B485-S3]",
+      "answer": "KANAAT"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 2,
+      "col": 2,
+      "length": 4,
+      "clue": "Kanatları sayesinde havalanıp gökyüzünde uçan motorlu büyük taşıt (4 harf) [B485-S4]",
+      "answer": "UÇAK"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "length": 3,
+      "clue": "Denizden ya da yer altından çıkarılan; yemeklere tat veren beyaz tane (3 harf) [B485-S5]",
+      "answer": "TUZ"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 4,
+      "col": 4,
+      "length": 4,
+      "clue": "Belirli bir yönde hareket eden elektrik yükü ya da suyun sürüklenişi (4 harf) [B485-S6]",
+      "answer": "AKIM"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 5,
+      "col": 8,
+      "length": 5,
+      "clue": "Göze ve gönle hoş gelen, nazik ve yumuşak huylu; incelikli olan (5 harf) [B485-S7]",
+      "answer": "LATİF"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 5,
+      "col": 10,
+      "length": 4,
+      "clue": "Bir ailenin oturduğu ev; aynı zamanda sayıdaki basamak anlamı taşır (4 harf) [B485-S8]",
+      "answer": "HANE"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 6,
+      "col": 4,
+      "length": 5,
+      "clue": "İnsanın pek rastlanmadığı, sessiz ve ıssız kalmış mekân (5 harf) [B485-S9]",
+      "answer": "TENHA"
+    },
+    {
+      "number": 10,
+      "direction": "across",
+      "row": 8,
+      "col": 7,
+      "length": 4,
+      "clue": "Birini aldatmak için yapılan gizli düzen; dolap çevirme (4 harf) [B485-S10]",
+      "answer": "HİLE"
+    }
+  ]
+}

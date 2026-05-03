@@ -1,0 +1,244 @@
+{
+  "id": 222,
+  "title": "Bölüm 222",
+  "difficulty": "Zor",
+  "grid_size_r": 11,
+  "grid_size_c": 11,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "length": 6,
+      "clue": "Yakalı, düğmeli ve kollu olan, üstten giyilen ince kumaş giysi (6 harf) [B344-S1]",
+      "answer": "GÖMLEK"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 1,
+      "col": 6,
+      "length": 4,
+      "clue": "Bir eşyanın ya da yüzeyin üstünü kapatmak için serilen kumaş parçası (4 harf) [B344-S2]",
+      "answer": "ÖRTÜ"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "length": 3,
+      "clue": "Elin iç tarafı; parmakların bittiği yerden bileğe kadar uzanan bölüm (3 harf) [B344-S3]",
+      "answer": "AYA"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 3,
+      "col": 8,
+      "length": 4,
+      "clue": "Birini aldatmak için yapılan gizli düzen; dolap çevirme (4 harf) [B344-S4]",
+      "answer": "HİLE"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 4,
+      "col": 3,
+      "length": 5,
+      "clue": "Alçakgönüllülükle yapılan yalvarış; Tanrı'dan dilenen istek (5 harf) [B344-S5]",
+      "answer": "NİYAZ"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 4,
+      "col": 3,
+      "length": 4,
+      "clue": "Serinletici kokusuyla tanınan, çaya ve yemeklere katılan yeşil yapraklı ot (4 harf) [B344-S5]",
+      "answer": "NANE"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 5,
+      "col": 6,
+      "length": 5,
+      "clue": "Ağızdan çıkan söz; düşüncenin dille ifade bulmuş hali (5 harf) [B344-S6]",
+      "answer": "KELAM"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 6,
+      "col": 3,
+      "length": 3,
+      "clue": "Bitkilerden ya da hayvanlardan elde edilen; suda çözünmeyen kaygan madde (3 harf) [B344-S7]",
+      "answer": "YAĞ"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 7,
+      "col": 1,
+      "length": 4,
+      "clue": "Boyu kısa, dalları sık ve odunsu olan, çok dallı bodur bitki (4 harf) [B344-S8]",
+      "answer": "ÇALI"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "length": 4,
+      "clue": "Dinde kesinlikle yerine getirilmesi emredilen, zorunlu olan yükümlülük (4 harf) [B344-S9]",
+      "answer": "FARZ"
+    }
+  ]
+}

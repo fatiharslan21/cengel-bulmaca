@@ -1,0 +1,200 @@
+{
+  "id": 407,
+  "title": "Bölüm 407",
+  "difficulty": "Orta",
+  "grid_size_r": 11,
+  "grid_size_c": 7,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "length": 4,
+      "clue": "Bir sanatçının ya da yazarın ortaya koyduğu özgün yapıt (4 harf) [B151-S1]",
+      "answer": "ESER"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 1,
+      "col": 2,
+      "length": 6,
+      "clue": "Bir merkezden eşit uzaklıktaki noktaların oluşturduğu kapalı eğri (6 harf) [B151-S2]",
+      "answer": "ÇEMBER"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 3,
+      "col": 1,
+      "length": 4,
+      "clue": "Bir canlının doğumundan ölümüne kadar geçen toplam yaşam süresi (4 harf) [B151-S3]",
+      "answer": "ÖMÜR"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 5,
+      "col": 4,
+      "length": 3,
+      "clue": "Bitkinin çiçek ya da yaprağını gövdeye bağlayan uzun ve ince bölüm (3 harf) [B151-S4]",
+      "answer": "SAP"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 5,
+      "col": 5,
+      "length": 3,
+      "clue": "Halk ağzında yakışıklı, gösterişli kimse için kullanılan eski bir sözcük (3 harf) [B151-S5]",
+      "answer": "AFİ"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "length": 4,
+      "clue": "Anadolu ve çevresinde yaşayan, Orta Asya kökenli büyük millet (4 harf) [B151-S6]",
+      "answer": "TÜRK"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 6,
+      "col": 3,
+      "length": 3,
+      "clue": "Çanak çömlek yapımında kullanılan, suyla yumuşayan yapışkan toprak (3 harf) [B151-S7]",
+      "answer": "KİL"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 7,
+      "col": 3,
+      "length": 3,
+      "clue": "Hoşa giden, yararlı ve olumlu olan; kötünün tam karşıtı olan nitelik (3 harf) [B151-S8]",
+      "answer": "İYİ"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 8,
+      "col": 1,
+      "length": 3,
+      "clue": "Arıların çiçeklerden topladığı nektarı işleyerek yaptığı koyu, tatlı gıda (3 harf) [B151-S9]",
+      "answer": "BAL"
+    },
+    {
+      "number": 10,
+      "direction": "down",
+      "row": 8,
+      "col": 2,
+      "length": 3,
+      "clue": "Bir hastalığa karşı bağışıklık kazandırmak için vücuda verilen ilaç (3 harf) [B151-S10]",
+      "answer": "AŞI"
+    }
+  ]
+}

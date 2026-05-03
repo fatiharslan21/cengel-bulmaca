@@ -1,0 +1,169 @@
+{
+  "id": 381,
+  "title": "Bölüm 381",
+  "difficulty": "Kolay",
+  "grid_size_r": 11,
+  "grid_size_c": 5,
+  "grid": [
+    [
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      1,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "length": 4,
+      "clue": "Kuşların yumurtladığı ağaç dalındaki çöpten örülmüş küçük barınak (4 harf) [B3-S1]",
+      "answer": "YUVA"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 1,
+      "col": 1,
+      "length": 4,
+      "clue": "Aradaki mesafenin çok olduğu; yakınlığı hissedilmeyen ötelerdeki yer (4 harf) [B3-S2]",
+      "answer": "UZAK"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "length": 4,
+      "clue": "İnsana gülen talih; iyi bir sonucun tesadüfen kısmet olması hali (4 harf) [B3-S3]",
+      "answer": "ŞANS"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 3,
+      "col": 3,
+      "length": 4,
+      "clue": "İçerisi camla kaplı; mevsim dışında bile bitki yetiştirilen ısıtılmış yapı (4 harf) [B3-S4]",
+      "answer": "SERA"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 5,
+      "col": 1,
+      "length": 4,
+      "clue": "Bir yüzeye sürüldüğünde ona istenilen rengi veren sıvı ya da toz madde (4 harf) [B3-S5]",
+      "answer": "BOYA"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 6,
+      "col": 1,
+      "length": 3,
+      "clue": "Bir evin ya da binanın duvarlarla ayrılmış, belirli amaçla kullanılan bölümü (3 harf) [B3-S6]",
+      "answer": "ODA"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "length": 4,
+      "clue": "İnce mukavvadan yapılmış, üzerine yazı yazılan ya da baskı yapılan levha (4 harf) [B3-S7]",
+      "answer": "KART"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 8,
+      "col": 0,
+      "length": 3,
+      "clue": "Alevi sönmüş ama sıcaklığı ve kızıllığı süren yanmakta olan parça (3 harf) [B3-S7]",
+      "answer": "KOR"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 8,
+      "col": 2,
+      "length": 3,
+      "clue": "İnsanın bedenine hayat veren, duygularının ve düşüncelerinin kaynağı manevi öz (3 harf) [B3-S8]",
+      "answer": "RUH"
+    }
+  ]
+}

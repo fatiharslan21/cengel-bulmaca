@@ -1,0 +1,218 @@
+{
+  "id": 228,
+  "title": "Bölüm 228",
+  "difficulty": "Zor",
+  "grid_size_r": 9,
+  "grid_size_c": 11,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "length": 4,
+      "clue": "Gönle çöken derin üzüntü, insanı içten içe yiyen keder (4 harf) [B350-S1]",
+      "answer": "ELEM"
+    },
+    {
+      "number": 1,
+      "direction": "across",
+      "row": 0,
+      "col": 5,
+      "length": 4,
+      "clue": "Uzun kulaklı, sabırlı; köylerde yük taşımada kullanılan küçük binek hayvanı (4 harf) [B350-S1]",
+      "answer": "EŞEK"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 1,
+      "col": 3,
+      "length": 3,
+      "clue": "Göğüs kafesi ile kalçalar arasında kalan, vücudun orta kısmı (3 harf) [B350-S2]",
+      "answer": "BEL"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 1,
+      "col": 3,
+      "length": 3,
+      "clue": "Yeteri kadarının üstünde, çokça bulunan; dar sözcüğünün zıttı sayılan (3 harf) [B350-S2]",
+      "answer": "BOL"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 2,
+      "col": 8,
+      "length": 6,
+      "clue": "Bir dairenin ya da bir alanın tam ortasında bulunan ana nokta (6 harf) [B350-S3]",
+      "answer": "MERKEZ"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "length": 4,
+      "clue": "Bir işin belirli kurallar içinde yapılmasını sağlayan yol; yöntem (4 harf) [B350-S4]",
+      "answer": "USUL"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 3,
+      "col": 5,
+      "length": 5,
+      "clue": "Kaybedilen bir yakının ardından tutulan koyu yas; siyahlar giyme hali (5 harf) [B350-S5]",
+      "answer": "MATEM"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 5,
+      "col": 6,
+      "length": 4,
+      "clue": "Burnumuzla algıladığımız, havada yayılan hoş ya da keskin tanecikler (4 harf) [B350-S6]",
+      "answer": "KOKU"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 5,
+      "col": 6,
+      "length": 4,
+      "clue": "Çevresindeki yapılardan çok daha yüksek olan, dar ve uzun yapı (4 harf) [B350-S6]",
+      "answer": "KULE"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 7,
+      "col": 8,
+      "length": 3,
+      "clue": "Üzerinde nokta bulunan, oyunlarda atılan altı yüzlü küçük küp (3 harf) [B350-S7]",
+      "answer": "ZAR"
+    }
+  ]
+}

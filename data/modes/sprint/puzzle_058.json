@@ -1,0 +1,233 @@
+{
+  "id": 58,
+  "title": "Bölüm 58",
+  "difficulty": "Zor",
+  "grid_size_r": 11,
+  "grid_size_c": 10,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "across",
+      "row": 0,
+      "col": 4,
+      "length": 4,
+      "clue": "Kulpundan tutularak su ya da başka sıvı taşınan derin silindirik kap (4 harf) [B305-S1]",
+      "answer": "KOVA"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "length": 3,
+      "clue": "İğne ya da tığla işlenen, başörtüsü kenarını süsleyen ince el işi (3 harf) [B305-S2]",
+      "answer": "OYA"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "length": 4,
+      "clue": "Bir evin ya da iş yerinin kullanımı için sahibine ödenen aylık ücret (4 harf) [B305-S3]",
+      "answer": "KIRA"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 1,
+      "col": 0,
+      "length": 5,
+      "clue": "Bir yüzeyin ya da nesnenin dış sınırını oluşturan uç bölüm (5 harf) [B305-S3]",
+      "answer": "KENAR"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 1,
+      "col": 3,
+      "length": 3,
+      "clue": "Bir şeye bağlı bulunma; onunla ilgili ya da onun sahipliğinde olma (3 harf) [B305-S4]",
+      "answer": "AİT"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 2,
+      "col": 3,
+      "length": 4,
+      "clue": "Anlaşılmayan bir konuyu açık bir dille anlatma; aydınlatıcı açıklama (4 harf) [B305-S5]",
+      "answer": "İZAH"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 2,
+      "col": 6,
+      "length": 6,
+      "clue": "Başı, ortası ve sonu olan; yaşanmış ya da kurmaca kısa anlatı (6 harf) [B305-S6]",
+      "answer": "HİKAYE"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 5,
+      "col": 6,
+      "length": 3,
+      "clue": "Bir üstün ya da yetkilinin önüne saygıyla sunma, takdim etme eylemi (3 harf) [B305-S7]",
+      "answer": "ARZ"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 7,
+      "col": 6,
+      "length": 4,
+      "clue": "Bir sanatçının ya da yazarın ortaya koyduğu özgün yapıt (4 harf) [B305-S8]",
+      "answer": "ESER"
+    },
+    {
+      "number": 9,
+      "direction": "down",
+      "row": 7,
+      "col": 8,
+      "length": 4,
+      "clue": "Kavuşulması için yıllarca beklenen, gönülde taşınan büyük istek (4 harf) [B305-S9]",
+      "answer": "EMEL"
+    }
+  ]
+}

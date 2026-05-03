@@ -1,0 +1,197 @@
+{
+  "id": 214,
+  "title": "Bölüm 214",
+  "difficulty": "Zor",
+  "grid_size_r": 12,
+  "grid_size_c": 6,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "length": 5,
+      "clue": "Pencereyi örtmek için asılan, ışığı ve dışarıdan görünmeyi engelleyen kumaş (5 harf) [B336-S1]",
+      "answer": "PERDE"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "length": 4,
+      "clue": "Aradaki mesafenin çok olduğu; yakınlığı hissedilmeyen ötelerdeki yer (4 harf) [B336-S2]",
+      "answer": "UZAK"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 2,
+      "col": 3,
+      "length": 4,
+      "clue": "Bir yüzeye sürüldüğünde ona istenilen rengi veren sıvı ya da toz madde (4 harf) [B336-S3]",
+      "answer": "BOYA"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 2,
+      "col": 3,
+      "length": 3,
+      "clue": "Sayıların başlangıcı olan, tek adedi gösteren ilk doğal rakam (3 harf) [B336-S3]",
+      "answer": "BİR"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "length": 5,
+      "clue": "Hayatta yükselme, talih kuşunun başa konması; mevki sahibi olma (5 harf) [B336-S4]",
+      "answer": "İKBAL"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 5,
+      "col": 4,
+      "length": 4,
+      "clue": "Türkiye Cumhuriyeti'nin resmi para birimi; TL kısaltmasıyla yazılan değer (4 harf) [B336-S5]",
+      "answer": "LİRA"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 7,
+      "col": 1,
+      "length": 5,
+      "clue": "İnsana sadakatiyle bilinen, havlayarak seslenen evcil dört ayaklı (5 harf) [B336-S6]",
+      "answer": "KÖPEK"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 7,
+      "col": 1,
+      "length": 5,
+      "clue": "Bir nehrin ya da vadinin iki yakasını birbirine bağlayan geçit yapısı (5 harf) [B336-S6]",
+      "answer": "KÖPRÜ"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 9,
+      "col": 3,
+      "length": 3,
+      "clue": "Bir kimsenin ya da şeyin bulunduğu durum, vaziyet ya da keyif (3 harf) [B336-S7]",
+      "answer": "HAL"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 10,
+      "col": 0,
+      "length": 5,
+      "clue": "Bilinmeyen bir şeyi öğrenmek için insanın içine düşen güçlü istek (5 harf) [B336-S8]",
+      "answer": "MERAK"
+    }
+  ]
+}

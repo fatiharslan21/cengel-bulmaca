@@ -1,0 +1,173 @@
+{
+  "id": 317,
+  "title": "Bölüm 317",
+  "difficulty": "Kolay",
+  "grid_size_r": 9,
+  "grid_size_c": 7,
+  "grid": [
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "across",
+      "row": 0,
+      "col": 1,
+      "length": 5,
+      "clue": "Cilde sürülüp suyla köpürtülerek kirleri temizleyen, kalıp ya da sıvı madde (5 harf) [B61-S1]",
+      "answer": "SABUN"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "length": 4,
+      "clue": "Müzik eserlerinde seslerin yükseklik ve uzunluğunu gösteren küçük simge (4 harf) [B61-S2]",
+      "answer": "NOTA"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 3,
+      "col": 4,
+      "length": 5,
+      "clue": "Kıtaları birbirinden ayıran, tuzlu sulardan oluşan uçsuz bucaksız kütle (5 harf) [B61-S3]",
+      "answer": "DENİZ"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 3,
+      "col": 4,
+      "length": 3,
+      "clue": "Genişliği yetersiz olan, sıkıştıran; geniş sözcüğünün karşıtı sıfat (3 harf) [B61-S3]",
+      "answer": "DAR"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 4,
+      "col": 0,
+      "length": 5,
+      "clue": "Mutfağa giren, bitki kökleri ve yapraklarından oluşan yenilebilir besin (5 harf) [B61-S4]",
+      "answer": "SEBZE"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 4,
+      "col": 2,
+      "length": 3,
+      "clue": "Kimyada asitle tepkimeye girerek tuz oluşturan, karşıt özellikli madde (3 harf) [B61-S5]",
+      "answer": "BAZ"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 5,
+      "col": 2,
+      "length": 4,
+      "clue": "Karşısına geçenin görüntüsünü aynen yansıtan sırlanmış cam yüzey (4 harf) [B61-S6]",
+      "answer": "AYNA"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "length": 3,
+      "clue": "Silmek, temizlemek ya da örtmek için kullanılan dokuma kumaş parçası (3 harf) [B61-S7]",
+      "answer": "BEZ"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "length": 4,
+      "clue": "Evde ya da iş yerinde gündelik hayatta kullanılan nesnelerin tümü (4 harf) [B61-S8]",
+      "answer": "EŞYA"
+    }
+  ]
+}

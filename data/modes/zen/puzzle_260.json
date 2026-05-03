@@ -1,0 +1,231 @@
+{
+  "id": 260,
+  "title": "Bölüm 260",
+  "difficulty": "Çok Zor",
+  "grid_size_r": 10,
+  "grid_size_c": 11,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "length": 5,
+      "clue": "İçine giysi, kap kacak ya da eşya konulan, kapaklı büyük mobilya (5 harf) [B382-S1]",
+      "answer": "DOLAP"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 1,
+      "col": 2,
+      "length": 5,
+      "clue": "Bir şeyin eksiksiz, kusursuz ve en üst düzeyde olgunlaşmış hali (5 harf) [B382-S2]",
+      "answer": "KEMAL"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 1,
+      "col": 7,
+      "length": 5,
+      "clue": "Ortak bir malın ya da işin her birine düşen pay; nasip (5 harf) [B382-S3]",
+      "answer": "HİSSE"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 2,
+      "col": 1,
+      "length": 7,
+      "clue": "Gizli kalmış bir şeyin zamanı gelince gözle görünür olması; belirme (7 harf) [B382-S4]",
+      "answer": "TECELLİ"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 3,
+      "col": 0,
+      "length": 4,
+      "clue": "Bir kesik ya da darbe sonucu bedende oluşan açık doku hasarı (4 harf) [B382-S5]",
+      "answer": "YARA"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 3,
+      "col": 9,
+      "length": 4,
+      "clue": "Gönle çöken derin üzüntü, insanı içten içe yiyen keder (4 harf) [B382-S6]",
+      "answer": "ELEM"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "length": 4,
+      "clue": "Üzerinde yapı bulunmayan, belli sınırlarla çevrili geniş açık düzlük (4 harf) [B382-S7]",
+      "answer": "ALAN"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 5,
+      "col": 6,
+      "length": 5,
+      "clue": "İnsanın içini burkan, uzun süre geçmeyen derin üzüntü hali (5 harf) [B382-S8]",
+      "answer": "KEDER"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 5,
+      "col": 6,
+      "length": 5,
+      "clue": "İnsanın başına geleceği önceden yazıldığına inanılan alın yazısı (5 harf) [B382-S8]",
+      "answer": "KADER"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "length": 7,
+      "clue": "Doktorların çalıştığı, hastaların tedavi edildiği büyük sağlık kurumu (7 harf) [B382-S9]",
+      "answer": "HASTANE"
+    }
+  ]
+}

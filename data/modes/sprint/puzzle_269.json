@@ -1,0 +1,183 @@
+{
+  "id": 269,
+  "title": "Bölüm 269",
+  "difficulty": "Kolay",
+  "grid_size_r": 7,
+  "grid_size_c": 11,
+  "grid": [
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "length": 5,
+      "clue": "Sayılarla yapılan dört işlem; gelir ve giderin tutulduğu kayıt (5 harf) [B15-S1]",
+      "answer": "HESAP"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 1,
+      "col": 10,
+      "length": 3,
+      "clue": "Suyun sıfır derecenin altına inerek katılaşmasıyla meydana gelen madde (3 harf) [B15-S2]",
+      "answer": "BUZ"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 2,
+      "col": 2,
+      "length": 3,
+      "clue": "İnek, keçi gibi memelilerden sağılan; beyaz renkli besleyici temel içecek (3 harf) [B15-S3]",
+      "answer": "SÜT"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "length": 4,
+      "clue": "Dağdan daha alçak, çevresine göre yüksek görünen küçük yükselti (4 harf) [B15-S4]",
+      "answer": "TEPE"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "length": 3,
+      "clue": "İğne ya da tığla işlenen, başörtüsü kenarını süsleyen ince el işi (3 harf) [B15-S5]",
+      "answer": "OYA"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 3,
+      "col": 8,
+      "length": 3,
+      "clue": "Belli bir şekli ve hacmi olmayan, her yöne yayılabilen madde hali (3 harf) [B15-S6]",
+      "answer": "GAZ"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 3,
+      "col": 8,
+      "length": 3,
+      "clue": "Yüzümüzde çift olarak bulunan, etrafımızı görmemizi sağlayan duyu organı (3 harf) [B15-S6]",
+      "answer": "GÖZ"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 4,
+      "col": 4,
+      "length": 5,
+      "clue": "Mektup ve paketlerin toplanıp yerine ulaştırıldığı geleneksel iletişim hizmeti (5 harf) [B15-S7]",
+      "answer": "POSTA"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 4,
+      "col": 6,
+      "length": 3,
+      "clue": "Başımızın derisinde biten, her birinin kökten uzayan ince tel kıl (3 harf) [B15-S8]",
+      "answer": "SAÇ"
+    }
+  ]
+}

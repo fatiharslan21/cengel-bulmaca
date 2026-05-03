@@ -1,0 +1,233 @@
+{
+  "id": 97,
+  "title": "Bölüm 97",
+  "difficulty": "Orta",
+  "grid_size_r": 12,
+  "grid_size_c": 9,
+  "grid": [
+    [
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "across",
+      "row": 0,
+      "col": 1,
+      "length": 3,
+      "clue": "Havanın ısısının düşmesiyle suların yüzeyde buz tutması olayı (3 harf) [B219-S1]",
+      "answer": "DON"
+    },
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "length": 4,
+      "clue": "Sırtında hörgücü bulunan, çölde uzun süre susuzluğa dayanabilen büyük hayvan (4 harf) [B219-S1]",
+      "answer": "DEVE"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 2,
+      "col": 3,
+      "length": 6,
+      "clue": "Başı, ortası ve sonu olan; yaşanmış ya da kurmaca kısa anlatı (6 harf) [B219-S2]",
+      "answer": "HİKAYE"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 3,
+      "col": 1,
+      "length": 4,
+      "clue": "Yetkili bir kimsenin yerine getirilmek üzere verdiği kesin buyruk (4 harf) [B219-S3]",
+      "answer": "EMİR"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 4,
+      "col": 0,
+      "length": 3,
+      "clue": "Bir işin ya da sürecin bittiği nokta; final ve kapanış anı (3 harf) [B219-S4]",
+      "answer": "SON"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "length": 5,
+      "clue": "Vücudun belirli bir işlevi yerine getiren, dokulardan oluşmuş bölümü (5 harf) [B219-S5]",
+      "answer": "ORGAN"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 5,
+      "col": 6,
+      "length": 4,
+      "clue": "Kozadan elde edilen, parlak dokulu ve dayanıklı, değerli kumaş lifi (4 harf) [B219-S6]",
+      "answer": "İPEK"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 7,
+      "col": 3,
+      "length": 5,
+      "clue": "Undan mayalanıp fırında pişirilerek yapılan, sofranın temel besini (5 harf) [B219-S7]",
+      "answer": "EKMEK"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 7,
+      "col": 4,
+      "length": 5,
+      "clue": "Bir yüzeyin ya da nesnenin dış sınırını oluşturan uç bölüm (5 harf) [B219-S8]",
+      "answer": "KENAR"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 10,
+      "col": 3,
+      "length": 6,
+      "clue": "Ağacın dalından sarkan, fotosentez yapıp havaya oksijen veren yeşil organ (6 harf) [B219-S9]",
+      "answer": "YAPRAK"
+    }
+  ]
+}

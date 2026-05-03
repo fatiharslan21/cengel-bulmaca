@@ -1,0 +1,221 @@
+{
+  "id": 61,
+  "title": "Bölüm 61",
+  "difficulty": "Zor",
+  "grid_size_r": 10,
+  "grid_size_c": 10,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "length": 6,
+      "clue": "Bir işi başarmak için katlanılan güçlük; çekilen eziyet (6 harf) [B308-S1]",
+      "answer": "ZAHMET"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 1,
+      "col": 3,
+      "length": 3,
+      "clue": "Derin ve dik uçurum; aynı zamanda sevilen kişi için kullanılan şiirsel ad (3 harf) [B308-S2]",
+      "answer": "YAR"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 3,
+      "col": 2,
+      "length": 5,
+      "clue": "Bir yapının ayakta durmasını sağlayan, toprağa gömülü olan ilk bölümü (5 harf) [B308-S3]",
+      "answer": "TEMEL"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 3,
+      "col": 6,
+      "length": 5,
+      "clue": "Gemilerin yük boşalttığı, fırtınadan korunarak demirlediği deniz kıyısı (5 harf) [B308-S4]",
+      "answer": "LİMAN"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 4,
+      "col": 9,
+      "length": 5,
+      "clue": "İçindeki ampulle çalışan, karanlık odayı aydınlatan elektrikli araç (5 harf) [B308-S5]",
+      "answer": "LAMBA"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 5,
+      "col": 1,
+      "length": 4,
+      "clue": "Nüfusu kalabalık, altyapısı gelişmiş, şehir niteliğindeki yerleşim yeri (4 harf) [B308-S6]",
+      "answer": "KENT"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 5,
+      "col": 3,
+      "length": 5,
+      "clue": "Bir şeyin bir yerden başka bir yere taşınması; aktarma işlemi (5 harf) [B308-S7]",
+      "answer": "NAKİL"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 6,
+      "col": 5,
+      "length": 5,
+      "clue": "Sonu kötü olabilecek; durumun ne kadar ağır olduğunu gösteren sıfat (5 harf) [B308-S8]",
+      "answer": "VAHİM"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "length": 4,
+      "clue": "İçten doğan büyük istek; insanı coşturan şiddetli arzu ve heves (4 harf) [B308-S9]",
+      "answer": "ŞEVK"
+    },
+    {
+      "number": 10,
+      "direction": "across",
+      "row": 9,
+      "col": 1,
+      "length": 5,
+      "clue": "Bir kimsenin bir şey için yaptığı istek; dile getirilen açık dilek (5 harf) [B308-S10]",
+      "answer": "TALEP"
+    }
+  ]
+}

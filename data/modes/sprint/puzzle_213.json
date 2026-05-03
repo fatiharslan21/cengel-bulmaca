@@ -1,0 +1,231 @@
+{
+  "id": 213,
+  "title": "Bölüm 213",
+  "difficulty": "Çok Zor",
+  "grid_size_r": 10,
+  "grid_size_c": 11,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "length": 4,
+      "clue": "İki şeyin birbirinden ayrıldığı yön; aralarındaki benzemezlik (4 harf) [B460-S1]",
+      "answer": "FARK"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 1,
+      "col": 7,
+      "length": 4,
+      "clue": "Bundan başka, farklı; bir şeyin dışında kalan diğer kısım (4 harf) [B460-S2]",
+      "answer": "GAYR"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 2,
+      "col": 3,
+      "length": 4,
+      "clue": "İlerinin zıttı; arkaya ya da başlangıca doğru olan yön (4 harf) [B460-S3]",
+      "answer": "GERİ"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 2,
+      "col": 6,
+      "length": 5,
+      "clue": "Ölünün toprağa verildiği, başında taş bulunan defin yeri; kabir (5 harf) [B460-S4]",
+      "answer": "MEZAR"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "length": 4,
+      "clue": "Çorba, salata ya da yoğurt konulan, yuvarlak ve çukur küçük yemek kabı (4 harf) [B460-S5]",
+      "answer": "KASE"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 3,
+      "col": 5,
+      "length": 4,
+      "clue": "İçten doğan büyük istek; insanı coşturan şiddetli arzu ve heves (4 harf) [B460-S6]",
+      "answer": "ŞEVK"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 5,
+      "col": 2,
+      "length": 6,
+      "clue": "Sevgiliden uzak düşmenin yürekte açtığı derin ayrılık acısı (6 harf) [B460-S7]",
+      "answer": "HİCRAN"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 5,
+      "col": 2,
+      "length": 5,
+      "clue": "Uygunsuz bir durumda duyulan utanç; insanın yüzünü gizleme isteği (5 harf) [B460-S7]",
+      "answer": "HİCAP"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 7,
+      "col": 1,
+      "length": 4,
+      "clue": "Yapılan iyiliğin ya da çekilen sıkıntının karşılığı olarak verilen sevap (4 harf) [B460-S8]",
+      "answer": "ECİR"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 9,
+      "col": 0,
+      "length": 4,
+      "clue": "Dağdan daha alçak, çevresine göre yüksek görünen küçük yükselti (4 harf) [B460-S9]",
+      "answer": "TEPE"
+    }
+  ]
+}

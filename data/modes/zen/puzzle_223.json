@@ -1,0 +1,213 @@
+{
+  "id": 223,
+  "title": "Bölüm 223",
+  "difficulty": "Zor",
+  "grid_size_r": 8,
+  "grid_size_c": 12,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "length": 4,
+      "clue": "Bir kimseyle ayrılırken söylenen son söz; ayrılık selamı (4 harf) [B345-S1]",
+      "answer": "VEDA"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "length": 6,
+      "clue": "Dinde kıyamet sonrası ölülerin toplanacağına inanılan büyük buluşma yeri (6 harf) [B345-S2]",
+      "answer": "MAHŞER"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 1,
+      "col": 1,
+      "length": 4,
+      "clue": "Yürürken bir ayağın diğerinin önüne atılmasıyla alınan kısa mesafe (4 harf) [B345-S3]",
+      "answer": "ADIM"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 3,
+      "col": 3,
+      "length": 4,
+      "clue": "Bir kurala, şahsa ya da düzene bağlı olan; ona uymak durumunda kalan (4 harf) [B345-S4]",
+      "answer": "TABİ"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 3,
+      "col": 6,
+      "length": 5,
+      "clue": "Bir şeyin anlamını kavrama; olup biteni zihinde anlamlandırma yeteneği (5 harf) [B345-S5]",
+      "answer": "İDRAK"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 3,
+      "col": 9,
+      "length": 4,
+      "clue": "Limon ve altın tonlarında olan, güneşi çağrıştıran canlı sıcak renk (4 harf) [B345-S6]",
+      "answer": "SARI"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 4,
+      "col": 8,
+      "length": 4,
+      "clue": "İki şeyin birbirinden ayrıldığı yön; aralarındaki benzemezlik (4 harf) [B345-S7]",
+      "answer": "FARK"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 4,
+      "col": 11,
+      "length": 3,
+      "clue": "Bir şeyin yanıp bitmesinin ardından geriye kalan kurumuş toz madde (3 harf) [B345-S8]",
+      "answer": "KÜL"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 5,
+      "col": 4,
+      "length": 3,
+      "clue": "Üzerinde durduğumuz zemin; bir olayın geçtiği konum (3 harf) [B345-S9]",
+      "answer": "YER"
+    },
+    {
+      "number": 10,
+      "direction": "across",
+      "row": 6,
+      "col": 6,
+      "length": 4,
+      "clue": "Mutfakta yemek pişirmeyi meslek edinmiş, lezzetten anlayan kişi (4 harf) [B345-S10]",
+      "answer": "AŞÇI"
+    }
+  ]
+}

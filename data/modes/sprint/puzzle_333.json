@@ -1,0 +1,202 @@
+{
+  "id": 333,
+  "title": "Bölüm 333",
+  "difficulty": "Kolay",
+  "grid_size_r": 10,
+  "grid_size_c": 9,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "length": 5,
+      "clue": "Kolla eli birbirine bağlayan, küçük kemiklerden oluşan eklem bölgesi (5 harf) [B77-S1]",
+      "answer": "BİLEK"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 1,
+      "col": 4,
+      "length": 4,
+      "clue": "Mutfakta yemek pişirmeyi meslek edinmiş, lezzetten anlayan kişi (4 harf) [B77-S2]",
+      "answer": "AŞÇI"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 2,
+      "col": 2,
+      "length": 3,
+      "clue": "İçinde hiçbir şey bulunmayan, doluluğu olmayan kap ya da mekân (3 harf) [B77-S3]",
+      "answer": "BOŞ"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 2,
+      "col": 2,
+      "length": 5,
+      "clue": "Açıklamaya uyan yanıt (5 harf) [B77-S3]",
+      "answer": "BİLGİ"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 3,
+      "col": 4,
+      "length": 5,
+      "clue": "Bir alanın ya da cismin dört bir yanını saran dış sınır; etraf (5 harf) [B77-S4]",
+      "answer": "ÇEVRE"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "length": 3,
+      "clue": "İki yerleşim birimini birbirine bağlayan; üzerinde gidilen döşeli güzergâh (3 harf) [B77-S5]",
+      "answer": "YOL"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 6,
+      "col": 1,
+      "length": 4,
+      "clue": "Birbirinin eşi olan iki şeyden oluşan takım; tekin karşıtı sayı grubu (4 harf) [B77-S6]",
+      "answer": "ÇİFT"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 6,
+      "col": 4,
+      "length": 4,
+      "clue": "Raylar üzerinde hareket eden, vagonları çeken büyük motorlu araç (4 harf) [B77-S7]",
+      "answer": "TREN"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 9,
+      "col": 2,
+      "length": 3,
+      "clue": "Bir işin ya da sürecin bittiği nokta; final ve kapanış anı (3 harf) [B77-S8]",
+      "answer": "SON"
+    }
+  ]
+}

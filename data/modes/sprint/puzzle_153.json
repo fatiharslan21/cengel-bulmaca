@@ -1,0 +1,221 @@
+{
+  "id": 153,
+  "title": "Bölüm 153",
+  "difficulty": "Çok Zor",
+  "grid_size_r": 10,
+  "grid_size_c": 10,
+  "grid": [
+    [
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "across",
+      "row": 0,
+      "col": 1,
+      "length": 3,
+      "clue": "Olumsuzluğu pekiştiren söz; asla ve kesinlikle bulunmama durumu (3 harf) [B400-S1]",
+      "answer": "HİÇ"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "length": 6,
+      "clue": "Bir merkezden eşit uzaklıktaki noktaların oluşturduğu kapalı eğri (6 harf) [B400-S2]",
+      "answer": "ÇEMBER"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "length": 3,
+      "clue": "Soyun büyüklerinden sayılan dede ya da daha öncesinden gelen büyük (3 harf) [B400-S3]",
+      "answer": "ATA"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 2,
+      "col": 3,
+      "length": 5,
+      "clue": "Bir kimsenin toplumdaki yeri, konumu ya da makamı (5 harf) [B400-S4]",
+      "answer": "MEVKİ"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 2,
+      "col": 6,
+      "length": 4,
+      "clue": "İki duvarın ya da iki kenarın birleştiği noktada oluşan açılı yer (4 harf) [B400-S5]",
+      "answer": "KÖŞE"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "length": 4,
+      "clue": "Yeni toplanmış, bayatlamamış; canlılığını yeni yeni yitirmemiş olan (4 harf) [B400-S6]",
+      "answer": "TAZE"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 4,
+      "col": 8,
+      "length": 5,
+      "clue": "Kırıcı olmayan, incelikli davranışları olan; kibar ve görgülü kimse (5 harf) [B400-S7]",
+      "answer": "NAZİK"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 5,
+      "col": 5,
+      "length": 5,
+      "clue": "Bir işi ya da durumu ara vermeden sürdürme, aksatmadan götürme hali (5 harf) [B400-S8]",
+      "answer": "DEVAM"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 5,
+      "col": 5,
+      "length": 5,
+      "clue": "Ani ve sert bir hareketle yapılan vuruş; çarpma sonucu alınan sarsıntı (5 harf) [B400-S8]",
+      "answer": "DARBE"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 9,
+      "col": 2,
+      "length": 5,
+      "clue": "Ucundan mürekkep ya da grafit akıtarak kâğıda yazı yazmayı sağlayan araç (5 harf) [B400-S9]",
+      "answer": "KALEM"
+    }
+  ]
+}

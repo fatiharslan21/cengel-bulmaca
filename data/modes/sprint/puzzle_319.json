@@ -1,0 +1,209 @@
+{
+  "id": 319,
+  "title": "Bölüm 319",
+  "difficulty": "Kolay",
+  "grid_size_r": 9,
+  "grid_size_c": 11,
+  "grid": [
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "length": 4,
+      "clue": "Katlanabilen küçük bıçak; çoğunlukla cepte taşınan, sivri uçlu el aleti (4 harf) [B63-S1]",
+      "answer": "ÇAKI"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 1,
+      "col": 4,
+      "length": 5,
+      "clue": "Bir milletin üzerinde yaşayıp kendine yurt bildiği ata toprağı (5 harf) [B63-S2]",
+      "answer": "VATAN"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "length": 5,
+      "clue": "Bir cümlenin sonuna konan en küçük yazı işareti; konumun kendisi (5 harf) [B63-S3]",
+      "answer": "NOKTA"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 2,
+      "col": 6,
+      "length": 4,
+      "clue": "Yeni durumlara hızla uyum sağlayıp doğru kararlar verebilme yeteneği (4 harf) [B63-S4]",
+      "answer": "ZEKA"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 3,
+      "col": 9,
+      "length": 5,
+      "clue": "Bilinmeyen bir şeyi öğrenmek için insanın içine düşen güçlü istek (5 harf) [B63-S5]",
+      "answer": "MERAK"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 4,
+      "col": 6,
+      "length": 5,
+      "clue": "Ucundan mürekkep ya da grafit akıtarak kâğıda yazı yazmayı sağlayan araç (5 harf) [B63-S6]",
+      "answer": "KALEM"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 5,
+      "col": 2,
+      "length": 5,
+      "clue": "Üzerinde yaşadığımız, Güneş'in çevresinde dönen mavi yeşil gezegen (5 harf) [B63-S7]",
+      "answer": "DÜNYA"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 5,
+      "col": 2,
+      "length": 4,
+      "clue": "Sırtında hörgücü bulunan, çölde uzun süre susuzluğa dayanabilen büyük hayvan (4 harf) [B63-S7]",
+      "answer": "DEVE"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "length": 4,
+      "clue": "Atmosferi oluşturan, canlıların soluduğu renksiz ve kokusuz gaz karışımı (4 harf) [B63-S8]",
+      "answer": "HAVA"
+    }
+  ]
+}

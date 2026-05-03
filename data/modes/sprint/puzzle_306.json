@@ -1,0 +1,192 @@
+{
+  "id": 306,
+  "title": "Bölüm 306",
+  "difficulty": "Kolay",
+  "grid_size_r": 10,
+  "grid_size_c": 8,
+  "grid": [
+    [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 0,
+      "length": 4,
+      "clue": "Bir olayın kaçıncı kez yaşandığını anlatmak için kullanılan kez sözcüğü (4 harf) [B50-S1]",
+      "answer": "DEFA"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 1,
+      "col": 3,
+      "length": 3,
+      "clue": "Bir hastalığa karşı bağışıklık kazandırmak için vücuda verilen ilaç (3 harf) [B50-S2]",
+      "answer": "AŞI"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "length": 4,
+      "clue": "Kırda ya da ormanda silahla veya tuzakla av peşinde koşan kişi (4 harf) [B50-S3]",
+      "answer": "AVCI"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 3,
+      "col": 2,
+      "length": 3,
+      "clue": "İnsanı yaşatan soluk, ruh; bedenin yaşamını sürdürmesini sağlayan güç (3 harf) [B50-S4]",
+      "answer": "CAN"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 3,
+      "col": 7,
+      "length": 4,
+      "clue": "Dağlardan doğan, ırmağa ya da göle dökülen küçük doğal akarsu (4 harf) [B50-S5]",
+      "answer": "DERE"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 4,
+      "col": 4,
+      "length": 3,
+      "clue": "Göğüs kafesi ile kalçalar arasında kalan, vücudun orta kısmı (3 harf) [B50-S6]",
+      "answer": "BEL"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 5,
+      "col": 1,
+      "length": 4,
+      "clue": "Kalınlığı az olan; zarif ve narin yapıda bulunan; kalının karşıtı (4 harf) [B50-S7]",
+      "answer": "İNCE"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 6,
+      "col": 4,
+      "length": 4,
+      "clue": "İlkbaharda açan, kadeh biçimli taç yaprakları olan, Türklerin simgesi çiçek (4 harf) [B50-S8]",
+      "answer": "LALE"
+    },
+    {
+      "number": 9,
+      "direction": "down",
+      "row": 6,
+      "col": 5,
+      "length": 4,
+      "clue": "Karşısına geçenin görüntüsünü aynen yansıtan sırlanmış cam yüzey (4 harf) [B50-S9]",
+      "answer": "AYNA"
+    }
+  ]
+}

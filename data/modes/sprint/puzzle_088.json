@@ -1,0 +1,209 @@
+{
+  "id": 88,
+  "title": "Bölüm 88",
+  "difficulty": "Zor",
+  "grid_size_r": 12,
+  "grid_size_c": 7,
+  "grid": [
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "length": 6,
+      "clue": "Harcanan çabaya değmeyen; hiçbir yarar sağlamayan boş uğraş (6 harf) [B335-S1]",
+      "answer": "NAFİLE"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "length": 4,
+      "clue": "Bir kelimeyi bir nefeste söyleyebildiğimiz en küçük ses birimi (4 harf) [B335-S2]",
+      "answer": "HECE"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 1,
+      "col": 1,
+      "length": 5,
+      "clue": "Şehirlerde iki yanı binalarla çevrili, taşıtların geçtiği geniş ana yol (5 harf) [B335-S3]",
+      "answer": "CADDE"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 3,
+      "col": 2,
+      "length": 5,
+      "clue": "Ahlaki ölçülere bağlı kalma; namusu ve temizliği koruma hali (5 harf) [B335-S4]",
+      "answer": "İFFET"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 5,
+      "col": 1,
+      "length": 5,
+      "clue": "Kamıştan ya da pancardan elde edilen; çay ve tatlılara katılan tatlı madde (5 harf) [B335-S5]",
+      "answer": "ŞEKER"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 5,
+      "col": 3,
+      "length": 4,
+      "clue": "Nüfusu kalabalık, altyapısı gelişmiş, şehir niteliğindeki yerleşim yeri (4 harf) [B335-S6]",
+      "answer": "KENT"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "length": 4,
+      "clue": "Din esaslarına yürekten bağlanma; kalben kabul edip inanma hali (4 harf) [B335-S7]",
+      "answer": "İMAN"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 7,
+      "col": 1,
+      "length": 5,
+      "clue": "İçe işleyen hafif hüzün; kimseye belli edilmeyen sessiz usanç (5 harf) [B335-S8]",
+      "answer": "MELAL"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 8,
+      "col": 3,
+      "length": 3,
+      "clue": "Havada uçuşan ya da yüzeyde biriken, çok küçük katı parçacıklar (3 harf) [B335-S9]",
+      "answer": "TOZ"
+    },
+    {
+      "number": 10,
+      "direction": "across",
+      "row": 10,
+      "col": 0,
+      "length": 3,
+      "clue": "Yaptıklarıyla uzaklarda bile tanınıp bilinir olmanın verdiği büyük ün (3 harf) [B335-S10]",
+      "answer": "ŞAN"
+    }
+  ]
+}

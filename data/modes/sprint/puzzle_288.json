@@ -1,0 +1,157 @@
+{
+  "id": 288,
+  "title": "Bölüm 288",
+  "difficulty": "Kolay",
+  "grid_size_r": 5,
+  "grid_size_c": 11,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "across",
+      "row": 0,
+      "col": 3,
+      "length": 3,
+      "clue": "Havada ya da bir yüzeyde bulunan, hissedilen rutubet miktarı (3 harf) [B32-S1]",
+      "answer": "NEM"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "length": 3,
+      "clue": "Sahip olunan taşınır ya da taşınmaz değerli eşya; mülk (3 harf) [B32-S2]",
+      "answer": "MAL"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "length": 3,
+      "clue": "Başkalarıyla paylaşılmayan; yalnızca bir kişinin bildiği gizli bilgi (3 harf) [B32-S3]",
+      "answer": "SIR"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 0,
+      "col": 8,
+      "length": 3,
+      "clue": "Başımızın derisinde biten, her birinin kökten uzayan ince tel kıl (3 harf) [B32-S3]",
+      "answer": "SAÇ"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 1,
+      "col": 0,
+      "length": 4,
+      "clue": "Aradaki mesafenin çok olduğu; yakınlığı hissedilmeyen ötelerdeki yer (4 harf) [B32-S4]",
+      "answer": "UZAK"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 1,
+      "col": 5,
+      "length": 4,
+      "clue": "Kırda ya da ormanda silahla veya tuzakla av peşinde koşan kişi (4 harf) [B32-S5]",
+      "answer": "AVCI"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 2,
+      "col": 3,
+      "length": 3,
+      "clue": "Göğüs kafesi ile kalçalar arasında kalan, vücudun orta kısmı (3 harf) [B32-S6]",
+      "answer": "BEL"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 2,
+      "col": 3,
+      "length": 3,
+      "clue": "Arıların çiçeklerden topladığı nektarı işleyerek yaptığı koyu, tatlı gıda (3 harf) [B32-S6]",
+      "answer": "BAL"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "length": 4,
+      "clue": "Karşısına geçenin görüntüsünü aynen yansıtan sırlanmış cam yüzey (4 harf) [B32-S7]",
+      "answer": "AYNA"
+    }
+  ]
+}

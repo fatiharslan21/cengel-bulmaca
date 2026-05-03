@@ -1,0 +1,233 @@
+{
+  "id": 174,
+  "title": "Bölüm 174",
+  "difficulty": "Çok Zor",
+  "grid_size_r": 12,
+  "grid_size_c": 9,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "length": 5,
+      "clue": "İçindeki eşyayı korumak için ambalajlanmış, kâğıt ya da karton sargılı koli (5 harf) [B421-S1]",
+      "answer": "PAKET"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "length": 4,
+      "clue": "İstemeden yapılan yanlış; doğru olandan sapmanın yol açtığı kusur (4 harf) [B421-S2]",
+      "answer": "HATA"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 1,
+      "col": 5,
+      "length": 4,
+      "clue": "Beyazın tam zıttı olan, gölgeleri bile koyulaştıran siyah ton (4 harf) [B421-S3]",
+      "answer": "KARA"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 2,
+      "col": 2,
+      "length": 4,
+      "clue": "Bir kurala, şahsa ya da düzene bağlı olan; ona uymak durumunda kalan (4 harf) [B421-S4]",
+      "answer": "TABİ"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "length": 4,
+      "clue": "Anlaşılmayan bir konuyu açık bir dille anlatma; aydınlatıcı açıklama (4 harf) [B421-S5]",
+      "answer": "İZAH"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 4,
+      "col": 4,
+      "length": 6,
+      "clue": "Uzun kasasında büyük yükler taşıyan, dört tekerlekten fazlası olan taşıt (6 harf) [B421-S6]",
+      "answer": "KAMYON"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 4,
+      "col": 4,
+      "length": 4,
+      "clue": "İçine eşya konulan, çoğu zaman kapağı olan, dikdörtgen ya da kare biçimli hazne (4 harf) [B421-S6]",
+      "answer": "KUTU"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 5,
+      "col": 1,
+      "length": 4,
+      "clue": "Karanlığı dağıtan; göze hoş gelen aydınlatıcı parıltı (4 harf) [B421-S7]",
+      "answer": "ZİYA"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 7,
+      "col": 2,
+      "length": 4,
+      "clue": "Bundan başka, farklı; bir şeyin dışında kalan diğer kısım (4 harf) [B421-S8]",
+      "answer": "GAYR"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 7,
+      "col": 2,
+      "length": 5,
+      "clue": "Işığın önüne bir cisim girince arkasında oluşan karanlık alan (5 harf) [B421-S8]",
+      "answer": "GÖLGE"
+    }
+  ]
+}

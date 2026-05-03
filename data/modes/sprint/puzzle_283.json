@@ -1,0 +1,182 @@
+{
+  "id": 283,
+  "title": "Bölüm 283",
+  "difficulty": "Kolay",
+  "grid_size_r": 9,
+  "grid_size_c": 8,
+  "grid": [
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "length": 5,
+      "clue": "Bir kimseye veya yere ulaşabilmek için gereken açık konum bilgisi (5 harf) [B28-S1]",
+      "answer": "ADRES"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "length": 4,
+      "clue": "Akrep, yelkovan ve rakamlarla anı gösteren; zamanı ölçen günlük araç (4 harf) [B28-S2]",
+      "answer": "SAAT"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "length": 3,
+      "clue": "İnsanın boynundan yukarısı, beynin ve yüzün bulunduğu vücut bölümü (3 harf) [B28-S3]",
+      "answer": "BAŞ"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 1,
+      "col": 4,
+      "length": 4,
+      "clue": "Bir işin başında konulan, ulaşılmak istenen hedef ya da gaye (4 harf) [B28-S4]",
+      "answer": "AMAÇ"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 3,
+      "col": 2,
+      "length": 3,
+      "clue": "Bulunduğun yerden uzaklaşarak başka bir yere doğru yönel; gel'in zıttı (3 harf) [B28-S5]",
+      "answer": "GİT"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 3,
+      "col": 2,
+      "length": 3,
+      "clue": "Dikenli gövdesi ve hoş kokulu taç yapraklarıyla bilinen bahçe çiçeği (3 harf) [B28-S5]",
+      "answer": "GÜL"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "length": 4,
+      "clue": "Çalışmaya ya da yolculuğa kısa bir süre ara vererek dinlenme anı (4 harf) [B28-S6]",
+      "answer": "MOLA"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 5,
+      "col": 1,
+      "length": 4,
+      "clue": "Yolcuların ücret karşılığı geceyi geçirdiği, odaları olan konaklama işletmesi (4 harf) [B28-S7]",
+      "answer": "OTEL"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 5,
+      "col": 3,
+      "length": 4,
+      "clue": "Kaldırılması güç olan, hafif sözcüğünün zıttı sayılan kütle durumu (4 harf) [B28-S8]",
+      "answer": "AĞIR"
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "id": 437,
+  "title": "Bölüm 437",
+  "difficulty": "Kolay",
+  "grid_size_r": 9,
+  "grid_size_c": 8,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "length": 5,
+      "clue": "Üzerinde yaşadığımız, Güneş'in çevresinde dönen mavi yeşil gezegen (5 harf) [B56-S1]",
+      "answer": "DÜNYA"
+    },
+    {
+      "number": 1,
+      "direction": "across",
+      "row": 0,
+      "col": 3,
+      "length": 4,
+      "clue": "Sırtında hörgücü bulunan, çölde uzun süre susuzluğa dayanabilen büyük hayvan (4 harf) [B56-S1]",
+      "answer": "DEVE"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 2,
+      "col": 6,
+      "length": 5,
+      "clue": "İnsana sadakatiyle bilinen, havlayarak seslenen evcil dört ayaklı (5 harf) [B56-S2]",
+      "answer": "KÖPEK"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 3,
+      "col": 1,
+      "length": 4,
+      "clue": "Kuşların yumurtladığı ağaç dalındaki çöpten örülmüş küçük barınak (4 harf) [B56-S3]",
+      "answer": "YUVA"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 4,
+      "col": 1,
+      "length": 4,
+      "clue": "Aradaki mesafenin çok olduğu; yakınlığı hissedilmeyen ötelerdeki yer (4 harf) [B56-S4]",
+      "answer": "UZAK"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 4,
+      "col": 4,
+      "length": 3,
+      "clue": "Soğuk havada bulutlardan düşen, altıgen kristallerden oluşan beyaz yağış (3 harf) [B56-S5]",
+      "answer": "KAR"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 5,
+      "col": 4,
+      "length": 4,
+      "clue": "Yanan bir şeyin üstünde dalgalanan, sıcak ve parlayan ışıklı kısım (4 harf) [B56-S6]",
+      "answer": "ALEV"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "length": 3,
+      "clue": "Kimyada asitle tepkimeye girerek tuz oluşturan, karşıt özellikli madde (3 harf) [B56-S7]",
+      "answer": "BAZ"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 6,
+      "col": 0,
+      "length": 3,
+      "clue": "Konuşan kişinin kendisini belirtmek için kullandığı birinci tekil zamir (3 harf) [B56-S7]",
+      "answer": "BEN"
+    }
+  ]
+}

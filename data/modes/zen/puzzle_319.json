@@ -1,0 +1,221 @@
+{
+  "id": 319,
+  "title": "Bölüm 319",
+  "difficulty": "Çok Zor",
+  "grid_size_r": 10,
+  "grid_size_c": 10,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "across",
+      "row": 0,
+      "col": 7,
+      "length": 3,
+      "clue": "Sarı kabuklu, uzun, yumuşak iç gövdeli tropikal meyve (3 harf) [B441-S1]",
+      "answer": "MUZ"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 9,
+      "length": 5,
+      "clue": "Düğünlerde davulla birlikte çalınan, ince tiz sesli üflemeli halk çalgısı (5 harf) [B441-S2]",
+      "answer": "ZURNA"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 2,
+      "col": 3,
+      "length": 7,
+      "clue": "Üzüntülü birine söylenerek onu rahatlatan sıcak avutucu söz (7 harf) [B441-S3]",
+      "answer": "TESELLİ"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 2,
+      "col": 6,
+      "length": 3,
+      "clue": "Sayıların başlangıcı olan, tek adedi gösteren ilk doğal rakam (3 harf) [B441-S4]",
+      "answer": "BİR"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 3,
+      "col": 2,
+      "length": 5,
+      "clue": "Bir kimsenin toplumdaki yeri, konumu ya da makamı (5 harf) [B441-S5]",
+      "answer": "MEVKİ"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 4,
+      "col": 6,
+      "length": 4,
+      "clue": "İnanmadığı halde inanıyormuş gibi davranma; iki yüzlü tavır (4 harf) [B441-S6]",
+      "answer": "RİYA"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 4,
+      "col": 8,
+      "length": 4,
+      "clue": "Eskiyip yırtılan giysiyi onarmak için üstüne dikilen küçük kumaş parçası (4 harf) [B441-S7]",
+      "answer": "YAMA"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "length": 4,
+      "clue": "Bir olayın başlangıcı ile sonu arasında geçen zaman aralığı (4 harf) [B441-S8]",
+      "answer": "SÜRE"
+    },
+    {
+      "number": 9,
+      "direction": "down",
+      "row": 7,
+      "col": 5,
+      "length": 3,
+      "clue": "Tarihte belli özelliklerle ayırt edilen uzun dönem; devir, asır (3 harf) [B441-S9]",
+      "answer": "ÇAĞ"
+    },
+    {
+      "number": 10,
+      "direction": "across",
+      "row": 8,
+      "col": 2,
+      "length": 4,
+      "clue": "Birine seslenmek için çıkarılan yüksek ses; çağırmak amaçlı bağırma (4 harf) [B441-S10]",
+      "answer": "NİDA"
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "id": 36,
+  "title": "Bölüm 36",
+  "difficulty": "Zor",
+  "grid_size_r": 12,
+  "grid_size_c": 7,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      1,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "length": 5,
+      "clue": "Saniyelerden yıllara uzanan; akıp giden, geri döndürülemeyen zaman (5 harf) [B283-S1]",
+      "answer": "VAKİT"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 1,
+      "col": 4,
+      "length": 3,
+      "clue": "Bir ağacın gövdesinden yanlara doğru uzayan ve yapraklarını taşıyan kol (3 harf) [B283-S2]",
+      "answer": "DAL"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 3,
+      "col": 3,
+      "length": 5,
+      "clue": "Ortak bir malın ya da işin her birine düşen pay; nasip (5 harf) [B283-S3]",
+      "answer": "HİSSE"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 4,
+      "col": 2,
+      "length": 4,
+      "clue": "Birbirinin eşi olan iki şeyden oluşan takım; tekin karşıtı sayı grubu (4 harf) [B283-S4]",
+      "answer": "ÇİFT"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 6,
+      "col": 5,
+      "length": 5,
+      "clue": "Ani ve sert bir hareketle yapılan vuruş; çarpma sonucu alınan sarsıntı (5 harf) [B283-S5]",
+      "answer": "DARBE"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 7,
+      "col": 0,
+      "length": 5,
+      "clue": "Kitap, hikâye ya da makale gibi edebi eserler kaleme alan kimse (5 harf) [B283-S6]",
+      "answer": "YAZAR"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 7,
+      "col": 2,
+      "length": 5,
+      "clue": "Bir olayın geçtiği ya da bir şeyin bulunduğu belirli yer; mahal (5 harf) [B283-S7]",
+      "answer": "MEKAN"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 7,
+      "col": 2,
+      "length": 5,
+      "clue": "Bir kimsenin toplumdaki yeri, konumu ya da makamı (5 harf) [B283-S7]",
+      "answer": "MEVKİ"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 9,
+      "col": 0,
+      "length": 4,
+      "clue": "Yapılan ya da tadılan şeyden alınan; insanın içini hoşnut eden keyif (4 harf) [B283-S8]",
+      "answer": "ZEVK"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 10,
+      "col": 4,
+      "length": 3,
+      "clue": "Pantolon ya da ceketin içine dikilmiş, ufak eşya konulan küçük kese (3 harf) [B283-S9]",
+      "answer": "CEP"
+    }
+  ]
+}

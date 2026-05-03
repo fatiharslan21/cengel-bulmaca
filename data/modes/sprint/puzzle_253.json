@@ -1,0 +1,257 @@
+{
+  "id": 253,
+  "title": "Bölüm 253",
+  "difficulty": "Çok Zor",
+  "grid_size_r": 12,
+  "grid_size_c": 11,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "length": 4,
+      "clue": "Uzaktan duyulan insan ya da doğa sesi; boğumlu ses dalgası (4 harf) [B500-S1]",
+      "answer": "SADA"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "length": 6,
+      "clue": "Her takımdan on bir oyuncunun sahada top üzerinde oynadığı dünya sporu (6 harf) [B500-S2]",
+      "answer": "FUTBOL"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 2,
+      "col": 7,
+      "length": 7,
+      "clue": "Tırtılken metamorfoz geçirip renkli kanatlara kavuşan zarif böcek (7 harf) [B500-S3]",
+      "answer": "KELEBEK"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 3,
+      "col": 3,
+      "length": 6,
+      "clue": "Bir işi başarmak için katlanılan güçlük; çekilen eziyet (6 harf) [B500-S4]",
+      "answer": "ZAHMET"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 3,
+      "col": 3,
+      "length": 4,
+      "clue": "Karanlığı dağıtan; göze hoş gelen aydınlatıcı parıltı (4 harf) [B500-S4]",
+      "answer": "ZİYA"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 5,
+      "col": 6,
+      "length": 5,
+      "clue": "Ağızdan çıkan söz; düşüncenin dille ifade bulmuş hali (5 harf) [B500-S5]",
+      "answer": "KELAM"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "length": 5,
+      "clue": "İçine giysi, kap kacak ya da eşya konulan, kapaklı büyük mobilya (5 harf) [B500-S6]",
+      "answer": "DOLAP"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 7,
+      "col": 5,
+      "length": 5,
+      "clue": "Çevresinde olanlardan haberi olmayan, dalgın ve dikkatsiz kimse (5 harf) [B500-S7]",
+      "answer": "GAFİL"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 8,
+      "col": 4,
+      "length": 6,
+      "clue": "Bir binanın üst katlarından dışarı uzanan, parmaklıkla çevrili çıkıntı (6 harf) [B500-S8]",
+      "answer": "BALKON"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 10,
+      "col": 4,
+      "length": 4,
+      "clue": "Birini aldatmak için yapılan gizli düzen; dolap çevirme (4 harf) [B500-S9]",
+      "answer": "HİLE"
+    }
+  ]
+}

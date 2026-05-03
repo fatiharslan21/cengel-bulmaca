@@ -1,0 +1,233 @@
+{
+  "id": 55,
+  "title": "Bölüm 55",
+  "difficulty": "Orta",
+  "grid_size_r": 12,
+  "grid_size_c": 9,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "across",
+      "row": 0,
+      "col": 4,
+      "length": 5,
+      "clue": "Bir cismin uzunluk, genişlik ve yükseklik gibi ölçülebilen özelliği (5 harf) [B177-S1]",
+      "answer": "BOYUT"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "length": 4,
+      "clue": "Bir ülkenin savunmasını üstlenen, askerlerden oluşan silahlı kuvvetler (4 harf) [B177-S2]",
+      "answer": "ORDU"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "length": 4,
+      "clue": "Bir sanatçının ya da yazarın ortaya koyduğu özgün yapıt (4 harf) [B177-S3]",
+      "answer": "ESER"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 2,
+      "col": 3,
+      "length": 5,
+      "clue": "Programlanarak belirli işleri otomatik yapan mekanik insansı makine (5 harf) [B177-S4]",
+      "answer": "ROBOT"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 3,
+      "col": 3,
+      "length": 4,
+      "clue": "Öğrencilerin öğretmenler tarafından eğitim aldığı resmî öğretim kurumu (4 harf) [B177-S5]",
+      "answer": "OKUL"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 6,
+      "col": 3,
+      "length": 5,
+      "clue": "Yelkenli ya da motorlu olup denizde kısa yolculuklara çıkan küçük gemi (5 harf) [B177-S6]",
+      "answer": "TEKNE"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 6,
+      "col": 6,
+      "length": 4,
+      "clue": "Müzik eserlerinde seslerin yükseklik ve uzunluğunu gösteren küçük simge (4 harf) [B177-S7]",
+      "answer": "NOTA"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 9,
+      "col": 5,
+      "length": 3,
+      "clue": "Bir ağacın gövdesinden yanlara doğru uzayan ve yapraklarını taşıyan kol (3 harf) [B177-S8]",
+      "answer": "DAL"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 9,
+      "col": 5,
+      "length": 3,
+      "clue": "Üstten sıkılan su ile yıkanmak üzere banyoya yerleştirilmiş düzenek (3 harf) [B177-S8]",
+      "answer": "DUŞ"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 11,
+      "col": 3,
+      "length": 3,
+      "clue": "Ağızda bulunan, yiyecekleri kopartıp öğütmeye yarayan sert beyaz yapı (3 harf) [B177-S9]",
+      "answer": "DİŞ"
+    }
+  ]
+}

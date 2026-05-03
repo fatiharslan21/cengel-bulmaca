@@ -1,0 +1,200 @@
+{
+  "id": 289,
+  "title": "Bölüm 289",
+  "difficulty": "Kolay",
+  "grid_size_r": 9,
+  "grid_size_c": 10,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "length": 4,
+      "clue": "Toprağın altında kalmış eski eserleri çıkarmak için yapılan eşme işi (4 harf) [B33-S1]",
+      "answer": "KAZI"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 1,
+      "col": 4,
+      "length": 3,
+      "clue": "Dört mevsimin en sıcağı; okulların kapandığı, tatillerin geldiği zaman (3 harf) [B33-S2]",
+      "answer": "YAZ"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 2,
+      "col": 8,
+      "length": 4,
+      "clue": "Müziğin ritmine uyarak, düzenli vücut hareketleriyle yapılan sanatsal eylem (4 harf) [B33-S3]",
+      "answer": "DANS"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 3,
+      "col": 5,
+      "length": 5,
+      "clue": "Su veya başka bir sıvıyla temas edip kurumamış olan nemli yüzey (5 harf) [B33-S4]",
+      "answer": "ISLAK"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 5,
+      "col": 6,
+      "length": 4,
+      "clue": "Üzerinde yemek yemek ya da çalışmak için kullanılan ayaklı düz mobilya (4 harf) [B33-S5]",
+      "answer": "MASA"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 5,
+      "col": 6,
+      "length": 3,
+      "clue": "Kırmızı ile mavinin karışımından elde edilen, menekşe renginde koyu ton (3 harf) [B33-S5]",
+      "answer": "MOR"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 6,
+      "col": 4,
+      "length": 3,
+      "clue": "Bir evin ya da binanın duvarlarla ayrılmış, belirli amaçla kullanılan bölümü (3 harf) [B33-S6]",
+      "answer": "ODA"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 7,
+      "col": 4,
+      "length": 4,
+      "clue": "Dağlardan doğan, ırmağa ya da göle dökülen küçük doğal akarsu (4 harf) [B33-S7]",
+      "answer": "DERE"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "length": 5,
+      "clue": "Zarla ve pullarla iki kişi arasında oynanan, kahvehane kültürünün oyunu (5 harf) [B33-S8]",
+      "answer": "TAVLA"
+    }
+  ]
+}

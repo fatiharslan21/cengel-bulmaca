@@ -1,0 +1,176 @@
+{
+  "id": 500,
+  "title": "Bölüm 500",
+  "difficulty": "Kolay",
+  "grid_size_r": 7,
+  "grid_size_c": 10,
+  "grid": [
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "length": 3,
+      "clue": "Sayıların başlangıcı olan, tek adedi gösteren ilk doğal rakam (3 harf) [B119-S1]",
+      "answer": "BİR"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "length": 5,
+      "clue": "Bilinmeyen bir şeyi öğrenmek için insanın içine düşen güçlü istek (5 harf) [B119-S2]",
+      "answer": "MERAK"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "length": 4,
+      "clue": "Kalınlığı az olan; zarif ve narin yapıda bulunan; kalının karşıtı (4 harf) [B119-S3]",
+      "answer": "İNCE"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 1,
+      "col": 7,
+      "length": 3,
+      "clue": "Tatlının tam karşıtı olan, biberin ya da kederin bıraktığı keskin duygu (3 harf) [B119-S4]",
+      "answer": "ACI"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 1,
+      "col": 7,
+      "length": 3,
+      "clue": "İki şeyin birbirinden ayrıldığı boşluk; kısa mola süresi (3 harf) [B119-S4]",
+      "answer": "ARA"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 3,
+      "col": 1,
+      "length": 4,
+      "clue": "Başarı gösteren kimseye, çabasının karşılığı olarak verilen değerli armağan (4 harf) [B119-S5]",
+      "answer": "ÖDÜL"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 3,
+      "col": 5,
+      "length": 4,
+      "clue": "İnsanın düşünmesini, anlamasını ve karar vermesini sağlayan zihinsel yeti (4 harf) [B119-S6]",
+      "answer": "AKIL"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 4,
+      "col": 1,
+      "length": 5,
+      "clue": "İçine üflenince tiz bir ses çıkaran, ince ve boru biçimli küçük alet (5 harf) [B119-S7]",
+      "answer": "DÜDÜK"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "length": 3,
+      "clue": "Yüceliğiyle saygı uyandıran; hem büyük hem görkemli olan varlık (3 harf) [B119-S8]",
+      "answer": "ULU"
+    }
+  ]
+}

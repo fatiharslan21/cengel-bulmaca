@@ -1,0 +1,213 @@
+{
+  "id": 415,
+  "title": "Bölüm 415",
+  "difficulty": "Orta",
+  "grid_size_r": 8,
+  "grid_size_c": 12,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 10,
+      "length": 5,
+      "clue": "Ev ya da yapı yakınında çiçek, sebze ve ağaç yetiştirilen yeşil alan (5 harf) [B159-S1]",
+      "answer": "BAHÇE"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 1,
+      "col": 8,
+      "length": 3,
+      "clue": "Soyun büyüklerinden sayılan dede ya da daha öncesinden gelen büyük (3 harf) [B159-S2]",
+      "answer": "ATA"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 2,
+      "col": 0,
+      "length": 3,
+      "clue": "Bulunduğun yerden uzaklaşarak başka bir yere doğru yönel; gel'in zıttı (3 harf) [B159-S3]",
+      "answer": "GİT"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 3,
+      "col": 2,
+      "length": 4,
+      "clue": "Belirli bir yönde hareket eden elektrik yükü ya da suyun sürüklenişi (4 harf) [B159-S4]",
+      "answer": "AKIM"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "length": 4,
+      "clue": "Saçı ya da kemeri tutturmaya yarayan, klips gibi açılıp kapanan küçük süs (4 harf) [B159-S5]",
+      "answer": "TOKA"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 4,
+      "col": 5,
+      "length": 3,
+      "clue": "Kişinin yasal olarak sahip olduğu; alması ya da yapması gereken şey (3 harf) [B159-S6]",
+      "answer": "HAK"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 4,
+      "col": 7,
+      "length": 4,
+      "clue": "Toprağın altında kalmış eski eserleri çıkarmak için yapılan eşme işi (4 harf) [B159-S7]",
+      "answer": "KAZI"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 4,
+      "col": 7,
+      "length": 5,
+      "clue": "İnsana sadakatiyle bilinen, havlayarak seslenen evcil dört ayaklı (5 harf) [B159-S7]",
+      "answer": "KÖPEK"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 4,
+      "col": 11,
+      "length": 4,
+      "clue": "Bir evin ya da iş yerinin kullanımı için sahibine ödenen aylık ücret (4 harf) [B159-S8]",
+      "answer": "KIRA"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 6,
+      "col": 2,
+      "length": 6,
+      "clue": "Bir dairenin ya da bir alanın tam ortasında bulunan ana nokta (6 harf) [B159-S9]",
+      "answer": "MERKEZ"
+    }
+  ]
+}

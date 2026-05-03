@@ -1,0 +1,231 @@
+{
+  "id": 49,
+  "title": "Bölüm 49",
+  "difficulty": "Orta",
+  "grid_size_r": 10,
+  "grid_size_c": 11,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "length": 4,
+      "clue": "Bacağın bileğinden aşağısı; üzerine basarak yürümemizi sağlayan uzuv (4 harf) [B171-S1]",
+      "answer": "AYAK"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 1,
+      "col": 4,
+      "length": 5,
+      "clue": "Bir cismin uzunluk, genişlik ve yükseklik gibi ölçülebilen özelliği (5 harf) [B171-S2]",
+      "answer": "BOYUT"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 3,
+      "col": 2,
+      "length": 5,
+      "clue": "İçine üflenince tiz bir ses çıkaran, ince ve boru biçimli küçük alet (5 harf) [B171-S3]",
+      "answer": "DÜDÜK"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 3,
+      "col": 4,
+      "length": 6,
+      "clue": "Belirli bir ülkenin sınırlarında örgütlenmiş siyasi ve yönetimsel yapı (6 harf) [B171-S4]",
+      "answer": "DEVLET"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 3,
+      "col": 8,
+      "length": 6,
+      "clue": "Bir toplantıda ya da günde ele alınacak konuların sıralı listesi (6 harf) [B171-S5]",
+      "answer": "GÜNDEM"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 5,
+      "col": 4,
+      "length": 5,
+      "clue": "Bir milletin üzerinde yaşayıp kendine yurt bildiği ata toprağı (5 harf) [B171-S6]",
+      "answer": "VATAN"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 6,
+      "col": 2,
+      "length": 4,
+      "clue": "Üçten sonra gelen, mevsim ve yön sayısına denk gelen doğal sayı (4 harf) [B171-S7]",
+      "answer": "DÖRT"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 6,
+      "col": 8,
+      "length": 3,
+      "clue": "Ağızda bulunan, yiyecekleri kopartıp öğütmeye yarayan sert beyaz yapı (3 harf) [B171-S8]",
+      "answer": "DİŞ"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 7,
+      "col": 1,
+      "length": 4,
+      "clue": "İki duvarın ya da iki kenarın birleştiği noktada oluşan açılı yer (4 harf) [B171-S9]",
+      "answer": "KÖŞE"
+    },
+    {
+      "number": 10,
+      "direction": "across",
+      "row": 9,
+      "col": 0,
+      "length": 4,
+      "clue": "Bir eşyanın ya da yüzeyin üstünü kapatmak için serilen kumaş parçası (4 harf) [B171-S10]",
+      "answer": "ÖRTÜ"
+    }
+  ]
+}

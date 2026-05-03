@@ -1,0 +1,245 @@
+{
+  "id": 164,
+  "title": "Bölüm 164",
+  "difficulty": "Çok Zor",
+  "grid_size_r": 12,
+  "grid_size_c": 10,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "length": 4,
+      "clue": "Bir kesik ya da darbe sonucu bedende oluşan açık doku hasarı (4 harf) [B411-S1]",
+      "answer": "YARA"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "length": 4,
+      "clue": "Dinde kesinlikle yerine getirilmesi emredilen, zorunlu olan yükümlülük (4 harf) [B411-S2]",
+      "answer": "FARZ"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "length": 5,
+      "clue": "Karşılık beklemeden yapılan iyilik; bir büyüğün bahşettiği ihsan (5 harf) [B411-S3]",
+      "answer": "LÜTUF"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "length": 4,
+      "clue": "Uykuda iken zihnin sahneler halinde canlandırdığı renkli görüntüler (4 harf) [B411-S4]",
+      "answer": "RÜYA"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "length": 6,
+      "clue": "Bir işi yapabilme gücü; insanda ya da doğada bulunan büyük kuvvet (6 harf) [B411-S5]",
+      "answer": "KUDRET"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 5,
+      "col": 3,
+      "length": 7,
+      "clue": "Kasları çözülmüş gibi hissettiren ağır gevşeklik; uyuşukluk hali (7 harf) [B411-S6]",
+      "answer": "REHAVET"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 5,
+      "col": 5,
+      "length": 4,
+      "clue": "Ekmeğin arasına peynir konup ısıtılarak kızartılan sandviç çeşidi (4 harf) [B411-S7]",
+      "answer": "TOST"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 7,
+      "col": 5,
+      "length": 5,
+      "clue": "Evin misafir ağırlanan en büyük odası ya da toplantı yapılan geniş mekân (5 harf) [B411-S8]",
+      "answer": "SALON"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "length": 4,
+      "clue": "Dostluğunu ve sevgisini zaman geçse bile sürdürme; söze sadakat (4 harf) [B411-S9]",
+      "answer": "VEFA"
+    },
+    {
+      "number": 10,
+      "direction": "across",
+      "row": 10,
+      "col": 0,
+      "length": 5,
+      "clue": "İnsanın başına geleceği önceden yazıldığına inanılan alın yazısı (5 harf) [B411-S10]",
+      "answer": "KADER"
+    }
+  ]
+}

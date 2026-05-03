@@ -1,0 +1,209 @@
+{
+  "id": 376,
+  "title": "Bölüm 376",
+  "difficulty": "Çok Zor",
+  "grid_size_r": 12,
+  "grid_size_c": 7,
+  "grid": [
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "length": 7,
+      "clue": "Sevilen birinden hatıra kalan; onu anmamızı sağlayan değerli eşya (7 harf) [B498-S1]",
+      "answer": "YADİGAR"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 1,
+      "col": 1,
+      "length": 3,
+      "clue": "İçine sıvı ya da katı maddeler konulan her türlü şekilli eşya (3 harf) [B498-S2]",
+      "answer": "KAP"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 3,
+      "col": 6,
+      "length": 3,
+      "clue": "Yüceliğiyle saygı uyandıran; hem büyük hem görkemli olan varlık (3 harf) [B498-S3]",
+      "answer": "ULU"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 4,
+      "col": 0,
+      "length": 5,
+      "clue": "Her türlü çirkinlikten uzak duran; temiz ahlaklı ve arı kimse (5 harf) [B498-S4]",
+      "answer": "NEZİH"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 4,
+      "col": 2,
+      "length": 5,
+      "clue": "Çevresinde olanlardan haberi olmayan, dalgın ve dikkatsiz kimse (5 harf) [B498-S5]",
+      "answer": "GAFİL"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "length": 3,
+      "clue": "Üstesinden gelinmesi emek isteyen; kolayın tam karşıtı sayılan güç iş (3 harf) [B498-S6]",
+      "answer": "ZOR"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 7,
+      "col": 3,
+      "length": 5,
+      "clue": "Ani ve sert bir hareketle yapılan vuruş; çarpma sonucu alınan sarsıntı (5 harf) [B498-S7]",
+      "answer": "DARBE"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "length": 5,
+      "clue": "Zihinde canlandırılan, gerçekleşmesi beklenen ya da umulan görüntü (5 harf) [B498-S8]",
+      "answer": "HAYAL"
+    },
+    {
+      "number": 9,
+      "direction": "down",
+      "row": 8,
+      "col": 6,
+      "length": 4,
+      "clue": "Başarı gösteren kimseye, çabasının karşılığı olarak verilen değerli armağan (4 harf) [B498-S9]",
+      "answer": "ÖDÜL"
+    },
+    {
+      "number": 10,
+      "direction": "across",
+      "row": 11,
+      "col": 2,
+      "length": 5,
+      "clue": "Bir şeyin eksiksiz, kusursuz ve en üst düzeyde olgunlaşmış hali (5 harf) [B498-S10]",
+      "answer": "KEMAL"
+    }
+  ]
+}

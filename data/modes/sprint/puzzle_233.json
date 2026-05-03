@@ -1,0 +1,205 @@
+{
+  "id": 233,
+  "title": "Bölüm 233",
+  "difficulty": "Çok Zor",
+  "grid_size_r": 8,
+  "grid_size_c": 11,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "across",
+      "row": 0,
+      "col": 4,
+      "length": 3,
+      "clue": "İnsanın bedenine hayat veren, duygularının ve düşüncelerinin kaynağı manevi öz (3 harf) [B480-S1]",
+      "answer": "RUH"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "length": 4,
+      "clue": "Maddi olanın üstünde, manevi değerlerle ilgili; kutsal niteliği bulunan (4 harf) [B480-S2]",
+      "answer": "ULVİ"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "length": 3,
+      "clue": "Yirmi dört saate denk gelen; sabahtan akşama uzanan zaman dilimi (3 harf) [B480-S3]",
+      "answer": "GÜN"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 1,
+      "col": 2,
+      "length": 5,
+      "clue": "Ciğerlere hava çekmek ve bırakmak; yaşamın sürdüğünün göstergesi soluk (5 harf) [B480-S4]",
+      "answer": "NEFES"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 2,
+      "col": 8,
+      "length": 5,
+      "clue": "Birbirini gören iki kişinin hal hatır sormak için söylediği esenlik dileği (5 harf) [B480-S5]",
+      "answer": "SELAM"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 2,
+      "col": 10,
+      "length": 6,
+      "clue": "Kendini üstün görmeyen, sade ve mütevazı davranış; gösterişsiz olma hali (6 harf) [B480-S6]",
+      "answer": "TEVAZU"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 3,
+      "col": 4,
+      "length": 4,
+      "clue": "Birinin ya da bir şeyin kolayca etkilenebileceği zayıf noktası (4 harf) [B480-S7]",
+      "answer": "ZAAF"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 3,
+      "col": 4,
+      "length": 5,
+      "clue": "Bir dağın en yüksek noktası; ulaşılabilecek en üst basamak (5 harf) [B480-S7]",
+      "answer": "ZİRVE"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 5,
+      "col": 1,
+      "length": 5,
+      "clue": "Su veya başka bir sıvıyla temas edip kurumamış olan nemli yüzey (5 harf) [B480-S8]",
+      "answer": "ISLAK"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 5,
+      "col": 7,
+      "length": 4,
+      "clue": "Siyah beyaz karelere yerleştirilen taşlarla iki kişi arasında oynanan oyun (4 harf) [B480-S9]",
+      "answer": "DAMA"
+    }
+  ]
+}

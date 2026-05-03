@@ -1,0 +1,173 @@
+{
+  "id": 427,
+  "title": "Bölüm 427",
+  "difficulty": "Kolay",
+  "grid_size_r": 9,
+  "grid_size_c": 7,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "length": 5,
+      "clue": "Bitkinin üreme organı; genellikle göz alıcı renkleri ve kokusu olan kısım (5 harf) [B46-S1]",
+      "answer": "ÇİÇEK"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 1,
+      "col": 0,
+      "length": 3,
+      "clue": "Bir şeye bağlı bulunma; onunla ilgili ya da onun sahipliğinde olma (3 harf) [B46-S2]",
+      "answer": "AİT"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "length": 3,
+      "clue": "Ağızda bulunan, yiyecekleri kopartıp öğütmeye yarayan sert beyaz yapı (3 harf) [B46-S3]",
+      "answer": "DİŞ"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "length": 4,
+      "clue": "Sayılabilen nesnelerin her biri; küçük parça ya da adet (4 harf) [B46-S4]",
+      "answer": "TANE"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 3,
+      "col": 1,
+      "length": 3,
+      "clue": "Bir üstün ya da yetkilinin önüne saygıyla sunma, takdim etme eylemi (3 harf) [B46-S5]",
+      "answer": "ARZ"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 4,
+      "col": 3,
+      "length": 4,
+      "clue": "İçine eşya konulan, çoğu zaman kapağı olan, dikdörtgen ya da kare biçimli hazne (4 harf) [B46-S6]",
+      "answer": "KUTU"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 4,
+      "col": 5,
+      "length": 4,
+      "clue": "Ekmeğin arasına peynir konup ısıtılarak kızartılan sandviç çeşidi (4 harf) [B46-S7]",
+      "answer": "TOST"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 6,
+      "col": 3,
+      "length": 3,
+      "clue": "Bulunduğun yerden buraya doğru yaklaş; git sözcüğünün tam zıttı eylem (3 harf) [B46-S8]",
+      "answer": "GEL"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 7,
+      "col": 2,
+      "length": 4,
+      "clue": "Nüfusu kalabalık, altyapısı gelişmiş, şehir niteliğindeki yerleşim yeri (4 harf) [B46-S9]",
+      "answer": "KENT"
+    }
+  ]
+}

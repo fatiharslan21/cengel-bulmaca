@@ -1,0 +1,176 @@
+{
+  "id": 465,
+  "title": "Bölüm 465",
+  "difficulty": "Kolay",
+  "grid_size_r": 7,
+  "grid_size_c": 10,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "length": 5,
+      "clue": "Şehirlerde iki yanı binalarla çevrili, taşıtların geçtiği geniş ana yol (5 harf) [B84-S1]",
+      "answer": "CADDE"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 1,
+      "col": 5,
+      "length": 5,
+      "clue": "Bir düzen içinde hareket edebilmek için uyulması zorunlu olan ilke (5 harf) [B84-S2]",
+      "answer": "KURAL"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 1,
+      "col": 5,
+      "length": 5,
+      "clue": "Saplı, parlak, kırmızı kabuklu; ilkbaharın sonunda olgunlaşan tatlı meyve (5 harf) [B84-S2]",
+      "answer": "KİRAZ"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "length": 3,
+      "clue": "Havanın bir yönden diğerine doğru hissedilebilir akışı; rüzgâr (3 harf) [B84-S3]",
+      "answer": "YEL"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "length": 4,
+      "clue": "İlerinin zıttı; arkaya ya da başlangıca doğru olan yön (4 harf) [B84-S4]",
+      "answer": "GERİ"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 3,
+      "col": 3,
+      "length": 3,
+      "clue": "Bir sıranın en başında bulunan; sondan önce hiçbir şey olmayan sırada birinci (3 harf) [B84-S5]",
+      "answer": "İLK"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 4,
+      "col": 7,
+      "length": 3,
+      "clue": "Konuşan kişinin kendisini belirtmek için kullandığı birinci tekil zamir (3 harf) [B84-S6]",
+      "answer": "BEN"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 4,
+      "col": 7,
+      "length": 3,
+      "clue": "Kimyada asitle tepkimeye girerek tuz oluşturan, karşıt özellikli madde (3 harf) [B84-S6]",
+      "answer": "BAZ"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 5,
+      "col": 3,
+      "length": 3,
+      "clue": "Omuzdan bileğe kadar uzanan, eli bedene bağlayan üst uzvumuz (3 harf) [B84-S7]",
+      "answer": "KOL"
+    }
+  ]
+}

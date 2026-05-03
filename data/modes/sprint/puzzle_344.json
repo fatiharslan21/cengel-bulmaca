@@ -1,0 +1,182 @@
+{
+  "id": 344,
+  "title": "Bölüm 344",
+  "difficulty": "Kolay",
+  "grid_size_r": 10,
+  "grid_size_c": 7,
+  "grid": [
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "across",
+      "row": 0,
+      "col": 2,
+      "length": 3,
+      "clue": "Havanın ısısının düşmesiyle suların yüzeyde buz tutması olayı (3 harf) [B88-S1]",
+      "answer": "DON"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "length": 5,
+      "clue": "Bir cümlenin sonuna konan en küçük yazı işareti; konumun kendisi (5 harf) [B88-S2]",
+      "answer": "NOKTA"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 3,
+      "col": 1,
+      "length": 3,
+      "clue": "Kişinin yasal olarak sahip olduğu; alması ya da yapması gereken şey (3 harf) [B88-S3]",
+      "answer": "HAK"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 3,
+      "col": 4,
+      "length": 3,
+      "clue": "Denizden ya da yer altından çıkarılan; yemeklere tat veren beyaz tane (3 harf) [B88-S4]",
+      "answer": "TUZ"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "length": 5,
+      "clue": "İçindeki ampulle çalışan, karanlık odayı aydınlatan elektrikli araç (5 harf) [B88-S5]",
+      "answer": "LAMBA"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 4,
+      "col": 3,
+      "length": 3,
+      "clue": "Göğüs kafesi ile kalçalar arasında kalan, vücudun orta kısmı (3 harf) [B88-S6]",
+      "answer": "BEL"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 6,
+      "col": 2,
+      "length": 3,
+      "clue": "Birden çok rengin bir arada bulunduğu, benekli ya da karışık görünüm (3 harf) [B88-S7]",
+      "answer": "ALA"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 6,
+      "col": 2,
+      "length": 4,
+      "clue": "İçten duyulan istek, gönülden beklenen dilek veya özlem (4 harf) [B88-S7]",
+      "answer": "ARZU"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "length": 3,
+      "clue": "Yüzümüzde çift olarak bulunan, etrafımızı görmemizi sağlayan duyu organı (3 harf) [B88-S8]",
+      "answer": "GÖZ"
+    }
+  ]
+}

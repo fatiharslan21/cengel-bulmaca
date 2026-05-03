@@ -1,0 +1,218 @@
+{
+  "id": 226,
+  "title": "Bölüm 226",
+  "difficulty": "Zor",
+  "grid_size_r": 9,
+  "grid_size_c": 11,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 7,
+      "length": 3,
+      "clue": "Bir çemberin merkezinden geçerek onu iki eşit yaya bölen doğru parça (3 harf) [B348-S1]",
+      "answer": "ÇAP"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 1,
+      "col": 4,
+      "length": 4,
+      "clue": "Ayıp sayılan bir şey karşısında insanın yüzünü kızartan çekinme duygusu (4 harf) [B348-S2]",
+      "answer": "HAYA"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 1,
+      "col": 5,
+      "length": 5,
+      "clue": "Bir kimseye veya yere ulaşabilmek için gereken açık konum bilgisi (5 harf) [B348-S3]",
+      "answer": "ADRES"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 3,
+      "col": 2,
+      "length": 6,
+      "clue": "Bir kişinin emeğini ya da başarısını görüp açıkça beğenip övme (6 harf) [B348-S4]",
+      "answer": "TAKDİR"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 4,
+      "col": 1,
+      "length": 5,
+      "clue": "Şehirlerde iki yanı binalarla çevrili, taşıtların geçtiği geniş ana yol (5 harf) [B348-S5]",
+      "answer": "CADDE"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 4,
+      "col": 9,
+      "length": 4,
+      "clue": "Kalemin kâğıda bıraktığı; harflerden oluşan okunabilir işaretler (4 harf) [B348-S6]",
+      "answer": "YAZI"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 5,
+      "col": 5,
+      "length": 6,
+      "clue": "İnsan ya da kürek gücüyle suda yol alan küçük açık deniz teknesi (6 harf) [B348-S7]",
+      "answer": "SANDAL"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 5,
+      "col": 6,
+      "length": 4,
+      "clue": "Bacağın bileğinden aşağısı; üzerine basarak yürümemizi sağlayan uzuv (4 harf) [B348-S8]",
+      "answer": "AYAK"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "length": 4,
+      "clue": "Bir kimseyle ayrılırken söylenen son söz; ayrılık selamı (4 harf) [B348-S9]",
+      "answer": "VEDA"
+    },
+    {
+      "number": 10,
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "length": 5,
+      "clue": "Padişah veya hükümdarların oturduğu, görkemli mimarisi olan büyük yapı (5 harf) [B348-S10]",
+      "answer": "SARAY"
+    }
+  ]
+}

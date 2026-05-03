@@ -1,0 +1,197 @@
+{
+  "id": 487,
+  "title": "Bölüm 487",
+  "difficulty": "Orta",
+  "grid_size_r": 8,
+  "grid_size_c": 10,
+  "grid": [
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "length": 4,
+      "clue": "İçi boşluk bırakmayacak biçimde bir şeyle tamamen kaplanmış olan (4 harf) [B231-S1]",
+      "answer": "DOLU"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "length": 4,
+      "clue": "Aradaki mesafenin çok olduğu; yakınlığı hissedilmeyen ötelerdeki yer (4 harf) [B231-S2]",
+      "answer": "UZAK"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "length": 6,
+      "clue": "Bir merkezden eşit uzaklıktaki noktaların oluşturduğu kapalı eğri (6 harf) [B231-S3]",
+      "answer": "ÇEMBER"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "length": 3,
+      "clue": "Üzerinde nokta bulunan, oyunlarda atılan altı yüzlü küçük küp (3 harf) [B231-S4]",
+      "answer": "ZAR"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 2,
+      "col": 3,
+      "length": 4,
+      "clue": "Belirli bir yönde hareket eden elektrik yükü ya da suyun sürüklenişi (4 harf) [B231-S5]",
+      "answer": "AKIM"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "length": 4,
+      "clue": "Şehir içinde insanların dinlenip yürüdüğü, ağaçlıklı kamusal yeşil alan (4 harf) [B231-S6]",
+      "answer": "PARK"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 3,
+      "col": 6,
+      "length": 4,
+      "clue": "Gökyüzündeki yıldız öbeklerinin oluşturduğu, astrolojide kullanılan imge (4 harf) [B231-S7]",
+      "answer": "BURÇ"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 5,
+      "col": 4,
+      "length": 3,
+      "clue": "Üstesinden gelinmesi emek isteyen; kolayın tam karşıtı sayılan güç iş (3 harf) [B231-S8]",
+      "answer": "ZOR"
+    },
+    {
+      "number": 9,
+      "direction": "down",
+      "row": 5,
+      "col": 5,
+      "length": 3,
+      "clue": "Bir evin ya da binanın duvarlarla ayrılmış, belirli amaçla kullanılan bölümü (3 harf) [B231-S9]",
+      "answer": "ODA"
+    },
+    {
+      "number": 10,
+      "direction": "across",
+      "row": 7,
+      "col": 4,
+      "length": 4,
+      "clue": "İki şeyin birbirinden ayrıldığı yön; aralarındaki benzemezlik (4 harf) [B231-S10]",
+      "answer": "FARK"
+    }
+  ]
+}

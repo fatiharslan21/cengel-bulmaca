@@ -1,0 +1,169 @@
+{
+  "id": 327,
+  "title": "Bölüm 327",
+  "difficulty": "Kolay",
+  "grid_size_r": 7,
+  "grid_size_c": 9,
+  "grid": [
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "length": 3,
+      "clue": "Üstesinden gelinmesi emek isteyen; kolayın tam karşıtı sayılan güç iş (3 harf) [B71-S1]",
+      "answer": "ZOR"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "length": 4,
+      "clue": "Katlanabilen küçük bıçak; çoğunlukla cepte taşınan, sivri uçlu el aleti (4 harf) [B71-S2]",
+      "answer": "ÇAKI"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "length": 5,
+      "clue": "Gökyüzünde süzülen, su buharının yoğunlaşmasıyla oluşan beyaz küme (5 harf) [B71-S3]",
+      "answer": "BULUT"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 0,
+      "col": 7,
+      "length": 3,
+      "clue": "Kedisiyle ve gölüyle ünlü, Türkiye'nin doğusundaki büyük il (3 harf) [B71-S4]",
+      "answer": "VAN"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "length": 4,
+      "clue": "Kulpundan tutularak su ya da başka sıvı taşınan derin silindirik kap (4 harf) [B71-S5]",
+      "answer": "KOVA"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 1,
+      "col": 5,
+      "length": 4,
+      "clue": "Kanatları sayesinde havalanıp gökyüzünde uçan motorlu büyük taşıt (4 harf) [B71-S6]",
+      "answer": "UÇAK"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 2,
+      "col": 3,
+      "length": 3,
+      "clue": "Gitme, olduğun yerde dur; git sözcüğünün tam karşıtı olan emir (3 harf) [B71-S7]",
+      "answer": "KAL"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 4,
+      "col": 5,
+      "length": 4,
+      "clue": "Anadolu ve çevresinde yaşayan, Orta Asya kökenli büyük millet (4 harf) [B71-S8]",
+      "answer": "TÜRK"
+    },
+    {
+      "number": 9,
+      "direction": "down",
+      "row": 4,
+      "col": 8,
+      "length": 3,
+      "clue": "Bir şeyin yanıp bitmesinin ardından geriye kalan kurumuş toz madde (3 harf) [B71-S9]",
+      "answer": "KÜL"
+    }
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "id": 124,
+  "title": "Bölüm 124",
+  "difficulty": "Orta",
+  "grid_size_r": 9,
+  "grid_size_c": 11,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "length": 4,
+      "clue": "Bir olayın başlangıcı ile sonu arasında geçen zaman aralığı (4 harf) [B246-S1]",
+      "answer": "SÜRE"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 2,
+      "col": 3,
+      "length": 4,
+      "clue": "Bir evin ya da iş yerinin kullanımı için sahibine ödenen aylık ücret (4 harf) [B246-S2]",
+      "answer": "KIRA"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 2,
+      "col": 3,
+      "length": 5,
+      "clue": "Bir nehrin ya da vadinin iki yakasını birbirine bağlayan geçit yapısı (5 harf) [B246-S2]",
+      "answer": "KÖPRÜ"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 3,
+      "col": 1,
+      "length": 3,
+      "clue": "Havada ya da bir yüzeyde bulunan, hissedilen rutubet miktarı (3 harf) [B246-S3]",
+      "answer": "NEM"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 3,
+      "col": 8,
+      "length": 3,
+      "clue": "Yüzlerin onunun bir araya gelmesiyle oluşan dört basamaklı sayı (3 harf) [B246-S4]",
+      "answer": "BİN"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "length": 6,
+      "clue": "Yer kabuğunun kırılmasıyla meydana gelen, yüzeyi sarsan doğal olay (6 harf) [B246-S5]",
+      "answer": "DEPREM"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 4,
+      "col": 5,
+      "length": 5,
+      "clue": "Hayal ürünü kahramanların yer aldığı, 'bir varmış bir yokmuş'la başlayan öykü (5 harf) [B246-S6]",
+      "answer": "MASAL"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 4,
+      "col": 8,
+      "length": 3,
+      "clue": "Bir sıranın en başında bulunan; sondan önce hiçbir şey olmayan sırada birinci (3 harf) [B246-S7]",
+      "answer": "İLK"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 5,
+      "col": 5,
+      "length": 4,
+      "clue": "Üzerinde yapı bulunmayan, belli sınırlarla çevrili geniş açık düzlük (4 harf) [B246-S8]",
+      "answer": "ALAN"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 7,
+      "col": 4,
+      "length": 3,
+      "clue": "Tarihte belli özelliklerle ayırt edilen uzun dönem; devir, asır (3 harf) [B246-S9]",
+      "answer": "ÇAĞ"
+    }
+  ]
+}

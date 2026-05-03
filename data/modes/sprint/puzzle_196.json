@@ -1,0 +1,241 @@
+{
+  "id": 196,
+  "title": "Bölüm 196",
+  "difficulty": "Çok Zor",
+  "grid_size_r": 10,
+  "grid_size_c": 12,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "length": 4,
+      "clue": "Kulpundan tutularak su ya da başka sıvı taşınan derin silindirik kap (4 harf) [B443-S1]",
+      "answer": "KOVA"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 2,
+      "col": 7,
+      "length": 5,
+      "clue": "Bir işi ya da durumu ara vermeden sürdürme, aksatmadan götürme hali (5 harf) [B443-S2]",
+      "answer": "DEVAM"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 3,
+      "col": 4,
+      "length": 4,
+      "clue": "Yeni toplanmış, bayatlamamış; canlılığını yeni yeni yitirmemiş olan (4 harf) [B443-S3]",
+      "answer": "TAZE"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 5,
+      "col": 1,
+      "length": 3,
+      "clue": "Üstten sıkılan su ile yıkanmak üzere banyoya yerleştirilmiş düzenek (3 harf) [B443-S4]",
+      "answer": "DUŞ"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 5,
+      "col": 4,
+      "length": 4,
+      "clue": "İçerisi camla kaplı; mevsim dışında bile bitki yetiştirilen ısıtılmış yapı (4 harf) [B443-S5]",
+      "answer": "SERA"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 5,
+      "col": 4,
+      "length": 5,
+      "clue": "Zorluklara dayanıp isyan etmeden bekleyebilme; hoşgörü ile katlanma (5 harf) [B443-S5]",
+      "answer": "SABIR"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "length": 5,
+      "clue": "İp ya da parmaklarla oynatılan, tiyatro sahnesinde canlanan figürlü bebek (5 harf) [B443-S6]",
+      "answer": "KUKLA"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 6,
+      "col": 7,
+      "length": 5,
+      "clue": "Hayal ürünü kahramanların yer aldığı, 'bir varmış bir yokmuş'la başlayan öykü (5 harf) [B443-S7]",
+      "answer": "MASAL"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 6,
+      "col": 8,
+      "length": 3,
+      "clue": "Halk ağzında yakışıklı, gösterişli kimse için kullanılan eski bir sözcük (3 harf) [B443-S8]",
+      "answer": "AFİ"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 7,
+      "col": 4,
+      "length": 3,
+      "clue": "Silmek, temizlemek ya da örtmek için kullanılan dokuma kumaş parçası (3 harf) [B443-S9]",
+      "answer": "BEZ"
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "id": 324,
+  "title": "Bölüm 324",
+  "difficulty": "Kolay",
+  "grid_size_r": 5,
+  "grid_size_c": 10,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "length": 4,
+      "clue": "İçine çiçek konulmak üzere yapılmış, ince uzun boyunlu süs kabı (4 harf) [B68-S1]",
+      "answer": "VAZO"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "length": 3,
+      "clue": "Yapının üstünü kapatan, yağmurdan ve güneşten koruyan çatı kısmı (3 harf) [B68-S2]",
+      "answer": "DAM"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 1,
+      "col": 2,
+      "length": 4,
+      "clue": "Çalışmaya ya da yolculuğa kısa bir süre ara vererek dinlenme anı (4 harf) [B68-S3]",
+      "answer": "MOLA"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 1,
+      "col": 4,
+      "length": 3,
+      "clue": "Uyku sırasında zihnin canlandırdığı görüntüler ya da uyanıkken kurulan hayal (3 harf) [B68-S4]",
+      "answer": "DÜŞ"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 1,
+      "col": 4,
+      "length": 3,
+      "clue": "Bir ağacın gövdesinden yanlara doğru uzayan ve yapraklarını taşıyan kol (3 harf) [B68-S4]",
+      "answer": "DAL"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 1,
+      "col": 6,
+      "length": 3,
+      "clue": "Yaptıklarıyla uzaklarda bile tanınıp bilinir olmanın verdiği büyük ün (3 harf) [B68-S5]",
+      "answer": "ŞAN"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 2,
+      "col": 2,
+      "length": 3,
+      "clue": "Bir evin ya da binanın duvarlarla ayrılmış, belirli amaçla kullanılan bölümü (3 harf) [B68-S6]",
+      "answer": "ODA"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 2,
+      "col": 6,
+      "length": 4,
+      "clue": "İçten duyulan istek, gönülden beklenen dilek veya özlem (4 harf) [B68-S7]",
+      "answer": "ARZU"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 4,
+      "col": 1,
+      "length": 3,
+      "clue": "Bir binanın birbirinin üzerine gelen yatay bölümlerinden her biri (3 harf) [B68-S8]",
+      "answer": "KAT"
+    }
+  ]
+}

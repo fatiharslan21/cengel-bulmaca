@@ -1,0 +1,222 @@
+{
+  "id": 218,
+  "title": "Bölüm 218",
+  "difficulty": "Zor",
+  "grid_size_r": 11,
+  "grid_size_c": 9,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "length": 4,
+      "clue": "İstemeden yapılan yanlış; doğru olandan sapmanın yol açtığı kusur (4 harf) [B340-S1]",
+      "answer": "HATA"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 2,
+      "col": 3,
+      "length": 5,
+      "clue": "Mutfağa giren, bitki kökleri ve yapraklarından oluşan yenilebilir besin (5 harf) [B340-S2]",
+      "answer": "SEBZE"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 2,
+      "col": 5,
+      "length": 5,
+      "clue": "Bir yüzeyin ya da nesnenin dış sınırını oluşturan uç bölüm (5 harf) [B340-S3]",
+      "answer": "KENAR"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 2,
+      "col": 5,
+      "length": 4,
+      "clue": "Nüfusu kalabalık, altyapısı gelişmiş, şehir niteliğindeki yerleşim yeri (4 harf) [B340-S3]",
+      "answer": "KENT"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 3,
+      "col": 2,
+      "length": 4,
+      "clue": "Bir kelimeyi bir nefeste söyleyebildiğimiz en küçük ses birimi (4 harf) [B340-S4]",
+      "answer": "HECE"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 5,
+      "col": 5,
+      "length": 3,
+      "clue": "Bir üstün ya da yetkilinin önüne saygıyla sunma, takdim etme eylemi (3 harf) [B340-S5]",
+      "answer": "ARZ"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "length": 4,
+      "clue": "Dağlardan doğan, ırmağa ya da göle dökülen küçük doğal akarsu (4 harf) [B340-S6]",
+      "answer": "DERE"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 6,
+      "col": 0,
+      "length": 5,
+      "clue": "İçine giysi, kap kacak ya da eşya konulan, kapaklı büyük mobilya (5 harf) [B340-S6]",
+      "answer": "DOLAP"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 6,
+      "col": 2,
+      "length": 3,
+      "clue": "İnsanın bedenine hayat veren, duygularının ve düşüncelerinin kaynağı manevi öz (3 harf) [B340-S7]",
+      "answer": "RUH"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 8,
+      "col": 2,
+      "length": 3,
+      "clue": "Bir noktadan diğerine uzanan düz çizgi; yol ya da güzergâh (3 harf) [B340-S8]",
+      "answer": "HAT"
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "id": 181,
+  "title": "Bölüm 181",
+  "difficulty": "Zor",
+  "grid_size_r": 8,
+  "grid_size_c": 10,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "length": 5,
+      "clue": "Kat kat hamuru kremayla birleştirilen, doğum günlerinde kesilen tatlı (5 harf) [B303-S1]",
+      "answer": "PASTA"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "length": 3,
+      "clue": "Yılın en soğuk, en karlı ve gündüzlerin en kısa olduğu dört mevsimden biri (3 harf) [B303-S2]",
+      "answer": "KIŞ"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 1,
+      "col": 3,
+      "length": 4,
+      "clue": "Boyu kısa, dalları sık ve odunsu olan, çok dallı bodur bitki (4 harf) [B303-S3]",
+      "answer": "ÇALI"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 3,
+      "col": 7,
+      "length": 5,
+      "clue": "Bir şeyin eksiksiz, kusursuz ve en üst düzeyde olgunlaşmış hali (5 harf) [B303-S4]",
+      "answer": "KEMAL"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 4,
+      "col": 1,
+      "length": 3,
+      "clue": "Kulağımıza ulaşan her türlü titreşim; konuşma ve müziğin temeli (3 harf) [B303-S5]",
+      "answer": "SES"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 4,
+      "col": 3,
+      "length": 6,
+      "clue": "Bir işi başarmak için katlanılan güçlük; çekilen eziyet (6 harf) [B303-S6]",
+      "answer": "ZAHMET"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 4,
+      "col": 3,
+      "length": 4,
+      "clue": "Yapılan ya da tadılan şeyden alınan; insanın içini hoşnut eden keyif (4 harf) [B303-S6]",
+      "answer": "ZEVK"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 4,
+      "col": 5,
+      "length": 4,
+      "clue": "Bir kelimeyi bir nefeste söyleyebildiğimiz en küçük ses birimi (4 harf) [B303-S7]",
+      "answer": "HECE"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "length": 4,
+      "clue": "Güneşin batmasından doğmasına kadar süren karanlık zaman dilimi (4 harf) [B303-S8]",
+      "answer": "GECE"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 6,
+      "col": 7,
+      "length": 3,
+      "clue": "Çiçeklerden topladığı nektarı bala dönüştüren, iğneli küçük böcek (3 harf) [B303-S9]",
+      "answer": "ARI"
+    }
+  ]
+}

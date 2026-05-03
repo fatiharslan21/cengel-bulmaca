@@ -1,0 +1,176 @@
+{
+  "id": 502,
+  "title": "Bölüm 502",
+  "difficulty": "Kolay",
+  "grid_size_r": 7,
+  "grid_size_c": 10,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "across",
+      "row": 0,
+      "col": 4,
+      "length": 3,
+      "clue": "Bir kişinin atalarından gelen kan bağı; aile kökeni ve nesli (3 harf) [B121-S1]",
+      "answer": "SOY"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "length": 5,
+      "clue": "Geniş bir alana yayılmış, iç içe büyümüş ağaçlardan oluşan doğal yaşam (5 harf) [B121-S2]",
+      "answer": "ORMAN"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 1,
+      "col": 2,
+      "length": 5,
+      "clue": "Denizin ya da gölün karaya kavuştuğu kumlu ve taşlı kıyı şeridi (5 harf) [B121-S3]",
+      "answer": "SAHİL"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 1,
+      "col": 9,
+      "length": 3,
+      "clue": "İki şeyin birbirinden ayrıldığı boşluk; kısa mola süresi (3 harf) [B121-S4]",
+      "answer": "ARA"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 2,
+      "col": 1,
+      "length": 5,
+      "clue": "Ucundan mürekkep ya da grafit akıtarak kâğıda yazı yazmayı sağlayan araç (5 harf) [B121-S5]",
+      "answer": "KALEM"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 2,
+      "col": 7,
+      "length": 5,
+      "clue": "Kitap, hikâye ya da makale gibi edebi eserler kaleme alan kimse (5 harf) [B121-S6]",
+      "answer": "YAZAR"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 3,
+      "col": 5,
+      "length": 5,
+      "clue": "Tekerlekleri üstünde insan ya da yük taşıyan motorlu kara taşıtı (5 harf) [B121-S7]",
+      "answer": "ARABA"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "length": 5,
+      "clue": "Gökyüzünde süzülen, su buharının yoğunlaşmasıyla oluşan beyaz küme (5 harf) [B121-S8]",
+      "answer": "BULUT"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 5,
+      "col": 6,
+      "length": 3,
+      "clue": "Tarihte belli özelliklerle ayırt edilen uzun dönem; devir, asır (3 harf) [B121-S9]",
+      "answer": "ÇAĞ"
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "id": 257,
+  "title": "Bölüm 257",
+  "difficulty": "Kolay",
+  "grid_size_r": 7,
+  "grid_size_c": 10,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "length": 5,
+      "clue": "Radyo dalgalarını yollayıp yansımasını ölçerek uzaktaki nesneleri belirleyen sistem (5 harf) [B4-S1]",
+      "answer": "RADAR"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "length": 4,
+      "clue": "Bir kimsenin doğup büyüdüğü vatanı; ait olduğu aziz memleket (4 harf) [B4-S2]",
+      "answer": "YURT"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 1,
+      "col": 1,
+      "length": 5,
+      "clue": "Padişah veya hükümdarların oturduğu, görkemli mimarisi olan büyük yapı (5 harf) [B4-S3]",
+      "answer": "SARAY"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 1,
+      "col": 3,
+      "length": 4,
+      "clue": "Bir evin ya da iş yerinin kullanımı için sahibine ödenen aylık ücret (4 harf) [B4-S4]",
+      "answer": "KIRA"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 2,
+      "col": 6,
+      "length": 4,
+      "clue": "Dağlardan doğan, ırmağa ya da göle dökülen küçük doğal akarsu (4 harf) [B4-S5]",
+      "answer": "DERE"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 3,
+      "col": 4,
+      "length": 3,
+      "clue": "Eskiden köylerde geniş topraklara sahip, sözü geçen nüfuzlu kişi (3 harf) [B4-S6]",
+      "answer": "AĞA"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 3,
+      "col": 4,
+      "length": 4,
+      "clue": "İnsanın düşünmesini, anlamasını ve karar vermesini sağlayan zihinsel yeti (4 harf) [B4-S6]",
+      "answer": "AKIL"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "length": 5,
+      "clue": "Yemeklerin servis edildiği, yuvarlak ve yassı porselen ya da cam kap (5 harf) [B4-S7]",
+      "answer": "TABAK"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 6,
+      "col": 2,
+      "length": 5,
+      "clue": "Işığın önüne bir cisim girince arkasında oluşan karanlık alan (5 harf) [B4-S8]",
+      "answer": "GÖLGE"
+    }
+  ]
+}

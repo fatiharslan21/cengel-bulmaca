@@ -1,0 +1,233 @@
+{
+  "id": 177,
+  "title": "Bölüm 177",
+  "difficulty": "Çok Zor",
+  "grid_size_r": 11,
+  "grid_size_c": 10,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "length": 4,
+      "clue": "Başımızın üstünde uzanan mavi kubbe; yıldızları barındıran gökyüzü (4 harf) [B424-S1]",
+      "answer": "SEMA"
+    },
+    {
+      "number": 1,
+      "direction": "across",
+      "row": 0,
+      "col": 5,
+      "length": 5,
+      "clue": "Yüreği saran, insanı kendinden geçiren güçlü aşk ve tutku (5 harf) [B424-S1]",
+      "answer": "SEVDA"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 2,
+      "col": 7,
+      "length": 5,
+      "clue": "Uygunsuz bir durumda duyulan utanç; insanın yüzünü gizleme isteği (5 harf) [B424-S2]",
+      "answer": "HİCAP"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 3,
+      "col": 4,
+      "length": 5,
+      "clue": "İnsanın ömür boyu karşılaştığı iyi ya da kötü raslantıların tümü; baht (5 harf) [B424-S3]",
+      "answer": "TALİH"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 3,
+      "col": 4,
+      "length": 5,
+      "clue": "Beklenmedik bir durum karşısında gösterilen aceleci ve tedirgin hal (5 harf) [B424-S3]",
+      "answer": "TELAŞ"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 4,
+      "col": 1,
+      "length": 4,
+      "clue": "Kalınlığı az olan; zarif ve narin yapıda bulunan; kalının karşıtı (4 harf) [B424-S4]",
+      "answer": "İNCE"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 5,
+      "col": 6,
+      "length": 3,
+      "clue": "Demirin hava ve nemle temas ederek zamanla üzerinde oluşturduğu kızıl tabaka (3 harf) [B424-S5]",
+      "answer": "PAS"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "length": 6,
+      "clue": "Zayıfa ve çaresize duyulan içten sevgi; acıyarak sarılma duygusu (6 harf) [B424-S6]",
+      "answer": "ŞEFKAT"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 6,
+      "col": 2,
+      "length": 5,
+      "clue": "Birbirinden ayrı düşen sevgililerin yaşadığı acı dolu ayrılık (5 harf) [B424-S7]",
+      "answer": "FIRAK"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 9,
+      "col": 1,
+      "length": 5,
+      "clue": "Göze ve gönle hoş gelen, nazik ve yumuşak huylu; incelikli olan (5 harf) [B424-S8]",
+      "answer": "LATİF"
+    }
+  ]
+}

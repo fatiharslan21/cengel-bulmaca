@@ -1,0 +1,176 @@
+{
+  "id": 276,
+  "title": "Bölüm 276",
+  "difficulty": "Kolay",
+  "grid_size_r": 7,
+  "grid_size_c": 10,
+  "grid": [
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "length": 4,
+      "clue": "İnsanı üzen, iç sıkıntısı veren; uzun süre geçmeyen tasa ve keder (4 harf) [B21-S1]",
+      "answer": "DERT"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "length": 3,
+      "clue": "Aynı ortak özellikleri taşıyan canlıların oluşturduğu sınıflama birimi (3 harf) [B21-S2]",
+      "answer": "TÜR"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 2,
+      "col": 1,
+      "length": 3,
+      "clue": "Üstesinden gelinmesi emek isteyen; kolayın tam karşıtı sayılan güç iş (3 harf) [B21-S3]",
+      "answer": "ZOR"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 2,
+      "col": 2,
+      "length": 4,
+      "clue": "Yolcuların ücret karşılığı geceyi geçirdiği, odaları olan konaklama işletmesi (4 harf) [B21-S4]",
+      "answer": "OTEL"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 2,
+      "col": 5,
+      "length": 5,
+      "clue": "Dünyanın farklı bölgelerini gösteren haritaların toplandığı büyük kitap (5 harf) [B21-S5]",
+      "answer": "ATLAS"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 2,
+      "col": 6,
+      "length": 5,
+      "clue": "Yelkenli ya da motorlu olup denizde kısa yolculuklara çıkan küçük gemi (5 harf) [B21-S6]",
+      "answer": "TEKNE"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 3,
+      "col": 4,
+      "length": 4,
+      "clue": "Türkiye Cumhuriyeti'nin resmi para birimi; TL kısaltmasıyla yazılan değer (4 harf) [B21-S7]",
+      "answer": "LİRA"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 4,
+      "col": 1,
+      "length": 4,
+      "clue": "Denizde yük ya da yolcu taşımak için yapılmış büyük su taşıtı (4 harf) [B21-S8]",
+      "answer": "GEMİ"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 6,
+      "col": 3,
+      "length": 4,
+      "clue": "Sıkıntılı ya da zor bir durumu ortadan kaldıracak çözüm yolu (4 harf) [B21-S9]",
+      "answer": "ÇARE"
+    }
+  ]
+}

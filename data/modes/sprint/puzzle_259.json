@@ -1,0 +1,191 @@
+{
+  "id": 259,
+  "title": "Bölüm 259",
+  "difficulty": "Kolay",
+  "grid_size_r": 9,
+  "grid_size_c": 9,
+  "grid": [
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "length": 4,
+      "clue": "Toprağın altında kalmış eski eserleri çıkarmak için yapılan eşme işi (4 harf) [B6-S1]",
+      "answer": "KAZI"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "length": 4,
+      "clue": "Kırda ya da ormanda silahla veya tuzakla av peşinde koşan kişi (4 harf) [B6-S2]",
+      "answer": "AVCI"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 1,
+      "col": 4,
+      "length": 5,
+      "clue": "Şehirlerde iki yanı binalarla çevrili, taşıtların geçtiği geniş ana yol (5 harf) [B6-S3]",
+      "answer": "CADDE"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 2,
+      "col": 8,
+      "length": 3,
+      "clue": "İçindeki dilin sallanmasıyla ses çıkaran, koni biçimli madeni araç (3 harf) [B6-S4]",
+      "answer": "ÇAN"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 3,
+      "col": 4,
+      "length": 5,
+      "clue": "Üzerinde yaşadığımız, Güneş'in çevresinde dönen mavi yeşil gezegen (5 harf) [B6-S5]",
+      "answer": "DÜNYA"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 4,
+      "col": 1,
+      "length": 4,
+      "clue": "Üçten sonra gelen, mevsim ve yön sayısına denk gelen doğal sayı (4 harf) [B6-S6]",
+      "answer": "DÖRT"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "length": 5,
+      "clue": "Işığın önüne bir cisim girince arkasında oluşan karanlık alan (5 harf) [B6-S7]",
+      "answer": "GÖLGE"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 5,
+      "col": 3,
+      "length": 4,
+      "clue": "Denizde yük ya da yolcu taşımak için yapılmış büyük su taşıtı (4 harf) [B6-S8]",
+      "answer": "GEMİ"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 8,
+      "col": 3,
+      "length": 4,
+      "clue": "Hastalıkları iyileştirmek amacıyla hazırlanan, doktor tarafından verilen madde (4 harf) [B6-S9]",
+      "answer": "İLAÇ"
+    }
+  ]
+}

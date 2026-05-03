@@ -1,0 +1,205 @@
+{
+  "id": 154,
+  "title": "Bölüm 154",
+  "difficulty": "Zor",
+  "grid_size_r": 8,
+  "grid_size_c": 11,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "length": 5,
+      "clue": "Seslerin belli bir düzen içinde bir araya getirilmesiyle oluşan sanat (5 harf) [B276-S1]",
+      "answer": "MÜZİK"
+    },
+    {
+      "number": 1,
+      "direction": "across",
+      "row": 0,
+      "col": 6,
+      "length": 5,
+      "clue": "Sevinçle karşılanan, umut veren yeni gelen güzel haber (5 harf) [B276-S1]",
+      "answer": "MÜJDE"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 1,
+      "col": 3,
+      "length": 4,
+      "clue": "Yeni durumlara hızla uyum sağlayıp doğru kararlar verebilme yeteneği (4 harf) [B276-S2]",
+      "answer": "ZEKA"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "length": 4,
+      "clue": "Serinletici kokusuyla tanınan, çaya ve yemeklere katılan yeşil yapraklı ot (4 harf) [B276-S3]",
+      "answer": "NANE"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 2,
+      "col": 9,
+      "length": 5,
+      "clue": "Yemeklerin servis edildiği, yuvarlak ve yassı porselen ya da cam kap (5 harf) [B276-S4]",
+      "answer": "TABAK"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 3,
+      "col": 6,
+      "length": 5,
+      "clue": "Bir şeyin anlamını kavrama; olup biteni zihinde anlamlandırma yeteneği (5 harf) [B276-S5]",
+      "answer": "İDRAK"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 4,
+      "col": 3,
+      "length": 4,
+      "clue": "Bacağın bileğinden aşağısı; üzerine basarak yürümemizi sağlayan uzuv (4 harf) [B276-S6]",
+      "answer": "AYAK"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 4,
+      "col": 5,
+      "length": 4,
+      "clue": "Mutfakta yemek pişirmeyi meslek edinmiş, lezzetten anlayan kişi (4 harf) [B276-S7]",
+      "answer": "AŞÇI"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 5,
+      "col": 8,
+      "length": 3,
+      "clue": "İçindeki dilin sallanmasıyla ses çıkaran, koni biçimli madeni araç (3 harf) [B276-S8]",
+      "answer": "ÇAN"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 6,
+      "col": 2,
+      "length": 4,
+      "clue": "Hastalıkları iyileştirmek amacıyla hazırlanan, doktor tarafından verilen madde (4 harf) [B276-S9]",
+      "answer": "İLAÇ"
+    }
+  ]
+}

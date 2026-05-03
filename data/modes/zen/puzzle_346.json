@@ -1,0 +1,244 @@
+{
+  "id": 346,
+  "title": "Bölüm 346",
+  "difficulty": "Çok Zor",
+  "grid_size_r": 11,
+  "grid_size_c": 11,
+  "grid": [
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "length": 4,
+      "clue": "İçine çiçek konulmak üzere yapılmış, ince uzun boyunlu süs kabı (4 harf) [B468-S1]",
+      "answer": "VAZO"
+    },
+    {
+      "number": 1,
+      "direction": "across",
+      "row": 0,
+      "col": 2,
+      "length": 5,
+      "clue": "Saniyelerden yıllara uzanan; akıp giden, geri döndürülemeyen zaman (5 harf) [B468-S1]",
+      "answer": "VAKİT"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 9,
+      "length": 4,
+      "clue": "Raylar üzerinde hareket eden, vagonları çeken büyük motorlu araç (4 harf) [B468-S2]",
+      "answer": "TREN"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "length": 6,
+      "clue": "Bir işi yapabilme gücü; insanda ya da doğada bulunan büyük kuvvet (6 harf) [B468-S3]",
+      "answer": "KUDRET"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 2,
+      "col": 4,
+      "length": 7,
+      "clue": "Tırtılken metamorfoz geçirip renkli kanatlara kavuşan zarif böcek (7 harf) [B468-S3]",
+      "answer": "KELEBEK"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 3,
+      "col": 1,
+      "length": 4,
+      "clue": "İçinden su, gaz ya da başka sıvıların geçtiği içi boş uzun silindir (4 harf) [B468-S4]",
+      "answer": "BORU"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 4,
+      "col": 6,
+      "length": 4,
+      "clue": "Bir olayın başlangıcı ile sonu arasında geçen zaman aralığı (4 harf) [B468-S5]",
+      "answer": "SÜRE"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 5,
+      "col": 0,
+      "length": 6,
+      "clue": "Kişinin payına düşen; kaderin ona uygun gördüğü nasibi ya da şansı (6 harf) [B468-S6]",
+      "answer": "KISMET"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 5,
+      "col": 3,
+      "length": 4,
+      "clue": "Bir eşyanın ya da yüzeyin üstünü kapatmak için serilen kumaş parçası (4 harf) [B468-S7]",
+      "answer": "ÖRTÜ"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "length": 5,
+      "clue": "Etraf çınlayarak susma; hiçbir ses çıkmayan derin sessizlik (5 harf) [B468-S8]",
+      "answer": "SUKUT"
+    }
+  ]
+}

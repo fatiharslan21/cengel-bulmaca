@@ -1,0 +1,233 @@
+{
+  "id": 314,
+  "title": "Bölüm 314",
+  "difficulty": "Çok Zor",
+  "grid_size_r": 11,
+  "grid_size_c": 10,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "length": 5,
+      "clue": "Pencereyi örtmek için asılan, ışığı ve dışarıdan görünmeyi engelleyen kumaş (5 harf) [B436-S1]",
+      "answer": "PERDE"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "length": 5,
+      "clue": "İp ya da parmaklarla oynatılan, tiyatro sahnesinde canlanan figürlü bebek (5 harf) [B436-S2]",
+      "answer": "KUKLA"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "length": 5,
+      "clue": "Geçim sıkıntısı çekmeden, bolluk içinde sürdürülen rahat ve huzurlu yaşam (5 harf) [B436-S3]",
+      "answer": "REFAH"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 1,
+      "col": 6,
+      "length": 4,
+      "clue": "Birini aldatmak için yapılan gizli düzen; dolap çevirme (4 harf) [B436-S4]",
+      "answer": "HİLE"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "length": 4,
+      "clue": "Sayılabilen nesnelerin her biri; küçük parça ya da adet (4 harf) [B436-S5]",
+      "answer": "TANE"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 4,
+      "col": 5,
+      "length": 4,
+      "clue": "Hayvanların otlayıp beslenmesi için ayrılmış, doğal otlarla kaplı geniş alan (4 harf) [B436-S6]",
+      "answer": "MERA"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 4,
+      "col": 5,
+      "length": 5,
+      "clue": "Bir sürecin başladığı; sıfırdan hesaplandığı başlangıç tarihi (5 harf) [B436-S6]",
+      "answer": "MİLAT"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 6,
+      "col": 7,
+      "length": 5,
+      "clue": "Vücudun belirli bir işlevi yerine getiren, dokulardan oluşmuş bölümü (5 harf) [B436-S7]",
+      "answer": "ORGAN"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 7,
+      "col": 4,
+      "length": 6,
+      "clue": "Uzakta olan bir sevgiliyi ya da yeri özlemenin içe işleyen duygusu (6 harf) [B436-S8]",
+      "answer": "HASRET"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 9,
+      "col": 6,
+      "length": 4,
+      "clue": "Limon ve altın tonlarında olan, güneşi çağrıştıran canlı sıcak renk (4 harf) [B436-S9]",
+      "answer": "SARI"
+    }
+  ]
+}

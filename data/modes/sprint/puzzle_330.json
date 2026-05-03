@@ -1,0 +1,224 @@
+{
+  "id": 330,
+  "title": "Bölüm 330",
+  "difficulty": "Kolay",
+  "grid_size_r": 12,
+  "grid_size_c": 9,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "length": 5,
+      "clue": "Sayfalardan oluşan, üzerine bilgi ya da hikâye yazılmış ciltli eser (5 harf) [B74-S1]",
+      "answer": "KİTAP"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 4,
+      "col": 6,
+      "length": 3,
+      "clue": "Demirin hava ve nemle temas ederek zamanla üzerinde oluşturduğu kızıl tabaka (3 harf) [B74-S2]",
+      "answer": "PAS"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 4,
+      "col": 7,
+      "length": 4,
+      "clue": "Kırda ya da ormanda silahla veya tuzakla av peşinde koşan kişi (4 harf) [B74-S3]",
+      "answer": "AVCI"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 6,
+      "col": 5,
+      "length": 4,
+      "clue": "Bir kesik ya da darbe sonucu bedende oluşan açık doku hasarı (4 harf) [B74-S4]",
+      "answer": "YARA"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 7,
+      "col": 4,
+      "length": 4,
+      "clue": "Kalemin kâğıda bıraktığı; harflerden oluşan okunabilir işaretler (4 harf) [B74-S5]",
+      "answer": "YAZI"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 9,
+      "col": 1,
+      "length": 3,
+      "clue": "Bir binanın birbirinin üzerine gelen yatay bölümlerinden her biri (3 harf) [B74-S6]",
+      "answer": "KAT"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 9,
+      "col": 4,
+      "length": 3,
+      "clue": "Omuzlara atılan ya da başa örtülen, yumuşak geniş kumaş parçası (3 harf) [B74-S7]",
+      "answer": "ŞAL"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 9,
+      "col": 4,
+      "length": 3,
+      "clue": "Yaptıklarıyla uzaklarda bile tanınıp bilinir olmanın verdiği büyük ün (3 harf) [B74-S7]",
+      "answer": "ŞAN"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 10,
+      "col": 0,
+      "length": 5,
+      "clue": "Kat kat hamuru kremayla birleştirilen, doğum günlerinde kesilen tatlı (5 harf) [B74-S8]",
+      "answer": "PASTA"
+    }
+  ]
+}

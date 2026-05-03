@@ -1,0 +1,221 @@
+{
+  "id": 207,
+  "title": "Bölüm 207",
+  "difficulty": "Çok Zor",
+  "grid_size_r": 12,
+  "grid_size_c": 8,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "length": 4,
+      "clue": "Birine seslenmek için çıkarılan yüksek ses; çağırmak amaçlı bağırma (4 harf) [B454-S1]",
+      "answer": "NİDA"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "length": 5,
+      "clue": "Ortak bir malın ya da işin her birine düşen pay; nasip (5 harf) [B454-S2]",
+      "answer": "HİSSE"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "length": 5,
+      "clue": "Geçim sıkıntısı çekmeden, bolluk içinde sürdürülen rahat ve huzurlu yaşam (5 harf) [B454-S3]",
+      "answer": "REFAH"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "length": 4,
+      "clue": "Dostluğunu ve sevgisini zaman geçse bile sürdürme; söze sadakat (4 harf) [B454-S4]",
+      "answer": "VEFA"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "length": 5,
+      "clue": "Kırıcı olmayan, incelikli davranışları olan; kibar ve görgülü kimse (5 harf) [B454-S5]",
+      "answer": "NAZİK"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 5,
+      "col": 4,
+      "length": 4,
+      "clue": "Bir yarışmanın galibine ödül olarak verilen, ayaklı madeni kadeh (4 harf) [B454-S6]",
+      "answer": "KUPA"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 7,
+      "col": 2,
+      "length": 4,
+      "clue": "Uzaktan duyulan insan ya da doğa sesi; boğumlu ses dalgası (4 harf) [B454-S7]",
+      "answer": "SADA"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 8,
+      "col": 2,
+      "length": 4,
+      "clue": "Toprağa kök salmış, gövdesi odunlaşmış, uzun ömürlü büyük bitki (4 harf) [B454-S8]",
+      "answer": "AĞAÇ"
+    },
+    {
+      "number": 9,
+      "direction": "down",
+      "row": 8,
+      "col": 7,
+      "length": 4,
+      "clue": "Mahkemenin verdiği kararı bildiren, yazılı resmi belge (4 harf) [B454-S9]",
+      "answer": "İLAM"
+    },
+    {
+      "number": 10,
+      "direction": "across",
+      "row": 10,
+      "col": 1,
+      "length": 7,
+      "clue": "Sürüler halinde yaşayan, küçük gövdesine rağmen iri yükleri taşıyan böcek (7 harf) [B454-S10]",
+      "answer": "KARINCA"
+    }
+  ]
+}

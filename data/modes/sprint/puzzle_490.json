@@ -1,0 +1,191 @@
+{
+  "id": 490,
+  "title": "Bölüm 490",
+  "difficulty": "Orta",
+  "grid_size_r": 10,
+  "grid_size_c": 7,
+  "grid": [
+    [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 0,
+      "length": 4,
+      "clue": "İçinden su, gaz ya da başka sıvıların geçtiği içi boş uzun silindir (4 harf) [B234-S1]",
+      "answer": "BORU"
+    },
+    {
+      "number": 1,
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "length": 3,
+      "clue": "Yeteri kadarının üstünde, çokça bulunan; dar sözcüğünün zıttı sayılan (3 harf) [B234-S1]",
+      "answer": "BOL"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "length": 4,
+      "clue": "Uykuda iken zihnin sahneler halinde canlandırdığı renkli görüntüler (4 harf) [B234-S2]",
+      "answer": "RÜYA"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 2,
+      "col": 3,
+      "length": 3,
+      "clue": "Eskiden köylerde geniş topraklara sahip, sözü geçen nüfuzlu kişi (3 harf) [B234-S3]",
+      "answer": "AĞA"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 4,
+      "col": 2,
+      "length": 3,
+      "clue": "Pantolon ya da ceketin içine dikilmiş, ufak eşya konulan küçük kese (3 harf) [B234-S4]",
+      "answer": "CEP"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 4,
+      "col": 2,
+      "length": 3,
+      "clue": "İnsanı yaşatan soluk, ruh; bedenin yaşamını sürdürmesini sağlayan güç (3 harf) [B234-S4]",
+      "answer": "CAN"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 5,
+      "col": 5,
+      "length": 3,
+      "clue": "Bin kilograma eşit olan büyük ağırlık ölçü birimi (3 harf) [B234-S5]",
+      "answer": "TON"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 6,
+      "col": 2,
+      "length": 5,
+      "clue": "Havada uçağı yöneten, onu kalkış ve inişlerde kullanan yetişmiş kişi (5 harf) [B234-S6]",
+      "answer": "PİLOT"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 6,
+      "col": 3,
+      "length": 4,
+      "clue": "Hastalıkları iyileştirmek amacıyla hazırlanan, doktor tarafından verilen madde (4 harf) [B234-S7]",
+      "answer": "İLAÇ"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 8,
+      "col": 2,
+      "length": 3,
+      "clue": "Üzerinde nokta bulunan, oyunlarda atılan altı yüzlü küçük küp (3 harf) [B234-S8]",
+      "answer": "ZAR"
+    }
+  ]
+}

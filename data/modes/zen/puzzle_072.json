@@ -1,0 +1,245 @@
+{
+  "id": 72,
+  "title": "Bölüm 72",
+  "difficulty": "Orta",
+  "grid_size_r": 12,
+  "grid_size_c": 10,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 9,
+      "length": 4,
+      "clue": "Limon ve altın tonlarında olan, güneşi çağrıştıran canlı sıcak renk (4 harf) [B194-S1]",
+      "answer": "SARI"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 1,
+      "col": 5,
+      "length": 4,
+      "clue": "Miyavlayarak seslenen, pençeleri keskin, evlerde beslenen tüylü memeli hayvan (4 harf) [B194-S2]",
+      "answer": "KEDİ"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 2,
+      "col": 4,
+      "length": 6,
+      "clue": "Bir merkezden eşit uzaklıktaki noktaların oluşturduğu kapalı eğri (6 harf) [B194-S3]",
+      "answer": "ÇEMBER"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 3,
+      "col": 1,
+      "length": 4,
+      "clue": "İnsanların içinde oturduğu ya da çalıştığı, taş ve betondan yapılmış yapı (4 harf) [B194-S4]",
+      "answer": "BİNA"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 3,
+      "col": 1,
+      "length": 3,
+      "clue": "İçinde hiçbir şey bulunmayan, doluluğu olmayan kap ya da mekân (3 harf) [B194-S4]",
+      "answer": "BOŞ"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 4,
+      "col": 4,
+      "length": 3,
+      "clue": "Yüzlerin onunun bir araya gelmesiyle oluşan dört basamaklı sayı (3 harf) [B194-S5]",
+      "answer": "BİN"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 4,
+      "col": 4,
+      "length": 3,
+      "clue": "Yeteri kadarının üstünde, çokça bulunan; dar sözcüğünün zıttı sayılan (3 harf) [B194-S5]",
+      "answer": "BOL"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "length": 5,
+      "clue": "Zihinde canlandırılan, gerçekleşmesi beklenen ya da umulan görüntü (5 harf) [B194-S6]",
+      "answer": "HAYAL"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 6,
+      "col": 0,
+      "length": 6,
+      "clue": "Başı, ortası ve sonu olan; yaşanmış ya da kurmaca kısa anlatı (6 harf) [B194-S6]",
+      "answer": "HİKAYE"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 6,
+      "col": 3,
+      "length": 4,
+      "clue": "Bacağın bileğinden aşağısı; üzerine basarak yürümemizi sağlayan uzuv (4 harf) [B194-S7]",
+      "answer": "AYAK"
+    }
+  ]
+}

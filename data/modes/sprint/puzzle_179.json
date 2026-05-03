@@ -1,0 +1,221 @@
+{
+  "id": 179,
+  "title": "Bölüm 179",
+  "difficulty": "Çok Zor",
+  "grid_size_r": 10,
+  "grid_size_c": 10,
+  "grid": [
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "across",
+      "row": 0,
+      "col": 1,
+      "length": 6,
+      "clue": "Şehir içinde ya da dışında birçok yolcuyu bir arada taşıyan büyük araç (6 harf) [B426-S1]",
+      "answer": "OTOBÜS"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "length": 3,
+      "clue": "Denizden ya da yer altından çıkarılan; yemeklere tat veren beyaz tane (3 harf) [B426-S2]",
+      "answer": "TUZ"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "length": 4,
+      "clue": "Başımızın üstünde uzanan mavi kubbe; yıldızları barındıran gökyüzü (4 harf) [B426-S3]",
+      "answer": "SEMA"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 1,
+      "col": 6,
+      "length": 4,
+      "clue": "Kavuşulması için yıllarca beklenen, gönülde taşınan büyük istek (4 harf) [B426-S4]",
+      "answer": "EMEL"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "length": 5,
+      "clue": "İç sıkıntısının olmadığı, gönlün rahat ettiği dingin ruh hali (5 harf) [B426-S5]",
+      "answer": "HUZUR"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 3,
+      "col": 5,
+      "length": 3,
+      "clue": "Soğuk havada bulutlardan düşen, altıgen kristallerden oluşan beyaz yağış (3 harf) [B426-S6]",
+      "answer": "KAR"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 3,
+      "col": 5,
+      "length": 5,
+      "clue": "Sayfalardan oluşan, üzerine bilgi ya da hikâye yazılmış ciltli eser (5 harf) [B426-S6]",
+      "answer": "KİTAP"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 5,
+      "col": 7,
+      "length": 5,
+      "clue": "İnsanın başına geleceği önceden yazıldığına inanılan alın yazısı (5 harf) [B426-S7]",
+      "answer": "KADER"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 6,
+      "col": 5,
+      "length": 5,
+      "clue": "Tekerlekleri üstünde insan ya da yük taşıyan motorlu kara taşıtı (5 harf) [B426-S8]",
+      "answer": "ARABA"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 9,
+      "col": 5,
+      "length": 5,
+      "clue": "Bir dağın en yüksek noktası; ulaşılabilecek en üst basamak (5 harf) [B426-S9]",
+      "answer": "ZİRVE"
+    }
+  ]
+}

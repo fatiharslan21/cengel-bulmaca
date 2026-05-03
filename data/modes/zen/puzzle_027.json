@@ -1,0 +1,244 @@
+{
+  "id": 27,
+  "title": "Bölüm 27",
+  "difficulty": "Orta",
+  "grid_size_r": 11,
+  "grid_size_c": 11,
+  "grid": [
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "length": 4,
+      "clue": "Bir kelimeyi bir nefeste söyleyebildiğimiz en küçük ses birimi (4 harf) [B149-S1]",
+      "answer": "HECE"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 1,
+      "col": 1,
+      "length": 4,
+      "clue": "Evde ya da iş yerinde gündelik hayatta kullanılan nesnelerin tümü (4 harf) [B149-S2]",
+      "answer": "EŞYA"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 1,
+      "col": 4,
+      "length": 3,
+      "clue": "Geçmişte yaşanmış ve zihinde iz bırakmış olayların hatırlanması (3 harf) [B149-S3]",
+      "answer": "ANI"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 1,
+      "col": 8,
+      "length": 4,
+      "clue": "İnsana gülen talih; iyi bir sonucun tesadüfen kısmet olması hali (4 harf) [B149-S4]",
+      "answer": "ŞANS"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 2,
+      "col": 4,
+      "length": 5,
+      "clue": "Bir cümlenin sonuna konan en küçük yazı işareti; konumun kendisi (5 harf) [B149-S5]",
+      "answer": "NOKTA"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "length": 3,
+      "clue": "Bir ekibin başında bulunup işleri yöneten kişi; mutfağın baş aşçısı (3 harf) [B149-S6]",
+      "answer": "ŞEF"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 4,
+      "col": 6,
+      "length": 5,
+      "clue": "Sayılarla yapılan dört işlem; gelir ve giderin tutulduğu kayıt (5 harf) [B149-S7]",
+      "answer": "HESAP"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 4,
+      "col": 6,
+      "length": 3,
+      "clue": "Olumsuzluğu pekiştiren söz; asla ve kesinlikle bulunmama durumu (3 harf) [B149-S7]",
+      "answer": "HİÇ"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 6,
+      "col": 6,
+      "length": 5,
+      "clue": "Bitkinin üreme organı; genellikle göz alıcı renkleri ve kokusu olan kısım (5 harf) [B149-S8]",
+      "answer": "ÇİÇEK"
+    },
+    {
+      "number": 9,
+      "direction": "down",
+      "row": 6,
+      "col": 10,
+      "length": 5,
+      "clue": "İp ya da parmaklarla oynatılan, tiyatro sahnesinde canlanan figürlü bebek (5 harf) [B149-S9]",
+      "answer": "KUKLA"
+    }
+  ]
+}

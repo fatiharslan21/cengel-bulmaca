@@ -1,0 +1,222 @@
+{
+  "id": 136,
+  "title": "Bölüm 136",
+  "difficulty": "Çok Zor",
+  "grid_size_r": 11,
+  "grid_size_c": 9,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "across",
+      "row": 0,
+      "col": 3,
+      "length": 4,
+      "clue": "Uzun kulaklı, sabırlı; köylerde yük taşımada kullanılan küçük binek hayvanı (4 harf) [B383-S1]",
+      "answer": "EŞEK"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "length": 6,
+      "clue": "Zayıfa ve çaresize duyulan içten sevgi; acıyarak sarılma duygusu (6 harf) [B383-S2]",
+      "answer": "ŞEFKAT"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "length": 3,
+      "clue": "Bir binanın birbirinin üzerine gelen yatay bölümlerinden her biri (3 harf) [B383-S3]",
+      "answer": "KAT"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "length": 5,
+      "clue": "Geniş bir alana yayılmış, iç içe büyümüş ağaçlardan oluşan doğal yaşam (5 harf) [B383-S4]",
+      "answer": "ORMAN"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 4,
+      "col": 3,
+      "length": 6,
+      "clue": "Bir binanın üst katlarından dışarı uzanan, parmaklıkla çevrili çıkıntı (6 harf) [B383-S5]",
+      "answer": "BALKON"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 4,
+      "col": 6,
+      "length": 5,
+      "clue": "İnsanın başına geleceği önceden yazıldığına inanılan alın yazısı (5 harf) [B383-S6]",
+      "answer": "KADER"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 6,
+      "col": 1,
+      "length": 4,
+      "clue": "Bir kurala, şahsa ya da düzene bağlı olan; ona uymak durumunda kalan (4 harf) [B383-S7]",
+      "answer": "TABİ"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 6,
+      "col": 3,
+      "length": 5,
+      "clue": "Sonu kötü olabilecek; durumun ne kadar ağır olduğunu gösteren sıfat (5 harf) [B383-S8]",
+      "answer": "VAHİM"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "length": 4,
+      "clue": "İçten duyulan gönül rahatlığı; keder bırakmayan tatlı neşe (4 harf) [B383-S9]",
+      "answer": "SAFA"
+    },
+    {
+      "number": 10,
+      "direction": "across",
+      "row": 8,
+      "col": 3,
+      "length": 6,
+      "clue": "Sevgiliden uzak düşmenin yürekte açtığı derin ayrılık acısı (6 harf) [B383-S10]",
+      "answer": "HİCRAN"
+    }
+  ]
+}

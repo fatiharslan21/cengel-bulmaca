@@ -1,0 +1,221 @@
+{
+  "id": 82,
+  "title": "Bölüm 82",
+  "difficulty": "Orta",
+  "grid_size_r": 10,
+  "grid_size_c": 10,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "length": 6,
+      "clue": "Okyanuslarda yaşayan, dünyanın en büyük sayılan memeli deniz canlısı (6 harf) [B204-S1]",
+      "answer": "BALİNA"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 1,
+      "col": 5,
+      "length": 4,
+      "clue": "Limon ve altın tonlarında olan, güneşi çağrıştıran canlı sıcak renk (4 harf) [B204-S2]",
+      "answer": "SARI"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 3,
+      "col": 2,
+      "length": 4,
+      "clue": "Boş zamanlarda eğlence ya da öğrenme amacıyla kurallara göre oynanan etkinlik (4 harf) [B204-S3]",
+      "answer": "OYUN"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 3,
+      "col": 8,
+      "length": 3,
+      "clue": "Eskiden köylerde geniş topraklara sahip, sözü geçen nüfuzlu kişi (3 harf) [B204-S4]",
+      "answer": "AĞA"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 4,
+      "col": 4,
+      "length": 3,
+      "clue": "Bulunduğun yerden geri çevril; ya da bir eksen etrafında hareket et (3 harf) [B204-S5]",
+      "answer": "DÖN"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 4,
+      "col": 4,
+      "length": 4,
+      "clue": "Üçten sonra gelen, mevsim ve yön sayısına denk gelen doğal sayı (4 harf) [B204-S5]",
+      "answer": "DÖRT"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 5,
+      "col": 6,
+      "length": 4,
+      "clue": "Bacağın bileğinden aşağısı; üzerine basarak yürümemizi sağlayan uzuv (4 harf) [B204-S6]",
+      "answer": "AYAK"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 5,
+      "col": 7,
+      "length": 3,
+      "clue": "Gözlerin, burnun ve ağzın bulunduğu baş ön kısmı; ayrıca on kere on sayısı (3 harf) [B204-S7]",
+      "answer": "YÜZ"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "length": 5,
+      "clue": "Geniş yaprakları ve kalın gövdesiyle yüzyıllarca yaşayabilen büyük ağaç (5 harf) [B204-S8]",
+      "answer": "ÇINAR"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 6,
+      "col": 0,
+      "length": 4,
+      "clue": "Boyu kısa, dalları sık ve odunsu olan, çok dallı bodur bitki (4 harf) [B204-S8]",
+      "answer": "ÇALI"
+    }
+  ]
+}

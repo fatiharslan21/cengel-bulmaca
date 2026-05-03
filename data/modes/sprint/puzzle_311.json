@@ -1,0 +1,192 @@
+{
+  "id": 311,
+  "title": "Bölüm 311",
+  "difficulty": "Kolay",
+  "grid_size_r": 10,
+  "grid_size_c": 8,
+  "grid": [
+    [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 0,
+      "length": 4,
+      "clue": "Kozadan elde edilen, parlak dokulu ve dayanıklı, değerli kumaş lifi (4 harf) [B55-S1]",
+      "answer": "İPEK"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 1,
+      "col": 3,
+      "length": 5,
+      "clue": "Şehirlerde iki yanı binalarla çevrili, taşıtların geçtiği geniş ana yol (5 harf) [B55-S2]",
+      "answer": "CADDE"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "length": 4,
+      "clue": "Evde ya da iş yerinde gündelik hayatta kullanılan nesnelerin tümü (4 harf) [B55-S3]",
+      "answer": "EŞYA"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 4,
+      "col": 1,
+      "length": 3,
+      "clue": "Kulağımıza ulaşan her türlü titreşim; konuşma ve müziğin temeli (3 harf) [B55-S4]",
+      "answer": "SES"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 5,
+      "col": 1,
+      "length": 4,
+      "clue": "Uzun kulaklı, sabırlı; köylerde yük taşımada kullanılan küçük binek hayvanı (4 harf) [B55-S5]",
+      "answer": "EŞEK"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 5,
+      "col": 4,
+      "length": 4,
+      "clue": "Toprağın üstünde ya da altında bulunan, kolay parçalanmayan büyük taş (4 harf) [B55-S6]",
+      "answer": "KAYA"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 6,
+      "col": 4,
+      "length": 4,
+      "clue": "Toprağa kök salmış, gövdesi odunlaşmış, uzun ömürlü büyük bitki (4 harf) [B55-S7]",
+      "answer": "AĞAÇ"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 7,
+      "col": 2,
+      "length": 3,
+      "clue": "Omuzdan bileğe kadar uzanan, eli bedene bağlayan üst uzvumuz (3 harf) [B55-S8]",
+      "answer": "KOL"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 8,
+      "col": 1,
+      "length": 4,
+      "clue": "Saçı ya da kemeri tutturmaya yarayan, klips gibi açılıp kapanan küçük süs (4 harf) [B55-S9]",
+      "answer": "TOKA"
+    }
+  ]
+}

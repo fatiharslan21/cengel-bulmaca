@@ -1,0 +1,199 @@
+{
+  "id": 383,
+  "title": "Bölüm 383",
+  "difficulty": "Orta",
+  "grid_size_r": 7,
+  "grid_size_c": 12,
+  "grid": [
+    [
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 0,
+      "length": 3,
+      "clue": "Başımızın derisinde biten, her birinin kökten uzayan ince tel kıl (3 harf) [B127-S1]",
+      "answer": "SAÇ"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "length": 5,
+      "clue": "Sayfalardan oluşan, üzerine bilgi ya da hikâye yazılmış ciltli eser (5 harf) [B127-S2]",
+      "answer": "KİTAP"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 1,
+      "col": 5,
+      "length": 5,
+      "clue": "Çorba, pilav gibi yemekleri ağza götürmek için kullanılan çukur sap (5 harf) [B127-S3]",
+      "answer": "KAŞIK"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 1,
+      "col": 6,
+      "length": 4,
+      "clue": "Yanmakta olan bir maddenin çıkardığı ısı, ışık ve alevin tümü (4 harf) [B127-S4]",
+      "answer": "ATEŞ"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 1,
+      "col": 9,
+      "length": 4,
+      "clue": "Eskiden şehirleri düşmandan korumak için yapılmış yüksek surlu savunma yapısı (4 harf) [B127-S5]",
+      "answer": "KALE"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "length": 4,
+      "clue": "Birbirinin eşi olan iki şeyden oluşan takım; tekin karşıtı sayı grubu (4 harf) [B127-S6]",
+      "answer": "ÇİFT"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 3,
+      "col": 3,
+      "length": 5,
+      "clue": "Bir kimseye veya yere ulaşabilmek için gereken açık konum bilgisi (5 harf) [B127-S7]",
+      "answer": "ADRES"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 3,
+      "col": 11,
+      "length": 4,
+      "clue": "Serinletici kokusuyla tanınan, çaya ve yemeklere katılan yeşil yapraklı ot (4 harf) [B127-S8]",
+      "answer": "NANE"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 4,
+      "col": 8,
+      "length": 4,
+      "clue": "Bir olayın kaçıncı kez yaşandığını anlatmak için kullanılan kez sözcüğü (4 harf) [B127-S9]",
+      "answer": "DEFA"
+    },
+    {
+      "number": 10,
+      "direction": "across",
+      "row": 6,
+      "col": 6,
+      "length": 6,
+      "clue": "Kuşaktan kuşağa sözlü aktarılan, olağanüstü öğelerle süslenmiş hikâye (6 harf) [B127-S10]",
+      "answer": "EFSANE"
+    }
+  ]
+}

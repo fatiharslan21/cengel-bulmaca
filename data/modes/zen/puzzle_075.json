@@ -1,0 +1,173 @@
+{
+  "id": 75,
+  "title": "Bölüm 75",
+  "difficulty": "Orta",
+  "grid_size_r": 6,
+  "grid_size_c": 10,
+  "grid": [
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "length": 6,
+      "clue": "Su, çay ya da başka içecekleri içmek için kullanılan küçük kap (6 harf) [B197-S1]",
+      "answer": "BARDAK"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 0,
+      "col": 6,
+      "length": 4,
+      "clue": "Kozadan elde edilen, parlak dokulu ve dayanıklı, değerli kumaş lifi (4 harf) [B197-S2]",
+      "answer": "İPEK"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 0,
+      "col": 9,
+      "length": 4,
+      "clue": "Toprağın altında kalmış eski eserleri çıkarmak için yapılan eşme işi (4 harf) [B197-S3]",
+      "answer": "KAZI"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "length": 3,
+      "clue": "Bitkilerden ya da hayvanlardan elde edilen; suda çözünmeyen kaygan madde (3 harf) [B197-S4]",
+      "answer": "YAĞ"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 1,
+      "col": 5,
+      "length": 5,
+      "clue": "Belirlenen vaktin öncesinde gelme; geç kalmanın tersi durumu (5 harf) [B197-S5]",
+      "answer": "ERKEN"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 2,
+      "col": 7,
+      "length": 3,
+      "clue": "Derin ve dik uçurum; aynı zamanda sevilen kişi için kullanılan şiirsel ad (3 harf) [B197-S6]",
+      "answer": "YAR"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 2,
+      "col": 7,
+      "length": 3,
+      "clue": "Gözlerin, burnun ve ağzın bulunduğu baş ön kısmı; ayrıca on kere on sayısı (3 harf) [B197-S6]",
+      "answer": "YÜZ"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 3,
+      "col": 3,
+      "length": 3,
+      "clue": "Yılın en soğuk, en karlı ve gündüzlerin en kısa olduğu dört mevsimden biri (3 harf) [B197-S7]",
+      "answer": "KIŞ"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 3,
+      "col": 3,
+      "length": 5,
+      "clue": "İp ya da parmaklarla oynatılan, tiyatro sahnesinde canlanan figürlü bebek (5 harf) [B197-S7]",
+      "answer": "KUKLA"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "length": 4,
+      "clue": "Boyu kısa, dalları sık ve odunsu olan, çok dallı bodur bitki (4 harf) [B197-S8]",
+      "answer": "ÇALI"
+    }
+  ]
+}

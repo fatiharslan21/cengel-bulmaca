@@ -1,0 +1,202 @@
+{
+  "id": 273,
+  "title": "Bölüm 273",
+  "difficulty": "Kolay",
+  "grid_size_r": 11,
+  "grid_size_c": 8,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "length": 5,
+      "clue": "Bitkinin çiçeğinin olgunlaşmasıyla oluşan, genellikle yenilebilir ürün (5 harf) [B19-S1]",
+      "answer": "MEYVE"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 4,
+      "col": 1,
+      "length": 3,
+      "clue": "Uyku sırasında zihnin canlandırdığı görüntüler ya da uyanıkken kurulan hayal (3 harf) [B19-S2]",
+      "answer": "DÜŞ"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 4,
+      "col": 3,
+      "length": 4,
+      "clue": "Dağlardan doğan, ırmağa ya da göle dökülen küçük doğal akarsu (4 harf) [B19-S3]",
+      "answer": "DERE"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 4,
+      "col": 3,
+      "length": 4,
+      "clue": "İnsanı üzen, iç sıkıntısı veren; uzun süre geçmeyen tasa ve keder (4 harf) [B19-S3]",
+      "answer": "DERT"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "length": 4,
+      "clue": "Bir olayın başlangıcı ile sonu arasında geçen zaman aralığı (4 harf) [B19-S4]",
+      "answer": "SÜRE"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 6,
+      "col": 5,
+      "length": 5,
+      "clue": "Kitap, hikâye ya da makale gibi edebi eserler kaleme alan kimse (5 harf) [B19-S5]",
+      "answer": "YAZAR"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 7,
+      "col": 2,
+      "length": 5,
+      "clue": "Bilinmeyen bir şeyi öğrenmek için insanın içine düşen güçlü istek (5 harf) [B19-S6]",
+      "answer": "MERAK"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 9,
+      "col": 3,
+      "length": 3,
+      "clue": "Bir evin ya da binanın duvarlarla ayrılmış, belirli amaçla kullanılan bölümü (3 harf) [B19-S7]",
+      "answer": "ODA"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 10,
+      "col": 5,
+      "length": 3,
+      "clue": "İnsanın bedenine hayat veren, duygularının ve düşüncelerinin kaynağı manevi öz (3 harf) [B19-S8]",
+      "answer": "RUH"
+    }
+  ]
+}
