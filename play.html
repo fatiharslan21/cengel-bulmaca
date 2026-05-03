@@ -23,6 +23,7 @@
     <div class="play-title">
         <h1>Bölüm <span class="ui-puzzle-id">...</span></h1>
         <span class="play-diff" id="ui-puzzle-diff">Yükleniyor</span>
+        <span class="play-diff" id="ui-game-mode" style="margin-left:6px;background:#eef2ff;color:#3730a3;">KLASİK</span>
     </div>
     <div class="play-actions">
         <button class="icon-btn" id="sound-toggle" title="Ses">🔊</button>
@@ -166,7 +167,9 @@
     const levelId = parseInt(urlParams.get('id')) || 1;
     const totalLevels = 750; // Toplam bulmaca sayın
     const dailyKey = urlParams.get('daily') || null;
+    const gameMode = (urlParams.get('mode') || 'classic').toLowerCase();
     window.CB_DAILY_KEY = dailyKey; // play.js bunu kontrol eder
+    window.CB_GAME_MODE = gameMode;
 
     // Kayıt/giriş zorunlu
     function redirectToLogin() {
@@ -221,6 +224,10 @@
             document.getElementById('ptxt').textContent = `0 / ${data.words.length}`;
             
             const diffEl = document.getElementById('ui-puzzle-diff');
+            const modeEl = document.getElementById('ui-game-mode');
+            const MODE_LABELS = { classic:'KLASİK', sprint:'SPRINT 3DK', zen:'ZEN', hardcore:'HARDCORE' };
+            if(modeEl) modeEl.textContent = MODE_LABELS[gameMode] || 'KLASİK';
+
             if(data.difficulty) {
                 const emoji = {'Kolay':'🌱','Orta':'🔥','Zor':'⚡','Çok Zor':'💎'}[data.difficulty] || '';
                 diffEl.textContent = emoji + ' ' + data.difficulty;

@@ -13,10 +13,6 @@
     var STORE_SCORES = 'cb_scores_local';
     var STORE_DAILY = 'cb_daily';
 
-    var API_BASE = (window.CB_API_BASE || (location.protocol.startsWith('http') ? (location.protocol + '//' + location.hostname + ':8787') : '')).replace(/\/$/, '');
-    var backendChecked = false;
-    var backendAvailable = false;
-
     var fbApp = null;
     var fbDb = null;
     var fbAuth = null;
@@ -137,37 +133,6 @@
         window.dispatchEvent(new CustomEvent('cbScoresSynced'));
     }
 
-    // ─── Backend helpers ───
-    function apiUrl(path){ return (API_BASE || '') + path; }
-
-    async function checkBackend(){
-        if(backendChecked) return backendAvailable;
-        backendChecked = true;
-        try {
-            var res = await fetch(apiUrl('/api/health'), { method:'GET' });
-            backendAvailable = !!res.ok;
-        } catch(e){ backendAvailable = false; }
-        return backendAvailable;
-    }
-
-    async function apiPost(path, body){
-        var res = await fetch(apiUrl(path), {
-            method:'POST',
-            headers:{ 'Content-Type':'application/json' },
-            body: JSON.stringify(body)
-        });
-        var json = await res.json().catch(function(){ return { ok:false, message:'Sunucu yanıtı okunamadı.' }; });
-        if(!res.ok || json.ok === false) return { ok:false, message: json.message || 'İşlem başarısız.' };
-        return json;
-    }
-
-    async function apiGet(path){
-        var res = await fetch(apiUrl(path), { method:'GET' });
-        var json = await res.json().catch(function(){ return { ok:false }; });
-        if(!res.ok || json.ok === false) return null;
-        return json;
-    }
-
     // ─── Firestore helpers ───
     async function fbGetUser(key){
         var snap = await usersCol().doc(key).get();
@@ -203,16 +168,18 @@
             } catch(err){ return { ok:false, message:'Bulut girişi başarısız: ' + (err && err.message || 'bilinmeyen hata') }; }
         }
 
-        if(await checkBackend()){
-            var remote = await apiPost('/api/enter', { key:v.key, username:v.username });
-            if(!remote.ok) return remote;
-            var u = remote.user || {};
-            setUserSession(v.key, u.username || v.username, u.createdAt || Date.now());
-            loadUserDataToLegacyStores(u);
-            return { ok:true, mode:'enter' };
+        var db = getDB();
+        var recLocal = db.users[v.key];
+        if(!recLocal){
+            recLocal = userTemplate(v.username);
+            db.users[v.key] = recLocal;
         }
-
-        return { ok:false, message:'Sunucuya bağlanılamadı. Farklı cihazlardan ortak skor için backend erişimi zorunlu.' };
+        recLocal.username = recLocal.username || v.username;
+        recLocal.updatedAt = Date.now();
+        saveDB(db);
+        setUserSession(v.key, recLocal.username, recLocal.createdAt || Date.now());
+        loadUserDataToLegacyStores(recLocal);
+        return { ok:true, mode:'enter' };
     }
 
 
@@ -260,22 +227,29 @@
             }
         }
 
-        if(await checkBackend()){
-            var remote = await apiPost('/api/score', {
-                key: currentUser.key,
-                puzzleId: puzzleId,
-                score: entry.score,
-                time: entry.time,
-                hints: entry.hints,
-                difficulty: entry.difficulty,
-                dailyKey: dailyKey || null
-            });
-            if(remote.ok && remote.user) loadUserDataToLegacyStores(remote.user);
-            window.dispatchEvent(new CustomEvent('cbLeaderboardUpdated'));
-            return;
+        var db = getDB();
+        var recLocal = db.users[currentUser.key] || userTemplate(currentUser.name || currentUser.key);
+        if(!recLocal.puzzles) recLocal.puzzles = {};
+        if(!recLocal.daily) recLocal.daily = {};
+
+        if(!recLocal.puzzles[pid] || (recLocal.puzzles[pid].score || 0) < entry.score){
+            recLocal.puzzles[pid] = entry;
+        }
+        if(dailyKey){
+            var dkLocal = String(dailyKey);
+            if(!recLocal.daily[dkLocal] || (recLocal.daily[dkLocal].score || 0) < entry.score){
+                recLocal.daily[dkLocal] = { score: entry.score, time: entry.time, hints: entry.hints, id: puzzleId, completedAt: entry.completedAt };
+            }
         }
 
-        console.warn('saveScore skipped: backend/firestore unavailable, ortak leaderboard güncellenemedi.');
+        var valsLocal = Object.values(recLocal.puzzles);
+        recLocal.totalScore = valsLocal.reduce(function(sum, x){ return sum + (x.score || 0); }, 0);
+        recLocal.completedCount = valsLocal.length;
+        recLocal.updatedAt = Date.now();
+        db.users[currentUser.key] = recLocal;
+        saveDB(db);
+        loadUserDataToLegacyStores(recLocal);
+        window.dispatchEvent(new CustomEvent('cbLeaderboardUpdated'));
     }
 
     // ─── Public: getLeaderboard ───
@@ -304,12 +278,16 @@
             }
         }
 
-        if(await checkBackend()){
-            var remote = await apiGet('/api/leaderboard?n=' + encodeURIComponent(n));
-            if(remote && Array.isArray(remote.leaderboard)) return remote.leaderboard;
-        }
-
-        return []; // ortak skor için backend/firestore şart
+        var db = getDB();
+        return Object.keys(db.users).map(function(k){
+            var u = db.users[k] || {};
+            return {
+                uid: k,
+                name: u.username || k,
+                totalScore: u.totalScore || 0,
+                completedCount: u.completedCount || 0
+            };
+        }).sort(function(a,b){ return (b.totalScore||0) - (a.totalScore||0); }).slice(0, n);
     }
 
     function signOut(){
@@ -362,20 +340,6 @@
         setSetting: setSetting,
         isFirebaseReady: function(){ return !!fbUsable; },
         normalizeName: normalizeName,
-        isBackendReady: function(){ return backendAvailable; }
+        isBackendReady: function(){ return false; }
     };
-
-    // Firebase yoksa, mevcut session için yalnız backend'ten senkronla.
-    if(currentUser && currentUser.key){
-        initFirebase().then(function(ok){
-            if(ok) return; // yukarıda ele alındı
-            checkBackend().then(function(backOk){
-                if(backOk){
-                    apiGet('/api/user/' + encodeURIComponent(currentUser.key)).then(function(res){
-                        if(res && res.user){ loadUserDataToLegacyStores(res.user); }
-                    });
-                }
-            });
-        });
-    }
 })();

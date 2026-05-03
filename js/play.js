@@ -119,6 +119,14 @@ let hc=0,tm=0,tint=null,run=false,acl=null;
 let lastSolveTime = 0, streakCount = 0;
 let flowTimer = null;
 const R=P.grid_size_r,C=P.grid_size_c;
+const GAME_MODE = (window.CB_GAME_MODE || 'classic').toLowerCase();
+const MODE_CONF = {
+    classic: { label:'Klasik', maxTime: null, hintAllowed: true, hintPenalty: 15, timeBonus: true },
+    sprint: { label:'Sprint 3dk', maxTime: 180, hintAllowed: true, hintPenalty: 20, timeBonus: true },
+    zen: { label:'Zen', maxTime: null, hintAllowed: true, hintPenalty: 10, timeBonus: false },
+    hardcore: { label:'Hardcore', maxTime: null, hintAllowed: false, hintPenalty: 30, timeBonus: true }
+};
+const ACTIVE_MODE = MODE_CONF[GAME_MODE] || MODE_CONF.classic;
 
 function TR(c){
     const ch = (c == null ? '' : String(c)).trim();
@@ -192,6 +200,15 @@ function fitGrid(){
     drawWordFlow();
 }
 
+
+function cleanClueText(clue){
+    return String(clue || '')
+        .replace(/\s*\(\d+\s*harf\)\s*/gi, ' ')
+        .replace(/\s*\[B\d+-S\d+\]\s*/gi, ' ')
+        .replace(/\s{2,}/g, ' ')
+        .trim();
+}
+
 function mkClues(){
     const a=document.getElementById('cla'),d=document.getElementById('cld');
     P.words.filter(w=>w.direction==='across').sort((x,y)=>x.number-y.number).forEach(w=>a.appendChild(mkCI(w)));
@@ -214,7 +231,7 @@ function firstEditableCell(w){
 function mkCI(w){
     const e=document.createElement('div');
     e.className='ci';e.dataset.n=w.number;e.dataset.d=w.direction;
-    e.innerHTML=`<span class="cin">${w.number}.</span>${w.clue}`;
+    e.innerHTML=`<span class="cin">${w.number}.</span>${cleanClueText(w.clue)}`;
     e.addEventListener('click',()=>{dir=w.direction;acl=w;sel=firstEditableCell(w);if(!run)startTm();updUI();
         e.scrollIntoView({block:'nearest',behavior:'smooth'})});
     return e;
@@ -436,6 +453,11 @@ function chkComp(){
 }
 
 function doHint(){
+    if(!ACTIVE_MODE.hintAllowed){
+        showCombo('Bu modda ipucu kapalı!');
+        playSFX('error');
+        return;
+    }
     if(!sel)return;
     let w=findW(sel.row,sel.col,dir);
     if(!w)w=findW(sel.row,sel.col,dir==='across'?'down':'across');
@@ -478,7 +500,7 @@ function doDir(){
     updUI();
 }
 
-function startTm(){run=true;tint=setInterval(()=>{tm++;document.getElementById('tm').textContent=fmt(tm)},1000)}
+function startTm(){run=true;tint=setInterval(()=>{tm++;document.getElementById('tm').textContent=fmt(tm);if(ACTIVE_MODE.maxTime && tm>=ACTIVE_MODE.maxTime){clearInterval(tint);showWin();}},1000)}
 const fmt=s=>`${Math.floor(s/60).toString().padStart(2,'0')}:${(s%60).toString().padStart(2,'0')}`;
 
 
@@ -521,7 +543,7 @@ function rememberSeenClues() {
     try {
         const seen = JSON.parse(localStorage.getItem('cb_seen_clues') || '{}');
         P.words.forEach(w => {
-            const clue = (w.clue || '').trim();
+            const clue = cleanClueText(w.clue);
             if(!clue) return;
             seen[clue] = (seen[clue] || 0) + 1;
         });
@@ -533,7 +555,8 @@ function calcSc(){
     const m={"Kolay":1,"Orta":1.5,"Zor":2,"Çok Zor":3}[P.difficulty]||1;
     let tb;if(tm<=60)tb=200;else if(tm<=300)tb=Math.max(0,200-((tm-60)/30|0)*10);
     else tb=Math.max(0,100-((tm-300)/60|0)*15);
-    return Math.max(10,Math.round((P.words.length*10+tb)*m-hc*15));
+    const timePart = ACTIVE_MODE.timeBonus ? tb : 0;
+    return Math.max(10,Math.round((P.words.length*10+timePart)*m-hc*ACTIVE_MODE.hintPenalty));
 }
 
 // ─── UI ───
@@ -557,7 +580,7 @@ function updUI(){
     if(acl){
         document.getElementById('badge').textContent=`${acl.number}${acl.direction==='across'?'→':'↓'}`;
         document.getElementById('badge').className='clue-num'+(acl.direction==='down'?' dn':'');
-        document.getElementById('ctext').textContent=acl.clue;
+        document.getElementById('ctext').textContent=cleanClueText(acl.clue);
     }
     document.querySelectorAll('.ci').forEach(el=>{
         const n=+el.dataset.n,d=el.dataset.d;
@@ -662,8 +685,9 @@ function showWin(){
     document.getElementById('fh').textContent=hc;
     const m={"Kolay":1,"Orta":1.5,"Zor":2,"Çok Zor":3}[P.difficulty]||1;
     let tb;if(tm<=60)tb=200;else if(tm<=300)tb=Math.max(0,200-((tm-60)/30|0)*10);else tb=Math.max(0,100-((tm-300)/60|0)*15);
+    const timeLine = ACTIVE_MODE.timeBonus ? `⚡ Süre: <b>+${tb}</b> (${fmt(tm)})<br>` : `🧘 Zen Modu: <b>Süre Bonusu Yok</b><br>`;
     document.getElementById('mbd').innerHTML=
-        `📝 Kelime: ${P.words.length} × 10 = <b>${P.words.length*10}</b><br>⚡ Süre: <b>+${tb}</b> (${fmt(tm)})<br>🎯 Çarpan: <b>×${m}</b>${hc?'<br>💡 İpucu: <b>-'+hc*15+'</b>':''}${perfect?'<br>🌟 Mükemmel Çözüm: <b>+50 XP</b>':''}`;
+        `🎮 Mod: <b>${ACTIVE_MODE.label}</b><br>📝 Kelime: ${P.words.length} × 10 = <b>${P.words.length*10}</b><br>${timeLine}🎯 Çarpan: <b>×${m}</b>${hc?'<br>💡 İpucu: <b>-'+(hc*ACTIVE_MODE.hintPenalty)+'</b>':''}${perfect?'<br>🌟 Mükemmel Çözüm: <b>+50 XP</b>':''}`;
     try{const s=JSON.parse(localStorage.getItem('cb')||'{}');
     if(!s[PID]||sc>s[PID].s){s[PID]={s:sc,t:tm,h:hc};localStorage.setItem('cb',JSON.stringify(s))}}catch(e){}
 
