@@ -7,11 +7,13 @@ Constraint: no clue text can appear in more than one mode pool.
 import json
 from pathlib import Path
 from collections import defaultdict
+import random
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "data"
 MODES = ["classic", "sprint", "zen", "hardcore"]
 LEVELS_PER_MODE = 500
+SHUFFLE_SEED = 20260503
 
 
 def load_base_puzzles():
@@ -37,20 +39,26 @@ def main():
         print("Tip: add more source puzzles before generating fully unique 4x500 mode pools.")
         return 1
 
+    rng = random.Random(SHUFFLE_SEED)
+    rng.shuffle(puzzles)
+
     used_clues = set()
     mode_puzzles = defaultdict(list)
-    idx = 0
+
+    for path, puz in puzzles:
+        eligible_modes = [m for m in MODES if len(mode_puzzles[m]) < LEVELS_PER_MODE]
+        if not eligible_modes:
+            break
+
+        cset = clue_set(puz)
+        if cset & used_clues:
+            continue
+
+        target_mode = min(eligible_modes, key=lambda m: len(mode_puzzles[m]))
+        used_clues |= cset
+        mode_puzzles[target_mode].append((path, puz))
 
     for mode in MODES:
-        while len(mode_puzzles[mode]) < LEVELS_PER_MODE and idx < len(puzzles):
-            path, puz = puzzles[idx]
-            idx += 1
-            cset = clue_set(puz)
-            if cset & used_clues:
-                continue
-            used_clues |= cset
-            mode_puzzles[mode].append((path, puz))
-
         if len(mode_puzzles[mode]) < LEVELS_PER_MODE:
             print(f"ERROR: Could not fill mode '{mode}' with {LEVELS_PER_MODE} clue-unique puzzles.")
             print(f"Filled: {len(mode_puzzles[mode])}")
@@ -63,7 +71,7 @@ def main():
             (out / f"puzzle_{i:03d}.json").write_text(json.dumps(puz, ensure_ascii=False, indent=2), encoding="utf-8")
         print(f"{mode}: wrote {len(mode_puzzles[mode])} puzzles")
 
-    print("Done. All mode pools generated with cross-mode clue uniqueness.")
+    print(f"Done. All mode pools generated with cross-mode clue uniqueness (seed={SHUFFLE_SEED}).")
     return 0
 
 
