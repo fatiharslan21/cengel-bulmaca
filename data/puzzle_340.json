@@ -134,7 +134,7 @@
       "row": 0,
       "col": 8,
       "length": 4,
-      "clue": "İstemeden yapılan yanlış; doğru olandan sapmanın yol açtığı kusur.",
+      "clue": "İstemeden yapılan yanlış; doğru olandan sapmanın yol açtığı kusur (4 harf) [B340-S1]",
       "answer": "HATA"
     },
     {
@@ -143,7 +143,7 @@
       "row": 2,
       "col": 3,
       "length": 5,
-      "clue": "Mutfağa giren, bitki kökleri ve yapraklarından oluşan yenilebilir besin.",
+      "clue": "Mutfağa giren, bitki kökleri ve yapraklarından oluşan yenilebilir besin (5 harf) [B340-S2]",
       "answer": "SEBZE"
     },
     {
@@ -152,7 +152,7 @@
       "row": 2,
       "col": 5,
       "length": 5,
-      "clue": "Bir yüzeyin ya da nesnenin dış sınırını oluşturan uç bölüm.",
+      "clue": "Bir yüzeyin ya da nesnenin dış sınırını oluşturan uç bölüm (5 harf) [B340-S3]",
       "answer": "KENAR"
     },
     {
@@ -161,7 +161,7 @@
       "row": 2,
       "col": 5,
       "length": 4,
-      "clue": "Nüfusu kalabalık, altyapısı gelişmiş, şehir niteliğindeki yerleşim yeri.",
+      "clue": "Nüfusu kalabalık, altyapısı gelişmiş, şehir niteliğindeki yerleşim yeri (4 harf) [B340-S3]",
       "answer": "KENT"
     },
     {
@@ -170,7 +170,7 @@
       "row": 3,
       "col": 2,
       "length": 4,
-      "clue": "Bir kelimeyi bir nefeste söyleyebildiğimiz en küçük ses birimi.",
+      "clue": "Bir kelimeyi bir nefeste söyleyebildiğimiz en küçük ses birimi (4 harf) [B340-S4]",
       "answer": "HECE"
     },
     {
@@ -179,7 +179,7 @@
       "row": 5,
       "col": 5,
       "length": 3,
-      "clue": "Bir üstün ya da yetkilinin önüne saygıyla sunma, takdim etme eylemi.",
+      "clue": "Bir üstün ya da yetkilinin önüne saygıyla sunma, takdim etme eylemi (3 harf) [B340-S5]",
       "answer": "ARZ"
     },
     {
@@ -188,7 +188,7 @@
       "row": 6,
       "col": 0,
       "length": 4,
-      "clue": "Dağlardan doğan, ırmağa ya da göle dökülen küçük doğal akarsu.",
+      "clue": "Dağlardan doğan, ırmağa ya da göle dökülen küçük doğal akarsu (4 harf) [B340-S6]",
       "answer": "DERE"
     },
     {
@@ -197,7 +197,7 @@
       "row": 6,
       "col": 0,
       "length": 5,
-      "clue": "İçine giysi, kap kacak ya da eşya konulan, kapaklı büyük mobilya.",
+      "clue": "İçine giysi, kap kacak ya da eşya konulan, kapaklı büyük mobilya (5 harf) [B340-S6]",
       "answer": "DOLAP"
     },
     {
@@ -206,7 +206,7 @@
       "row": 6,
       "col": 2,
       "length": 3,
-      "clue": "İnsanın bedenine hayat veren, duygularının ve düşüncelerinin kaynağı manevi öz.",
+      "clue": "İnsanın bedenine hayat veren, duygularının ve düşüncelerinin kaynağı manevi öz (3 harf) [B340-S7]",
       "answer": "RUH"
     },
     {
@@ -215,7 +215,7 @@
       "row": 8,
       "col": 2,
       "length": 3,
-      "clue": "Bir noktadan diğerine uzanan düz çizgi; yol ya da güzergâh.",
+      "clue": "Bir noktadan diğerine uzanan düz çizgi; yol ya da güzergâh (3 harf) [B340-S8]",
       "answer": "HAT"
     }
   ]

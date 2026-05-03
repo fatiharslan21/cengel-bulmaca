@@ -169,7 +169,7 @@
       "row": 0,
       "col": 1,
       "length": 6,
-      "clue": "Gözleri dalgın, içinde sessiz bir keder taşıyan; hüzünlü görünüşlü.",
+      "clue": "Gözleri dalgın, içinde sessiz bir keder taşıyan; hüzünlü görünüşlü (6 harf) [B444-S1]",
       "answer": "MAHZUN"
     },
     {
@@ -178,7 +178,7 @@
       "row": 1,
       "col": 0,
       "length": 3,
-      "clue": "Soğuk havada bulutlardan düşen, altıgen kristallerden oluşan beyaz yağış.",
+      "clue": "Soğuk havada bulutlardan düşen, altıgen kristallerden oluşan beyaz yağış (3 harf) [B444-S2]",
       "answer": "KAR"
     },
     {
@@ -187,7 +187,7 @@
       "row": 3,
       "col": 3,
       "length": 3,
-      "clue": "Bir cismin aşağı tarafı; üst sözcüğünün tam karşıtı olan yön.",
+      "clue": "Bir cismin aşağı tarafı; üst sözcüğünün tam karşıtı olan yön (3 harf) [B444-S3]",
       "answer": "ALT"
     },
     {
@@ -196,7 +196,7 @@
       "row": 3,
       "col": 4,
       "length": 5,
-      "clue": "Göze ve gönle hoş gelen, nazik ve yumuşak huylu; incelikli olan.",
+      "clue": "Göze ve gönle hoş gelen, nazik ve yumuşak huylu; incelikli olan (5 harf) [B444-S4]",
       "answer": "LATİF"
     },
     {
@@ -205,7 +205,7 @@
       "row": 5,
       "col": 1,
       "length": 5,
-      "clue": "Dinleyeni güldüren ince espri; zarif bir ustalıkla söylenmiş söz.",
+      "clue": "Dinleyeni güldüren ince espri; zarif bir ustalıkla söylenmiş söz (5 harf) [B444-S5]",
       "answer": "NÜKTE"
     },
     {
@@ -214,7 +214,7 @@
       "row": 7,
       "col": 2,
       "length": 5,
-      "clue": "Bilginin ötesinde, deneyim ve sezgiyle kazanılan derin anlayış.",
+      "clue": "Bilginin ötesinde, deneyim ve sezgiyle kazanılan derin anlayış (5 harf) [B444-S6]",
       "answer": "İRFAN"
     },
     {
@@ -223,7 +223,7 @@
       "row": 7,
       "col": 6,
       "length": 5,
-      "clue": "Her türlü çirkinlikten uzak duran; temiz ahlaklı ve arı kimse.",
+      "clue": "Her türlü çirkinlikten uzak duran; temiz ahlaklı ve arı kimse (5 harf) [B444-S7]",
       "answer": "NEZİH"
     },
     {
@@ -232,7 +232,7 @@
       "row": 7,
       "col": 8,
       "length": 3,
-      "clue": "Gitme, olduğun yerde dur; git sözcüğünün tam karşıtı olan emir.",
+      "clue": "Gitme, olduğun yerde dur; git sözcüğünün tam karşıtı olan emir (3 harf) [B444-S8]",
       "answer": "KAL"
     },
     {
@@ -241,7 +241,7 @@
       "row": 7,
       "col": 9,
       "length": 5,
-      "clue": "Gürültüden uzak, hiçbir telaşın olmadığı sessiz ve huzurlu ortam.",
+      "clue": "Gürültüden uzak, hiçbir telaşın olmadığı sessiz ve huzurlu ortam (5 harf) [B444-S9]",
       "answer": "ASUDE"
     },
     {
@@ -250,7 +250,7 @@
       "row": 11,
       "col": 4,
       "length": 7,
-      "clue": "Kasları çözülmüş gibi hissettiren ağır gevşeklik; uyuşukluk hali.",
+      "clue": "Kasları çözülmüş gibi hissettiren ağır gevşeklik; uyuşukluk hali (7 harf) [B444-S10]",
       "answer": "REHAVET"
     }
   ]

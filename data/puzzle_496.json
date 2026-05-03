@@ -145,7 +145,7 @@
       "row": 0,
       "col": 5,
       "length": 5,
-      "clue": "Üzerinde yaşadığımız, Güneş'in çevresinde dönen mavi yeşil gezegen.",
+      "clue": "Üzerinde yaşadığımız, Güneş'in çevresinde dönen mavi yeşil gezegen (5 harf) [B496-S1]",
       "answer": "DÜNYA"
     },
     {
@@ -154,7 +154,7 @@
       "row": 0,
       "col": 9,
       "length": 4,
-      "clue": "Yanan bir şeyin üstünde dalgalanan, sıcak ve parlayan ışıklı kısım.",
+      "clue": "Yanan bir şeyin üstünde dalgalanan, sıcak ve parlayan ışıklı kısım (4 harf) [B496-S2]",
       "answer": "ALEV"
     },
     {
@@ -163,7 +163,7 @@
       "row": 1,
       "col": 7,
       "length": 4,
-      "clue": "Kaldırılması güç olan, hafif sözcüğünün zıttı sayılan kütle durumu.",
+      "clue": "Kaldırılması güç olan, hafif sözcüğünün zıttı sayılan kütle durumu (4 harf) [B496-S3]",
       "answer": "AĞIR"
     },
     {
@@ -172,7 +172,7 @@
       "row": 2,
       "col": 5,
       "length": 5,
-      "clue": "Bir ezginin kulağa hoş gelen melodik sesi; tiz tatlı tını.",
+      "clue": "Bir ezginin kulağa hoş gelen melodik sesi; tiz tatlı tını (5 harf) [B496-S4]",
       "answer": "NAĞME"
     },
     {
@@ -181,7 +181,7 @@
       "row": 3,
       "col": 3,
       "length": 4,
-      "clue": "Karanlığı dağıtan; göze hoş gelen aydınlatıcı parıltı.",
+      "clue": "Karanlığı dağıtan; göze hoş gelen aydınlatıcı parıltı (4 harf) [B496-S5]",
       "answer": "ZİYA"
     },
     {
@@ -190,7 +190,7 @@
       "row": 4,
       "col": 2,
       "length": 4,
-      "clue": "Birinden nazikçe bir şey istemek; kibarca dile getirilen dilek.",
+      "clue": "Birinden nazikçe bir şey istemek; kibarca dile getirilen dilek (4 harf) [B496-S6]",
       "answer": "RİCA"
     },
     {
@@ -199,7 +199,7 @@
       "row": 5,
       "col": 1,
       "length": 6,
-      "clue": "Kişinin payına düşen; kaderin ona uygun gördüğü nasibi ya da şansı.",
+      "clue": "Kişinin payına düşen; kaderin ona uygun gördüğü nasibi ya da şansı (6 harf) [B496-S7]",
       "answer": "KISMET"
     },
     {
@@ -208,7 +208,7 @@
       "row": 6,
       "col": 0,
       "length": 5,
-      "clue": "Birbirinden ayrı düşen sevgililerin yaşadığı acı dolu ayrılık.",
+      "clue": "Birbirinden ayrı düşen sevgililerin yaşadığı acı dolu ayrılık (5 harf) [B496-S8]",
       "answer": "FIRAK"
     },
     {
@@ -217,7 +217,7 @@
       "row": 6,
       "col": 4,
       "length": 5,
-      "clue": "Bir düzen içinde hareket edebilmek için uyulması zorunlu olan ilke.",
+      "clue": "Bir düzen içinde hareket edebilmek için uyulması zorunlu olan ilke (5 harf) [B496-S9]",
       "answer": "KURAL"
     },
     {
@@ -226,7 +226,7 @@
       "row": 9,
       "col": 3,
       "length": 3,
-      "clue": "Üzüm yetiştirilen tarla; aynı zamanda düğümle tutturma eylemi.",
+      "clue": "Üzüm yetiştirilen tarla; aynı zamanda düğümle tutturma eylemi (3 harf) [B496-S10]",
       "answer": "BAĞ"
     }
   ]

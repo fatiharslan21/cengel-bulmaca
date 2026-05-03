@@ -94,7 +94,7 @@
       "row": 0,
       "col": 3,
       "length": 5,
-      "clue": "Bitkinin üreme organı; genellikle göz alıcı renkleri ve kokusu olan kısım.",
+      "clue": "Bitkinin üreme organı; genellikle göz alıcı renkleri ve kokusu olan kısım (5 harf) [B97-S1]",
       "answer": "ÇİÇEK"
     },
     {
@@ -103,7 +103,7 @@
       "row": 0,
       "col": 6,
       "length": 4,
-      "clue": "Bir sanatçının ya da yazarın ortaya koyduğu özgün yapıt.",
+      "clue": "Bir sanatçının ya da yazarın ortaya koyduğu özgün yapıt (4 harf) [B97-S2]",
       "answer": "ESER"
     },
     {
@@ -112,7 +112,7 @@
       "row": 1,
       "col": 2,
       "length": 3,
-      "clue": "Olumsuzluğu pekiştiren söz; asla ve kesinlikle bulunmama durumu.",
+      "clue": "Olumsuzluğu pekiştiren söz; asla ve kesinlikle bulunmama durumu (3 harf) [B97-S3]",
       "answer": "HİÇ"
     },
     {
@@ -121,7 +121,7 @@
       "row": 3,
       "col": 0,
       "length": 3,
-      "clue": "Tarihte belli özelliklerle ayırt edilen uzun dönem; devir, asır.",
+      "clue": "Tarihte belli özelliklerle ayırt edilen uzun dönem; devir, asır (3 harf) [B97-S4]",
       "answer": "ÇAĞ"
     },
     {
@@ -130,7 +130,7 @@
       "row": 3,
       "col": 3,
       "length": 4,
-      "clue": "Yetkili bir kimsenin yerine getirilmek üzere verdiği kesin buyruk.",
+      "clue": "Yetkili bir kimsenin yerine getirilmek üzere verdiği kesin buyruk (4 harf) [B97-S5]",
       "answer": "EMİR"
     },
     {
@@ -139,7 +139,7 @@
       "row": 4,
       "col": 0,
       "length": 4,
-      "clue": "Bacağın bileğinden aşağısı; üzerine basarak yürümemizi sağlayan uzuv.",
+      "clue": "Bacağın bileğinden aşağısı; üzerine basarak yürümemizi sağlayan uzuv (4 harf) [B97-S6]",
       "answer": "AYAK"
     },
     {
@@ -148,7 +148,7 @@
       "row": 4,
       "col": 2,
       "length": 5,
-      "clue": "Tekerlekleri üstünde insan ya da yük taşıyan motorlu kara taşıtı.",
+      "clue": "Tekerlekleri üstünde insan ya da yük taşıyan motorlu kara taşıtı (5 harf) [B97-S7]",
       "answer": "ARABA"
     },
     {
@@ -157,7 +157,7 @@
       "row": 6,
       "col": 1,
       "length": 3,
-      "clue": "İnsanın doğduğu günden bu yana geçen toplam yıl; ömürdeki basamak.",
+      "clue": "İnsanın doğduğu günden bu yana geçen toplam yıl; ömürdeki basamak (3 harf) [B97-S8]",
       "answer": "YAŞ"
     },
     {
@@ -166,7 +166,7 @@
       "row": 8,
       "col": 1,
       "length": 3,
-      "clue": "Kişinin yasal olarak sahip olduğu; alması ya da yapması gereken şey.",
+      "clue": "Kişinin yasal olarak sahip olduğu; alması ya da yapması gereken şey (3 harf) [B97-S9]",
       "answer": "HAK"
     }
   ]

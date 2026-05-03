@@ -125,7 +125,7 @@
       "row": 0,
       "col": 7,
       "length": 4,
-      "clue": "Çalışmaya ya da yolculuğa kısa bir süre ara vererek dinlenme anı.",
+      "clue": "Çalışmaya ya da yolculuğa kısa bir süre ara vererek dinlenme anı (4 harf) [B227-S1]",
       "answer": "MOLA"
     },
     {
@@ -134,7 +134,7 @@
       "row": 1,
       "col": 6,
       "length": 3,
-      "clue": "İnsanın yüzünü gülümseten, göze güzel gelen; beğenilen durum.",
+      "clue": "İnsanın yüzünü gülümseten, göze güzel gelen; beğenilen durum (3 harf) [B227-S2]",
       "answer": "HOŞ"
     },
     {
@@ -143,7 +143,7 @@
       "row": 2,
       "col": 9,
       "length": 4,
-      "clue": "Müziğin ritmine uyarak, düzenli vücut hareketleriyle yapılan sanatsal eylem.",
+      "clue": "Müziğin ritmine uyarak, düzenli vücut hareketleriyle yapılan sanatsal eylem (4 harf) [B227-S3]",
       "answer": "DANS"
     },
     {
@@ -152,7 +152,7 @@
       "row": 2,
       "col": 9,
       "length": 3,
-      "clue": "Üstten sıkılan su ile yıkanmak üzere banyoya yerleştirilmiş düzenek.",
+      "clue": "Üstten sıkılan su ile yıkanmak üzere banyoya yerleştirilmiş düzenek (3 harf) [B227-S3]",
       "answer": "DUŞ"
     },
     {
@@ -161,7 +161,7 @@
       "row": 3,
       "col": 4,
       "length": 5,
-      "clue": "Hayal ürünü kahramanların yer aldığı, 'bir varmış bir yokmuş'la başlayan öykü.",
+      "clue": "Hayal ürünü kahramanların yer aldığı, 'bir varmış bir yokmuş'la başlayan öykü (5 harf) [B227-S4]",
       "answer": "MASAL"
     },
     {
@@ -170,7 +170,7 @@
       "row": 3,
       "col": 6,
       "length": 3,
-      "clue": "Dört mevsimin en sıcağı; okulların kapandığı, tatillerin geldiği zaman.",
+      "clue": "Dört mevsimin en sıcağı; okulların kapandığı, tatillerin geldiği zaman (3 harf) [B227-S5]",
       "answer": "YAZ"
     },
     {
@@ -179,7 +179,7 @@
       "row": 3,
       "col": 6,
       "length": 4,
-      "clue": "Eskiyip yırtılan giysiyi onarmak için üstüne dikilen küçük kumaş parçası.",
+      "clue": "Eskiyip yırtılan giysiyi onarmak için üstüne dikilen küçük kumaş parçası (4 harf) [B227-S5]",
       "answer": "YAMA"
     },
     {
@@ -188,7 +188,7 @@
       "row": 4,
       "col": 3,
       "length": 4,
-      "clue": "Gömleğin boynu çevreleyen üst kısmı; ceketin de boyuna değen kenarı.",
+      "clue": "Gömleğin boynu çevreleyen üst kısmı; ceketin de boyuna değen kenarı (4 harf) [B227-S6]",
       "answer": "YAKA"
     },
     {
@@ -197,7 +197,7 @@
       "row": 5,
       "col": 1,
       "length": 3,
-      "clue": "İnek, keçi gibi memelilerden sağılan; beyaz renkli besleyici temel içecek.",
+      "clue": "İnek, keçi gibi memelilerden sağılan; beyaz renkli besleyici temel içecek (3 harf) [B227-S7]",
       "answer": "SÜT"
     },
     {
@@ -206,7 +206,7 @@
       "row": 6,
       "col": 0,
       "length": 5,
-      "clue": "Üzerinde yaşadığımız, Güneş'in çevresinde dönen mavi yeşil gezegen.",
+      "clue": "Üzerinde yaşadığımız, Güneş'in çevresinde dönen mavi yeşil gezegen (5 harf) [B227-S8]",
       "answer": "DÜNYA"
     }
   ]

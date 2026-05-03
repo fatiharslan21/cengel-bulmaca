@@ -109,7 +109,7 @@
       "row": 0,
       "col": 4,
       "length": 5,
-      "clue": "Kat kat hamuru kremayla birleştirilen, doğum günlerinde kesilen tatlı.",
+      "clue": "Kat kat hamuru kremayla birleştirilen, doğum günlerinde kesilen tatlı (5 harf) [B303-S1]",
       "answer": "PASTA"
     },
     {
@@ -118,7 +118,7 @@
       "row": 0,
       "col": 6,
       "length": 3,
-      "clue": "Yılın en soğuk, en karlı ve gündüzlerin en kısa olduğu dört mevsimden biri.",
+      "clue": "Yılın en soğuk, en karlı ve gündüzlerin en kısa olduğu dört mevsimden biri (3 harf) [B303-S2]",
       "answer": "KIŞ"
     },
     {
@@ -127,7 +127,7 @@
       "row": 1,
       "col": 3,
       "length": 4,
-      "clue": "Boyu kısa, dalları sık ve odunsu olan, çok dallı bodur bitki.",
+      "clue": "Boyu kısa, dalları sık ve odunsu olan, çok dallı bodur bitki (4 harf) [B303-S3]",
       "answer": "ÇALI"
     },
     {
@@ -136,7 +136,7 @@
       "row": 3,
       "col": 7,
       "length": 5,
-      "clue": "Bir şeyin eksiksiz, kusursuz ve en üst düzeyde olgunlaşmış hali.",
+      "clue": "Bir şeyin eksiksiz, kusursuz ve en üst düzeyde olgunlaşmış hali (5 harf) [B303-S4]",
       "answer": "KEMAL"
     },
     {
@@ -145,7 +145,7 @@
       "row": 4,
       "col": 1,
       "length": 3,
-      "clue": "Kulağımıza ulaşan her türlü titreşim; konuşma ve müziğin temeli.",
+      "clue": "Kulağımıza ulaşan her türlü titreşim; konuşma ve müziğin temeli (3 harf) [B303-S5]",
       "answer": "SES"
     },
     {
@@ -154,7 +154,7 @@
       "row": 4,
       "col": 3,
       "length": 6,
-      "clue": "Bir işi başarmak için katlanılan güçlük; çekilen eziyet.",
+      "clue": "Bir işi başarmak için katlanılan güçlük; çekilen eziyet (6 harf) [B303-S6]",
       "answer": "ZAHMET"
     },
     {
@@ -163,7 +163,7 @@
       "row": 4,
       "col": 3,
       "length": 4,
-      "clue": "Yapılan ya da tadılan şeyden alınan; insanın içini hoşnut eden keyif.",
+      "clue": "Yapılan ya da tadılan şeyden alınan; insanın içini hoşnut eden keyif (4 harf) [B303-S6]",
       "answer": "ZEVK"
     },
     {
@@ -172,7 +172,7 @@
       "row": 4,
       "col": 5,
       "length": 4,
-      "clue": "Bir kelimeyi bir nefeste söyleyebildiğimiz en küçük ses birimi.",
+      "clue": "Bir kelimeyi bir nefeste söyleyebildiğimiz en küçük ses birimi (4 harf) [B303-S7]",
       "answer": "HECE"
     },
     {
@@ -181,7 +181,7 @@
       "row": 5,
       "col": 0,
       "length": 4,
-      "clue": "Güneşin batmasından doğmasına kadar süren karanlık zaman dilimi.",
+      "clue": "Güneşin batmasından doğmasına kadar süren karanlık zaman dilimi (4 harf) [B303-S8]",
       "answer": "GECE"
     },
     {
@@ -190,7 +190,7 @@
       "row": 6,
       "col": 7,
       "length": 3,
-      "clue": "Çiçeklerden topladığı nektarı bala dönüştüren, iğneli küçük böcek.",
+      "clue": "Çiçeklerden topladığı nektarı bala dönüştüren, iğneli küçük böcek (3 harf) [B303-S9]",
       "answer": "ARI"
     }
   ]

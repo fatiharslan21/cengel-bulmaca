@@ -97,7 +97,7 @@
       "row": 0,
       "col": 2,
       "length": 5,
-      "clue": "Su veya başka bir sıvıyla temas edip kurumamış olan nemli yüzey.",
+      "clue": "Su veya başka bir sıvıyla temas edip kurumamış olan nemli yüzey (5 harf) [B292-S1]",
       "answer": "ISLAK"
     },
     {
@@ -106,7 +106,7 @@
       "row": 1,
       "col": 0,
       "length": 4,
-      "clue": "Kötü günde de yanında olan, gönülden sevilen yakın arkadaş.",
+      "clue": "Kötü günde de yanında olan, gönülden sevilen yakın arkadaş (4 harf) [B292-S2]",
       "answer": "DOST"
     },
     {
@@ -115,7 +115,7 @@
       "row": 1,
       "col": 8,
       "length": 4,
-      "clue": "İçten doğan büyük istek; insanı coşturan şiddetli arzu ve heves.",
+      "clue": "İçten doğan büyük istek; insanı coşturan şiddetli arzu ve heves (4 harf) [B292-S3]",
       "answer": "ŞEVK"
     },
     {
@@ -124,7 +124,7 @@
       "row": 2,
       "col": 5,
       "length": 4,
-      "clue": "Raylar üzerinde hareket eden, vagonları çeken büyük motorlu araç.",
+      "clue": "Raylar üzerinde hareket eden, vagonları çeken büyük motorlu araç (4 harf) [B292-S4]",
       "answer": "TREN"
     },
     {
@@ -133,7 +133,7 @@
       "row": 2,
       "col": 5,
       "length": 5,
-      "clue": "Bir yapının ayakta durmasını sağlayan, toprağa gömülü olan ilk bölümü.",
+      "clue": "Bir yapının ayakta durmasını sağlayan, toprağa gömülü olan ilk bölümü (5 harf) [B292-S4]",
       "answer": "TEMEL"
     },
     {
@@ -142,7 +142,7 @@
       "row": 3,
       "col": 0,
       "length": 3,
-      "clue": "Dört bir yanı suyla çevrili, denizin ortasında kalmış toprak parçası.",
+      "clue": "Dört bir yanı suyla çevrili, denizin ortasında kalmış toprak parçası (3 harf) [B292-S5]",
       "answer": "ADA"
     },
     {
@@ -151,7 +151,7 @@
       "row": 3,
       "col": 0,
       "length": 3,
-      "clue": "Bir üstün ya da yetkilinin önüne saygıyla sunma, takdim etme eylemi.",
+      "clue": "Bir üstün ya da yetkilinin önüne saygıyla sunma, takdim etme eylemi (3 harf) [B292-S5]",
       "answer": "ARZ"
     },
     {
@@ -160,7 +160,7 @@
       "row": 4,
       "col": 2,
       "length": 4,
-      "clue": "Çorba, salata ya da yoğurt konulan, yuvarlak ve çukur küçük yemek kabı.",
+      "clue": "Çorba, salata ya da yoğurt konulan, yuvarlak ve çukur küçük yemek kabı (4 harf) [B292-S6]",
       "answer": "KASE"
     },
     {
@@ -169,7 +169,7 @@
       "row": 4,
       "col": 3,
       "length": 3,
-      "clue": "Bir hastalığa karşı bağışıklık kazandırmak için vücuda verilen ilaç.",
+      "clue": "Bir hastalığa karşı bağışıklık kazandırmak için vücuda verilen ilaç (3 harf) [B292-S7]",
       "answer": "AŞI"
     },
     {
@@ -178,7 +178,7 @@
       "row": 6,
       "col": 1,
       "length": 3,
-      "clue": "Tatlının tam karşıtı olan, biberin ya da kederin bıraktığı keskin duygu.",
+      "clue": "Tatlının tam karşıtı olan, biberin ya da kederin bıraktığı keskin duygu (3 harf) [B292-S8]",
       "answer": "ACI"
     }
   ]

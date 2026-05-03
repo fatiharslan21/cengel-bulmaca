@@ -90,7 +90,7 @@
       "row": 0,
       "col": 1,
       "length": 4,
-      "clue": "Kuşların yumurtladığı ağaç dalındaki çöpten örülmüş küçük barınak.",
+      "clue": "Kuşların yumurtladığı ağaç dalındaki çöpten örülmüş küçük barınak (4 harf) [B3-S1]",
       "answer": "YUVA"
     },
     {
@@ -99,7 +99,7 @@
       "row": 1,
       "col": 1,
       "length": 4,
-      "clue": "Aradaki mesafenin çok olduğu; yakınlığı hissedilmeyen ötelerdeki yer.",
+      "clue": "Aradaki mesafenin çok olduğu; yakınlığı hissedilmeyen ötelerdeki yer (4 harf) [B3-S2]",
       "answer": "UZAK"
     },
     {
@@ -108,7 +108,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "İnsana gülen talih; iyi bir sonucun tesadüfen kısmet olması hali.",
+      "clue": "İnsana gülen talih; iyi bir sonucun tesadüfen kısmet olması hali (4 harf) [B3-S3]",
       "answer": "ŞANS"
     },
     {
@@ -117,7 +117,7 @@
       "row": 3,
       "col": 3,
       "length": 4,
-      "clue": "İçerisi camla kaplı; mevsim dışında bile bitki yetiştirilen ısıtılmış yapı.",
+      "clue": "İçerisi camla kaplı; mevsim dışında bile bitki yetiştirilen ısıtılmış yapı (4 harf) [B3-S4]",
       "answer": "SERA"
     },
     {
@@ -126,7 +126,7 @@
       "row": 5,
       "col": 1,
       "length": 4,
-      "clue": "Bir yüzeye sürüldüğünde ona istenilen rengi veren sıvı ya da toz madde.",
+      "clue": "Bir yüzeye sürüldüğünde ona istenilen rengi veren sıvı ya da toz madde (4 harf) [B3-S5]",
       "answer": "BOYA"
     },
     {
@@ -135,7 +135,7 @@
       "row": 6,
       "col": 1,
       "length": 3,
-      "clue": "Bir evin ya da binanın duvarlarla ayrılmış, belirli amaçla kullanılan bölümü.",
+      "clue": "Bir evin ya da binanın duvarlarla ayrılmış, belirli amaçla kullanılan bölümü (3 harf) [B3-S6]",
       "answer": "ODA"
     },
     {
@@ -144,7 +144,7 @@
       "row": 8,
       "col": 0,
       "length": 4,
-      "clue": "İnce mukavvadan yapılmış, üzerine yazı yazılan ya da baskı yapılan levha.",
+      "clue": "İnce mukavvadan yapılmış, üzerine yazı yazılan ya da baskı yapılan levha (4 harf) [B3-S7]",
       "answer": "KART"
     },
     {
@@ -153,7 +153,7 @@
       "row": 8,
       "col": 0,
       "length": 3,
-      "clue": "Alevi sönmüş ama sıcaklığı ve kızıllığı süren yanmakta olan parça.",
+      "clue": "Alevi sönmüş ama sıcaklığı ve kızıllığı süren yanmakta olan parça (3 harf) [B3-S7]",
       "answer": "KOR"
     },
     {
@@ -162,7 +162,7 @@
       "row": 8,
       "col": 2,
       "length": 3,
-      "clue": "İnsanın bedenine hayat veren, duygularının ve düşüncelerinin kaynağı manevi öz.",
+      "clue": "İnsanın bedenine hayat veren, duygularının ve düşüncelerinin kaynağı manevi öz (3 harf) [B3-S8]",
       "answer": "RUH"
     }
   ]

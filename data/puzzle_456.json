@@ -112,7 +112,7 @@
       "row": 0,
       "col": 3,
       "length": 6,
-      "clue": "Az sözle büyük anlam ifade eden, akılda kalan özlü söz.",
+      "clue": "Az sözle büyük anlam ifade eden, akılda kalan özlü söz (6 harf) [B456-S1]",
       "answer": "VECİZE"
     },
     {
@@ -121,7 +121,7 @@
       "row": 1,
       "col": 0,
       "length": 5,
-      "clue": "Bir olay ya da gelişme hakkında ulaşan yeni bilgi; duyuru.",
+      "clue": "Bir olay ya da gelişme hakkında ulaşan yeni bilgi; duyuru (5 harf) [B456-S2]",
       "answer": "HABER"
     },
     {
@@ -130,7 +130,7 @@
       "row": 3,
       "col": 0,
       "length": 5,
-      "clue": "Yumuşak huylu, kolay geçinilen; sert tavır göstermeyen uysal kimse.",
+      "clue": "Yumuşak huylu, kolay geçinilen; sert tavır göstermeyen uysal kimse (5 harf) [B456-S3]",
       "answer": "MUNİS"
     },
     {
@@ -139,7 +139,7 @@
       "row": 5,
       "col": 0,
       "length": 4,
-      "clue": "Ucu sivri, arkası delikli; dikiş dikmek için ipliği geçiren ince metal araç.",
+      "clue": "Ucu sivri, arkası delikli; dikiş dikmek için ipliği geçiren ince metal araç (4 harf) [B456-S4]",
       "answer": "İĞNE"
     },
     {
@@ -148,7 +148,7 @@
       "row": 5,
       "col": 2,
       "length": 6,
-      "clue": "Harcanan çabaya değmeyen; hiçbir yarar sağlamayan boş uğraş.",
+      "clue": "Harcanan çabaya değmeyen; hiçbir yarar sağlamayan boş uğraş (6 harf) [B456-S5]",
       "answer": "NAFİLE"
     },
     {
@@ -157,7 +157,7 @@
       "row": 6,
       "col": 4,
       "length": 3,
-      "clue": "Omuzlara atılan ya da başa örtülen, yumuşak geniş kumaş parçası.",
+      "clue": "Omuzlara atılan ya da başa örtülen, yumuşak geniş kumaş parçası (3 harf) [B456-S6]",
       "answer": "ŞAL"
     },
     {
@@ -166,7 +166,7 @@
       "row": 6,
       "col": 5,
       "length": 3,
-      "clue": "Elin iç tarafı; parmakların bittiği yerden bileğe kadar uzanan bölüm.",
+      "clue": "Elin iç tarafı; parmakların bittiği yerden bileğe kadar uzanan bölüm (3 harf) [B456-S7]",
       "answer": "AYA"
     },
     {
@@ -175,7 +175,7 @@
       "row": 8,
       "col": 2,
       "length": 5,
-      "clue": "Sanatçının ya da düşünürün içine birden doğan yaratıcı esin kaynağı.",
+      "clue": "Sanatçının ya da düşünürün içine birden doğan yaratıcı esin kaynağı (5 harf) [B456-S8]",
       "answer": "İLHAM"
     },
     {
@@ -184,7 +184,7 @@
       "row": 9,
       "col": 0,
       "length": 3,
-      "clue": "Bir ağacın gövdesinden yanlara doğru uzayan ve yapraklarını taşıyan kol.",
+      "clue": "Bir ağacın gövdesinden yanlara doğru uzayan ve yapraklarını taşıyan kol (3 harf) [B456-S9]",
       "answer": "DAL"
     },
     {
@@ -193,7 +193,7 @@
       "row": 10,
       "col": 2,
       "length": 4,
-      "clue": "Her canlı için önceden belirlendiğine inanılan ölüm zamanı.",
+      "clue": "Her canlı için önceden belirlendiğine inanılan ölüm zamanı (4 harf) [B456-S10]",
       "answer": "ECEL"
     }
   ]

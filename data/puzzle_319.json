@@ -156,7 +156,7 @@
       "row": 0,
       "col": 6,
       "length": 4,
-      "clue": "Dişleri sürekli uzayan, tahtayı ve kâğıdı kemirebilen küçük kemirgen.",
+      "clue": "Dişleri sürekli uzayan, tahtayı ve kâğıdı kemirebilen küçük kemirgen (4 harf) [B319-S1]",
       "answer": "FARE"
     },
     {
@@ -165,7 +165,7 @@
       "row": 1,
       "col": 5,
       "length": 6,
-      "clue": "Bir ülkeyi simgeleyen, özel renk ve işaretler taşıyan kumaş parçası.",
+      "clue": "Bir ülkeyi simgeleyen, özel renk ve işaretler taşıyan kumaş parçası (6 harf) [B319-S2]",
       "answer": "BAYRAK"
     },
     {
@@ -174,7 +174,7 @@
       "row": 2,
       "col": 1,
       "length": 4,
-      "clue": "Kuşların yumurtladığı ağaç dalındaki çöpten örülmüş küçük barınak.",
+      "clue": "Kuşların yumurtladığı ağaç dalındaki çöpten örülmüş küçük barınak (4 harf) [B319-S3]",
       "answer": "YUVA"
     },
     {
@@ -183,7 +183,7 @@
       "row": 3,
       "col": 3,
       "length": 5,
-      "clue": "Kolla eli birbirine bağlayan, küçük kemiklerden oluşan eklem bölgesi.",
+      "clue": "Kolla eli birbirine bağlayan, küçük kemiklerden oluşan eklem bölgesi (5 harf) [B319-S4]",
       "answer": "BİLEK"
     },
     {
@@ -192,7 +192,7 @@
       "row": 3,
       "col": 4,
       "length": 5,
-      "clue": "Bir şeyin anlamını kavrama; olup biteni zihinde anlamlandırma yeteneği.",
+      "clue": "Bir şeyin anlamını kavrama; olup biteni zihinde anlamlandırma yeteneği (5 harf) [B319-S5]",
       "answer": "İDRAK"
     },
     {
@@ -201,7 +201,7 @@
       "row": 5,
       "col": 0,
       "length": 5,
-      "clue": "Bir olay ya da gelişme hakkında ulaşan yeni bilgi; duyuru.",
+      "clue": "Bir olay ya da gelişme hakkında ulaşan yeni bilgi; duyuru (5 harf) [B319-S6]",
       "answer": "HABER"
     },
     {
@@ -210,7 +210,7 @@
       "row": 5,
       "col": 2,
       "length": 3,
-      "clue": "Üzüm yetiştirilen tarla; aynı zamanda düğümle tutturma eylemi.",
+      "clue": "Üzüm yetiştirilen tarla; aynı zamanda düğümle tutturma eylemi (3 harf) [B319-S7]",
       "answer": "BAĞ"
     },
     {
@@ -219,7 +219,7 @@
       "row": 7,
       "col": 0,
       "length": 3,
-      "clue": "Tarihte belli özelliklerle ayırt edilen uzun dönem; devir, asır.",
+      "clue": "Tarihte belli özelliklerle ayırt edilen uzun dönem; devir, asır (3 harf) [B319-S8]",
       "answer": "ÇAĞ"
     },
     {
@@ -228,7 +228,7 @@
       "row": 7,
       "col": 1,
       "length": 4,
-      "clue": "Bacağın bileğinden aşağısı; üzerine basarak yürümemizi sağlayan uzuv.",
+      "clue": "Bacağın bileğinden aşağısı; üzerine basarak yürümemizi sağlayan uzuv (4 harf) [B319-S9]",
       "answer": "AYAK"
     },
     {
@@ -237,7 +237,7 @@
       "row": 9,
       "col": 0,
       "length": 3,
-      "clue": "Bir kimsenin ya da şeyin bulunduğu durum, vaziyet ya da keyif.",
+      "clue": "Bir kimsenin ya da şeyin bulunduğu durum, vaziyet ya da keyif (3 harf) [B319-S10]",
       "answer": "HAL"
     }
   ]

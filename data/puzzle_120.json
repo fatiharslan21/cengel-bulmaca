@@ -121,7 +121,7 @@
       "row": 0,
       "col": 8,
       "length": 5,
-      "clue": "Gökyüzünde süzülen, su buharının yoğunlaşmasıyla oluşan beyaz küme.",
+      "clue": "Gökyüzünde süzülen, su buharının yoğunlaşmasıyla oluşan beyaz küme (5 harf) [B120-S1]",
       "answer": "BULUT"
     },
     {
@@ -130,7 +130,7 @@
       "row": 2,
       "col": 2,
       "length": 4,
-      "clue": "Gömleğin boynu çevreleyen üst kısmı; ceketin de boyuna değen kenarı.",
+      "clue": "Gömleğin boynu çevreleyen üst kısmı; ceketin de boyuna değen kenarı (4 harf) [B120-S2]",
       "answer": "YAKA"
     },
     {
@@ -139,7 +139,7 @@
       "row": 2,
       "col": 4,
       "length": 5,
-      "clue": "İnsana sadakatiyle bilinen, havlayarak seslenen evcil dört ayaklı.",
+      "clue": "İnsana sadakatiyle bilinen, havlayarak seslenen evcil dört ayaklı (5 harf) [B120-S3]",
       "answer": "KÖPEK"
     },
     {
@@ -148,7 +148,7 @@
       "row": 4,
       "col": 1,
       "length": 3,
-      "clue": "Yüzümüzde çift olarak bulunan, etrafımızı görmemizi sağlayan duyu organı.",
+      "clue": "Yüzümüzde çift olarak bulunan, etrafımızı görmemizi sağlayan duyu organı (3 harf) [B120-S4]",
       "answer": "GÖZ"
     },
     {
@@ -157,7 +157,7 @@
       "row": 4,
       "col": 4,
       "length": 5,
-      "clue": "Havada uçağı yöneten, onu kalkış ve inişlerde kullanan yetişmiş kişi.",
+      "clue": "Havada uçağı yöneten, onu kalkış ve inişlerde kullanan yetişmiş kişi (5 harf) [B120-S5]",
       "answer": "PİLOT"
     },
     {
@@ -166,7 +166,7 @@
       "row": 4,
       "col": 7,
       "length": 4,
-      "clue": "Öğrencilerin öğretmenler tarafından eğitim aldığı resmî öğretim kurumu.",
+      "clue": "Öğrencilerin öğretmenler tarafından eğitim aldığı resmî öğretim kurumu (4 harf) [B120-S6]",
       "answer": "OKUL"
     },
     {
@@ -175,7 +175,7 @@
       "row": 5,
       "col": 0,
       "length": 5,
-      "clue": "Işığın önüne bir cisim girince arkasında oluşan karanlık alan.",
+      "clue": "Işığın önüne bir cisim girince arkasında oluşan karanlık alan (5 harf) [B120-S7]",
       "answer": "GÖLGE"
     },
     {
@@ -184,7 +184,7 @@
       "row": 5,
       "col": 9,
       "length": 4,
-      "clue": "Kalınlığı az olan; zarif ve narin yapıda bulunan; kalının karşıtı.",
+      "clue": "Kalınlığı az olan; zarif ve narin yapıda bulunan; kalının karşıtı (4 harf) [B120-S8]",
       "answer": "İNCE"
     },
     {
@@ -193,7 +193,7 @@
       "row": 6,
       "col": 6,
       "length": 4,
-      "clue": "Bir sınavda ya da yarışmada başarıya göre verilen sayısal değerlendirme.",
+      "clue": "Bir sınavda ya da yarışmada başarıya göre verilen sayısal değerlendirme (4 harf) [B120-S9]",
       "answer": "PUAN"
     }
   ]

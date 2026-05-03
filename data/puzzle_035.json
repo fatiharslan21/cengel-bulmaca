@@ -101,7 +101,7 @@
       "row": 0,
       "col": 4,
       "length": 4,
-      "clue": "Bir yüzeye sürüldüğünde ona istenilen rengi veren sıvı ya da toz madde.",
+      "clue": "Bir yüzeye sürüldüğünde ona istenilen rengi veren sıvı ya da toz madde (4 harf) [B35-S1]",
       "answer": "BOYA"
     },
     {
@@ -110,7 +110,7 @@
       "row": 0,
       "col": 4,
       "length": 3,
-      "clue": "Arıların çiçeklerden topladığı nektarı işleyerek yaptığı koyu, tatlı gıda.",
+      "clue": "Arıların çiçeklerden topladığı nektarı işleyerek yaptığı koyu, tatlı gıda (3 harf) [B35-S1]",
       "answer": "BAL"
     },
     {
@@ -119,7 +119,7 @@
       "row": 1,
       "col": 2,
       "length": 5,
-      "clue": "Bilinmeyen bir şeyi öğrenmek için insanın içine düşen güçlü istek.",
+      "clue": "Bilinmeyen bir şeyi öğrenmek için insanın içine düşen güçlü istek (5 harf) [B35-S2]",
       "answer": "MERAK"
     },
     {
@@ -128,7 +128,7 @@
       "row": 2,
       "col": 4,
       "length": 4,
-      "clue": "Kalemin kâğıda bıraktığı; harflerden oluşan okunabilir işaretler.",
+      "clue": "Kalemin kâğıda bıraktığı; harflerden oluşan okunabilir işaretler (4 harf) [B35-S3]",
       "answer": "YAZI"
     },
     {
@@ -137,7 +137,7 @@
       "row": 3,
       "col": 0,
       "length": 5,
-      "clue": "Düğünlerde davulla birlikte çalınan, ince tiz sesli üflemeli halk çalgısı.",
+      "clue": "Düğünlerde davulla birlikte çalınan, ince tiz sesli üflemeli halk çalgısı (5 harf) [B35-S4]",
       "answer": "ZURNA"
     },
     {
@@ -146,7 +146,7 @@
       "row": 4,
       "col": 5,
       "length": 4,
-      "clue": "İnce mukavvadan yapılmış, üzerine yazı yazılan ya da baskı yapılan levha.",
+      "clue": "İnce mukavvadan yapılmış, üzerine yazı yazılan ya da baskı yapılan levha (4 harf) [B35-S5]",
       "answer": "KART"
     },
     {
@@ -155,7 +155,7 @@
       "row": 4,
       "col": 5,
       "length": 4,
-      "clue": "Bir evin ya da iş yerinin kullanımı için sahibine ödenen aylık ücret.",
+      "clue": "Bir evin ya da iş yerinin kullanımı için sahibine ödenen aylık ücret (4 harf) [B35-S5]",
       "answer": "KIRA"
     },
     {
@@ -164,7 +164,7 @@
       "row": 5,
       "col": 2,
       "length": 4,
-      "clue": "Beyazın tam zıttı olan, gölgeleri bile koyulaştıran siyah ton.",
+      "clue": "Beyazın tam zıttı olan, gölgeleri bile koyulaştıran siyah ton (4 harf) [B35-S6]",
       "answer": "KARA"
     },
     {
@@ -173,7 +173,7 @@
       "row": 7,
       "col": 3,
       "length": 4,
-      "clue": "Müzik eserlerinde seslerin yükseklik ve uzunluğunu gösteren küçük simge.",
+      "clue": "Müzik eserlerinde seslerin yükseklik ve uzunluğunu gösteren küçük simge (4 harf) [B35-S7]",
       "answer": "NOTA"
     }
   ]

@@ -121,8 +121,10 @@ let flowTimer = null;
 const R=P.grid_size_r,C=P.grid_size_c;
 
 function TR(c){
+    const ch = (c == null ? '' : String(c)).trim();
+    if(!ch) return '';
     const m={'i':'İ','ı':'I','ö':'Ö','ü':'Ü','ş':'Ş','ç':'Ç','ğ':'Ğ','İ':'İ','I':'I','Ö':'Ö','Ü':'Ü','Ş':'Ş','Ç':'Ç','Ğ':'Ğ'};
-    return m[c]||c.toUpperCase();
+    return m[ch] || ch.toLocaleUpperCase('tr-TR');
 }
 
 function saveLastPlayed(done=false){

@@ -169,7 +169,7 @@
       "row": 0,
       "col": 0,
       "length": 4,
-      "clue": "Karanlığı dağıtan; göze hoş gelen aydınlatıcı parıltı.",
+      "clue": "Karanlığı dağıtan; göze hoş gelen aydınlatıcı parıltı (4 harf) [B384-S1]",
       "answer": "ZİYA"
     },
     {
@@ -178,7 +178,7 @@
       "row": 1,
       "col": 3,
       "length": 6,
-      "clue": "Harcanan çabaya değmeyen; hiçbir yarar sağlamayan boş uğraş.",
+      "clue": "Harcanan çabaya değmeyen; hiçbir yarar sağlamayan boş uğraş (6 harf) [B384-S2]",
       "answer": "NAFİLE"
     },
     {
@@ -187,7 +187,7 @@
       "row": 2,
       "col": 0,
       "length": 4,
-      "clue": "Gömleğin boynu çevreleyen üst kısmı; ceketin de boyuna değen kenarı.",
+      "clue": "Gömleğin boynu çevreleyen üst kısmı; ceketin de boyuna değen kenarı (4 harf) [B384-S3]",
       "answer": "YAKA"
     },
     {
@@ -196,7 +196,7 @@
       "row": 2,
       "col": 5,
       "length": 5,
-      "clue": "Güneş doğmadan önce ufukta beliren kızıllık; günün en erken aydınlığı.",
+      "clue": "Güneş doğmadan önce ufukta beliren kızıllık; günün en erken aydınlığı (5 harf) [B384-S4]",
       "answer": "ŞAFAK"
     },
     {
@@ -205,7 +205,7 @@
       "row": 3,
       "col": 5,
       "length": 4,
-      "clue": "Sahte ya da taklit olmayan; bir şeyin gerçek ve temel olan hali.",
+      "clue": "Sahte ya da taklit olmayan; bir şeyin gerçek ve temel olan hali (4 harf) [B384-S5]",
       "answer": "ASIL"
     },
     {
@@ -214,7 +214,7 @@
       "row": 6,
       "col": 2,
       "length": 5,
-      "clue": "Bir kimsenin toplumdaki yeri, konumu ya da makamı.",
+      "clue": "Bir kimsenin toplumdaki yeri, konumu ya da makamı (5 harf) [B384-S6]",
       "answer": "MEVKİ"
     },
     {
@@ -223,7 +223,7 @@
       "row": 6,
       "col": 2,
       "length": 6,
-      "clue": "Sanatçıların, özellikle şairlerin gerçek adları yerine kullandığı takma ad.",
+      "clue": "Sanatçıların, özellikle şairlerin gerçek adları yerine kullandığı takma ad (6 harf) [B384-S6]",
       "answer": "MAHLAS"
     },
     {
@@ -232,7 +232,7 @@
       "row": 6,
       "col": 6,
       "length": 4,
-      "clue": "Anlaşılmayan bir konuyu açık bir dille anlatma; aydınlatıcı açıklama.",
+      "clue": "Anlaşılmayan bir konuyu açık bir dille anlatma; aydınlatıcı açıklama (4 harf) [B384-S7]",
       "answer": "İZAH"
     },
     {
@@ -241,7 +241,7 @@
       "row": 8,
       "col": 6,
       "length": 5,
-      "clue": "Dünyanın farklı bölgelerini gösteren haritaların toplandığı büyük kitap.",
+      "clue": "Dünyanın farklı bölgelerini gösteren haritaların toplandığı büyük kitap (5 harf) [B384-S8]",
       "answer": "ATLAS"
     },
     {
@@ -250,7 +250,7 @@
       "row": 9,
       "col": 0,
       "length": 5,
-      "clue": "Beklenmedik bir durum karşısında gösterilen aceleci ve tedirgin hal.",
+      "clue": "Beklenmedik bir durum karşısında gösterilen aceleci ve tedirgin hal (5 harf) [B384-S9]",
       "answer": "TELAŞ"
     }
   ]

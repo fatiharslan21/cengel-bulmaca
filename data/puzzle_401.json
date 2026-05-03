@@ -143,7 +143,7 @@
       "row": 0,
       "col": 1,
       "length": 7,
-      "clue": "Gizli kalmış bir şeyin zamanı gelince gözle görünür olması; belirme.",
+      "clue": "Gizli kalmış bir şeyin zamanı gelince gözle görünür olması; belirme (7 harf) [B401-S1]",
       "answer": "TECELLİ"
     },
     {
@@ -152,7 +152,7 @@
       "row": 0,
       "col": 7,
       "length": 5,
-      "clue": "Mutfağa giren, bitki kökleri ve yapraklarından oluşan yenilebilir besin.",
+      "clue": "Mutfağa giren, bitki kökleri ve yapraklarından oluşan yenilebilir besin (5 harf) [B401-S2]",
       "answer": "SEBZE"
     },
     {
@@ -161,7 +161,7 @@
       "row": 3,
       "col": 0,
       "length": 5,
-      "clue": "İçe işleyen hafif hüzün; kimseye belli edilmeyen sessiz usanç.",
+      "clue": "İçe işleyen hafif hüzün; kimseye belli edilmeyen sessiz usanç (5 harf) [B401-S3]",
       "answer": "MELAL"
     },
     {
@@ -170,7 +170,7 @@
       "row": 3,
       "col": 9,
       "length": 6,
-      "clue": "Değerli eşyaların ya da paraların saklandığı gizli büyük birikim.",
+      "clue": "Değerli eşyaların ya da paraların saklandığı gizli büyük birikim (6 harf) [B401-S4]",
       "answer": "HAZİNE"
     },
     {
@@ -179,7 +179,7 @@
       "row": 4,
       "col": 6,
       "length": 6,
-      "clue": "Sevgiliden uzak düşmenin yürekte açtığı derin ayrılık acısı.",
+      "clue": "Sevgiliden uzak düşmenin yürekte açtığı derin ayrılık acısı (6 harf) [B401-S5]",
       "answer": "HİCRAN"
     },
     {
@@ -188,7 +188,7 @@
       "row": 4,
       "col": 6,
       "length": 5,
-      "clue": "Sayılarla yapılan dört işlem; gelir ve giderin tutulduğu kayıt.",
+      "clue": "Sayılarla yapılan dört işlem; gelir ve giderin tutulduğu kayıt (5 harf) [B401-S5]",
       "answer": "HESAP"
     },
     {
@@ -197,7 +197,7 @@
       "row": 5,
       "col": 3,
       "length": 5,
-      "clue": "Pencereyi örtmek için asılan, ışığı ve dışarıdan görünmeyi engelleyen kumaş.",
+      "clue": "Pencereyi örtmek için asılan, ışığı ve dışarıdan görünmeyi engelleyen kumaş (5 harf) [B401-S6]",
       "answer": "PERDE"
     },
     {
@@ -206,7 +206,7 @@
       "row": 6,
       "col": 0,
       "length": 4,
-      "clue": "Birini aldatmak için yapılan gizli düzen; dolap çevirme.",
+      "clue": "Birini aldatmak için yapılan gizli düzen; dolap çevirme (4 harf) [B401-S7]",
       "answer": "HİLE"
     },
     {
@@ -215,7 +215,7 @@
       "row": 7,
       "col": 8,
       "length": 3,
-      "clue": "Geçmişte yaşanmış ve zihinde iz bırakmış olayların hatırlanması.",
+      "clue": "Geçmişte yaşanmış ve zihinde iz bırakmış olayların hatırlanması (3 harf) [B401-S8]",
       "answer": "ANI"
     },
     {
@@ -224,7 +224,7 @@
       "row": 8,
       "col": 1,
       "length": 7,
-      "clue": "Sevilen birinden hatıra kalan; onu anmamızı sağlayan değerli eşya.",
+      "clue": "Sevilen birinden hatıra kalan; onu anmamızı sağlayan değerli eşya (7 harf) [B401-S9]",
       "answer": "YADİGAR"
     }
   ]

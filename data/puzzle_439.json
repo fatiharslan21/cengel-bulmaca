@@ -156,7 +156,7 @@
       "row": 0,
       "col": 8,
       "length": 4,
-      "clue": "Kulpundan tutularak su ya da başka sıvı taşınan derin silindirik kap.",
+      "clue": "Kulpundan tutularak su ya da başka sıvı taşınan derin silindirik kap (4 harf) [B439-S1]",
       "answer": "KOVA"
     },
     {
@@ -165,7 +165,7 @@
       "row": 1,
       "col": 7,
       "length": 4,
-      "clue": "Saçı ya da kemeri tutturmaya yarayan, klips gibi açılıp kapanan küçük süs.",
+      "clue": "Saçı ya da kemeri tutturmaya yarayan, klips gibi açılıp kapanan küçük süs (4 harf) [B439-S2]",
       "answer": "TOKA"
     },
     {
@@ -174,7 +174,7 @@
       "row": 1,
       "col": 10,
       "length": 3,
-      "clue": "İki şeyin birbirinden ayrıldığı boşluk; kısa mola süresi.",
+      "clue": "İki şeyin birbirinden ayrıldığı boşluk; kısa mola süresi (3 harf) [B439-S3]",
       "answer": "ARA"
     },
     {
@@ -183,7 +183,7 @@
       "row": 2,
       "col": 6,
       "length": 4,
-      "clue": "Bir kelimeyi bir nefeste söyleyebildiğimiz en küçük ses birimi.",
+      "clue": "Bir kelimeyi bir nefeste söyleyebildiğimiz en küçük ses birimi (4 harf) [B439-S4]",
       "answer": "HECE"
     },
     {
@@ -192,7 +192,7 @@
       "row": 3,
       "col": 5,
       "length": 4,
-      "clue": "Hayvanların otlayıp beslenmesi için ayrılmış, doğal otlarla kaplı geniş alan.",
+      "clue": "Hayvanların otlayıp beslenmesi için ayrılmış, doğal otlarla kaplı geniş alan (4 harf) [B439-S5]",
       "answer": "MERA"
     },
     {
@@ -201,7 +201,7 @@
       "row": 5,
       "col": 5,
       "length": 4,
-      "clue": "Bir işi başarmak için gösterilen büyük çaba, gayret ve çalışma.",
+      "clue": "Bir işi başarmak için gösterilen büyük çaba, gayret ve çalışma (4 harf) [B439-S6]",
       "answer": "CEHD"
     },
     {
@@ -210,7 +210,7 @@
       "row": 5,
       "col": 5,
       "length": 5,
-      "clue": "Sorulan bir soruya ya da söylenen söze karşı verilen karşılık.",
+      "clue": "Sorulan bir soruya ya da söylenen söze karşı verilen karşılık (5 harf) [B439-S6]",
       "answer": "CEVAP"
     },
     {
@@ -219,7 +219,7 @@
       "row": 5,
       "col": 8,
       "length": 6,
-      "clue": "Belirli bir ülkenin sınırlarında örgütlenmiş siyasi ve yönetimsel yapı.",
+      "clue": "Belirli bir ülkenin sınırlarında örgütlenmiş siyasi ve yönetimsel yapı (6 harf) [B439-S7]",
       "answer": "DEVLET"
     },
     {
@@ -228,7 +228,7 @@
       "row": 6,
       "col": 0,
       "length": 6,
-      "clue": "Az sözle büyük anlam ifade eden, akılda kalan özlü söz.",
+      "clue": "Az sözle büyük anlam ifade eden, akılda kalan özlü söz (6 harf) [B439-S8]",
       "answer": "VECİZE"
     },
     {
@@ -237,7 +237,7 @@
       "row": 8,
       "col": 7,
       "length": 4,
-      "clue": "Yanan bir şeyin üstünde dalgalanan, sıcak ve parlayan ışıklı kısım.",
+      "clue": "Yanan bir şeyin üstünde dalgalanan, sıcak ve parlayan ışıklı kısım (4 harf) [B439-S9]",
       "answer": "ALEV"
     }
   ]

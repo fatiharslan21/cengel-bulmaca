@@ -133,7 +133,7 @@
       "row": 0,
       "col": 6,
       "length": 3,
-      "clue": "Eskiden köylerde geniş topraklara sahip, sözü geçen nüfuzlu kişi.",
+      "clue": "Eskiden köylerde geniş topraklara sahip, sözü geçen nüfuzlu kişi (3 harf) [B39-S1]",
       "answer": "AĞA"
     },
     {
@@ -142,7 +142,7 @@
       "row": 1,
       "col": 4,
       "length": 4,
-      "clue": "Niteliği kötü olan, insanın içini bunaltan; iyi sözcüğünün zıttı.",
+      "clue": "Niteliği kötü olan, insanın içini bunaltan; iyi sözcüğünün zıttı (4 harf) [B39-S2]",
       "answer": "FENA"
     },
     {
@@ -151,7 +151,7 @@
       "row": 2,
       "col": 3,
       "length": 5,
-      "clue": "Sayılarla yapılan dört işlem; gelir ve giderin tutulduğu kayıt.",
+      "clue": "Sayılarla yapılan dört işlem; gelir ve giderin tutulduğu kayıt (5 harf) [B39-S3]",
       "answer": "HESAP"
     },
     {
@@ -160,7 +160,7 @@
       "row": 4,
       "col": 3,
       "length": 4,
-      "clue": "Bir kimsenin doğup büyüdüğü vatanı; ait olduğu aziz memleket.",
+      "clue": "Bir kimsenin doğup büyüdüğü vatanı; ait olduğu aziz memleket (4 harf) [B39-S4]",
       "answer": "YURT"
     },
     {
@@ -169,7 +169,7 @@
       "row": 4,
       "col": 3,
       "length": 3,
-      "clue": "Bitkilerden ya da hayvanlardan elde edilen; suda çözünmeyen kaygan madde.",
+      "clue": "Bitkilerden ya da hayvanlardan elde edilen; suda çözünmeyen kaygan madde (3 harf) [B39-S4]",
       "answer": "YAĞ"
     },
     {
@@ -178,7 +178,7 @@
       "row": 7,
       "col": 1,
       "length": 4,
-      "clue": "İçerisi camla kaplı; mevsim dışında bile bitki yetiştirilen ısıtılmış yapı.",
+      "clue": "İçerisi camla kaplı; mevsim dışında bile bitki yetiştirilen ısıtılmış yapı (4 harf) [B39-S5]",
       "answer": "SERA"
     },
     {
@@ -187,7 +187,7 @@
       "row": 7,
       "col": 1,
       "length": 3,
-      "clue": "İnek, keçi gibi memelilerden sağılan; beyaz renkli besleyici temel içecek.",
+      "clue": "İnek, keçi gibi memelilerden sağılan; beyaz renkli besleyici temel içecek (3 harf) [B39-S5]",
       "answer": "SÜT"
     },
     {
@@ -196,7 +196,7 @@
       "row": 9,
       "col": 0,
       "length": 5,
-      "clue": "Tekerlekleri üstünde insan ya da yük taşıyan motorlu kara taşıtı.",
+      "clue": "Tekerlekleri üstünde insan ya da yük taşıyan motorlu kara taşıtı (5 harf) [B39-S6]",
       "answer": "ARABA"
     },
     {
@@ -205,7 +205,7 @@
       "row": 9,
       "col": 3,
       "length": 3,
-      "clue": "Suyun sıfır derecenin altına inerek katılaşmasıyla meydana gelen madde.",
+      "clue": "Suyun sıfır derecenin altına inerek katılaşmasıyla meydana gelen madde (3 harf) [B39-S7]",
       "answer": "BUZ"
     }
   ]

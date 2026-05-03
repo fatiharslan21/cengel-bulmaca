@@ -145,7 +145,7 @@
       "row": 0,
       "col": 1,
       "length": 6,
-      "clue": "Çözülmesi zor olan gizemli durum; içinden çıkılmaz sır.",
+      "clue": "Çözülmesi zor olan gizemli durum; içinden çıkılmaz sır (6 harf) [B420-S1]",
       "answer": "MUAMMA"
     },
     {
@@ -154,7 +154,7 @@
       "row": 0,
       "col": 5,
       "length": 4,
-      "clue": "İnsanın boynunun üst kısmında bulunan, düşünmenin merkezi olan baş.",
+      "clue": "İnsanın boynunun üst kısmında bulunan, düşünmenin merkezi olan baş (4 harf) [B420-S2]",
       "answer": "KAFA"
     },
     {
@@ -163,7 +163,7 @@
       "row": 2,
       "col": 0,
       "length": 4,
-      "clue": "Dinde kesinlikle yerine getirilmesi emredilen, zorunlu olan yükümlülük.",
+      "clue": "Dinde kesinlikle yerine getirilmesi emredilen, zorunlu olan yükümlülük (4 harf) [B420-S3]",
       "answer": "FARZ"
     },
     {
@@ -172,7 +172,7 @@
       "row": 3,
       "col": 4,
       "length": 5,
-      "clue": "İçten gelen bağlılık; gönülden duyulan samimi sevgi ve sadakat.",
+      "clue": "İçten gelen bağlılık; gönülden duyulan samimi sevgi ve sadakat (5 harf) [B420-S4]",
       "answer": "HULUS"
     },
     {
@@ -181,7 +181,7 @@
       "row": 3,
       "col": 4,
       "length": 3,
-      "clue": "Kişinin yasal olarak sahip olduğu; alması ya da yapması gereken şey.",
+      "clue": "Kişinin yasal olarak sahip olduğu; alması ya da yapması gereken şey (3 harf) [B420-S4]",
       "answer": "HAK"
     },
     {
@@ -190,7 +190,7 @@
       "row": 5,
       "col": 0,
       "length": 6,
-      "clue": "Harcanan çabaya değmeyen; hiçbir yarar sağlamayan boş uğraş.",
+      "clue": "Harcanan çabaya değmeyen; hiçbir yarar sağlamayan boş uğraş (6 harf) [B420-S5]",
       "answer": "NAFİLE"
     },
     {
@@ -199,7 +199,7 @@
       "row": 5,
       "col": 0,
       "length": 5,
-      "clue": "Yararlanılan, şükür duyulan değerli varlık; insana verilmiş lütuf.",
+      "clue": "Yararlanılan, şükür duyulan değerli varlık; insana verilmiş lütuf (5 harf) [B420-S5]",
       "answer": "NİMET"
     },
     {
@@ -208,7 +208,7 @@
       "row": 6,
       "col": 9,
       "length": 5,
-      "clue": "Beklenmedik bir durum karşısında gösterilen aceleci ve tedirgin hal.",
+      "clue": "Beklenmedik bir durum karşısında gösterilen aceleci ve tedirgin hal (5 harf) [B420-S6]",
       "answer": "TELAŞ"
     },
     {
@@ -217,7 +217,7 @@
       "row": 7,
       "col": 4,
       "length": 6,
-      "clue": "Dakikanın altmışta biri; zamanın en küçük günlük ölçü birimi.",
+      "clue": "Dakikanın altmışta biri; zamanın en küçük günlük ölçü birimi (6 harf) [B420-S7]",
       "answer": "SANİYE"
     },
     {
@@ -226,7 +226,7 @@
       "row": 7,
       "col": 6,
       "length": 3,
-      "clue": "İçi kırmızı tanelerle dolu, kalın kabuklu, sonbahar aylarının meyvesi.",
+      "clue": "İçi kırmızı tanelerle dolu, kalın kabuklu, sonbahar aylarının meyvesi (3 harf) [B420-S8]",
       "answer": "NAR"
     }
   ]

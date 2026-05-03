@@ -111,7 +111,7 @@
       "row": 0,
       "col": 8,
       "length": 4,
-      "clue": "Yeni durumlara hızla uyum sağlayıp doğru kararlar verebilme yeteneği.",
+      "clue": "Yeni durumlara hızla uyum sağlayıp doğru kararlar verebilme yeteneği (4 harf) [B467-S1]",
       "answer": "ZEKA"
     },
     {
@@ -120,7 +120,7 @@
       "row": 0,
       "col": 10,
       "length": 4,
-      "clue": "Niteliği kötü olan, insanın içini bunaltan; iyi sözcüğünün zıttı.",
+      "clue": "Niteliği kötü olan, insanın içini bunaltan; iyi sözcüğünün zıttı (4 harf) [B467-S2]",
       "answer": "FENA"
     },
     {
@@ -129,7 +129,7 @@
       "row": 1,
       "col": 7,
       "length": 5,
-      "clue": "İnsanın içini burkan, uzun süre geçmeyen derin üzüntü hali.",
+      "clue": "İnsanın içini burkan, uzun süre geçmeyen derin üzüntü hali (5 harf) [B467-S3]",
       "answer": "KEDER"
     },
     {
@@ -138,7 +138,7 @@
       "row": 2,
       "col": 2,
       "length": 4,
-      "clue": "Kozadan elde edilen, parlak dokulu ve dayanıklı, değerli kumaş lifi.",
+      "clue": "Kozadan elde edilen, parlak dokulu ve dayanıklı, değerli kumaş lifi (4 harf) [B467-S4]",
       "answer": "İPEK"
     },
     {
@@ -147,7 +147,7 @@
       "row": 2,
       "col": 5,
       "length": 4,
-      "clue": "Nüfusu kalabalık, altyapısı gelişmiş, şehir niteliğindeki yerleşim yeri.",
+      "clue": "Nüfusu kalabalık, altyapısı gelişmiş, şehir niteliğindeki yerleşim yeri (4 harf) [B467-S5]",
       "answer": "KENT"
     },
     {
@@ -156,7 +156,7 @@
       "row": 3,
       "col": 1,
       "length": 4,
-      "clue": "Birine seslenmek için çıkarılan yüksek ses; çağırmak amaçlı bağırma.",
+      "clue": "Birine seslenmek için çıkarılan yüksek ses; çağırmak amaçlı bağırma (4 harf) [B467-S6]",
       "answer": "NİDA"
     },
     {
@@ -165,7 +165,7 @@
       "row": 3,
       "col": 5,
       "length": 4,
-      "clue": "Evde ya da iş yerinde gündelik hayatta kullanılan nesnelerin tümü.",
+      "clue": "Evde ya da iş yerinde gündelik hayatta kullanılan nesnelerin tümü (4 harf) [B467-S7]",
       "answer": "EŞYA"
     },
     {
@@ -174,7 +174,7 @@
       "row": 4,
       "col": 1,
       "length": 5,
-      "clue": "Bilginin ötesinde, deneyim ve sezgiyle kazanılan derin anlayış.",
+      "clue": "Bilginin ötesinde, deneyim ve sezgiyle kazanılan derin anlayış (5 harf) [B467-S8]",
       "answer": "İRFAN"
     },
     {
@@ -183,7 +183,7 @@
       "row": 5,
       "col": 5,
       "length": 7,
-      "clue": "Acıklı bir olay karşısında insanın içine çöken derin hüzün.",
+      "clue": "Acıklı bir olay karşısında insanın içine çöken derin hüzün (7 harf) [B467-S9]",
       "answer": "TEESSÜR"
     },
     {
@@ -192,7 +192,7 @@
       "row": 6,
       "col": 0,
       "length": 4,
-      "clue": "Müziğin ritmine uyarak, düzenli vücut hareketleriyle yapılan sanatsal eylem.",
+      "clue": "Müziğin ritmine uyarak, düzenli vücut hareketleriyle yapılan sanatsal eylem (4 harf) [B467-S10]",
       "answer": "DANS"
     }
   ]

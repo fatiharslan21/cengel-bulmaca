@@ -145,7 +145,7 @@
       "row": 0,
       "col": 6,
       "length": 4,
-      "clue": "Yeni durumlara hızla uyum sağlayıp doğru kararlar verebilme yeteneği.",
+      "clue": "Yeni durumlara hızla uyum sağlayıp doğru kararlar verebilme yeteneği (4 harf) [B471-S1]",
       "answer": "ZEKA"
     },
     {
@@ -154,7 +154,7 @@
       "row": 0,
       "col": 8,
       "length": 3,
-      "clue": "Çevresine göre belirgin biçimde yükselen, taşlık ve kayalık büyük arazi.",
+      "clue": "Çevresine göre belirgin biçimde yükselen, taşlık ve kayalık büyük arazi (3 harf) [B471-S2]",
       "answer": "DAĞ"
     },
     {
@@ -163,7 +163,7 @@
       "row": 1,
       "col": 5,
       "length": 5,
-      "clue": "Geçim sıkıntısı çekmeden, bolluk içinde sürdürülen rahat ve huzurlu yaşam.",
+      "clue": "Geçim sıkıntısı çekmeden, bolluk içinde sürdürülen rahat ve huzurlu yaşam (5 harf) [B471-S3]",
       "answer": "REFAH"
     },
     {
@@ -172,7 +172,7 @@
       "row": 2,
       "col": 1,
       "length": 5,
-      "clue": "İnsanın ömür boyu karşılaştığı iyi ya da kötü raslantıların tümü; baht.",
+      "clue": "İnsanın ömür boyu karşılaştığı iyi ya da kötü raslantıların tümü; baht (5 harf) [B471-S4]",
       "answer": "TALİH"
     },
     {
@@ -181,7 +181,7 @@
       "row": 2,
       "col": 3,
       "length": 5,
-      "clue": "Bir milletin üzerinde yaşayıp kendine yurt bildiği ata toprağı.",
+      "clue": "Bir milletin üzerinde yaşayıp kendine yurt bildiği ata toprağı (5 harf) [B471-S5]",
       "answer": "VATAN"
     },
     {
@@ -190,7 +190,7 @@
       "row": 3,
       "col": 0,
       "length": 7,
-      "clue": "Sarı göbeğinin etrafında beyaz taç yapraklarıyla açan küçük kır çiçeği.",
+      "clue": "Sarı göbeğinin etrafında beyaz taç yapraklarıyla açan küçük kır çiçeği (7 harf) [B471-S6]",
       "answer": "PAPATYA"
     },
     {
@@ -199,7 +199,7 @@
       "row": 4,
       "col": 8,
       "length": 7,
-      "clue": "Üzüntülü birine söylenerek onu rahatlatan sıcak avutucu söz.",
+      "clue": "Üzüntülü birine söylenerek onu rahatlatan sıcak avutucu söz (7 harf) [B471-S7]",
       "answer": "TESELLİ"
     },
     {
@@ -208,7 +208,7 @@
       "row": 5,
       "col": 3,
       "length": 3,
-      "clue": "Bir cismin aşağı tarafı; üst sözcüğünün tam karşıtı olan yön.",
+      "clue": "Bir cismin aşağı tarafı; üst sözcüğünün tam karşıtı olan yön (3 harf) [B471-S8]",
       "answer": "ALT"
     },
     {
@@ -217,7 +217,7 @@
       "row": 5,
       "col": 5,
       "length": 6,
-      "clue": "Kendini üstün görmeyen, sade ve mütevazı davranış; gösterişsiz olma hali.",
+      "clue": "Kendini üstün görmeyen, sade ve mütevazı davranış; gösterişsiz olma hali (6 harf) [B471-S9]",
       "answer": "TEVAZU"
     },
     {
@@ -226,7 +226,7 @@
       "row": 8,
       "col": 4,
       "length": 5,
-      "clue": "Zihinde canlandırılan, gerçekleşmesi beklenen ya da umulan görüntü.",
+      "clue": "Zihinde canlandırılan, gerçekleşmesi beklenen ya da umulan görüntü (5 harf) [B471-S10]",
       "answer": "HAYAL"
     }
   ]

@@ -153,7 +153,7 @@
       "row": 0,
       "col": 6,
       "length": 3,
-      "clue": "Demirin hava ve nemle temas ederek zamanla üzerinde oluşturduğu kızıl tabaka.",
+      "clue": "Demirin hava ve nemle temas ederek zamanla üzerinde oluşturduğu kızıl tabaka (3 harf) [B322-S1]",
       "answer": "PAS"
     },
     {
@@ -162,7 +162,7 @@
       "row": 1,
       "col": 8,
       "length": 4,
-      "clue": "Bir olayın kaçıncı kez yaşandığını anlatmak için kullanılan kez sözcüğü.",
+      "clue": "Bir olayın kaçıncı kez yaşandığını anlatmak için kullanılan kez sözcüğü (4 harf) [B322-S2]",
       "answer": "DEFA"
     },
     {
@@ -171,7 +171,7 @@
       "row": 2,
       "col": 0,
       "length": 6,
-      "clue": "Kişinin payına düşen; kaderin ona uygun gördüğü nasibi ya da şansı.",
+      "clue": "Kişinin payına düşen; kaderin ona uygun gördüğü nasibi ya da şansı (6 harf) [B322-S3]",
       "answer": "KISMET"
     },
     {
@@ -180,7 +180,7 @@
       "row": 2,
       "col": 4,
       "length": 4,
-      "clue": "Bir ailenin oturduğu ev; aynı zamanda sayıdaki basamak anlamı taşır.",
+      "clue": "Bir ailenin oturduğu ev; aynı zamanda sayıdaki basamak anlamı taşır (4 harf) [B322-S4]",
       "answer": "HANE"
     },
     {
@@ -189,7 +189,7 @@
       "row": 2,
       "col": 4,
       "length": 5,
-      "clue": "Ortak bir malın ya da işin her birine düşen pay; nasip.",
+      "clue": "Ortak bir malın ya da işin her birine düşen pay; nasip (5 harf) [B322-S4]",
       "answer": "HİSSE"
     },
     {
@@ -198,7 +198,7 @@
       "row": 2,
       "col": 10,
       "length": 4,
-      "clue": "Yanmakta olan bir maddenin çıkardığı ısı, ışık ve alevin tümü.",
+      "clue": "Yanmakta olan bir maddenin çıkardığı ısı, ışık ve alevin tümü (4 harf) [B322-S5]",
       "answer": "ATEŞ"
     },
     {
@@ -207,7 +207,7 @@
       "row": 4,
       "col": 0,
       "length": 5,
-      "clue": "Cilde sürülüp suyla köpürtülerek kirleri temizleyen, kalıp ya da sıvı madde.",
+      "clue": "Cilde sürülüp suyla köpürtülerek kirleri temizleyen, kalıp ya da sıvı madde (5 harf) [B322-S6]",
       "answer": "SABUN"
     },
     {
@@ -216,7 +216,7 @@
       "row": 4,
       "col": 7,
       "length": 5,
-      "clue": "Ucundan mürekkep ya da grafit akıtarak kâğıda yazı yazmayı sağlayan araç.",
+      "clue": "Ucundan mürekkep ya da grafit akıtarak kâğıda yazı yazmayı sağlayan araç (5 harf) [B322-S7]",
       "answer": "KALEM"
     },
     {
@@ -225,7 +225,7 @@
       "row": 7,
       "col": 0,
       "length": 3,
-      "clue": "Denizden ya da yer altından çıkarılan; yemeklere tat veren beyaz tane.",
+      "clue": "Denizden ya da yer altından çıkarılan; yemeklere tat veren beyaz tane (3 harf) [B322-S8]",
       "answer": "TUZ"
     },
     {
@@ -234,7 +234,7 @@
       "row": 7,
       "col": 1,
       "length": 3,
-      "clue": "Yüceliğiyle saygı uyandıran; hem büyük hem görkemli olan varlık.",
+      "clue": "Yüceliğiyle saygı uyandıran; hem büyük hem görkemli olan varlık (3 harf) [B322-S9]",
       "answer": "ULU"
     }
   ]

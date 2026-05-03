@@ -121,7 +121,7 @@
       "row": 0,
       "col": 3,
       "length": 3,
-      "clue": "Bulunduğun yerden geri çevril; ya da bir eksen etrafında hareket et.",
+      "clue": "Bulunduğun yerden geri çevril; ya da bir eksen etrafında hareket et (3 harf) [B133-S1]",
       "answer": "DÖN"
     },
     {
@@ -130,7 +130,7 @@
       "row": 0,
       "col": 3,
       "length": 3,
-      "clue": "Havanın ısısının düşmesiyle suların yüzeyde buz tutması olayı.",
+      "clue": "Havanın ısısının düşmesiyle suların yüzeyde buz tutması olayı (3 harf) [B133-S1]",
       "answer": "DON"
     },
     {
@@ -139,7 +139,7 @@
       "row": 1,
       "col": 6,
       "length": 5,
-      "clue": "Denizin ya da gölün karaya kavuştuğu kumlu ve taşlı kıyı şeridi.",
+      "clue": "Denizin ya da gölün karaya kavuştuğu kumlu ve taşlı kıyı şeridi (5 harf) [B133-S2]",
       "answer": "SAHİL"
     },
     {
@@ -148,7 +148,7 @@
       "row": 2,
       "col": 3,
       "length": 4,
-      "clue": "Müzik eserlerinde seslerin yükseklik ve uzunluğunu gösteren küçük simge.",
+      "clue": "Müzik eserlerinde seslerin yükseklik ve uzunluğunu gösteren küçük simge (4 harf) [B133-S3]",
       "answer": "NOTA"
     },
     {
@@ -157,7 +157,7 @@
       "row": 3,
       "col": 9,
       "length": 3,
-      "clue": "Göğüs kafesi ile kalçalar arasında kalan, vücudun orta kısmı.",
+      "clue": "Göğüs kafesi ile kalçalar arasında kalan, vücudun orta kısmı (3 harf) [B133-S4]",
       "answer": "BEL"
     },
     {
@@ -166,7 +166,7 @@
       "row": 4,
       "col": 2,
       "length": 4,
-      "clue": "İnce mukavvadan yapılmış, üzerine yazı yazılan ya da baskı yapılan levha.",
+      "clue": "İnce mukavvadan yapılmış, üzerine yazı yazılan ya da baskı yapılan levha (4 harf) [B133-S5]",
       "answer": "KART"
     },
     {
@@ -175,7 +175,7 @@
       "row": 5,
       "col": 4,
       "length": 6,
-      "clue": "Geceleri ötüşüyle tanınan, sesi şiirlere konu olmuş küçük kahverengi kuş.",
+      "clue": "Geceleri ötüşüyle tanınan, sesi şiirlere konu olmuş küçük kahverengi kuş (6 harf) [B133-S6]",
       "answer": "BÜLBÜL"
     },
     {
@@ -184,7 +184,7 @@
       "row": 5,
       "col": 4,
       "length": 3,
-      "clue": "İnsanın boynundan yukarısı, beynin ve yüzün bulunduğu vücut bölümü.",
+      "clue": "İnsanın boynundan yukarısı, beynin ve yüzün bulunduğu vücut bölümü (3 harf) [B133-S6]",
       "answer": "BAŞ"
     },
     {
@@ -193,7 +193,7 @@
       "row": 5,
       "col": 7,
       "length": 4,
-      "clue": "İçinden su, gaz ya da başka sıvıların geçtiği içi boş uzun silindir.",
+      "clue": "İçinden su, gaz ya da başka sıvıların geçtiği içi boş uzun silindir (4 harf) [B133-S7]",
       "answer": "BORU"
     },
     {
@@ -202,7 +202,7 @@
       "row": 6,
       "col": 0,
       "length": 5,
-      "clue": "Üzerinde buğday, arpa ya da sebze yetiştirilen sürülmüş geniş toprak.",
+      "clue": "Üzerinde buğday, arpa ya da sebze yetiştirilen sürülmüş geniş toprak (5 harf) [B133-S8]",
       "answer": "TARLA"
     }
   ]

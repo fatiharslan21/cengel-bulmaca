@@ -153,7 +153,7 @@
       "row": 0,
       "col": 8,
       "length": 6,
-      "clue": "Bulutlardaki su damlalarının yer çekimiyle gökten yağması.",
+      "clue": "Bulutlardaki su damlalarının yer çekimiyle gökten yağması (6 harf) [B157-S1]",
       "answer": "YAĞMUR"
     },
     {
@@ -162,7 +162,7 @@
       "row": 1,
       "col": 7,
       "length": 5,
-      "clue": "Ucundan mürekkep ya da grafit akıtarak kâğıda yazı yazmayı sağlayan araç.",
+      "clue": "Ucundan mürekkep ya da grafit akıtarak kâğıda yazı yazmayı sağlayan araç (5 harf) [B157-S2]",
       "answer": "KALEM"
     },
     {
@@ -171,7 +171,7 @@
       "row": 1,
       "col": 10,
       "length": 4,
-      "clue": "Yetkili bir kimsenin yerine getirilmek üzere verdiği kesin buyruk.",
+      "clue": "Yetkili bir kimsenin yerine getirilmek üzere verdiği kesin buyruk (4 harf) [B157-S3]",
       "answer": "EMİR"
     },
     {
@@ -180,7 +180,7 @@
       "row": 4,
       "col": 5,
       "length": 4,
-      "clue": "Burnumuzla algıladığımız, havada yayılan hoş ya da keskin tanecikler.",
+      "clue": "Burnumuzla algıladığımız, havada yayılan hoş ya da keskin tanecikler (4 harf) [B157-S4]",
       "answer": "KOKU"
     },
     {
@@ -189,7 +189,7 @@
       "row": 4,
       "col": 5,
       "length": 4,
-      "clue": "İki duvarın ya da iki kenarın birleştiği noktada oluşan açılı yer.",
+      "clue": "İki duvarın ya da iki kenarın birleştiği noktada oluşan açılı yer (4 harf) [B157-S4]",
       "answer": "KÖŞE"
     },
     {
@@ -198,7 +198,7 @@
       "row": 6,
       "col": 1,
       "length": 4,
-      "clue": "İçine çiçek konulmak üzere yapılmış, ince uzun boyunlu süs kabı.",
+      "clue": "İçine çiçek konulmak üzere yapılmış, ince uzun boyunlu süs kabı (4 harf) [B157-S5]",
       "answer": "VAZO"
     },
     {
@@ -207,7 +207,7 @@
       "row": 6,
       "col": 3,
       "length": 3,
-      "clue": "İçin karşıtı; bir şeyin çevresini gören, dışarıya bakan yüzü.",
+      "clue": "İçin karşıtı; bir şeyin çevresini gören, dışarıya bakan yüzü (3 harf) [B157-S6]",
       "answer": "DIŞ"
     },
     {
@@ -216,7 +216,7 @@
       "row": 6,
       "col": 3,
       "length": 3,
-      "clue": "Bir ağacın gövdesinden yanlara doğru uzayan ve yapraklarını taşıyan kol.",
+      "clue": "Bir ağacın gövdesinden yanlara doğru uzayan ve yapraklarını taşıyan kol (3 harf) [B157-S6]",
       "answer": "DAL"
     },
     {
@@ -225,7 +225,7 @@
       "row": 7,
       "col": 1,
       "length": 3,
-      "clue": "Birden çok rengin bir arada bulunduğu, benekli ya da karışık görünüm.",
+      "clue": "Birden çok rengin bir arada bulunduğu, benekli ya da karışık görünüm (3 harf) [B157-S7]",
       "answer": "ALA"
     },
     {
@@ -234,7 +234,7 @@
       "row": 9,
       "col": 0,
       "length": 3,
-      "clue": "Kalbin bulunduğu taraf; sağın tam karşıtı olan yön.",
+      "clue": "Kalbin bulunduğu taraf; sağın tam karşıtı olan yön (3 harf) [B157-S8]",
       "answer": "SOL"
     }
   ]

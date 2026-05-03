@@ -309,6 +309,7 @@
                 rec.updatedAt = Date.now();
                 await fbUpdateUser(currentUser.key, rec);
                 loadUserDataToLegacyStores(rec);
+                window.dispatchEvent(new CustomEvent('cbLeaderboardUpdated'));
                 return;
             } catch(err){
                 console.warn('Firestore saveScore error:', err && err.message);
@@ -327,6 +328,7 @@
                 dailyKey: dailyKey || null
             });
             if(remote.ok && remote.user) loadUserDataToLegacyStores(remote.user);
+            window.dispatchEvent(new CustomEvent('cbLeaderboardUpdated'));
             return;
         }
 
@@ -348,6 +350,7 @@
         db.users[currentUser.key] = local;
         saveDB(db);
         loadUserDataToLegacyStores(local);
+        window.dispatchEvent(new CustomEvent('cbLeaderboardUpdated'));
     }
 
     // ─── Public: getLeaderboard ───

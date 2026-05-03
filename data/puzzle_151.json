@@ -112,7 +112,7 @@
       "row": 0,
       "col": 4,
       "length": 4,
-      "clue": "Bir sanatçının ya da yazarın ortaya koyduğu özgün yapıt.",
+      "clue": "Bir sanatçının ya da yazarın ortaya koyduğu özgün yapıt (4 harf) [B151-S1]",
       "answer": "ESER"
     },
     {
@@ -121,7 +121,7 @@
       "row": 1,
       "col": 2,
       "length": 6,
-      "clue": "Bir merkezden eşit uzaklıktaki noktaların oluşturduğu kapalı eğri.",
+      "clue": "Bir merkezden eşit uzaklıktaki noktaların oluşturduğu kapalı eğri (6 harf) [B151-S2]",
       "answer": "ÇEMBER"
     },
     {
@@ -130,7 +130,7 @@
       "row": 3,
       "col": 1,
       "length": 4,
-      "clue": "Bir canlının doğumundan ölümüne kadar geçen toplam yaşam süresi.",
+      "clue": "Bir canlının doğumundan ölümüne kadar geçen toplam yaşam süresi (4 harf) [B151-S3]",
       "answer": "ÖMÜR"
     },
     {
@@ -139,7 +139,7 @@
       "row": 5,
       "col": 4,
       "length": 3,
-      "clue": "Bitkinin çiçek ya da yaprağını gövdeye bağlayan uzun ve ince bölüm.",
+      "clue": "Bitkinin çiçek ya da yaprağını gövdeye bağlayan uzun ve ince bölüm (3 harf) [B151-S4]",
       "answer": "SAP"
     },
     {
@@ -148,7 +148,7 @@
       "row": 5,
       "col": 5,
       "length": 3,
-      "clue": "Halk ağzında yakışıklı, gösterişli kimse için kullanılan eski bir sözcük.",
+      "clue": "Halk ağzında yakışıklı, gösterişli kimse için kullanılan eski bir sözcük (3 harf) [B151-S5]",
       "answer": "AFİ"
     },
     {
@@ -157,7 +157,7 @@
       "row": 6,
       "col": 0,
       "length": 4,
-      "clue": "Anadolu ve çevresinde yaşayan, Orta Asya kökenli büyük millet.",
+      "clue": "Anadolu ve çevresinde yaşayan, Orta Asya kökenli büyük millet (4 harf) [B151-S6]",
       "answer": "TÜRK"
     },
     {
@@ -166,7 +166,7 @@
       "row": 6,
       "col": 3,
       "length": 3,
-      "clue": "Çanak çömlek yapımında kullanılan, suyla yumuşayan yapışkan toprak.",
+      "clue": "Çanak çömlek yapımında kullanılan, suyla yumuşayan yapışkan toprak (3 harf) [B151-S7]",
       "answer": "KİL"
     },
     {
@@ -175,7 +175,7 @@
       "row": 7,
       "col": 3,
       "length": 3,
-      "clue": "Hoşa giden, yararlı ve olumlu olan; kötünün tam karşıtı olan nitelik.",
+      "clue": "Hoşa giden, yararlı ve olumlu olan; kötünün tam karşıtı olan nitelik (3 harf) [B151-S8]",
       "answer": "İYİ"
     },
     {
@@ -184,7 +184,7 @@
       "row": 8,
       "col": 1,
       "length": 3,
-      "clue": "Arıların çiçeklerden topladığı nektarı işleyerek yaptığı koyu, tatlı gıda.",
+      "clue": "Arıların çiçeklerden topladığı nektarı işleyerek yaptığı koyu, tatlı gıda (3 harf) [B151-S9]",
       "answer": "BAL"
     },
     {
@@ -193,7 +193,7 @@
       "row": 8,
       "col": 2,
       "length": 3,
-      "clue": "Bir hastalığa karşı bağışıklık kazandırmak için vücuda verilen ilaç.",
+      "clue": "Bir hastalığa karşı bağışıklık kazandırmak için vücuda verilen ilaç (3 harf) [B151-S10]",
       "answer": "AŞI"
     }
   ]

@@ -157,7 +157,7 @@
       "row": 0,
       "col": 8,
       "length": 5,
-      "clue": "Yelkenli ya da motorlu olup denizde kısa yolculuklara çıkan küçük gemi.",
+      "clue": "Yelkenli ya da motorlu olup denizde kısa yolculuklara çıkan küçük gemi (5 harf) [B299-S1]",
       "answer": "TEKNE"
     },
     {
@@ -166,7 +166,7 @@
       "row": 1,
       "col": 5,
       "length": 4,
-      "clue": "Bir işe girişirken göz önünde tutulan, ulaşılmak istenen son hedef.",
+      "clue": "Bir işe girişirken göz önünde tutulan, ulaşılmak istenen son hedef (4 harf) [B299-S2]",
       "answer": "GAYE"
     },
     {
@@ -175,7 +175,7 @@
       "row": 1,
       "col": 6,
       "length": 4,
-      "clue": "Kaldırılması güç olan, hafif sözcüğünün zıttı sayılan kütle durumu.",
+      "clue": "Kaldırılması güç olan, hafif sözcüğünün zıttı sayılan kütle durumu (4 harf) [B299-S3]",
       "answer": "AĞIR"
     },
     {
@@ -184,7 +184,7 @@
       "row": 3,
       "col": 2,
       "length": 5,
-      "clue": "İçe işleyen hafif hüzün; kimseye belli edilmeyen sessiz usanç.",
+      "clue": "İçe işleyen hafif hüzün; kimseye belli edilmeyen sessiz usanç (5 harf) [B299-S4]",
       "answer": "MELAL"
     },
     {
@@ -193,7 +193,7 @@
       "row": 4,
       "col": 1,
       "length": 6,
-      "clue": "Bir merkezden eşit uzaklıktaki noktaların oluşturduğu kapalı eğri.",
+      "clue": "Bir merkezden eşit uzaklıktaki noktaların oluşturduğu kapalı eğri (6 harf) [B299-S5]",
       "answer": "ÇEMBER"
     },
     {
@@ -202,7 +202,7 @@
       "row": 4,
       "col": 5,
       "length": 4,
-      "clue": "Yetkili bir kimsenin yerine getirilmek üzere verdiği kesin buyruk.",
+      "clue": "Yetkili bir kimsenin yerine getirilmek üzere verdiği kesin buyruk (4 harf) [B299-S6]",
       "answer": "EMİR"
     },
     {
@@ -211,7 +211,7 @@
       "row": 6,
       "col": 5,
       "length": 5,
-      "clue": "Ahlaki ölçülere bağlı kalma; namusu ve temizliği koruma hali.",
+      "clue": "Ahlaki ölçülere bağlı kalma; namusu ve temizliği koruma hali (5 harf) [B299-S7]",
       "answer": "İFFET"
     },
     {
@@ -220,7 +220,7 @@
       "row": 6,
       "col": 8,
       "length": 4,
-      "clue": "Gönle çöken derin üzüntü, insanı içten içe yiyen keder.",
+      "clue": "Gönle çöken derin üzüntü, insanı içten içe yiyen keder (4 harf) [B299-S8]",
       "answer": "ELEM"
     },
     {
@@ -229,7 +229,7 @@
       "row": 7,
       "col": 0,
       "length": 3,
-      "clue": "Göğüs kafesi ile kalçalar arasında kalan, vücudun orta kısmı.",
+      "clue": "Göğüs kafesi ile kalçalar arasında kalan, vücudun orta kısmı (3 harf) [B299-S9]",
       "answer": "BEL"
     },
     {
@@ -238,7 +238,7 @@
       "row": 7,
       "col": 0,
       "length": 5,
-      "clue": "Bir cismin uzunluk, genişlik ve yükseklik gibi ölçülebilen özelliği.",
+      "clue": "Bir cismin uzunluk, genişlik ve yükseklik gibi ölçülebilen özelliği (5 harf) [B299-S9]",
       "answer": "BOYUT"
     }
   ]

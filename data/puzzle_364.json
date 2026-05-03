@@ -130,7 +130,7 @@
       "row": 0,
       "col": 3,
       "length": 5,
-      "clue": "Kaybedilen bir yakının ardından tutulan koyu yas; siyahlar giyme hali.",
+      "clue": "Kaybedilen bir yakının ardından tutulan koyu yas; siyahlar giyme hali (5 harf) [B364-S1]",
       "answer": "MATEM"
     },
     {
@@ -139,7 +139,7 @@
       "row": 1,
       "col": 2,
       "length": 4,
-      "clue": "Ortaçağ Avrupası'nda soyluların yaşadığı kuleli, büyük taştan yapılı konak.",
+      "clue": "Ortaçağ Avrupası'nda soyluların yaşadığı kuleli, büyük taştan yapılı konak (4 harf) [B364-S2]",
       "answer": "ŞATO"
     },
     {
@@ -148,7 +148,7 @@
       "row": 2,
       "col": 1,
       "length": 4,
-      "clue": "İçine çiçek konulmak üzere yapılmış, ince uzun boyunlu süs kabı.",
+      "clue": "İçine çiçek konulmak üzere yapılmış, ince uzun boyunlu süs kabı (4 harf) [B364-S3]",
       "answer": "VAZO"
     },
     {
@@ -157,7 +157,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "Sayılabilen nesnelerin her biri; küçük parça ya da adet.",
+      "clue": "Sayılabilen nesnelerin her biri; küçük parça ya da adet (4 harf) [B364-S4]",
       "answer": "TANE"
     },
     {
@@ -166,7 +166,7 @@
       "row": 3,
       "col": 6,
       "length": 3,
-      "clue": "Omuzlara atılan ya da başa örtülen, yumuşak geniş kumaş parçası.",
+      "clue": "Omuzlara atılan ya da başa örtülen, yumuşak geniş kumaş parçası (3 harf) [B364-S5]",
       "answer": "ŞAL"
     },
     {
@@ -175,7 +175,7 @@
       "row": 3,
       "col": 6,
       "length": 4,
-      "clue": "İçten doğan büyük istek; insanı coşturan şiddetli arzu ve heves.",
+      "clue": "İçten doğan büyük istek; insanı coşturan şiddetli arzu ve heves (4 harf) [B364-S5]",
       "answer": "ŞEVK"
     },
     {
@@ -184,7 +184,7 @@
       "row": 3,
       "col": 8,
       "length": 4,
-      "clue": "Bir kimseyle ayrılırken söylenen son söz; ayrılık selamı.",
+      "clue": "Bir kimseyle ayrılırken söylenen son söz; ayrılık selamı (4 harf) [B364-S6]",
       "answer": "VEDA"
     },
     {
@@ -193,7 +193,7 @@
       "row": 4,
       "col": 3,
       "length": 4,
-      "clue": "Üzerinde yemek yemek ya da çalışmak için kullanılan ayaklı düz mobilya.",
+      "clue": "Üzerinde yemek yemek ya da çalışmak için kullanılan ayaklı düz mobilya (4 harf) [B364-S7]",
       "answer": "MASA"
     },
     {
@@ -202,7 +202,7 @@
       "row": 6,
       "col": 7,
       "length": 4,
-      "clue": "İnsana gülen talih; iyi bir sonucun tesadüfen kısmet olması hali.",
+      "clue": "İnsana gülen talih; iyi bir sonucun tesadüfen kısmet olması hali (4 harf) [B364-S8]",
       "answer": "ŞANS"
     },
     {
@@ -211,7 +211,7 @@
       "row": 6,
       "col": 9,
       "length": 3,
-      "clue": "Sevdiğine karşı gösterilen hafif cilve; yapmacık çekingenlik.",
+      "clue": "Sevdiğine karşı gösterilen hafif cilve; yapmacık çekingenlik (3 harf) [B364-S9]",
       "answer": "NAZ"
     }
   ]

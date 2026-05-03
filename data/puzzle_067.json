@@ -130,7 +130,7 @@
       "row": 0,
       "col": 2,
       "length": 5,
-      "clue": "Evin misafir ağırlanan en büyük odası ya da toplantı yapılan geniş mekân.",
+      "clue": "Evin misafir ağırlanan en büyük odası ya da toplantı yapılan geniş mekân (5 harf) [B67-S1]",
       "answer": "SALON"
     },
     {
@@ -139,7 +139,7 @@
       "row": 1,
       "col": 1,
       "length": 3,
-      "clue": "Sahip olunan taşınır ya da taşınmaz değerli eşya; mülk.",
+      "clue": "Sahip olunan taşınır ya da taşınmaz değerli eşya; mülk (3 harf) [B67-S2]",
       "answer": "MAL"
     },
     {
@@ -148,7 +148,7 @@
       "row": 4,
       "col": 0,
       "length": 4,
-      "clue": "Bir tarafı yapışkan olan, eşyaları tutturmaya yarayan uzun ince şerit.",
+      "clue": "Bir tarafı yapışkan olan, eşyaları tutturmaya yarayan uzun ince şerit (4 harf) [B67-S3]",
       "answer": "BANT"
     },
     {
@@ -157,7 +157,7 @@
       "row": 4,
       "col": 3,
       "length": 4,
-      "clue": "Raylar üzerinde hareket eden, vagonları çeken büyük motorlu araç.",
+      "clue": "Raylar üzerinde hareket eden, vagonları çeken büyük motorlu araç (4 harf) [B67-S4]",
       "answer": "TREN"
     },
     {
@@ -166,7 +166,7 @@
       "row": 5,
       "col": 5,
       "length": 4,
-      "clue": "Niteliği kötü olan, insanın içini bunaltan; iyi sözcüğünün zıttı.",
+      "clue": "Niteliği kötü olan, insanın içini bunaltan; iyi sözcüğünün zıttı (4 harf) [B67-S5]",
       "answer": "FENA"
     },
     {
@@ -175,7 +175,7 @@
       "row": 5,
       "col": 7,
       "length": 4,
-      "clue": "Kalınlığı az olan; zarif ve narin yapıda bulunan; kalının karşıtı.",
+      "clue": "Kalınlığı az olan; zarif ve narin yapıda bulunan; kalının karşıtı (4 harf) [B67-S6]",
       "answer": "İNCE"
     },
     {
@@ -184,7 +184,7 @@
       "row": 5,
       "col": 7,
       "length": 4,
-      "clue": "Kozadan elde edilen, parlak dokulu ve dayanıklı, değerli kumaş lifi.",
+      "clue": "Kozadan elde edilen, parlak dokulu ve dayanıklı, değerli kumaş lifi (4 harf) [B67-S6]",
       "answer": "İPEK"
     },
     {
@@ -193,7 +193,7 @@
       "row": 6,
       "col": 2,
       "length": 4,
-      "clue": "Güneşin batmasından doğmasına kadar süren karanlık zaman dilimi.",
+      "clue": "Güneşin batmasından doğmasına kadar süren karanlık zaman dilimi (4 harf) [B67-S7]",
       "answer": "GECE"
     },
     {
@@ -202,7 +202,7 @@
       "row": 8,
       "col": 4,
       "length": 4,
-      "clue": "İlkbaharda açan, kadeh biçimli taç yaprakları olan, Türklerin simgesi çiçek.",
+      "clue": "İlkbaharda açan, kadeh biçimli taç yaprakları olan, Türklerin simgesi çiçek (4 harf) [B67-S8]",
       "answer": "LALE"
     }
   ]

@@ -97,7 +97,7 @@
       "row": 0,
       "col": 0,
       "length": 4,
-      "clue": "İnsanı üzen, iç sıkıntısı veren; uzun süre geçmeyen tasa ve keder.",
+      "clue": "İnsanı üzen, iç sıkıntısı veren; uzun süre geçmeyen tasa ve keder (4 harf) [B21-S1]",
       "answer": "DERT"
     },
     {
@@ -106,7 +106,7 @@
       "row": 0,
       "col": 3,
       "length": 3,
-      "clue": "Aynı ortak özellikleri taşıyan canlıların oluşturduğu sınıflama birimi.",
+      "clue": "Aynı ortak özellikleri taşıyan canlıların oluşturduğu sınıflama birimi (3 harf) [B21-S2]",
       "answer": "TÜR"
     },
     {
@@ -115,7 +115,7 @@
       "row": 2,
       "col": 1,
       "length": 3,
-      "clue": "Üstesinden gelinmesi emek isteyen; kolayın tam karşıtı sayılan güç iş.",
+      "clue": "Üstesinden gelinmesi emek isteyen; kolayın tam karşıtı sayılan güç iş (3 harf) [B21-S3]",
       "answer": "ZOR"
     },
     {
@@ -124,7 +124,7 @@
       "row": 2,
       "col": 2,
       "length": 4,
-      "clue": "Yolcuların ücret karşılığı geceyi geçirdiği, odaları olan konaklama işletmesi.",
+      "clue": "Yolcuların ücret karşılığı geceyi geçirdiği, odaları olan konaklama işletmesi (4 harf) [B21-S4]",
       "answer": "OTEL"
     },
     {
@@ -133,7 +133,7 @@
       "row": 2,
       "col": 5,
       "length": 5,
-      "clue": "Dünyanın farklı bölgelerini gösteren haritaların toplandığı büyük kitap.",
+      "clue": "Dünyanın farklı bölgelerini gösteren haritaların toplandığı büyük kitap (5 harf) [B21-S5]",
       "answer": "ATLAS"
     },
     {
@@ -142,7 +142,7 @@
       "row": 2,
       "col": 6,
       "length": 5,
-      "clue": "Yelkenli ya da motorlu olup denizde kısa yolculuklara çıkan küçük gemi.",
+      "clue": "Yelkenli ya da motorlu olup denizde kısa yolculuklara çıkan küçük gemi (5 harf) [B21-S6]",
       "answer": "TEKNE"
     },
     {
@@ -151,7 +151,7 @@
       "row": 3,
       "col": 4,
       "length": 4,
-      "clue": "Türkiye Cumhuriyeti'nin resmi para birimi; TL kısaltmasıyla yazılan değer.",
+      "clue": "Türkiye Cumhuriyeti'nin resmi para birimi; TL kısaltmasıyla yazılan değer (4 harf) [B21-S7]",
       "answer": "LİRA"
     },
     {
@@ -160,7 +160,7 @@
       "row": 4,
       "col": 1,
       "length": 4,
-      "clue": "Denizde yük ya da yolcu taşımak için yapılmış büyük su taşıtı.",
+      "clue": "Denizde yük ya da yolcu taşımak için yapılmış büyük su taşıtı (4 harf) [B21-S8]",
       "answer": "GEMİ"
     },
     {
@@ -169,7 +169,7 @@
       "row": 6,
       "col": 3,
       "length": 4,
-      "clue": "Sıkıntılı ya da zor bir durumu ortadan kaldıracak çözüm yolu.",
+      "clue": "Sıkıntılı ya da zor bir durumu ortadan kaldıracak çözüm yolu (4 harf) [B21-S9]",
       "answer": "ÇARE"
     }
   ]

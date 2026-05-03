@@ -157,7 +157,7 @@
       "row": 0,
       "col": 4,
       "length": 5,
-      "clue": "Kat kat hamuru kremayla birleştirilen, doğum günlerinde kesilen tatlı.",
+      "clue": "Kat kat hamuru kremayla birleştirilen, doğum günlerinde kesilen tatlı (5 harf) [B438-S1]",
       "answer": "PASTA"
     },
     {
@@ -166,7 +166,7 @@
       "row": 0,
       "col": 7,
       "length": 3,
-      "clue": "Kişinin yasal olarak sahip olduğu; alması ya da yapması gereken şey.",
+      "clue": "Kişinin yasal olarak sahip olduğu; alması ya da yapması gereken şey (3 harf) [B438-S2]",
       "answer": "HAK"
     },
     {
@@ -175,7 +175,7 @@
       "row": 1,
       "col": 4,
       "length": 6,
-      "clue": "Türkiye Cumhuriyeti'nin başkenti ve İç Anadolu'nun en büyük şehri.",
+      "clue": "Türkiye Cumhuriyeti'nin başkenti ve İç Anadolu'nun en büyük şehri (6 harf) [B438-S3]",
       "answer": "ANKARA"
     },
     {
@@ -184,7 +184,7 @@
       "row": 2,
       "col": 0,
       "length": 5,
-      "clue": "Yumuşak huylu, kolay geçinilen; sert tavır göstermeyen uysal kimse.",
+      "clue": "Yumuşak huylu, kolay geçinilen; sert tavır göstermeyen uysal kimse (5 harf) [B438-S4]",
       "answer": "MUNİS"
     },
     {
@@ -193,7 +193,7 @@
       "row": 4,
       "col": 3,
       "length": 4,
-      "clue": "Serinletici kokusuyla tanınan, çaya ve yemeklere katılan yeşil yapraklı ot.",
+      "clue": "Serinletici kokusuyla tanınan, çaya ve yemeklere katılan yeşil yapraklı ot (4 harf) [B438-S5]",
       "answer": "NANE"
     },
     {
@@ -202,7 +202,7 @@
       "row": 4,
       "col": 6,
       "length": 4,
-      "clue": "Görgü kurallarına uygun davranış; terbiyeli ve ölçülü olma hali.",
+      "clue": "Görgü kurallarına uygun davranış; terbiyeli ve ölçülü olma hali (4 harf) [B438-S6]",
       "answer": "EDEP"
     },
     {
@@ -211,7 +211,7 @@
       "row": 7,
       "col": 2,
       "length": 5,
-      "clue": "Sayfalardan oluşan, üzerine bilgi ya da hikâye yazılmış ciltli eser.",
+      "clue": "Sayfalardan oluşan, üzerine bilgi ya da hikâye yazılmış ciltli eser (5 harf) [B438-S7]",
       "answer": "KİTAP"
     },
     {
@@ -220,7 +220,7 @@
       "row": 7,
       "col": 4,
       "length": 5,
-      "clue": "Bir nehrin ya da vadinin iki yakasını birbirine bağlayan geçit yapısı.",
+      "clue": "Bir nehrin ya da vadinin iki yakasını birbirine bağlayan geçit yapısı (5 harf) [B438-S8]",
       "answer": "KÖPRÜ"
     },
     {
@@ -229,7 +229,7 @@
       "row": 7,
       "col": 4,
       "length": 5,
-      "clue": "İnsanın başına geleceği önceden yazıldığına inanılan alın yazısı.",
+      "clue": "İnsanın başına geleceği önceden yazıldığına inanılan alın yazısı (5 harf) [B438-S8]",
       "answer": "KADER"
     },
     {
@@ -238,7 +238,7 @@
       "row": 8,
       "col": 1,
       "length": 4,
-      "clue": "Karanlığı dağıtan; göze hoş gelen aydınlatıcı parıltı.",
+      "clue": "Karanlığı dağıtan; göze hoş gelen aydınlatıcı parıltı (4 harf) [B438-S9]",
       "answer": "ZİYA"
     }
   ]

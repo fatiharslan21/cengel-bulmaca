@@ -153,7 +153,7 @@
       "row": 0,
       "col": 6,
       "length": 5,
-      "clue": "Gürültüden uzak, hiçbir telaşın olmadığı sessiz ve huzurlu ortam.",
+      "clue": "Gürültüden uzak, hiçbir telaşın olmadığı sessiz ve huzurlu ortam (5 harf) [B453-S1]",
       "answer": "ASUDE"
     },
     {
@@ -162,7 +162,7 @@
       "row": 4,
       "col": 3,
       "length": 5,
-      "clue": "İnsanın başına geleceği önceden yazıldığına inanılan alın yazısı.",
+      "clue": "İnsanın başına geleceği önceden yazıldığına inanılan alın yazısı (5 harf) [B453-S2]",
       "answer": "KADER"
     },
     {
@@ -171,7 +171,7 @@
       "row": 4,
       "col": 4,
       "length": 4,
-      "clue": "Belirli bir yönde hareket eden elektrik yükü ya da suyun sürüklenişi.",
+      "clue": "Belirli bir yönde hareket eden elektrik yükü ya da suyun sürüklenişi (4 harf) [B453-S3]",
       "answer": "AKIM"
     },
     {
@@ -180,7 +180,7 @@
       "row": 4,
       "col": 7,
       "length": 4,
-      "clue": "Birinin ya da bir şeyin beklemediğin anda karşına çıkması; tesadüf.",
+      "clue": "Birinin ya da bir şeyin beklemediğin anda karşına çıkması; tesadüf (4 harf) [B453-S4]",
       "answer": "RAST"
     },
     {
@@ -189,7 +189,7 @@
       "row": 5,
       "col": 0,
       "length": 3,
-      "clue": "Havanın bir yönden diğerine doğru hissedilebilir akışı; rüzgâr.",
+      "clue": "Havanın bir yönden diğerine doğru hissedilebilir akışı; rüzgâr (3 harf) [B453-S5]",
       "answer": "YEL"
     },
     {
@@ -198,7 +198,7 @@
       "row": 5,
       "col": 2,
       "length": 5,
-      "clue": "Göze ve gönle hoş gelen, nazik ve yumuşak huylu; incelikli olan.",
+      "clue": "Göze ve gönle hoş gelen, nazik ve yumuşak huylu; incelikli olan (5 harf) [B453-S6]",
       "answer": "LATİF"
     },
     {
@@ -207,7 +207,7 @@
       "row": 5,
       "col": 10,
       "length": 5,
-      "clue": "İp ya da parmaklarla oynatılan, tiyatro sahnesinde canlanan figürlü bebek.",
+      "clue": "İp ya da parmaklarla oynatılan, tiyatro sahnesinde canlanan figürlü bebek (5 harf) [B453-S7]",
       "answer": "KUKLA"
     },
     {
@@ -216,7 +216,7 @@
       "row": 6,
       "col": 7,
       "length": 4,
-      "clue": "Bilinmeyen bir bilgiyi öğrenmek için karşıya yöneltilen cümle.",
+      "clue": "Bilinmeyen bir bilgiyi öğrenmek için karşıya yöneltilen cümle (4 harf) [B453-S8]",
       "answer": "SORU"
     },
     {
@@ -225,7 +225,7 @@
       "row": 7,
       "col": 0,
       "length": 5,
-      "clue": "Kaybedilen bir yakının ardından tutulan koyu yas; siyahlar giyme hali.",
+      "clue": "Kaybedilen bir yakının ardından tutulan koyu yas; siyahlar giyme hali (5 harf) [B453-S9]",
       "answer": "MATEM"
     },
     {
@@ -234,7 +234,7 @@
       "row": 9,
       "col": 8,
       "length": 4,
-      "clue": "Anlaşılmayan bir konuyu açık bir dille anlatma; aydınlatıcı açıklama.",
+      "clue": "Anlaşılmayan bir konuyu açık bir dille anlatma; aydınlatıcı açıklama (4 harf) [B453-S10]",
       "answer": "İZAH"
     }
   ]

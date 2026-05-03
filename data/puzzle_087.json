@@ -121,7 +121,7 @@
       "row": 0,
       "col": 5,
       "length": 3,
-      "clue": "Bir kişinin atalarından gelen kan bağı; aile kökeni ve nesli.",
+      "clue": "Bir kişinin atalarından gelen kan bağı; aile kökeni ve nesli (3 harf) [B87-S1]",
       "answer": "SOY"
     },
     {
@@ -130,7 +130,7 @@
       "row": 0,
       "col": 5,
       "length": 5,
-      "clue": "Güneşin doğmasıyla başlayıp öğleye kadar süren günün ilk dilimi.",
+      "clue": "Güneşin doğmasıyla başlayıp öğleye kadar süren günün ilk dilimi (5 harf) [B87-S1]",
       "answer": "SABAH"
     },
     {
@@ -139,7 +139,7 @@
       "row": 2,
       "col": 5,
       "length": 4,
-      "clue": "Kalemin kâğıda bıraktığı; harflerden oluşan okunabilir işaretler.",
+      "clue": "Kalemin kâğıda bıraktığı; harflerden oluşan okunabilir işaretler (4 harf) [B87-S2]",
       "answer": "YAZI"
     },
     {
@@ -148,7 +148,7 @@
       "row": 2,
       "col": 7,
       "length": 5,
-      "clue": "Düğünlerde davulla birlikte çalınan, ince tiz sesli üflemeli halk çalgısı.",
+      "clue": "Düğünlerde davulla birlikte çalınan, ince tiz sesli üflemeli halk çalgısı (5 harf) [B87-S3]",
       "answer": "ZURNA"
     },
     {
@@ -157,7 +157,7 @@
       "row": 4,
       "col": 3,
       "length": 5,
-      "clue": "Şehirlerde iki yanı binalarla çevrili, taşıtların geçtiği geniş ana yol.",
+      "clue": "Şehirlerde iki yanı binalarla çevrili, taşıtların geçtiği geniş ana yol (5 harf) [B87-S4]",
       "answer": "CADDE"
     },
     {
@@ -166,7 +166,7 @@
       "row": 5,
       "col": 5,
       "length": 4,
-      "clue": "Karşısına geçenin görüntüsünü aynen yansıtan sırlanmış cam yüzey.",
+      "clue": "Karşısına geçenin görüntüsünü aynen yansıtan sırlanmış cam yüzey (4 harf) [B87-S5]",
       "answer": "AYNA"
     },
     {
@@ -175,7 +175,7 @@
       "row": 5,
       "col": 5,
       "length": 3,
-      "clue": "Bir hastalığa karşı bağışıklık kazandırmak için vücuda verilen ilaç.",
+      "clue": "Bir hastalığa karşı bağışıklık kazandırmak için vücuda verilen ilaç (3 harf) [B87-S5]",
       "answer": "AŞI"
     },
     {
@@ -184,7 +184,7 @@
       "row": 6,
       "col": 3,
       "length": 3,
-      "clue": "Uyku sırasında zihnin canlandırdığı görüntüler ya da uyanıkken kurulan hayal.",
+      "clue": "Uyku sırasında zihnin canlandırdığı görüntüler ya da uyanıkken kurulan hayal (3 harf) [B87-S6]",
       "answer": "DÜŞ"
     },
     {
@@ -193,7 +193,7 @@
       "row": 8,
       "col": 0,
       "length": 5,
-      "clue": "İnsana sadakatiyle bilinen, havlayarak seslenen evcil dört ayaklı.",
+      "clue": "İnsana sadakatiyle bilinen, havlayarak seslenen evcil dört ayaklı (5 harf) [B87-S7]",
       "answer": "KÖPEK"
     }
   ]

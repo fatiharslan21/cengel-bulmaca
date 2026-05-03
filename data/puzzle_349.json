@@ -156,7 +156,7 @@
       "row": 0,
       "col": 6,
       "length": 3,
-      "clue": "Denizden ya da yer altından çıkarılan; yemeklere tat veren beyaz tane.",
+      "clue": "Denizden ya da yer altından çıkarılan; yemeklere tat veren beyaz tane (3 harf) [B349-S1]",
       "answer": "TUZ"
     },
     {
@@ -165,7 +165,7 @@
       "row": 0,
       "col": 8,
       "length": 6,
-      "clue": "Harcanan çabaya değmeyen; hiçbir yarar sağlamayan boş uğraş.",
+      "clue": "Harcanan çabaya değmeyen; hiçbir yarar sağlamayan boş uğraş (6 harf) [B349-S2]",
       "answer": "NAFİLE"
     },
     {
@@ -174,7 +174,7 @@
       "row": 1,
       "col": 6,
       "length": 4,
-      "clue": "Aradaki mesafenin çok olduğu; yakınlığı hissedilmeyen ötelerdeki yer.",
+      "clue": "Aradaki mesafenin çok olduğu; yakınlığı hissedilmeyen ötelerdeki yer (4 harf) [B349-S3]",
       "answer": "UZAK"
     },
     {
@@ -183,7 +183,7 @@
       "row": 5,
       "col": 7,
       "length": 4,
-      "clue": "Suç işleyen kimseye, yaptığının karşılığı olarak verilen yaptırım.",
+      "clue": "Suç işleyen kimseye, yaptığının karşılığı olarak verilen yaptırım (4 harf) [B349-S4]",
       "answer": "CEZA"
     },
     {
@@ -192,7 +192,7 @@
       "row": 5,
       "col": 7,
       "length": 4,
-      "clue": "Bir işi başarmak için gösterilen büyük çaba, gayret ve çalışma.",
+      "clue": "Bir işi başarmak için gösterilen büyük çaba, gayret ve çalışma (4 harf) [B349-S4]",
       "answer": "CEHD"
     },
     {
@@ -201,7 +201,7 @@
       "row": 7,
       "col": 0,
       "length": 4,
-      "clue": "İçten doğan büyük istek; insanı coşturan şiddetli arzu ve heves.",
+      "clue": "İçten doğan büyük istek; insanı coşturan şiddetli arzu ve heves (4 harf) [B349-S5]",
       "answer": "ŞEVK"
     },
     {
@@ -210,7 +210,7 @@
       "row": 7,
       "col": 3,
       "length": 4,
-      "clue": "Mahkemenin verdiği kararı bildiren, yazılı resmi belge.",
+      "clue": "Mahkemenin verdiği kararı bildiren, yazılı resmi belge (4 harf) [B349-S6]",
       "answer": "İLAM"
     },
     {
@@ -219,7 +219,7 @@
       "row": 7,
       "col": 5,
       "length": 4,
-      "clue": "Yeni toplanmış, bayatlamamış; canlılığını yeni yeni yitirmemiş olan.",
+      "clue": "Yeni toplanmış, bayatlamamış; canlılığını yeni yeni yitirmemiş olan (4 harf) [B349-S7]",
       "answer": "TAZE"
     },
     {
@@ -228,7 +228,7 @@
       "row": 7,
       "col": 5,
       "length": 4,
-      "clue": "Ekmeğin arasına peynir konup ısıtılarak kızartılan sandviç çeşidi.",
+      "clue": "Ekmeğin arasına peynir konup ısıtılarak kızartılan sandviç çeşidi (4 harf) [B349-S7]",
       "answer": "TOST"
     },
     {
@@ -237,7 +237,7 @@
       "row": 10,
       "col": 0,
       "length": 6,
-      "clue": "Kişinin payına düşen; kaderin ona uygun gördüğü nasibi ya da şansı.",
+      "clue": "Kişinin payına düşen; kaderin ona uygun gördüğü nasibi ya da şansı (6 harf) [B349-S8]",
       "answer": "KISMET"
     }
   ]

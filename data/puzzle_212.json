@@ -101,7 +101,7 @@
       "row": 0,
       "col": 0,
       "length": 3,
-      "clue": "Pantolon ya da ceketin içine dikilmiş, ufak eşya konulan küçük kese.",
+      "clue": "Pantolon ya da ceketin içine dikilmiş, ufak eşya konulan küçük kese (3 harf) [B212-S1]",
       "answer": "CEP"
     },
     {
@@ -110,7 +110,7 @@
       "row": 1,
       "col": 0,
       "length": 3,
-      "clue": "Metal ya da tırnak gibi sert yüzeyleri aşındırarak düzelten dişli alet.",
+      "clue": "Metal ya da tırnak gibi sert yüzeyleri aşındırarak düzelten dişli alet (3 harf) [B212-S2]",
       "answer": "EĞE"
     },
     {
@@ -119,7 +119,7 @@
       "row": 1,
       "col": 2,
       "length": 4,
-      "clue": "Yetkili bir kimsenin yerine getirilmek üzere verdiği kesin buyruk.",
+      "clue": "Yetkili bir kimsenin yerine getirilmek üzere verdiği kesin buyruk (4 harf) [B212-S3]",
       "answer": "EMİR"
     },
     {
@@ -128,7 +128,7 @@
       "row": 1,
       "col": 5,
       "length": 4,
-      "clue": "İki şeyin birbirinden ayrıldığı yön; aralarındaki benzemezlik.",
+      "clue": "İki şeyin birbirinden ayrıldığı yön; aralarındaki benzemezlik (4 harf) [B212-S4]",
       "answer": "FARK"
     },
     {
@@ -137,7 +137,7 @@
       "row": 2,
       "col": 2,
       "length": 5,
-      "clue": "Hayal ürünü kahramanların yer aldığı, 'bir varmış bir yokmuş'la başlayan öykü.",
+      "clue": "Hayal ürünü kahramanların yer aldığı, 'bir varmış bir yokmuş'la başlayan öykü (5 harf) [B212-S5]",
       "answer": "MASAL"
     },
     {
@@ -146,7 +146,7 @@
       "row": 4,
       "col": 0,
       "length": 4,
-      "clue": "İlerinin zıttı; arkaya ya da başlangıca doğru olan yön.",
+      "clue": "İlerinin zıttı; arkaya ya da başlangıca doğru olan yön (4 harf) [B212-S6]",
       "answer": "GERİ"
     },
     {
@@ -155,7 +155,7 @@
       "row": 4,
       "col": 3,
       "length": 4,
-      "clue": "Ucu sivri, arkası delikli; dikiş dikmek için ipliği geçiren ince metal araç.",
+      "clue": "Ucu sivri, arkası delikli; dikiş dikmek için ipliği geçiren ince metal araç (4 harf) [B212-S7]",
       "answer": "İĞNE"
     },
     {
@@ -164,7 +164,7 @@
       "row": 4,
       "col": 5,
       "length": 4,
-      "clue": "Uzun beyaz boynuyla su yüzeyinde zarafetle süzülen büyük göl kuşu.",
+      "clue": "Uzun beyaz boynuyla su yüzeyinde zarafetle süzülen büyük göl kuşu (4 harf) [B212-S8]",
       "answer": "KUĞU"
     },
     {
@@ -173,7 +173,7 @@
       "row": 4,
       "col": 6,
       "length": 3,
-      "clue": "Yüceliğiyle saygı uyandıran; hem büyük hem görkemli olan varlık.",
+      "clue": "Yüceliğiyle saygı uyandıran; hem büyük hem görkemli olan varlık (3 harf) [B212-S9]",
       "answer": "ULU"
     },
     {
@@ -182,7 +182,7 @@
       "row": 7,
       "col": 2,
       "length": 4,
-      "clue": "Bir kelimeyi bir nefeste söyleyebildiğimiz en küçük ses birimi.",
+      "clue": "Bir kelimeyi bir nefeste söyleyebildiğimiz en küçük ses birimi (4 harf) [B212-S10]",
       "answer": "HECE"
     }
   ]

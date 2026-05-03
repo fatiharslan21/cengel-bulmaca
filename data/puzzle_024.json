@@ -104,7 +104,7 @@
       "row": 0,
       "col": 7,
       "length": 3,
-      "clue": "Derin ve dik uçurum; aynı zamanda sevilen kişi için kullanılan şiirsel ad.",
+      "clue": "Derin ve dik uçurum; aynı zamanda sevilen kişi için kullanılan şiirsel ad (3 harf) [B24-S1]",
       "answer": "YAR"
     },
     {
@@ -113,7 +113,7 @@
       "row": 2,
       "col": 2,
       "length": 5,
-      "clue": "Düğünlerde davulla birlikte çalınan, ince tiz sesli üflemeli halk çalgısı.",
+      "clue": "Düğünlerde davulla birlikte çalınan, ince tiz sesli üflemeli halk çalgısı (5 harf) [B24-S2]",
       "answer": "ZURNA"
     },
     {
@@ -122,7 +122,7 @@
       "row": 2,
       "col": 6,
       "length": 5,
-      "clue": "Doğada bulunan en sert madde; takılarda kullanılan değerli kıymetli taş.",
+      "clue": "Doğada bulunan en sert madde; takılarda kullanılan değerli kıymetli taş (5 harf) [B24-S3]",
       "answer": "ELMAS"
     },
     {
@@ -131,7 +131,7 @@
       "row": 2,
       "col": 6,
       "length": 5,
-      "clue": "Belirlenen vaktin öncesinde gelme; geç kalmanın tersi durumu.",
+      "clue": "Belirlenen vaktin öncesinde gelme; geç kalmanın tersi durumu (5 harf) [B24-S3]",
       "answer": "ERKEN"
     },
     {
@@ -140,7 +140,7 @@
       "row": 3,
       "col": 4,
       "length": 3,
-      "clue": "Arıların çiçeklerden topladığı nektarı işleyerek yaptığı koyu, tatlı gıda.",
+      "clue": "Arıların çiçeklerden topladığı nektarı işleyerek yaptığı koyu, tatlı gıda (3 harf) [B24-S4]",
       "answer": "BAL"
     },
     {
@@ -149,7 +149,7 @@
       "row": 3,
       "col": 4,
       "length": 3,
-      "clue": "Kimyada asitle tepkimeye girerek tuz oluşturan, karşıt özellikli madde.",
+      "clue": "Kimyada asitle tepkimeye girerek tuz oluşturan, karşıt özellikli madde (3 harf) [B24-S4]",
       "answer": "BAZ"
     },
     {
@@ -158,7 +158,7 @@
       "row": 4,
       "col": 8,
       "length": 3,
-      "clue": "İnsanın boynundan yukarısı, beynin ve yüzün bulunduğu vücut bölümü.",
+      "clue": "İnsanın boynundan yukarısı, beynin ve yüzün bulunduğu vücut bölümü (3 harf) [B24-S5]",
       "answer": "BAŞ"
     },
     {
@@ -167,7 +167,7 @@
       "row": 5,
       "col": 0,
       "length": 5,
-      "clue": "Kıtaları birbirinden ayıran, tuzlu sulardan oluşan uçsuz bucaksız kütle.",
+      "clue": "Kıtaları birbirinden ayıran, tuzlu sulardan oluşan uçsuz bucaksız kütle (5 harf) [B24-S6]",
       "answer": "DENİZ"
     },
     {
@@ -176,7 +176,7 @@
       "row": 5,
       "col": 6,
       "length": 3,
-      "clue": "İki şeyin birbirinden ayrıldığı boşluk; kısa mola süresi.",
+      "clue": "İki şeyin birbirinden ayrıldığı boşluk; kısa mola süresi (3 harf) [B24-S7]",
       "answer": "ARA"
     }
   ]

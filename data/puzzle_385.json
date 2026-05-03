@@ -169,7 +169,7 @@
       "row": 0,
       "col": 4,
       "length": 4,
-      "clue": "Akrep, yelkovan ve rakamlarla anı gösteren; zamanı ölçen günlük araç.",
+      "clue": "Akrep, yelkovan ve rakamlarla anı gösteren; zamanı ölçen günlük araç (4 harf) [B385-S1]",
       "answer": "SAAT"
     },
     {
@@ -178,7 +178,7 @@
       "row": 1,
       "col": 6,
       "length": 4,
-      "clue": "Çevresindeki yapılardan çok daha yüksek olan, dar ve uzun yapı.",
+      "clue": "Çevresindeki yapılardan çok daha yüksek olan, dar ve uzun yapı (4 harf) [B385-S2]",
       "answer": "KULE"
     },
     {
@@ -187,7 +187,7 @@
       "row": 2,
       "col": 0,
       "length": 5,
-      "clue": "Yüreği saran, insanı kendinden geçiren güçlü aşk ve tutku.",
+      "clue": "Yüreği saran, insanı kendinden geçiren güçlü aşk ve tutku (5 harf) [B385-S3]",
       "answer": "SEVDA"
     },
     {
@@ -196,7 +196,7 @@
       "row": 2,
       "col": 1,
       "length": 5,
-      "clue": "Belirlenen vaktin öncesinde gelme; geç kalmanın tersi durumu.",
+      "clue": "Belirlenen vaktin öncesinde gelme; geç kalmanın tersi durumu (5 harf) [B385-S4]",
       "answer": "ERKEN"
     },
     {
@@ -205,7 +205,7 @@
       "row": 3,
       "col": 4,
       "length": 7,
-      "clue": "Uzaktaki kişilerle anında sesli iletişim kurmamızı sağlayan cihaz.",
+      "clue": "Uzaktaki kişilerle anında sesli iletişim kurmamızı sağlayan cihaz (7 harf) [B385-S5]",
       "answer": "TELEFON"
     },
     {
@@ -214,7 +214,7 @@
       "row": 4,
       "col": 3,
       "length": 5,
-      "clue": "Dayanılmaz acı anında yükselen yüksek sesli ağlama ve feryat.",
+      "clue": "Dayanılmaz acı anında yükselen yüksek sesli ağlama ve feryat (5 harf) [B385-S6]",
       "answer": "FİGAN"
     },
     {
@@ -223,7 +223,7 @@
       "row": 5,
       "col": 1,
       "length": 4,
-      "clue": "Yapılan iyiliğin ya da çekilen sıkıntının karşılığı olarak verilen sevap.",
+      "clue": "Yapılan iyiliğin ya da çekilen sıkıntının karşılığı olarak verilen sevap (4 harf) [B385-S7]",
       "answer": "ECİR"
     },
     {
@@ -232,7 +232,7 @@
       "row": 7,
       "col": 5,
       "length": 5,
-      "clue": "Birbirini gören iki kişinin hal hatır sormak için söylediği esenlik dileği.",
+      "clue": "Birbirini gören iki kişinin hal hatır sormak için söylediği esenlik dileği (5 harf) [B385-S8]",
       "answer": "SELAM"
     },
     {
@@ -241,7 +241,7 @@
       "row": 8,
       "col": 1,
       "length": 6,
-      "clue": "Bir toplantıda ya da günde ele alınacak konuların sıralı listesi.",
+      "clue": "Bir toplantıda ya da günde ele alınacak konuların sıralı listesi (6 harf) [B385-S9]",
       "answer": "GÜNDEM"
     },
     {
@@ -250,7 +250,7 @@
       "row": 10,
       "col": 3,
       "length": 4,
-      "clue": "Anlaşılmayan bir konuyu açık bir dille anlatma; aydınlatıcı açıklama.",
+      "clue": "Anlaşılmayan bir konuyu açık bir dille anlatma; aydınlatıcı açıklama (4 harf) [B385-S10]",
       "answer": "İZAH"
     }
   ]

@@ -103,7 +103,7 @@
       "row": 0,
       "col": 2,
       "length": 3,
-      "clue": "Havanın ısısının düşmesiyle suların yüzeyde buz tutması olayı.",
+      "clue": "Havanın ısısının düşmesiyle suların yüzeyde buz tutması olayı (3 harf) [B88-S1]",
       "answer": "DON"
     },
     {
@@ -112,7 +112,7 @@
       "row": 0,
       "col": 4,
       "length": 5,
-      "clue": "Bir cümlenin sonuna konan en küçük yazı işareti; konumun kendisi.",
+      "clue": "Bir cümlenin sonuna konan en küçük yazı işareti; konumun kendisi (5 harf) [B88-S2]",
       "answer": "NOKTA"
     },
     {
@@ -121,7 +121,7 @@
       "row": 3,
       "col": 1,
       "length": 3,
-      "clue": "Kişinin yasal olarak sahip olduğu; alması ya da yapması gereken şey.",
+      "clue": "Kişinin yasal olarak sahip olduğu; alması ya da yapması gereken şey (3 harf) [B88-S3]",
       "answer": "HAK"
     },
     {
@@ -130,7 +130,7 @@
       "row": 3,
       "col": 4,
       "length": 3,
-      "clue": "Denizden ya da yer altından çıkarılan; yemeklere tat veren beyaz tane.",
+      "clue": "Denizden ya da yer altından çıkarılan; yemeklere tat veren beyaz tane (3 harf) [B88-S4]",
       "answer": "TUZ"
     },
     {
@@ -139,7 +139,7 @@
       "row": 4,
       "col": 0,
       "length": 5,
-      "clue": "İçindeki ampulle çalışan, karanlık odayı aydınlatan elektrikli araç.",
+      "clue": "İçindeki ampulle çalışan, karanlık odayı aydınlatan elektrikli araç (5 harf) [B88-S5]",
       "answer": "LAMBA"
     },
     {
@@ -148,7 +148,7 @@
       "row": 4,
       "col": 3,
       "length": 3,
-      "clue": "Göğüs kafesi ile kalçalar arasında kalan, vücudun orta kısmı.",
+      "clue": "Göğüs kafesi ile kalçalar arasında kalan, vücudun orta kısmı (3 harf) [B88-S6]",
       "answer": "BEL"
     },
     {
@@ -157,7 +157,7 @@
       "row": 6,
       "col": 2,
       "length": 3,
-      "clue": "Birden çok rengin bir arada bulunduğu, benekli ya da karışık görünüm.",
+      "clue": "Birden çok rengin bir arada bulunduğu, benekli ya da karışık görünüm (3 harf) [B88-S7]",
       "answer": "ALA"
     },
     {
@@ -166,7 +166,7 @@
       "row": 6,
       "col": 2,
       "length": 4,
-      "clue": "İçten duyulan istek, gönülden beklenen dilek veya özlem.",
+      "clue": "İçten duyulan istek, gönülden beklenen dilek veya özlem (4 harf) [B88-S7]",
       "answer": "ARZU"
     },
     {
@@ -175,7 +175,7 @@
       "row": 8,
       "col": 0,
       "length": 3,
-      "clue": "Yüzümüzde çift olarak bulunan, etrafımızı görmemizi sağlayan duyu organı.",
+      "clue": "Yüzümüzde çift olarak bulunan, etrafımızı görmemizi sağlayan duyu organı (3 harf) [B88-S8]",
       "answer": "GÖZ"
     }
   ]

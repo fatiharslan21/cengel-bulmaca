@@ -169,7 +169,7 @@
       "row": 0,
       "col": 1,
       "length": 4,
-      "clue": "Yapılan iyiliğin ya da çekilen sıkıntının karşılığı olarak verilen sevap.",
+      "clue": "Yapılan iyiliğin ya da çekilen sıkıntının karşılığı olarak verilen sevap (4 harf) [B462-S1]",
       "answer": "ECİR"
     },
     {
@@ -178,7 +178,7 @@
       "row": 0,
       "col": 4,
       "length": 5,
-      "clue": "Geçim sıkıntısı çekmeden, bolluk içinde sürdürülen rahat ve huzurlu yaşam.",
+      "clue": "Geçim sıkıntısı çekmeden, bolluk içinde sürdürülen rahat ve huzurlu yaşam (5 harf) [B462-S2]",
       "answer": "REFAH"
     },
     {
@@ -187,7 +187,7 @@
       "row": 2,
       "col": 2,
       "length": 5,
-      "clue": "Yüreği saran, insanı kendinden geçiren güçlü aşk ve tutku.",
+      "clue": "Yüreği saran, insanı kendinden geçiren güçlü aşk ve tutku (5 harf) [B462-S3]",
       "answer": "SEVDA"
     },
     {
@@ -196,7 +196,7 @@
       "row": 3,
       "col": 1,
       "length": 5,
-      "clue": "Bir işi ya da durumu ara vermeden sürdürme, aksatmadan götürme hali.",
+      "clue": "Bir işi ya da durumu ara vermeden sürdürme, aksatmadan götürme hali (5 harf) [B462-S4]",
       "answer": "DEVAM"
     },
     {
@@ -205,7 +205,7 @@
       "row": 6,
       "col": 1,
       "length": 4,
-      "clue": "İçine çiçek konulmak üzere yapılmış, ince uzun boyunlu süs kabı.",
+      "clue": "İçine çiçek konulmak üzere yapılmış, ince uzun boyunlu süs kabı (4 harf) [B462-S5]",
       "answer": "VAZO"
     },
     {
@@ -214,7 +214,7 @@
       "row": 6,
       "col": 1,
       "length": 6,
-      "clue": "Az sözle büyük anlam ifade eden, akılda kalan özlü söz.",
+      "clue": "Az sözle büyük anlam ifade eden, akılda kalan özlü söz (6 harf) [B462-S5]",
       "answer": "VECİZE"
     },
     {
@@ -223,7 +223,7 @@
       "row": 7,
       "col": 5,
       "length": 5,
-      "clue": "Birbirini gören iki kişinin hal hatır sormak için söylediği esenlik dileği.",
+      "clue": "Birbirini gören iki kişinin hal hatır sormak için söylediği esenlik dileği (5 harf) [B462-S6]",
       "answer": "SELAM"
     },
     {
@@ -232,7 +232,7 @@
       "row": 8,
       "col": 1,
       "length": 3,
-      "clue": "İnsanı yaşatan soluk, ruh; bedenin yaşamını sürdürmesini sağlayan güç.",
+      "clue": "İnsanı yaşatan soluk, ruh; bedenin yaşamını sürdürmesini sağlayan güç (3 harf) [B462-S7]",
       "answer": "CAN"
     },
     {
@@ -241,7 +241,7 @@
       "row": 10,
       "col": 5,
       "length": 6,
-      "clue": "Türkiye Cumhuriyeti'nin başkenti ve İç Anadolu'nun en büyük şehri.",
+      "clue": "Türkiye Cumhuriyeti'nin başkenti ve İç Anadolu'nun en büyük şehri (6 harf) [B462-S8]",
       "answer": "ANKARA"
     },
     {
@@ -250,7 +250,7 @@
       "row": 11,
       "col": 0,
       "length": 6,
-      "clue": "Yer kabuğunun kırılmasıyla meydana gelen, yüzeyi sarsan doğal olay.",
+      "clue": "Yer kabuğunun kırılmasıyla meydana gelen, yüzeyi sarsan doğal olay (6 harf) [B462-S9]",
       "answer": "DEPREM"
     }
   ]

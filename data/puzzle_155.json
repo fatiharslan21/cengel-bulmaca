@@ -109,7 +109,7 @@
       "row": 0,
       "col": 6,
       "length": 4,
-      "clue": "Yeni toplanmış, bayatlamamış; canlılığını yeni yeni yitirmemiş olan.",
+      "clue": "Yeni toplanmış, bayatlamamış; canlılığını yeni yeni yitirmemiş olan (4 harf) [B155-S1]",
       "answer": "TAZE"
     },
     {
@@ -118,7 +118,7 @@
       "row": 0,
       "col": 6,
       "length": 4,
-      "clue": "Anadolu ve çevresinde yaşayan, Orta Asya kökenli büyük millet.",
+      "clue": "Anadolu ve çevresinde yaşayan, Orta Asya kökenli büyük millet (4 harf) [B155-S1]",
       "answer": "TÜRK"
     },
     {
@@ -127,7 +127,7 @@
       "row": 0,
       "col": 9,
       "length": 3,
-      "clue": "Bir binanın birbirinin üzerine gelen yatay bölümlerinden her biri.",
+      "clue": "Bir binanın birbirinin üzerine gelen yatay bölümlerinden her biri (3 harf) [B155-S2]",
       "answer": "KAT"
     },
     {
@@ -136,7 +136,7 @@
       "row": 2,
       "col": 0,
       "length": 3,
-      "clue": "Bir evin ya da binanın duvarlarla ayrılmış, belirli amaçla kullanılan bölümü.",
+      "clue": "Bir evin ya da binanın duvarlarla ayrılmış, belirli amaçla kullanılan bölümü (3 harf) [B155-S3]",
       "answer": "ODA"
     },
     {
@@ -145,7 +145,7 @@
       "row": 2,
       "col": 0,
       "length": 4,
-      "clue": "Boş zamanlarda eğlence ya da öğrenme amacıyla kurallara göre oynanan etkinlik.",
+      "clue": "Boş zamanlarda eğlence ya da öğrenme amacıyla kurallara göre oynanan etkinlik (4 harf) [B155-S3]",
       "answer": "OYUN"
     },
     {
@@ -154,7 +154,7 @@
       "row": 2,
       "col": 2,
       "length": 3,
-      "clue": "Bir şeye bağlı bulunma; onunla ilgili ya da onun sahipliğinde olma.",
+      "clue": "Bir şeye bağlı bulunma; onunla ilgili ya da onun sahipliğinde olma (3 harf) [B155-S4]",
       "answer": "AİT"
     },
     {
@@ -163,7 +163,7 @@
       "row": 2,
       "col": 4,
       "length": 3,
-      "clue": "Kimyada asitle tepkimeye girerek tuz oluşturan, karşıt özellikli madde.",
+      "clue": "Kimyada asitle tepkimeye girerek tuz oluşturan, karşıt özellikli madde (3 harf) [B155-S5]",
       "answer": "BAZ"
     },
     {
@@ -172,7 +172,7 @@
       "row": 2,
       "col": 4,
       "length": 3,
-      "clue": "Suyun sıfır derecenin altına inerek katılaşmasıyla meydana gelen madde.",
+      "clue": "Suyun sıfır derecenin altına inerek katılaşmasıyla meydana gelen madde (3 harf) [B155-S5]",
       "answer": "BUZ"
     },
     {
@@ -181,7 +181,7 @@
       "row": 4,
       "col": 2,
       "length": 3,
-      "clue": "Denizden ya da yer altından çıkarılan; yemeklere tat veren beyaz tane.",
+      "clue": "Denizden ya da yer altından çıkarılan; yemeklere tat veren beyaz tane (3 harf) [B155-S6]",
       "answer": "TUZ"
     },
     {
@@ -190,7 +190,7 @@
       "row": 4,
       "col": 3,
       "length": 4,
-      "clue": "Kanatları sayesinde havalanıp gökyüzünde uçan motorlu büyük taşıt.",
+      "clue": "Kanatları sayesinde havalanıp gökyüzünde uçan motorlu büyük taşıt (4 harf) [B155-S7]",
       "answer": "UÇAK"
     }
   ]

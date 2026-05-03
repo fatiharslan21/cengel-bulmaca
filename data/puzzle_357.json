@@ -123,7 +123,7 @@
       "row": 0,
       "col": 8,
       "length": 5,
-      "clue": "Hayal ürünü kahramanların yer aldığı, 'bir varmış bir yokmuş'la başlayan öykü.",
+      "clue": "Hayal ürünü kahramanların yer aldığı, 'bir varmış bir yokmuş'la başlayan öykü (5 harf) [B357-S1]",
       "answer": "MASAL"
     },
     {
@@ -132,7 +132,7 @@
       "row": 1,
       "col": 2,
       "length": 5,
-      "clue": "Padişah veya hükümdarların oturduğu, görkemli mimarisi olan büyük yapı.",
+      "clue": "Padişah veya hükümdarların oturduğu, görkemli mimarisi olan büyük yapı (5 harf) [B357-S2]",
       "answer": "SARAY"
     },
     {
@@ -141,7 +141,7 @@
       "row": 2,
       "col": 1,
       "length": 6,
-      "clue": "Bir kişinin emeğini ya da başarısını görüp açıkça beğenip övme.",
+      "clue": "Bir kişinin emeğini ya da başarısını görüp açıkça beğenip övme (6 harf) [B357-S3]",
       "answer": "TAKDİR"
     },
     {
@@ -150,7 +150,7 @@
       "row": 2,
       "col": 4,
       "length": 4,
-      "clue": "Bir hakkı aramak için mahkemeye başvurularak açılan hukuki süreç.",
+      "clue": "Bir hakkı aramak için mahkemeye başvurularak açılan hukuki süreç (4 harf) [B357-S4]",
       "answer": "DAVA"
     },
     {
@@ -159,7 +159,7 @@
       "row": 2,
       "col": 6,
       "length": 3,
-      "clue": "İnsanın bedenine hayat veren, duygularının ve düşüncelerinin kaynağı manevi öz.",
+      "clue": "İnsanın bedenine hayat veren, duygularının ve düşüncelerinin kaynağı manevi öz (3 harf) [B357-S5]",
       "answer": "RUH"
     },
     {
@@ -168,7 +168,7 @@
       "row": 4,
       "col": 6,
       "length": 3,
-      "clue": "Bir kimsenin ya da şeyin bulunduğu durum, vaziyet ya da keyif.",
+      "clue": "Bir kimsenin ya da şeyin bulunduğu durum, vaziyet ya da keyif (3 harf) [B357-S6]",
       "answer": "HAL"
     },
     {
@@ -177,7 +177,7 @@
       "row": 5,
       "col": 0,
       "length": 6,
-      "clue": "Bir ülkeyi simgeleyen, özel renk ve işaretler taşıyan kumaş parçası.",
+      "clue": "Bir ülkeyi simgeleyen, özel renk ve işaretler taşıyan kumaş parçası (6 harf) [B357-S7]",
       "answer": "BAYRAK"
     },
     {
@@ -186,7 +186,7 @@
       "row": 5,
       "col": 5,
       "length": 5,
-      "clue": "Saplı, parlak, kırmızı kabuklu; ilkbaharın sonunda olgunlaşan tatlı meyve.",
+      "clue": "Saplı, parlak, kırmızı kabuklu; ilkbaharın sonunda olgunlaşan tatlı meyve (5 harf) [B357-S8]",
       "answer": "KİRAZ"
     },
     {
@@ -195,7 +195,7 @@
       "row": 7,
       "col": 3,
       "length": 4,
-      "clue": "Hayvanların otlayıp beslenmesi için ayrılmış, doğal otlarla kaplı geniş alan.",
+      "clue": "Hayvanların otlayıp beslenmesi için ayrılmış, doğal otlarla kaplı geniş alan (4 harf) [B357-S9]",
       "answer": "MERA"
     },
     {
@@ -204,7 +204,7 @@
       "row": 9,
       "col": 3,
       "length": 5,
-      "clue": "Seslerin belli bir düzen içinde bir araya getirilmesiyle oluşan sanat.",
+      "clue": "Seslerin belli bir düzen içinde bir araya getirilmesiyle oluşan sanat (5 harf) [B357-S10]",
       "answer": "MÜZİK"
     }
   ]

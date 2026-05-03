@@ -139,7 +139,7 @@
       "row": 0,
       "col": 4,
       "length": 5,
-      "clue": "Aynı amaca ulaşmak için karşı karşıya gelen, yarış halindeki hasım.",
+      "clue": "Aynı amaca ulaşmak için karşı karşıya gelen, yarış halindeki hasım (5 harf) [B387-S1]",
       "answer": "RAKİP"
     },
     {
@@ -148,7 +148,7 @@
       "row": 1,
       "col": 3,
       "length": 3,
-      "clue": "İçi kırmızı tanelerle dolu, kalın kabuklu, sonbahar aylarının meyvesi.",
+      "clue": "İçi kırmızı tanelerle dolu, kalın kabuklu, sonbahar aylarının meyvesi (3 harf) [B387-S2]",
       "answer": "NAR"
     },
     {
@@ -157,7 +157,7 @@
       "row": 1,
       "col": 8,
       "length": 4,
-      "clue": "Niteliği kötü olan, insanın içini bunaltan; iyi sözcüğünün zıttı.",
+      "clue": "Niteliği kötü olan, insanın içini bunaltan; iyi sözcüğünün zıttı (4 harf) [B387-S3]",
       "answer": "FENA"
     },
     {
@@ -166,7 +166,7 @@
       "row": 1,
       "col": 10,
       "length": 4,
-      "clue": "Birinin ya da bir şeyin kolayca etkilenebileceği zayıf noktası.",
+      "clue": "Birinin ya da bir şeyin kolayca etkilenebileceği zayıf noktası (4 harf) [B387-S4]",
       "answer": "ZAAF"
     },
     {
@@ -175,7 +175,7 @@
       "row": 2,
       "col": 7,
       "length": 5,
-      "clue": "Bir olayın geçtiği ya da bir şeyin bulunduğu belirli yer; mahal.",
+      "clue": "Bir olayın geçtiği ya da bir şeyin bulunduğu belirli yer; mahal (5 harf) [B387-S5]",
       "answer": "MEKAN"
     },
     {
@@ -184,7 +184,7 @@
       "row": 3,
       "col": 1,
       "length": 6,
-      "clue": "Elinde olanla yetinip daha fazlasını istememe; tokgözlülük hali.",
+      "clue": "Elinde olanla yetinip daha fazlasını istememe; tokgözlülük hali (6 harf) [B387-S6]",
       "answer": "KANAAT"
     },
     {
@@ -193,7 +193,7 @@
       "row": 4,
       "col": 4,
       "length": 5,
-      "clue": "Kat kat hamuru kremayla birleştirilen, doğum günlerinde kesilen tatlı.",
+      "clue": "Kat kat hamuru kremayla birleştirilen, doğum günlerinde kesilen tatlı (5 harf) [B387-S7]",
       "answer": "PASTA"
     },
     {
@@ -202,7 +202,7 @@
       "row": 4,
       "col": 5,
       "length": 4,
-      "clue": "Yanan bir şeyin üstünde dalgalanan, sıcak ve parlayan ışıklı kısım.",
+      "clue": "Yanan bir şeyin üstünde dalgalanan, sıcak ve parlayan ışıklı kısım (4 harf) [B387-S8]",
       "answer": "ALEV"
     },
     {
@@ -211,7 +211,7 @@
       "row": 5,
       "col": 3,
       "length": 3,
-      "clue": "Çanak çömlek yapımında kullanılan, suyla yumuşayan yapışkan toprak.",
+      "clue": "Çanak çömlek yapımında kullanılan, suyla yumuşayan yapışkan toprak (3 harf) [B387-S9]",
       "answer": "KİL"
     },
     {
@@ -220,7 +220,7 @@
       "row": 6,
       "col": 0,
       "length": 6,
-      "clue": "Harcanan çabaya değmeyen; hiçbir yarar sağlamayan boş uğraş.",
+      "clue": "Harcanan çabaya değmeyen; hiçbir yarar sağlamayan boş uğraş (6 harf) [B387-S10]",
       "answer": "NAFİLE"
     }
   ]

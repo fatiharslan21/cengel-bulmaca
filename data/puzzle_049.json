@@ -121,7 +121,7 @@
       "row": 0,
       "col": 6,
       "length": 4,
-      "clue": "Başarı gösteren kimseye, çabasının karşılığı olarak verilen değerli armağan.",
+      "clue": "Başarı gösteren kimseye, çabasının karşılığı olarak verilen değerli armağan (4 harf) [B49-S1]",
       "answer": "ÖDÜL"
     },
     {
@@ -130,7 +130,7 @@
       "row": 3,
       "col": 6,
       "length": 4,
-      "clue": "Türkiye Cumhuriyeti'nin resmi para birimi; TL kısaltmasıyla yazılan değer.",
+      "clue": "Türkiye Cumhuriyeti'nin resmi para birimi; TL kısaltmasıyla yazılan değer (4 harf) [B49-S2]",
       "answer": "LİRA"
     },
     {
@@ -139,7 +139,7 @@
       "row": 3,
       "col": 8,
       "length": 5,
-      "clue": "Programlanarak belirli işleri otomatik yapan mekanik insansı makine.",
+      "clue": "Programlanarak belirli işleri otomatik yapan mekanik insansı makine (5 harf) [B49-S3]",
       "answer": "ROBOT"
     },
     {
@@ -148,7 +148,7 @@
       "row": 4,
       "col": 1,
       "length": 3,
-      "clue": "Yaptıklarıyla uzaklarda bile tanınıp bilinir olmanın verdiği büyük ün.",
+      "clue": "Yaptıklarıyla uzaklarda bile tanınıp bilinir olmanın verdiği büyük ün (3 harf) [B49-S4]",
       "answer": "ŞAN"
     },
     {
@@ -157,7 +157,7 @@
       "row": 5,
       "col": 0,
       "length": 4,
-      "clue": "Sıkıntılı ya da zor bir durumu ortadan kaldıracak çözüm yolu.",
+      "clue": "Sıkıntılı ya da zor bir durumu ortadan kaldıracak çözüm yolu (4 harf) [B49-S5]",
       "answer": "ÇARE"
     },
     {
@@ -166,7 +166,7 @@
       "row": 5,
       "col": 3,
       "length": 4,
-      "clue": "Uzun kulaklı, sabırlı; köylerde yük taşımada kullanılan küçük binek hayvanı.",
+      "clue": "Uzun kulaklı, sabırlı; köylerde yük taşımada kullanılan küçük binek hayvanı (4 harf) [B49-S6]",
       "answer": "EŞEK"
     },
     {
@@ -175,7 +175,7 @@
       "row": 5,
       "col": 5,
       "length": 3,
-      "clue": "Havanın ısısının düşmesiyle suların yüzeyde buz tutması olayı.",
+      "clue": "Havanın ısısının düşmesiyle suların yüzeyde buz tutması olayı (3 harf) [B49-S7]",
       "answer": "DON"
     },
     {
@@ -184,7 +184,7 @@
       "row": 5,
       "col": 5,
       "length": 5,
-      "clue": "Ani ve sert bir hareketle yapılan vuruş; çarpma sonucu alınan sarsıntı.",
+      "clue": "Ani ve sert bir hareketle yapılan vuruş; çarpma sonucu alınan sarsıntı (5 harf) [B49-S7]",
       "answer": "DARBE"
     },
     {
@@ -193,7 +193,7 @@
       "row": 7,
       "col": 2,
       "length": 5,
-      "clue": "Yelkenli ya da motorlu olup denizde kısa yolculuklara çıkan küçük gemi.",
+      "clue": "Yelkenli ya da motorlu olup denizde kısa yolculuklara çıkan küçük gemi (5 harf) [B49-S8]",
       "answer": "TEKNE"
     }
   ]

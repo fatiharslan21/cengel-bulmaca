@@ -145,7 +145,7 @@
       "row": 0,
       "col": 9,
       "length": 4,
-      "clue": "İçten doğan büyük istek; insanı coşturan şiddetli arzu ve heves.",
+      "clue": "İçten doğan büyük istek; insanı coşturan şiddetli arzu ve heves (4 harf) [B358-S1]",
       "answer": "ŞEVK"
     },
     {
@@ -154,7 +154,7 @@
       "row": 3,
       "col": 2,
       "length": 3,
-      "clue": "Bir kimsenin ya da şeyin bulunduğu durum, vaziyet ya da keyif.",
+      "clue": "Bir kimsenin ya da şeyin bulunduğu durum, vaziyet ya da keyif (3 harf) [B358-S2]",
       "answer": "HAL"
     },
     {
@@ -163,7 +163,7 @@
       "row": 3,
       "col": 6,
       "length": 5,
-      "clue": "Zarla ve pullarla iki kişi arasında oynanan, kahvehane kültürünün oyunu.",
+      "clue": "Zarla ve pullarla iki kişi arasında oynanan, kahvehane kültürünün oyunu (5 harf) [B358-S3]",
       "answer": "TAVLA"
     },
     {
@@ -172,7 +172,7 @@
       "row": 3,
       "col": 6,
       "length": 4,
-      "clue": "Anadolu ve çevresinde yaşayan, Orta Asya kökenli büyük millet.",
+      "clue": "Anadolu ve çevresinde yaşayan, Orta Asya kökenli büyük millet (4 harf) [B358-S3]",
       "answer": "TÜRK"
     },
     {
@@ -181,7 +181,7 @@
       "row": 3,
       "col": 8,
       "length": 5,
-      "clue": "Aynı amaca ulaşmak için karşı karşıya gelen, yarış halindeki hasım.",
+      "clue": "Aynı amaca ulaşmak için karşı karşıya gelen, yarış halindeki hasım (5 harf) [B358-S4]",
       "answer": "RAKİP"
     },
     {
@@ -190,7 +190,7 @@
       "row": 4,
       "col": 1,
       "length": 4,
-      "clue": "Bir işe girişirken göz önünde tutulan, ulaşılmak istenen son hedef.",
+      "clue": "Bir işe girişirken göz önünde tutulan, ulaşılmak istenen son hedef (4 harf) [B358-S5]",
       "answer": "GAYE"
     },
     {
@@ -199,7 +199,7 @@
       "row": 4,
       "col": 4,
       "length": 5,
-      "clue": "Belirlenen vaktin öncesinde gelme; geç kalmanın tersi durumu.",
+      "clue": "Belirlenen vaktin öncesinde gelme; geç kalmanın tersi durumu (5 harf) [B358-S6]",
       "answer": "ERKEN"
     },
     {
@@ -208,7 +208,7 @@
       "row": 6,
       "col": 3,
       "length": 4,
-      "clue": "Öğrencilerin öğretmenler tarafından eğitim aldığı resmî öğretim kurumu.",
+      "clue": "Öğrencilerin öğretmenler tarafından eğitim aldığı resmî öğretim kurumu (4 harf) [B358-S7]",
       "answer": "OKUL"
     },
     {
@@ -217,7 +217,7 @@
       "row": 8,
       "col": 0,
       "length": 5,
-      "clue": "Vücudun belirli bir işlevi yerine getiren, dokulardan oluşmuş bölümü.",
+      "clue": "Vücudun belirli bir işlevi yerine getiren, dokulardan oluşmuş bölümü (5 harf) [B358-S8]",
       "answer": "ORGAN"
     },
     {
@@ -226,7 +226,7 @@
       "row": 8,
       "col": 3,
       "length": 3,
-      "clue": "Soyun büyüklerinden sayılan dede ya da daha öncesinden gelen büyük.",
+      "clue": "Soyun büyüklerinden sayılan dede ya da daha öncesinden gelen büyük (3 harf) [B358-S9]",
       "answer": "ATA"
     }
   ]

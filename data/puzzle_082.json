@@ -101,7 +101,7 @@
       "row": 0,
       "col": 1,
       "length": 4,
-      "clue": "İnsanın boynunun üst kısmında bulunan, düşünmenin merkezi olan baş.",
+      "clue": "İnsanın boynunun üst kısmında bulunan, düşünmenin merkezi olan baş (4 harf) [B82-S1]",
       "answer": "KAFA"
     },
     {
@@ -110,7 +110,7 @@
       "row": 1,
       "col": 0,
       "length": 3,
-      "clue": "Üzerinde nokta bulunan, oyunlarda atılan altı yüzlü küçük küp.",
+      "clue": "Üzerinde nokta bulunan, oyunlarda atılan altı yüzlü küçük küp (3 harf) [B82-S2]",
       "answer": "ZAR"
     },
     {
@@ -119,7 +119,7 @@
       "row": 3,
       "col": 0,
       "length": 3,
-      "clue": "Kişinin yasal olarak sahip olduğu; alması ya da yapması gereken şey.",
+      "clue": "Kişinin yasal olarak sahip olduğu; alması ya da yapması gereken şey (3 harf) [B82-S3]",
       "answer": "HAK"
     },
     {
@@ -128,7 +128,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "Bir ailenin oturduğu ev; aynı zamanda sayıdaki basamak anlamı taşır.",
+      "clue": "Bir ailenin oturduğu ev; aynı zamanda sayıdaki basamak anlamı taşır (4 harf) [B82-S3]",
       "answer": "HANE"
     },
     {
@@ -137,7 +137,7 @@
       "row": 3,
       "col": 2,
       "length": 3,
-      "clue": "Omuzdan bileğe kadar uzanan, eli bedene bağlayan üst uzvumuz.",
+      "clue": "Omuzdan bileğe kadar uzanan, eli bedene bağlayan üst uzvumuz (3 harf) [B82-S4]",
       "answer": "KOL"
     },
     {
@@ -146,7 +146,7 @@
       "row": 3,
       "col": 5,
       "length": 5,
-      "clue": "Üzerinde buğday, arpa ya da sebze yetiştirilen sürülmüş geniş toprak.",
+      "clue": "Üzerinde buğday, arpa ya da sebze yetiştirilen sürülmüş geniş toprak (5 harf) [B82-S5]",
       "answer": "TARLA"
     },
     {
@@ -155,7 +155,7 @@
       "row": 4,
       "col": 2,
       "length": 5,
-      "clue": "Vücudun belirli bir işlevi yerine getiren, dokulardan oluşmuş bölümü.",
+      "clue": "Vücudun belirli bir işlevi yerine getiren, dokulardan oluşmuş bölümü (5 harf) [B82-S6]",
       "answer": "ORGAN"
     },
     {
@@ -164,7 +164,7 @@
       "row": 5,
       "col": 7,
       "length": 3,
-      "clue": "Birden çok rengin bir arada bulunduğu, benekli ya da karışık görünüm.",
+      "clue": "Birden çok rengin bir arada bulunduğu, benekli ya da karışık görünüm (3 harf) [B82-S7]",
       "answer": "ALA"
     },
     {
@@ -173,7 +173,7 @@
       "row": 7,
       "col": 4,
       "length": 5,
-      "clue": "Padişah veya hükümdarların oturduğu, görkemli mimarisi olan büyük yapı.",
+      "clue": "Padişah veya hükümdarların oturduğu, görkemli mimarisi olan büyük yapı (5 harf) [B82-S8]",
       "answer": "SARAY"
     }
   ]

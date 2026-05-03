@@ -125,7 +125,7 @@
       "row": 0,
       "col": 8,
       "length": 4,
-      "clue": "İçine çiçek konulmak üzere yapılmış, ince uzun boyunlu süs kabı.",
+      "clue": "İçine çiçek konulmak üzere yapılmış, ince uzun boyunlu süs kabı (4 harf) [B233-S1]",
       "answer": "VAZO"
     },
     {
@@ -134,7 +134,7 @@
       "row": 1,
       "col": 8,
       "length": 4,
-      "clue": "Sahte ya da taklit olmayan; bir şeyin gerçek ve temel olan hali.",
+      "clue": "Sahte ya da taklit olmayan; bir şeyin gerçek ve temel olan hali (4 harf) [B233-S2]",
       "answer": "ASIL"
     },
     {
@@ -143,7 +143,7 @@
       "row": 2,
       "col": 2,
       "length": 5,
-      "clue": "Yemeklerin servis edildiği, yuvarlak ve yassı porselen ya da cam kap.",
+      "clue": "Yemeklerin servis edildiği, yuvarlak ve yassı porselen ya da cam kap (5 harf) [B233-S3]",
       "answer": "TABAK"
     },
     {
@@ -152,7 +152,7 @@
       "row": 2,
       "col": 6,
       "length": 4,
-      "clue": "Kalemin kâğıda bıraktığı; harflerden oluşan okunabilir işaretler.",
+      "clue": "Kalemin kâğıda bıraktığı; harflerden oluşan okunabilir işaretler (4 harf) [B233-S4]",
       "answer": "YAZI"
     },
     {
@@ -161,7 +161,7 @@
       "row": 2,
       "col": 6,
       "length": 3,
-      "clue": "Gözlerin, burnun ve ağzın bulunduğu baş ön kısmı; ayrıca on kere on sayısı.",
+      "clue": "Gözlerin, burnun ve ağzın bulunduğu baş ön kısmı; ayrıca on kere on sayısı (3 harf) [B233-S4]",
       "answer": "YÜZ"
     },
     {
@@ -170,7 +170,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "Bir sınavda ya da yarışmada başarıya göre verilen sayısal değerlendirme.",
+      "clue": "Bir sınavda ya da yarışmada başarıya göre verilen sayısal değerlendirme (4 harf) [B233-S5]",
       "answer": "PUAN"
     },
     {
@@ -179,7 +179,7 @@
       "row": 4,
       "col": 4,
       "length": 3,
-      "clue": "Havada uçuşan ya da yüzeyde biriken, çok küçük katı parçacıklar.",
+      "clue": "Havada uçuşan ya da yüzeyde biriken, çok küçük katı parçacıklar (3 harf) [B233-S6]",
       "answer": "TOZ"
     },
     {
@@ -188,7 +188,7 @@
       "row": 4,
       "col": 4,
       "length": 4,
-      "clue": "Sayılabilen nesnelerin her biri; küçük parça ya da adet.",
+      "clue": "Sayılabilen nesnelerin her biri; küçük parça ya da adet (4 harf) [B233-S6]",
       "answer": "TANE"
     },
     {
@@ -197,7 +197,7 @@
       "row": 6,
       "col": 2,
       "length": 3,
-      "clue": "Damarlarda dolaşarak vücuda oksijen taşıyan kırmızı renkli canlı sıvı.",
+      "clue": "Damarlarda dolaşarak vücuda oksijen taşıyan kırmızı renkli canlı sıvı (3 harf) [B233-S7]",
       "answer": "KAN"
     },
     {
@@ -206,7 +206,7 @@
       "row": 7,
       "col": 4,
       "length": 4,
-      "clue": "Uzun kulaklı, sabırlı; köylerde yük taşımada kullanılan küçük binek hayvanı.",
+      "clue": "Uzun kulaklı, sabırlı; köylerde yük taşımada kullanılan küçük binek hayvanı (4 harf) [B233-S8]",
       "answer": "EŞEK"
     }
   ]

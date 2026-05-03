@@ -123,7 +123,7 @@
       "row": 0,
       "col": 6,
       "length": 5,
-      "clue": "Bir dağın en yüksek noktası; ulaşılabilecek en üst basamak.",
+      "clue": "Bir dağın en yüksek noktası; ulaşılabilecek en üst basamak (5 harf) [B111-S1]",
       "answer": "ZİRVE"
     },
     {
@@ -132,7 +132,7 @@
       "row": 1,
       "col": 4,
       "length": 4,
-      "clue": "Yetkili bir kimsenin yerine getirilmek üzere verdiği kesin buyruk.",
+      "clue": "Yetkili bir kimsenin yerine getirilmek üzere verdiği kesin buyruk (4 harf) [B111-S2]",
       "answer": "EMİR"
     },
     {
@@ -141,7 +141,7 @@
       "row": 4,
       "col": 2,
       "length": 5,
-      "clue": "Ev ya da yapı yakınında çiçek, sebze ve ağaç yetiştirilen yeşil alan.",
+      "clue": "Ev ya da yapı yakınında çiçek, sebze ve ağaç yetiştirilen yeşil alan (5 harf) [B111-S3]",
       "answer": "BAHÇE"
     },
     {
@@ -150,7 +150,7 @@
       "row": 4,
       "col": 3,
       "length": 5,
-      "clue": "Dünyanın farklı bölgelerini gösteren haritaların toplandığı büyük kitap.",
+      "clue": "Dünyanın farklı bölgelerini gösteren haritaların toplandığı büyük kitap (5 harf) [B111-S4]",
       "answer": "ATLAS"
     },
     {
@@ -159,7 +159,7 @@
       "row": 4,
       "col": 5,
       "length": 4,
-      "clue": "Birbirinin eşi olan iki şeyden oluşan takım; tekin karşıtı sayı grubu.",
+      "clue": "Birbirinin eşi olan iki şeyden oluşan takım; tekin karşıtı sayı grubu (4 harf) [B111-S5]",
       "answer": "ÇİFT"
     },
     {
@@ -168,7 +168,7 @@
       "row": 5,
       "col": 7,
       "length": 4,
-      "clue": "Bir ailenin oturduğu ev; aynı zamanda sayıdaki basamak anlamı taşır.",
+      "clue": "Bir ailenin oturduğu ev; aynı zamanda sayıdaki basamak anlamı taşır (4 harf) [B111-S6]",
       "answer": "HANE"
     },
     {
@@ -177,7 +177,7 @@
       "row": 7,
       "col": 0,
       "length": 4,
-      "clue": "Bir kesik ya da darbe sonucu bedende oluşan açık doku hasarı.",
+      "clue": "Bir kesik ya da darbe sonucu bedende oluşan açık doku hasarı (4 harf) [B111-S7]",
       "answer": "YARA"
     },
     {
@@ -186,7 +186,7 @@
       "row": 7,
       "col": 1,
       "length": 4,
-      "clue": "Kırda ya da ormanda silahla veya tuzakla av peşinde koşan kişi.",
+      "clue": "Kırda ya da ormanda silahla veya tuzakla av peşinde koşan kişi (4 harf) [B111-S8]",
       "answer": "AVCI"
     },
     {
@@ -195,7 +195,7 @@
       "row": 7,
       "col": 5,
       "length": 3,
-      "clue": "İnsanın bedenini saran dış deri; vücudumuzun dış yüzü.",
+      "clue": "İnsanın bedenini saran dış deri; vücudumuzun dış yüzü (3 harf) [B111-S9]",
       "answer": "TEN"
     }
   ]

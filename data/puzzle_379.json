@@ -153,7 +153,7 @@
       "row": 0,
       "col": 3,
       "length": 6,
-      "clue": "Dakikanın altmışta biri; zamanın en küçük günlük ölçü birimi.",
+      "clue": "Dakikanın altmışta biri; zamanın en küçük günlük ölçü birimi (6 harf) [B379-S1]",
       "answer": "SANİYE"
     },
     {
@@ -162,7 +162,7 @@
       "row": 0,
       "col": 6,
       "length": 7,
-      "clue": "Üzüntülü birine söylenerek onu rahatlatan sıcak avutucu söz.",
+      "clue": "Üzüntülü birine söylenerek onu rahatlatan sıcak avutucu söz (7 harf) [B379-S2]",
       "answer": "TESELLİ"
     },
     {
@@ -171,7 +171,7 @@
       "row": 1,
       "col": 2,
       "length": 6,
-      "clue": "Bir işi başarmak için katlanılan güçlük; çekilen eziyet.",
+      "clue": "Bir işi başarmak için katlanılan güçlük; çekilen eziyet (6 harf) [B379-S3]",
       "answer": "ZAHMET"
     },
     {
@@ -180,7 +180,7 @@
       "row": 3,
       "col": 1,
       "length": 4,
-      "clue": "Mahkemenin verdiği kararı bildiren, yazılı resmi belge.",
+      "clue": "Mahkemenin verdiği kararı bildiren, yazılı resmi belge (4 harf) [B379-S4]",
       "answer": "İLAM"
     },
     {
@@ -189,7 +189,7 @@
       "row": 3,
       "col": 5,
       "length": 4,
-      "clue": "Miyavlayarak seslenen, pençeleri keskin, evlerde beslenen tüylü memeli hayvan.",
+      "clue": "Miyavlayarak seslenen, pençeleri keskin, evlerde beslenen tüylü memeli hayvan (4 harf) [B379-S5]",
       "answer": "KEDİ"
     },
     {
@@ -198,7 +198,7 @@
       "row": 3,
       "col": 8,
       "length": 5,
-      "clue": "Bilginin ötesinde, deneyim ve sezgiyle kazanılan derin anlayış.",
+      "clue": "Bilginin ötesinde, deneyim ve sezgiyle kazanılan derin anlayış (5 harf) [B379-S6]",
       "answer": "İRFAN"
     },
     {
@@ -207,7 +207,7 @@
       "row": 5,
       "col": 0,
       "length": 5,
-      "clue": "Kaybedilen bir yakının ardından tutulan koyu yas; siyahlar giyme hali.",
+      "clue": "Kaybedilen bir yakının ardından tutulan koyu yas; siyahlar giyme hali (5 harf) [B379-S7]",
       "answer": "MATEM"
     },
     {
@@ -216,7 +216,7 @@
       "row": 5,
       "col": 4,
       "length": 5,
-      "clue": "Bir sürecin başladığı; sıfırdan hesaplandığı başlangıç tarihi.",
+      "clue": "Bir sürecin başladığı; sıfırdan hesaplandığı başlangıç tarihi (5 harf) [B379-S8]",
       "answer": "MİLAT"
     },
     {
@@ -225,7 +225,7 @@
       "row": 6,
       "col": 8,
       "length": 4,
-      "clue": "Sahte ya da taklit olmayan; bir şeyin gerçek ve temel olan hali.",
+      "clue": "Sahte ya da taklit olmayan; bir şeyin gerçek ve temel olan hali (4 harf) [B379-S9]",
       "answer": "ASIL"
     },
     {
@@ -234,7 +234,7 @@
       "row": 9,
       "col": 4,
       "length": 7,
-      "clue": "Acıklı bir olay karşısında insanın içine çöken derin hüzün.",
+      "clue": "Acıklı bir olay karşısında insanın içine çöken derin hüzün (7 harf) [B379-S10]",
       "answer": "TEESSÜR"
     }
   ]

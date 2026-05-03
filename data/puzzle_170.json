@@ -139,7 +139,7 @@
       "row": 0,
       "col": 5,
       "length": 4,
-      "clue": "Bir kimsenin doğup büyüdüğü vatanı; ait olduğu aziz memleket.",
+      "clue": "Bir kimsenin doğup büyüdüğü vatanı; ait olduğu aziz memleket (4 harf) [B170-S1]",
       "answer": "YURT"
     },
     {
@@ -148,7 +148,7 @@
       "row": 1,
       "col": 2,
       "length": 6,
-      "clue": "İnsan ya da kürek gücüyle suda yol alan küçük açık deniz teknesi.",
+      "clue": "İnsan ya da kürek gücüyle suda yol alan küçük açık deniz teknesi (6 harf) [B170-S2]",
       "answer": "SANDAL"
     },
     {
@@ -157,7 +157,7 @@
       "row": 2,
       "col": 2,
       "length": 4,
-      "clue": "Kaldırılması güç olan, hafif sözcüğünün zıttı sayılan kütle durumu.",
+      "clue": "Kaldırılması güç olan, hafif sözcüğünün zıttı sayılan kütle durumu (4 harf) [B170-S3]",
       "answer": "AĞIR"
     },
     {
@@ -166,7 +166,7 @@
       "row": 3,
       "col": 0,
       "length": 3,
-      "clue": "Yirmi dört saate denk gelen; sabahtan akşama uzanan zaman dilimi.",
+      "clue": "Yirmi dört saate denk gelen; sabahtan akşama uzanan zaman dilimi (3 harf) [B170-S4]",
       "answer": "GÜN"
     },
     {
@@ -175,7 +175,7 @@
       "row": 4,
       "col": 4,
       "length": 5,
-      "clue": "Mektup ve paketlerin toplanıp yerine ulaştırıldığı geleneksel iletişim hizmeti.",
+      "clue": "Mektup ve paketlerin toplanıp yerine ulaştırıldığı geleneksel iletişim hizmeti (5 harf) [B170-S5]",
       "answer": "POSTA"
     },
     {
@@ -184,7 +184,7 @@
       "row": 5,
       "col": 1,
       "length": 4,
-      "clue": "Ortaçağ Avrupası'nda soyluların yaşadığı kuleli, büyük taştan yapılı konak.",
+      "clue": "Ortaçağ Avrupası'nda soyluların yaşadığı kuleli, büyük taştan yapılı konak (4 harf) [B170-S6]",
       "answer": "ŞATO"
     },
     {
@@ -193,7 +193,7 @@
       "row": 5,
       "col": 8,
       "length": 4,
-      "clue": "Miyavlayarak seslenen, pençeleri keskin, evlerde beslenen tüylü memeli hayvan.",
+      "clue": "Miyavlayarak seslenen, pençeleri keskin, evlerde beslenen tüylü memeli hayvan (4 harf) [B170-S7]",
       "answer": "KEDİ"
     },
     {
@@ -202,7 +202,7 @@
       "row": 6,
       "col": 4,
       "length": 5,
-      "clue": "Mutfağa giren, bitki kökleri ve yapraklarından oluşan yenilebilir besin.",
+      "clue": "Mutfağa giren, bitki kökleri ve yapraklarından oluşan yenilebilir besin (5 harf) [B170-S8]",
       "answer": "SEBZE"
     },
     {
@@ -211,7 +211,7 @@
       "row": 7,
       "col": 8,
       "length": 4,
-      "clue": "İnsanı üzen, iç sıkıntısı veren; uzun süre geçmeyen tasa ve keder.",
+      "clue": "İnsanı üzen, iç sıkıntısı veren; uzun süre geçmeyen tasa ve keder (4 harf) [B170-S9]",
       "answer": "DERT"
     },
     {
@@ -220,7 +220,7 @@
       "row": 8,
       "col": 3,
       "length": 3,
-      "clue": "Bir çemberin merkezinden geçerek onu iki eşit yaya bölen doğru parça.",
+      "clue": "Bir çemberin merkezinden geçerek onu iki eşit yaya bölen doğru parça (3 harf) [B170-S10]",
       "answer": "ÇAP"
     }
   ]

@@ -123,7 +123,7 @@
       "row": 0,
       "col": 5,
       "length": 5,
-      "clue": "Ani ve sert bir hareketle yapılan vuruş; çarpma sonucu alınan sarsıntı.",
+      "clue": "Ani ve sert bir hareketle yapılan vuruş; çarpma sonucu alınan sarsıntı (5 harf) [B138-S1]",
       "answer": "DARBE"
     },
     {
@@ -132,7 +132,7 @@
       "row": 1,
       "col": 4,
       "length": 3,
-      "clue": "Gitme, olduğun yerde dur; git sözcüğünün tam karşıtı olan emir.",
+      "clue": "Gitme, olduğun yerde dur; git sözcüğünün tam karşıtı olan emir (3 harf) [B138-S2]",
       "answer": "KAL"
     },
     {
@@ -141,7 +141,7 @@
       "row": 3,
       "col": 2,
       "length": 6,
-      "clue": "Şehir içinde ya da dışında birçok yolcuyu bir arada taşıyan büyük araç.",
+      "clue": "Şehir içinde ya da dışında birçok yolcuyu bir arada taşıyan büyük araç (6 harf) [B138-S3]",
       "answer": "OTOBÜS"
     },
     {
@@ -150,7 +150,7 @@
       "row": 3,
       "col": 3,
       "length": 4,
-      "clue": "Dağdan daha alçak, çevresine göre yüksek görünen küçük yükselti.",
+      "clue": "Dağdan daha alçak, çevresine göre yüksek görünen küçük yükselti (4 harf) [B138-S4]",
       "answer": "TEPE"
     },
     {
@@ -159,7 +159,7 @@
       "row": 6,
       "col": 2,
       "length": 4,
-      "clue": "İnsanı üzen, iç sıkıntısı veren; uzun süre geçmeyen tasa ve keder.",
+      "clue": "İnsanı üzen, iç sıkıntısı veren; uzun süre geçmeyen tasa ve keder (4 harf) [B138-S5]",
       "answer": "DERT"
     },
     {
@@ -168,7 +168,7 @@
       "row": 6,
       "col": 2,
       "length": 4,
-      "clue": "Kötü günde de yanında olan, gönülden sevilen yakın arkadaş.",
+      "clue": "Kötü günde de yanında olan, gönülden sevilen yakın arkadaş (4 harf) [B138-S5]",
       "answer": "DOST"
     },
     {
@@ -177,7 +177,7 @@
       "row": 7,
       "col": 6,
       "length": 4,
-      "clue": "Bir ailenin oturduğu ev; aynı zamanda sayıdaki basamak anlamı taşır.",
+      "clue": "Bir ailenin oturduğu ev; aynı zamanda sayıdaki basamak anlamı taşır (4 harf) [B138-S6]",
       "answer": "HANE"
     },
     {
@@ -186,7 +186,7 @@
       "row": 8,
       "col": 4,
       "length": 3,
-      "clue": "Geçmişte yaşanmış ve zihinde iz bırakmış olayların hatırlanması.",
+      "clue": "Geçmişte yaşanmış ve zihinde iz bırakmış olayların hatırlanması (3 harf) [B138-S7]",
       "answer": "ANI"
     },
     {
@@ -195,7 +195,7 @@
       "row": 8,
       "col": 4,
       "length": 3,
-      "clue": "Eskiden köylerde geniş topraklara sahip, sözü geçen nüfuzlu kişi.",
+      "clue": "Eskiden köylerde geniş topraklara sahip, sözü geçen nüfuzlu kişi (3 harf) [B138-S7]",
       "answer": "AĞA"
     },
     {
@@ -204,7 +204,7 @@
       "row": 9,
       "col": 0,
       "length": 5,
-      "clue": "Bir milletin üzerinde yaşayıp kendine yurt bildiği ata toprağı.",
+      "clue": "Bir milletin üzerinde yaşayıp kendine yurt bildiği ata toprağı (5 harf) [B138-S8]",
       "answer": "VATAN"
     }
   ]

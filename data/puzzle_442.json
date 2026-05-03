@@ -123,7 +123,7 @@
       "row": 0,
       "col": 3,
       "length": 4,
-      "clue": "Dostluğunu ve sevgisini zaman geçse bile sürdürme; söze sadakat.",
+      "clue": "Dostluğunu ve sevgisini zaman geçse bile sürdürme; söze sadakat (4 harf) [B442-S1]",
       "answer": "VEFA"
     },
     {
@@ -132,7 +132,7 @@
       "row": 0,
       "col": 5,
       "length": 4,
-      "clue": "Birinin ya da bir şeyin beklemediğin anda karşına çıkması; tesadüf.",
+      "clue": "Birinin ya da bir şeyin beklemediğin anda karşına çıkması; tesadüf (4 harf) [B442-S2]",
       "answer": "RAST"
     },
     {
@@ -141,7 +141,7 @@
       "row": 2,
       "col": 1,
       "length": 4,
-      "clue": "Bir ailenin oturduğu ev; aynı zamanda sayıdaki basamak anlamı taşır.",
+      "clue": "Bir ailenin oturduğu ev; aynı zamanda sayıdaki basamak anlamı taşır (4 harf) [B442-S3]",
       "answer": "HANE"
     },
     {
@@ -150,7 +150,7 @@
       "row": 2,
       "col": 7,
       "length": 4,
-      "clue": "Bir ülkenin savunmasını üstlenen, askerlerden oluşan silahlı kuvvetler.",
+      "clue": "Bir ülkenin savunmasını üstlenen, askerlerden oluşan silahlı kuvvetler (4 harf) [B442-S4]",
       "answer": "ORDU"
     },
     {
@@ -159,7 +159,7 @@
       "row": 3,
       "col": 1,
       "length": 7,
-      "clue": "Kilidi açıp kapatmak için yapılmış, dişli küçük metal araç.",
+      "clue": "Kilidi açıp kapatmak için yapılmış, dişli küçük metal araç (7 harf) [B442-S5]",
       "answer": "ANAHTAR"
     },
     {
@@ -168,7 +168,7 @@
       "row": 5,
       "col": 0,
       "length": 5,
-      "clue": "Sorulan bir soruya ya da söylenen söze karşı verilen karşılık.",
+      "clue": "Sorulan bir soruya ya da söylenen söze karşı verilen karşılık (5 harf) [B442-S6]",
       "answer": "CEVAP"
     },
     {
@@ -177,7 +177,7 @@
       "row": 5,
       "col": 3,
       "length": 4,
-      "clue": "Mutfakta yemek pişirmeyi meslek edinmiş, lezzetten anlayan kişi.",
+      "clue": "Mutfakta yemek pişirmeyi meslek edinmiş, lezzetten anlayan kişi (4 harf) [B442-S7]",
       "answer": "AŞÇI"
     },
     {
@@ -186,7 +186,7 @@
       "row": 6,
       "col": 6,
       "length": 4,
-      "clue": "İçten duyulan gönül rahatlığı; keder bırakmayan tatlı neşe.",
+      "clue": "İçten duyulan gönül rahatlığı; keder bırakmayan tatlı neşe (4 harf) [B442-S8]",
       "answer": "SAFA"
     },
     {
@@ -195,7 +195,7 @@
       "row": 7,
       "col": 3,
       "length": 5,
-      "clue": "Geniş yaprakları ve kalın gövdesiyle yüzyıllarca yaşayabilen büyük ağaç.",
+      "clue": "Geniş yaprakları ve kalın gövdesiyle yüzyıllarca yaşayabilen büyük ağaç (5 harf) [B442-S9]",
       "answer": "ÇINAR"
     },
     {
@@ -204,7 +204,7 @@
       "row": 9,
       "col": 5,
       "length": 4,
-      "clue": "Dinde kesinlikle yerine getirilmesi emredilen, zorunlu olan yükümlülük.",
+      "clue": "Dinde kesinlikle yerine getirilmesi emredilen, zorunlu olan yükümlülük (4 harf) [B442-S10]",
       "answer": "FARZ"
     }
   ]

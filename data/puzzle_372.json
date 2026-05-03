@@ -123,7 +123,7 @@
       "row": 0,
       "col": 4,
       "length": 3,
-      "clue": "İçi kırmızı tanelerle dolu, kalın kabuklu, sonbahar aylarının meyvesi.",
+      "clue": "İçi kırmızı tanelerle dolu, kalın kabuklu, sonbahar aylarının meyvesi (3 harf) [B372-S1]",
       "answer": "NAR"
     },
     {
@@ -132,7 +132,7 @@
       "row": 0,
       "col": 5,
       "length": 4,
-      "clue": "Bacağın bileğinden aşağısı; üzerine basarak yürümemizi sağlayan uzuv.",
+      "clue": "Bacağın bileğinden aşağısı; üzerine basarak yürümemizi sağlayan uzuv (4 harf) [B372-S2]",
       "answer": "AYAK"
     },
     {
@@ -141,7 +141,7 @@
       "row": 3,
       "col": 5,
       "length": 3,
-      "clue": "Çanak çömlek yapımında kullanılan, suyla yumuşayan yapışkan toprak.",
+      "clue": "Çanak çömlek yapımında kullanılan, suyla yumuşayan yapışkan toprak (3 harf) [B372-S3]",
       "answer": "KİL"
     },
     {
@@ -150,7 +150,7 @@
       "row": 3,
       "col": 6,
       "length": 5,
-      "clue": "Bir şeyin anlamını kavrama; olup biteni zihinde anlamlandırma yeteneği.",
+      "clue": "Bir şeyin anlamını kavrama; olup biteni zihinde anlamlandırma yeteneği (5 harf) [B372-S4]",
       "answer": "İDRAK"
     },
     {
@@ -159,7 +159,7 @@
       "row": 4,
       "col": 0,
       "length": 5,
-      "clue": "Üzerinde yaşadığımız, Güneş'in çevresinde dönen mavi yeşil gezegen.",
+      "clue": "Üzerinde yaşadığımız, Güneş'in çevresinde dönen mavi yeşil gezegen (5 harf) [B372-S5]",
       "answer": "DÜNYA"
     },
     {
@@ -168,7 +168,7 @@
       "row": 4,
       "col": 2,
       "length": 5,
-      "clue": "Yararlanılan, şükür duyulan değerli varlık; insana verilmiş lütuf.",
+      "clue": "Yararlanılan, şükür duyulan değerli varlık; insana verilmiş lütuf (5 harf) [B372-S6]",
       "answer": "NİMET"
     },
     {
@@ -177,7 +177,7 @@
       "row": 6,
       "col": 4,
       "length": 4,
-      "clue": "Mahkemenin verdiği kararı bildiren, yazılı resmi belge.",
+      "clue": "Mahkemenin verdiği kararı bildiren, yazılı resmi belge (4 harf) [B372-S7]",
       "answer": "İLAM"
     },
     {
@@ -186,7 +186,7 @@
       "row": 6,
       "col": 4,
       "length": 5,
-      "clue": "Hayatta yükselme, talih kuşunun başa konması; mevki sahibi olma.",
+      "clue": "Hayatta yükselme, talih kuşunun başa konması; mevki sahibi olma (5 harf) [B372-S7]",
       "answer": "İKBAL"
     },
     {
@@ -195,7 +195,7 @@
       "row": 7,
       "col": 1,
       "length": 4,
-      "clue": "İçten doğan büyük istek; insanı coşturan şiddetli arzu ve heves.",
+      "clue": "İçten doğan büyük istek; insanı coşturan şiddetli arzu ve heves (4 harf) [B372-S8]",
       "answer": "ŞEVK"
     },
     {
@@ -204,7 +204,7 @@
       "row": 9,
       "col": 3,
       "length": 3,
-      "clue": "Genişliği yetersiz olan, sıkıştıran; geniş sözcüğünün karşıtı sıfat.",
+      "clue": "Genişliği yetersiz olan, sıkıştıran; geniş sözcüğünün karşıtı sıfat (3 harf) [B372-S9]",
       "answer": "DAR"
     }
   ]

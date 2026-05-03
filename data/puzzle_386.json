@@ -157,7 +157,7 @@
       "row": 0,
       "col": 5,
       "length": 6,
-      "clue": "Çözülmesi zor olan gizemli durum; içinden çıkılmaz sır.",
+      "clue": "Çözülmesi zor olan gizemli durum; içinden çıkılmaz sır (6 harf) [B386-S1]",
       "answer": "MUAMMA"
     },
     {
@@ -166,7 +166,7 @@
       "row": 2,
       "col": 2,
       "length": 5,
-      "clue": "Beklenmedik bir durum karşısında gösterilen aceleci ve tedirgin hal.",
+      "clue": "Beklenmedik bir durum karşısında gösterilen aceleci ve tedirgin hal (5 harf) [B386-S2]",
       "answer": "TELAŞ"
     },
     {
@@ -175,7 +175,7 @@
       "row": 3,
       "col": 8,
       "length": 6,
-      "clue": "Uzakta olan bir sevgiliyi ya da yeri özlemenin içe işleyen duygusu.",
+      "clue": "Uzakta olan bir sevgiliyi ya da yeri özlemenin içe işleyen duygusu (6 harf) [B386-S3]",
       "answer": "HASRET"
     },
     {
@@ -184,7 +184,7 @@
       "row": 4,
       "col": 3,
       "length": 4,
-      "clue": "Sıkıntılı ya da zor bir durumu ortadan kaldıracak çözüm yolu.",
+      "clue": "Sıkıntılı ya da zor bir durumu ortadan kaldıracak çözüm yolu (4 harf) [B386-S4]",
       "answer": "ÇARE"
     },
     {
@@ -193,7 +193,7 @@
       "row": 4,
       "col": 5,
       "length": 5,
-      "clue": "Bir olayın geçtiği ya da bir şeyin bulunduğu belirli yer; mahal.",
+      "clue": "Bir olayın geçtiği ya da bir şeyin bulunduğu belirli yer; mahal (5 harf) [B386-S5]",
       "answer": "MEKAN"
     },
     {
@@ -202,7 +202,7 @@
       "row": 5,
       "col": 2,
       "length": 4,
-      "clue": "Bir sözcüğün ya da cümlenin ardında yatan anlam; içerdiği kavram.",
+      "clue": "Bir sözcüğün ya da cümlenin ardında yatan anlam; içerdiği kavram (4 harf) [B386-S6]",
       "answer": "MANA"
     },
     {
@@ -211,7 +211,7 @@
       "row": 6,
       "col": 1,
       "length": 5,
-      "clue": "Sayılarla yapılan dört işlem; gelir ve giderin tutulduğu kayıt.",
+      "clue": "Sayılarla yapılan dört işlem; gelir ve giderin tutulduğu kayıt (5 harf) [B386-S7]",
       "answer": "HESAP"
     },
     {
@@ -220,7 +220,7 @@
       "row": 7,
       "col": 0,
       "length": 5,
-      "clue": "Bir yapının ayakta durmasını sağlayan, toprağa gömülü olan ilk bölümü.",
+      "clue": "Bir yapının ayakta durmasını sağlayan, toprağa gömülü olan ilk bölümü (5 harf) [B386-S8]",
       "answer": "TEMEL"
     },
     {
@@ -229,7 +229,7 @@
       "row": 9,
       "col": 0,
       "length": 6,
-      "clue": "Uzun kasasında büyük yükler taşıyan, dört tekerlekten fazlası olan taşıt.",
+      "clue": "Uzun kasasında büyük yükler taşıyan, dört tekerlekten fazlası olan taşıt (6 harf) [B386-S9]",
       "answer": "KAMYON"
     },
     {
@@ -238,7 +238,7 @@
       "row": 9,
       "col": 3,
       "length": 3,
-      "clue": "Üzerinde durduğumuz zemin; bir olayın geçtiği konum.",
+      "clue": "Üzerinde durduğumuz zemin; bir olayın geçtiği konum (3 harf) [B386-S10]",
       "answer": "YER"
     }
   ]

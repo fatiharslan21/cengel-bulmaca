@@ -112,7 +112,7 @@
       "row": 0,
       "col": 1,
       "length": 3,
-      "clue": "Sayıların başlangıcı olan, tek adedi gösteren ilk doğal rakam.",
+      "clue": "Sayıların başlangıcı olan, tek adedi gösteren ilk doğal rakam (3 harf) [B451-S1]",
       "answer": "BİR"
     },
     {
@@ -121,7 +121,7 @@
       "row": 0,
       "col": 4,
       "length": 5,
-      "clue": "Ölünün toprağa verildiği, başında taş bulunan defin yeri; kabir.",
+      "clue": "Ölünün toprağa verildiği, başında taş bulunan defin yeri; kabir (5 harf) [B451-S2]",
       "answer": "MEZAR"
     },
     {
@@ -130,7 +130,7 @@
       "row": 1,
       "col": 1,
       "length": 5,
-      "clue": "Ahlaki ölçülere bağlı kalma; namusu ve temizliği koruma hali.",
+      "clue": "Ahlaki ölçülere bağlı kalma; namusu ve temizliği koruma hali (5 harf) [B451-S3]",
       "answer": "İFFET"
     },
     {
@@ -139,7 +139,7 @@
       "row": 4,
       "col": 2,
       "length": 3,
-      "clue": "Alevi sönmüş ama sıcaklığı ve kızıllığı süren yanmakta olan parça.",
+      "clue": "Alevi sönmüş ama sıcaklığı ve kızıllığı süren yanmakta olan parça (3 harf) [B451-S4]",
       "answer": "KOR"
     },
     {
@@ -148,7 +148,7 @@
       "row": 4,
       "col": 2,
       "length": 5,
-      "clue": "Saplı, parlak, kırmızı kabuklu; ilkbaharın sonunda olgunlaşan tatlı meyve.",
+      "clue": "Saplı, parlak, kırmızı kabuklu; ilkbaharın sonunda olgunlaşan tatlı meyve (5 harf) [B451-S4]",
       "answer": "KİRAZ"
     },
     {
@@ -157,7 +157,7 @@
       "row": 5,
       "col": 6,
       "length": 3,
-      "clue": "İçindeki dilin sallanmasıyla ses çıkaran, koni biçimli madeni araç.",
+      "clue": "İçindeki dilin sallanmasıyla ses çıkaran, koni biçimli madeni araç (3 harf) [B451-S5]",
       "answer": "ÇAN"
     },
     {
@@ -166,7 +166,7 @@
       "row": 6,
       "col": 0,
       "length": 7,
-      "clue": "Sürüler halinde yaşayan, küçük gövdesine rağmen iri yükleri taşıyan böcek.",
+      "clue": "Sürüler halinde yaşayan, küçük gövdesine rağmen iri yükleri taşıyan böcek (7 harf) [B451-S6]",
       "answer": "KARINCA"
     },
     {
@@ -175,7 +175,7 @@
       "row": 6,
       "col": 4,
       "length": 5,
-      "clue": "Bir cümlenin sonuna konan en küçük yazı işareti; konumun kendisi.",
+      "clue": "Bir cümlenin sonuna konan en küçük yazı işareti; konumun kendisi (5 harf) [B451-S7]",
       "answer": "NOKTA"
     },
     {
@@ -184,7 +184,7 @@
       "row": 8,
       "col": 0,
       "length": 3,
-      "clue": "Suyun sıfır derecenin altına inerek katılaşmasıyla meydana gelen madde.",
+      "clue": "Suyun sıfır derecenin altına inerek katılaşmasıyla meydana gelen madde (3 harf) [B451-S8]",
       "answer": "BUZ"
     },
     {
@@ -193,7 +193,7 @@
       "row": 10,
       "col": 1,
       "length": 4,
-      "clue": "İnanmadığı halde inanıyormuş gibi davranma; iki yüzlü tavır.",
+      "clue": "İnanmadığı halde inanıyormuş gibi davranma; iki yüzlü tavır (4 harf) [B451-S9]",
       "answer": "RİYA"
     }
   ]

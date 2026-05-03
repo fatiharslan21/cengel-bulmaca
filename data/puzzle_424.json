@@ -145,7 +145,7 @@
       "row": 0,
       "col": 5,
       "length": 4,
-      "clue": "Başımızın üstünde uzanan mavi kubbe; yıldızları barındıran gökyüzü.",
+      "clue": "Başımızın üstünde uzanan mavi kubbe; yıldızları barındıran gökyüzü (4 harf) [B424-S1]",
       "answer": "SEMA"
     },
     {
@@ -154,7 +154,7 @@
       "row": 0,
       "col": 5,
       "length": 5,
-      "clue": "Yüreği saran, insanı kendinden geçiren güçlü aşk ve tutku.",
+      "clue": "Yüreği saran, insanı kendinden geçiren güçlü aşk ve tutku (5 harf) [B424-S1]",
       "answer": "SEVDA"
     },
     {
@@ -163,7 +163,7 @@
       "row": 2,
       "col": 7,
       "length": 5,
-      "clue": "Uygunsuz bir durumda duyulan utanç; insanın yüzünü gizleme isteği.",
+      "clue": "Uygunsuz bir durumda duyulan utanç; insanın yüzünü gizleme isteği (5 harf) [B424-S2]",
       "answer": "HİCAP"
     },
     {
@@ -172,7 +172,7 @@
       "row": 3,
       "col": 4,
       "length": 5,
-      "clue": "İnsanın ömür boyu karşılaştığı iyi ya da kötü raslantıların tümü; baht.",
+      "clue": "İnsanın ömür boyu karşılaştığı iyi ya da kötü raslantıların tümü; baht (5 harf) [B424-S3]",
       "answer": "TALİH"
     },
     {
@@ -181,7 +181,7 @@
       "row": 3,
       "col": 4,
       "length": 5,
-      "clue": "Beklenmedik bir durum karşısında gösterilen aceleci ve tedirgin hal.",
+      "clue": "Beklenmedik bir durum karşısında gösterilen aceleci ve tedirgin hal (5 harf) [B424-S3]",
       "answer": "TELAŞ"
     },
     {
@@ -190,7 +190,7 @@
       "row": 4,
       "col": 1,
       "length": 4,
-      "clue": "Kalınlığı az olan; zarif ve narin yapıda bulunan; kalının karşıtı.",
+      "clue": "Kalınlığı az olan; zarif ve narin yapıda bulunan; kalının karşıtı (4 harf) [B424-S4]",
       "answer": "İNCE"
     },
     {
@@ -199,7 +199,7 @@
       "row": 5,
       "col": 6,
       "length": 3,
-      "clue": "Demirin hava ve nemle temas ederek zamanla üzerinde oluşturduğu kızıl tabaka.",
+      "clue": "Demirin hava ve nemle temas ederek zamanla üzerinde oluşturduğu kızıl tabaka (3 harf) [B424-S5]",
       "answer": "PAS"
     },
     {
@@ -208,7 +208,7 @@
       "row": 6,
       "col": 0,
       "length": 6,
-      "clue": "Zayıfa ve çaresize duyulan içten sevgi; acıyarak sarılma duygusu.",
+      "clue": "Zayıfa ve çaresize duyulan içten sevgi; acıyarak sarılma duygusu (6 harf) [B424-S6]",
       "answer": "ŞEFKAT"
     },
     {
@@ -217,7 +217,7 @@
       "row": 6,
       "col": 2,
       "length": 5,
-      "clue": "Birbirinden ayrı düşen sevgililerin yaşadığı acı dolu ayrılık.",
+      "clue": "Birbirinden ayrı düşen sevgililerin yaşadığı acı dolu ayrılık (5 harf) [B424-S7]",
       "answer": "FIRAK"
     },
     {
@@ -226,7 +226,7 @@
       "row": 9,
       "col": 1,
       "length": 5,
-      "clue": "Göze ve gönle hoş gelen, nazik ve yumuşak huylu; incelikli olan.",
+      "clue": "Göze ve gönle hoş gelen, nazik ve yumuşak huylu; incelikli olan (5 harf) [B424-S8]",
       "answer": "LATİF"
     }
   ]

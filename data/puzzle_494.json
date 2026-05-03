@@ -167,7 +167,7 @@
       "row": 0,
       "col": 9,
       "length": 6,
-      "clue": "Herkesin duyup tanıdığı; adını çevresinin çok ötesine taşıyan ün.",
+      "clue": "Herkesin duyup tanıdığı; adını çevresinin çok ötesine taşıyan ün (6 harf) [B494-S1]",
       "answer": "ŞÖHRET"
     },
     {
@@ -176,7 +176,7 @@
       "row": 1,
       "col": 4,
       "length": 6,
-      "clue": "Her takımdan on bir oyuncunun sahada top üzerinde oynadığı dünya sporu.",
+      "clue": "Her takımdan on bir oyuncunun sahada top üzerinde oynadığı dünya sporu (6 harf) [B494-S2]",
       "answer": "FUTBOL"
     },
     {
@@ -185,7 +185,7 @@
       "row": 1,
       "col": 7,
       "length": 4,
-      "clue": "Bir kimseyle ayrılırken söylenen son söz; ayrılık selamı.",
+      "clue": "Bir kimseyle ayrılırken söylenen son söz; ayrılık selamı (4 harf) [B494-S3]",
       "answer": "VEDA"
     },
     {
@@ -194,7 +194,7 @@
       "row": 1,
       "col": 11,
       "length": 5,
-      "clue": "Bir milletin kuşaklar boyunca konuşup yazdığı ortak iletişim dizgesi.",
+      "clue": "Bir milletin kuşaklar boyunca konuşup yazdığı ortak iletişim dizgesi (5 harf) [B494-S4]",
       "answer": "LİSAN"
     },
     {
@@ -203,7 +203,7 @@
       "row": 3,
       "col": 4,
       "length": 6,
-      "clue": "Bir kişinin emeğini ya da başarısını görüp açıkça beğenip övme.",
+      "clue": "Bir kişinin emeğini ya da başarısını görüp açıkça beğenip övme (6 harf) [B494-S5]",
       "answer": "TAKDİR"
     },
     {
@@ -212,7 +212,7 @@
       "row": 5,
       "col": 1,
       "length": 5,
-      "clue": "Yelkenli ya da motorlu olup denizde kısa yolculuklara çıkan küçük gemi.",
+      "clue": "Yelkenli ya da motorlu olup denizde kısa yolculuklara çıkan küçük gemi (5 harf) [B494-S6]",
       "answer": "TEKNE"
     },
     {
@@ -221,7 +221,7 @@
       "row": 5,
       "col": 9,
       "length": 3,
-      "clue": "Bin kilograma eşit olan büyük ağırlık ölçü birimi.",
+      "clue": "Bin kilograma eşit olan büyük ağırlık ölçü birimi (3 harf) [B494-S7]",
       "answer": "TON"
     },
     {
@@ -230,7 +230,7 @@
       "row": 6,
       "col": 1,
       "length": 4,
-      "clue": "Kavuşulması için yıllarca beklenen, gönülde taşınan büyük istek.",
+      "clue": "Kavuşulması için yıllarca beklenen, gönülde taşınan büyük istek (4 harf) [B494-S8]",
       "answer": "EMEL"
     },
     {
@@ -239,7 +239,7 @@
       "row": 8,
       "col": 3,
       "length": 3,
-      "clue": "Damarlarda dolaşarak vücuda oksijen taşıyan kırmızı renkli canlı sıvı.",
+      "clue": "Damarlarda dolaşarak vücuda oksijen taşıyan kırmızı renkli canlı sıvı (3 harf) [B494-S9]",
       "answer": "KAN"
     },
     {
@@ -248,7 +248,7 @@
       "row": 9,
       "col": 0,
       "length": 5,
-      "clue": "Beklenmedik bir durum karşısında gösterilen aceleci ve tedirgin hal.",
+      "clue": "Beklenmedik bir durum karşısında gösterilen aceleci ve tedirgin hal (5 harf) [B494-S10]",
       "answer": "TELAŞ"
     }
   ]

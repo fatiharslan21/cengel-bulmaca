@@ -117,7 +117,7 @@
       "row": 0,
       "col": 0,
       "length": 5,
-      "clue": "Bir kimsenin toplumdaki yeri, konumu ya da makamı.",
+      "clue": "Bir kimsenin toplumdaki yeri, konumu ya da makamı (5 harf) [B259-S1]",
       "answer": "MEVKİ"
     },
     {
@@ -126,7 +126,7 @@
       "row": 0,
       "col": 4,
       "length": 5,
-      "clue": "Hayatta yükselme, talih kuşunun başa konması; mevki sahibi olma.",
+      "clue": "Hayatta yükselme, talih kuşunun başa konması; mevki sahibi olma (5 harf) [B259-S2]",
       "answer": "İKBAL"
     },
     {
@@ -135,7 +135,7 @@
       "row": 1,
       "col": 6,
       "length": 5,
-      "clue": "Dünyanın farklı bölgelerini gösteren haritaların toplandığı büyük kitap.",
+      "clue": "Dünyanın farklı bölgelerini gösteren haritaların toplandığı büyük kitap (5 harf) [B259-S3]",
       "answer": "ATLAS"
     },
     {
@@ -144,7 +144,7 @@
       "row": 1,
       "col": 7,
       "length": 3,
-      "clue": "Bin kilograma eşit olan büyük ağırlık ölçü birimi.",
+      "clue": "Bin kilograma eşit olan büyük ağırlık ölçü birimi (3 harf) [B259-S4]",
       "answer": "TON"
     },
     {
@@ -153,7 +153,7 @@
       "row": 2,
       "col": 1,
       "length": 4,
-      "clue": "Yolcuların ücret karşılığı geceyi geçirdiği, odaları olan konaklama işletmesi.",
+      "clue": "Yolcuların ücret karşılığı geceyi geçirdiği, odaları olan konaklama işletmesi (4 harf) [B259-S5]",
       "answer": "OTEL"
     },
     {
@@ -162,7 +162,7 @@
       "row": 3,
       "col": 4,
       "length": 4,
-      "clue": "Üzerinde yapı bulunmayan, belli sınırlarla çevrili geniş açık düzlük.",
+      "clue": "Üzerinde yapı bulunmayan, belli sınırlarla çevrili geniş açık düzlük (4 harf) [B259-S6]",
       "answer": "ALAN"
     },
     {
@@ -171,7 +171,7 @@
       "row": 3,
       "col": 6,
       "length": 3,
-      "clue": "Bir üstün ya da yetkilinin önüne saygıyla sunma, takdim etme eylemi.",
+      "clue": "Bir üstün ya da yetkilinin önüne saygıyla sunma, takdim etme eylemi (3 harf) [B259-S7]",
       "answer": "ARZ"
     },
     {
@@ -180,7 +180,7 @@
       "row": 4,
       "col": 0,
       "length": 5,
-      "clue": "Bir şeyin eksiksiz, kusursuz ve en üst düzeyde olgunlaşmış hali.",
+      "clue": "Bir şeyin eksiksiz, kusursuz ve en üst düzeyde olgunlaşmış hali (5 harf) [B259-S8]",
       "answer": "KEMAL"
     },
     {
@@ -189,7 +189,7 @@
       "row": 4,
       "col": 3,
       "length": 4,
-      "clue": "Toprağa kök salmış, gövdesi odunlaşmış, uzun ömürlü büyük bitki.",
+      "clue": "Toprağa kök salmış, gövdesi odunlaşmış, uzun ömürlü büyük bitki (4 harf) [B259-S9]",
       "answer": "AĞAÇ"
     },
     {
@@ -198,7 +198,7 @@
       "row": 6,
       "col": 2,
       "length": 4,
-      "clue": "Dinde kesinlikle yerine getirilmesi emredilen, zorunlu olan yükümlülük.",
+      "clue": "Dinde kesinlikle yerine getirilmesi emredilen, zorunlu olan yükümlülük (4 harf) [B259-S10]",
       "answer": "FARZ"
     }
   ]

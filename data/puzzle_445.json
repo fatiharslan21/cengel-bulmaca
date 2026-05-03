@@ -133,7 +133,7 @@
       "row": 0,
       "col": 2,
       "length": 4,
-      "clue": "Denizde yük ya da yolcu taşımak için yapılmış büyük su taşıtı.",
+      "clue": "Denizde yük ya da yolcu taşımak için yapılmış büyük su taşıtı (4 harf) [B445-S1]",
       "answer": "GEMİ"
     },
     {
@@ -142,7 +142,7 @@
       "row": 0,
       "col": 4,
       "length": 4,
-      "clue": "Toprağın üstünde ya da altında bulunan, kolay parçalanmayan büyük taş.",
+      "clue": "Toprağın üstünde ya da altında bulunan, kolay parçalanmayan büyük taş (4 harf) [B445-S2]",
       "answer": "KAYA"
     },
     {
@@ -151,7 +151,7 @@
       "row": 1,
       "col": 1,
       "length": 5,
-      "clue": "Varlığı yerinde durmayıp sona ermesi; yokluğa geçme hali.",
+      "clue": "Varlığı yerinde durmayıp sona ermesi; yokluğa geçme hali (5 harf) [B445-S3]",
       "answer": "ZEVAL"
     },
     {
@@ -160,7 +160,7 @@
       "row": 2,
       "col": 6,
       "length": 4,
-      "clue": "İstemeden yapılan yanlış; doğru olandan sapmanın yol açtığı kusur.",
+      "clue": "İstemeden yapılan yanlış; doğru olandan sapmanın yol açtığı kusur (4 harf) [B445-S4]",
       "answer": "HATA"
     },
     {
@@ -169,7 +169,7 @@
       "row": 3,
       "col": 4,
       "length": 4,
-      "clue": "Üzerinde yapı bulunmayan, belli sınırlarla çevrili geniş açık düzlük.",
+      "clue": "Üzerinde yapı bulunmayan, belli sınırlarla çevrili geniş açık düzlük (4 harf) [B445-S5]",
       "answer": "ALAN"
     },
     {
@@ -178,7 +178,7 @@
       "row": 5,
       "col": 2,
       "length": 5,
-      "clue": "Mektup ve paketlerin toplanıp yerine ulaştırıldığı geleneksel iletişim hizmeti.",
+      "clue": "Mektup ve paketlerin toplanıp yerine ulaştırıldığı geleneksel iletişim hizmeti (5 harf) [B445-S6]",
       "answer": "POSTA"
     },
     {
@@ -187,7 +187,7 @@
       "row": 5,
       "col": 4,
       "length": 5,
-      "clue": "Zorluklara dayanıp isyan etmeden bekleyebilme; hoşgörü ile katlanma.",
+      "clue": "Zorluklara dayanıp isyan etmeden bekleyebilme; hoşgörü ile katlanma (5 harf) [B445-S7]",
       "answer": "SABIR"
     },
     {
@@ -196,7 +196,7 @@
       "row": 7,
       "col": 2,
       "length": 3,
-      "clue": "Bir üstün ya da yetkilinin önüne saygıyla sunma, takdim etme eylemi.",
+      "clue": "Bir üstün ya da yetkilinin önüne saygıyla sunma, takdim etme eylemi (3 harf) [B445-S8]",
       "answer": "ARZ"
     },
     {
@@ -205,7 +205,7 @@
       "row": 7,
       "col": 4,
       "length": 6,
-      "clue": "Geceleri ötüşüyle tanınan, sesi şiirlere konu olmuş küçük kahverengi kuş.",
+      "clue": "Geceleri ötüşüyle tanınan, sesi şiirlere konu olmuş küçük kahverengi kuş (6 harf) [B445-S9]",
       "answer": "BÜLBÜL"
     },
     {
@@ -214,7 +214,7 @@
       "row": 9,
       "col": 0,
       "length": 5,
-      "clue": "İç sıkıntısının olmadığı, gönlün rahat ettiği dingin ruh hali.",
+      "clue": "İç sıkıntısının olmadığı, gönlün rahat ettiği dingin ruh hali (5 harf) [B445-S10]",
       "answer": "HUZUR"
     }
   ]

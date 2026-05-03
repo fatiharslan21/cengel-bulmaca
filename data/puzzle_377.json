@@ -109,7 +109,7 @@
       "row": 0,
       "col": 0,
       "length": 5,
-      "clue": "Güneşin doğmasıyla başlayıp öğleye kadar süren günün ilk dilimi.",
+      "clue": "Güneşin doğmasıyla başlayıp öğleye kadar süren günün ilk dilimi (5 harf) [B377-S1]",
       "answer": "SABAH"
     },
     {
@@ -118,7 +118,7 @@
       "row": 1,
       "col": 2,
       "length": 5,
-      "clue": "Sanatçının ya da düşünürün içine birden doğan yaratıcı esin kaynağı.",
+      "clue": "Sanatçının ya da düşünürün içine birden doğan yaratıcı esin kaynağı (5 harf) [B377-S2]",
       "answer": "İLHAM"
     },
     {
@@ -127,7 +127,7 @@
       "row": 1,
       "col": 2,
       "length": 5,
-      "clue": "Hayatta yükselme, talih kuşunun başa konması; mevki sahibi olma.",
+      "clue": "Hayatta yükselme, talih kuşunun başa konması; mevki sahibi olma (5 harf) [B377-S2]",
       "answer": "İKBAL"
     },
     {
@@ -136,7 +136,7 @@
       "row": 2,
       "col": 0,
       "length": 3,
-      "clue": "Yeteri kadarının üstünde, çokça bulunan; dar sözcüğünün zıttı sayılan.",
+      "clue": "Yeteri kadarının üstünde, çokça bulunan; dar sözcüğünün zıttı sayılan (3 harf) [B377-S3]",
       "answer": "BOL"
     },
     {
@@ -145,7 +145,7 @@
       "row": 3,
       "col": 6,
       "length": 5,
-      "clue": "İnsanın pek rastlanmadığı, sessiz ve ıssız kalmış mekân.",
+      "clue": "İnsanın pek rastlanmadığı, sessiz ve ıssız kalmış mekân (5 harf) [B377-S4]",
       "answer": "TENHA"
     },
     {
@@ -154,7 +154,7 @@
       "row": 3,
       "col": 6,
       "length": 4,
-      "clue": "Anadolu ve çevresinde yaşayan, Orta Asya kökenli büyük millet.",
+      "clue": "Anadolu ve çevresinde yaşayan, Orta Asya kökenli büyük millet (4 harf) [B377-S4]",
       "answer": "TÜRK"
     },
     {
@@ -163,7 +163,7 @@
       "row": 4,
       "col": 2,
       "length": 3,
-      "clue": "Eskiden köylerde geniş topraklara sahip, sözü geçen nüfuzlu kişi.",
+      "clue": "Eskiden köylerde geniş topraklara sahip, sözü geçen nüfuzlu kişi (3 harf) [B377-S5]",
       "answer": "AĞA"
     },
     {
@@ -172,7 +172,7 @@
       "row": 4,
       "col": 4,
       "length": 3,
-      "clue": "Dört bir yanı suyla çevrili, denizin ortasında kalmış toprak parçası.",
+      "clue": "Dört bir yanı suyla çevrili, denizin ortasında kalmış toprak parçası (3 harf) [B377-S6]",
       "answer": "ADA"
     },
     {
@@ -181,7 +181,7 @@
       "row": 5,
       "col": 4,
       "length": 3,
-      "clue": "Havanın ısısının düşmesiyle suların yüzeyde buz tutması olayı.",
+      "clue": "Havanın ısısının düşmesiyle suların yüzeyde buz tutması olayı (3 harf) [B377-S7]",
       "answer": "DON"
     },
     {
@@ -190,7 +190,7 @@
       "row": 7,
       "col": 5,
       "length": 3,
-      "clue": "Omuzlara atılan ya da başa örtülen, yumuşak geniş kumaş parçası.",
+      "clue": "Omuzlara atılan ya da başa örtülen, yumuşak geniş kumaş parçası (3 harf) [B377-S8]",
       "answer": "ŞAL"
     }
   ]

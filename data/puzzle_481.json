@@ -145,7 +145,7 @@
       "row": 0,
       "col": 1,
       "length": 3,
-      "clue": "Soğuk havada bulutlardan düşen, altıgen kristallerden oluşan beyaz yağış.",
+      "clue": "Soğuk havada bulutlardan düşen, altıgen kristallerden oluşan beyaz yağış (3 harf) [B481-S1]",
       "answer": "KAR"
     },
     {
@@ -154,7 +154,7 @@
       "row": 0,
       "col": 6,
       "length": 4,
-      "clue": "Eskiyip yırtılan giysiyi onarmak için üstüne dikilen küçük kumaş parçası.",
+      "clue": "Eskiyip yırtılan giysiyi onarmak için üstüne dikilen küçük kumaş parçası (4 harf) [B481-S2]",
       "answer": "YAMA"
     },
     {
@@ -163,7 +163,7 @@
       "row": 1,
       "col": 0,
       "length": 5,
-      "clue": "Zorluklara dayanıp isyan etmeden bekleyebilme; hoşgörü ile katlanma.",
+      "clue": "Zorluklara dayanıp isyan etmeden bekleyebilme; hoşgörü ile katlanma (5 harf) [B481-S3]",
       "answer": "SABIR"
     },
     {
@@ -172,7 +172,7 @@
       "row": 1,
       "col": 4,
       "length": 5,
-      "clue": "Aynı amaca ulaşmak için karşı karşıya gelen, yarış halindeki hasım.",
+      "clue": "Aynı amaca ulaşmak için karşı karşıya gelen, yarış halindeki hasım (5 harf) [B481-S4]",
       "answer": "RAKİP"
     },
     {
@@ -181,7 +181,7 @@
       "row": 1,
       "col": 6,
       "length": 3,
-      "clue": "Tatlının tam karşıtı olan, biberin ya da kederin bıraktığı keskin duygu.",
+      "clue": "Tatlının tam karşıtı olan, biberin ya da kederin bıraktığı keskin duygu (3 harf) [B481-S5]",
       "answer": "ACI"
     },
     {
@@ -190,7 +190,7 @@
       "row": 3,
       "col": 2,
       "length": 5,
-      "clue": "Bir cümlenin sonuna konan en küçük yazı işareti; konumun kendisi.",
+      "clue": "Bir cümlenin sonuna konan en küçük yazı işareti; konumun kendisi (5 harf) [B481-S6]",
       "answer": "NOKTA"
     },
     {
@@ -199,7 +199,7 @@
       "row": 5,
       "col": 4,
       "length": 5,
-      "clue": "Pencereyi örtmek için asılan, ışığı ve dışarıdan görünmeyi engelleyen kumaş.",
+      "clue": "Pencereyi örtmek için asılan, ışığı ve dışarıdan görünmeyi engelleyen kumaş (5 harf) [B481-S7]",
       "answer": "PERDE"
     },
     {
@@ -208,7 +208,7 @@
       "row": 5,
       "col": 7,
       "length": 3,
-      "clue": "Bir ağacın gövdesinden yanlara doğru uzayan ve yapraklarını taşıyan kol.",
+      "clue": "Bir ağacın gövdesinden yanlara doğru uzayan ve yapraklarını taşıyan kol (3 harf) [B481-S8]",
       "answer": "DAL"
     },
     {
@@ -217,7 +217,7 @@
       "row": 7,
       "col": 5,
       "length": 3,
-      "clue": "Çanak çömlek yapımında kullanılan, suyla yumuşayan yapışkan toprak.",
+      "clue": "Çanak çömlek yapımında kullanılan, suyla yumuşayan yapışkan toprak (3 harf) [B481-S9]",
       "answer": "KİL"
     },
     {
@@ -226,7 +226,7 @@
       "row": 7,
       "col": 5,
       "length": 5,
-      "clue": "Bir nehrin ya da vadinin iki yakasını birbirine bağlayan geçit yapısı.",
+      "clue": "Bir nehrin ya da vadinin iki yakasını birbirine bağlayan geçit yapısı (5 harf) [B481-S9]",
       "answer": "KÖPRÜ"
     }
   ]

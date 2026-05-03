@@ -133,7 +133,7 @@
       "row": 0,
       "col": 4,
       "length": 6,
-      "clue": "Bir işi başarmak için katlanılan güçlük; çekilen eziyet.",
+      "clue": "Bir işi başarmak için katlanılan güçlük; çekilen eziyet (6 harf) [B308-S1]",
       "answer": "ZAHMET"
     },
     {
@@ -142,7 +142,7 @@
       "row": 1,
       "col": 3,
       "length": 3,
-      "clue": "Derin ve dik uçurum; aynı zamanda sevilen kişi için kullanılan şiirsel ad.",
+      "clue": "Derin ve dik uçurum; aynı zamanda sevilen kişi için kullanılan şiirsel ad (3 harf) [B308-S2]",
       "answer": "YAR"
     },
     {
@@ -151,7 +151,7 @@
       "row": 3,
       "col": 2,
       "length": 5,
-      "clue": "Bir yapının ayakta durmasını sağlayan, toprağa gömülü olan ilk bölümü.",
+      "clue": "Bir yapının ayakta durmasını sağlayan, toprağa gömülü olan ilk bölümü (5 harf) [B308-S3]",
       "answer": "TEMEL"
     },
     {
@@ -160,7 +160,7 @@
       "row": 3,
       "col": 6,
       "length": 5,
-      "clue": "Gemilerin yük boşalttığı, fırtınadan korunarak demirlediği deniz kıyısı.",
+      "clue": "Gemilerin yük boşalttığı, fırtınadan korunarak demirlediği deniz kıyısı (5 harf) [B308-S4]",
       "answer": "LİMAN"
     },
     {
@@ -169,7 +169,7 @@
       "row": 4,
       "col": 9,
       "length": 5,
-      "clue": "İçindeki ampulle çalışan, karanlık odayı aydınlatan elektrikli araç.",
+      "clue": "İçindeki ampulle çalışan, karanlık odayı aydınlatan elektrikli araç (5 harf) [B308-S5]",
       "answer": "LAMBA"
     },
     {
@@ -178,7 +178,7 @@
       "row": 5,
       "col": 1,
       "length": 4,
-      "clue": "Nüfusu kalabalık, altyapısı gelişmiş, şehir niteliğindeki yerleşim yeri.",
+      "clue": "Nüfusu kalabalık, altyapısı gelişmiş, şehir niteliğindeki yerleşim yeri (4 harf) [B308-S6]",
       "answer": "KENT"
     },
     {
@@ -187,7 +187,7 @@
       "row": 5,
       "col": 3,
       "length": 5,
-      "clue": "Bir şeyin bir yerden başka bir yere taşınması; aktarma işlemi.",
+      "clue": "Bir şeyin bir yerden başka bir yere taşınması; aktarma işlemi (5 harf) [B308-S7]",
       "answer": "NAKİL"
     },
     {
@@ -196,7 +196,7 @@
       "row": 6,
       "col": 5,
       "length": 5,
-      "clue": "Sonu kötü olabilecek; durumun ne kadar ağır olduğunu gösteren sıfat.",
+      "clue": "Sonu kötü olabilecek; durumun ne kadar ağır olduğunu gösteren sıfat (5 harf) [B308-S8]",
       "answer": "VAHİM"
     },
     {
@@ -205,7 +205,7 @@
       "row": 7,
       "col": 0,
       "length": 4,
-      "clue": "İçten doğan büyük istek; insanı coşturan şiddetli arzu ve heves.",
+      "clue": "İçten doğan büyük istek; insanı coşturan şiddetli arzu ve heves (4 harf) [B308-S9]",
       "answer": "ŞEVK"
     },
     {
@@ -214,7 +214,7 @@
       "row": 9,
       "col": 1,
       "length": 5,
-      "clue": "Bir kimsenin bir şey için yaptığı istek; dile getirilen açık dilek.",
+      "clue": "Bir kimsenin bir şey için yaptığı istek; dile getirilen açık dilek (5 harf) [B308-S10]",
       "answer": "TALEP"
     }
   ]

@@ -101,7 +101,7 @@
       "row": 0,
       "col": 4,
       "length": 3,
-      "clue": "Sevdiğine karşı gösterilen hafif cilve; yapmacık çekingenlik.",
+      "clue": "Sevdiğine karşı gösterilen hafif cilve; yapmacık çekingenlik (3 harf) [B98-S1]",
       "answer": "NAZ"
     },
     {
@@ -110,7 +110,7 @@
       "row": 2,
       "col": 2,
       "length": 3,
-      "clue": "Kırmızı ile mavinin karışımından elde edilen, menekşe renginde koyu ton.",
+      "clue": "Kırmızı ile mavinin karışımından elde edilen, menekşe renginde koyu ton (3 harf) [B98-S2]",
       "answer": "MOR"
     },
     {
@@ -119,7 +119,7 @@
       "row": 2,
       "col": 2,
       "length": 5,
-      "clue": "Seslerin belli bir düzen içinde bir araya getirilmesiyle oluşan sanat.",
+      "clue": "Seslerin belli bir düzen içinde bir araya getirilmesiyle oluşan sanat (5 harf) [B98-S2]",
       "answer": "MÜZİK"
     },
     {
@@ -128,7 +128,7 @@
       "row": 2,
       "col": 6,
       "length": 3,
-      "clue": "İçine sıvı ya da katı maddeler konulan her türlü şekilli eşya.",
+      "clue": "İçine sıvı ya da katı maddeler konulan her türlü şekilli eşya (3 harf) [B98-S3]",
       "answer": "KAP"
     },
     {
@@ -137,7 +137,7 @@
       "row": 3,
       "col": 8,
       "length": 4,
-      "clue": "Bir sanatçının ya da yazarın ortaya koyduğu özgün yapıt.",
+      "clue": "Bir sanatçının ya da yazarın ortaya koyduğu özgün yapıt (4 harf) [B98-S4]",
       "answer": "ESER"
     },
     {
@@ -146,7 +146,7 @@
       "row": 4,
       "col": 0,
       "length": 4,
-      "clue": "Bir kimsenin doğup büyüdüğü vatanı; ait olduğu aziz memleket.",
+      "clue": "Bir kimsenin doğup büyüdüğü vatanı; ait olduğu aziz memleket (4 harf) [B98-S5]",
       "answer": "YURT"
     },
     {
@@ -155,7 +155,7 @@
       "row": 4,
       "col": 1,
       "length": 4,
-      "clue": "Aradaki mesafenin çok olduğu; yakınlığı hissedilmeyen ötelerdeki yer.",
+      "clue": "Aradaki mesafenin çok olduğu; yakınlığı hissedilmeyen ötelerdeki yer (4 harf) [B98-S6]",
       "answer": "UZAK"
     },
     {
@@ -164,7 +164,7 @@
       "row": 4,
       "col": 6,
       "length": 3,
-      "clue": "Demirin hava ve nemle temas ederek zamanla üzerinde oluşturduğu kızıl tabaka.",
+      "clue": "Demirin hava ve nemle temas ederek zamanla üzerinde oluşturduğu kızıl tabaka (3 harf) [B98-S7]",
       "answer": "PAS"
     },
     {
@@ -173,7 +173,7 @@
       "row": 6,
       "col": 0,
       "length": 4,
-      "clue": "Üzerinde yemek yemek ya da çalışmak için kullanılan ayaklı düz mobilya.",
+      "clue": "Üzerinde yemek yemek ya da çalışmak için kullanılan ayaklı düz mobilya (4 harf) [B98-S8]",
       "answer": "MASA"
     }
   ]

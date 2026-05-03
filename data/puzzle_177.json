@@ -145,7 +145,7 @@
       "row": 0,
       "col": 4,
       "length": 5,
-      "clue": "Bir cismin uzunluk, genişlik ve yükseklik gibi ölçülebilen özelliği.",
+      "clue": "Bir cismin uzunluk, genişlik ve yükseklik gibi ölçülebilen özelliği (5 harf) [B177-S1]",
       "answer": "BOYUT"
     },
     {
@@ -154,7 +154,7 @@
       "row": 0,
       "col": 5,
       "length": 4,
-      "clue": "Bir ülkenin savunmasını üstlenen, askerlerden oluşan silahlı kuvvetler.",
+      "clue": "Bir ülkenin savunmasını üstlenen, askerlerden oluşan silahlı kuvvetler (4 harf) [B177-S2]",
       "answer": "ORDU"
     },
     {
@@ -163,7 +163,7 @@
       "row": 2,
       "col": 0,
       "length": 4,
-      "clue": "Bir sanatçının ya da yazarın ortaya koyduğu özgün yapıt.",
+      "clue": "Bir sanatçının ya da yazarın ortaya koyduğu özgün yapıt (4 harf) [B177-S3]",
       "answer": "ESER"
     },
     {
@@ -172,7 +172,7 @@
       "row": 2,
       "col": 3,
       "length": 5,
-      "clue": "Programlanarak belirli işleri otomatik yapan mekanik insansı makine.",
+      "clue": "Programlanarak belirli işleri otomatik yapan mekanik insansı makine (5 harf) [B177-S4]",
       "answer": "ROBOT"
     },
     {
@@ -181,7 +181,7 @@
       "row": 3,
       "col": 3,
       "length": 4,
-      "clue": "Öğrencilerin öğretmenler tarafından eğitim aldığı resmî öğretim kurumu.",
+      "clue": "Öğrencilerin öğretmenler tarafından eğitim aldığı resmî öğretim kurumu (4 harf) [B177-S5]",
       "answer": "OKUL"
     },
     {
@@ -190,7 +190,7 @@
       "row": 6,
       "col": 3,
       "length": 5,
-      "clue": "Yelkenli ya da motorlu olup denizde kısa yolculuklara çıkan küçük gemi.",
+      "clue": "Yelkenli ya da motorlu olup denizde kısa yolculuklara çıkan küçük gemi (5 harf) [B177-S6]",
       "answer": "TEKNE"
     },
     {
@@ -199,7 +199,7 @@
       "row": 6,
       "col": 6,
       "length": 4,
-      "clue": "Müzik eserlerinde seslerin yükseklik ve uzunluğunu gösteren küçük simge.",
+      "clue": "Müzik eserlerinde seslerin yükseklik ve uzunluğunu gösteren küçük simge (4 harf) [B177-S7]",
       "answer": "NOTA"
     },
     {
@@ -208,7 +208,7 @@
       "row": 9,
       "col": 5,
       "length": 3,
-      "clue": "Bir ağacın gövdesinden yanlara doğru uzayan ve yapraklarını taşıyan kol.",
+      "clue": "Bir ağacın gövdesinden yanlara doğru uzayan ve yapraklarını taşıyan kol (3 harf) [B177-S8]",
       "answer": "DAL"
     },
     {
@@ -217,7 +217,7 @@
       "row": 9,
       "col": 5,
       "length": 3,
-      "clue": "Üstten sıkılan su ile yıkanmak üzere banyoya yerleştirilmiş düzenek.",
+      "clue": "Üstten sıkılan su ile yıkanmak üzere banyoya yerleştirilmiş düzenek (3 harf) [B177-S8]",
       "answer": "DUŞ"
     },
     {
@@ -226,7 +226,7 @@
       "row": 11,
       "col": 3,
       "length": 3,
-      "clue": "Ağızda bulunan, yiyecekleri kopartıp öğütmeye yarayan sert beyaz yapı.",
+      "clue": "Ağızda bulunan, yiyecekleri kopartıp öğütmeye yarayan sert beyaz yapı (3 harf) [B177-S9]",
       "answer": "DİŞ"
     }
   ]

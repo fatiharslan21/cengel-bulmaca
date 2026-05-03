@@ -97,7 +97,7 @@
       "row": 0,
       "col": 1,
       "length": 4,
-      "clue": "İnsanın başına habersizce gelen ağır dert, büyük sıkıntı ya da musibet.",
+      "clue": "İnsanın başına habersizce gelen ağır dert, büyük sıkıntı ya da musibet (4 harf) [B209-S1]",
       "answer": "BELA"
     },
     {
@@ -106,7 +106,7 @@
       "row": 1,
       "col": 6,
       "length": 3,
-      "clue": "Bir işi yapabilme yeteneği; fiziksel ya da manevi olarak sahip olunan kuvvet.",
+      "clue": "Bir işi yapabilme yeteneği; fiziksel ya da manevi olarak sahip olunan kuvvet (3 harf) [B209-S2]",
       "answer": "GÜÇ"
     },
     {
@@ -115,7 +115,7 @@
       "row": 1,
       "col": 8,
       "length": 4,
-      "clue": "Sıkıntılı ya da zor bir durumu ortadan kaldıracak çözüm yolu.",
+      "clue": "Sıkıntılı ya da zor bir durumu ortadan kaldıracak çözüm yolu (4 harf) [B209-S3]",
       "answer": "ÇARE"
     },
     {
@@ -124,7 +124,7 @@
       "row": 2,
       "col": 3,
       "length": 3,
-      "clue": "Konuşan kişinin kendisini belirtmek için kullandığı birinci tekil zamir.",
+      "clue": "Konuşan kişinin kendisini belirtmek için kullandığı birinci tekil zamir (3 harf) [B209-S4]",
       "answer": "BEN"
     },
     {
@@ -133,7 +133,7 @@
       "row": 2,
       "col": 3,
       "length": 3,
-      "clue": "İnsanın başından ayağına kadar olan uzunluğu; endam ya da kamet.",
+      "clue": "İnsanın başından ayağına kadar olan uzunluğu; endam ya da kamet (3 harf) [B209-S4]",
       "answer": "BOY"
     },
     {
@@ -142,7 +142,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "Sayılabilen nesnelerin her biri; küçük parça ya da adet.",
+      "clue": "Sayılabilen nesnelerin her biri; küçük parça ya da adet (4 harf) [B209-S5]",
       "answer": "TANE"
     },
     {
@@ -151,7 +151,7 @@
       "row": 3,
       "col": 6,
       "length": 4,
-      "clue": "Üçten sonra gelen, mevsim ve yön sayısına denk gelen doğal sayı.",
+      "clue": "Üçten sonra gelen, mevsim ve yön sayısına denk gelen doğal sayı (4 harf) [B209-S6]",
       "answer": "DÖRT"
     },
     {
@@ -160,7 +160,7 @@
       "row": 3,
       "col": 6,
       "length": 4,
-      "clue": "Siyah beyaz karelere yerleştirilen taşlarla iki kişi arasında oynanan oyun.",
+      "clue": "Siyah beyaz karelere yerleştirilen taşlarla iki kişi arasında oynanan oyun (4 harf) [B209-S6]",
       "answer": "DAMA"
     },
     {
@@ -169,7 +169,7 @@
       "row": 4,
       "col": 3,
       "length": 4,
-      "clue": "Müzik eserlerinde seslerin yükseklik ve uzunluğunu gösteren küçük simge.",
+      "clue": "Müzik eserlerinde seslerin yükseklik ve uzunluğunu gösteren küçük simge (4 harf) [B209-S7]",
       "answer": "NOTA"
     },
     {
@@ -178,7 +178,7 @@
       "row": 6,
       "col": 6,
       "length": 4,
-      "clue": "Kaldırılması güç olan, hafif sözcüğünün zıttı sayılan kütle durumu.",
+      "clue": "Kaldırılması güç olan, hafif sözcüğünün zıttı sayılan kütle durumu (4 harf) [B209-S8]",
       "answer": "AĞIR"
     }
   ]
