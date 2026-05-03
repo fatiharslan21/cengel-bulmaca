@@ -41,14 +41,13 @@ function userView(key, u) {
 app.get('/api/health', (req, res) => res.json({ ok: true }));
 
 app.post('/api/register', (req, res) => {
-  const { key, username, passHash } = req.body || {};
-  if (!key || !username || !passHash) return res.status(400).json({ ok: false, message: 'Eksik alan' });
+  const { key, username } = req.body || {};
+  if (!key || !username) return res.status(400).json({ ok: false, message: 'Eksik alan' });
   const db = readDB();
   if (db.users[key]) return res.status(409).json({ ok: false, message: 'Bu kullanıcı adı zaten kayıtlı.' });
 
   db.users[key] = {
     username,
-    passHash,
     createdAt: Date.now(),
     updatedAt: Date.now(),
     puzzles: {},
@@ -61,16 +60,30 @@ app.post('/api/register', (req, res) => {
 });
 
 app.post('/api/login', (req, res) => {
-  const { key, passHash } = req.body || {};
-  if (!key || !passHash) return res.status(400).json({ ok: false, message: 'Eksik alan' });
+  const { key } = req.body || {};
+  if (!key) return res.status(400).json({ ok: false, message: 'Eksik alan' });
   const db = readDB();
   const user = db.users[key];
   if (!user) return res.status(404).json({ ok: false, message: 'Kullanıcı bulunamadı. Önce kayıt ol.' });
-  if (user.passHash !== passHash) return res.status(401).json({ ok: false, message: 'Şifre hatalı.' });
   user.updatedAt = Date.now();
   db.users[key] = user;
   writeDB(db);
   return res.json({ ok: true, user: userView(key, user) });
+});
+
+app.post('/api/enter', (req, res) => {
+  const { key, username } = req.body || {};
+  if (!key || !username) return res.status(400).json({ ok: false, message: 'Eksik alan' });
+  const db = readDB();
+  let user = db.users[key];
+  if (!user) {
+    user = { username, createdAt: Date.now(), updatedAt: Date.now(), puzzles: {}, daily: {}, totalScore: 0, completedCount: 0 };
+  }
+  user.username = user.username || username;
+  user.updatedAt = Date.now();
+  db.users[key] = user;
+  writeDB(db);
+  return res.json({ ok: true, user: userView(key, user), mode: user.createdAt === user.updatedAt ? 'register' : 'login' });
 });
 
 app.get('/api/user/:key', (req, res) => {

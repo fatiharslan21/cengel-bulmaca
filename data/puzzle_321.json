@@ -113,7 +113,7 @@
       "row": 0,
       "col": 3,
       "length": 5,
-      "clue": "Dinlerde iyilikle görevlendirilmiş, kanatlı olduğuna inanılan kutsal varlık.",
+      "clue": "Dinlerde iyilikle görevlendirilmiş, kanatlı olduğuna inanılan kutsal varlık (5 harf) [B321-S1]",
       "answer": "MELEK"
     },
     {
@@ -122,7 +122,7 @@
       "row": 0,
       "col": 3,
       "length": 5,
-      "clue": "Ölünün toprağa verildiği, başında taş bulunan defin yeri; kabir.",
+      "clue": "Ölünün toprağa verildiği, başında taş bulunan defin yeri; kabir (5 harf) [B321-S1]",
       "answer": "MEZAR"
     },
     {
@@ -131,7 +131,7 @@
       "row": 2,
       "col": 0,
       "length": 6,
-      "clue": "Şehir içinde ya da dışında birçok yolcuyu bir arada taşıyan büyük araç.",
+      "clue": "Şehir içinde ya da dışında birçok yolcuyu bir arada taşıyan büyük araç (6 harf) [B321-S2]",
       "answer": "OTOBÜS"
     },
     {
@@ -140,7 +140,7 @@
       "row": 2,
       "col": 5,
       "length": 3,
-      "clue": "Bir üstün ya da yetkilinin önüne saygıyla sunma, takdim etme eylemi.",
+      "clue": "Bir üstün ya da yetkilinin önüne saygıyla sunma, takdim etme eylemi (3 harf) [B321-S3]",
       "answer": "ARZ"
     },
     {
@@ -149,7 +149,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "Dağdan daha alçak, çevresine göre yüksek görünen küçük yükselti.",
+      "clue": "Dağdan daha alçak, çevresine göre yüksek görünen küçük yükselti (4 harf) [B321-S4]",
       "answer": "TEPE"
     },
     {
@@ -158,7 +158,7 @@
       "row": 4,
       "col": 3,
       "length": 4,
-      "clue": "Toprağın altında kalmış eski eserleri çıkarmak için yapılan eşme işi.",
+      "clue": "Toprağın altında kalmış eski eserleri çıkarmak için yapılan eşme işi (4 harf) [B321-S5]",
       "answer": "KAZI"
     },
     {
@@ -167,7 +167,7 @@
       "row": 5,
       "col": 2,
       "length": 4,
-      "clue": "Türkiye Cumhuriyeti'nin resmi para birimi; TL kısaltmasıyla yazılan değer.",
+      "clue": "Türkiye Cumhuriyeti'nin resmi para birimi; TL kısaltmasıyla yazılan değer (4 harf) [B321-S6]",
       "answer": "LİRA"
     },
     {
@@ -176,7 +176,7 @@
       "row": 6,
       "col": 2,
       "length": 4,
-      "clue": "Kozadan elde edilen, parlak dokulu ve dayanıklı, değerli kumaş lifi.",
+      "clue": "Kozadan elde edilen, parlak dokulu ve dayanıklı, değerli kumaş lifi (4 harf) [B321-S7]",
       "answer": "İPEK"
     },
     {
@@ -185,7 +185,7 @@
       "row": 6,
       "col": 4,
       "length": 4,
-      "clue": "Her canlı için önceden belirlendiğine inanılan ölüm zamanı.",
+      "clue": "Her canlı için önceden belirlendiğine inanılan ölüm zamanı (4 harf) [B321-S8]",
       "answer": "ECEL"
     },
     {
@@ -194,7 +194,7 @@
       "row": 7,
       "col": 0,
       "length": 3,
-      "clue": "Başkalarıyla paylaşılmayan; yalnızca bir kişinin bildiği gizli bilgi.",
+      "clue": "Başkalarıyla paylaşılmayan; yalnızca bir kişinin bildiği gizli bilgi (3 harf) [B321-S9]",
       "answer": "SIR"
     }
   ]

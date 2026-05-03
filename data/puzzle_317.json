@@ -143,7 +143,7 @@
       "row": 0,
       "col": 1,
       "length": 4,
-      "clue": "Dişleri sürekli uzayan, tahtayı ve kâğıdı kemirebilen küçük kemirgen.",
+      "clue": "Dişleri sürekli uzayan, tahtayı ve kâğıdı kemirebilen küçük kemirgen (4 harf) [B317-S1]",
       "answer": "FARE"
     },
     {
@@ -152,7 +152,7 @@
       "row": 1,
       "col": 0,
       "length": 3,
-      "clue": "Sahip olunan taşınır ya da taşınmaz değerli eşya; mülk.",
+      "clue": "Sahip olunan taşınır ya da taşınmaz değerli eşya; mülk (3 harf) [B317-S2]",
       "answer": "MAL"
     },
     {
@@ -161,7 +161,7 @@
       "row": 3,
       "col": 0,
       "length": 3,
-      "clue": "Havada ya da bir yüzeyde bulunan, hissedilen rutubet miktarı.",
+      "clue": "Havada ya da bir yüzeyde bulunan, hissedilen rutubet miktarı (3 harf) [B317-S3]",
       "answer": "NEM"
     },
     {
@@ -170,7 +170,7 @@
       "row": 3,
       "col": 2,
       "length": 4,
-      "clue": "Geride kalan zaman; yaşanmış olayların artık değiştirilemeyen bölümü.",
+      "clue": "Geride kalan zaman; yaşanmış olayların artık değiştirilemeyen bölümü (4 harf) [B317-S4]",
       "answer": "MAZİ"
     },
     {
@@ -179,7 +179,7 @@
       "row": 3,
       "col": 4,
       "length": 6,
-      "clue": "Başı, ortası ve sonu olan; yaşanmış ya da kurmaca kısa anlatı.",
+      "clue": "Başı, ortası ve sonu olan; yaşanmış ya da kurmaca kısa anlatı (6 harf) [B317-S5]",
       "answer": "HİKAYE"
     },
     {
@@ -188,7 +188,7 @@
       "row": 4,
       "col": 2,
       "length": 3,
-      "clue": "Halk ağzında yakışıklı, gösterişli kimse için kullanılan eski bir sözcük.",
+      "clue": "Halk ağzında yakışıklı, gösterişli kimse için kullanılan eski bir sözcük (3 harf) [B317-S6]",
       "answer": "AFİ"
     },
     {
@@ -197,7 +197,7 @@
       "row": 5,
       "col": 0,
       "length": 3,
-      "clue": "Havada uçuşan ya da yüzeyde biriken, çok küçük katı parçacıklar.",
+      "clue": "Havada uçuşan ya da yüzeyde biriken, çok küçük katı parçacıklar (3 harf) [B317-S7]",
       "answer": "TOZ"
     },
     {
@@ -206,7 +206,7 @@
       "row": 5,
       "col": 6,
       "length": 5,
-      "clue": "Undan mayalanıp fırında pişirilerek yapılan, sofranın temel besini.",
+      "clue": "Undan mayalanıp fırında pişirilerek yapılan, sofranın temel besini (5 harf) [B317-S8]",
       "answer": "EKMEK"
     },
     {
@@ -215,7 +215,7 @@
       "row": 6,
       "col": 6,
       "length": 5,
-      "clue": "İnsanın içini burkan, uzun süre geçmeyen derin üzüntü hali.",
+      "clue": "İnsanın içini burkan, uzun süre geçmeyen derin üzüntü hali (5 harf) [B317-S9]",
       "answer": "KEDER"
     },
     {
@@ -224,7 +224,7 @@
       "row": 8,
       "col": 3,
       "length": 5,
-      "clue": "Toplumun kişiye duyduğu saygı; alnı ak olma halinin verdiği onur.",
+      "clue": "Toplumun kişiye duyduğu saygı; alnı ak olma halinin verdiği onur (5 harf) [B317-S10]",
       "answer": "ŞEREF"
     }
   ]

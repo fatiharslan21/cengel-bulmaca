@@ -143,7 +143,7 @@
       "row": 0,
       "col": 7,
       "length": 3,
-      "clue": "Bulunduğun yerden geri çevril; ya da bir eksen etrafında hareket et.",
+      "clue": "Bulunduğun yerden geri çevril; ya da bir eksen etrafında hareket et (3 harf) [B241-S1]",
       "answer": "DÖN"
     },
     {
@@ -152,7 +152,7 @@
       "row": 0,
       "col": 9,
       "length": 3,
-      "clue": "Uyku sırasında zihnin canlandırdığı görüntüler ya da uyanıkken kurulan hayal.",
+      "clue": "Uyku sırasında zihnin canlandırdığı görüntüler ya da uyanıkken kurulan hayal (3 harf) [B241-S2]",
       "answer": "DÜŞ"
     },
     {
@@ -161,7 +161,7 @@
       "row": 1,
       "col": 7,
       "length": 4,
-      "clue": "Bir canlının doğumundan ölümüne kadar geçen toplam yaşam süresi.",
+      "clue": "Bir canlının doğumundan ölümüne kadar geçen toplam yaşam süresi (4 harf) [B241-S3]",
       "answer": "ÖMÜR"
     },
     {
@@ -170,7 +170,7 @@
       "row": 2,
       "col": 5,
       "length": 3,
-      "clue": "Kedisiyle ve gölüyle ünlü, Türkiye'nin doğusundaki büyük il.",
+      "clue": "Kedisiyle ve gölüyle ünlü, Türkiye'nin doğusundaki büyük il (3 harf) [B241-S4]",
       "answer": "VAN"
     },
     {
@@ -179,7 +179,7 @@
       "row": 2,
       "col": 6,
       "length": 3,
-      "clue": "Soyun büyüklerinden sayılan dede ya da daha öncesinden gelen büyük.",
+      "clue": "Soyun büyüklerinden sayılan dede ya da daha öncesinden gelen büyük (3 harf) [B241-S5]",
       "answer": "ATA"
     },
     {
@@ -188,7 +188,7 @@
       "row": 4,
       "col": 3,
       "length": 5,
-      "clue": "Bir yüzeyin ya da nesnenin dış sınırını oluşturan uç bölüm.",
+      "clue": "Bir yüzeyin ya da nesnenin dış sınırını oluşturan uç bölüm (5 harf) [B241-S6]",
       "answer": "KENAR"
     },
     {
@@ -197,7 +197,7 @@
       "row": 4,
       "col": 3,
       "length": 6,
-      "clue": "Uzun kasasında büyük yükler taşıyan, dört tekerlekten fazlası olan taşıt.",
+      "clue": "Uzun kasasında büyük yükler taşıyan, dört tekerlekten fazlası olan taşıt (6 harf) [B241-S6]",
       "answer": "KAMYON"
     },
     {
@@ -206,7 +206,7 @@
       "row": 5,
       "col": 0,
       "length": 4,
-      "clue": "Niteliği kötü olan, insanın içini bunaltan; iyi sözcüğünün zıttı.",
+      "clue": "Niteliği kötü olan, insanın içini bunaltan; iyi sözcüğünün zıttı (4 harf) [B241-S7]",
       "answer": "FENA"
     },
     {
@@ -215,7 +215,7 @@
       "row": 6,
       "col": 7,
       "length": 3,
-      "clue": "İçindeki dilin sallanmasıyla ses çıkaran, koni biçimli madeni araç.",
+      "clue": "İçindeki dilin sallanmasıyla ses çıkaran, koni biçimli madeni araç (3 harf) [B241-S8]",
       "answer": "ÇAN"
     },
     {
@@ -224,7 +224,7 @@
       "row": 7,
       "col": 3,
       "length": 6,
-      "clue": "Ağacın dalından sarkan, fotosentez yapıp havaya oksijen veren yeşil organ.",
+      "clue": "Ağacın dalından sarkan, fotosentez yapıp havaya oksijen veren yeşil organ (6 harf) [B241-S9]",
       "answer": "YAPRAK"
     }
   ]

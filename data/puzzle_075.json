@@ -103,7 +103,7 @@
       "row": 0,
       "col": 6,
       "length": 5,
-      "clue": "Bir varsayımı doğrulamak amacıyla yapılan, kontrollü bilimsel çalışma.",
+      "clue": "Bir varsayımı doğrulamak amacıyla yapılan, kontrollü bilimsel çalışma (5 harf) [B75-S1]",
       "answer": "DENEY"
     },
     {
@@ -112,7 +112,7 @@
       "row": 3,
       "col": 0,
       "length": 3,
-      "clue": "Olumsuzluğu pekiştiren söz; asla ve kesinlikle bulunmama durumu.",
+      "clue": "Olumsuzluğu pekiştiren söz; asla ve kesinlikle bulunmama durumu (3 harf) [B75-S2]",
       "answer": "HİÇ"
     },
     {
@@ -121,7 +121,7 @@
       "row": 3,
       "col": 1,
       "length": 3,
-      "clue": "Hoşa giden, yararlı ve olumlu olan; kötünün tam karşıtı olan nitelik.",
+      "clue": "Hoşa giden, yararlı ve olumlu olan; kötünün tam karşıtı olan nitelik (3 harf) [B75-S3]",
       "answer": "İYİ"
     },
     {
@@ -130,7 +130,7 @@
       "row": 3,
       "col": 4,
       "length": 4,
-      "clue": "Yeni durumlara hızla uyum sağlayıp doğru kararlar verebilme yeteneği.",
+      "clue": "Yeni durumlara hızla uyum sağlayıp doğru kararlar verebilme yeteneği (4 harf) [B75-S4]",
       "answer": "ZEKA"
     },
     {
@@ -139,7 +139,7 @@
       "row": 4,
       "col": 4,
       "length": 4,
-      "clue": "Evde ya da iş yerinde gündelik hayatta kullanılan nesnelerin tümü.",
+      "clue": "Evde ya da iş yerinde gündelik hayatta kullanılan nesnelerin tümü (4 harf) [B75-S5]",
       "answer": "EŞYA"
     },
     {
@@ -148,7 +148,7 @@
       "row": 5,
       "col": 1,
       "length": 4,
-      "clue": "Kozadan elde edilen, parlak dokulu ve dayanıklı, değerli kumaş lifi.",
+      "clue": "Kozadan elde edilen, parlak dokulu ve dayanıklı, değerli kumaş lifi (4 harf) [B75-S6]",
       "answer": "İPEK"
     },
     {
@@ -157,7 +157,7 @@
       "row": 5,
       "col": 2,
       "length": 4,
-      "clue": "Bir sınavda ya da yarışmada başarıya göre verilen sayısal değerlendirme.",
+      "clue": "Bir sınavda ya da yarışmada başarıya göre verilen sayısal değerlendirme (4 harf) [B75-S7]",
       "answer": "PUAN"
     },
     {
@@ -166,7 +166,7 @@
       "row": 6,
       "col": 4,
       "length": 3,
-      "clue": "Bir şeye bağlı bulunma; onunla ilgili ya da onun sahipliğinde olma.",
+      "clue": "Bir şeye bağlı bulunma; onunla ilgili ya da onun sahipliğinde olma (3 harf) [B75-S8]",
       "answer": "AİT"
     },
     {
@@ -175,7 +175,7 @@
       "row": 7,
       "col": 1,
       "length": 3,
-      "clue": "İnsanın boynundan yukarısı, beynin ve yüzün bulunduğu vücut bölümü.",
+      "clue": "İnsanın boynundan yukarısı, beynin ve yüzün bulunduğu vücut bölümü (3 harf) [B75-S9]",
       "answer": "BAŞ"
     }
   ]

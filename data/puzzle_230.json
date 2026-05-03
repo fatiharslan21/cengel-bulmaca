@@ -130,7 +130,7 @@
       "row": 0,
       "col": 3,
       "length": 4,
-      "clue": "Uzun kulaklı, sabırlı; köylerde yük taşımada kullanılan küçük binek hayvanı.",
+      "clue": "Uzun kulaklı, sabırlı; köylerde yük taşımada kullanılan küçük binek hayvanı (4 harf) [B230-S1]",
       "answer": "EŞEK"
     },
     {
@@ -139,7 +139,7 @@
       "row": 0,
       "col": 6,
       "length": 4,
-      "clue": "Çevresindeki yapılardan çok daha yüksek olan, dar ve uzun yapı.",
+      "clue": "Çevresindeki yapılardan çok daha yüksek olan, dar ve uzun yapı (4 harf) [B230-S2]",
       "answer": "KULE"
     },
     {
@@ -148,7 +148,7 @@
       "row": 3,
       "col": 0,
       "length": 3,
-      "clue": "İnsanın doğduğu günden bu yana geçen toplam yıl; ömürdeki basamak.",
+      "clue": "İnsanın doğduğu günden bu yana geçen toplam yıl; ömürdeki basamak (3 harf) [B230-S3]",
       "answer": "YAŞ"
     },
     {
@@ -157,7 +157,7 @@
       "row": 3,
       "col": 2,
       "length": 3,
-      "clue": "Yaptıklarıyla uzaklarda bile tanınıp bilinir olmanın verdiği büyük ün.",
+      "clue": "Yaptıklarıyla uzaklarda bile tanınıp bilinir olmanın verdiği büyük ün (3 harf) [B230-S4]",
       "answer": "ŞAN"
     },
     {
@@ -166,7 +166,7 @@
       "row": 3,
       "col": 5,
       "length": 5,
-      "clue": "Mutfağa giren, bitki kökleri ve yapraklarından oluşan yenilebilir besin.",
+      "clue": "Mutfağa giren, bitki kökleri ve yapraklarından oluşan yenilebilir besin (5 harf) [B230-S5]",
       "answer": "SEBZE"
     },
     {
@@ -175,7 +175,7 @@
       "row": 3,
       "col": 5,
       "length": 3,
-      "clue": "Başımızın derisinde biten, her birinin kökten uzayan ince tel kıl.",
+      "clue": "Başımızın derisinde biten, her birinin kökten uzayan ince tel kıl (3 harf) [B230-S5]",
       "answer": "SAÇ"
     },
     {
@@ -184,7 +184,7 @@
       "row": 3,
       "col": 7,
       "length": 6,
-      "clue": "Bir binanın üst katlarından dışarı uzanan, parmaklıkla çevrili çıkıntı.",
+      "clue": "Bir binanın üst katlarından dışarı uzanan, parmaklıkla çevrili çıkıntı (6 harf) [B230-S6]",
       "answer": "BALKON"
     },
     {
@@ -193,7 +193,7 @@
       "row": 4,
       "col": 2,
       "length": 4,
-      "clue": "Karşısına geçenin görüntüsünü aynen yansıtan sırlanmış cam yüzey.",
+      "clue": "Karşısına geçenin görüntüsünü aynen yansıtan sırlanmış cam yüzey (4 harf) [B230-S7]",
       "answer": "AYNA"
     },
     {
@@ -202,7 +202,7 @@
       "row": 6,
       "col": 7,
       "length": 4,
-      "clue": "İnce mukavvadan yapılmış, üzerine yazı yazılan ya da baskı yapılan levha.",
+      "clue": "İnce mukavvadan yapılmış, üzerine yazı yazılan ya da baskı yapılan levha (4 harf) [B230-S8]",
       "answer": "KART"
     },
     {
@@ -211,7 +211,7 @@
       "row": 6,
       "col": 10,
       "length": 3,
-      "clue": "Denizden ya da yer altından çıkarılan; yemeklere tat veren beyaz tane.",
+      "clue": "Denizden ya da yer altından çıkarılan; yemeklere tat veren beyaz tane (3 harf) [B230-S9]",
       "answer": "TUZ"
     }
   ]

@@ -109,7 +109,7 @@
       "row": 0,
       "col": 0,
       "length": 5,
-      "clue": "Dinlerde iyilikle görevlendirilmiş, kanatlı olduğuna inanılan kutsal varlık.",
+      "clue": "Dinlerde iyilikle görevlendirilmiş, kanatlı olduğuna inanılan kutsal varlık (5 harf) [B187-S1]",
       "answer": "MELEK"
     },
     {
@@ -118,7 +118,7 @@
       "row": 0,
       "col": 0,
       "length": 5,
-      "clue": "Bitkinin çiçeğinin olgunlaşmasıyla oluşan, genellikle yenilebilir ürün.",
+      "clue": "Bitkinin çiçeğinin olgunlaşmasıyla oluşan, genellikle yenilebilir ürün (5 harf) [B187-S1]",
       "answer": "MEYVE"
     },
     {
@@ -127,7 +127,7 @@
       "row": 3,
       "col": 2,
       "length": 4,
-      "clue": "Kabuğu kırmızı, sarı ya da yeşil olabilen, sulu ve çıtır meyve.",
+      "clue": "Kabuğu kırmızı, sarı ya da yeşil olabilen, sulu ve çıtır meyve (4 harf) [B187-S2]",
       "answer": "ELMA"
     },
     {
@@ -136,7 +136,7 @@
       "row": 3,
       "col": 2,
       "length": 5,
-      "clue": "Belirlenen vaktin öncesinde gelme; geç kalmanın tersi durumu.",
+      "clue": "Belirlenen vaktin öncesinde gelme; geç kalmanın tersi durumu (5 harf) [B187-S2]",
       "answer": "ERKEN"
     },
     {
@@ -145,7 +145,7 @@
       "row": 4,
       "col": 0,
       "length": 3,
-      "clue": "Bir şeyin yanıp bitmesinin ardından geriye kalan kurumuş toz madde.",
+      "clue": "Açıklamaya uyan yanıt (3 harf) [B187-S3]",
       "answer": "KÜL"
     },
     {
@@ -154,7 +154,7 @@
       "row": 4,
       "col": 9,
       "length": 3,
-      "clue": "Başkalarıyla paylaşılmayan; yalnızca bir kişinin bildiği gizli bilgi.",
+      "clue": "Başkalarıyla paylaşılmayan; yalnızca bir kişinin bildiği gizli bilgi (3 harf) [B187-S4]",
       "answer": "SIR"
     },
     {
@@ -163,7 +163,7 @@
       "row": 5,
       "col": 4,
       "length": 3,
-      "clue": "Çevresine göre belirgin biçimde yükselen, taşlık ve kayalık büyük arazi.",
+      "clue": "Çevresine göre belirgin biçimde yükselen, taşlık ve kayalık büyük arazi (3 harf) [B187-S5]",
       "answer": "DAĞ"
     },
     {
@@ -172,7 +172,7 @@
       "row": 5,
       "col": 6,
       "length": 3,
-      "clue": "Bitkilerden ya da hayvanlardan elde edilen; suda çözünmeyen kaygan madde.",
+      "clue": "Bitkilerden ya da hayvanlardan elde edilen; suda çözünmeyen kaygan madde (3 harf) [B187-S6]",
       "answer": "YAĞ"
     },
     {
@@ -181,7 +181,7 @@
       "row": 5,
       "col": 6,
       "length": 4,
-      "clue": "Kalemin kâğıda bıraktığı; harflerden oluşan okunabilir işaretler.",
+      "clue": "Kalemin kâğıda bıraktığı; harflerden oluşan okunabilir işaretler (4 harf) [B187-S6]",
       "answer": "YAZI"
     },
     {
@@ -190,7 +190,7 @@
       "row": 6,
       "col": 2,
       "length": 5,
-      "clue": "Tekerlekleri üstünde insan ya da yük taşıyan motorlu kara taşıtı.",
+      "clue": "Tekerlekleri üstünde insan ya da yük taşıyan motorlu kara taşıtı (5 harf) [B187-S7]",
       "answer": "ARABA"
     }
   ]

@@ -153,7 +153,7 @@
       "row": 0,
       "col": 10,
       "length": 5,
-      "clue": "Bir kimsenin bir şey için yaptığı istek; dile getirilen açık dilek.",
+      "clue": "Bir kimsenin bir şey için yaptığı istek; dile getirilen açık dilek (5 harf) [B323-S1]",
       "answer": "TALEP"
     },
     {
@@ -162,7 +162,7 @@
       "row": 1,
       "col": 6,
       "length": 4,
-      "clue": "Bacağın bileğinden aşağısı; üzerine basarak yürümemizi sağlayan uzuv.",
+      "clue": "Bacağın bileğinden aşağısı; üzerine basarak yürümemizi sağlayan uzuv (4 harf) [B323-S2]",
       "answer": "AYAK"
     },
     {
@@ -171,7 +171,7 @@
       "row": 1,
       "col": 8,
       "length": 4,
-      "clue": "Yolcuların ücret karşılığı geceyi geçirdiği, odaları olan konaklama işletmesi.",
+      "clue": "Yolcuların ücret karşılığı geceyi geçirdiği, odaları olan konaklama işletmesi (4 harf) [B323-S3]",
       "answer": "OTEL"
     },
     {
@@ -180,7 +180,7 @@
       "row": 2,
       "col": 1,
       "length": 4,
-      "clue": "Gökyüzündeki yıldız öbeklerinin oluşturduğu, astrolojide kullanılan imge.",
+      "clue": "Gökyüzündeki yıldız öbeklerinin oluşturduğu, astrolojide kullanılan imge (4 harf) [B323-S4]",
       "answer": "BURÇ"
     },
     {
@@ -189,7 +189,7 @@
       "row": 2,
       "col": 4,
       "length": 5,
-      "clue": "Geniş yaprakları ve kalın gövdesiyle yüzyıllarca yaşayabilen büyük ağaç.",
+      "clue": "Geniş yaprakları ve kalın gövdesiyle yüzyıllarca yaşayabilen büyük ağaç (5 harf) [B323-S5]",
       "answer": "ÇINAR"
     },
     {
@@ -198,7 +198,7 @@
       "row": 3,
       "col": 8,
       "length": 4,
-      "clue": "Görgü kurallarına uygun davranış; terbiyeli ve ölçülü olma hali.",
+      "clue": "Görgü kurallarına uygun davranış; terbiyeli ve ölçülü olma hali (4 harf) [B323-S6]",
       "answer": "EDEP"
     },
     {
@@ -207,7 +207,7 @@
       "row": 4,
       "col": 4,
       "length": 5,
-      "clue": "Bir şeyin bir yerden başka bir yere taşınması; aktarma işlemi.",
+      "clue": "Bir şeyin bir yerden başka bir yere taşınması; aktarma işlemi (5 harf) [B323-S7]",
       "answer": "NAKİL"
     },
     {
@@ -216,7 +216,7 @@
       "row": 6,
       "col": 2,
       "length": 4,
-      "clue": "Dağlardan doğan, ırmağa ya da göle dökülen küçük doğal akarsu.",
+      "clue": "Dağlardan doğan, ırmağa ya da göle dökülen küçük doğal akarsu (4 harf) [B323-S8]",
       "answer": "DERE"
     },
     {
@@ -225,7 +225,7 @@
       "row": 6,
       "col": 3,
       "length": 4,
-      "clue": "Gönle çöken derin üzüntü, insanı içten içe yiyen keder.",
+      "clue": "Gönle çöken derin üzüntü, insanı içten içe yiyen keder (4 harf) [B323-S9]",
       "answer": "ELEM"
     },
     {
@@ -234,7 +234,7 @@
       "row": 8,
       "col": 0,
       "length": 5,
-      "clue": "Kolla eli birbirine bağlayan, küçük kemiklerden oluşan eklem bölgesi.",
+      "clue": "Kolla eli birbirine bağlayan, küçük kemiklerden oluşan eklem bölgesi (5 harf) [B323-S10]",
       "answer": "BİLEK"
     }
   ]

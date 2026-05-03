@@ -101,7 +101,7 @@
       "row": 0,
       "col": 7,
       "length": 4,
-      "clue": "Belirli bir yönde hareket eden elektrik yükü ya da suyun sürüklenişi.",
+      "clue": "Belirli bir yönde hareket eden elektrik yükü ya da suyun sürüklenişi (4 harf) [B73-S1]",
       "answer": "AKIM"
     },
     {
@@ -110,7 +110,7 @@
       "row": 1,
       "col": 5,
       "length": 5,
-      "clue": "Suda yaşayan, solungaçlarıyla soluyan, yüzgeçleriyle hareket eden canlı.",
+      "clue": "Suda yaşayan, solungaçlarıyla soluyan, yüzgeçleriyle hareket eden canlı (5 harf) [B73-S2]",
       "answer": "BALIK"
     },
     {
@@ -119,7 +119,7 @@
       "row": 2,
       "col": 0,
       "length": 3,
-      "clue": "Yeteri kadarının üstünde, çokça bulunan; dar sözcüğünün zıttı sayılan.",
+      "clue": "Yeteri kadarının üstünde, çokça bulunan; dar sözcüğünün zıttı sayılan (3 harf) [B73-S3]",
       "answer": "BOL"
     },
     {
@@ -128,7 +128,7 @@
       "row": 2,
       "col": 5,
       "length": 4,
-      "clue": "Sahte ya da taklit olmayan; bir şeyin gerçek ve temel olan hali.",
+      "clue": "Sahte ya da taklit olmayan; bir şeyin gerçek ve temel olan hali (4 harf) [B73-S4]",
       "answer": "ASIL"
     },
     {
@@ -137,7 +137,7 @@
       "row": 3,
       "col": 0,
       "length": 3,
-      "clue": "Bir evin ya da binanın duvarlarla ayrılmış, belirli amaçla kullanılan bölümü.",
+      "clue": "Bir evin ya da binanın duvarlarla ayrılmış, belirli amaçla kullanılan bölümü (3 harf) [B73-S5]",
       "answer": "ODA"
     },
     {
@@ -146,7 +146,7 @@
       "row": 3,
       "col": 2,
       "length": 3,
-      "clue": "İki şeyin birbirinden ayrıldığı boşluk; kısa mola süresi.",
+      "clue": "İki şeyin birbirinden ayrıldığı boşluk; kısa mola süresi (3 harf) [B73-S6]",
       "answer": "ARA"
     },
     {
@@ -155,7 +155,7 @@
       "row": 5,
       "col": 2,
       "length": 4,
-      "clue": "Bacağın bileğinden aşağısı; üzerine basarak yürümemizi sağlayan uzuv.",
+      "clue": "Bacağın bileğinden aşağısı; üzerine basarak yürümemizi sağlayan uzuv (4 harf) [B73-S7]",
       "answer": "AYAK"
     },
     {
@@ -164,7 +164,7 @@
       "row": 5,
       "col": 4,
       "length": 3,
-      "clue": "Soyun büyüklerinden sayılan dede ya da daha öncesinden gelen büyük.",
+      "clue": "Soyun büyüklerinden sayılan dede ya da daha öncesinden gelen büyük (3 harf) [B73-S8]",
       "answer": "ATA"
     },
     {
@@ -173,7 +173,7 @@
       "row": 7,
       "col": 4,
       "length": 3,
-      "clue": "Bir hastalığa karşı bağışıklık kazandırmak için vücuda verilen ilaç.",
+      "clue": "Bir hastalığa karşı bağışıklık kazandırmak için vücuda verilen ilaç (3 harf) [B73-S9]",
       "answer": "AŞI"
     }
   ]

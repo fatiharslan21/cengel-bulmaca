@@ -133,7 +133,7 @@
       "row": 0,
       "col": 0,
       "length": 4,
-      "clue": "Çorba, salata ya da yoğurt konulan, yuvarlak ve çukur küçük yemek kabı.",
+      "clue": "Çorba, salata ya da yoğurt konulan, yuvarlak ve çukur küçük yemek kabı (4 harf) [B495-S1]",
       "answer": "KASE"
     },
     {
@@ -142,7 +142,7 @@
       "row": 0,
       "col": 2,
       "length": 5,
-      "clue": "Çölde ya da sıcakta gerçekte olmayan bir görüntü olarak algılanan yanılsama.",
+      "clue": "Çölde ya da sıcakta gerçekte olmayan bir görüntü olarak algılanan yanılsama (5 harf) [B495-S2]",
       "answer": "SERAP"
     },
     {
@@ -151,7 +151,7 @@
       "row": 2,
       "col": 4,
       "length": 4,
-      "clue": "Bir olayın kaçıncı kez yaşandığını anlatmak için kullanılan kez sözcüğü.",
+      "clue": "Bir olayın kaçıncı kez yaşandığını anlatmak için kullanılan kez sözcüğü (4 harf) [B495-S3]",
       "answer": "DEFA"
     },
     {
@@ -160,7 +160,7 @@
       "row": 3,
       "col": 1,
       "length": 4,
-      "clue": "Bir işe girişirken göz önünde tutulan, ulaşılmak istenen son hedef.",
+      "clue": "Bir işe girişirken göz önünde tutulan, ulaşılmak istenen son hedef (4 harf) [B495-S4]",
       "answer": "GAYE"
     },
     {
@@ -169,7 +169,7 @@
       "row": 5,
       "col": 3,
       "length": 4,
-      "clue": "İçten duyulan gönül rahatlığı; keder bırakmayan tatlı neşe.",
+      "clue": "İçten duyulan gönül rahatlığı; keder bırakmayan tatlı neşe (4 harf) [B495-S5]",
       "answer": "SAFA"
     },
     {
@@ -178,7 +178,7 @@
       "row": 5,
       "col": 5,
       "length": 5,
-      "clue": "Dayanılmaz acı anında yükselen yüksek sesli ağlama ve feryat.",
+      "clue": "Dayanılmaz acı anında yükselen yüksek sesli ağlama ve feryat (5 harf) [B495-S6]",
       "answer": "FİGAN"
     },
     {
@@ -187,7 +187,7 @@
       "row": 5,
       "col": 9,
       "length": 4,
-      "clue": "Bundan başka, farklı; bir şeyin dışında kalan diğer kısım.",
+      "clue": "Bundan başka, farklı; bir şeyin dışında kalan diğer kısım (4 harf) [B495-S7]",
       "answer": "GAYR"
     },
     {
@@ -196,7 +196,7 @@
       "row": 7,
       "col": 7,
       "length": 3,
-      "clue": "Üzüm yetiştirilen tarla; aynı zamanda düğümle tutturma eylemi.",
+      "clue": "Üzüm yetiştirilen tarla; aynı zamanda düğümle tutturma eylemi (3 harf) [B495-S8]",
       "answer": "BAĞ"
     },
     {
@@ -205,7 +205,7 @@
       "row": 7,
       "col": 7,
       "length": 3,
-      "clue": "İnsanın başından ayağına kadar olan uzunluğu; endam ya da kamet.",
+      "clue": "İnsanın başından ayağına kadar olan uzunluğu; endam ya da kamet (3 harf) [B495-S8]",
       "answer": "BOY"
     },
     {
@@ -214,7 +214,7 @@
       "row": 8,
       "col": 4,
       "length": 4,
-      "clue": "Beyazın tam zıttı olan, gölgeleri bile koyulaştıran siyah ton.",
+      "clue": "Beyazın tam zıttı olan, gölgeleri bile koyulaştıran siyah ton (4 harf) [B495-S9]",
       "answer": "KARA"
     }
   ]

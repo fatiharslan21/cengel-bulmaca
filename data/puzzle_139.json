@@ -123,7 +123,7 @@
       "row": 0,
       "col": 7,
       "length": 4,
-      "clue": "Hayvanların otlayıp beslenmesi için ayrılmış, doğal otlarla kaplı geniş alan.",
+      "clue": "Hayvanların otlayıp beslenmesi için ayrılmış, doğal otlarla kaplı geniş alan (4 harf) [B139-S1]",
       "answer": "MERA"
     },
     {
@@ -132,7 +132,7 @@
       "row": 1,
       "col": 3,
       "length": 3,
-      "clue": "Silmek, temizlemek ya da örtmek için kullanılan dokuma kumaş parçası.",
+      "clue": "Silmek, temizlemek ya da örtmek için kullanılan dokuma kumaş parçası (3 harf) [B139-S2]",
       "answer": "BEZ"
     },
     {
@@ -141,7 +141,7 @@
       "row": 2,
       "col": 2,
       "length": 6,
-      "clue": "Erkeklerin saçını kesip sakalını düzelten, dükkânında çalışan esnaf.",
+      "clue": "Erkeklerin saçını kesip sakalını düzelten, dükkânında çalışan esnaf (6 harf) [B139-S3]",
       "answer": "BERBER"
     },
     {
@@ -150,7 +150,7 @@
       "row": 2,
       "col": 5,
       "length": 5,
-      "clue": "Kolla eli birbirine bağlayan, küçük kemiklerden oluşan eklem bölgesi.",
+      "clue": "Kolla eli birbirine bağlayan, küçük kemiklerden oluşan eklem bölgesi (5 harf) [B139-S4]",
       "answer": "BİLEK"
     },
     {
@@ -159,7 +159,7 @@
       "row": 5,
       "col": 2,
       "length": 5,
-      "clue": "İnsana sadakatiyle bilinen, havlayarak seslenen evcil dört ayaklı.",
+      "clue": "İnsana sadakatiyle bilinen, havlayarak seslenen evcil dört ayaklı (5 harf) [B139-S5]",
       "answer": "KÖPEK"
     },
     {
@@ -168,7 +168,7 @@
       "row": 5,
       "col": 2,
       "length": 3,
-      "clue": "Soğuk havada bulutlardan düşen, altıgen kristallerden oluşan beyaz yağış.",
+      "clue": "Soğuk havada bulutlardan düşen, altıgen kristallerden oluşan beyaz yağış (3 harf) [B139-S5]",
       "answer": "KAR"
     },
     {
@@ -177,7 +177,7 @@
       "row": 6,
       "col": 0,
       "length": 3,
-      "clue": "Belli bir şekli ve hacmi olmayan, her yöne yayılabilen madde hali.",
+      "clue": "Belli bir şekli ve hacmi olmayan, her yöne yayılabilen madde hali (3 harf) [B139-S6]",
       "answer": "GAZ"
     },
     {
@@ -186,7 +186,7 @@
       "row": 7,
       "col": 0,
       "length": 5,
-      "clue": "Bir kimseye veya yere ulaşabilmek için gereken açık konum bilgisi.",
+      "clue": "Bir kimseye veya yere ulaşabilmek için gereken açık konum bilgisi (5 harf) [B139-S7]",
       "answer": "ADRES"
     },
     {
@@ -195,7 +195,7 @@
       "row": 7,
       "col": 4,
       "length": 4,
-      "clue": "Bir miktarı ya da sırayı belirten; rakamlarla yazılan matematik kavramı.",
+      "clue": "Bir miktarı ya da sırayı belirten; rakamlarla yazılan matematik kavramı (4 harf) [B139-S8]",
       "answer": "SAYI"
     },
     {
@@ -204,7 +204,7 @@
       "row": 8,
       "col": 4,
       "length": 3,
-      "clue": "İki şeyin birbirinden ayrıldığı boşluk; kısa mola süresi.",
+      "clue": "İki şeyin birbirinden ayrıldığı boşluk; kısa mola süresi (3 harf) [B139-S9]",
       "answer": "ARA"
     }
   ]

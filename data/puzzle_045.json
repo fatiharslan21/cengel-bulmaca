@@ -104,7 +104,7 @@
       "row": 0,
       "col": 9,
       "length": 4,
-      "clue": "Boş zamanlarda eğlence ya da öğrenme amacıyla kurallara göre oynanan etkinlik.",
+      "clue": "Boş zamanlarda eğlence ya da öğrenme amacıyla kurallara göre oynanan etkinlik (4 harf) [B45-S1]",
       "answer": "OYUN"
     },
     {
@@ -113,7 +113,7 @@
       "row": 1,
       "col": 7,
       "length": 3,
-      "clue": "Bir noktadan diğerine uzanan düz çizgi; yol ya da güzergâh.",
+      "clue": "Bir noktadan diğerine uzanan düz çizgi; yol ya da güzergâh (3 harf) [B45-S2]",
       "answer": "HAT"
     },
     {
@@ -122,7 +122,7 @@
       "row": 2,
       "col": 0,
       "length": 3,
-      "clue": "Bitkinin çiçek ya da yaprağını gövdeye bağlayan uzun ve ince bölüm.",
+      "clue": "Bitkinin çiçek ya da yaprağını gövdeye bağlayan uzun ve ince bölüm (3 harf) [B45-S3]",
       "answer": "SAP"
     },
     {
@@ -131,7 +131,7 @@
       "row": 2,
       "col": 2,
       "length": 5,
-      "clue": "Mektup ve paketlerin toplanıp yerine ulaştırıldığı geleneksel iletişim hizmeti.",
+      "clue": "Mektup ve paketlerin toplanıp yerine ulaştırıldığı geleneksel iletişim hizmeti (5 harf) [B45-S4]",
       "answer": "POSTA"
     },
     {
@@ -140,7 +140,7 @@
       "row": 2,
       "col": 4,
       "length": 4,
-      "clue": "Eskiyip yırtılan giysiyi onarmak için üstüne dikilen küçük kumaş parçası.",
+      "clue": "Eskiyip yırtılan giysiyi onarmak için üstüne dikilen küçük kumaş parçası (4 harf) [B45-S5]",
       "answer": "YAMA"
     },
     {
@@ -149,7 +149,7 @@
       "row": 2,
       "col": 4,
       "length": 3,
-      "clue": "Derin ve dik uçurum; aynı zamanda sevilen kişi için kullanılan şiirsel ad.",
+      "clue": "Derin ve dik uçurum; aynı zamanda sevilen kişi için kullanılan şiirsel ad (3 harf) [B45-S5]",
       "answer": "YAR"
     },
     {
@@ -158,7 +158,7 @@
       "row": 3,
       "col": 7,
       "length": 4,
-      "clue": "Sayılabilen nesnelerin her biri; küçük parça ya da adet.",
+      "clue": "Sayılabilen nesnelerin her biri; küçük parça ya da adet (4 harf) [B45-S6]",
       "answer": "TANE"
     },
     {
@@ -167,7 +167,7 @@
       "row": 4,
       "col": 2,
       "length": 4,
-      "clue": "Limon ve altın tonlarında olan, güneşi çağrıştıran canlı sıcak renk.",
+      "clue": "Limon ve altın tonlarında olan, güneşi çağrıştıran canlı sıcak renk (4 harf) [B45-S7]",
       "answer": "SARI"
     },
     {
@@ -176,7 +176,7 @@
       "row": 6,
       "col": 1,
       "length": 3,
-      "clue": "Toprağın içinden çıkan, sert ve ağır olan doğal kayaç parçası.",
+      "clue": "Toprağın içinden çıkan, sert ve ağır olan doğal kayaç parçası (3 harf) [B45-S8]",
       "answer": "TAŞ"
     }
   ]

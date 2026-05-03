@@ -133,7 +133,7 @@
       "row": 0,
       "col": 8,
       "length": 5,
-      "clue": "Üzerinde yaşadığımız, Güneş'in çevresinde dönen mavi yeşil gezegen.",
+      "clue": "Üzerinde yaşadığımız, Güneş'in çevresinde dönen mavi yeşil gezegen (5 harf) [B249-S1]",
       "answer": "DÜNYA"
     },
     {
@@ -142,7 +142,7 @@
       "row": 2,
       "col": 4,
       "length": 5,
-      "clue": "Bir milletin üzerinde yaşayıp kendine yurt bildiği ata toprağı.",
+      "clue": "Bir milletin üzerinde yaşayıp kendine yurt bildiği ata toprağı (5 harf) [B249-S2]",
       "answer": "VATAN"
     },
     {
@@ -151,7 +151,7 @@
       "row": 2,
       "col": 5,
       "length": 5,
-      "clue": "Dünyanın farklı bölgelerini gösteren haritaların toplandığı büyük kitap.",
+      "clue": "Dünyanın farklı bölgelerini gösteren haritaların toplandığı büyük kitap (5 harf) [B249-S3]",
       "answer": "ATLAS"
     },
     {
@@ -160,7 +160,7 @@
       "row": 3,
       "col": 0,
       "length": 3,
-      "clue": "İnsanın başından ayağına kadar olan uzunluğu; endam ya da kamet.",
+      "clue": "İnsanın başından ayağına kadar olan uzunluğu; endam ya da kamet (3 harf) [B249-S4]",
       "answer": "BOY"
     },
     {
@@ -169,7 +169,7 @@
       "row": 4,
       "col": 3,
       "length": 3,
-      "clue": "Göğüs kafesi ile kalçalar arasında kalan, vücudun orta kısmı.",
+      "clue": "Göğüs kafesi ile kalçalar arasında kalan, vücudun orta kısmı (3 harf) [B249-S5]",
       "answer": "BEL"
     },
     {
@@ -178,7 +178,7 @@
       "row": 4,
       "col": 3,
       "length": 6,
-      "clue": "Okyanuslarda yaşayan, dünyanın en büyük sayılan memeli deniz canlısı.",
+      "clue": "Okyanuslarda yaşayan, dünyanın en büyük sayılan memeli deniz canlısı (6 harf) [B249-S5]",
       "answer": "BALİNA"
     },
     {
@@ -187,7 +187,7 @@
       "row": 4,
       "col": 7,
       "length": 3,
-      "clue": "Gitme, olduğun yerde dur; git sözcüğünün tam karşıtı olan emir.",
+      "clue": "Gitme, olduğun yerde dur; git sözcüğünün tam karşıtı olan emir (3 harf) [B249-S6]",
       "answer": "KAL"
     },
     {
@@ -196,7 +196,7 @@
       "row": 5,
       "col": 0,
       "length": 4,
-      "clue": "Bir kesik ya da darbe sonucu bedende oluşan açık doku hasarı.",
+      "clue": "Bir kesik ya da darbe sonucu bedende oluşan açık doku hasarı (4 harf) [B249-S7]",
       "answer": "YARA"
     },
     {
@@ -205,7 +205,7 @@
       "row": 6,
       "col": 5,
       "length": 4,
-      "clue": "İçerisi camla kaplı; mevsim dışında bile bitki yetiştirilen ısıtılmış yapı.",
+      "clue": "İçerisi camla kaplı; mevsim dışında bile bitki yetiştirilen ısıtılmış yapı (4 harf) [B249-S8]",
       "answer": "SERA"
     },
     {
@@ -214,7 +214,7 @@
       "row": 7,
       "col": 2,
       "length": 3,
-      "clue": "Bahçeyi ya da tarlayı çevreleyen, tahta veya telden yapılmış alçak engel.",
+      "clue": "Bahçeyi ya da tarlayı çevreleyen, tahta veya telden yapılmış alçak engel (3 harf) [B249-S9]",
       "answer": "ÇİT"
     }
   ]

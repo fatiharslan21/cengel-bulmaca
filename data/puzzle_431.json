@@ -143,7 +143,7 @@
       "row": 0,
       "col": 3,
       "length": 4,
-      "clue": "Bir sözcüğün ya da cümlenin ardında yatan anlam; içerdiği kavram.",
+      "clue": "Bir sözcüğün ya da cümlenin ardında yatan anlam; içerdiği kavram (4 harf) [B431-S1]",
       "answer": "MANA"
     },
     {
@@ -152,7 +152,7 @@
       "row": 3,
       "col": 0,
       "length": 5,
-      "clue": "Dayanılmaz acı anında yükselen yüksek sesli ağlama ve feryat.",
+      "clue": "Dayanılmaz acı anında yükselen yüksek sesli ağlama ve feryat (5 harf) [B431-S2]",
       "answer": "FİGAN"
     },
     {
@@ -161,7 +161,7 @@
       "row": 3,
       "col": 2,
       "length": 4,
-      "clue": "Denizde yük ya da yolcu taşımak için yapılmış büyük su taşıtı.",
+      "clue": "Denizde yük ya da yolcu taşımak için yapılmış büyük su taşıtı (4 harf) [B431-S3]",
       "answer": "GEMİ"
     },
     {
@@ -170,7 +170,7 @@
       "row": 3,
       "col": 8,
       "length": 4,
-      "clue": "Uzaktan duyulan insan ya da doğa sesi; boğumlu ses dalgası.",
+      "clue": "Uzaktan duyulan insan ya da doğa sesi; boğumlu ses dalgası (4 harf) [B431-S4]",
       "answer": "SADA"
     },
     {
@@ -179,7 +179,7 @@
       "row": 3,
       "col": 8,
       "length": 3,
-      "clue": "Başkalarıyla paylaşılmayan; yalnızca bir kişinin bildiği gizli bilgi.",
+      "clue": "Başkalarıyla paylaşılmayan; yalnızca bir kişinin bildiği gizli bilgi (3 harf) [B431-S4]",
       "answer": "SIR"
     },
     {
@@ -188,7 +188,7 @@
       "row": 4,
       "col": 5,
       "length": 3,
-      "clue": "Bir ağacın gövdesinden yanlara doğru uzayan ve yapraklarını taşıyan kol.",
+      "clue": "Bir ağacın gövdesinden yanlara doğru uzayan ve yapraklarını taşıyan kol (3 harf) [B431-S5]",
       "answer": "DAL"
     },
     {
@@ -197,7 +197,7 @@
       "row": 5,
       "col": 5,
       "length": 5,
-      "clue": "Gürültüden uzak, hiçbir telaşın olmadığı sessiz ve huzurlu ortam.",
+      "clue": "Gürültüden uzak, hiçbir telaşın olmadığı sessiz ve huzurlu ortam (5 harf) [B431-S6]",
       "answer": "ASUDE"
     },
     {
@@ -206,7 +206,7 @@
       "row": 6,
       "col": 1,
       "length": 5,
-      "clue": "Anlatılanı somutlaştırmak için verilen örnek; kıyas noktası.",
+      "clue": "Anlatılanı somutlaştırmak için verilen örnek; kıyas noktası (5 harf) [B431-S7]",
       "answer": "MİSAL"
     },
     {
@@ -215,7 +215,7 @@
       "row": 6,
       "col": 4,
       "length": 4,
-      "clue": "Üzerinde yapı bulunmayan, belli sınırlarla çevrili geniş açık düzlük.",
+      "clue": "Üzerinde yapı bulunmayan, belli sınırlarla çevrili geniş açık düzlük (4 harf) [B431-S8]",
       "answer": "ALAN"
     },
     {
@@ -224,7 +224,7 @@
       "row": 8,
       "col": 1,
       "length": 5,
-      "clue": "Bir milletin kuşaklar boyunca konuşup yazdığı ortak iletişim dizgesi.",
+      "clue": "Bir milletin kuşaklar boyunca konuşup yazdığı ortak iletişim dizgesi (5 harf) [B431-S9]",
       "answer": "LİSAN"
     }
   ]

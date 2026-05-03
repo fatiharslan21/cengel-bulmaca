@@ -111,7 +111,7 @@
       "row": 0,
       "col": 3,
       "length": 3,
-      "clue": "Hastalıkların tanısı ve iyileştirilmesiyle uğraşan hekimlik bilim dalı.",
+      "clue": "Hastalıkların tanısı ve iyileştirilmesiyle uğraşan hekimlik bilim dalı (3 harf) [B152-S1]",
       "answer": "TIP"
     },
     {
@@ -120,7 +120,7 @@
       "row": 0,
       "col": 5,
       "length": 3,
-      "clue": "Mektupların üzerine yapıştırılan, postanın ücretini belgeleyen küçük kâğıt.",
+      "clue": "Mektupların üzerine yapıştırılan, postanın ücretini belgeleyen küçük kâğıt (3 harf) [B152-S2]",
       "answer": "PUL"
     },
     {
@@ -129,7 +129,7 @@
       "row": 0,
       "col": 7,
       "length": 4,
-      "clue": "İki şeyin birbirinden ayrıldığı yön; aralarındaki benzemezlik.",
+      "clue": "İki şeyin birbirinden ayrıldığı yön; aralarındaki benzemezlik (4 harf) [B152-S3]",
       "answer": "FARK"
     },
     {
@@ -138,7 +138,7 @@
       "row": 1,
       "col": 5,
       "length": 4,
-      "clue": "Kanatları sayesinde havalanıp gökyüzünde uçan motorlu büyük taşıt.",
+      "clue": "Kanatları sayesinde havalanıp gökyüzünde uçan motorlu büyük taşıt (4 harf) [B152-S4]",
       "answer": "UÇAK"
     },
     {
@@ -147,7 +147,7 @@
       "row": 2,
       "col": 3,
       "length": 3,
-      "clue": "Kalbin bulunduğu taraf; sağın tam karşıtı olan yön.",
+      "clue": "Kalbin bulunduğu taraf; sağın tam karşıtı olan yön (3 harf) [B152-S5]",
       "answer": "SOL"
     },
     {
@@ -156,7 +156,7 @@
       "row": 2,
       "col": 3,
       "length": 4,
-      "clue": "Bir miktarı ya da sırayı belirten; rakamlarla yazılan matematik kavramı.",
+      "clue": "Bir miktarı ya da sırayı belirten; rakamlarla yazılan matematik kavramı (4 harf) [B152-S5]",
       "answer": "SAYI"
     },
     {
@@ -165,7 +165,7 @@
       "row": 2,
       "col": 9,
       "length": 5,
-      "clue": "Belirlenen vaktin öncesinde gelme; geç kalmanın tersi durumu.",
+      "clue": "Belirlenen vaktin öncesinde gelme; geç kalmanın tersi durumu (5 harf) [B152-S6]",
       "answer": "ERKEN"
     },
     {
@@ -174,7 +174,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "Atmosferi oluşturan, canlıların soluduğu renksiz ve kokusuz gaz karışımı.",
+      "clue": "Atmosferi oluşturan, canlıların soluduğu renksiz ve kokusuz gaz karışımı (4 harf) [B152-S7]",
       "answer": "HAVA"
     },
     {
@@ -183,7 +183,7 @@
       "row": 3,
       "col": 7,
       "length": 3,
-      "clue": "Alevi sönmüş ama sıcaklığı ve kızıllığı süren yanmakta olan parça.",
+      "clue": "Alevi sönmüş ama sıcaklığı ve kızıllığı süren yanmakta olan parça (3 harf) [B152-S8]",
       "answer": "KOR"
     },
     {
@@ -192,7 +192,7 @@
       "row": 4,
       "col": 9,
       "length": 3,
-      "clue": "Bir şeyin yanıp bitmesinin ardından geriye kalan kurumuş toz madde.",
+      "clue": "Açıklamaya uyan yanıt (3 harf) [B152-S9]",
       "answer": "KÜL"
     }
   ]

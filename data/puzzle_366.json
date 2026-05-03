@@ -125,7 +125,7 @@
       "row": 0,
       "col": 7,
       "length": 5,
-      "clue": "Bir şeyin anlamını kavrama; olup biteni zihinde anlamlandırma yeteneği.",
+      "clue": "Bir şeyin anlamını kavrama; olup biteni zihinde anlamlandırma yeteneği (5 harf) [B366-S1]",
       "answer": "İDRAK"
     },
     {
@@ -134,7 +134,7 @@
       "row": 0,
       "col": 8,
       "length": 5,
-      "clue": "İçine giysi, kap kacak ya da eşya konulan, kapaklı büyük mobilya.",
+      "clue": "İçine giysi, kap kacak ya da eşya konulan, kapaklı büyük mobilya (5 harf) [B366-S2]",
       "answer": "DOLAP"
     },
     {
@@ -143,7 +143,7 @@
       "row": 2,
       "col": 3,
       "length": 6,
-      "clue": "Uzun kasasında büyük yükler taşıyan, dört tekerlekten fazlası olan taşıt.",
+      "clue": "Uzun kasasında büyük yükler taşıyan, dört tekerlekten fazlası olan taşıt (6 harf) [B366-S3]",
       "answer": "KAMYON"
     },
     {
@@ -152,7 +152,7 @@
       "row": 3,
       "col": 1,
       "length": 3,
-      "clue": "Damarlarda dolaşarak vücuda oksijen taşıyan kırmızı renkli canlı sıvı.",
+      "clue": "Damarlarda dolaşarak vücuda oksijen taşıyan kırmızı renkli canlı sıvı (3 harf) [B366-S4]",
       "answer": "KAN"
     },
     {
@@ -161,7 +161,7 @@
       "row": 3,
       "col": 5,
       "length": 4,
-      "clue": "Bir ülkenin savunmasını üstlenen, askerlerden oluşan silahlı kuvvetler.",
+      "clue": "Bir ülkenin savunmasını üstlenen, askerlerden oluşan silahlı kuvvetler (4 harf) [B366-S5]",
       "answer": "ORDU"
     },
     {
@@ -170,7 +170,7 @@
       "row": 3,
       "col": 5,
       "length": 5,
-      "clue": "Geniş bir alana yayılmış, iç içe büyümüş ağaçlardan oluşan doğal yaşam.",
+      "clue": "Geniş bir alana yayılmış, iç içe büyümüş ağaçlardan oluşan doğal yaşam (5 harf) [B366-S5]",
       "answer": "ORMAN"
     },
     {
@@ -179,7 +179,7 @@
       "row": 4,
       "col": 0,
       "length": 6,
-      "clue": "Bulutlardaki su damlalarının yer çekimiyle gökten yağması.",
+      "clue": "Bulutlardaki su damlalarının yer çekimiyle gökten yağması (6 harf) [B366-S6]",
       "answer": "YAĞMUR"
     },
     {
@@ -188,7 +188,7 @@
       "row": 5,
       "col": 7,
       "length": 3,
-      "clue": "Bir ağacın gövdesinden yanlara doğru uzayan ve yapraklarını taşıyan kol.",
+      "clue": "Bir ağacın gövdesinden yanlara doğru uzayan ve yapraklarını taşıyan kol (3 harf) [B366-S7]",
       "answer": "DAL"
     },
     {
@@ -197,7 +197,7 @@
       "row": 6,
       "col": 5,
       "length": 4,
-      "clue": "Aradaki mesafenin çok olduğu; yakınlığı hissedilmeyen ötelerdeki yer.",
+      "clue": "Aradaki mesafenin çok olduğu; yakınlığı hissedilmeyen ötelerdeki yer (4 harf) [B366-S8]",
       "answer": "UZAK"
     },
     {
@@ -206,7 +206,7 @@
       "row": 7,
       "col": 1,
       "length": 3,
-      "clue": "İçindeki dilin sallanmasıyla ses çıkaran, koni biçimli madeni araç.",
+      "clue": "İçindeki dilin sallanmasıyla ses çıkaran, koni biçimli madeni araç (3 harf) [B366-S9]",
       "answer": "ÇAN"
     }
   ]

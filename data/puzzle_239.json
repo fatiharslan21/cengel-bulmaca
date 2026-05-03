@@ -133,7 +133,7 @@
       "row": 0,
       "col": 1,
       "length": 3,
-      "clue": "Kişinin yasal olarak sahip olduğu; alması ya da yapması gereken şey.",
+      "clue": "Kişinin yasal olarak sahip olduğu; alması ya da yapması gereken şey (3 harf) [B239-S1]",
       "answer": "HAK"
     },
     {
@@ -142,7 +142,7 @@
       "row": 0,
       "col": 3,
       "length": 4,
-      "clue": "Toprağın üstünde ya da altında bulunan, kolay parçalanmayan büyük taş.",
+      "clue": "Toprağın üstünde ya da altında bulunan, kolay parçalanmayan büyük taş (4 harf) [B239-S2]",
       "answer": "KAYA"
     },
     {
@@ -151,7 +151,7 @@
       "row": 1,
       "col": 3,
       "length": 4,
-      "clue": "Bir işin başında konulan, ulaşılmak istenen hedef ya da gaye.",
+      "clue": "Bir işin başında konulan, ulaşılmak istenen hedef ya da gaye (4 harf) [B239-S3]",
       "answer": "AMAÇ"
     },
     {
@@ -160,7 +160,7 @@
       "row": 1,
       "col": 5,
       "length": 4,
-      "clue": "Sahte ya da taklit olmayan; bir şeyin gerçek ve temel olan hali.",
+      "clue": "Sahte ya da taklit olmayan; bir şeyin gerçek ve temel olan hali (4 harf) [B239-S4]",
       "answer": "ASIL"
     },
     {
@@ -169,7 +169,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "Uykuda iken zihnin sahneler halinde canlandırdığı renkli görüntüler.",
+      "clue": "Uykuda iken zihnin sahneler halinde canlandırdığı renkli görüntüler (4 harf) [B239-S5]",
       "answer": "RÜYA"
     },
     {
@@ -178,7 +178,7 @@
       "row": 3,
       "col": 7,
       "length": 4,
-      "clue": "İçine çiçek konulmak üzere yapılmış, ince uzun boyunlu süs kabı.",
+      "clue": "İçine çiçek konulmak üzere yapılmış, ince uzun boyunlu süs kabı (4 harf) [B239-S6]",
       "answer": "VAZO"
     },
     {
@@ -187,7 +187,7 @@
       "row": 4,
       "col": 4,
       "length": 4,
-      "clue": "Kabuğu kırmızı, sarı ya da yeşil olabilen, sulu ve çıtır meyve.",
+      "clue": "Kabuğu kırmızı, sarı ya da yeşil olabilen, sulu ve çıtır meyve (4 harf) [B239-S7]",
       "answer": "ELMA"
     },
     {
@@ -196,7 +196,7 @@
       "row": 6,
       "col": 6,
       "length": 4,
-      "clue": "Kötü günde de yanında olan, gönülden sevilen yakın arkadaş.",
+      "clue": "Kötü günde de yanında olan, gönülden sevilen yakın arkadaş (4 harf) [B239-S8]",
       "answer": "DOST"
     },
     {
@@ -205,7 +205,7 @@
       "row": 6,
       "col": 6,
       "length": 4,
-      "clue": "İnsanı üzen, iç sıkıntısı veren; uzun süre geçmeyen tasa ve keder.",
+      "clue": "İnsanı üzen, iç sıkıntısı veren; uzun süre geçmeyen tasa ve keder (4 harf) [B239-S8]",
       "answer": "DERT"
     },
     {
@@ -214,7 +214,7 @@
       "row": 8,
       "col": 4,
       "length": 4,
-      "clue": "İki şeyin birbirinden ayrıldığı yön; aralarındaki benzemezlik.",
+      "clue": "İki şeyin birbirinden ayrıldığı yön; aralarındaki benzemezlik (4 harf) [B239-S9]",
       "answer": "FARK"
     }
   ]

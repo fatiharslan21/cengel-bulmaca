@@ -156,7 +156,7 @@
       "row": 0,
       "col": 7,
       "length": 5,
-      "clue": "Kıtaları birbirinden ayıran, tuzlu sulardan oluşan uçsuz bucaksız kütle.",
+      "clue": "Kıtaları birbirinden ayıran, tuzlu sulardan oluşan uçsuz bucaksız kütle (5 harf) [B273-S1]",
       "answer": "DENİZ"
     },
     {
@@ -165,7 +165,7 @@
       "row": 1,
       "col": 6,
       "length": 5,
-      "clue": "Sayılarla yapılan dört işlem; gelir ve giderin tutulduğu kayıt.",
+      "clue": "Sayılarla yapılan dört işlem; gelir ve giderin tutulduğu kayıt (5 harf) [B273-S2]",
       "answer": "HESAP"
     },
     {
@@ -174,7 +174,7 @@
       "row": 3,
       "col": 5,
       "length": 3,
-      "clue": "Bir ağacın gövdesinden yanlara doğru uzayan ve yapraklarını taşıyan kol.",
+      "clue": "Bir ağacın gövdesinden yanlara doğru uzayan ve yapraklarını taşıyan kol (3 harf) [B273-S3]",
       "answer": "DAL"
     },
     {
@@ -183,7 +183,7 @@
       "row": 4,
       "col": 5,
       "length": 3,
-      "clue": "Bir üstün ya da yetkilinin önüne saygıyla sunma, takdim etme eylemi.",
+      "clue": "Bir üstün ya da yetkilinin önüne saygıyla sunma, takdim etme eylemi (3 harf) [B273-S4]",
       "answer": "ARZ"
     },
     {
@@ -192,7 +192,7 @@
       "row": 5,
       "col": 0,
       "length": 6,
-      "clue": "Dinde kıyamet sonrası ölülerin toplanacağına inanılan büyük buluşma yeri.",
+      "clue": "Dinde kıyamet sonrası ölülerin toplanacağına inanılan büyük buluşma yeri (6 harf) [B273-S5]",
       "answer": "MAHŞER"
     },
     {
@@ -201,7 +201,7 @@
       "row": 5,
       "col": 3,
       "length": 3,
-      "clue": "Omuzdan bileğe kadar uzanan, eli bedene bağlayan üst uzvumuz.",
+      "clue": "Omuzdan bileğe kadar uzanan, eli bedene bağlayan üst uzvumuz (3 harf) [B273-S6]",
       "answer": "KOL"
     },
     {
@@ -210,7 +210,7 @@
       "row": 5,
       "col": 3,
       "length": 6,
-      "clue": "Bir işi yapabilme gücü; insanda ya da doğada bulunan büyük kuvvet.",
+      "clue": "Bir işi yapabilme gücü; insanda ya da doğada bulunan büyük kuvvet (6 harf) [B273-S6]",
       "answer": "KUDRET"
     },
     {
@@ -219,7 +219,7 @@
       "row": 6,
       "col": 0,
       "length": 4,
-      "clue": "İçten duyulan istek, gönülden beklenen dilek veya özlem.",
+      "clue": "İçten duyulan istek, gönülden beklenen dilek veya özlem (4 harf) [B273-S7]",
       "answer": "ARZU"
     },
     {
@@ -228,7 +228,7 @@
       "row": 6,
       "col": 6,
       "length": 3,
-      "clue": "Arıların çiçeklerden topladığı nektarı işleyerek yaptığı koyu, tatlı gıda.",
+      "clue": "Arıların çiçeklerden topladığı nektarı işleyerek yaptığı koyu, tatlı gıda (3 harf) [B273-S8]",
       "answer": "BAL"
     },
     {
@@ -237,7 +237,7 @@
       "row": 7,
       "col": 3,
       "length": 5,
-      "clue": "İçine giysi, kap kacak ya da eşya konulan, kapaklı büyük mobilya.",
+      "clue": "İçine giysi, kap kacak ya da eşya konulan, kapaklı büyük mobilya (5 harf) [B273-S9]",
       "answer": "DOLAP"
     }
   ]

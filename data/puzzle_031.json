@@ -112,7 +112,7 @@
       "row": 0,
       "col": 6,
       "length": 4,
-      "clue": "Akrep, yelkovan ve rakamlarla anı gösteren; zamanı ölçen günlük araç.",
+      "clue": "Akrep, yelkovan ve rakamlarla anı gösteren; zamanı ölçen günlük araç (4 harf) [B31-S1]",
       "answer": "SAAT"
     },
     {
@@ -121,7 +121,7 @@
       "row": 1,
       "col": 5,
       "length": 3,
-      "clue": "Tarihte belli özelliklerle ayırt edilen uzun dönem; devir, asır.",
+      "clue": "Tarihte belli özelliklerle ayırt edilen uzun dönem; devir, asır (3 harf) [B31-S2]",
       "answer": "ÇAĞ"
     },
     {
@@ -130,7 +130,7 @@
       "row": 3,
       "col": 4,
       "length": 3,
-      "clue": "İçindeki dilin sallanmasıyla ses çıkaran, koni biçimli madeni araç.",
+      "clue": "İçindeki dilin sallanmasıyla ses çıkaran, koni biçimli madeni araç (3 harf) [B31-S3]",
       "answer": "ÇAN"
     },
     {
@@ -139,7 +139,7 @@
       "row": 3,
       "col": 4,
       "length": 3,
-      "clue": "Bahçeyi ya da tarlayı çevreleyen, tahta veya telden yapılmış alçak engel.",
+      "clue": "Bahçeyi ya da tarlayı çevreleyen, tahta veya telden yapılmış alçak engel (3 harf) [B31-S3]",
       "answer": "ÇİT"
     },
     {
@@ -148,7 +148,7 @@
       "row": 4,
       "col": 2,
       "length": 3,
-      "clue": "Soyun büyüklerinden sayılan dede ya da daha öncesinden gelen büyük.",
+      "clue": "Soyun büyüklerinden sayılan dede ya da daha öncesinden gelen büyük (3 harf) [B31-S4]",
       "answer": "ATA"
     },
     {
@@ -157,7 +157,7 @@
       "row": 4,
       "col": 2,
       "length": 4,
-      "clue": "Kırda ya da ormanda silahla veya tuzakla av peşinde koşan kişi.",
+      "clue": "Kırda ya da ormanda silahla veya tuzakla av peşinde koşan kişi (4 harf) [B31-S4]",
       "answer": "AVCI"
     },
     {
@@ -166,7 +166,7 @@
       "row": 4,
       "col": 8,
       "length": 5,
-      "clue": "Radyo dalgalarını yollayıp yansımasını ölçerek uzaktaki nesneleri belirleyen sistem.",
+      "clue": "Radyo dalgalarını yollayıp yansımasını ölçerek uzaktaki nesneleri belirleyen sistem (5 harf) [B31-S5]",
       "answer": "RADAR"
     },
     {
@@ -175,7 +175,7 @@
       "row": 5,
       "col": 4,
       "length": 5,
-      "clue": "Bir cümlenin sonuna konan en küçük yazı işareti; konumun kendisi.",
+      "clue": "Bir cümlenin sonuna konan en küçük yazı işareti; konumun kendisi (5 harf) [B31-S6]",
       "answer": "NOKTA"
     },
     {
@@ -184,7 +184,7 @@
       "row": 6,
       "col": 0,
       "length": 4,
-      "clue": "Bir kelimeyi bir nefeste söyleyebildiğimiz en küçük ses birimi.",
+      "clue": "Bir kelimeyi bir nefeste söyleyebildiğimiz en küçük ses birimi (4 harf) [B31-S7]",
       "answer": "HECE"
     }
   ]

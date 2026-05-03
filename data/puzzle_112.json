@@ -103,7 +103,7 @@
       "row": 0,
       "col": 2,
       "length": 4,
-      "clue": "Kalemin kâğıda bıraktığı; harflerden oluşan okunabilir işaretler.",
+      "clue": "Kalemin kâğıda bıraktığı; harflerden oluşan okunabilir işaretler (4 harf) [B112-S1]",
       "answer": "YAZI"
     },
     {
@@ -112,7 +112,7 @@
       "row": 0,
       "col": 4,
       "length": 5,
-      "clue": "Ani ve sert bir hareketle yapılan vuruş; çarpma sonucu alınan sarsıntı.",
+      "clue": "Ani ve sert bir hareketle yapılan vuruş; çarpma sonucu alınan sarsıntı (5 harf) [B112-S2]",
       "answer": "DARBE"
     },
     {
@@ -121,7 +121,7 @@
       "row": 0,
       "col": 4,
       "length": 4,
-      "clue": "Üçten sonra gelen, mevsim ve yön sayısına denk gelen doğal sayı.",
+      "clue": "Üçten sonra gelen, mevsim ve yön sayısına denk gelen doğal sayı (4 harf) [B112-S2]",
       "answer": "DÖRT"
     },
     {
@@ -130,7 +130,7 @@
       "row": 0,
       "col": 7,
       "length": 3,
-      "clue": "Aynı ortak özellikleri taşıyan canlıların oluşturduğu sınıflama birimi.",
+      "clue": "Aynı ortak özellikleri taşıyan canlıların oluşturduğu sınıflama birimi (3 harf) [B112-S3]",
       "answer": "TÜR"
     },
     {
@@ -139,7 +139,7 @@
       "row": 1,
       "col": 2,
       "length": 3,
-      "clue": "Dört bir yanı suyla çevrili, denizin ortasında kalmış toprak parçası.",
+      "clue": "Dört bir yanı suyla çevrili, denizin ortasında kalmış toprak parçası (3 harf) [B112-S4]",
       "answer": "ADA"
     },
     {
@@ -148,7 +148,7 @@
       "row": 3,
       "col": 6,
       "length": 3,
-      "clue": "Bitkinin çiçek ya da yaprağını gövdeye bağlayan uzun ve ince bölüm.",
+      "clue": "Bitkinin çiçek ya da yaprağını gövdeye bağlayan uzun ve ince bölüm (3 harf) [B112-S5]",
       "answer": "SAP"
     },
     {
@@ -157,7 +157,7 @@
       "row": 4,
       "col": 3,
       "length": 4,
-      "clue": "Bir olayın kaçıncı kez yaşandığını anlatmak için kullanılan kez sözcüğü.",
+      "clue": "Bir olayın kaçıncı kez yaşandığını anlatmak için kullanılan kez sözcüğü (4 harf) [B112-S6]",
       "answer": "DEFA"
     },
     {
@@ -166,7 +166,7 @@
       "row": 4,
       "col": 3,
       "length": 5,
-      "clue": "Bir varsayımı doğrulamak amacıyla yapılan, kontrollü bilimsel çalışma.",
+      "clue": "Bir varsayımı doğrulamak amacıyla yapılan, kontrollü bilimsel çalışma (5 harf) [B112-S6]",
       "answer": "DENEY"
     },
     {
@@ -175,7 +175,7 @@
       "row": 6,
       "col": 0,
       "length": 4,
-      "clue": "Boş zamanlarda eğlence ya da öğrenme amacıyla kurallara göre oynanan etkinlik.",
+      "clue": "Boş zamanlarda eğlence ya da öğrenme amacıyla kurallara göre oynanan etkinlik (4 harf) [B112-S7]",
       "answer": "OYUN"
     }
   ]

@@ -123,7 +123,7 @@
       "row": 0,
       "col": 1,
       "length": 5,
-      "clue": "Mektup ve paketlerin toplanıp yerine ulaştırıldığı geleneksel iletişim hizmeti.",
+      "clue": "Mektup ve paketlerin toplanıp yerine ulaştırıldığı geleneksel iletişim hizmeti (5 harf) [B396-S1]",
       "answer": "POSTA"
     },
     {
@@ -132,7 +132,7 @@
       "row": 0,
       "col": 4,
       "length": 5,
-      "clue": "Bir yapının ayakta durmasını sağlayan, toprağa gömülü olan ilk bölümü.",
+      "clue": "Bir yapının ayakta durmasını sağlayan, toprağa gömülü olan ilk bölümü (5 harf) [B396-S2]",
       "answer": "TEMEL"
     },
     {
@@ -141,7 +141,7 @@
       "row": 0,
       "col": 6,
       "length": 5,
-      "clue": "Yumuşak huylu, kolay geçinilen; sert tavır göstermeyen uysal kimse.",
+      "clue": "Yumuşak huylu, kolay geçinilen; sert tavır göstermeyen uysal kimse (5 harf) [B396-S3]",
       "answer": "MUNİS"
     },
     {
@@ -150,7 +150,7 @@
       "row": 1,
       "col": 0,
       "length": 3,
-      "clue": "Kırmızı ile mavinin karışımından elde edilen, menekşe renginde koyu ton.",
+      "clue": "Kırmızı ile mavinin karışımından elde edilen, menekşe renginde koyu ton (3 harf) [B396-S4]",
       "answer": "MOR"
     },
     {
@@ -159,7 +159,7 @@
       "row": 3,
       "col": 3,
       "length": 7,
-      "clue": "Gizli kalmış bir şeyin zamanı gelince gözle görünür olması; belirme.",
+      "clue": "Gizli kalmış bir şeyin zamanı gelince gözle görünür olması; belirme (7 harf) [B396-S5]",
       "answer": "TECELLİ"
     },
     {
@@ -168,7 +168,7 @@
       "row": 3,
       "col": 3,
       "length": 4,
-      "clue": "Bir kurala, şahsa ya da düzene bağlı olan; ona uymak durumunda kalan.",
+      "clue": "Bir kurala, şahsa ya da düzene bağlı olan; ona uymak durumunda kalan (4 harf) [B396-S5]",
       "answer": "TABİ"
     },
     {
@@ -177,7 +177,7 @@
       "row": 4,
       "col": 0,
       "length": 4,
-      "clue": "Dişleri sürekli uzayan, tahtayı ve kâğıdı kemirebilen küçük kemirgen.",
+      "clue": "Dişleri sürekli uzayan, tahtayı ve kâğıdı kemirebilen küçük kemirgen (4 harf) [B396-S6]",
       "answer": "FARE"
     },
     {
@@ -186,7 +186,7 @@
       "row": 4,
       "col": 0,
       "length": 5,
-      "clue": "Birbirinden ayrı düşen sevgililerin yaşadığı acı dolu ayrılık.",
+      "clue": "Birbirinden ayrı düşen sevgililerin yaşadığı acı dolu ayrılık (5 harf) [B396-S6]",
       "answer": "FIRAK"
     },
     {
@@ -195,7 +195,7 @@
       "row": 6,
       "col": 2,
       "length": 5,
-      "clue": "Ciğerlere hava çekmek ve bırakmak; yaşamın sürdüğünün göstergesi soluk.",
+      "clue": "Ciğerlere hava çekmek ve bırakmak; yaşamın sürdüğünün göstergesi soluk (5 harf) [B396-S7]",
       "answer": "NEFES"
     },
     {
@@ -204,7 +204,7 @@
       "row": 8,
       "col": 3,
       "length": 5,
-      "clue": "Göze ve gönle hoş gelen, nazik ve yumuşak huylu; incelikli olan.",
+      "clue": "Göze ve gönle hoş gelen, nazik ve yumuşak huylu; incelikli olan (5 harf) [B396-S8]",
       "answer": "LATİF"
     }
   ]

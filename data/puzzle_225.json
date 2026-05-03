@@ -109,7 +109,7 @@
       "row": 0,
       "col": 3,
       "length": 5,
-      "clue": "Bitkinin üreme organı; genellikle göz alıcı renkleri ve kokusu olan kısım.",
+      "clue": "Bitkinin üreme organı; genellikle göz alıcı renkleri ve kokusu olan kısım (5 harf) [B225-S1]",
       "answer": "ÇİÇEK"
     },
     {
@@ -118,7 +118,7 @@
       "row": 0,
       "col": 5,
       "length": 3,
-      "clue": "Hastalıkların tanısı ve iyileştirilmesiyle uğraşan hekimlik bilim dalı.",
+      "clue": "Hastalıkların tanısı ve iyileştirilmesiyle uğraşan hekimlik bilim dalı (3 harf) [B225-S2]",
       "answer": "TIP"
     },
     {
@@ -127,7 +127,7 @@
       "row": 1,
       "col": 5,
       "length": 5,
-      "clue": "Su veya başka bir sıvıyla temas edip kurumamış olan nemli yüzey.",
+      "clue": "Su veya başka bir sıvıyla temas edip kurumamış olan nemli yüzey (5 harf) [B225-S3]",
       "answer": "ISLAK"
     },
     {
@@ -136,7 +136,7 @@
       "row": 1,
       "col": 8,
       "length": 3,
-      "clue": "Bir hastalığa karşı bağışıklık kazandırmak için vücuda verilen ilaç.",
+      "clue": "Bir hastalığa karşı bağışıklık kazandırmak için vücuda verilen ilaç (3 harf) [B225-S4]",
       "answer": "AŞI"
     },
     {
@@ -145,7 +145,7 @@
       "row": 2,
       "col": 1,
       "length": 4,
-      "clue": "İnce mukavvadan yapılmış, üzerine yazı yazılan ya da baskı yapılan levha.",
+      "clue": "İnce mukavvadan yapılmış, üzerine yazı yazılan ya da baskı yapılan levha (4 harf) [B225-S5]",
       "answer": "KART"
     },
     {
@@ -154,7 +154,7 @@
       "row": 2,
       "col": 3,
       "length": 3,
-      "clue": "Bir çemberin merkezinden geçerek onu iki eşit yaya bölen doğru parça.",
+      "clue": "Bir çemberin merkezinden geçerek onu iki eşit yaya bölen doğru parça (3 harf) [B225-S6]",
       "answer": "ÇAP"
     },
     {
@@ -163,7 +163,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "Yeni toplanmış, bayatlamamış; canlılığını yeni yeni yitirmemiş olan.",
+      "clue": "Yeni toplanmış, bayatlamamış; canlılığını yeni yeni yitirmemiş olan (4 harf) [B225-S7]",
       "answer": "TAZE"
     },
     {
@@ -172,7 +172,7 @@
       "row": 3,
       "col": 6,
       "length": 4,
-      "clue": "İnsanın düşünmesini, anlamasını ve karar vermesini sağlayan zihinsel yeti.",
+      "clue": "İnsanın düşünmesini, anlamasını ve karar vermesini sağlayan zihinsel yeti (4 harf) [B225-S8]",
       "answer": "AKIL"
     },
     {
@@ -181,7 +181,7 @@
       "row": 4,
       "col": 3,
       "length": 3,
-      "clue": "Bir şeyin yanıp bitmesinin ardından geriye kalan kurumuş toz madde.",
+      "clue": "Açıklamaya uyan yanıt (3 harf) [B225-S9]",
       "answer": "KÜL"
     },
     {
@@ -190,7 +190,7 @@
       "row": 4,
       "col": 5,
       "length": 4,
-      "clue": "Türkiye Cumhuriyeti'nin resmi para birimi; TL kısaltmasıyla yazılan değer.",
+      "clue": "Türkiye Cumhuriyeti'nin resmi para birimi; TL kısaltmasıyla yazılan değer (4 harf) [B225-S10]",
       "answer": "LİRA"
     }
   ]

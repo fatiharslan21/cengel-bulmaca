@@ -123,7 +123,7 @@
       "row": 0,
       "col": 8,
       "length": 3,
-      "clue": "Başımızın derisinde biten, her birinin kökten uzayan ince tel kıl.",
+      "clue": "Başımızın derisinde biten, her birinin kökten uzayan ince tel kıl (3 harf) [B42-S1]",
       "answer": "SAÇ"
     },
     {
@@ -132,7 +132,7 @@
       "row": 1,
       "col": 5,
       "length": 4,
-      "clue": "Çalışmaya ya da yolculuğa kısa bir süre ara vererek dinlenme anı.",
+      "clue": "Çalışmaya ya da yolculuğa kısa bir süre ara vererek dinlenme anı (4 harf) [B42-S2]",
       "answer": "MOLA"
     },
     {
@@ -141,7 +141,7 @@
       "row": 1,
       "col": 5,
       "length": 3,
-      "clue": "Kırmızı ile mavinin karışımından elde edilen, menekşe renginde koyu ton.",
+      "clue": "Kırmızı ile mavinin karışımından elde edilen, menekşe renginde koyu ton (3 harf) [B42-S2]",
       "answer": "MOR"
     },
     {
@@ -150,7 +150,7 @@
       "row": 3,
       "col": 3,
       "length": 3,
-      "clue": "Soğuk havada bulutlardan düşen, altıgen kristallerden oluşan beyaz yağış.",
+      "clue": "Soğuk havada bulutlardan düşen, altıgen kristallerden oluşan beyaz yağış (3 harf) [B42-S3]",
       "answer": "KAR"
     },
     {
@@ -159,7 +159,7 @@
       "row": 3,
       "col": 3,
       "length": 4,
-      "clue": "Kulpundan tutularak su ya da başka sıvı taşınan derin silindirik kap.",
+      "clue": "Kulpundan tutularak su ya da başka sıvı taşınan derin silindirik kap (4 harf) [B42-S3]",
       "answer": "KOVA"
     },
     {
@@ -168,7 +168,7 @@
       "row": 5,
       "col": 0,
       "length": 4,
-      "clue": "Yanan bir şeyin üstünde dalgalanan, sıcak ve parlayan ışıklı kısım.",
+      "clue": "Yanan bir şeyin üstünde dalgalanan, sıcak ve parlayan ışıklı kısım (4 harf) [B42-S4]",
       "answer": "ALEV"
     },
     {
@@ -177,7 +177,7 @@
       "row": 5,
       "col": 0,
       "length": 5,
-      "clue": "Bir kimseye veya yere ulaşabilmek için gereken açık konum bilgisi.",
+      "clue": "Bir kimseye veya yere ulaşabilmek için gereken açık konum bilgisi (5 harf) [B42-S4]",
       "answer": "ADRES"
     },
     {
@@ -186,7 +186,7 @@
       "row": 6,
       "col": 3,
       "length": 4,
-      "clue": "Belirli bir yönde hareket eden elektrik yükü ya da suyun sürüklenişi.",
+      "clue": "Belirli bir yönde hareket eden elektrik yükü ya da suyun sürüklenişi (4 harf) [B42-S5]",
       "answer": "AKIM"
     },
     {
@@ -195,7 +195,7 @@
       "row": 6,
       "col": 4,
       "length": 3,
-      "clue": "Bir binanın birbirinin üzerine gelen yatay bölümlerinden her biri.",
+      "clue": "Bir binanın birbirinin üzerine gelen yatay bölümlerinden her biri (3 harf) [B42-S6]",
       "answer": "KAT"
     }
   ]

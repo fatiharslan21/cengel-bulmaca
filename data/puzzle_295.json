@@ -181,7 +181,7 @@
       "row": 0,
       "col": 9,
       "length": 6,
-      "clue": "Yakalı, düğmeli ve kollu olan, üstten giyilen ince kumaş giysi.",
+      "clue": "Yakalı, düğmeli ve kollu olan, üstten giyilen ince kumaş giysi (6 harf) [B295-S1]",
       "answer": "GÖMLEK"
     },
     {
@@ -190,7 +190,7 @@
       "row": 1,
       "col": 8,
       "length": 4,
-      "clue": "Üçten sonra gelen, mevsim ve yön sayısına denk gelen doğal sayı.",
+      "clue": "Üçten sonra gelen, mevsim ve yön sayısına denk gelen doğal sayı (4 harf) [B295-S2]",
       "answer": "DÖRT"
     },
     {
@@ -199,7 +199,7 @@
       "row": 4,
       "col": 5,
       "length": 6,
-      "clue": "Bir işi yapabilme gücü; insanda ya da doğada bulunan büyük kuvvet.",
+      "clue": "Bir işi yapabilme gücü; insanda ya da doğada bulunan büyük kuvvet (6 harf) [B295-S3]",
       "answer": "KUDRET"
     },
     {
@@ -208,7 +208,7 @@
       "row": 4,
       "col": 5,
       "length": 6,
-      "clue": "Kişinin payına düşen; kaderin ona uygun gördüğü nasibi ya da şansı.",
+      "clue": "Kişinin payına düşen; kaderin ona uygun gördüğü nasibi ya da şansı (6 harf) [B295-S3]",
       "answer": "KISMET"
     },
     {
@@ -217,7 +217,7 @@
       "row": 5,
       "col": 2,
       "length": 4,
-      "clue": "İçine eşya konulan, çoğu zaman kapağı olan, dikdörtgen ya da kare biçimli hazne.",
+      "clue": "İçine eşya konulan, çoğu zaman kapağı olan, dikdörtgen ya da kare biçimli hazne (4 harf) [B295-S4]",
       "answer": "KUTU"
     },
     {
@@ -226,7 +226,7 @@
       "row": 6,
       "col": 7,
       "length": 4,
-      "clue": "Kalemin kâğıda bıraktığı; harflerden oluşan okunabilir işaretler.",
+      "clue": "Kalemin kâğıda bıraktığı; harflerden oluşan okunabilir işaretler (4 harf) [B295-S5]",
       "answer": "YAZI"
     },
     {
@@ -235,7 +235,7 @@
       "row": 7,
       "col": 4,
       "length": 5,
-      "clue": "Bilginin ötesinde, deneyim ve sezgiyle kazanılan derin anlayış.",
+      "clue": "Bilginin ötesinde, deneyim ve sezgiyle kazanılan derin anlayış (5 harf) [B295-S6]",
       "answer": "İRFAN"
     },
     {
@@ -244,7 +244,7 @@
       "row": 8,
       "col": 1,
       "length": 4,
-      "clue": "Eskiden şehirleri düşmandan korumak için yapılmış yüksek surlu savunma yapısı.",
+      "clue": "Eskiden şehirleri düşmandan korumak için yapılmış yüksek surlu savunma yapısı (4 harf) [B295-S7]",
       "answer": "KALE"
     },
     {
@@ -253,7 +253,7 @@
       "row": 8,
       "col": 3,
       "length": 4,
-      "clue": "Din esaslarına yürekten bağlanma; kalben kabul edip inanma hali.",
+      "clue": "Din esaslarına yürekten bağlanma; kalben kabul edip inanma hali (4 harf) [B295-S8]",
       "answer": "İMAN"
     },
     {
@@ -262,7 +262,7 @@
       "row": 9,
       "col": 0,
       "length": 6,
-      "clue": "Bir işi başarmak için katlanılan güçlük; çekilen eziyet.",
+      "clue": "Bir işi başarmak için katlanılan güçlük; çekilen eziyet (6 harf) [B295-S9]",
       "answer": "ZAHMET"
     }
   ]

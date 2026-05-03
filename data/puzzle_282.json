@@ -169,7 +169,7 @@
       "row": 0,
       "col": 2,
       "length": 6,
-      "clue": "Geniş kanatlarıyla yükseklerde süzülen, keskin gözlü yırtıcı büyük kuş.",
+      "clue": "Geniş kanatlarıyla yükseklerde süzülen, keskin gözlü yırtıcı büyük kuş (6 harf) [B282-S1]",
       "answer": "KARTAL"
     },
     {
@@ -178,7 +178,7 @@
       "row": 1,
       "col": 1,
       "length": 3,
-      "clue": "Toprağın içinden çıkan, sert ve ağır olan doğal kayaç parçası.",
+      "clue": "Toprağın içinden çıkan, sert ve ağır olan doğal kayaç parçası (3 harf) [B282-S2]",
       "answer": "TAŞ"
     },
     {
@@ -187,7 +187,7 @@
       "row": 4,
       "col": 4,
       "length": 5,
-      "clue": "Bitkinin çiçeğinin olgunlaşmasıyla oluşan, genellikle yenilebilir ürün.",
+      "clue": "Bitkinin çiçeğinin olgunlaşmasıyla oluşan, genellikle yenilebilir ürün (5 harf) [B282-S3]",
       "answer": "MEYVE"
     },
     {
@@ -196,7 +196,7 @@
       "row": 5,
       "col": 0,
       "length": 5,
-      "clue": "Işığın önüne bir cisim girince arkasında oluşan karanlık alan.",
+      "clue": "Işığın önüne bir cisim girince arkasında oluşan karanlık alan (5 harf) [B282-S4]",
       "answer": "GÖLGE"
     },
     {
@@ -205,7 +205,7 @@
       "row": 5,
       "col": 7,
       "length": 5,
-      "clue": "Kamıştan ya da pancardan elde edilen; çay ve tatlılara katılan tatlı madde.",
+      "clue": "Kamıştan ya da pancardan elde edilen; çay ve tatlılara katılan tatlı madde (5 harf) [B282-S5]",
       "answer": "ŞEKER"
     },
     {
@@ -214,7 +214,7 @@
       "row": 6,
       "col": 6,
       "length": 4,
-      "clue": "Bir kimseyle ayrılırken söylenen son söz; ayrılık selamı.",
+      "clue": "Bir kimseyle ayrılırken söylenen son söz; ayrılık selamı (4 harf) [B282-S6]",
       "answer": "VEDA"
     },
     {
@@ -223,7 +223,7 @@
       "row": 8,
       "col": 3,
       "length": 5,
-      "clue": "Yelkenli ya da motorlu olup denizde kısa yolculuklara çıkan küçük gemi.",
+      "clue": "Yelkenli ya da motorlu olup denizde kısa yolculuklara çıkan küçük gemi (5 harf) [B282-S7]",
       "answer": "TEKNE"
     },
     {
@@ -232,7 +232,7 @@
       "row": 8,
       "col": 3,
       "length": 4,
-      "clue": "Bir kurala, şahsa ya da düzene bağlı olan; ona uymak durumunda kalan.",
+      "clue": "Bir kurala, şahsa ya da düzene bağlı olan; ona uymak durumunda kalan (4 harf) [B282-S7]",
       "answer": "TABİ"
     },
     {
@@ -241,7 +241,7 @@
       "row": 8,
       "col": 5,
       "length": 3,
-      "clue": "Yılın en soğuk, en karlı ve gündüzlerin en kısa olduğu dört mevsimden biri.",
+      "clue": "Yılın en soğuk, en karlı ve gündüzlerin en kısa olduğu dört mevsimden biri (3 harf) [B282-S8]",
       "answer": "KIŞ"
     },
     {
@@ -250,7 +250,7 @@
       "row": 9,
       "col": 7,
       "length": 4,
-      "clue": "Uykuda iken zihnin sahneler halinde canlandırdığı renkli görüntüler.",
+      "clue": "Uykuda iken zihnin sahneler halinde canlandırdığı renkli görüntüler (4 harf) [B282-S9]",
       "answer": "RÜYA"
     }
   ]

@@ -109,7 +109,7 @@
       "row": 0,
       "col": 1,
       "length": 5,
-      "clue": "Üzerinde yaşadığımız, Güneş'in çevresinde dönen mavi yeşil gezegen.",
+      "clue": "Üzerinde yaşadığımız, Güneş'in çevresinde dönen mavi yeşil gezegen (5 harf) [B27-S1]",
       "answer": "DÜNYA"
     },
     {
@@ -118,7 +118,7 @@
       "row": 0,
       "col": 1,
       "length": 3,
-      "clue": "Havanın ısısının düşmesiyle suların yüzeyde buz tutması olayı.",
+      "clue": "Havanın ısısının düşmesiyle suların yüzeyde buz tutması olayı (3 harf) [B27-S1]",
       "answer": "DON"
     },
     {
@@ -127,7 +127,7 @@
       "row": 2,
       "col": 0,
       "length": 4,
-      "clue": "Kalınlığı az olan; zarif ve narin yapıda bulunan; kalının karşıtı.",
+      "clue": "Kalınlığı az olan; zarif ve narin yapıda bulunan; kalının karşıtı (4 harf) [B27-S2]",
       "answer": "İNCE"
     },
     {
@@ -136,7 +136,7 @@
       "row": 3,
       "col": 7,
       "length": 4,
-      "clue": "Öğretmenin evde yapılmak üzere öğrenciye verdiği görev; yerine getirilmesi gereken iş.",
+      "clue": "Öğretmenin evde yapılmak üzere öğrenciye verdiği görev; yerine getirilmesi gereken iş (4 harf) [B27-S3]",
       "answer": "ÖDEV"
     },
     {
@@ -145,7 +145,7 @@
       "row": 4,
       "col": 0,
       "length": 5,
-      "clue": "İçindeki ampulle çalışan, karanlık odayı aydınlatan elektrikli araç.",
+      "clue": "İçindeki ampulle çalışan, karanlık odayı aydınlatan elektrikli araç (5 harf) [B27-S4]",
       "answer": "LAMBA"
     },
     {
@@ -154,7 +154,7 @@
       "row": 4,
       "col": 4,
       "length": 4,
-      "clue": "Belirli bir yönde hareket eden elektrik yükü ya da suyun sürüklenişi.",
+      "clue": "Belirli bir yönde hareket eden elektrik yükü ya da suyun sürüklenişi (4 harf) [B27-S5]",
       "answer": "AKIM"
     },
     {
@@ -163,7 +163,7 @@
       "row": 4,
       "col": 7,
       "length": 3,
-      "clue": "İçin karşıtı; bir şeyin çevresini gören, dışarıya bakan yüzü.",
+      "clue": "İçin karşıtı; bir şeyin çevresini gören, dışarıya bakan yüzü (3 harf) [B27-S6]",
       "answer": "DIŞ"
     },
     {
@@ -172,7 +172,7 @@
       "row": 5,
       "col": 4,
       "length": 4,
-      "clue": "Çevresindeki yapılardan çok daha yüksek olan, dar ve uzun yapı.",
+      "clue": "Çevresindeki yapılardan çok daha yüksek olan, dar ve uzun yapı (4 harf) [B27-S7]",
       "answer": "KULE"
     },
     {
@@ -181,7 +181,7 @@
       "row": 7,
       "col": 3,
       "length": 4,
-      "clue": "Yetkili bir kimsenin yerine getirilmek üzere verdiği kesin buyruk.",
+      "clue": "Yetkili bir kimsenin yerine getirilmek üzere verdiği kesin buyruk (4 harf) [B27-S8]",
       "answer": "EMİR"
     }
   ]

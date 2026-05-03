@@ -117,7 +117,7 @@
       "row": 0,
       "col": 1,
       "length": 4,
-      "clue": "Bir kurala, şahsa ya da düzene bağlı olan; ona uymak durumunda kalan.",
+      "clue": "Bir kurala, şahsa ya da düzene bağlı olan; ona uymak durumunda kalan (4 harf) [B309-S1]",
       "answer": "TABİ"
     },
     {
@@ -126,7 +126,7 @@
       "row": 1,
       "col": 0,
       "length": 4,
-      "clue": "Üzerinde yemek yemek ya da çalışmak için kullanılan ayaklı düz mobilya.",
+      "clue": "Üzerinde yemek yemek ya da çalışmak için kullanılan ayaklı düz mobilya (4 harf) [B309-S2]",
       "answer": "MASA"
     },
     {
@@ -135,7 +135,7 @@
       "row": 1,
       "col": 3,
       "length": 3,
-      "clue": "Bir cismin aşağı tarafı; üst sözcüğünün tam karşıtı olan yön.",
+      "clue": "Bir cismin aşağı tarafı; üst sözcüğünün tam karşıtı olan yön (3 harf) [B309-S3]",
       "answer": "ALT"
     },
     {
@@ -144,7 +144,7 @@
       "row": 1,
       "col": 5,
       "length": 4,
-      "clue": "Gömleğin boynu çevreleyen üst kısmı; ceketin de boyuna değen kenarı.",
+      "clue": "Gömleğin boynu çevreleyen üst kısmı; ceketin de boyuna değen kenarı (4 harf) [B309-S4]",
       "answer": "YAKA"
     },
     {
@@ -153,7 +153,7 @@
       "row": 2,
       "col": 7,
       "length": 4,
-      "clue": "Bir işi başarmak için gösterilen büyük çaba, gayret ve çalışma.",
+      "clue": "Bir işi başarmak için gösterilen büyük çaba, gayret ve çalışma (4 harf) [B309-S5]",
       "answer": "CEHD"
     },
     {
@@ -162,7 +162,7 @@
       "row": 3,
       "col": 3,
       "length": 5,
-      "clue": "Yelkenli ya da motorlu olup denizde kısa yolculuklara çıkan küçük gemi.",
+      "clue": "Yelkenli ya da motorlu olup denizde kısa yolculuklara çıkan küçük gemi (5 harf) [B309-S6]",
       "answer": "TEKNE"
     },
     {
@@ -171,7 +171,7 @@
       "row": 4,
       "col": 9,
       "length": 4,
-      "clue": "Denizde yük ya da yolcu taşımak için yapılmış büyük su taşıtı.",
+      "clue": "Denizde yük ya da yolcu taşımak için yapılmış büyük su taşıtı (4 harf) [B309-S7]",
       "answer": "GEMİ"
     },
     {
@@ -180,7 +180,7 @@
       "row": 5,
       "col": 6,
       "length": 5,
-      "clue": "Bir kimseye veya yere ulaşabilmek için gereken açık konum bilgisi.",
+      "clue": "Bir kimseye veya yere ulaşabilmek için gereken açık konum bilgisi (5 harf) [B309-S8]",
       "answer": "ADRES"
     },
     {
@@ -189,7 +189,7 @@
       "row": 5,
       "col": 6,
       "length": 3,
-      "clue": "Elin iç tarafı; parmakların bittiği yerden bileğe kadar uzanan bölüm.",
+      "clue": "Elin iç tarafı; parmakların bittiği yerden bileğe kadar uzanan bölüm (3 harf) [B309-S8]",
       "answer": "AYA"
     },
     {
@@ -198,7 +198,7 @@
       "row": 7,
       "col": 3,
       "length": 5,
-      "clue": "Varlığı yerinde durmayıp sona ermesi; yokluğa geçme hali.",
+      "clue": "Varlığı yerinde durmayıp sona ermesi; yokluğa geçme hali (5 harf) [B309-S9]",
       "answer": "ZEVAL"
     }
   ]

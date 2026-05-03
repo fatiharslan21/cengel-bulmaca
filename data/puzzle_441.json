@@ -133,7 +133,7 @@
       "row": 0,
       "col": 7,
       "length": 3,
-      "clue": "Sarı kabuklu, uzun, yumuşak iç gövdeli tropikal meyve.",
+      "clue": "Sarı kabuklu, uzun, yumuşak iç gövdeli tropikal meyve (3 harf) [B441-S1]",
       "answer": "MUZ"
     },
     {
@@ -142,7 +142,7 @@
       "row": 0,
       "col": 9,
       "length": 5,
-      "clue": "Düğünlerde davulla birlikte çalınan, ince tiz sesli üflemeli halk çalgısı.",
+      "clue": "Düğünlerde davulla birlikte çalınan, ince tiz sesli üflemeli halk çalgısı (5 harf) [B441-S2]",
       "answer": "ZURNA"
     },
     {
@@ -151,7 +151,7 @@
       "row": 2,
       "col": 3,
       "length": 7,
-      "clue": "Üzüntülü birine söylenerek onu rahatlatan sıcak avutucu söz.",
+      "clue": "Üzüntülü birine söylenerek onu rahatlatan sıcak avutucu söz (7 harf) [B441-S3]",
       "answer": "TESELLİ"
     },
     {
@@ -160,7 +160,7 @@
       "row": 2,
       "col": 6,
       "length": 3,
-      "clue": "Sayıların başlangıcı olan, tek adedi gösteren ilk doğal rakam.",
+      "clue": "Sayıların başlangıcı olan, tek adedi gösteren ilk doğal rakam (3 harf) [B441-S4]",
       "answer": "BİR"
     },
     {
@@ -169,7 +169,7 @@
       "row": 3,
       "col": 2,
       "length": 5,
-      "clue": "Bir kimsenin toplumdaki yeri, konumu ya da makamı.",
+      "clue": "Bir kimsenin toplumdaki yeri, konumu ya da makamı (5 harf) [B441-S5]",
       "answer": "MEVKİ"
     },
     {
@@ -178,7 +178,7 @@
       "row": 4,
       "col": 6,
       "length": 4,
-      "clue": "İnanmadığı halde inanıyormuş gibi davranma; iki yüzlü tavır.",
+      "clue": "İnanmadığı halde inanıyormuş gibi davranma; iki yüzlü tavır (4 harf) [B441-S6]",
       "answer": "RİYA"
     },
     {
@@ -187,7 +187,7 @@
       "row": 4,
       "col": 8,
       "length": 4,
-      "clue": "Eskiyip yırtılan giysiyi onarmak için üstüne dikilen küçük kumaş parçası.",
+      "clue": "Eskiyip yırtılan giysiyi onarmak için üstüne dikilen küçük kumaş parçası (4 harf) [B441-S7]",
       "answer": "YAMA"
     },
     {
@@ -196,7 +196,7 @@
       "row": 5,
       "col": 0,
       "length": 4,
-      "clue": "Bir olayın başlangıcı ile sonu arasında geçen zaman aralığı.",
+      "clue": "Bir olayın başlangıcı ile sonu arasında geçen zaman aralığı (4 harf) [B441-S8]",
       "answer": "SÜRE"
     },
     {
@@ -205,7 +205,7 @@
       "row": 7,
       "col": 5,
       "length": 3,
-      "clue": "Tarihte belli özelliklerle ayırt edilen uzun dönem; devir, asır.",
+      "clue": "Tarihte belli özelliklerle ayırt edilen uzun dönem; devir, asır (3 harf) [B441-S9]",
       "answer": "ÇAĞ"
     },
     {
@@ -214,7 +214,7 @@
       "row": 8,
       "col": 2,
       "length": 4,
-      "clue": "Birine seslenmek için çıkarılan yüksek ses; çağırmak amaçlı bağırma.",
+      "clue": "Birine seslenmek için çıkarılan yüksek ses; çağırmak amaçlı bağırma (4 harf) [B441-S10]",
       "answer": "NİDA"
     }
   ]

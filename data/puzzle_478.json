@@ -111,7 +111,7 @@
       "row": 0,
       "col": 1,
       "length": 4,
-      "clue": "Birine seslenmek için çıkarılan yüksek ses; çağırmak amaçlı bağırma.",
+      "clue": "Birine seslenmek için çıkarılan yüksek ses; çağırmak amaçlı bağırma (4 harf) [B478-S1]",
       "answer": "NİDA"
     },
     {
@@ -120,7 +120,7 @@
       "row": 0,
       "col": 1,
       "length": 5,
-      "clue": "Kötü bakışın bir kimseye uğursuzluk getireceğine duyulan halk inancı.",
+      "clue": "Kötü bakışın bir kimseye uğursuzluk getireceğine duyulan halk inancı (5 harf) [B478-S1]",
       "answer": "NAZAR"
     },
     {
@@ -129,7 +129,7 @@
       "row": 0,
       "col": 7,
       "length": 5,
-      "clue": "Mutfağa giren, bitki kökleri ve yapraklarından oluşan yenilebilir besin.",
+      "clue": "Mutfağa giren, bitki kökleri ve yapraklarından oluşan yenilebilir besin (5 harf) [B478-S2]",
       "answer": "SEBZE"
     },
     {
@@ -138,7 +138,7 @@
       "row": 0,
       "col": 9,
       "length": 4,
-      "clue": "İnsanın başına gelenleri belirlediğine inanılan şans, talih ya da kader.",
+      "clue": "İnsanın başına gelenleri belirlediğine inanılan şans, talih ya da kader (4 harf) [B478-S3]",
       "answer": "BAHT"
     },
     {
@@ -147,7 +147,7 @@
       "row": 1,
       "col": 6,
       "length": 5,
-      "clue": "Bir şeyin eksiksiz, kusursuz ve en üst düzeyde olgunlaşmış hali.",
+      "clue": "Bir şeyin eksiksiz, kusursuz ve en üst düzeyde olgunlaşmış hali (5 harf) [B478-S4]",
       "answer": "KEMAL"
     },
     {
@@ -156,7 +156,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "Sobadan ateş almak ya da sıcak şeyleri tutmak için kullanılan uzun kıskaç.",
+      "clue": "Sobadan ateş almak ya da sıcak şeyleri tutmak için kullanılan uzun kıskaç (4 harf) [B478-S5]",
       "answer": "MAŞA"
     },
     {
@@ -165,7 +165,7 @@
       "row": 3,
       "col": 3,
       "length": 4,
-      "clue": "Yürürken bir ayağın diğerinin önüne atılmasıyla alınan kısa mesafe.",
+      "clue": "Yürürken bir ayağın diğerinin önüne atılmasıyla alınan kısa mesafe (4 harf) [B478-S6]",
       "answer": "ADIM"
     },
     {
@@ -174,7 +174,7 @@
       "row": 3,
       "col": 9,
       "length": 3,
-      "clue": "Havada uçuşan ya da yüzeyde biriken, çok küçük katı parçacıklar.",
+      "clue": "Havada uçuşan ya da yüzeyde biriken, çok küçük katı parçacıklar (3 harf) [B478-S7]",
       "answer": "TOZ"
     },
     {
@@ -183,7 +183,7 @@
       "row": 4,
       "col": 3,
       "length": 5,
-      "clue": "Ani ve sert bir hareketle yapılan vuruş; çarpma sonucu alınan sarsıntı.",
+      "clue": "Ani ve sert bir hareketle yapılan vuruş; çarpma sonucu alınan sarsıntı (5 harf) [B478-S8]",
       "answer": "DARBE"
     },
     {
@@ -192,7 +192,7 @@
       "row": 4,
       "col": 6,
       "length": 3,
-      "clue": "Arıların çiçeklerden topladığı nektarı işleyerek yaptığı koyu, tatlı gıda.",
+      "clue": "Arıların çiçeklerden topladığı nektarı işleyerek yaptığı koyu, tatlı gıda (3 harf) [B478-S9]",
       "answer": "BAL"
     }
   ]

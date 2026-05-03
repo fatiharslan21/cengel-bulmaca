@@ -103,7 +103,7 @@
       "row": 0,
       "col": 3,
       "length": 5,
-      "clue": "Üzerinde yaşadığımız, Güneş'in çevresinde dönen mavi yeşil gezegen.",
+      "clue": "Üzerinde yaşadığımız, Güneş'in çevresinde dönen mavi yeşil gezegen (5 harf) [B56-S1]",
       "answer": "DÜNYA"
     },
     {
@@ -112,7 +112,7 @@
       "row": 0,
       "col": 3,
       "length": 4,
-      "clue": "Sırtında hörgücü bulunan, çölde uzun süre susuzluğa dayanabilen büyük hayvan.",
+      "clue": "Sırtında hörgücü bulunan, çölde uzun süre susuzluğa dayanabilen büyük hayvan (4 harf) [B56-S1]",
       "answer": "DEVE"
     },
     {
@@ -121,7 +121,7 @@
       "row": 2,
       "col": 6,
       "length": 5,
-      "clue": "İnsana sadakatiyle bilinen, havlayarak seslenen evcil dört ayaklı.",
+      "clue": "İnsana sadakatiyle bilinen, havlayarak seslenen evcil dört ayaklı (5 harf) [B56-S2]",
       "answer": "KÖPEK"
     },
     {
@@ -130,7 +130,7 @@
       "row": 3,
       "col": 1,
       "length": 4,
-      "clue": "Kuşların yumurtladığı ağaç dalındaki çöpten örülmüş küçük barınak.",
+      "clue": "Kuşların yumurtladığı ağaç dalındaki çöpten örülmüş küçük barınak (4 harf) [B56-S3]",
       "answer": "YUVA"
     },
     {
@@ -139,7 +139,7 @@
       "row": 4,
       "col": 1,
       "length": 4,
-      "clue": "Aradaki mesafenin çok olduğu; yakınlığı hissedilmeyen ötelerdeki yer.",
+      "clue": "Aradaki mesafenin çok olduğu; yakınlığı hissedilmeyen ötelerdeki yer (4 harf) [B56-S4]",
       "answer": "UZAK"
     },
     {
@@ -148,7 +148,7 @@
       "row": 4,
       "col": 4,
       "length": 3,
-      "clue": "Soğuk havada bulutlardan düşen, altıgen kristallerden oluşan beyaz yağış.",
+      "clue": "Soğuk havada bulutlardan düşen, altıgen kristallerden oluşan beyaz yağış (3 harf) [B56-S5]",
       "answer": "KAR"
     },
     {
@@ -157,7 +157,7 @@
       "row": 5,
       "col": 4,
       "length": 4,
-      "clue": "Yanan bir şeyin üstünde dalgalanan, sıcak ve parlayan ışıklı kısım.",
+      "clue": "Yanan bir şeyin üstünde dalgalanan, sıcak ve parlayan ışıklı kısım (4 harf) [B56-S6]",
       "answer": "ALEV"
     },
     {
@@ -166,7 +166,7 @@
       "row": 6,
       "col": 0,
       "length": 3,
-      "clue": "Kimyada asitle tepkimeye girerek tuz oluşturan, karşıt özellikli madde.",
+      "clue": "Kimyada asitle tepkimeye girerek tuz oluşturan, karşıt özellikli madde (3 harf) [B56-S7]",
       "answer": "BAZ"
     },
     {
@@ -175,7 +175,7 @@
       "row": 6,
       "col": 0,
       "length": 3,
-      "clue": "Konuşan kişinin kendisini belirtmek için kullandığı birinci tekil zamir.",
+      "clue": "Konuşan kişinin kendisini belirtmek için kullandığı birinci tekil zamir (3 harf) [B56-S7]",
       "answer": "BEN"
     }
   ]

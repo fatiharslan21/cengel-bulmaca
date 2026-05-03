@@ -130,7 +130,7 @@
       "row": 0,
       "col": 9,
       "length": 5,
-      "clue": "Bir şeyin anlamını kavrama; olup biteni zihinde anlamlandırma yeteneği.",
+      "clue": "Bir şeyin anlamını kavrama; olup biteni zihinde anlamlandırma yeteneği (5 harf) [B367-S1]",
       "answer": "İDRAK"
     },
     {
@@ -139,7 +139,7 @@
       "row": 1,
       "col": 4,
       "length": 4,
-      "clue": "Uykuda iken zihnin sahneler halinde canlandırdığı renkli görüntüler.",
+      "clue": "Uykuda iken zihnin sahneler halinde canlandırdığı renkli görüntüler (4 harf) [B367-S2]",
       "answer": "RÜYA"
     },
     {
@@ -148,7 +148,7 @@
       "row": 1,
       "col": 6,
       "length": 5,
-      "clue": "Anlatılanı somutlaştırmak için verilen örnek; kıyas noktası.",
+      "clue": "Anlatılanı somutlaştırmak için verilen örnek; kıyas noktası (5 harf) [B367-S3]",
       "answer": "MİSAL"
     },
     {
@@ -157,7 +157,7 @@
       "row": 1,
       "col": 6,
       "length": 5,
-      "clue": "Sevinçle karşılanan, umut veren yeni gelen güzel haber.",
+      "clue": "Sevinçle karşılanan, umut veren yeni gelen güzel haber (5 harf) [B367-S3]",
       "answer": "MÜJDE"
     },
     {
@@ -166,7 +166,7 @@
       "row": 2,
       "col": 1,
       "length": 4,
-      "clue": "Güneşin batmasından doğmasına kadar süren karanlık zaman dilimi.",
+      "clue": "Güneşin batmasından doğmasına kadar süren karanlık zaman dilimi (4 harf) [B367-S4]",
       "answer": "GECE"
     },
     {
@@ -175,7 +175,7 @@
       "row": 4,
       "col": 3,
       "length": 4,
-      "clue": "Beyazın tam zıttı olan, gölgeleri bile koyulaştıran siyah ton.",
+      "clue": "Beyazın tam zıttı olan, gölgeleri bile koyulaştıran siyah ton (4 harf) [B367-S5]",
       "answer": "KARA"
     },
     {
@@ -184,7 +184,7 @@
       "row": 4,
       "col": 3,
       "length": 5,
-      "clue": "Çorba, pilav gibi yemekleri ağza götürmek için kullanılan çukur sap.",
+      "clue": "Çorba, pilav gibi yemekleri ağza götürmek için kullanılan çukur sap (5 harf) [B367-S5]",
       "answer": "KAŞIK"
     },
     {
@@ -193,7 +193,7 @@
       "row": 5,
       "col": 0,
       "length": 4,
-      "clue": "Niteliği kötü olan, insanın içini bunaltan; iyi sözcüğünün zıttı.",
+      "clue": "Niteliği kötü olan, insanın içini bunaltan; iyi sözcüğünün zıttı (4 harf) [B367-S6]",
       "answer": "FENA"
     },
     {
@@ -202,7 +202,7 @@
       "row": 7,
       "col": 1,
       "length": 3,
-      "clue": "Çiçeklerden topladığı nektarı bala dönüştüren, iğneli küçük böcek.",
+      "clue": "Çiçeklerden topladığı nektarı bala dönüştüren, iğneli küçük böcek (3 harf) [B367-S7]",
       "answer": "ARI"
     },
     {
@@ -211,7 +211,7 @@
       "row": 8,
       "col": 3,
       "length": 4,
-      "clue": "İki duvarın ya da iki kenarın birleştiği noktada oluşan açılı yer.",
+      "clue": "İki duvarın ya da iki kenarın birleştiği noktada oluşan açılı yer (4 harf) [B367-S8]",
       "answer": "KÖŞE"
     }
   ]

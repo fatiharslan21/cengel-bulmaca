@@ -121,7 +121,7 @@
       "row": 0,
       "col": 2,
       "length": 4,
-      "clue": "İstemeden yapılan yanlış; doğru olandan sapmanın yol açtığı kusur.",
+      "clue": "İstemeden yapılan yanlış; doğru olandan sapmanın yol açtığı kusur (4 harf) [B294-S1]",
       "answer": "HATA"
     },
     {
@@ -130,7 +130,7 @@
       "row": 1,
       "col": 2,
       "length": 4,
-      "clue": "İçten duyulan istek, gönülden beklenen dilek veya özlem.",
+      "clue": "İçten duyulan istek, gönülden beklenen dilek veya özlem (4 harf) [B294-S2]",
       "answer": "ARZU"
     },
     {
@@ -139,7 +139,7 @@
       "row": 1,
       "col": 7,
       "length": 6,
-      "clue": "Yakalı, düğmeli ve kollu olan, üstten giyilen ince kumaş giysi.",
+      "clue": "Yakalı, düğmeli ve kollu olan, üstten giyilen ince kumaş giysi (6 harf) [B294-S3]",
       "answer": "GÖMLEK"
     },
     {
@@ -148,7 +148,7 @@
       "row": 1,
       "col": 7,
       "length": 3,
-      "clue": "Bir işi yapabilme yeteneği; fiziksel ya da manevi olarak sahip olunan kuvvet.",
+      "clue": "Bir işi yapabilme yeteneği; fiziksel ya da manevi olarak sahip olunan kuvvet (3 harf) [B294-S3]",
       "answer": "GÜÇ"
     },
     {
@@ -157,7 +157,7 @@
       "row": 3,
       "col": 1,
       "length": 4,
-      "clue": "Üzerinde yemek yemek ya da çalışmak için kullanılan ayaklı düz mobilya.",
+      "clue": "Üzerinde yemek yemek ya da çalışmak için kullanılan ayaklı düz mobilya (4 harf) [B294-S4]",
       "answer": "MASA"
     },
     {
@@ -166,7 +166,7 @@
       "row": 3,
       "col": 4,
       "length": 5,
-      "clue": "Dünyanın farklı bölgelerini gösteren haritaların toplandığı büyük kitap.",
+      "clue": "Dünyanın farklı bölgelerini gösteren haritaların toplandığı büyük kitap (5 harf) [B294-S5]",
       "answer": "ATLAS"
     },
     {
@@ -175,7 +175,7 @@
       "row": 4,
       "col": 4,
       "length": 5,
-      "clue": "Üzerinde buğday, arpa ya da sebze yetiştirilen sürülmüş geniş toprak.",
+      "clue": "Üzerinde buğday, arpa ya da sebze yetiştirilen sürülmüş geniş toprak (5 harf) [B294-S6]",
       "answer": "TARLA"
     },
     {
@@ -184,7 +184,7 @@
       "row": 5,
       "col": 1,
       "length": 4,
-      "clue": "Saçı ya da kemeri tutturmaya yarayan, klips gibi açılıp kapanan küçük süs.",
+      "clue": "Saçı ya da kemeri tutturmaya yarayan, klips gibi açılıp kapanan küçük süs (4 harf) [B294-S7]",
       "answer": "TOKA"
     },
     {
@@ -193,7 +193,7 @@
       "row": 6,
       "col": 1,
       "length": 5,
-      "clue": "Geniş bir alana yayılmış, iç içe büyümüş ağaçlardan oluşan doğal yaşam.",
+      "clue": "Geniş bir alana yayılmış, iç içe büyümüş ağaçlardan oluşan doğal yaşam (5 harf) [B294-S8]",
       "answer": "ORMAN"
     },
     {
@@ -202,7 +202,7 @@
       "row": 8,
       "col": 0,
       "length": 4,
-      "clue": "Şehir içinde insanların dinlenip yürüdüğü, ağaçlıklı kamusal yeşil alan.",
+      "clue": "Şehir içinde insanların dinlenip yürüdüğü, ağaçlıklı kamusal yeşil alan (4 harf) [B294-S9]",
       "answer": "PARK"
     }
   ]

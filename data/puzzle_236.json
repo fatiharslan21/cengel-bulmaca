@@ -121,7 +121,7 @@
       "row": 0,
       "col": 2,
       "length": 3,
-      "clue": "Bulunduğun yerden geri çevril; ya da bir eksen etrafında hareket et.",
+      "clue": "Bulunduğun yerden geri çevril; ya da bir eksen etrafında hareket et (3 harf) [B236-S1]",
       "answer": "DÖN"
     },
     {
@@ -130,7 +130,7 @@
       "row": 0,
       "col": 2,
       "length": 5,
-      "clue": "Üzerinde yaşadığımız, Güneş'in çevresinde dönen mavi yeşil gezegen.",
+      "clue": "Üzerinde yaşadığımız, Güneş'in çevresinde dönen mavi yeşil gezegen (5 harf) [B236-S1]",
       "answer": "DÜNYA"
     },
     {
@@ -139,7 +139,7 @@
       "row": 2,
       "col": 0,
       "length": 3,
-      "clue": "Bir işin ya da sürecin bittiği nokta; final ve kapanış anı.",
+      "clue": "Bir işin ya da sürecin bittiği nokta; final ve kapanış anı (3 harf) [B236-S2]",
       "answer": "SON"
     },
     {
@@ -148,7 +148,7 @@
       "row": 2,
       "col": 1,
       "length": 4,
-      "clue": "Yolcuların ücret karşılığı geceyi geçirdiği, odaları olan konaklama işletmesi.",
+      "clue": "Yolcuların ücret karşılığı geceyi geçirdiği, odaları olan konaklama işletmesi (4 harf) [B236-S3]",
       "answer": "OTEL"
     },
     {
@@ -157,7 +157,7 @@
       "row": 3,
       "col": 3,
       "length": 4,
-      "clue": "Bir kesik ya da darbe sonucu bedende oluşan açık doku hasarı.",
+      "clue": "Bir kesik ya da darbe sonucu bedende oluşan açık doku hasarı (4 harf) [B236-S4]",
       "answer": "YARA"
     },
     {
@@ -166,7 +166,7 @@
       "row": 4,
       "col": 0,
       "length": 5,
-      "clue": "Bir işi ya da durumu ara vermeden sürdürme, aksatmadan götürme hali.",
+      "clue": "Bir işi ya da durumu ara vermeden sürdürme, aksatmadan götürme hali (5 harf) [B236-S5]",
       "answer": "DEVAM"
     },
     {
@@ -175,7 +175,7 @@
       "row": 5,
       "col": 5,
       "length": 4,
-      "clue": "Hayvanların otlayıp beslenmesi için ayrılmış, doğal otlarla kaplı geniş alan.",
+      "clue": "Hayvanların otlayıp beslenmesi için ayrılmış, doğal otlarla kaplı geniş alan (4 harf) [B236-S6]",
       "answer": "MERA"
     },
     {
@@ -184,7 +184,7 @@
       "row": 6,
       "col": 2,
       "length": 4,
-      "clue": "Yeni toplanmış, bayatlamamış; canlılığını yeni yeni yitirmemiş olan.",
+      "clue": "Yeni toplanmış, bayatlamamış; canlılığını yeni yeni yitirmemiş olan (4 harf) [B236-S7]",
       "answer": "TAZE"
     },
     {
@@ -193,7 +193,7 @@
       "row": 8,
       "col": 2,
       "length": 4,
-      "clue": "Karşısına geçenin görüntüsünü aynen yansıtan sırlanmış cam yüzey.",
+      "clue": "Karşısına geçenin görüntüsünü aynen yansıtan sırlanmış cam yüzey (4 harf) [B236-S8]",
       "answer": "AYNA"
     },
     {
@@ -202,7 +202,7 @@
       "row": 8,
       "col": 2,
       "length": 4,
-      "clue": "Üzerinde yapı bulunmayan, belli sınırlarla çevrili geniş açık düzlük.",
+      "clue": "Üzerinde yapı bulunmayan, belli sınırlarla çevrili geniş açık düzlük (4 harf) [B236-S8]",
       "answer": "ALAN"
     }
   ]

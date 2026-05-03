@@ -112,7 +112,7 @@
       "row": 0,
       "col": 5,
       "length": 3,
-      "clue": "Üzerinde durduğumuz zemin; bir olayın geçtiği konum.",
+      "clue": "Üzerinde durduğumuz zemin; bir olayın geçtiği konum (3 harf) [B156-S1]",
       "answer": "YER"
     },
     {
@@ -121,7 +121,7 @@
       "row": 1,
       "col": 1,
       "length": 4,
-      "clue": "Başarı gösteren kimseye, çabasının karşılığı olarak verilen değerli armağan.",
+      "clue": "Başarı gösteren kimseye, çabasının karşılığı olarak verilen değerli armağan (4 harf) [B156-S2]",
       "answer": "ÖDÜL"
     },
     {
@@ -130,7 +130,7 @@
       "row": 2,
       "col": 3,
       "length": 3,
-      "clue": "Başımızın derisinde biten, her birinin kökten uzayan ince tel kıl.",
+      "clue": "Başımızın derisinde biten, her birinin kökten uzayan ince tel kıl (3 harf) [B156-S3]",
       "answer": "SAÇ"
     },
     {
@@ -139,7 +139,7 @@
       "row": 2,
       "col": 3,
       "length": 4,
-      "clue": "Limon ve altın tonlarında olan, güneşi çağrıştıran canlı sıcak renk.",
+      "clue": "Limon ve altın tonlarında olan, güneşi çağrıştıran canlı sıcak renk (4 harf) [B156-S3]",
       "answer": "SARI"
     },
     {
@@ -148,7 +148,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "Uykuda iken zihnin sahneler halinde canlandırdığı renkli görüntüler.",
+      "clue": "Uykuda iken zihnin sahneler halinde canlandırdığı renkli görüntüler (4 harf) [B156-S4]",
       "answer": "RÜYA"
     },
     {
@@ -157,7 +157,7 @@
       "row": 3,
       "col": 7,
       "length": 4,
-      "clue": "Suç işleyen kimseye, yaptığının karşılığı olarak verilen yaptırım.",
+      "clue": "Suç işleyen kimseye, yaptığının karşılığı olarak verilen yaptırım (4 harf) [B156-S5]",
       "answer": "CEZA"
     },
     {
@@ -166,7 +166,7 @@
       "row": 4,
       "col": 3,
       "length": 5,
-      "clue": "Bir alanın ya da cismin dört bir yanını saran dış sınır; etraf.",
+      "clue": "Bir alanın ya da cismin dört bir yanını saran dış sınır; etraf (5 harf) [B156-S6]",
       "answer": "ÇEVRE"
     },
     {
@@ -175,7 +175,7 @@
       "row": 6,
       "col": 4,
       "length": 5,
-      "clue": "Yemeklerin servis edildiği, yuvarlak ve yassı porselen ya da cam kap.",
+      "clue": "Yemeklerin servis edildiği, yuvarlak ve yassı porselen ya da cam kap (5 harf) [B156-S7]",
       "answer": "TABAK"
     },
     {
@@ -184,7 +184,7 @@
       "row": 6,
       "col": 5,
       "length": 3,
-      "clue": "Geçmişte yaşanmış ve zihinde iz bırakmış olayların hatırlanması.",
+      "clue": "Geçmişte yaşanmış ve zihinde iz bırakmış olayların hatırlanması (3 harf) [B156-S8]",
       "answer": "ANI"
     },
     {
@@ -193,7 +193,7 @@
       "row": 6,
       "col": 8,
       "length": 3,
-      "clue": "İçine sıvı ya da katı maddeler konulan her türlü şekilli eşya.",
+      "clue": "İçine sıvı ya da katı maddeler konulan her türlü şekilli eşya (3 harf) [B156-S9]",
       "answer": "KAP"
     }
   ]

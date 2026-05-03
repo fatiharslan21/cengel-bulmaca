@@ -133,7 +133,7 @@
       "row": 0,
       "col": 0,
       "length": 6,
-      "clue": "Bir işi başarmak için katlanılan güçlük; çekilen eziyet.",
+      "clue": "Bir işi başarmak için katlanılan güçlük; çekilen eziyet (6 harf) [B312-S1]",
       "answer": "ZAHMET"
     },
     {
@@ -142,7 +142,7 @@
       "row": 0,
       "col": 3,
       "length": 5,
-      "clue": "Sevinçle karşılanan, umut veren yeni gelen güzel haber.",
+      "clue": "Sevinçle karşılanan, umut veren yeni gelen güzel haber (5 harf) [B312-S2]",
       "answer": "MÜJDE"
     },
     {
@@ -151,7 +151,7 @@
       "row": 0,
       "col": 5,
       "length": 4,
-      "clue": "Bir kurala, şahsa ya da düzene bağlı olan; ona uymak durumunda kalan.",
+      "clue": "Bir kurala, şahsa ya da düzene bağlı olan; ona uymak durumunda kalan (4 harf) [B312-S3]",
       "answer": "TABİ"
     },
     {
@@ -160,7 +160,7 @@
       "row": 3,
       "col": 1,
       "length": 4,
-      "clue": "Sırtında hörgücü bulunan, çölde uzun süre susuzluğa dayanabilen büyük hayvan.",
+      "clue": "Sırtında hörgücü bulunan, çölde uzun süre susuzluğa dayanabilen büyük hayvan (4 harf) [B312-S4]",
       "answer": "DEVE"
     },
     {
@@ -169,7 +169,7 @@
       "row": 4,
       "col": 1,
       "length": 4,
-      "clue": "Her canlı için önceden belirlendiğine inanılan ölüm zamanı.",
+      "clue": "Her canlı için önceden belirlendiğine inanılan ölüm zamanı (4 harf) [B312-S5]",
       "answer": "ECEL"
     },
     {
@@ -178,7 +178,7 @@
       "row": 6,
       "col": 0,
       "length": 5,
-      "clue": "Birbirini gören iki kişinin hal hatır sormak için söylediği esenlik dileği.",
+      "clue": "Birbirini gören iki kişinin hal hatır sormak için söylediği esenlik dileği (5 harf) [B312-S6]",
       "answer": "SELAM"
     },
     {
@@ -187,7 +187,7 @@
       "row": 6,
       "col": 3,
       "length": 4,
-      "clue": "Toprağa kök salmış, gövdesi odunlaşmış, uzun ömürlü büyük bitki.",
+      "clue": "Toprağa kök salmış, gövdesi odunlaşmış, uzun ömürlü büyük bitki (4 harf) [B312-S7]",
       "answer": "AĞAÇ"
     },
     {
@@ -196,7 +196,7 @@
       "row": 6,
       "col": 6,
       "length": 4,
-      "clue": "Siyah beyaz karelere yerleştirilen taşlarla iki kişi arasında oynanan oyun.",
+      "clue": "Siyah beyaz karelere yerleştirilen taşlarla iki kişi arasında oynanan oyun (4 harf) [B312-S8]",
       "answer": "DAMA"
     },
     {
@@ -205,7 +205,7 @@
       "row": 7,
       "col": 6,
       "length": 4,
-      "clue": "Kaldırılması güç olan, hafif sözcüğünün zıttı sayılan kütle durumu.",
+      "clue": "Kaldırılması güç olan, hafif sözcüğünün zıttı sayılan kütle durumu (4 harf) [B312-S9]",
       "answer": "AĞIR"
     },
     {
@@ -214,7 +214,7 @@
       "row": 8,
       "col": 2,
       "length": 5,
-      "clue": "Kaybedilen bir yakının ardından tutulan koyu yas; siyahlar giyme hali.",
+      "clue": "Kaybedilen bir yakının ardından tutulan koyu yas; siyahlar giyme hali (5 harf) [B312-S10]",
       "answer": "MATEM"
     }
   ]

@@ -134,7 +134,7 @@
       "row": 0,
       "col": 3,
       "length": 4,
-      "clue": "Uzun kulaklı, sabırlı; köylerde yük taşımada kullanılan küçük binek hayvanı.",
+      "clue": "Uzun kulaklı, sabırlı; köylerde yük taşımada kullanılan küçük binek hayvanı (4 harf) [B383-S1]",
       "answer": "EŞEK"
     },
     {
@@ -143,7 +143,7 @@
       "row": 0,
       "col": 4,
       "length": 6,
-      "clue": "Zayıfa ve çaresize duyulan içten sevgi; acıyarak sarılma duygusu.",
+      "clue": "Zayıfa ve çaresize duyulan içten sevgi; acıyarak sarılma duygusu (6 harf) [B383-S2]",
       "answer": "ŞEFKAT"
     },
     {
@@ -152,7 +152,7 @@
       "row": 0,
       "col": 6,
       "length": 3,
-      "clue": "Bir binanın birbirinin üzerine gelen yatay bölümlerinden her biri.",
+      "clue": "Bir binanın birbirinin üzerine gelen yatay bölümlerinden her biri (3 harf) [B383-S3]",
       "answer": "KAT"
     },
     {
@@ -161,7 +161,7 @@
       "row": 0,
       "col": 8,
       "length": 5,
-      "clue": "Geniş bir alana yayılmış, iç içe büyümüş ağaçlardan oluşan doğal yaşam.",
+      "clue": "Geniş bir alana yayılmış, iç içe büyümüş ağaçlardan oluşan doğal yaşam (5 harf) [B383-S4]",
       "answer": "ORMAN"
     },
     {
@@ -170,7 +170,7 @@
       "row": 4,
       "col": 3,
       "length": 6,
-      "clue": "Bir binanın üst katlarından dışarı uzanan, parmaklıkla çevrili çıkıntı.",
+      "clue": "Bir binanın üst katlarından dışarı uzanan, parmaklıkla çevrili çıkıntı (6 harf) [B383-S5]",
       "answer": "BALKON"
     },
     {
@@ -179,7 +179,7 @@
       "row": 4,
       "col": 6,
       "length": 5,
-      "clue": "İnsanın başına geleceği önceden yazıldığına inanılan alın yazısı.",
+      "clue": "İnsanın başına geleceği önceden yazıldığına inanılan alın yazısı (5 harf) [B383-S6]",
       "answer": "KADER"
     },
     {
@@ -188,7 +188,7 @@
       "row": 6,
       "col": 1,
       "length": 4,
-      "clue": "Bir kurala, şahsa ya da düzene bağlı olan; ona uymak durumunda kalan.",
+      "clue": "Bir kurala, şahsa ya da düzene bağlı olan; ona uymak durumunda kalan (4 harf) [B383-S7]",
       "answer": "TABİ"
     },
     {
@@ -197,7 +197,7 @@
       "row": 6,
       "col": 3,
       "length": 5,
-      "clue": "Sonu kötü olabilecek; durumun ne kadar ağır olduğunu gösteren sıfat.",
+      "clue": "Sonu kötü olabilecek; durumun ne kadar ağır olduğunu gösteren sıfat (5 harf) [B383-S8]",
       "answer": "VAHİM"
     },
     {
@@ -206,7 +206,7 @@
       "row": 7,
       "col": 0,
       "length": 4,
-      "clue": "İçten duyulan gönül rahatlığı; keder bırakmayan tatlı neşe.",
+      "clue": "İçten duyulan gönül rahatlığı; keder bırakmayan tatlı neşe (4 harf) [B383-S9]",
       "answer": "SAFA"
     },
     {
@@ -215,7 +215,7 @@
       "row": 8,
       "col": 3,
       "length": 6,
-      "clue": "Sevgiliden uzak düşmenin yürekte açtığı derin ayrılık acısı.",
+      "clue": "Sevgiliden uzak düşmenin yürekte açtığı derin ayrılık acısı (6 harf) [B383-S10]",
       "answer": "HİCRAN"
     }
   ]

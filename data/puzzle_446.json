@@ -123,7 +123,7 @@
       "row": 0,
       "col": 5,
       "length": 4,
-      "clue": "Bir olayın kaçıncı kez yaşandığını anlatmak için kullanılan kez sözcüğü.",
+      "clue": "Bir olayın kaçıncı kez yaşandığını anlatmak için kullanılan kez sözcüğü (4 harf) [B446-S1]",
       "answer": "DEFA"
     },
     {
@@ -132,7 +132,7 @@
       "row": 1,
       "col": 0,
       "length": 6,
-      "clue": "Değerli eşyaların ya da paraların saklandığı gizli büyük birikim.",
+      "clue": "Değerli eşyaların ya da paraların saklandığı gizli büyük birikim (6 harf) [B446-S2]",
       "answer": "HAZİNE"
     },
     {
@@ -141,7 +141,7 @@
       "row": 1,
       "col": 2,
       "length": 3,
-      "clue": "Üzerinde nokta bulunan, oyunlarda atılan altı yüzlü küçük küp.",
+      "clue": "Üzerinde nokta bulunan, oyunlarda atılan altı yüzlü küçük küp (3 harf) [B446-S3]",
       "answer": "ZAR"
     },
     {
@@ -150,7 +150,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "Hayvanların otlayıp beslenmesi için ayrılmış, doğal otlarla kaplı geniş alan.",
+      "clue": "Hayvanların otlayıp beslenmesi için ayrılmış, doğal otlarla kaplı geniş alan (4 harf) [B446-S4]",
       "answer": "MERA"
     },
     {
@@ -159,7 +159,7 @@
       "row": 3,
       "col": 0,
       "length": 5,
-      "clue": "Sevinçle karşılanan, umut veren yeni gelen güzel haber.",
+      "clue": "Sevinçle karşılanan, umut veren yeni gelen güzel haber (5 harf) [B446-S4]",
       "answer": "MÜJDE"
     },
     {
@@ -168,7 +168,7 @@
       "row": 5,
       "col": 4,
       "length": 5,
-      "clue": "Geniş yaprakları ve kalın gövdesiyle yüzyıllarca yaşayabilen büyük ağaç.",
+      "clue": "Geniş yaprakları ve kalın gövdesiyle yüzyıllarca yaşayabilen büyük ağaç (5 harf) [B446-S5]",
       "answer": "ÇINAR"
     },
     {
@@ -177,7 +177,7 @@
       "row": 7,
       "col": 0,
       "length": 5,
-      "clue": "Belirlenen vaktin öncesinde gelme; geç kalmanın tersi durumu.",
+      "clue": "Belirlenen vaktin öncesinde gelme; geç kalmanın tersi durumu (5 harf) [B446-S6]",
       "answer": "ERKEN"
     },
     {
@@ -186,7 +186,7 @@
       "row": 7,
       "col": 2,
       "length": 4,
-      "clue": "Uzun beyaz boynuyla su yüzeyinde zarafetle süzülen büyük göl kuşu.",
+      "clue": "Uzun beyaz boynuyla su yüzeyinde zarafetle süzülen büyük göl kuşu (4 harf) [B446-S7]",
       "answer": "KUĞU"
     },
     {
@@ -195,7 +195,7 @@
       "row": 9,
       "col": 4,
       "length": 4,
-      "clue": "Birinin ya da bir şeyin beklemediğin anda karşına çıkması; tesadüf.",
+      "clue": "Birinin ya da bir şeyin beklemediğin anda karşına çıkması; tesadüf (4 harf) [B446-S8]",
       "answer": "RAST"
     },
     {
@@ -204,7 +204,7 @@
       "row": 10,
       "col": 1,
       "length": 3,
-      "clue": "İnsanın bedenine hayat veren, duygularının ve düşüncelerinin kaynağı manevi öz.",
+      "clue": "İnsanın bedenine hayat veren, duygularının ve düşüncelerinin kaynağı manevi öz (3 harf) [B446-S9]",
       "answer": "RUH"
     }
   ]

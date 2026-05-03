@@ -143,7 +143,7 @@
       "row": 0,
       "col": 8,
       "length": 4,
-      "clue": "İki şeyin birbirinden ayrıldığı yön; aralarındaki benzemezlik.",
+      "clue": "İki şeyin birbirinden ayrıldığı yön; aralarındaki benzemezlik (4 harf) [B460-S1]",
       "answer": "FARK"
     },
     {
@@ -152,7 +152,7 @@
       "row": 1,
       "col": 7,
       "length": 4,
-      "clue": "Bundan başka, farklı; bir şeyin dışında kalan diğer kısım.",
+      "clue": "Bundan başka, farklı; bir şeyin dışında kalan diğer kısım (4 harf) [B460-S2]",
       "answer": "GAYR"
     },
     {
@@ -161,7 +161,7 @@
       "row": 2,
       "col": 3,
       "length": 4,
-      "clue": "İlerinin zıttı; arkaya ya da başlangıca doğru olan yön.",
+      "clue": "İlerinin zıttı; arkaya ya da başlangıca doğru olan yön (4 harf) [B460-S3]",
       "answer": "GERİ"
     },
     {
@@ -170,7 +170,7 @@
       "row": 2,
       "col": 6,
       "length": 5,
-      "clue": "Ölünün toprağa verildiği, başında taş bulunan defin yeri; kabir.",
+      "clue": "Ölünün toprağa verildiği, başında taş bulunan defin yeri; kabir (5 harf) [B460-S4]",
       "answer": "MEZAR"
     },
     {
@@ -179,7 +179,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "Çorba, salata ya da yoğurt konulan, yuvarlak ve çukur küçük yemek kabı.",
+      "clue": "Çorba, salata ya da yoğurt konulan, yuvarlak ve çukur küçük yemek kabı (4 harf) [B460-S5]",
       "answer": "KASE"
     },
     {
@@ -188,7 +188,7 @@
       "row": 3,
       "col": 5,
       "length": 4,
-      "clue": "İçten doğan büyük istek; insanı coşturan şiddetli arzu ve heves.",
+      "clue": "İçten doğan büyük istek; insanı coşturan şiddetli arzu ve heves (4 harf) [B460-S6]",
       "answer": "ŞEVK"
     },
     {
@@ -197,7 +197,7 @@
       "row": 5,
       "col": 2,
       "length": 6,
-      "clue": "Sevgiliden uzak düşmenin yürekte açtığı derin ayrılık acısı.",
+      "clue": "Sevgiliden uzak düşmenin yürekte açtığı derin ayrılık acısı (6 harf) [B460-S7]",
       "answer": "HİCRAN"
     },
     {
@@ -206,7 +206,7 @@
       "row": 5,
       "col": 2,
       "length": 5,
-      "clue": "Uygunsuz bir durumda duyulan utanç; insanın yüzünü gizleme isteği.",
+      "clue": "Uygunsuz bir durumda duyulan utanç; insanın yüzünü gizleme isteği (5 harf) [B460-S7]",
       "answer": "HİCAP"
     },
     {
@@ -215,7 +215,7 @@
       "row": 7,
       "col": 1,
       "length": 4,
-      "clue": "Yapılan iyiliğin ya da çekilen sıkıntının karşılığı olarak verilen sevap.",
+      "clue": "Yapılan iyiliğin ya da çekilen sıkıntının karşılığı olarak verilen sevap (4 harf) [B460-S8]",
       "answer": "ECİR"
     },
     {
@@ -224,7 +224,7 @@
       "row": 9,
       "col": 0,
       "length": 4,
-      "clue": "Dağdan daha alçak, çevresine göre yüksek görünen küçük yükselti.",
+      "clue": "Dağdan daha alçak, çevresine göre yüksek görünen küçük yükselti (4 harf) [B460-S9]",
       "answer": "TEPE"
     }
   ]

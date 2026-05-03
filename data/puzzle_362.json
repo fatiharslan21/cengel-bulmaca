@@ -153,7 +153,7 @@
       "row": 0,
       "col": 7,
       "length": 5,
-      "clue": "Hayatta yükselme, talih kuşunun başa konması; mevki sahibi olma.",
+      "clue": "Hayatta yükselme, talih kuşunun başa konması; mevki sahibi olma (5 harf) [B362-S1]",
       "answer": "İKBAL"
     },
     {
@@ -162,7 +162,7 @@
       "row": 0,
       "col": 8,
       "length": 4,
-      "clue": "Kulpundan tutularak su ya da başka sıvı taşınan derin silindirik kap.",
+      "clue": "Kulpundan tutularak su ya da başka sıvı taşınan derin silindirik kap (4 harf) [B362-S2]",
       "answer": "KOVA"
     },
     {
@@ -171,7 +171,7 @@
       "row": 1,
       "col": 6,
       "length": 3,
-      "clue": "Sayıların başlangıcı olan, tek adedi gösteren ilk doğal rakam.",
+      "clue": "Sayıların başlangıcı olan, tek adedi gösteren ilk doğal rakam (3 harf) [B362-S3]",
       "answer": "BİR"
     },
     {
@@ -180,7 +180,7 @@
       "row": 2,
       "col": 2,
       "length": 4,
-      "clue": "Yeni durumlara hızla uyum sağlayıp doğru kararlar verebilme yeteneği.",
+      "clue": "Yeni durumlara hızla uyum sağlayıp doğru kararlar verebilme yeteneği (4 harf) [B362-S4]",
       "answer": "ZEKA"
     },
     {
@@ -189,7 +189,7 @@
       "row": 3,
       "col": 5,
       "length": 4,
-      "clue": "Din esaslarına yürekten bağlanma; kalben kabul edip inanma hali.",
+      "clue": "Din esaslarına yürekten bağlanma; kalben kabul edip inanma hali (4 harf) [B362-S5]",
       "answer": "İMAN"
     },
     {
@@ -198,7 +198,7 @@
       "row": 3,
       "col": 5,
       "length": 5,
-      "clue": "Bilginin ötesinde, deneyim ve sezgiyle kazanılan derin anlayış.",
+      "clue": "Bilginin ötesinde, deneyim ve sezgiyle kazanılan derin anlayış (5 harf) [B362-S5]",
       "answer": "İRFAN"
     },
     {
@@ -207,7 +207,7 @@
       "row": 5,
       "col": 1,
       "length": 6,
-      "clue": "Bir ülkeyi simgeleyen, özel renk ve işaretler taşıyan kumaş parçası.",
+      "clue": "Bir ülkeyi simgeleyen, özel renk ve işaretler taşıyan kumaş parçası (6 harf) [B362-S6]",
       "answer": "BAYRAK"
     },
     {
@@ -216,7 +216,7 @@
       "row": 5,
       "col": 3,
       "length": 3,
-      "clue": "İki yerleşim birimini birbirine bağlayan; üzerinde gidilen döşeli güzergâh.",
+      "clue": "İki yerleşim birimini birbirine bağlayan; üzerinde gidilen döşeli güzergâh (3 harf) [B362-S7]",
       "answer": "YOL"
     },
     {
@@ -225,7 +225,7 @@
       "row": 6,
       "col": 0,
       "length": 4,
-      "clue": "İnsanın başına gelenleri belirlediğine inanılan şans, talih ya da kader.",
+      "clue": "İnsanın başına gelenleri belirlediğine inanılan şans, talih ya da kader (4 harf) [B362-S8]",
       "answer": "BAHT"
     },
     {
@@ -234,7 +234,7 @@
       "row": 7,
       "col": 0,
       "length": 4,
-      "clue": "Sahte ya da taklit olmayan; bir şeyin gerçek ve temel olan hali.",
+      "clue": "Sahte ya da taklit olmayan; bir şeyin gerçek ve temel olan hali (4 harf) [B362-S9]",
       "answer": "ASIL"
     }
   ]

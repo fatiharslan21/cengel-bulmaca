@@ -156,7 +156,7 @@
       "row": 0,
       "col": 7,
       "length": 4,
-      "clue": "Serinletici kokusuyla tanınan, çaya ve yemeklere katılan yeşil yapraklı ot.",
+      "clue": "Serinletici kokusuyla tanınan, çaya ve yemeklere katılan yeşil yapraklı ot (4 harf) [B363-S1]",
       "answer": "NANE"
     },
     {
@@ -165,7 +165,7 @@
       "row": 1,
       "col": 6,
       "length": 3,
-      "clue": "Dört mevsimin en sıcağı; okulların kapandığı, tatillerin geldiği zaman.",
+      "clue": "Dört mevsimin en sıcağı; okulların kapandığı, tatillerin geldiği zaman (3 harf) [B363-S2]",
       "answer": "YAZ"
     },
     {
@@ -174,7 +174,7 @@
       "row": 3,
       "col": 7,
       "length": 4,
-      "clue": "Yetkili bir kimsenin yerine getirilmek üzere verdiği kesin buyruk.",
+      "clue": "Yetkili bir kimsenin yerine getirilmek üzere verdiği kesin buyruk (4 harf) [B363-S3]",
       "answer": "EMİR"
     },
     {
@@ -183,7 +183,7 @@
       "row": 3,
       "col": 8,
       "length": 5,
-      "clue": "Seslerin belli bir düzen içinde bir araya getirilmesiyle oluşan sanat.",
+      "clue": "Seslerin belli bir düzen içinde bir araya getirilmesiyle oluşan sanat (5 harf) [B363-S4]",
       "answer": "MÜZİK"
     },
     {
@@ -192,7 +192,7 @@
       "row": 6,
       "col": 6,
       "length": 5,
-      "clue": "Varlığı yerinde durmayıp sona ermesi; yokluğa geçme hali.",
+      "clue": "Varlığı yerinde durmayıp sona ermesi; yokluğa geçme hali (5 harf) [B363-S5]",
       "answer": "ZEVAL"
     },
     {
@@ -201,7 +201,7 @@
       "row": 7,
       "col": 1,
       "length": 3,
-      "clue": "Havanın bir yönden diğerine doğru hissedilebilir akışı; rüzgâr.",
+      "clue": "Havanın bir yönden diğerine doğru hissedilebilir akışı; rüzgâr (3 harf) [B363-S6]",
       "answer": "YEL"
     },
     {
@@ -210,7 +210,7 @@
       "row": 7,
       "col": 5,
       "length": 4,
-      "clue": "İçten doğan büyük istek; insanı coşturan şiddetli arzu ve heves.",
+      "clue": "İçten doğan büyük istek; insanı coşturan şiddetli arzu ve heves (4 harf) [B363-S7]",
       "answer": "ŞEVK"
     },
     {
@@ -219,7 +219,7 @@
       "row": 8,
       "col": 0,
       "length": 4,
-      "clue": "Bir işi başarmak için gösterilen büyük çaba, gayret ve çalışma.",
+      "clue": "Bir işi başarmak için gösterilen büyük çaba, gayret ve çalışma (4 harf) [B363-S8]",
       "answer": "CEHD"
     },
     {
@@ -228,7 +228,7 @@
       "row": 8,
       "col": 3,
       "length": 3,
-      "clue": "Ağız içindeki kaslı organ; aynı zamanda insanların konuşarak anlaştığı sistem.",
+      "clue": "Ağız içindeki kaslı organ; aynı zamanda insanların konuşarak anlaştığı sistem (3 harf) [B363-S9]",
       "answer": "DİL"
     },
     {
@@ -237,7 +237,7 @@
       "row": 9,
       "col": 3,
       "length": 5,
-      "clue": "Hayatta yükselme, talih kuşunun başa konması; mevki sahibi olma.",
+      "clue": "Hayatta yükselme, talih kuşunun başa konması; mevki sahibi olma (5 harf) [B363-S10]",
       "answer": "İKBAL"
     }
   ]

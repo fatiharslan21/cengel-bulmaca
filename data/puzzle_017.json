@@ -85,7 +85,7 @@
       "row": 0,
       "col": 2,
       "length": 3,
-      "clue": "Ağızda bulunan, yiyecekleri kopartıp öğütmeye yarayan sert beyaz yapı.",
+      "clue": "Ağızda bulunan, yiyecekleri kopartıp öğütmeye yarayan sert beyaz yapı (3 harf) [B17-S1]",
       "answer": "DİŞ"
     },
     {
@@ -94,7 +94,7 @@
       "row": 0,
       "col": 4,
       "length": 5,
-      "clue": "Undan mayalanıp fırında pişirilerek yapılan, sofranın temel besini.",
+      "clue": "Undan mayalanıp fırında pişirilerek yapılan, sofranın temel besini (5 harf) [B17-S2]",
       "answer": "EKMEK"
     },
     {
@@ -103,7 +103,7 @@
       "row": 1,
       "col": 2,
       "length": 3,
-      "clue": "Bir sıranın en başında bulunan; sondan önce hiçbir şey olmayan sırada birinci.",
+      "clue": "Bir sıranın en başında bulunan; sondan önce hiçbir şey olmayan sırada birinci (3 harf) [B17-S3]",
       "answer": "İLK"
     },
     {
@@ -112,7 +112,7 @@
       "row": 2,
       "col": 0,
       "length": 3,
-      "clue": "İçinde hiçbir şey bulunmayan, doluluğu olmayan kap ya da mekân.",
+      "clue": "İçinde hiçbir şey bulunmayan, doluluğu olmayan kap ya da mekân (3 harf) [B17-S4]",
       "answer": "BOŞ"
     },
     {
@@ -121,7 +121,7 @@
       "row": 2,
       "col": 7,
       "length": 3,
-      "clue": "Kişinin yasal olarak sahip olduğu; alması ya da yapması gereken şey.",
+      "clue": "Kişinin yasal olarak sahip olduğu; alması ya da yapması gereken şey (3 harf) [B17-S5]",
       "answer": "HAK"
     },
     {
@@ -130,7 +130,7 @@
       "row": 2,
       "col": 9,
       "length": 4,
-      "clue": "Çevresindeki yapılardan çok daha yüksek olan, dar ve uzun yapı.",
+      "clue": "Çevresindeki yapılardan çok daha yüksek olan, dar ve uzun yapı (4 harf) [B17-S6]",
       "answer": "KULE"
     },
     {
@@ -139,7 +139,7 @@
       "row": 3,
       "col": 4,
       "length": 4,
-      "clue": "Kabuğu kırmızı, sarı ya da yeşil olabilen, sulu ve çıtır meyve.",
+      "clue": "Kabuğu kırmızı, sarı ya da yeşil olabilen, sulu ve çıtır meyve (4 harf) [B17-S7]",
       "answer": "ELMA"
     },
     {
@@ -148,7 +148,7 @@
       "row": 4,
       "col": 1,
       "length": 4,
-      "clue": "Şehir içinde insanların dinlenip yürüdüğü, ağaçlıklı kamusal yeşil alan.",
+      "clue": "Şehir içinde insanların dinlenip yürüdüğü, ağaçlıklı kamusal yeşil alan (4 harf) [B17-S8]",
       "answer": "PARK"
     },
     {
@@ -157,7 +157,7 @@
       "row": 4,
       "col": 7,
       "length": 3,
-      "clue": "Çanak çömlek yapımında kullanılan, suyla yumuşayan yapışkan toprak.",
+      "clue": "Çanak çömlek yapımında kullanılan, suyla yumuşayan yapışkan toprak (3 harf) [B17-S9]",
       "answer": "KİL"
     }
   ]

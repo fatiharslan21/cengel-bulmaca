@@ -145,7 +145,7 @@
       "row": 0,
       "col": 1,
       "length": 3,
-      "clue": "İğne ya da tığla işlenen, başörtüsü kenarını süsleyen ince el işi.",
+      "clue": "İğne ya da tığla işlenen, başörtüsü kenarını süsleyen ince el işi (3 harf) [B220-S1]",
       "answer": "OYA"
     },
     {
@@ -154,7 +154,7 @@
       "row": 1,
       "col": 3,
       "length": 4,
-      "clue": "İnsanların içinde oturduğu ya da çalıştığı, taş ve betondan yapılmış yapı.",
+      "clue": "İnsanların içinde oturduğu ya da çalıştığı, taş ve betondan yapılmış yapı (4 harf) [B220-S2]",
       "answer": "BİNA"
     },
     {
@@ -163,7 +163,7 @@
       "row": 2,
       "col": 0,
       "length": 5,
-      "clue": "Denizin ya da gölün karaya kavuştuğu kumlu ve taşlı kıyı şeridi.",
+      "clue": "Denizin ya da gölün karaya kavuştuğu kumlu ve taşlı kıyı şeridi (5 harf) [B220-S3]",
       "answer": "SAHİL"
     },
     {
@@ -172,7 +172,7 @@
       "row": 2,
       "col": 0,
       "length": 4,
-      "clue": "Bilinmeyen bir bilgiyi öğrenmek için karşıya yöneltilen cümle.",
+      "clue": "Bilinmeyen bir bilgiyi öğrenmek için karşıya yöneltilen cümle (4 harf) [B220-S3]",
       "answer": "SORU"
     },
     {
@@ -181,7 +181,7 @@
       "row": 4,
       "col": 2,
       "length": 3,
-      "clue": "Demirin hava ve nemle temas ederek zamanla üzerinde oluşturduğu kızıl tabaka.",
+      "clue": "Demirin hava ve nemle temas ederek zamanla üzerinde oluşturduğu kızıl tabaka (3 harf) [B220-S4]",
       "answer": "PAS"
     },
     {
@@ -190,7 +190,7 @@
       "row": 4,
       "col": 4,
       "length": 4,
-      "clue": "Bir miktarı ya da sırayı belirten; rakamlarla yazılan matematik kavramı.",
+      "clue": "Bir miktarı ya da sırayı belirten; rakamlarla yazılan matematik kavramı (4 harf) [B220-S5]",
       "answer": "SAYI"
     },
     {
@@ -199,7 +199,7 @@
       "row": 5,
       "col": 6,
       "length": 3,
-      "clue": "Bir sıranın en başında bulunan; sondan önce hiçbir şey olmayan sırada birinci.",
+      "clue": "Bir sıranın en başında bulunan; sondan önce hiçbir şey olmayan sırada birinci (3 harf) [B220-S6]",
       "answer": "İLK"
     },
     {
@@ -208,7 +208,7 @@
       "row": 6,
       "col": 4,
       "length": 3,
-      "clue": "İki yerleşim birimini birbirine bağlayan; üzerinde gidilen döşeli güzergâh.",
+      "clue": "İki yerleşim birimini birbirine bağlayan; üzerinde gidilen döşeli güzergâh (3 harf) [B220-S7]",
       "answer": "YOL"
     },
     {
@@ -217,7 +217,7 @@
       "row": 7,
       "col": 6,
       "length": 3,
-      "clue": "Damarlarda dolaşarak vücuda oksijen taşıyan kırmızı renkli canlı sıvı.",
+      "clue": "Damarlarda dolaşarak vücuda oksijen taşıyan kırmızı renkli canlı sıvı (3 harf) [B220-S8]",
       "answer": "KAN"
     },
     {
@@ -226,7 +226,7 @@
       "row": 7,
       "col": 7,
       "length": 5,
-      "clue": "Dünyanın farklı bölgelerini gösteren haritaların toplandığı büyük kitap.",
+      "clue": "Dünyanın farklı bölgelerini gösteren haritaların toplandığı büyük kitap (5 harf) [B220-S9]",
       "answer": "ATLAS"
     }
   ]

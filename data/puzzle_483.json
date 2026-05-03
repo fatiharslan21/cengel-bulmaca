@@ -121,7 +121,7 @@
       "row": 0,
       "col": 3,
       "length": 5,
-      "clue": "Ani ve sert bir hareketle yapılan vuruş; çarpma sonucu alınan sarsıntı.",
+      "clue": "Ani ve sert bir hareketle yapılan vuruş; çarpma sonucu alınan sarsıntı (5 harf) [B483-S1]",
       "answer": "DARBE"
     },
     {
@@ -130,7 +130,7 @@
       "row": 0,
       "col": 5,
       "length": 4,
-      "clue": "İçten duyulan gönül rahatlığı; keder bırakmayan tatlı neşe.",
+      "clue": "İçten duyulan gönül rahatlığı; keder bırakmayan tatlı neşe (4 harf) [B483-S2]",
       "answer": "SAFA"
     },
     {
@@ -139,7 +139,7 @@
       "row": 0,
       "col": 5,
       "length": 5,
-      "clue": "Denizin ya da gölün karaya kavuştuğu kumlu ve taşlı kıyı şeridi.",
+      "clue": "Denizin ya da gölün karaya kavuştuğu kumlu ve taşlı kıyı şeridi (5 harf) [B483-S2]",
       "answer": "SAHİL"
     },
     {
@@ -148,7 +148,7 @@
       "row": 1,
       "col": 2,
       "length": 4,
-      "clue": "Atmosferi oluşturan, canlıların soluduğu renksiz ve kokusuz gaz karışımı.",
+      "clue": "Atmosferi oluşturan, canlıların soluduğu renksiz ve kokusuz gaz karışımı (4 harf) [B483-S3]",
       "answer": "HAVA"
     },
     {
@@ -157,7 +157,7 @@
       "row": 3,
       "col": 1,
       "length": 6,
-      "clue": "Az sözle büyük anlam ifade eden, akılda kalan özlü söz.",
+      "clue": "Az sözle büyük anlam ifade eden, akılda kalan özlü söz (6 harf) [B483-S4]",
       "answer": "VECİZE"
     },
     {
@@ -166,7 +166,7 @@
       "row": 3,
       "col": 5,
       "length": 4,
-      "clue": "Bir işin başında konulan, ulaşılmak istenen hedef ya da gaye.",
+      "clue": "Bir işin başında konulan, ulaşılmak istenen hedef ya da gaye (4 harf) [B483-S5]",
       "answer": "AMAÇ"
     },
     {
@@ -175,7 +175,7 @@
       "row": 4,
       "col": 0,
       "length": 4,
-      "clue": "Güneşin batmasından doğmasına kadar süren karanlık zaman dilimi.",
+      "clue": "Güneşin batmasından doğmasına kadar süren karanlık zaman dilimi (4 harf) [B483-S6]",
       "answer": "GECE"
     },
     {
@@ -184,7 +184,7 @@
       "row": 5,
       "col": 4,
       "length": 3,
-      "clue": "Bir işin ya da sürecin bittiği nokta; final ve kapanış anı.",
+      "clue": "Bir işin ya da sürecin bittiği nokta; final ve kapanış anı (3 harf) [B483-S7]",
       "answer": "SON"
     },
     {
@@ -193,7 +193,7 @@
       "row": 5,
       "col": 4,
       "length": 4,
-      "clue": "Bilinmeyen bir bilgiyi öğrenmek için karşıya yöneltilen cümle.",
+      "clue": "Bilinmeyen bir bilgiyi öğrenmek için karşıya yöneltilen cümle (4 harf) [B483-S7]",
       "answer": "SORU"
     },
     {
@@ -202,7 +202,7 @@
       "row": 7,
       "col": 1,
       "length": 5,
-      "clue": "Aynı ortak özellikleri paylaşan kişilerden oluşan topluluk; grup.",
+      "clue": "Aynı ortak özellikleri paylaşan kişilerden oluşan topluluk; grup (5 harf) [B483-S8]",
       "answer": "ZÜMRE"
     }
   ]

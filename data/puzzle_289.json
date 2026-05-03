@@ -125,7 +125,7 @@
       "row": 0,
       "col": 1,
       "length": 4,
-      "clue": "Bir hakkı aramak için mahkemeye başvurularak açılan hukuki süreç.",
+      "clue": "Bir hakkı aramak için mahkemeye başvurularak açılan hukuki süreç (4 harf) [B289-S1]",
       "answer": "DAVA"
     },
     {
@@ -134,7 +134,7 @@
       "row": 0,
       "col": 4,
       "length": 3,
-      "clue": "Soyun büyüklerinden sayılan dede ya da daha öncesinden gelen büyük.",
+      "clue": "Soyun büyüklerinden sayılan dede ya da daha öncesinden gelen büyük (3 harf) [B289-S2]",
       "answer": "ATA"
     },
     {
@@ -143,7 +143,7 @@
       "row": 1,
       "col": 4,
       "length": 3,
-      "clue": "Hastalıkların tanısı ve iyileştirilmesiyle uğraşan hekimlik bilim dalı.",
+      "clue": "Hastalıkların tanısı ve iyileştirilmesiyle uğraşan hekimlik bilim dalı (3 harf) [B289-S3]",
       "answer": "TIP"
     },
     {
@@ -152,7 +152,7 @@
       "row": 1,
       "col": 6,
       "length": 4,
-      "clue": "Fırında pişirilen, üstüne malzeme serilen, ince ve yassı hamur işi.",
+      "clue": "Fırında pişirilen, üstüne malzeme serilen, ince ve yassı hamur işi (4 harf) [B289-S4]",
       "answer": "PİDE"
     },
     {
@@ -161,7 +161,7 @@
       "row": 1,
       "col": 8,
       "length": 6,
-      "clue": "Bir ülkeyi simgeleyen, özel renk ve işaretler taşıyan kumaş parçası.",
+      "clue": "Bir ülkeyi simgeleyen, özel renk ve işaretler taşıyan kumaş parçası (6 harf) [B289-S5]",
       "answer": "BAYRAK"
     },
     {
@@ -170,7 +170,7 @@
       "row": 2,
       "col": 0,
       "length": 5,
-      "clue": "Mektup ve paketlerin toplanıp yerine ulaştırıldığı geleneksel iletişim hizmeti.",
+      "clue": "Mektup ve paketlerin toplanıp yerine ulaştırıldığı geleneksel iletişim hizmeti (5 harf) [B289-S6]",
       "answer": "POSTA"
     },
     {
@@ -179,7 +179,7 @@
       "row": 2,
       "col": 6,
       "length": 4,
-      "clue": "Anlaşılmayan bir konuyu açık bir dille anlatma; aydınlatıcı açıklama.",
+      "clue": "Anlaşılmayan bir konuyu açık bir dille anlatma; aydınlatıcı açıklama (4 harf) [B289-S7]",
       "answer": "İZAH"
     },
     {
@@ -188,7 +188,7 @@
       "row": 2,
       "col": 11,
       "length": 6,
-      "clue": "Bir işi yapabilme gücü; insanda ya da doğada bulunan büyük kuvvet.",
+      "clue": "Bir işi yapabilme gücü; insanda ya da doğada bulunan büyük kuvvet (6 harf) [B289-S8]",
       "answer": "KUDRET"
     },
     {
@@ -197,7 +197,7 @@
       "row": 4,
       "col": 2,
       "length": 5,
-      "clue": "Pencereyi örtmek için asılan, ışığı ve dışarıdan görünmeyi engelleyen kumaş.",
+      "clue": "Pencereyi örtmek için asılan, ışığı ve dışarıdan görünmeyi engelleyen kumaş (5 harf) [B289-S9]",
       "answer": "PERDE"
     },
     {
@@ -206,7 +206,7 @@
       "row": 5,
       "col": 7,
       "length": 5,
-      "clue": "Kötü bakışın bir kimseye uğursuzluk getireceğine duyulan halk inancı.",
+      "clue": "Kötü bakışın bir kimseye uğursuzluk getireceğine duyulan halk inancı (5 harf) [B289-S10]",
       "answer": "NAZAR"
     }
   ]

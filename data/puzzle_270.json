@@ -134,7 +134,7 @@
       "row": 0,
       "col": 1,
       "length": 4,
-      "clue": "Bilinmeyen bir bilgiyi öğrenmek için karşıya yöneltilen cümle.",
+      "clue": "Bilinmeyen bir bilgiyi öğrenmek için karşıya yöneltilen cümle (4 harf) [B270-S1]",
       "answer": "SORU"
     },
     {
@@ -143,7 +143,7 @@
       "row": 3,
       "col": 0,
       "length": 3,
-      "clue": "Sarı kabuklu, uzun, yumuşak iç gövdeli tropikal meyve.",
+      "clue": "Sarı kabuklu, uzun, yumuşak iç gövdeli tropikal meyve (3 harf) [B270-S2]",
       "answer": "MUZ"
     },
     {
@@ -152,7 +152,7 @@
       "row": 3,
       "col": 0,
       "length": 5,
-      "clue": "Bir olayın geçtiği ya da bir şeyin bulunduğu belirli yer; mahal.",
+      "clue": "Bir olayın geçtiği ya da bir şeyin bulunduğu belirli yer; mahal (5 harf) [B270-S2]",
       "answer": "MEKAN"
     },
     {
@@ -161,7 +161,7 @@
       "row": 4,
       "col": 3,
       "length": 4,
-      "clue": "İnsanı üzen, iç sıkıntısı veren; uzun süre geçmeyen tasa ve keder.",
+      "clue": "İnsanı üzen, iç sıkıntısı veren; uzun süre geçmeyen tasa ve keder (4 harf) [B270-S3]",
       "answer": "DERT"
     },
     {
@@ -170,7 +170,7 @@
       "row": 4,
       "col": 5,
       "length": 5,
-      "clue": "İçe işleyen hafif hüzün; kimseye belli edilmeyen sessiz usanç.",
+      "clue": "İçe işleyen hafif hüzün; kimseye belli edilmeyen sessiz usanç (5 harf) [B270-S4]",
       "answer": "MELAL"
     },
     {
@@ -179,7 +179,7 @@
       "row": 5,
       "col": 3,
       "length": 4,
-      "clue": "Görgü kurallarına uygun davranış; terbiyeli ve ölçülü olma hali.",
+      "clue": "Görgü kurallarına uygun davranış; terbiyeli ve ölçülü olma hali (4 harf) [B270-S5]",
       "answer": "EDEP"
     },
     {
@@ -188,7 +188,7 @@
       "row": 5,
       "col": 8,
       "length": 5,
-      "clue": "Sporda kuralların uygulanmasını denetleyen, karar veren yetkili kişi.",
+      "clue": "Sporda kuralların uygulanmasını denetleyen, karar veren yetkili kişi (5 harf) [B270-S6]",
       "answer": "HAKEM"
     },
     {
@@ -197,7 +197,7 @@
       "row": 6,
       "col": 0,
       "length": 4,
-      "clue": "Kaldırılması güç olan, hafif sözcüğünün zıttı sayılan kütle durumu.",
+      "clue": "Kaldırılması güç olan, hafif sözcüğünün zıttı sayılan kütle durumu (4 harf) [B270-S7]",
       "answer": "AĞIR"
     },
     {
@@ -206,7 +206,7 @@
       "row": 8,
       "col": 5,
       "length": 4,
-      "clue": "İlkbaharda açan, kadeh biçimli taç yaprakları olan, Türklerin simgesi çiçek.",
+      "clue": "İlkbaharda açan, kadeh biçimli taç yaprakları olan, Türklerin simgesi çiçek (4 harf) [B270-S8]",
       "answer": "LALE"
     },
     {
@@ -215,7 +215,7 @@
       "row": 8,
       "col": 6,
       "length": 3,
-      "clue": "Bir üstün ya da yetkilinin önüne saygıyla sunma, takdim etme eylemi.",
+      "clue": "Bir üstün ya da yetkilinin önüne saygıyla sunma, takdim etme eylemi (3 harf) [B270-S9]",
       "answer": "ARZ"
     }
   ]

@@ -143,7 +143,7 @@
       "row": 0,
       "col": 9,
       "length": 4,
-      "clue": "Raylar üzerinde hareket eden, vagonları çeken büyük motorlu araç.",
+      "clue": "Raylar üzerinde hareket eden, vagonları çeken büyük motorlu araç (4 harf) [B310-S1]",
       "answer": "TREN"
     },
     {
@@ -152,7 +152,7 @@
       "row": 1,
       "col": 7,
       "length": 4,
-      "clue": "İçinden su, gaz ya da başka sıvıların geçtiği içi boş uzun silindir.",
+      "clue": "İçinden su, gaz ya da başka sıvıların geçtiği içi boş uzun silindir (4 harf) [B310-S2]",
       "answer": "BORU"
     },
     {
@@ -161,7 +161,7 @@
       "row": 3,
       "col": 6,
       "length": 4,
-      "clue": "Boş zamanlarda eğlence ya da öğrenme amacıyla kurallara göre oynanan etkinlik.",
+      "clue": "Boş zamanlarda eğlence ya da öğrenme amacıyla kurallara göre oynanan etkinlik (4 harf) [B310-S3]",
       "answer": "OYUN"
     },
     {
@@ -170,7 +170,7 @@
       "row": 3,
       "col": 7,
       "length": 4,
-      "clue": "Bir kimsenin doğup büyüdüğü vatanı; ait olduğu aziz memleket.",
+      "clue": "Bir kimsenin doğup büyüdüğü vatanı; ait olduğu aziz memleket (4 harf) [B310-S4]",
       "answer": "YURT"
     },
     {
@@ -179,7 +179,7 @@
       "row": 5,
       "col": 5,
       "length": 3,
-      "clue": "Başkalarıyla paylaşılmayan; yalnızca bir kişinin bildiği gizli bilgi.",
+      "clue": "Başkalarıyla paylaşılmayan; yalnızca bir kişinin bildiği gizli bilgi (3 harf) [B310-S5]",
       "answer": "SIR"
     },
     {
@@ -188,7 +188,7 @@
       "row": 5,
       "col": 5,
       "length": 5,
-      "clue": "Çölde ya da sıcakta gerçekte olmayan bir görüntü olarak algılanan yanılsama.",
+      "clue": "Çölde ya da sıcakta gerçekte olmayan bir görüntü olarak algılanan yanılsama (5 harf) [B310-S5]",
       "answer": "SERAP"
     },
     {
@@ -197,7 +197,7 @@
       "row": 6,
       "col": 0,
       "length": 6,
-      "clue": "Dakikanın altmışta biri; zamanın en küçük günlük ölçü birimi.",
+      "clue": "Dakikanın altmışta biri; zamanın en küçük günlük ölçü birimi (6 harf) [B310-S6]",
       "answer": "SANİYE"
     },
     {
@@ -206,7 +206,7 @@
       "row": 6,
       "col": 7,
       "length": 3,
-      "clue": "İnsanın bedenini saran dış deri; vücudumuzun dış yüzü.",
+      "clue": "İnsanın bedenini saran dış deri; vücudumuzun dış yüzü (3 harf) [B310-S7]",
       "answer": "TEN"
     },
     {
@@ -215,7 +215,7 @@
       "row": 6,
       "col": 8,
       "length": 4,
-      "clue": "Gönle çöken derin üzüntü, insanı içten içe yiyen keder.",
+      "clue": "Gönle çöken derin üzüntü, insanı içten içe yiyen keder (4 harf) [B310-S8]",
       "answer": "ELEM"
     },
     {
@@ -224,7 +224,7 @@
       "row": 8,
       "col": 7,
       "length": 4,
-      "clue": "Nüfusu kalabalık, altyapısı gelişmiş, şehir niteliğindeki yerleşim yeri.",
+      "clue": "Nüfusu kalabalık, altyapısı gelişmiş, şehir niteliğindeki yerleşim yeri (4 harf) [B310-S9]",
       "answer": "KENT"
     }
   ]

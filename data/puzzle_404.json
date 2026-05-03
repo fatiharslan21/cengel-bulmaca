@@ -121,7 +121,7 @@
       "row": 0,
       "col": 4,
       "length": 3,
-      "clue": "Aynı ortak özellikleri taşıyan canlıların oluşturduğu sınıflama birimi.",
+      "clue": "Aynı ortak özellikleri taşıyan canlıların oluşturduğu sınıflama birimi (3 harf) [B404-S1]",
       "answer": "TÜR"
     },
     {
@@ -130,7 +130,7 @@
       "row": 0,
       "col": 7,
       "length": 5,
-      "clue": "Eşine az rastlanan, olağanüstü güzellikteki nadide eser ya da yaratılış.",
+      "clue": "Eşine az rastlanan, olağanüstü güzellikteki nadide eser ya da yaratılış (5 harf) [B404-S2]",
       "answer": "BEDİA"
     },
     {
@@ -139,7 +139,7 @@
       "row": 1,
       "col": 3,
       "length": 5,
-      "clue": "Sevinçle karşılanan, umut veren yeni gelen güzel haber.",
+      "clue": "Sevinçle karşılanan, umut veren yeni gelen güzel haber (5 harf) [B404-S3]",
       "answer": "MÜJDE"
     },
     {
@@ -148,7 +148,7 @@
       "row": 3,
       "col": 5,
       "length": 4,
-      "clue": "Karanlığı dağıtan; göze hoş gelen aydınlatıcı parıltı.",
+      "clue": "Karanlığı dağıtan; göze hoş gelen aydınlatıcı parıltı (4 harf) [B404-S4]",
       "answer": "ZİYA"
     },
     {
@@ -157,7 +157,7 @@
       "row": 4,
       "col": 2,
       "length": 5,
-      "clue": "Karşılık beklemeden yapılan iyilik; bir büyüğün bahşettiği ihsan.",
+      "clue": "Karşılık beklemeden yapılan iyilik; bir büyüğün bahşettiği ihsan (5 harf) [B404-S5]",
       "answer": "LÜTUF"
     },
     {
@@ -166,7 +166,7 @@
       "row": 4,
       "col": 4,
       "length": 5,
-      "clue": "Dayanılmaz acı anında yükselen yüksek sesli ağlama ve feryat.",
+      "clue": "Dayanılmaz acı anında yükselen yüksek sesli ağlama ve feryat (5 harf) [B404-S6]",
       "answer": "FİGAN"
     },
     {
@@ -175,7 +175,7 @@
       "row": 4,
       "col": 8,
       "length": 5,
-      "clue": "Alçakgönüllülükle yapılan yalvarış; Tanrı'dan dilenen istek.",
+      "clue": "Alçakgönüllülükle yapılan yalvarış; Tanrı'dan dilenen istek (5 harf) [B404-S7]",
       "answer": "NİYAZ"
     },
     {
@@ -184,7 +184,7 @@
       "row": 6,
       "col": 2,
       "length": 5,
-      "clue": "Beklenmedik bir durum karşısında gösterilen aceleci ve tedirgin hal.",
+      "clue": "Beklenmedik bir durum karşısında gösterilen aceleci ve tedirgin hal (5 harf) [B404-S8]",
       "answer": "TELAŞ"
     },
     {
@@ -193,7 +193,7 @@
       "row": 7,
       "col": 7,
       "length": 3,
-      "clue": "Gözün hemen üstünde bulunan, yaklaşık yay biçimindeki kıl kümesi.",
+      "clue": "Gözün hemen üstünde bulunan, yaklaşık yay biçimindeki kıl kümesi (3 harf) [B404-S9]",
       "answer": "KAŞ"
     },
     {
@@ -202,7 +202,7 @@
       "row": 8,
       "col": 0,
       "length": 5,
-      "clue": "Ciğerlere hava çekmek ve bırakmak; yaşamın sürdüğünün göstergesi soluk.",
+      "clue": "Ciğerlere hava çekmek ve bırakmak; yaşamın sürdüğünün göstergesi soluk (5 harf) [B404-S10]",
       "answer": "NEFES"
     }
   ]

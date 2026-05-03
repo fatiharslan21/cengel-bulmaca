@@ -145,7 +145,7 @@
       "row": 0,
       "col": 3,
       "length": 4,
-      "clue": "Bir sözcüğün ya da cümlenin ardında yatan anlam; içerdiği kavram.",
+      "clue": "Bir sözcüğün ya da cümlenin ardında yatan anlam; içerdiği kavram (4 harf) [B455-S1]",
       "answer": "MANA"
     },
     {
@@ -154,7 +154,7 @@
       "row": 1,
       "col": 0,
       "length": 3,
-      "clue": "Kimyada asitle tepkimeye girerek tuz oluşturan, karşıt özellikli madde.",
+      "clue": "Kimyada asitle tepkimeye girerek tuz oluşturan, karşıt özellikli madde (3 harf) [B455-S2]",
       "answer": "BAZ"
     },
     {
@@ -163,7 +163,7 @@
       "row": 1,
       "col": 2,
       "length": 4,
-      "clue": "Bir işe girişirken göz önünde tutulan, ulaşılmak istenen son hedef.",
+      "clue": "Bir işe girişirken göz önünde tutulan, ulaşılmak istenen son hedef (4 harf) [B455-S3]",
       "answer": "GAYE"
     },
     {
@@ -172,7 +172,7 @@
       "row": 1,
       "col": 5,
       "length": 4,
-      "clue": "Uzun kulaklı, sabırlı; köylerde yük taşımada kullanılan küçük binek hayvanı.",
+      "clue": "Uzun kulaklı, sabırlı; köylerde yük taşımada kullanılan küçük binek hayvanı (4 harf) [B455-S4]",
       "answer": "EŞEK"
     },
     {
@@ -181,7 +181,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "Karanlığı dağıtan; göze hoş gelen aydınlatıcı parıltı.",
+      "clue": "Karanlığı dağıtan; göze hoş gelen aydınlatıcı parıltı (4 harf) [B455-S5]",
       "answer": "ZİYA"
     },
     {
@@ -190,7 +190,7 @@
       "row": 3,
       "col": 7,
       "length": 4,
-      "clue": "Evde ya da iş yerinde gündelik hayatta kullanılan nesnelerin tümü.",
+      "clue": "Evde ya da iş yerinde gündelik hayatta kullanılan nesnelerin tümü (4 harf) [B455-S6]",
       "answer": "EŞYA"
     },
     {
@@ -199,7 +199,7 @@
       "row": 4,
       "col": 5,
       "length": 3,
-      "clue": "Gövdesi tüylerle kaplı, kanatları yardımıyla uçabilen yumurtlayan canlı.",
+      "clue": "Gövdesi tüylerle kaplı, kanatları yardımıyla uçabilen yumurtlayan canlı (3 harf) [B455-S7]",
       "answer": "KUŞ"
     },
     {
@@ -208,7 +208,7 @@
       "row": 6,
       "col": 6,
       "length": 4,
-      "clue": "Bir miktarı ya da sırayı belirten; rakamlarla yazılan matematik kavramı.",
+      "clue": "Bir miktarı ya da sırayı belirten; rakamlarla yazılan matematik kavramı (4 harf) [B455-S8]",
       "answer": "SAYI"
     },
     {
@@ -217,7 +217,7 @@
       "row": 6,
       "col": 6,
       "length": 5,
-      "clue": "Güneşin doğmasıyla başlayıp öğleye kadar süren günün ilk dilimi.",
+      "clue": "Güneşin doğmasıyla başlayıp öğleye kadar süren günün ilk dilimi (5 harf) [B455-S8]",
       "answer": "SABAH"
     },
     {
@@ -226,7 +226,7 @@
       "row": 7,
       "col": 3,
       "length": 4,
-      "clue": "Saçı ya da kemeri tutturmaya yarayan, klips gibi açılıp kapanan küçük süs.",
+      "clue": "Saçı ya da kemeri tutturmaya yarayan, klips gibi açılıp kapanan küçük süs (4 harf) [B455-S9]",
       "answer": "TOKA"
     }
   ]

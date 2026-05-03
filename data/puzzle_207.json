@@ -139,7 +139,7 @@
       "row": 0,
       "col": 10,
       "length": 6,
-      "clue": "Bir toplantıda ya da günde ele alınacak konuların sıralı listesi.",
+      "clue": "Bir toplantıda ya da günde ele alınacak konuların sıralı listesi (6 harf) [B207-S1]",
       "answer": "GÜNDEM"
     },
     {
@@ -148,7 +148,7 @@
       "row": 1,
       "col": 8,
       "length": 3,
-      "clue": "Bir sıranın en başında bulunan; sondan önce hiçbir şey olmayan sırada birinci.",
+      "clue": "Bir sıranın en başında bulunan; sondan önce hiçbir şey olmayan sırada birinci (3 harf) [B207-S2]",
       "answer": "İLK"
     },
     {
@@ -157,7 +157,7 @@
       "row": 2,
       "col": 3,
       "length": 4,
-      "clue": "Bir olayın başlangıcı ile sonu arasında geçen zaman aralığı.",
+      "clue": "Bir olayın başlangıcı ile sonu arasında geçen zaman aralığı (4 harf) [B207-S3]",
       "answer": "SÜRE"
     },
     {
@@ -166,7 +166,7 @@
       "row": 2,
       "col": 3,
       "length": 6,
-      "clue": "İnsan ya da kürek gücüyle suda yol alan küçük açık deniz teknesi.",
+      "clue": "İnsan ya da kürek gücüyle suda yol alan küçük açık deniz teknesi (6 harf) [B207-S3]",
       "answer": "SANDAL"
     },
     {
@@ -175,7 +175,7 @@
       "row": 3,
       "col": 8,
       "length": 4,
-      "clue": "Miyavlayarak seslenen, pençeleri keskin, evlerde beslenen tüylü memeli hayvan.",
+      "clue": "Miyavlayarak seslenen, pençeleri keskin, evlerde beslenen tüylü memeli hayvan (4 harf) [B207-S4]",
       "answer": "KEDİ"
     },
     {
@@ -184,7 +184,7 @@
       "row": 4,
       "col": 1,
       "length": 5,
-      "clue": "Seslerin belli bir düzen içinde bir araya getirilmesiyle oluşan sanat.",
+      "clue": "Seslerin belli bir düzen içinde bir araya getirilmesiyle oluşan sanat (5 harf) [B207-S5]",
       "answer": "MÜZİK"
     },
     {
@@ -193,7 +193,7 @@
       "row": 4,
       "col": 1,
       "length": 3,
-      "clue": "Kırmızı ile mavinin karışımından elde edilen, menekşe renginde koyu ton.",
+      "clue": "Kırmızı ile mavinin karışımından elde edilen, menekşe renginde koyu ton (3 harf) [B207-S5]",
       "answer": "MOR"
     },
     {
@@ -202,7 +202,7 @@
       "row": 4,
       "col": 6,
       "length": 3,
-      "clue": "Bitkilerden ya da hayvanlardan elde edilen; suda çözünmeyen kaygan madde.",
+      "clue": "Bitkilerden ya da hayvanlardan elde edilen; suda çözünmeyen kaygan madde (3 harf) [B207-S6]",
       "answer": "YAĞ"
     },
     {
@@ -211,7 +211,7 @@
       "row": 5,
       "col": 3,
       "length": 5,
-      "clue": "Doğada bulunan en sert madde; takılarda kullanılan değerli kıymetli taş.",
+      "clue": "Doğada bulunan en sert madde; takılarda kullanılan değerli kıymetli taş (5 harf) [B207-S7]",
       "answer": "ELMAS"
     },
     {
@@ -220,7 +220,7 @@
       "row": 7,
       "col": 0,
       "length": 3,
-      "clue": "Bahçeyi ya da tarlayı çevreleyen, tahta veya telden yapılmış alçak engel.",
+      "clue": "Bahçeyi ya da tarlayı çevreleyen, tahta veya telden yapılmış alçak engel (3 harf) [B207-S8]",
       "answer": "ÇİT"
     }
   ]

@@ -145,7 +145,7 @@
       "row": 0,
       "col": 6,
       "length": 3,
-      "clue": "Metal ya da tırnak gibi sert yüzeyleri aşındırarak düzelten dişli alet.",
+      "clue": "Metal ya da tırnak gibi sert yüzeyleri aşındırarak düzelten dişli alet (3 harf) [B64-S1]",
       "answer": "EĞE"
     },
     {
@@ -154,7 +154,7 @@
       "row": 2,
       "col": 5,
       "length": 3,
-      "clue": "Ağız içindeki kaslı organ; aynı zamanda insanların konuşarak anlaştığı sistem.",
+      "clue": "Ağız içindeki kaslı organ; aynı zamanda insanların konuşarak anlaştığı sistem (3 harf) [B64-S2]",
       "answer": "DİL"
     },
     {
@@ -163,7 +163,7 @@
       "row": 2,
       "col": 5,
       "length": 5,
-      "clue": "Kıtaları birbirinden ayıran, tuzlu sulardan oluşan uçsuz bucaksız kütle.",
+      "clue": "Kıtaları birbirinden ayıran, tuzlu sulardan oluşan uçsuz bucaksız kütle (5 harf) [B64-S2]",
       "answer": "DENİZ"
     },
     {
@@ -172,7 +172,7 @@
       "row": 4,
       "col": 1,
       "length": 4,
-      "clue": "Nüfusu kalabalık, altyapısı gelişmiş, şehir niteliğindeki yerleşim yeri.",
+      "clue": "Nüfusu kalabalık, altyapısı gelişmiş, şehir niteliğindeki yerleşim yeri (4 harf) [B64-S3]",
       "answer": "KENT"
     },
     {
@@ -181,7 +181,7 @@
       "row": 4,
       "col": 3,
       "length": 3,
-      "clue": "Hortumuyla tanınan, kulakları iri, kara hayvanlarının en büyüklerinden biri.",
+      "clue": "Hortumuyla tanınan, kulakları iri, kara hayvanlarının en büyüklerinden biri (3 harf) [B64-S4]",
       "answer": "FİL"
     },
     {
@@ -190,7 +190,7 @@
       "row": 4,
       "col": 3,
       "length": 4,
-      "clue": "İki şeyin birbirinden ayrıldığı yön; aralarındaki benzemezlik.",
+      "clue": "İki şeyin birbirinden ayrıldığı yön; aralarındaki benzemezlik (4 harf) [B64-S4]",
       "answer": "FARK"
     },
     {
@@ -199,7 +199,7 @@
       "row": 5,
       "col": 0,
       "length": 4,
-      "clue": "Suç işleyen kimseye, yaptığının karşılığı olarak verilen yaptırım.",
+      "clue": "Suç işleyen kimseye, yaptığının karşılığı olarak verilen yaptırım (4 harf) [B64-S5]",
       "answer": "CEZA"
     },
     {
@@ -208,7 +208,7 @@
       "row": 7,
       "col": 3,
       "length": 4,
-      "clue": "İnsanın boynunun üst kısmında bulunan, düşünmenin merkezi olan baş.",
+      "clue": "İnsanın boynunun üst kısmında bulunan, düşünmenin merkezi olan baş (4 harf) [B64-S6]",
       "answer": "KAFA"
     },
     {
@@ -217,7 +217,7 @@
       "row": 7,
       "col": 6,
       "length": 4,
-      "clue": "İçten duyulan istek, gönülden beklenen dilek veya özlem.",
+      "clue": "İçten duyulan istek, gönülden beklenen dilek veya özlem (4 harf) [B64-S7]",
       "answer": "ARZU"
     }
   ]

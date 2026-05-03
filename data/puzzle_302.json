@@ -123,7 +123,7 @@
       "row": 0,
       "col": 0,
       "length": 3,
-      "clue": "Yeteri kadarının üstünde, çokça bulunan; dar sözcüğünün zıttı sayılan.",
+      "clue": "Yeteri kadarının üstünde, çokça bulunan; dar sözcüğünün zıttı sayılan (3 harf) [B302-S1]",
       "answer": "BOL"
     },
     {
@@ -132,7 +132,7 @@
       "row": 0,
       "col": 1,
       "length": 3,
-      "clue": "Bir evin ya da binanın duvarlarla ayrılmış, belirli amaçla kullanılan bölümü.",
+      "clue": "Bir evin ya da binanın duvarlarla ayrılmış, belirli amaçla kullanılan bölümü (3 harf) [B302-S2]",
       "answer": "ODA"
     },
     {
@@ -141,7 +141,7 @@
       "row": 1,
       "col": 3,
       "length": 4,
-      "clue": "Dağlardan doğan, ırmağa ya da göle dökülen küçük doğal akarsu.",
+      "clue": "Dağlardan doğan, ırmağa ya da göle dökülen küçük doğal akarsu (4 harf) [B302-S3]",
       "answer": "DERE"
     },
     {
@@ -150,7 +150,7 @@
       "row": 2,
       "col": 0,
       "length": 5,
-      "clue": "Kaybedilen bir yakının ardından tutulan koyu yas; siyahlar giyme hali.",
+      "clue": "Kaybedilen bir yakının ardından tutulan koyu yas; siyahlar giyme hali (5 harf) [B302-S4]",
       "answer": "MATEM"
     },
     {
@@ -159,7 +159,7 @@
       "row": 3,
       "col": 6,
       "length": 4,
-      "clue": "Mahkemenin verdiği kararı bildiren, yazılı resmi belge.",
+      "clue": "Mahkemenin verdiği kararı bildiren, yazılı resmi belge (4 harf) [B302-S5]",
       "answer": "İLAM"
     },
     {
@@ -168,7 +168,7 @@
       "row": 4,
       "col": 3,
       "length": 4,
-      "clue": "Kavuşulması için yıllarca beklenen, gönülde taşınan büyük istek.",
+      "clue": "Kavuşulması için yıllarca beklenen, gönülde taşınan büyük istek (4 harf) [B302-S6]",
       "answer": "EMEL"
     },
     {
@@ -177,7 +177,7 @@
       "row": 4,
       "col": 8,
       "length": 3,
-      "clue": "Çanak çömlek yapımında kullanılan, suyla yumuşayan yapışkan toprak.",
+      "clue": "Çanak çömlek yapımında kullanılan, suyla yumuşayan yapışkan toprak (3 harf) [B302-S7]",
       "answer": "KİL"
     },
     {
@@ -186,7 +186,7 @@
       "row": 6,
       "col": 4,
       "length": 5,
-      "clue": "Bir şeyin eksiksiz, kusursuz ve en üst düzeyde olgunlaşmış hali.",
+      "clue": "Bir şeyin eksiksiz, kusursuz ve en üst düzeyde olgunlaşmış hali (5 harf) [B302-S8]",
       "answer": "KEMAL"
     },
     {
@@ -195,7 +195,7 @@
       "row": 6,
       "col": 4,
       "length": 3,
-      "clue": "Alevi sönmüş ama sıcaklığı ve kızıllığı süren yanmakta olan parça.",
+      "clue": "Alevi sönmüş ama sıcaklığı ve kızıllığı süren yanmakta olan parça (3 harf) [B302-S8]",
       "answer": "KOR"
     },
     {
@@ -204,7 +204,7 @@
       "row": 6,
       "col": 7,
       "length": 4,
-      "clue": "İçten duyulan istek, gönülden beklenen dilek veya özlem.",
+      "clue": "İçten duyulan istek, gönülden beklenen dilek veya özlem (4 harf) [B302-S9]",
       "answer": "ARZU"
     }
   ]

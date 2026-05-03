@@ -125,7 +125,7 @@
       "row": 0,
       "col": 4,
       "length": 4,
-      "clue": "Başarı gösteren kimseye, çabasının karşılığı olarak verilen değerli armağan.",
+      "clue": "Başarı gösteren kimseye, çabasının karşılığı olarak verilen değerli armağan (4 harf) [B258-S1]",
       "answer": "ÖDÜL"
     },
     {
@@ -134,7 +134,7 @@
       "row": 1,
       "col": 4,
       "length": 4,
-      "clue": "Bir olayın kaçıncı kez yaşandığını anlatmak için kullanılan kez sözcüğü.",
+      "clue": "Bir olayın kaçıncı kez yaşandığını anlatmak için kullanılan kez sözcüğü (4 harf) [B258-S2]",
       "answer": "DEFA"
     },
     {
@@ -143,7 +143,7 @@
       "row": 1,
       "col": 6,
       "length": 6,
-      "clue": "Her takımdan on bir oyuncunun sahada top üzerinde oynadığı dünya sporu.",
+      "clue": "Her takımdan on bir oyuncunun sahada top üzerinde oynadığı dünya sporu (6 harf) [B258-S3]",
       "answer": "FUTBOL"
     },
     {
@@ -152,7 +152,7 @@
       "row": 3,
       "col": 2,
       "length": 3,
-      "clue": "Omuzdan bileğe kadar uzanan, eli bedene bağlayan üst uzvumuz.",
+      "clue": "Omuzdan bileğe kadar uzanan, eli bedene bağlayan üst uzvumuz (3 harf) [B258-S4]",
       "answer": "KOL"
     },
     {
@@ -161,7 +161,7 @@
       "row": 3,
       "col": 2,
       "length": 5,
-      "clue": "Ağızdan çıkan söz; düşüncenin dille ifade bulmuş hali.",
+      "clue": "Ağızdan çıkan söz; düşüncenin dille ifade bulmuş hali (5 harf) [B258-S4]",
       "answer": "KELAM"
     },
     {
@@ -170,7 +170,7 @@
       "row": 3,
       "col": 10,
       "length": 3,
-      "clue": "Omuzlara atılan ya da başa örtülen, yumuşak geniş kumaş parçası.",
+      "clue": "Omuzlara atılan ya da başa örtülen, yumuşak geniş kumaş parçası (3 harf) [B258-S5]",
       "answer": "ŞAL"
     },
     {
@@ -179,7 +179,7 @@
       "row": 4,
       "col": 6,
       "length": 6,
-      "clue": "Bir ülkeyi simgeleyen, özel renk ve işaretler taşıyan kumaş parçası.",
+      "clue": "Bir ülkeyi simgeleyen, özel renk ve işaretler taşıyan kumaş parçası (6 harf) [B258-S6]",
       "answer": "BAYRAK"
     },
     {
@@ -188,7 +188,7 @@
       "row": 5,
       "col": 0,
       "length": 3,
-      "clue": "Bulunduğun yerden buraya doğru yaklaş; git sözcüğünün tam zıttı eylem.",
+      "clue": "Bulunduğun yerden buraya doğru yaklaş; git sözcüğünün tam zıttı eylem (3 harf) [B258-S7]",
       "answer": "GEL"
     },
     {
@@ -197,7 +197,7 @@
       "row": 5,
       "col": 4,
       "length": 3,
-      "clue": "Bir evin ya da binanın duvarlarla ayrılmış, belirli amaçla kullanılan bölümü.",
+      "clue": "Bir evin ya da binanın duvarlarla ayrılmış, belirli amaçla kullanılan bölümü (3 harf) [B258-S8]",
       "answer": "ODA"
     },
     {
@@ -206,7 +206,7 @@
       "row": 6,
       "col": 4,
       "length": 3,
-      "clue": "Bir ağacın gövdesinden yanlara doğru uzayan ve yapraklarını taşıyan kol.",
+      "clue": "Bir ağacın gövdesinden yanlara doğru uzayan ve yapraklarını taşıyan kol (3 harf) [B258-S9]",
       "answer": "DAL"
     }
   ]

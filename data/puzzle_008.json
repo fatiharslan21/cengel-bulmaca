@@ -85,7 +85,7 @@
       "row": 0,
       "col": 6,
       "length": 3,
-      "clue": "Bir kimsenin ya da şeyin bulunduğu durum, vaziyet ya da keyif.",
+      "clue": "Bir kimsenin ya da şeyin bulunduğu durum, vaziyet ya da keyif (3 harf) [B8-S1]",
       "answer": "HAL"
     },
     {
@@ -94,7 +94,7 @@
       "row": 1,
       "col": 4,
       "length": 4,
-      "clue": "Üzerinde yapı bulunmayan, belli sınırlarla çevrili geniş açık düzlük.",
+      "clue": "Üzerinde yapı bulunmayan, belli sınırlarla çevrili geniş açık düzlük (4 harf) [B8-S2]",
       "answer": "ALAN"
     },
     {
@@ -103,7 +103,7 @@
       "row": 1,
       "col": 4,
       "length": 3,
-      "clue": "Dört bir yanı suyla çevrili, denizin ortasında kalmış toprak parçası.",
+      "clue": "Dört bir yanı suyla çevrili, denizin ortasında kalmış toprak parçası (3 harf) [B8-S2]",
       "answer": "ADA"
     },
     {
@@ -112,7 +112,7 @@
       "row": 2,
       "col": 2,
       "length": 3,
-      "clue": "Uyku sırasında zihnin canlandırdığı görüntüler ya da uyanıkken kurulan hayal.",
+      "clue": "Uyku sırasında zihnin canlandırdığı görüntüler ya da uyanıkken kurulan hayal (3 harf) [B8-S3]",
       "answer": "DÜŞ"
     },
     {
@@ -121,7 +121,7 @@
       "row": 4,
       "col": 2,
       "length": 4,
-      "clue": "İnsana gülen talih; iyi bir sonucun tesadüfen kısmet olması hali.",
+      "clue": "İnsana gülen talih; iyi bir sonucun tesadüfen kısmet olması hali (4 harf) [B8-S4]",
       "answer": "ŞANS"
     },
     {
@@ -130,7 +130,7 @@
       "row": 4,
       "col": 3,
       "length": 3,
-      "clue": "Bir cismin aşağı tarafı; üst sözcüğünün tam karşıtı olan yön.",
+      "clue": "Bir cismin aşağı tarafı; üst sözcüğünün tam karşıtı olan yön (3 harf) [B8-S5]",
       "answer": "ALT"
     },
     {
@@ -139,7 +139,7 @@
       "row": 4,
       "col": 5,
       "length": 3,
-      "clue": "İnek, keçi gibi memelilerden sağılan; beyaz renkli besleyici temel içecek.",
+      "clue": "İnek, keçi gibi memelilerden sağılan; beyaz renkli besleyici temel içecek (3 harf) [B8-S6]",
       "answer": "SÜT"
     },
     {
@@ -148,7 +148,7 @@
       "row": 5,
       "col": 1,
       "length": 3,
-      "clue": "Pantolon ya da ceketin içine dikilmiş, ufak eşya konulan küçük kese.",
+      "clue": "Pantolon ya da ceketin içine dikilmiş, ufak eşya konulan küçük kese (3 harf) [B8-S7]",
       "answer": "CEP"
     },
     {
@@ -157,7 +157,7 @@
       "row": 6,
       "col": 0,
       "length": 4,
-      "clue": "İnsanı üzen, iç sıkıntısı veren; uzun süre geçmeyen tasa ve keder.",
+      "clue": "İnsanı üzen, iç sıkıntısı veren; uzun süre geçmeyen tasa ve keder (4 harf) [B8-S8]",
       "answer": "DERT"
     }
   ]

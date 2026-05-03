@@ -73,7 +73,7 @@
       "row": 0,
       "col": 8,
       "length": 4,
-      "clue": "İçine çiçek konulmak üzere yapılmış, ince uzun boyunlu süs kabı.",
+      "clue": "İçine çiçek konulmak üzere yapılmış, ince uzun boyunlu süs kabı (4 harf) [B68-S1]",
       "answer": "VAZO"
     },
     {
@@ -82,7 +82,7 @@
       "row": 1,
       "col": 0,
       "length": 3,
-      "clue": "Yapının üstünü kapatan, yağmurdan ve güneşten koruyan çatı kısmı.",
+      "clue": "Yapının üstünü kapatan, yağmurdan ve güneşten koruyan çatı kısmı (3 harf) [B68-S2]",
       "answer": "DAM"
     },
     {
@@ -91,7 +91,7 @@
       "row": 1,
       "col": 2,
       "length": 4,
-      "clue": "Çalışmaya ya da yolculuğa kısa bir süre ara vererek dinlenme anı.",
+      "clue": "Çalışmaya ya da yolculuğa kısa bir süre ara vererek dinlenme anı (4 harf) [B68-S3]",
       "answer": "MOLA"
     },
     {
@@ -100,7 +100,7 @@
       "row": 1,
       "col": 4,
       "length": 3,
-      "clue": "Uyku sırasında zihnin canlandırdığı görüntüler ya da uyanıkken kurulan hayal.",
+      "clue": "Uyku sırasında zihnin canlandırdığı görüntüler ya da uyanıkken kurulan hayal (3 harf) [B68-S4]",
       "answer": "DÜŞ"
     },
     {
@@ -109,7 +109,7 @@
       "row": 1,
       "col": 4,
       "length": 3,
-      "clue": "Bir ağacın gövdesinden yanlara doğru uzayan ve yapraklarını taşıyan kol.",
+      "clue": "Bir ağacın gövdesinden yanlara doğru uzayan ve yapraklarını taşıyan kol (3 harf) [B68-S4]",
       "answer": "DAL"
     },
     {
@@ -118,7 +118,7 @@
       "row": 1,
       "col": 6,
       "length": 3,
-      "clue": "Yaptıklarıyla uzaklarda bile tanınıp bilinir olmanın verdiği büyük ün.",
+      "clue": "Yaptıklarıyla uzaklarda bile tanınıp bilinir olmanın verdiği büyük ün (3 harf) [B68-S5]",
       "answer": "ŞAN"
     },
     {
@@ -127,7 +127,7 @@
       "row": 2,
       "col": 2,
       "length": 3,
-      "clue": "Bir evin ya da binanın duvarlarla ayrılmış, belirli amaçla kullanılan bölümü.",
+      "clue": "Bir evin ya da binanın duvarlarla ayrılmış, belirli amaçla kullanılan bölümü (3 harf) [B68-S6]",
       "answer": "ODA"
     },
     {
@@ -136,7 +136,7 @@
       "row": 2,
       "col": 6,
       "length": 4,
-      "clue": "İçten duyulan istek, gönülden beklenen dilek veya özlem.",
+      "clue": "İçten duyulan istek, gönülden beklenen dilek veya özlem (4 harf) [B68-S7]",
       "answer": "ARZU"
     },
     {
@@ -145,7 +145,7 @@
       "row": 4,
       "col": 1,
       "length": 3,
-      "clue": "Bir binanın birbirinin üzerine gelen yatay bölümlerinden her biri.",
+      "clue": "Bir binanın birbirinin üzerine gelen yatay bölümlerinden her biri (3 harf) [B68-S8]",
       "answer": "KAT"
     }
   ]

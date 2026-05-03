@@ -130,7 +130,7 @@
       "row": 0,
       "col": 3,
       "length": 4,
-      "clue": "Üzerinde yemek yemek ya da çalışmak için kullanılan ayaklı düz mobilya.",
+      "clue": "Üzerinde yemek yemek ya da çalışmak için kullanılan ayaklı düz mobilya (4 harf) [B264-S1]",
       "answer": "MASA"
     },
     {
@@ -139,7 +139,7 @@
       "row": 0,
       "col": 3,
       "length": 5,
-      "clue": "Seslerin belli bir düzen içinde bir araya getirilmesiyle oluşan sanat.",
+      "clue": "Seslerin belli bir düzen içinde bir araya getirilmesiyle oluşan sanat (5 harf) [B264-S1]",
       "answer": "MÜZİK"
     },
     {
@@ -148,7 +148,7 @@
       "row": 3,
       "col": 0,
       "length": 5,
-      "clue": "Güneşin doğmasıyla başlayıp öğleye kadar süren günün ilk dilimi.",
+      "clue": "Güneşin doğmasıyla başlayıp öğleye kadar süren günün ilk dilimi (5 harf) [B264-S2]",
       "answer": "SABAH"
     },
     {
@@ -157,7 +157,7 @@
       "row": 3,
       "col": 1,
       "length": 6,
-      "clue": "Türkiye Cumhuriyeti'nin başkenti ve İç Anadolu'nun en büyük şehri.",
+      "clue": "Türkiye Cumhuriyeti'nin başkenti ve İç Anadolu'nun en büyük şehri (6 harf) [B264-S3]",
       "answer": "ANKARA"
     },
     {
@@ -166,7 +166,7 @@
       "row": 3,
       "col": 7,
       "length": 3,
-      "clue": "Alevi sönmüş ama sıcaklığı ve kızıllığı süren yanmakta olan parça.",
+      "clue": "Alevi sönmüş ama sıcaklığı ve kızıllığı süren yanmakta olan parça (3 harf) [B264-S4]",
       "answer": "KOR"
     },
     {
@@ -175,7 +175,7 @@
       "row": 3,
       "col": 7,
       "length": 4,
-      "clue": "Bir evin ya da iş yerinin kullanımı için sahibine ödenen aylık ücret.",
+      "clue": "Bir evin ya da iş yerinin kullanımı için sahibine ödenen aylık ücret (4 harf) [B264-S4]",
       "answer": "KIRA"
     },
     {
@@ -184,7 +184,7 @@
       "row": 5,
       "col": 3,
       "length": 4,
-      "clue": "İçten duyulan gönül rahatlığı; keder bırakmayan tatlı neşe.",
+      "clue": "İçten duyulan gönül rahatlığı; keder bırakmayan tatlı neşe (4 harf) [B264-S5]",
       "answer": "SAFA"
     },
     {
@@ -193,7 +193,7 @@
       "row": 5,
       "col": 3,
       "length": 5,
-      "clue": "Zorluklara dayanıp isyan etmeden bekleyebilme; hoşgörü ile katlanma.",
+      "clue": "Zorluklara dayanıp isyan etmeden bekleyebilme; hoşgörü ile katlanma (5 harf) [B264-S5]",
       "answer": "SABIR"
     },
     {
@@ -202,7 +202,7 @@
       "row": 6,
       "col": 0,
       "length": 4,
-      "clue": "Bir hakkı aramak için mahkemeye başvurularak açılan hukuki süreç.",
+      "clue": "Bir hakkı aramak için mahkemeye başvurularak açılan hukuki süreç (4 harf) [B264-S6]",
       "answer": "DAVA"
     },
     {
@@ -211,7 +211,7 @@
       "row": 8,
       "col": 1,
       "length": 3,
-      "clue": "Soyun büyüklerinden sayılan dede ya da daha öncesinden gelen büyük.",
+      "clue": "Soyun büyüklerinden sayılan dede ya da daha öncesinden gelen büyük (3 harf) [B264-S7]",
       "answer": "ATA"
     }
   ]
