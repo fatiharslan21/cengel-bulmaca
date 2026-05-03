@@ -117,7 +117,7 @@
       "row": 0,
       "col": 0,
       "length": 4,
-      "clue": "İnce mukavvadan yapılmış, üzerine yazı yazılan ya da baskı yapılan levha.",
+      "clue": "İnce mukavvadan yapılmış, üzerine yazı yazılan ya da baskı yapılan levha (4 harf) [B327-S1]",
       "answer": "KART"
     },
     {
@@ -126,7 +126,7 @@
       "row": 0,
       "col": 8,
       "length": 3,
-      "clue": "Kalbin bulunduğu taraf; sağın tam karşıtı olan yön.",
+      "clue": "Kalbin bulunduğu taraf; sağın tam karşıtı olan yön (3 harf) [B327-S2]",
       "answer": "SOL"
     },
     {
@@ -135,7 +135,7 @@
       "row": 0,
       "col": 10,
       "length": 4,
-      "clue": "Ortaçağ Avrupası'nda soyluların yaşadığı kuleli, büyük taştan yapılı konak.",
+      "clue": "Ortaçağ Avrupası'nda soyluların yaşadığı kuleli, büyük taştan yapılı konak (4 harf) [B327-S3]",
       "answer": "ŞATO"
     },
     {
@@ -144,7 +144,7 @@
       "row": 1,
       "col": 3,
       "length": 4,
-      "clue": "Bir işe girişirken göz önünde tutulan, ulaşılmak istenen son hedef.",
+      "clue": "Bir işe girişirken göz önünde tutulan, ulaşılmak istenen son hedef (4 harf) [B327-S4]",
       "answer": "GAYE"
     },
     {
@@ -153,7 +153,7 @@
       "row": 2,
       "col": 0,
       "length": 4,
-      "clue": "Uykuda iken zihnin sahneler halinde canlandırdığı renkli görüntüler.",
+      "clue": "Uykuda iken zihnin sahneler halinde canlandırdığı renkli görüntüler (4 harf) [B327-S5]",
       "answer": "RÜYA"
     },
     {
@@ -162,7 +162,7 @@
       "row": 2,
       "col": 6,
       "length": 5,
-      "clue": "Gökyüzünde süzülen, su buharının yoğunlaşmasıyla oluşan beyaz küme.",
+      "clue": "Gökyüzünde süzülen, su buharının yoğunlaşmasıyla oluşan beyaz küme (5 harf) [B327-S6]",
       "answer": "BULUT"
     },
     {
@@ -171,7 +171,7 @@
       "row": 2,
       "col": 6,
       "length": 6,
-      "clue": "Bir binanın üst katlarından dışarı uzanan, parmaklıkla çevrili çıkıntı.",
+      "clue": "Bir binanın üst katlarından dışarı uzanan, parmaklıkla çevrili çıkıntı (6 harf) [B327-S6]",
       "answer": "BALKON"
     },
     {
@@ -180,7 +180,7 @@
       "row": 4,
       "col": 2,
       "length": 5,
-      "clue": "Varlığı yerinde durmayıp sona ermesi; yokluğa geçme hali.",
+      "clue": "Varlığı yerinde durmayıp sona ermesi; yokluğa geçme hali (5 harf) [B327-S7]",
       "answer": "ZEVAL"
     },
     {
@@ -189,7 +189,7 @@
       "row": 4,
       "col": 9,
       "length": 4,
-      "clue": "İnsanın başına gelenleri belirlediğine inanılan şans, talih ya da kader.",
+      "clue": "İnsanın başına gelenleri belirlediğine inanılan şans, talih ya da kader (4 harf) [B327-S8]",
       "answer": "BAHT"
     },
     {
@@ -198,7 +198,7 @@
       "row": 5,
       "col": 6,
       "length": 4,
-      "clue": "Beyazın tam zıttı olan, gölgeleri bile koyulaştıran siyah ton.",
+      "clue": "Beyazın tam zıttı olan, gölgeleri bile koyulaştıran siyah ton (4 harf) [B327-S9]",
       "answer": "KARA"
     }
   ]

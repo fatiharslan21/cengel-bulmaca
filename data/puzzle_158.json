@@ -133,7 +133,7 @@
       "row": 0,
       "col": 4,
       "length": 4,
-      "clue": "Sıkıntılı ya da zor bir durumu ortadan kaldıracak çözüm yolu.",
+      "clue": "Sıkıntılı ya da zor bir durumu ortadan kaldıracak çözüm yolu (4 harf) [B158-S1]",
       "answer": "ÇARE"
     },
     {
@@ -142,7 +142,7 @@
       "row": 0,
       "col": 7,
       "length": 6,
-      "clue": "İnsan ya da kürek gücüyle suda yol alan küçük açık deniz teknesi.",
+      "clue": "İnsan ya da kürek gücüyle suda yol alan küçük açık deniz teknesi (6 harf) [B158-S2]",
       "answer": "SANDAL"
     },
     {
@@ -151,7 +151,7 @@
       "row": 1,
       "col": 3,
       "length": 5,
-      "clue": "Üzerinde buğday, arpa ya da sebze yetiştirilen sürülmüş geniş toprak.",
+      "clue": "Üzerinde buğday, arpa ya da sebze yetiştirilen sürülmüş geniş toprak (5 harf) [B158-S3]",
       "answer": "TARLA"
     },
     {
@@ -160,7 +160,7 @@
       "row": 1,
       "col": 9,
       "length": 3,
-      "clue": "Omuzlara atılan ya da başa örtülen, yumuşak geniş kumaş parçası.",
+      "clue": "Omuzlara atılan ya da başa örtülen, yumuşak geniş kumaş parçası (3 harf) [B158-S4]",
       "answer": "ŞAL"
     },
     {
@@ -169,7 +169,7 @@
       "row": 3,
       "col": 0,
       "length": 6,
-      "clue": "Bir toplantıda ya da günde ele alınacak konuların sıralı listesi.",
+      "clue": "Bir toplantıda ya da günde ele alınacak konuların sıralı listesi (6 harf) [B158-S5]",
       "answer": "GÜNDEM"
     },
     {
@@ -178,7 +178,7 @@
       "row": 3,
       "col": 3,
       "length": 4,
-      "clue": "Müziğin ritmine uyarak, düzenli vücut hareketleriyle yapılan sanatsal eylem.",
+      "clue": "Müziğin ritmine uyarak, düzenli vücut hareketleriyle yapılan sanatsal eylem (4 harf) [B158-S6]",
       "answer": "DANS"
     },
     {
@@ -187,7 +187,7 @@
       "row": 3,
       "col": 7,
       "length": 3,
-      "clue": "Ağız içindeki kaslı organ; aynı zamanda insanların konuşarak anlaştığı sistem.",
+      "clue": "Ağız içindeki kaslı organ; aynı zamanda insanların konuşarak anlaştığı sistem (3 harf) [B158-S7]",
       "answer": "DİL"
     },
     {
@@ -196,7 +196,7 @@
       "row": 5,
       "col": 1,
       "length": 3,
-      "clue": "Havanın ısısının düşmesiyle suların yüzeyde buz tutması olayı.",
+      "clue": "Havanın ısısının düşmesiyle suların yüzeyde buz tutması olayı (3 harf) [B158-S8]",
       "answer": "DON"
     },
     {
@@ -205,7 +205,7 @@
       "row": 5,
       "col": 5,
       "length": 5,
-      "clue": "Su veya başka bir sıvıyla temas edip kurumamış olan nemli yüzey.",
+      "clue": "Su veya başka bir sıvıyla temas edip kurumamış olan nemli yüzey (5 harf) [B158-S9]",
       "answer": "ISLAK"
     },
     {
@@ -214,7 +214,7 @@
       "row": 5,
       "col": 8,
       "length": 5,
-      "clue": "Dünyanın farklı bölgelerini gösteren haritaların toplandığı büyük kitap.",
+      "clue": "Dünyanın farklı bölgelerini gösteren haritaların toplandığı büyük kitap (5 harf) [B158-S10]",
       "answer": "ATLAS"
     }
   ]

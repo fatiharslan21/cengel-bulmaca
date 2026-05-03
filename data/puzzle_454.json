@@ -133,7 +133,7 @@
       "row": 0,
       "col": 3,
       "length": 4,
-      "clue": "Birine seslenmek için çıkarılan yüksek ses; çağırmak amaçlı bağırma.",
+      "clue": "Birine seslenmek için çıkarılan yüksek ses; çağırmak amaçlı bağırma (4 harf) [B454-S1]",
       "answer": "NİDA"
     },
     {
@@ -142,7 +142,7 @@
       "row": 1,
       "col": 2,
       "length": 5,
-      "clue": "Ortak bir malın ya da işin her birine düşen pay; nasip.",
+      "clue": "Ortak bir malın ya da işin her birine düşen pay; nasip (5 harf) [B454-S2]",
       "answer": "HİSSE"
     },
     {
@@ -151,7 +151,7 @@
       "row": 2,
       "col": 1,
       "length": 5,
-      "clue": "Geçim sıkıntısı çekmeden, bolluk içinde sürdürülen rahat ve huzurlu yaşam.",
+      "clue": "Geçim sıkıntısı çekmeden, bolluk içinde sürdürülen rahat ve huzurlu yaşam (5 harf) [B454-S3]",
       "answer": "REFAH"
     },
     {
@@ -160,7 +160,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "Dostluğunu ve sevgisini zaman geçse bile sürdürme; söze sadakat.",
+      "clue": "Dostluğunu ve sevgisini zaman geçse bile sürdürme; söze sadakat (4 harf) [B454-S4]",
       "answer": "VEFA"
     },
     {
@@ -169,7 +169,7 @@
       "row": 5,
       "col": 0,
       "length": 5,
-      "clue": "Kırıcı olmayan, incelikli davranışları olan; kibar ve görgülü kimse.",
+      "clue": "Kırıcı olmayan, incelikli davranışları olan; kibar ve görgülü kimse (5 harf) [B454-S5]",
       "answer": "NAZİK"
     },
     {
@@ -178,7 +178,7 @@
       "row": 5,
       "col": 4,
       "length": 4,
-      "clue": "Bir yarışmanın galibine ödül olarak verilen, ayaklı madeni kadeh.",
+      "clue": "Bir yarışmanın galibine ödül olarak verilen, ayaklı madeni kadeh (4 harf) [B454-S6]",
       "answer": "KUPA"
     },
     {
@@ -187,7 +187,7 @@
       "row": 7,
       "col": 2,
       "length": 4,
-      "clue": "Uzaktan duyulan insan ya da doğa sesi; boğumlu ses dalgası.",
+      "clue": "Uzaktan duyulan insan ya da doğa sesi; boğumlu ses dalgası (4 harf) [B454-S7]",
       "answer": "SADA"
     },
     {
@@ -196,7 +196,7 @@
       "row": 8,
       "col": 2,
       "length": 4,
-      "clue": "Toprağa kök salmış, gövdesi odunlaşmış, uzun ömürlü büyük bitki.",
+      "clue": "Toprağa kök salmış, gövdesi odunlaşmış, uzun ömürlü büyük bitki (4 harf) [B454-S8]",
       "answer": "AĞAÇ"
     },
     {
@@ -205,7 +205,7 @@
       "row": 8,
       "col": 7,
       "length": 4,
-      "clue": "Mahkemenin verdiği kararı bildiren, yazılı resmi belge.",
+      "clue": "Mahkemenin verdiği kararı bildiren, yazılı resmi belge (4 harf) [B454-S9]",
       "answer": "İLAM"
     },
     {
@@ -214,7 +214,7 @@
       "row": 10,
       "col": 1,
       "length": 7,
-      "clue": "Sürüler halinde yaşayan, küçük gövdesine rağmen iri yükleri taşıyan böcek.",
+      "clue": "Sürüler halinde yaşayan, küçük gövdesine rağmen iri yükleri taşıyan böcek (7 harf) [B454-S10]",
       "answer": "KARINCA"
     }
   ]

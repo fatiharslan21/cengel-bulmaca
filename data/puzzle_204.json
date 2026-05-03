@@ -133,7 +133,7 @@
       "row": 0,
       "col": 6,
       "length": 6,
-      "clue": "Okyanuslarda yaşayan, dünyanın en büyük sayılan memeli deniz canlısı.",
+      "clue": "Okyanuslarda yaşayan, dünyanın en büyük sayılan memeli deniz canlısı (6 harf) [B204-S1]",
       "answer": "BALİNA"
     },
     {
@@ -142,7 +142,7 @@
       "row": 1,
       "col": 5,
       "length": 4,
-      "clue": "Limon ve altın tonlarında olan, güneşi çağrıştıran canlı sıcak renk.",
+      "clue": "Limon ve altın tonlarında olan, güneşi çağrıştıran canlı sıcak renk (4 harf) [B204-S2]",
       "answer": "SARI"
     },
     {
@@ -151,7 +151,7 @@
       "row": 3,
       "col": 2,
       "length": 4,
-      "clue": "Boş zamanlarda eğlence ya da öğrenme amacıyla kurallara göre oynanan etkinlik.",
+      "clue": "Boş zamanlarda eğlence ya da öğrenme amacıyla kurallara göre oynanan etkinlik (4 harf) [B204-S3]",
       "answer": "OYUN"
     },
     {
@@ -160,7 +160,7 @@
       "row": 3,
       "col": 8,
       "length": 3,
-      "clue": "Eskiden köylerde geniş topraklara sahip, sözü geçen nüfuzlu kişi.",
+      "clue": "Eskiden köylerde geniş topraklara sahip, sözü geçen nüfuzlu kişi (3 harf) [B204-S4]",
       "answer": "AĞA"
     },
     {
@@ -169,7 +169,7 @@
       "row": 4,
       "col": 4,
       "length": 3,
-      "clue": "Bulunduğun yerden geri çevril; ya da bir eksen etrafında hareket et.",
+      "clue": "Bulunduğun yerden geri çevril; ya da bir eksen etrafında hareket et (3 harf) [B204-S5]",
       "answer": "DÖN"
     },
     {
@@ -178,7 +178,7 @@
       "row": 4,
       "col": 4,
       "length": 4,
-      "clue": "Üçten sonra gelen, mevsim ve yön sayısına denk gelen doğal sayı.",
+      "clue": "Üçten sonra gelen, mevsim ve yön sayısına denk gelen doğal sayı (4 harf) [B204-S5]",
       "answer": "DÖRT"
     },
     {
@@ -187,7 +187,7 @@
       "row": 5,
       "col": 6,
       "length": 4,
-      "clue": "Bacağın bileğinden aşağısı; üzerine basarak yürümemizi sağlayan uzuv.",
+      "clue": "Bacağın bileğinden aşağısı; üzerine basarak yürümemizi sağlayan uzuv (4 harf) [B204-S6]",
       "answer": "AYAK"
     },
     {
@@ -196,7 +196,7 @@
       "row": 5,
       "col": 7,
       "length": 3,
-      "clue": "Gözlerin, burnun ve ağzın bulunduğu baş ön kısmı; ayrıca on kere on sayısı.",
+      "clue": "Gözlerin, burnun ve ağzın bulunduğu baş ön kısmı; ayrıca on kere on sayısı (3 harf) [B204-S7]",
       "answer": "YÜZ"
     },
     {
@@ -205,7 +205,7 @@
       "row": 6,
       "col": 0,
       "length": 5,
-      "clue": "Geniş yaprakları ve kalın gövdesiyle yüzyıllarca yaşayabilen büyük ağaç.",
+      "clue": "Geniş yaprakları ve kalın gövdesiyle yüzyıllarca yaşayabilen büyük ağaç (5 harf) [B204-S8]",
       "answer": "ÇINAR"
     },
     {
@@ -214,7 +214,7 @@
       "row": 6,
       "col": 0,
       "length": 4,
-      "clue": "Boyu kısa, dalları sık ve odunsu olan, çok dallı bodur bitki.",
+      "clue": "Boyu kısa, dalları sık ve odunsu olan, çok dallı bodur bitki (4 harf) [B204-S8]",
       "answer": "ÇALI"
     }
   ]

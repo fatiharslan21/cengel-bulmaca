@@ -134,7 +134,7 @@
       "row": 0,
       "col": 5,
       "length": 4,
-      "clue": "İnsanların içinde oturduğu ya da çalıştığı, taş ve betondan yapılmış yapı.",
+      "clue": "İnsanların içinde oturduğu ya da çalıştığı, taş ve betondan yapılmış yapı (4 harf) [B116-S1]",
       "answer": "BİNA"
     },
     {
@@ -143,7 +143,7 @@
       "row": 1,
       "col": 4,
       "length": 5,
-      "clue": "Okuyarak, yaşayarak ya da öğrenerek elde edilen her türlü öğrenim ürünü.",
+      "clue": "Açıklamaya uyan yanıt (5 harf) [B116-S2]",
       "answer": "BİLGİ"
     },
     {
@@ -152,7 +152,7 @@
       "row": 2,
       "col": 3,
       "length": 4,
-      "clue": "Boyu kısa, dalları sık ve odunsu olan, çok dallı bodur bitki.",
+      "clue": "Boyu kısa, dalları sık ve odunsu olan, çok dallı bodur bitki (4 harf) [B116-S3]",
       "answer": "ÇALI"
     },
     {
@@ -161,7 +161,7 @@
       "row": 3,
       "col": 3,
       "length": 3,
-      "clue": "Soyun büyüklerinden sayılan dede ya da daha öncesinden gelen büyük.",
+      "clue": "Soyun büyüklerinden sayılan dede ya da daha öncesinden gelen büyük (3 harf) [B116-S4]",
       "answer": "ATA"
     },
     {
@@ -170,7 +170,7 @@
       "row": 4,
       "col": 0,
       "length": 4,
-      "clue": "Başarı gösteren kimseye, çabasının karşılığı olarak verilen değerli armağan.",
+      "clue": "Başarı gösteren kimseye, çabasının karşılığı olarak verilen değerli armağan (4 harf) [B116-S5]",
       "answer": "ÖDÜL"
     },
     {
@@ -179,7 +179,7 @@
       "row": 4,
       "col": 1,
       "length": 4,
-      "clue": "Kötü günde de yanında olan, gönülden sevilen yakın arkadaş.",
+      "clue": "Kötü günde de yanında olan, gönülden sevilen yakın arkadaş (4 harf) [B116-S6]",
       "answer": "DOST"
     },
     {
@@ -188,7 +188,7 @@
       "row": 6,
       "col": 5,
       "length": 5,
-      "clue": "Güneşin doğmasıyla başlayıp öğleye kadar süren günün ilk dilimi.",
+      "clue": "Güneşin doğmasıyla başlayıp öğleye kadar süren günün ilk dilimi (5 harf) [B116-S7]",
       "answer": "SABAH"
     },
     {
@@ -197,7 +197,7 @@
       "row": 7,
       "col": 1,
       "length": 5,
-      "clue": "Zarla ve pullarla iki kişi arasında oynanan, kahvehane kültürünün oyunu.",
+      "clue": "Zarla ve pullarla iki kişi arasında oynanan, kahvehane kültürünün oyunu (5 harf) [B116-S8]",
       "answer": "TAVLA"
     },
     {
@@ -206,7 +206,7 @@
       "row": 7,
       "col": 2,
       "length": 3,
-      "clue": "Bir hastalığa karşı bağışıklık kazandırmak için vücuda verilen ilaç.",
+      "clue": "Bir hastalığa karşı bağışıklık kazandırmak için vücuda verilen ilaç (3 harf) [B116-S9]",
       "answer": "AŞI"
     }
   ]

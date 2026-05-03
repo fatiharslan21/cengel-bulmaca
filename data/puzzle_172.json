@@ -121,7 +121,7 @@
       "row": 0,
       "col": 1,
       "length": 3,
-      "clue": "Göğüs kafesi ile kalçalar arasında kalan, vücudun orta kısmı.",
+      "clue": "Göğüs kafesi ile kalçalar arasında kalan, vücudun orta kısmı (3 harf) [B172-S1]",
       "answer": "BEL"
     },
     {
@@ -130,7 +130,7 @@
       "row": 1,
       "col": 4,
       "length": 3,
-      "clue": "İğne yaprakları yıl boyu yeşil kalan, kozalak veren, uzun ömürlü ağaç.",
+      "clue": "İğne yaprakları yıl boyu yeşil kalan, kozalak veren, uzun ömürlü ağaç (3 harf) [B172-S2]",
       "answer": "ÇAM"
     },
     {
@@ -139,7 +139,7 @@
       "row": 1,
       "col": 5,
       "length": 3,
-      "clue": "Tatlının tam karşıtı olan, biberin ya da kederin bıraktığı keskin duygu.",
+      "clue": "Tatlının tam karşıtı olan, biberin ya da kederin bıraktığı keskin duygu (3 harf) [B172-S3]",
       "answer": "ACI"
     },
     {
@@ -148,7 +148,7 @@
       "row": 2,
       "col": 0,
       "length": 4,
-      "clue": "Hastalıkları iyileştirmek amacıyla hazırlanan, doktor tarafından verilen madde.",
+      "clue": "Hastalıkları iyileştirmek amacıyla hazırlanan, doktor tarafından verilen madde (4 harf) [B172-S4]",
       "answer": "İLAÇ"
     },
     {
@@ -157,7 +157,7 @@
       "row": 2,
       "col": 3,
       "length": 4,
-      "clue": "Boyu kısa, dalları sık ve odunsu olan, çok dallı bodur bitki.",
+      "clue": "Boyu kısa, dalları sık ve odunsu olan, çok dallı bodur bitki (4 harf) [B172-S5]",
       "answer": "ÇALI"
     },
     {
@@ -166,7 +166,7 @@
       "row": 3,
       "col": 3,
       "length": 3,
-      "clue": "Geçmişte yaşanmış ve zihinde iz bırakmış olayların hatırlanması.",
+      "clue": "Geçmişte yaşanmış ve zihinde iz bırakmış olayların hatırlanması (3 harf) [B172-S6]",
       "answer": "ANI"
     },
     {
@@ -175,7 +175,7 @@
       "row": 3,
       "col": 7,
       "length": 6,
-      "clue": "Türkiye Cumhuriyeti'nin başkenti ve İç Anadolu'nun en büyük şehri.",
+      "clue": "Türkiye Cumhuriyeti'nin başkenti ve İç Anadolu'nun en büyük şehri (6 harf) [B172-S7]",
       "answer": "ANKARA"
     },
     {
@@ -184,7 +184,7 @@
       "row": 4,
       "col": 1,
       "length": 3,
-      "clue": "Hortumuyla tanınan, kulakları iri, kara hayvanlarının en büyüklerinden biri.",
+      "clue": "Hortumuyla tanınan, kulakları iri, kara hayvanlarının en büyüklerinden biri (3 harf) [B172-S8]",
       "answer": "FİL"
     },
     {
@@ -193,7 +193,7 @@
       "row": 5,
       "col": 3,
       "length": 5,
-      "clue": "Su veya başka bir sıvıyla temas edip kurumamış olan nemli yüzey.",
+      "clue": "Su veya başka bir sıvıyla temas edip kurumamış olan nemli yüzey (5 harf) [B172-S9]",
       "answer": "ISLAK"
     },
     {
@@ -202,7 +202,7 @@
       "row": 7,
       "col": 5,
       "length": 5,
-      "clue": "Bir dağın en yüksek noktası; ulaşılabilecek en üst basamak.",
+      "clue": "Bir dağın en yüksek noktası; ulaşılabilecek en üst basamak (5 harf) [B172-S10]",
       "answer": "ZİRVE"
     }
   ]

@@ -143,7 +143,7 @@
       "row": 0,
       "col": 8,
       "length": 5,
-      "clue": "Bir varsayımı doğrulamak amacıyla yapılan, kontrollü bilimsel çalışma.",
+      "clue": "Bir varsayımı doğrulamak amacıyla yapılan, kontrollü bilimsel çalışma (5 harf) [B334-S1]",
       "answer": "DENEY"
     },
     {
@@ -152,7 +152,7 @@
       "row": 1,
       "col": 5,
       "length": 5,
-      "clue": "İnsanın içini burkan, uzun süre geçmeyen derin üzüntü hali.",
+      "clue": "İnsanın içini burkan, uzun süre geçmeyen derin üzüntü hali (5 harf) [B334-S2]",
       "answer": "KEDER"
     },
     {
@@ -161,7 +161,7 @@
       "row": 2,
       "col": 1,
       "length": 4,
-      "clue": "Akrep, yelkovan ve rakamlarla anı gösteren; zamanı ölçen günlük araç.",
+      "clue": "Akrep, yelkovan ve rakamlarla anı gösteren; zamanı ölçen günlük araç (4 harf) [B334-S3]",
       "answer": "SAAT"
     },
     {
@@ -170,7 +170,7 @@
       "row": 2,
       "col": 4,
       "length": 4,
-      "clue": "Uzaktan duyulan insan ya da doğa sesi; boğumlu ses dalgası.",
+      "clue": "Uzaktan duyulan insan ya da doğa sesi; boğumlu ses dalgası (4 harf) [B334-S4]",
       "answer": "SADA"
     },
     {
@@ -179,7 +179,7 @@
       "row": 3,
       "col": 0,
       "length": 5,
-      "clue": "Zarla ve pullarla iki kişi arasında oynanan, kahvehane kültürünün oyunu.",
+      "clue": "Zarla ve pullarla iki kişi arasında oynanan, kahvehane kültürünün oyunu (5 harf) [B334-S5]",
       "answer": "TAVLA"
     },
     {
@@ -188,7 +188,7 @@
       "row": 4,
       "col": 6,
       "length": 5,
-      "clue": "Okuyarak, yaşayarak ya da öğrenerek elde edilen her türlü öğrenim ürünü.",
+      "clue": "Açıklamaya uyan yanıt (5 harf) [B334-S6]",
       "answer": "BİLGİ"
     },
     {
@@ -197,7 +197,7 @@
       "row": 4,
       "col": 6,
       "length": 5,
-      "clue": "Bir cismin uzunluk, genişlik ve yükseklik gibi ölçülebilen özelliği.",
+      "clue": "Bir cismin uzunluk, genişlik ve yükseklik gibi ölçülebilen özelliği (5 harf) [B334-S6]",
       "answer": "BOYUT"
     },
     {
@@ -206,7 +206,7 @@
       "row": 5,
       "col": 4,
       "length": 3,
-      "clue": "Halk ağzında yakışıklı, gösterişli kimse için kullanılan eski bir sözcük.",
+      "clue": "Halk ağzında yakışıklı, gösterişli kimse için kullanılan eski bir sözcük (3 harf) [B334-S7]",
       "answer": "AFİ"
     },
     {
@@ -215,7 +215,7 @@
       "row": 7,
       "col": 4,
       "length": 3,
-      "clue": "Pantolon ya da ceketin içine dikilmiş, ufak eşya konulan küçük kese.",
+      "clue": "Pantolon ya da ceketin içine dikilmiş, ufak eşya konulan küçük kese (3 harf) [B334-S8]",
       "answer": "CEP"
     },
     {
@@ -224,7 +224,7 @@
       "row": 8,
       "col": 3,
       "length": 4,
-      "clue": "Miyavlayarak seslenen, pençeleri keskin, evlerde beslenen tüylü memeli hayvan.",
+      "clue": "Miyavlayarak seslenen, pençeleri keskin, evlerde beslenen tüylü memeli hayvan (4 harf) [B334-S9]",
       "answer": "KEDİ"
     }
   ]

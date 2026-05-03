@@ -156,7 +156,7 @@
       "row": 0,
       "col": 4,
       "length": 7,
-      "clue": "Sevdiğine ya da inandığına ömür boyu bağlı kalma; vefa göstermek.",
+      "clue": "Sevdiğine ya da inandığına ömür boyu bağlı kalma; vefa göstermek (7 harf) [B412-S1]",
       "answer": "SADAKAT"
     },
     {
@@ -165,7 +165,7 @@
       "row": 0,
       "col": 5,
       "length": 5,
-      "clue": "Bir kimseye veya yere ulaşabilmek için gereken açık konum bilgisi.",
+      "clue": "Bir kimseye veya yere ulaşabilmek için gereken açık konum bilgisi (5 harf) [B412-S2]",
       "answer": "ADRES"
     },
     {
@@ -174,7 +174,7 @@
       "row": 0,
       "col": 10,
       "length": 7,
-      "clue": "Üzüntülü birine söylenerek onu rahatlatan sıcak avutucu söz.",
+      "clue": "Üzüntülü birine söylenerek onu rahatlatan sıcak avutucu söz (7 harf) [B412-S3]",
       "answer": "TESELLİ"
     },
     {
@@ -183,7 +183,7 @@
       "row": 2,
       "col": 3,
       "length": 4,
-      "clue": "Sıkıntılı ya da zor bir durumu ortadan kaldıracak çözüm yolu.",
+      "clue": "Sıkıntılı ya da zor bir durumu ortadan kaldıracak çözüm yolu (4 harf) [B412-S4]",
       "answer": "ÇARE"
     },
     {
@@ -192,7 +192,7 @@
       "row": 4,
       "col": 1,
       "length": 4,
-      "clue": "Müzik eserlerinde seslerin yükseklik ve uzunluğunu gösteren küçük simge.",
+      "clue": "Müzik eserlerinde seslerin yükseklik ve uzunluğunu gösteren küçük simge (4 harf) [B412-S5]",
       "answer": "NOTA"
     },
     {
@@ -201,7 +201,7 @@
       "row": 4,
       "col": 3,
       "length": 4,
-      "clue": "Ekmeğin arasına peynir konup ısıtılarak kızartılan sandviç çeşidi.",
+      "clue": "Ekmeğin arasına peynir konup ısıtılarak kızartılan sandviç çeşidi (4 harf) [B412-S6]",
       "answer": "TOST"
     },
     {
@@ -210,7 +210,7 @@
       "row": 4,
       "col": 3,
       "length": 5,
-      "clue": "Yemeklerin servis edildiği, yuvarlak ve yassı porselen ya da cam kap.",
+      "clue": "Yemeklerin servis edildiği, yuvarlak ve yassı porselen ya da cam kap (5 harf) [B412-S6]",
       "answer": "TABAK"
     },
     {
@@ -219,7 +219,7 @@
       "row": 5,
       "col": 0,
       "length": 4,
-      "clue": "Çalışmaya ya da yolculuğa kısa bir süre ara vererek dinlenme anı.",
+      "clue": "Çalışmaya ya da yolculuğa kısa bir süre ara vererek dinlenme anı (4 harf) [B412-S7]",
       "answer": "MOLA"
     },
     {
@@ -228,7 +228,7 @@
       "row": 6,
       "col": 5,
       "length": 5,
-      "clue": "Suda yaşayan, solungaçlarıyla soluyan, yüzgeçleriyle hareket eden canlı.",
+      "clue": "Suda yaşayan, solungaçlarıyla soluyan, yüzgeçleriyle hareket eden canlı (5 harf) [B412-S8]",
       "answer": "BALIK"
     },
     {
@@ -237,7 +237,7 @@
       "row": 7,
       "col": 3,
       "length": 4,
-      "clue": "Bacağın bileğinden aşağısı; üzerine basarak yürümemizi sağlayan uzuv.",
+      "clue": "Bacağın bileğinden aşağısı; üzerine basarak yürümemizi sağlayan uzuv (4 harf) [B412-S9]",
       "answer": "AYAK"
     }
   ]

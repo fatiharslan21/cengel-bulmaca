@@ -134,7 +134,7 @@
       "row": 0,
       "col": 0,
       "length": 4,
-      "clue": "Bir işi başarmak için gösterilen büyük çaba, gayret ve çalışma.",
+      "clue": "Bir işi başarmak için gösterilen büyük çaba, gayret ve çalışma (4 harf) [B391-S1]",
       "answer": "CEHD"
     },
     {
@@ -143,7 +143,7 @@
       "row": 0,
       "col": 1,
       "length": 4,
-      "clue": "Başlangıcı bulunmayan, öncesi olmayan sonsuz geçmiş zaman.",
+      "clue": "Başlangıcı bulunmayan, öncesi olmayan sonsuz geçmiş zaman (4 harf) [B391-S2]",
       "answer": "EZEL"
     },
     {
@@ -152,7 +152,7 @@
       "row": 1,
       "col": 8,
       "length": 4,
-      "clue": "Uzun kulaklı, sabırlı; köylerde yük taşımada kullanılan küçük binek hayvanı.",
+      "clue": "Uzun kulaklı, sabırlı; köylerde yük taşımada kullanılan küçük binek hayvanı (4 harf) [B391-S3]",
       "answer": "EŞEK"
     },
     {
@@ -161,7 +161,7 @@
       "row": 2,
       "col": 0,
       "length": 7,
-      "clue": "Acıklı bir olay karşısında insanın içine çöken derin hüzün.",
+      "clue": "Acıklı bir olay karşısında insanın içine çöken derin hüzün (7 harf) [B391-S4]",
       "answer": "TEESSÜR"
     },
     {
@@ -170,7 +170,7 @@
       "row": 2,
       "col": 6,
       "length": 5,
-      "clue": "Geçim sıkıntısı çekmeden, bolluk içinde sürdürülen rahat ve huzurlu yaşam.",
+      "clue": "Geçim sıkıntısı çekmeden, bolluk içinde sürdürülen rahat ve huzurlu yaşam (5 harf) [B391-S5]",
       "answer": "REFAH"
     },
     {
@@ -179,7 +179,7 @@
       "row": 4,
       "col": 4,
       "length": 5,
-      "clue": "Güneş doğmadan önce ufukta beliren kızıllık; günün en erken aydınlığı.",
+      "clue": "Güneş doğmadan önce ufukta beliren kızıllık; günün en erken aydınlığı (5 harf) [B391-S6]",
       "answer": "ŞAFAK"
     },
     {
@@ -188,7 +188,7 @@
       "row": 5,
       "col": 3,
       "length": 5,
-      "clue": "Suda yaşayan, solungaçlarıyla soluyan, yüzgeçleriyle hareket eden canlı.",
+      "clue": "Suda yaşayan, solungaçlarıyla soluyan, yüzgeçleriyle hareket eden canlı (5 harf) [B391-S7]",
       "answer": "BALIK"
     },
     {
@@ -197,7 +197,7 @@
       "row": 6,
       "col": 2,
       "length": 5,
-      "clue": "İnsanın ömür boyu karşılaştığı iyi ya da kötü raslantıların tümü; baht.",
+      "clue": "İnsanın ömür boyu karşılaştığı iyi ya da kötü raslantıların tümü; baht (5 harf) [B391-S8]",
       "answer": "TALİH"
     },
     {
@@ -206,7 +206,7 @@
       "row": 8,
       "col": 1,
       "length": 3,
-      "clue": "Bir üstün ya da yetkilinin önüne saygıyla sunma, takdim etme eylemi.",
+      "clue": "Bir üstün ya da yetkilinin önüne saygıyla sunma, takdim etme eylemi (3 harf) [B391-S9]",
       "answer": "ARZ"
     },
     {
@@ -215,7 +215,7 @@
       "row": 9,
       "col": 1,
       "length": 5,
-      "clue": "Aynı amaca ulaşmak için karşı karşıya gelen, yarış halindeki hasım.",
+      "clue": "Aynı amaca ulaşmak için karşı karşıya gelen, yarış halindeki hasım (5 harf) [B391-S10]",
       "answer": "RAKİP"
     }
   ]

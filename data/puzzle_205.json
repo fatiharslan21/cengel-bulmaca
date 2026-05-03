@@ -145,7 +145,7 @@
       "row": 0,
       "col": 7,
       "length": 4,
-      "clue": "Kulpundan tutularak su ya da başka sıvı taşınan derin silindirik kap.",
+      "clue": "Kulpundan tutularak su ya da başka sıvı taşınan derin silindirik kap (4 harf) [B205-S1]",
       "answer": "KOVA"
     },
     {
@@ -154,7 +154,7 @@
       "row": 3,
       "col": 4,
       "length": 4,
-      "clue": "Suç işleyen kimseye, yaptığının karşılığı olarak verilen yaptırım.",
+      "clue": "Suç işleyen kimseye, yaptığının karşılığı olarak verilen yaptırım (4 harf) [B205-S2]",
       "answer": "CEZA"
     },
     {
@@ -163,7 +163,7 @@
       "row": 3,
       "col": 6,
       "length": 4,
-      "clue": "Çevresindeki yapılardan çok daha yüksek olan, dar ve uzun yapı.",
+      "clue": "Çevresindeki yapılardan çok daha yüksek olan, dar ve uzun yapı (4 harf) [B205-S3]",
       "answer": "KULE"
     },
     {
@@ -172,7 +172,7 @@
       "row": 3,
       "col": 6,
       "length": 3,
-      "clue": "Gözün hemen üstünde bulunan, yaklaşık yay biçimindeki kıl kümesi.",
+      "clue": "Gözün hemen üstünde bulunan, yaklaşık yay biçimindeki kıl kümesi (3 harf) [B205-S3]",
       "answer": "KAŞ"
     },
     {
@@ -181,7 +181,7 @@
       "row": 4,
       "col": 1,
       "length": 4,
-      "clue": "Bir ailenin oturduğu ev; aynı zamanda sayıdaki basamak anlamı taşır.",
+      "clue": "Bir ailenin oturduğu ev; aynı zamanda sayıdaki basamak anlamı taşır (4 harf) [B205-S4]",
       "answer": "HANE"
     },
     {
@@ -190,7 +190,7 @@
       "row": 6,
       "col": 3,
       "length": 4,
-      "clue": "İçine eşya konulan, çoğu zaman kapağı olan, dikdörtgen ya da kare biçimli hazne.",
+      "clue": "İçine eşya konulan, çoğu zaman kapağı olan, dikdörtgen ya da kare biçimli hazne (4 harf) [B205-S5]",
       "answer": "KUTU"
     },
     {
@@ -199,7 +199,7 @@
       "row": 6,
       "col": 3,
       "length": 4,
-      "clue": "Çorba, salata ya da yoğurt konulan, yuvarlak ve çukur küçük yemek kabı.",
+      "clue": "Çorba, salata ya da yoğurt konulan, yuvarlak ve çukur küçük yemek kabı (4 harf) [B205-S5]",
       "answer": "KASE"
     },
     {
@@ -208,7 +208,7 @@
       "row": 7,
       "col": 1,
       "length": 5,
-      "clue": "İnsana sadakatiyle bilinen, havlayarak seslenen evcil dört ayaklı.",
+      "clue": "İnsana sadakatiyle bilinen, havlayarak seslenen evcil dört ayaklı (5 harf) [B205-S6]",
       "answer": "KÖPEK"
     },
     {
@@ -217,7 +217,7 @@
       "row": 8,
       "col": 0,
       "length": 4,
-      "clue": "Üçten sonra gelen, mevsim ve yön sayısına denk gelen doğal sayı.",
+      "clue": "Üçten sonra gelen, mevsim ve yön sayısına denk gelen doğal sayı (4 harf) [B205-S7]",
       "answer": "DÖRT"
     },
     {
@@ -226,7 +226,7 @@
       "row": 10,
       "col": 0,
       "length": 3,
-      "clue": "Üzerinde durduğumuz zemin; bir olayın geçtiği konum.",
+      "clue": "Üzerinde durduğumuz zemin; bir olayın geçtiği konum (3 harf) [B205-S8]",
       "answer": "YER"
     }
   ]

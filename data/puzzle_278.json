@@ -123,7 +123,7 @@
       "row": 0,
       "col": 5,
       "length": 4,
-      "clue": "İstemeden yapılan yanlış; doğru olandan sapmanın yol açtığı kusur.",
+      "clue": "İstemeden yapılan yanlış; doğru olandan sapmanın yol açtığı kusur (4 harf) [B278-S1]",
       "answer": "HATA"
     },
     {
@@ -132,7 +132,7 @@
       "row": 1,
       "col": 4,
       "length": 3,
-      "clue": "İçine sıvı ya da katı maddeler konulan her türlü şekilli eşya.",
+      "clue": "İçine sıvı ya da katı maddeler konulan her türlü şekilli eşya (3 harf) [B278-S2]",
       "answer": "KAP"
     },
     {
@@ -141,7 +141,7 @@
       "row": 2,
       "col": 3,
       "length": 4,
-      "clue": "Birinden nazikçe bir şey istemek; kibarca dile getirilen dilek.",
+      "clue": "Birinden nazikçe bir şey istemek; kibarca dile getirilen dilek (4 harf) [B278-S3]",
       "answer": "RİCA"
     },
     {
@@ -150,7 +150,7 @@
       "row": 3,
       "col": 2,
       "length": 5,
-      "clue": "Saplı, parlak, kırmızı kabuklu; ilkbaharın sonunda olgunlaşan tatlı meyve.",
+      "clue": "Saplı, parlak, kırmızı kabuklu; ilkbaharın sonunda olgunlaşan tatlı meyve (5 harf) [B278-S4]",
       "answer": "KİRAZ"
     },
     {
@@ -159,7 +159,7 @@
       "row": 4,
       "col": 0,
       "length": 4,
-      "clue": "İçten doğan büyük istek; insanı coşturan şiddetli arzu ve heves.",
+      "clue": "İçten doğan büyük istek; insanı coşturan şiddetli arzu ve heves (4 harf) [B278-S5]",
       "answer": "ŞEVK"
     },
     {
@@ -168,7 +168,7 @@
       "row": 5,
       "col": 0,
       "length": 5,
-      "clue": "Doğada bulunan en sert madde; takılarda kullanılan değerli kıymetli taş.",
+      "clue": "Doğada bulunan en sert madde; takılarda kullanılan değerli kıymetli taş (5 harf) [B278-S6]",
       "answer": "ELMAS"
     },
     {
@@ -177,7 +177,7 @@
       "row": 7,
       "col": 0,
       "length": 4,
-      "clue": "İçine eşya konulan, çoğu zaman kapağı olan, dikdörtgen ya da kare biçimli hazne.",
+      "clue": "İçine eşya konulan, çoğu zaman kapağı olan, dikdörtgen ya da kare biçimli hazne (4 harf) [B278-S7]",
       "answer": "KUTU"
     },
     {
@@ -186,7 +186,7 @@
       "row": 7,
       "col": 3,
       "length": 4,
-      "clue": "Bir işin belirli kurallar içinde yapılmasını sağlayan yol; yöntem.",
+      "clue": "Bir işin belirli kurallar içinde yapılmasını sağlayan yol; yöntem (4 harf) [B278-S8]",
       "answer": "USUL"
     },
     {
@@ -195,7 +195,7 @@
       "row": 8,
       "col": 3,
       "length": 5,
-      "clue": "Güneşin doğmasıyla başlayıp öğleye kadar süren günün ilk dilimi.",
+      "clue": "Güneşin doğmasıyla başlayıp öğleye kadar süren günün ilk dilimi (5 harf) [B278-S9]",
       "answer": "SABAH"
     },
     {
@@ -204,7 +204,7 @@
       "row": 10,
       "col": 2,
       "length": 4,
-      "clue": "Gönle çöken derin üzüntü, insanı içten içe yiyen keder.",
+      "clue": "Gönle çöken derin üzüntü, insanı içten içe yiyen keder (4 harf) [B278-S10]",
       "answer": "ELEM"
     }
   ]

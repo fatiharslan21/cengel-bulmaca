@@ -121,7 +121,7 @@
       "row": 0,
       "col": 2,
       "length": 4,
-      "clue": "Ekmeğin arasına peynir konup ısıtılarak kızartılan sandviç çeşidi.",
+      "clue": "Ekmeğin arasına peynir konup ısıtılarak kızartılan sandviç çeşidi (4 harf) [B461-S1]",
       "answer": "TOST"
     },
     {
@@ -130,7 +130,7 @@
       "row": 2,
       "col": 2,
       "length": 5,
-      "clue": "Etraf çınlayarak susma; hiçbir ses çıkmayan derin sessizlik.",
+      "clue": "Etraf çınlayarak susma; hiçbir ses çıkmayan derin sessizlik (5 harf) [B461-S2]",
       "answer": "SUKUT"
     },
     {
@@ -139,7 +139,7 @@
       "row": 3,
       "col": 0,
       "length": 3,
-      "clue": "Dilin damak aracılığıyla algıladığı; acı, ekşi, tuzlu gibi duyusal nitelik.",
+      "clue": "Dilin damak aracılığıyla algıladığı; acı, ekşi, tuzlu gibi duyusal nitelik (3 harf) [B461-S3]",
       "answer": "TAT"
     },
     {
@@ -148,7 +148,7 @@
       "row": 3,
       "col": 1,
       "length": 3,
-      "clue": "Tatlının tam karşıtı olan, biberin ya da kederin bıraktığı keskin duygu.",
+      "clue": "Tatlının tam karşıtı olan, biberin ya da kederin bıraktığı keskin duygu (3 harf) [B461-S4]",
       "answer": "ACI"
     },
     {
@@ -157,7 +157,7 @@
       "row": 4,
       "col": 4,
       "length": 6,
-      "clue": "Kendini üstün görmeyen, sade ve mütevazı davranış; gösterişsiz olma hali.",
+      "clue": "Kendini üstün görmeyen, sade ve mütevazı davranış; gösterişsiz olma hali (6 harf) [B461-S5]",
       "answer": "TEVAZU"
     },
     {
@@ -166,7 +166,7 @@
       "row": 5,
       "col": 0,
       "length": 6,
-      "clue": "Kişinin payına düşen; kaderin ona uygun gördüğü nasibi ya da şansı.",
+      "clue": "Kişinin payına düşen; kaderin ona uygun gördüğü nasibi ya da şansı (6 harf) [B461-S6]",
       "answer": "KISMET"
     },
     {
@@ -175,7 +175,7 @@
       "row": 5,
       "col": 0,
       "length": 3,
-      "clue": "Bir şeyin yanıp bitmesinin ardından geriye kalan kurumuş toz madde.",
+      "clue": "Bir şeyin yanıp bitmesinin ardından geriye kalan kurumuş toz madde (3 harf) [B461-S6]",
       "answer": "KÜL"
     },
     {
@@ -184,7 +184,7 @@
       "row": 6,
       "col": 6,
       "length": 6,
-      "clue": "Gözleri dalgın, içinde sessiz bir keder taşıyan; hüzünlü görünüşlü.",
+      "clue": "Gözleri dalgın, içinde sessiz bir keder taşıyan; hüzünlü görünüşlü (6 harf) [B461-S7]",
       "answer": "MAHZUN"
     },
     {
@@ -193,7 +193,7 @@
       "row": 7,
       "col": 3,
       "length": 4,
-      "clue": "Bir sözcüğün ya da cümlenin ardında yatan anlam; içerdiği kavram.",
+      "clue": "Bir sözcüğün ya da cümlenin ardında yatan anlam; içerdiği kavram (4 harf) [B461-S8]",
       "answer": "MANA"
     },
     {
@@ -202,7 +202,7 @@
       "row": 9,
       "col": 1,
       "length": 4,
-      "clue": "Bir ülkenin savunmasını üstlenen, askerlerden oluşan silahlı kuvvetler.",
+      "clue": "Bir ülkenin savunmasını üstlenen, askerlerden oluşan silahlı kuvvetler (4 harf) [B461-S9]",
       "answer": "ORDU"
     }
   ]

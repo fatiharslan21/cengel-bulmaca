@@ -94,7 +94,7 @@
       "row": 0,
       "col": 2,
       "length": 5,
-      "clue": "Bilinmeyen bir şeyi öğrenmek için insanın içine düşen güçlü istek.",
+      "clue": "Bilinmeyen bir şeyi öğrenmek için insanın içine düşen güçlü istek (5 harf) [B65-S1]",
       "answer": "MERAK"
     },
     {
@@ -103,7 +103,7 @@
       "row": 1,
       "col": 1,
       "length": 4,
-      "clue": "Nüfusu kalabalık, altyapısı gelişmiş, şehir niteliğindeki yerleşim yeri.",
+      "clue": "Nüfusu kalabalık, altyapısı gelişmiş, şehir niteliğindeki yerleşim yeri (4 harf) [B65-S2]",
       "answer": "KENT"
     },
     {
@@ -112,7 +112,7 @@
       "row": 1,
       "col": 4,
       "length": 5,
-      "clue": "Zarla ve pullarla iki kişi arasında oynanan, kahvehane kültürünün oyunu.",
+      "clue": "Zarla ve pullarla iki kişi arasında oynanan, kahvehane kültürünün oyunu (5 harf) [B65-S3]",
       "answer": "TAVLA"
     },
     {
@@ -121,7 +121,7 @@
       "row": 1,
       "col": 6,
       "length": 3,
-      "clue": "İçi kırmızı tanelerle dolu, kalın kabuklu, sonbahar aylarının meyvesi.",
+      "clue": "İçi kırmızı tanelerle dolu, kalın kabuklu, sonbahar aylarının meyvesi (3 harf) [B65-S4]",
       "answer": "NAR"
     },
     {
@@ -130,7 +130,7 @@
       "row": 2,
       "col": 4,
       "length": 3,
-      "clue": "İki şeyin birbirinden ayrıldığı boşluk; kısa mola süresi.",
+      "clue": "İki şeyin birbirinden ayrıldığı boşluk; kısa mola süresi (3 harf) [B65-S5]",
       "answer": "ARA"
     },
     {
@@ -139,7 +139,7 @@
       "row": 5,
       "col": 1,
       "length": 4,
-      "clue": "İki şeyin birbirinden ayrıldığı yön; aralarındaki benzemezlik.",
+      "clue": "İki şeyin birbirinden ayrıldığı yön; aralarındaki benzemezlik (4 harf) [B65-S6]",
       "answer": "FARK"
     },
     {
@@ -148,7 +148,7 @@
       "row": 5,
       "col": 3,
       "length": 3,
-      "clue": "Gitme, olduğun yerde dur; git sözcüğünün tam karşıtı olan emir.",
+      "clue": "Gitme, olduğun yerde dur; git sözcüğünün tam karşıtı olan emir (3 harf) [B65-S7]",
       "answer": "KAL"
     },
     {
@@ -157,7 +157,7 @@
       "row": 5,
       "col": 3,
       "length": 3,
-      "clue": "Yılın en soğuk, en karlı ve gündüzlerin en kısa olduğu dört mevsimden biri.",
+      "clue": "Yılın en soğuk, en karlı ve gündüzlerin en kısa olduğu dört mevsimden biri (3 harf) [B65-S7]",
       "answer": "KIŞ"
     },
     {
@@ -166,7 +166,7 @@
       "row": 6,
       "col": 0,
       "length": 4,
-      "clue": "Katlanabilen küçük bıçak; çoğunlukla cepte taşınan, sivri uçlu el aleti.",
+      "clue": "Katlanabilen küçük bıçak; çoğunlukla cepte taşınan, sivri uçlu el aleti (4 harf) [B65-S8]",
       "answer": "ÇAKI"
     }
   ]

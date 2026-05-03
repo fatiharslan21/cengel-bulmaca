@@ -134,7 +134,7 @@
       "row": 0,
       "col": 0,
       "length": 4,
-      "clue": "Ekmeğin arasına peynir konup ısıtılarak kızartılan sandviç çeşidi.",
+      "clue": "Ekmeğin arasına peynir konup ısıtılarak kızartılan sandviç çeşidi (4 harf) [B1-S1]",
       "answer": "TOST"
     },
     {
@@ -143,7 +143,7 @@
       "row": 0,
       "col": 3,
       "length": 4,
-      "clue": "Saçı ya da kemeri tutturmaya yarayan, klips gibi açılıp kapanan küçük süs.",
+      "clue": "Saçı ya da kemeri tutturmaya yarayan, klips gibi açılıp kapanan küçük süs (4 harf) [B1-S2]",
       "answer": "TOKA"
     },
     {
@@ -152,7 +152,7 @@
       "row": 1,
       "col": 3,
       "length": 4,
-      "clue": "Boş zamanlarda eğlence ya da öğrenme amacıyla kurallara göre oynanan etkinlik.",
+      "clue": "Boş zamanlarda eğlence ya da öğrenme amacıyla kurallara göre oynanan etkinlik (4 harf) [B1-S3]",
       "answer": "OYUN"
     },
     {
@@ -161,7 +161,7 @@
       "row": 3,
       "col": 2,
       "length": 3,
-      "clue": "Bir çemberin merkezinden geçerek onu iki eşit yaya bölen doğru parça.",
+      "clue": "Bir çemberin merkezinden geçerek onu iki eşit yaya bölen doğru parça (3 harf) [B1-S4]",
       "answer": "ÇAP"
     },
     {
@@ -170,7 +170,7 @@
       "row": 3,
       "col": 2,
       "length": 5,
-      "clue": "Bir alanın ya da cismin dört bir yanını saran dış sınır; etraf.",
+      "clue": "Bir alanın ya da cismin dört bir yanını saran dış sınır; etraf (5 harf) [B1-S4]",
       "answer": "ÇEVRE"
     },
     {
@@ -179,7 +179,7 @@
       "row": 3,
       "col": 4,
       "length": 3,
-      "clue": "Demirin hava ve nemle temas ederek zamanla üzerinde oluşturduğu kızıl tabaka.",
+      "clue": "Demirin hava ve nemle temas ederek zamanla üzerinde oluşturduğu kızıl tabaka (3 harf) [B1-S5]",
       "answer": "PAS"
     },
     {
@@ -188,7 +188,7 @@
       "row": 5,
       "col": 4,
       "length": 5,
-      "clue": "Evin misafir ağırlanan en büyük odası ya da toplantı yapılan geniş mekân.",
+      "clue": "Evin misafir ağırlanan en büyük odası ya da toplantı yapılan geniş mekân (5 harf) [B1-S6]",
       "answer": "SALON"
     },
     {
@@ -197,7 +197,7 @@
       "row": 7,
       "col": 1,
       "length": 5,
-      "clue": "Kıtaları birbirinden ayıran, tuzlu sulardan oluşan uçsuz bucaksız kütle.",
+      "clue": "Kıtaları birbirinden ayıran, tuzlu sulardan oluşan uçsuz bucaksız kütle (5 harf) [B1-S7]",
       "answer": "DENİZ"
     },
     {
@@ -206,7 +206,7 @@
       "row": 7,
       "col": 1,
       "length": 4,
-      "clue": "Müziğin ritmine uyarak, düzenli vücut hareketleriyle yapılan sanatsal eylem.",
+      "clue": "Müziğin ritmine uyarak, düzenli vücut hareketleriyle yapılan sanatsal eylem (4 harf) [B1-S7]",
       "answer": "DANS"
     }
   ]

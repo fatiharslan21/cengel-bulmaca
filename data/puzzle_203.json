@@ -123,7 +123,7 @@
       "row": 0,
       "col": 2,
       "length": 4,
-      "clue": "Şehir içinde insanların dinlenip yürüdüğü, ağaçlıklı kamusal yeşil alan.",
+      "clue": "Şehir içinde insanların dinlenip yürüdüğü, ağaçlıklı kamusal yeşil alan (4 harf) [B203-S1]",
       "answer": "PARK"
     },
     {
@@ -132,7 +132,7 @@
       "row": 1,
       "col": 1,
       "length": 3,
-      "clue": "Bir kimsenin ya da şeyin bulunduğu durum, vaziyet ya da keyif.",
+      "clue": "Bir kimsenin ya da şeyin bulunduğu durum, vaziyet ya da keyif (3 harf) [B203-S2]",
       "answer": "HAL"
     },
     {
@@ -141,7 +141,7 @@
       "row": 3,
       "col": 0,
       "length": 5,
-      "clue": "İçindeki eşyayı korumak için ambalajlanmış, kâğıt ya da karton sargılı koli.",
+      "clue": "İçindeki eşyayı korumak için ambalajlanmış, kâğıt ya da karton sargılı koli (5 harf) [B203-S3]",
       "answer": "PAKET"
     },
     {
@@ -150,7 +150,7 @@
       "row": 3,
       "col": 1,
       "length": 3,
-      "clue": "Bir hastalığa karşı bağışıklık kazandırmak için vücuda verilen ilaç.",
+      "clue": "Bir hastalığa karşı bağışıklık kazandırmak için vücuda verilen ilaç (3 harf) [B203-S4]",
       "answer": "AŞI"
     },
     {
@@ -159,7 +159,7 @@
       "row": 3,
       "col": 4,
       "length": 4,
-      "clue": "Ekmeğin arasına peynir konup ısıtılarak kızartılan sandviç çeşidi.",
+      "clue": "Ekmeğin arasına peynir konup ısıtılarak kızartılan sandviç çeşidi (4 harf) [B203-S5]",
       "answer": "TOST"
     },
     {
@@ -168,7 +168,7 @@
       "row": 3,
       "col": 8,
       "length": 4,
-      "clue": "Bir ailenin oturduğu ev; aynı zamanda sayıdaki basamak anlamı taşır.",
+      "clue": "Bir ailenin oturduğu ev; aynı zamanda sayıdaki basamak anlamı taşır (4 harf) [B203-S6]",
       "answer": "HANE"
     },
     {
@@ -177,7 +177,7 @@
       "row": 5,
       "col": 4,
       "length": 5,
-      "clue": "Cilde sürülüp suyla köpürtülerek kirleri temizleyen, kalıp ya da sıvı madde.",
+      "clue": "Cilde sürülüp suyla köpürtülerek kirleri temizleyen, kalıp ya da sıvı madde (5 harf) [B203-S7]",
       "answer": "SABUN"
     },
     {
@@ -186,7 +186,7 @@
       "row": 5,
       "col": 6,
       "length": 5,
-      "clue": "Okuyarak, yaşayarak ya da öğrenerek elde edilen her türlü öğrenim ürünü.",
+      "clue": "Okuyarak, yaşayarak ya da öğrenerek elde edilen her türlü öğrenim ürünü (5 harf) [B203-S8]",
       "answer": "BİLGİ"
     },
     {
@@ -195,7 +195,7 @@
       "row": 7,
       "col": 5,
       "length": 3,
-      "clue": "Bir sıranın en başında bulunan; sondan önce hiçbir şey olmayan sırada birinci.",
+      "clue": "Bir sıranın en başında bulunan; sondan önce hiçbir şey olmayan sırada birinci (3 harf) [B203-S9]",
       "answer": "İLK"
     },
     {
@@ -204,7 +204,7 @@
       "row": 9,
       "col": 3,
       "length": 4,
-      "clue": "Denizde yük ya da yolcu taşımak için yapılmış büyük su taşıtı.",
+      "clue": "Denizde yük ya da yolcu taşımak için yapılmış büyük su taşıtı (4 harf) [B203-S10]",
       "answer": "GEMİ"
     }
   ]

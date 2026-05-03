@@ -130,7 +130,7 @@
       "row": 0,
       "col": 4,
       "length": 4,
-      "clue": "Bir ülkenin savunmasını üstlenen, askerlerden oluşan silahlı kuvvetler.",
+      "clue": "Bir ülkenin savunmasını üstlenen, askerlerden oluşan silahlı kuvvetler (4 harf) [B123-S1]",
       "answer": "ORDU"
     },
     {
@@ -139,7 +139,7 @@
       "row": 1,
       "col": 0,
       "length": 5,
-      "clue": "Bir olay ya da gelişme hakkında ulaşan yeni bilgi; duyuru.",
+      "clue": "Bir olay ya da gelişme hakkında ulaşan yeni bilgi; duyuru (5 harf) [B123-S2]",
       "answer": "HABER"
     },
     {
@@ -148,7 +148,7 @@
       "row": 1,
       "col": 2,
       "length": 4,
-      "clue": "İnsanların içinde oturduğu ya da çalıştığı, taş ve betondan yapılmış yapı.",
+      "clue": "İnsanların içinde oturduğu ya da çalıştığı, taş ve betondan yapılmış yapı (4 harf) [B123-S3]",
       "answer": "BİNA"
     },
     {
@@ -157,7 +157,7 @@
       "row": 2,
       "col": 6,
       "length": 4,
-      "clue": "Beyazın tam zıttı olan, gölgeleri bile koyulaştıran siyah ton.",
+      "clue": "Beyazın tam zıttı olan, gölgeleri bile koyulaştıran siyah ton (4 harf) [B123-S4]",
       "answer": "KARA"
     },
     {
@@ -166,7 +166,7 @@
       "row": 3,
       "col": 4,
       "length": 4,
-      "clue": "Kanatları sayesinde havalanıp gökyüzünde uçan motorlu büyük taşıt.",
+      "clue": "Kanatları sayesinde havalanıp gökyüzünde uçan motorlu büyük taşıt (4 harf) [B123-S5]",
       "answer": "UÇAK"
     },
     {
@@ -175,7 +175,7 @@
       "row": 4,
       "col": 8,
       "length": 5,
-      "clue": "Ucundan mürekkep ya da grafit akıtarak kâğıda yazı yazmayı sağlayan araç.",
+      "clue": "Ucundan mürekkep ya da grafit akıtarak kâğıda yazı yazmayı sağlayan araç (5 harf) [B123-S6]",
       "answer": "KALEM"
     },
     {
@@ -184,7 +184,7 @@
       "row": 4,
       "col": 10,
       "length": 4,
-      "clue": "İlkbaharda açan, kadeh biçimli taç yaprakları olan, Türklerin simgesi çiçek.",
+      "clue": "İlkbaharda açan, kadeh biçimli taç yaprakları olan, Türklerin simgesi çiçek (4 harf) [B123-S7]",
       "answer": "LALE"
     },
     {
@@ -193,7 +193,7 @@
       "row": 5,
       "col": 6,
       "length": 3,
-      "clue": "Dört bir yanı suyla çevrili, denizin ortasında kalmış toprak parçası.",
+      "clue": "Dört bir yanı suyla çevrili, denizin ortasında kalmış toprak parçası (3 harf) [B123-S8]",
       "answer": "ADA"
     },
     {
@@ -202,7 +202,7 @@
       "row": 7,
       "col": 7,
       "length": 4,
-      "clue": "Dağlardan doğan, ırmağa ya da göle dökülen küçük doğal akarsu.",
+      "clue": "Dağlardan doğan, ırmağa ya da göle dökülen küçük doğal akarsu (4 harf) [B123-S9]",
       "answer": "DERE"
     }
   ]

@@ -117,7 +117,7 @@
       "row": 0,
       "col": 1,
       "length": 5,
-      "clue": "İnsanın ömür boyu karşılaştığı iyi ya da kötü raslantıların tümü; baht.",
+      "clue": "İnsanın ömür boyu karşılaştığı iyi ya da kötü raslantıların tümü; baht (5 harf) [B354-S1]",
       "answer": "TALİH"
     },
     {
@@ -126,7 +126,7 @@
       "row": 0,
       "col": 3,
       "length": 5,
-      "clue": "Bir milletin kuşaklar boyunca konuşup yazdığı ortak iletişim dizgesi.",
+      "clue": "Bir milletin kuşaklar boyunca konuşup yazdığı ortak iletişim dizgesi (5 harf) [B354-S2]",
       "answer": "LİSAN"
     },
     {
@@ -135,7 +135,7 @@
       "row": 0,
       "col": 9,
       "length": 4,
-      "clue": "İstemeden yapılan yanlış; doğru olandan sapmanın yol açtığı kusur.",
+      "clue": "İstemeden yapılan yanlış; doğru olandan sapmanın yol açtığı kusur (4 harf) [B354-S3]",
       "answer": "HATA"
     },
     {
@@ -144,7 +144,7 @@
       "row": 1,
       "col": 7,
       "length": 4,
-      "clue": "Öğrencilerin öğretmenler tarafından eğitim aldığı resmî öğretim kurumu.",
+      "clue": "Öğrencilerin öğretmenler tarafından eğitim aldığı resmî öğretim kurumu (4 harf) [B354-S4]",
       "answer": "OKUL"
     },
     {
@@ -153,7 +153,7 @@
       "row": 2,
       "col": 7,
       "length": 4,
-      "clue": "İçine eşya konulan, çoğu zaman kapağı olan, dikdörtgen ya da kare biçimli hazne.",
+      "clue": "İçine eşya konulan, çoğu zaman kapağı olan, dikdörtgen ya da kare biçimli hazne (4 harf) [B354-S5]",
       "answer": "KUTU"
     },
     {
@@ -162,7 +162,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "Suç işleyen kimseye, yaptığının karşılığı olarak verilen yaptırım.",
+      "clue": "Suç işleyen kimseye, yaptığının karşılığı olarak verilen yaptırım (4 harf) [B354-S6]",
       "answer": "CEZA"
     },
     {
@@ -171,7 +171,7 @@
       "row": 3,
       "col": 1,
       "length": 5,
-      "clue": "Belirlenen vaktin öncesinde gelme; geç kalmanın tersi durumu.",
+      "clue": "Belirlenen vaktin öncesinde gelme; geç kalmanın tersi durumu (5 harf) [B354-S7]",
       "answer": "ERKEN"
     },
     {
@@ -180,7 +180,7 @@
       "row": 4,
       "col": 3,
       "length": 5,
-      "clue": "Bir şeyin bir yerden başka bir yere taşınması; aktarma işlemi.",
+      "clue": "Bir şeyin bir yerden başka bir yere taşınması; aktarma işlemi (5 harf) [B354-S8]",
       "answer": "NAKİL"
     },
     {
@@ -189,7 +189,7 @@
       "row": 4,
       "col": 5,
       "length": 3,
-      "clue": "Gözün hemen üstünde bulunan, yaklaşık yay biçimindeki kıl kümesi.",
+      "clue": "Gözün hemen üstünde bulunan, yaklaşık yay biçimindeki kıl kümesi (3 harf) [B354-S9]",
       "answer": "KAŞ"
     },
     {
@@ -198,7 +198,7 @@
       "row": 6,
       "col": 0,
       "length": 3,
-      "clue": "Havada ya da bir yüzeyde bulunan, hissedilen rutubet miktarı.",
+      "clue": "Havada ya da bir yüzeyde bulunan, hissedilen rutubet miktarı (3 harf) [B354-S10]",
       "answer": "NEM"
     }
   ]

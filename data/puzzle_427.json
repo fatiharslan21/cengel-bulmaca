@@ -143,7 +143,7 @@
       "row": 0,
       "col": 7,
       "length": 5,
-      "clue": "Çorba, pilav gibi yemekleri ağza götürmek için kullanılan çukur sap.",
+      "clue": "Çorba, pilav gibi yemekleri ağza götürmek için kullanılan çukur sap (5 harf) [B427-S1]",
       "answer": "KAŞIK"
     },
     {
@@ -152,7 +152,7 @@
       "row": 1,
       "col": 4,
       "length": 5,
-      "clue": "Bilinmeyen bir şeyi öğrenmek için insanın içine düşen güçlü istek.",
+      "clue": "Bilinmeyen bir şeyi öğrenmek için insanın içine düşen güçlü istek (5 harf) [B427-S2]",
       "answer": "MERAK"
     },
     {
@@ -161,7 +161,7 @@
       "row": 3,
       "col": 5,
       "length": 4,
-      "clue": "Maddi olanın üstünde, manevi değerlerle ilgili; kutsal niteliği bulunan.",
+      "clue": "Maddi olanın üstünde, manevi değerlerle ilgili; kutsal niteliği bulunan (4 harf) [B427-S3]",
       "answer": "ULVİ"
     },
     {
@@ -170,7 +170,7 @@
       "row": 4,
       "col": 1,
       "length": 3,
-      "clue": "İğne yaprakları yıl boyu yeşil kalan, kozalak veren, uzun ömürlü ağaç.",
+      "clue": "İğne yaprakları yıl boyu yeşil kalan, kozalak veren, uzun ömürlü ağaç (3 harf) [B427-S4]",
       "answer": "ÇAM"
     },
     {
@@ -179,7 +179,7 @@
       "row": 4,
       "col": 3,
       "length": 5,
-      "clue": "Dinlerde iyilikle görevlendirilmiş, kanatlı olduğuna inanılan kutsal varlık.",
+      "clue": "Dinlerde iyilikle görevlendirilmiş, kanatlı olduğuna inanılan kutsal varlık (5 harf) [B427-S5]",
       "answer": "MELEK"
     },
     {
@@ -188,7 +188,7 @@
       "row": 4,
       "col": 3,
       "length": 6,
-      "clue": "Gözleri dalgın, içinde sessiz bir keder taşıyan; hüzünlü görünüşlü.",
+      "clue": "Gözleri dalgın, içinde sessiz bir keder taşıyan; hüzünlü görünüşlü (6 harf) [B427-S5]",
       "answer": "MAHZUN"
     },
     {
@@ -197,7 +197,7 @@
       "row": 5,
       "col": 0,
       "length": 4,
-      "clue": "Bir hakkı aramak için mahkemeye başvurularak açılan hukuki süreç.",
+      "clue": "Bir hakkı aramak için mahkemeye başvurularak açılan hukuki süreç (4 harf) [B427-S6]",
       "answer": "DAVA"
     },
     {
@@ -206,7 +206,7 @@
       "row": 6,
       "col": 7,
       "length": 4,
-      "clue": "Bir olayın başlangıcı ile sonu arasında geçen zaman aralığı.",
+      "clue": "Bir olayın başlangıcı ile sonu arasında geçen zaman aralığı (4 harf) [B427-S7]",
       "answer": "SÜRE"
     },
     {
@@ -215,7 +215,7 @@
       "row": 7,
       "col": 6,
       "length": 5,
-      "clue": "Karşılık beklemeden yapılan iyilik; bir büyüğün bahşettiği ihsan.",
+      "clue": "Karşılık beklemeden yapılan iyilik; bir büyüğün bahşettiği ihsan (5 harf) [B427-S8]",
       "answer": "LÜTUF"
     },
     {
@@ -224,7 +224,7 @@
       "row": 9,
       "col": 3,
       "length": 5,
-      "clue": "Bir ezginin kulağa hoş gelen melodik sesi; tiz tatlı tını.",
+      "clue": "Bir ezginin kulağa hoş gelen melodik sesi; tiz tatlı tını (5 harf) [B427-S9]",
       "answer": "NAĞME"
     }
   ]

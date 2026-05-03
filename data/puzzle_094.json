@@ -123,7 +123,7 @@
       "row": 0,
       "col": 1,
       "length": 4,
-      "clue": "Öğrencilerin öğretmenler tarafından eğitim aldığı resmî öğretim kurumu.",
+      "clue": "Öğrencilerin öğretmenler tarafından eğitim aldığı resmî öğretim kurumu (4 harf) [B94-S1]",
       "answer": "OKUL"
     },
     {
@@ -132,7 +132,7 @@
       "row": 0,
       "col": 2,
       "length": 4,
-      "clue": "Kulpundan tutularak su ya da başka sıvı taşınan derin silindirik kap.",
+      "clue": "Kulpundan tutularak su ya da başka sıvı taşınan derin silindirik kap (4 harf) [B94-S2]",
       "answer": "KOVA"
     },
     {
@@ -141,7 +141,7 @@
       "row": 1,
       "col": 5,
       "length": 3,
-      "clue": "Ağız içindeki kaslı organ; aynı zamanda insanların konuşarak anlaştığı sistem.",
+      "clue": "Ağız içindeki kaslı organ; aynı zamanda insanların konuşarak anlaştığı sistem (3 harf) [B94-S3]",
       "answer": "DİL"
     },
     {
@@ -150,7 +150,7 @@
       "row": 1,
       "col": 5,
       "length": 3,
-      "clue": "Çevresine göre belirgin biçimde yükselen, taşlık ve kayalık büyük arazi.",
+      "clue": "Çevresine göre belirgin biçimde yükselen, taşlık ve kayalık büyük arazi (3 harf) [B94-S3]",
       "answer": "DAĞ"
     },
     {
@@ -159,7 +159,7 @@
       "row": 3,
       "col": 1,
       "length": 5,
-      "clue": "Bilinmeyen bir şeyi öğrenmek için insanın içine düşen güçlü istek.",
+      "clue": "Bilinmeyen bir şeyi öğrenmek için insanın içine düşen güçlü istek (5 harf) [B94-S4]",
       "answer": "MERAK"
     },
     {
@@ -168,7 +168,7 @@
       "row": 3,
       "col": 1,
       "length": 5,
-      "clue": "Hayal ürünü kahramanların yer aldığı, 'bir varmış bir yokmuş'la başlayan öykü.",
+      "clue": "Hayal ürünü kahramanların yer aldığı, 'bir varmış bir yokmuş'la başlayan öykü (5 harf) [B94-S4]",
       "answer": "MASAL"
     },
     {
@@ -177,7 +177,7 @@
       "row": 5,
       "col": 0,
       "length": 4,
-      "clue": "Bir eşyanın ya da yüzeyin üstünü kapatmak için serilen kumaş parçası.",
+      "clue": "Bir eşyanın ya da yüzeyin üstünü kapatmak için serilen kumaş parçası (4 harf) [B94-S5]",
       "answer": "ÖRTÜ"
     },
     {
@@ -186,7 +186,7 @@
       "row": 6,
       "col": 4,
       "length": 5,
-      "clue": "Ucundan mürekkep ya da grafit akıtarak kâğıda yazı yazmayı sağlayan araç.",
+      "clue": "Ucundan mürekkep ya da grafit akıtarak kâğıda yazı yazmayı sağlayan araç (5 harf) [B94-S6]",
       "answer": "KALEM"
     },
     {
@@ -195,7 +195,7 @@
       "row": 7,
       "col": 1,
       "length": 4,
-      "clue": "Bir yarışmanın galibine ödül olarak verilen, ayaklı madeni kadeh.",
+      "clue": "Bir yarışmanın galibine ödül olarak verilen, ayaklı madeni kadeh (4 harf) [B94-S7]",
       "answer": "KUPA"
     }
   ]

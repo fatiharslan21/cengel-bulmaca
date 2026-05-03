@@ -134,7 +134,7 @@
       "row": 0,
       "col": 3,
       "length": 6,
-      "clue": "Geniş kanatlarıyla yükseklerde süzülen, keskin gözlü yırtıcı büyük kuş.",
+      "clue": "Geniş kanatlarıyla yükseklerde süzülen, keskin gözlü yırtıcı büyük kuş (6 harf) [B361-S1]",
       "answer": "KARTAL"
     },
     {
@@ -143,7 +143,7 @@
       "row": 1,
       "col": 2,
       "length": 3,
-      "clue": "Dört mevsimin en sıcağı; okulların kapandığı, tatillerin geldiği zaman.",
+      "clue": "Dört mevsimin en sıcağı; okulların kapandığı, tatillerin geldiği zaman (3 harf) [B361-S2]",
       "answer": "YAZ"
     },
     {
@@ -152,7 +152,7 @@
       "row": 3,
       "col": 5,
       "length": 4,
-      "clue": "Toprağın altında kalmış eski eserleri çıkarmak için yapılan eşme işi.",
+      "clue": "Toprağın altında kalmış eski eserleri çıkarmak için yapılan eşme işi (4 harf) [B361-S3]",
       "answer": "KAZI"
     },
     {
@@ -161,7 +161,7 @@
       "row": 3,
       "col": 5,
       "length": 4,
-      "clue": "Uzun beyaz boynuyla su yüzeyinde zarafetle süzülen büyük göl kuşu.",
+      "clue": "Uzun beyaz boynuyla su yüzeyinde zarafetle süzülen büyük göl kuşu (4 harf) [B361-S3]",
       "answer": "KUĞU"
     },
     {
@@ -170,7 +170,7 @@
       "row": 4,
       "col": 3,
       "length": 3,
-      "clue": "Birden çok rengin bir arada bulunduğu, benekli ya da karışık görünüm.",
+      "clue": "Birden çok rengin bir arada bulunduğu, benekli ya da karışık görünüm (3 harf) [B361-S4]",
       "answer": "ALA"
     },
     {
@@ -179,7 +179,7 @@
       "row": 5,
       "col": 1,
       "length": 3,
-      "clue": "Bulunduğun yerden buraya doğru yaklaş; git sözcüğünün tam zıttı eylem.",
+      "clue": "Bulunduğun yerden buraya doğru yaklaş; git sözcüğünün tam zıttı eylem (3 harf) [B361-S5]",
       "answer": "GEL"
     },
     {
@@ -188,7 +188,7 @@
       "row": 5,
       "col": 1,
       "length": 6,
-      "clue": "Bir toplantıda ya da günde ele alınacak konuların sıralı listesi.",
+      "clue": "Bir toplantıda ya da günde ele alınacak konuların sıralı listesi (6 harf) [B361-S5]",
       "answer": "GÜNDEM"
     },
     {
@@ -197,7 +197,7 @@
       "row": 5,
       "col": 5,
       "length": 3,
-      "clue": "Üzerinde nokta bulunan, oyunlarda atılan altı yüzlü küçük küp.",
+      "clue": "Üzerinde nokta bulunan, oyunlarda atılan altı yüzlü küçük küp (3 harf) [B361-S6]",
       "answer": "ZAR"
     },
     {
@@ -206,7 +206,7 @@
       "row": 8,
       "col": 0,
       "length": 4,
-      "clue": "Görgü kurallarına uygun davranış; terbiyeli ve ölçülü olma hali.",
+      "clue": "Görgü kurallarına uygun davranış; terbiyeli ve ölçülü olma hali (4 harf) [B361-S7]",
       "answer": "EDEP"
     },
     {
@@ -215,7 +215,7 @@
       "row": 10,
       "col": 1,
       "length": 4,
-      "clue": "Geride kalan zaman; yaşanmış olayların artık değiştirilemeyen bölümü.",
+      "clue": "Geride kalan zaman; yaşanmış olayların artık değiştirilemeyen bölümü (4 harf) [B361-S8]",
       "answer": "MAZİ"
     }
   ]

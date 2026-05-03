@@ -113,7 +113,7 @@
       "row": 0,
       "col": 6,
       "length": 6,
-      "clue": "Geceleri ötüşüyle tanınan, sesi şiirlere konu olmuş küçük kahverengi kuş.",
+      "clue": "Geceleri ötüşüyle tanınan, sesi şiirlere konu olmuş küçük kahverengi kuş (6 harf) [B137-S1]",
       "answer": "BÜLBÜL"
     },
     {
@@ -122,7 +122,7 @@
       "row": 2,
       "col": 3,
       "length": 4,
-      "clue": "Eskiden şehirleri düşmandan korumak için yapılmış yüksek surlu savunma yapısı.",
+      "clue": "Eskiden şehirleri düşmandan korumak için yapılmış yüksek surlu savunma yapısı (4 harf) [B137-S2]",
       "answer": "KALE"
     },
     {
@@ -131,7 +131,7 @@
       "row": 2,
       "col": 3,
       "length": 5,
-      "clue": "İp ya da parmaklarla oynatılan, tiyatro sahnesinde canlanan figürlü bebek.",
+      "clue": "İp ya da parmaklarla oynatılan, tiyatro sahnesinde canlanan figürlü bebek (5 harf) [B137-S2]",
       "answer": "KUKLA"
     },
     {
@@ -140,7 +140,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "Müzik eserlerinde seslerin yükseklik ve uzunluğunu gösteren küçük simge.",
+      "clue": "Müzik eserlerinde seslerin yükseklik ve uzunluğunu gösteren küçük simge (4 harf) [B137-S3]",
       "answer": "NOTA"
     },
     {
@@ -149,7 +149,7 @@
       "row": 5,
       "col": 0,
       "length": 4,
-      "clue": "Kabuğu kırmızı, sarı ya da yeşil olabilen, sulu ve çıtır meyve.",
+      "clue": "Kabuğu kırmızı, sarı ya da yeşil olabilen, sulu ve çıtır meyve (4 harf) [B137-S4]",
       "answer": "ELMA"
     },
     {
@@ -158,7 +158,7 @@
       "row": 5,
       "col": 2,
       "length": 3,
-      "clue": "İnsanın bedenini saran dış deri; vücudumuzun dış yüzü.",
+      "clue": "İnsanın bedenini saran dış deri; vücudumuzun dış yüzü (3 harf) [B137-S5]",
       "answer": "TEN"
     },
     {
@@ -167,7 +167,7 @@
       "row": 5,
       "col": 2,
       "length": 3,
-      "clue": "Denizden ya da yer altından çıkarılan; yemeklere tat veren beyaz tane.",
+      "clue": "Denizden ya da yer altından çıkarılan; yemeklere tat veren beyaz tane (3 harf) [B137-S5]",
       "answer": "TUZ"
     },
     {
@@ -176,7 +176,7 @@
       "row": 5,
       "col": 4,
       "length": 5,
-      "clue": "Bir cümlenin sonuna konan en küçük yazı işareti; konumun kendisi.",
+      "clue": "Bir cümlenin sonuna konan en küçük yazı işareti; konumun kendisi (5 harf) [B137-S6]",
       "answer": "NOKTA"
     },
     {
@@ -185,7 +185,7 @@
       "row": 7,
       "col": 0,
       "length": 3,
-      "clue": "Sarı kabuklu, uzun, yumuşak iç gövdeli tropikal meyve.",
+      "clue": "Sarı kabuklu, uzun, yumuşak iç gövdeli tropikal meyve (3 harf) [B137-S7]",
       "answer": "MUZ"
     },
     {
@@ -194,7 +194,7 @@
       "row": 9,
       "col": 3,
       "length": 3,
-      "clue": "Çevresine göre belirgin biçimde yükselen, taşlık ve kayalık büyük arazi.",
+      "clue": "Çevresine göre belirgin biçimde yükselen, taşlık ve kayalık büyük arazi (3 harf) [B137-S8]",
       "answer": "DAĞ"
     }
   ]

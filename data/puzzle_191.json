@@ -153,7 +153,7 @@
       "row": 0,
       "col": 4,
       "length": 6,
-      "clue": "Başı, ortası ve sonu olan; yaşanmış ya da kurmaca kısa anlatı.",
+      "clue": "Başı, ortası ve sonu olan; yaşanmış ya da kurmaca kısa anlatı (6 harf) [B191-S1]",
       "answer": "HİKAYE"
     },
     {
@@ -162,7 +162,7 @@
       "row": 1,
       "col": 4,
       "length": 3,
-      "clue": "Hoşa giden, yararlı ve olumlu olan; kötünün tam karşıtı olan nitelik.",
+      "clue": "Hoşa giden, yararlı ve olumlu olan; kötünün tam karşıtı olan nitelik (3 harf) [B191-S2]",
       "answer": "İYİ"
     },
     {
@@ -171,7 +171,7 @@
       "row": 3,
       "col": 4,
       "length": 5,
-      "clue": "Bir kimseye veya yere ulaşabilmek için gereken açık konum bilgisi.",
+      "clue": "Bir kimseye veya yere ulaşabilmek için gereken açık konum bilgisi (5 harf) [B191-S3]",
       "answer": "ADRES"
     },
     {
@@ -180,7 +180,7 @@
       "row": 3,
       "col": 8,
       "length": 5,
-      "clue": "Güneşin doğmasıyla başlayıp öğleye kadar süren günün ilk dilimi.",
+      "clue": "Güneşin doğmasıyla başlayıp öğleye kadar süren günün ilk dilimi (5 harf) [B191-S4]",
       "answer": "SABAH"
     },
     {
@@ -189,7 +189,7 @@
       "row": 4,
       "col": 2,
       "length": 6,
-      "clue": "Türkiye Cumhuriyeti'nin başkenti ve İç Anadolu'nun en büyük şehri.",
+      "clue": "Türkiye Cumhuriyeti'nin başkenti ve İç Anadolu'nun en büyük şehri (6 harf) [B191-S5]",
       "answer": "ANKARA"
     },
     {
@@ -198,7 +198,7 @@
       "row": 5,
       "col": 0,
       "length": 6,
-      "clue": "Bir toplantıda ya da günde ele alınacak konuların sıralı listesi.",
+      "clue": "Bir toplantıda ya da günde ele alınacak konuların sıralı listesi (6 harf) [B191-S6]",
       "answer": "GÜNDEM"
     },
     {
@@ -207,7 +207,7 @@
       "row": 5,
       "col": 10,
       "length": 3,
-      "clue": "Yüceliğiyle saygı uyandıran; hem büyük hem görkemli olan varlık.",
+      "clue": "Yüceliğiyle saygı uyandıran; hem büyük hem görkemli olan varlık (3 harf) [B191-S7]",
       "answer": "ULU"
     },
     {
@@ -216,7 +216,7 @@
       "row": 6,
       "col": 7,
       "length": 5,
-      "clue": "Üzerinde buğday, arpa ya da sebze yetiştirilen sürülmüş geniş toprak.",
+      "clue": "Üzerinde buğday, arpa ya da sebze yetiştirilen sürülmüş geniş toprak (5 harf) [B191-S8]",
       "answer": "TARLA"
     },
     {
@@ -225,7 +225,7 @@
       "row": 7,
       "col": 2,
       "length": 4,
-      "clue": "İnsanın düşünmesini, anlamasını ve karar vermesini sağlayan zihinsel yeti.",
+      "clue": "İnsanın düşünmesini, anlamasını ve karar vermesini sağlayan zihinsel yeti (4 harf) [B191-S9]",
       "answer": "AKIL"
     },
     {
@@ -234,7 +234,7 @@
       "row": 8,
       "col": 0,
       "length": 3,
-      "clue": "Üzerinde durduğumuz zemin; bir olayın geçtiği konum.",
+      "clue": "Üzerinde durduğumuz zemin; bir olayın geçtiği konum (3 harf) [B191-S10]",
       "answer": "YER"
     }
   ]

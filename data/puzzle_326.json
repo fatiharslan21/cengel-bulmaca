@@ -133,7 +133,7 @@
       "row": 0,
       "col": 4,
       "length": 5,
-      "clue": "Mektup ve paketlerin toplanıp yerine ulaştırıldığı geleneksel iletişim hizmeti.",
+      "clue": "Mektup ve paketlerin toplanıp yerine ulaştırıldığı geleneksel iletişim hizmeti (5 harf) [B326-S1]",
       "answer": "POSTA"
     },
     {
@@ -142,7 +142,7 @@
       "row": 4,
       "col": 1,
       "length": 4,
-      "clue": "İlerinin zıttı; arkaya ya da başlangıca doğru olan yön.",
+      "clue": "İlerinin zıttı; arkaya ya da başlangıca doğru olan yön (4 harf) [B326-S2]",
       "answer": "GERİ"
     },
     {
@@ -151,7 +151,7 @@
       "row": 4,
       "col": 3,
       "length": 4,
-      "clue": "Sobadan ateş almak ya da sıcak şeyleri tutmak için kullanılan uzun kıskaç.",
+      "clue": "Sobadan ateş almak ya da sıcak şeyleri tutmak için kullanılan uzun kıskaç (4 harf) [B326-S3]",
       "answer": "MAŞA"
     },
     {
@@ -160,7 +160,7 @@
       "row": 4,
       "col": 3,
       "length": 5,
-      "clue": "Kaybedilen bir yakının ardından tutulan koyu yas; siyahlar giyme hali.",
+      "clue": "Kaybedilen bir yakının ardından tutulan koyu yas; siyahlar giyme hali (5 harf) [B326-S3]",
       "answer": "MATEM"
     },
     {
@@ -169,7 +169,7 @@
       "row": 5,
       "col": 0,
       "length": 4,
-      "clue": "İçerisi camla kaplı; mevsim dışında bile bitki yetiştirilen ısıtılmış yapı.",
+      "clue": "İçerisi camla kaplı; mevsim dışında bile bitki yetiştirilen ısıtılmış yapı (4 harf) [B326-S4]",
       "answer": "SERA"
     },
     {
@@ -178,7 +178,7 @@
       "row": 6,
       "col": 3,
       "length": 5,
-      "clue": "Toplumun kişiye duyduğu saygı; alnı ak olma halinin verdiği onur.",
+      "clue": "Toplumun kişiye duyduğu saygı; alnı ak olma halinin verdiği onur (5 harf) [B326-S5]",
       "answer": "ŞEREF"
     },
     {
@@ -187,7 +187,7 @@
       "row": 7,
       "col": 0,
       "length": 4,
-      "clue": "Birine seslenmek için çıkarılan yüksek ses; çağırmak amaçlı bağırma.",
+      "clue": "Birine seslenmek için çıkarılan yüksek ses; çağırmak amaçlı bağırma (4 harf) [B326-S6]",
       "answer": "NİDA"
     },
     {
@@ -196,7 +196,7 @@
       "row": 7,
       "col": 2,
       "length": 5,
-      "clue": "Üzerinde yaşadığımız, Güneş'in çevresinde dönen mavi yeşil gezegen.",
+      "clue": "Üzerinde yaşadığımız, Güneş'in çevresinde dönen mavi yeşil gezegen (5 harf) [B326-S7]",
       "answer": "DÜNYA"
     },
     {
@@ -205,7 +205,7 @@
       "row": 9,
       "col": 0,
       "length": 4,
-      "clue": "Sayılabilen nesnelerin her biri; küçük parça ya da adet.",
+      "clue": "Sayılabilen nesnelerin her biri; küçük parça ya da adet (4 harf) [B326-S8]",
       "answer": "TANE"
     },
     {
@@ -214,7 +214,7 @@
       "row": 11,
       "col": 2,
       "length": 3,
-      "clue": "Bir şeye bağlı bulunma; onunla ilgili ya da onun sahipliğinde olma.",
+      "clue": "Bir şeye bağlı bulunma; onunla ilgili ya da onun sahipliğinde olma (3 harf) [B326-S9]",
       "answer": "AİT"
     }
   ]

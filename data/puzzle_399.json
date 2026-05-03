@@ -139,7 +139,7 @@
       "row": 0,
       "col": 9,
       "length": 5,
-      "clue": "Evin misafir ağırlanan en büyük odası ya da toplantı yapılan geniş mekân.",
+      "clue": "Evin misafir ağırlanan en büyük odası ya da toplantı yapılan geniş mekân (5 harf) [B399-S1]",
       "answer": "SALON"
     },
     {
@@ -148,7 +148,7 @@
       "row": 1,
       "col": 8,
       "length": 4,
-      "clue": "Şehir içinde insanların dinlenip yürüdüğü, ağaçlıklı kamusal yeşil alan.",
+      "clue": "Şehir içinde insanların dinlenip yürüdüğü, ağaçlıklı kamusal yeşil alan (4 harf) [B399-S2]",
       "answer": "PARK"
     },
     {
@@ -157,7 +157,7 @@
       "row": 1,
       "col": 11,
       "length": 5,
-      "clue": "İnsanın içini burkan, uzun süre geçmeyen derin üzüntü hali.",
+      "clue": "İnsanın içini burkan, uzun süre geçmeyen derin üzüntü hali (5 harf) [B399-S3]",
       "answer": "KEDER"
     },
     {
@@ -166,7 +166,7 @@
       "row": 4,
       "col": 4,
       "length": 5,
-      "clue": "Sanatçının ya da düşünürün içine birden doğan yaratıcı esin kaynağı.",
+      "clue": "Sanatçının ya da düşünürün içine birden doğan yaratıcı esin kaynağı (5 harf) [B399-S4]",
       "answer": "İLHAM"
     },
     {
@@ -175,7 +175,7 @@
       "row": 4,
       "col": 6,
       "length": 4,
-      "clue": "Bir sınavda ya da yarışmada başarıya göre verilen sayısal değerlendirme.",
+      "clue": "Bir sınavda ya da yarışmada başarıya göre verilen sayısal değerlendirme (4 harf) [B399-S5]",
       "answer": "PUAN"
     },
     {
@@ -184,7 +184,7 @@
       "row": 4,
       "col": 8,
       "length": 3,
-      "clue": "Birden çok rengin bir arada bulunduğu, benekli ya da karışık görünüm.",
+      "clue": "Birden çok rengin bir arada bulunduğu, benekli ya da karışık görünüm (3 harf) [B399-S6]",
       "answer": "ALA"
     },
     {
@@ -193,7 +193,7 @@
       "row": 5,
       "col": 0,
       "length": 5,
-      "clue": "Varlığı yerinde durmayıp sona ermesi; yokluğa geçme hali.",
+      "clue": "Varlığı yerinde durmayıp sona ermesi; yokluğa geçme hali (5 harf) [B399-S7]",
       "answer": "ZEVAL"
     },
     {
@@ -202,7 +202,7 @@
       "row": 6,
       "col": 4,
       "length": 6,
-      "clue": "Sevgiliden uzak düşmenin yürekte açtığı derin ayrılık acısı.",
+      "clue": "Sevgiliden uzak düşmenin yürekte açtığı derin ayrılık acısı (6 harf) [B399-S8]",
       "answer": "HİCRAN"
     },
     {
@@ -211,7 +211,7 @@
       "row": 7,
       "col": 1,
       "length": 4,
-      "clue": "Bir yüzeye sürüldüğünde ona istenilen rengi veren sıvı ya da toz madde.",
+      "clue": "Bir yüzeye sürüldüğünde ona istenilen rengi veren sıvı ya da toz madde (4 harf) [B399-S9]",
       "answer": "BOYA"
     },
     {
@@ -220,7 +220,7 @@
       "row": 8,
       "col": 4,
       "length": 6,
-      "clue": "Gözleri dalgın, içinde sessiz bir keder taşıyan; hüzünlü görünüşlü.",
+      "clue": "Gözleri dalgın, içinde sessiz bir keder taşıyan; hüzünlü görünüşlü (6 harf) [B399-S10]",
       "answer": "MAHZUN"
     }
   ]

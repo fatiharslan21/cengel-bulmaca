@@ -123,7 +123,7 @@
       "row": 0,
       "col": 4,
       "length": 5,
-      "clue": "Yemeklerin servis edildiği, yuvarlak ve yassı porselen ya da cam kap.",
+      "clue": "Yemeklerin servis edildiği, yuvarlak ve yassı porselen ya da cam kap (5 harf) [B86-S1]",
       "answer": "TABAK"
     },
     {
@@ -132,7 +132,7 @@
       "row": 1,
       "col": 1,
       "length": 4,
-      "clue": "Niteliği kötü olan, insanın içini bunaltan; iyi sözcüğünün zıttı.",
+      "clue": "Niteliği kötü olan, insanın içini bunaltan; iyi sözcüğünün zıttı (4 harf) [B86-S2]",
       "answer": "FENA"
     },
     {
@@ -141,7 +141,7 @@
       "row": 3,
       "col": 6,
       "length": 5,
-      "clue": "Bitkinin çiçeğinin olgunlaşmasıyla oluşan, genellikle yenilebilir ürün.",
+      "clue": "Bitkinin çiçeğinin olgunlaşmasıyla oluşan, genellikle yenilebilir ürün (5 harf) [B86-S3]",
       "answer": "MEYVE"
     },
     {
@@ -150,7 +150,7 @@
       "row": 4,
       "col": 0,
       "length": 5,
-      "clue": "Mutfağa giren, bitki kökleri ve yapraklarından oluşan yenilebilir besin.",
+      "clue": "Mutfağa giren, bitki kökleri ve yapraklarından oluşan yenilebilir besin (5 harf) [B86-S4]",
       "answer": "SEBZE"
     },
     {
@@ -159,7 +159,7 @@
       "row": 4,
       "col": 2,
       "length": 3,
-      "clue": "Aynı ortak özellikleri taşıyan canlıların oluşturduğu sınıflama birimi.",
+      "clue": "Aynı ortak özellikleri taşıyan canlıların oluşturduğu sınıflama birimi (3 harf) [B86-S5]",
       "answer": "TÜR"
     },
     {
@@ -168,7 +168,7 @@
       "row": 4,
       "col": 2,
       "length": 5,
-      "clue": "Yelkenli ya da motorlu olup denizde kısa yolculuklara çıkan küçük gemi.",
+      "clue": "Yelkenli ya da motorlu olup denizde kısa yolculuklara çıkan küçük gemi (5 harf) [B86-S5]",
       "answer": "TEKNE"
     },
     {
@@ -177,7 +177,7 @@
       "row": 6,
       "col": 0,
       "length": 3,
-      "clue": "Sayıların başlangıcı olan, tek adedi gösteren ilk doğal rakam.",
+      "clue": "Sayıların başlangıcı olan, tek adedi gösteren ilk doğal rakam (3 harf) [B86-S6]",
       "answer": "BİR"
     },
     {
@@ -186,7 +186,7 @@
       "row": 6,
       "col": 4,
       "length": 5,
-      "clue": "Okuyarak, yaşayarak ya da öğrenerek elde edilen her türlü öğrenim ürünü.",
+      "clue": "Açıklamaya uyan yanıt (5 harf) [B86-S7]",
       "answer": "BİLGİ"
     },
     {
@@ -195,7 +195,7 @@
       "row": 7,
       "col": 4,
       "length": 4,
-      "clue": "Kozadan elde edilen, parlak dokulu ve dayanıklı, değerli kumaş lifi.",
+      "clue": "Kozadan elde edilen, parlak dokulu ve dayanıklı, değerli kumaş lifi (4 harf) [B86-S8]",
       "answer": "İPEK"
     }
   ]

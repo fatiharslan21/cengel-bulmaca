@@ -121,7 +121,7 @@
       "row": 0,
       "col": 1,
       "length": 4,
-      "clue": "Hayvanların otlayıp beslenmesi için ayrılmış, doğal otlarla kaplı geniş alan.",
+      "clue": "Hayvanların otlayıp beslenmesi için ayrılmış, doğal otlarla kaplı geniş alan (4 harf) [B185-S1]",
       "answer": "MERA"
     },
     {
@@ -130,7 +130,7 @@
       "row": 1,
       "col": 9,
       "length": 4,
-      "clue": "Bir ailenin oturduğu ev; aynı zamanda sayıdaki basamak anlamı taşır.",
+      "clue": "Bir ailenin oturduğu ev; aynı zamanda sayıdaki basamak anlamı taşır (4 harf) [B185-S2]",
       "answer": "HANE"
     },
     {
@@ -139,7 +139,7 @@
       "row": 3,
       "col": 0,
       "length": 3,
-      "clue": "Bitkinin çiçek ya da yaprağını gövdeye bağlayan uzun ve ince bölüm.",
+      "clue": "Bitkinin çiçek ya da yaprağını gövdeye bağlayan uzun ve ince bölüm (3 harf) [B185-S3]",
       "answer": "SAP"
     },
     {
@@ -148,7 +148,7 @@
       "row": 3,
       "col": 2,
       "length": 3,
-      "clue": "Demirin hava ve nemle temas ederek zamanla üzerinde oluşturduğu kızıl tabaka.",
+      "clue": "Demirin hava ve nemle temas ederek zamanla üzerinde oluşturduğu kızıl tabaka (3 harf) [B185-S4]",
       "answer": "PAS"
     },
     {
@@ -157,7 +157,7 @@
       "row": 4,
       "col": 2,
       "length": 3,
-      "clue": "Bir cismin aşağı tarafı; üst sözcüğünün tam karşıtı olan yön.",
+      "clue": "Bir cismin aşağı tarafı; üst sözcüğünün tam karşıtı olan yön (3 harf) [B185-S5]",
       "answer": "ALT"
     },
     {
@@ -166,7 +166,7 @@
       "row": 4,
       "col": 4,
       "length": 5,
-      "clue": "Yelkenli ya da motorlu olup denizde kısa yolculuklara çıkan küçük gemi.",
+      "clue": "Yelkenli ya da motorlu olup denizde kısa yolculuklara çıkan küçük gemi (5 harf) [B185-S6]",
       "answer": "TEKNE"
     },
     {
@@ -175,7 +175,7 @@
       "row": 4,
       "col": 6,
       "length": 4,
-      "clue": "Yeni toplanmış, bayatlamamış; canlılığını yeni yeni yitirmemiş olan.",
+      "clue": "Yeni toplanmış, bayatlamamış; canlılığını yeni yeni yitirmemiş olan (4 harf) [B185-S7]",
       "answer": "TAZE"
     },
     {
@@ -184,7 +184,7 @@
       "row": 4,
       "col": 7,
       "length": 4,
-      "clue": "Toprağa kök salmış, gövdesi odunlaşmış, uzun ömürlü büyük bitki.",
+      "clue": "Toprağa kök salmış, gövdesi odunlaşmış, uzun ömürlü büyük bitki (4 harf) [B185-S8]",
       "answer": "AĞAÇ"
     },
     {
@@ -193,7 +193,7 @@
       "row": 6,
       "col": 4,
       "length": 5,
-      "clue": "Saplı, parlak, kırmızı kabuklu; ilkbaharın sonunda olgunlaşan tatlı meyve.",
+      "clue": "Saplı, parlak, kırmızı kabuklu; ilkbaharın sonunda olgunlaşan tatlı meyve (5 harf) [B185-S9]",
       "answer": "KİRAZ"
     },
     {
@@ -202,7 +202,7 @@
       "row": 8,
       "col": 3,
       "length": 4,
-      "clue": "Güneşin batmasından doğmasına kadar süren karanlık zaman dilimi.",
+      "clue": "Güneşin batmasından doğmasına kadar süren karanlık zaman dilimi (4 harf) [B185-S10]",
       "answer": "GECE"
     }
   ]

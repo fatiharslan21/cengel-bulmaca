@@ -121,7 +121,7 @@
       "row": 0,
       "col": 3,
       "length": 5,
-      "clue": "Ani ve sert bir hareketle yapılan vuruş; çarpma sonucu alınan sarsıntı.",
+      "clue": "Ani ve sert bir hareketle yapılan vuruş; çarpma sonucu alınan sarsıntı (5 harf) [B102-S1]",
       "answer": "DARBE"
     },
     {
@@ -130,7 +130,7 @@
       "row": 1,
       "col": 2,
       "length": 3,
-      "clue": "İçi kırmızı tanelerle dolu, kalın kabuklu, sonbahar aylarının meyvesi.",
+      "clue": "İçi kırmızı tanelerle dolu, kalın kabuklu, sonbahar aylarının meyvesi (3 harf) [B102-S2]",
       "answer": "NAR"
     },
     {
@@ -139,7 +139,7 @@
       "row": 3,
       "col": 1,
       "length": 3,
-      "clue": "İçine sıvı ya da katı maddeler konulan her türlü şekilli eşya.",
+      "clue": "İçine sıvı ya da katı maddeler konulan her türlü şekilli eşya (3 harf) [B102-S3]",
       "answer": "KAP"
     },
     {
@@ -148,7 +148,7 @@
       "row": 3,
       "col": 3,
       "length": 3,
-      "clue": "Suyun sıfır derecenin altına inerek katılaşmasıyla meydana gelen madde.",
+      "clue": "Suyun sıfır derecenin altına inerek katılaşmasıyla meydana gelen madde (3 harf) [B102-S4]",
       "answer": "BUZ"
     },
     {
@@ -157,7 +157,7 @@
       "row": 3,
       "col": 5,
       "length": 3,
-      "clue": "Üstesinden gelinmesi emek isteyen; kolayın tam karşıtı sayılan güç iş.",
+      "clue": "Üstesinden gelinmesi emek isteyen; kolayın tam karşıtı sayılan güç iş (3 harf) [B102-S5]",
       "answer": "ZOR"
     },
     {
@@ -166,7 +166,7 @@
       "row": 4,
       "col": 0,
       "length": 4,
-      "clue": "Yeni toplanmış, bayatlamamış; canlılığını yeni yeni yitirmemiş olan.",
+      "clue": "Yeni toplanmış, bayatlamamış; canlılığını yeni yeni yitirmemiş olan (4 harf) [B102-S6]",
       "answer": "TAZE"
     },
     {
@@ -175,7 +175,7 @@
       "row": 5,
       "col": 5,
       "length": 5,
-      "clue": "Programlanarak belirli işleri otomatik yapan mekanik insansı makine.",
+      "clue": "Programlanarak belirli işleri otomatik yapan mekanik insansı makine (5 harf) [B102-S7]",
       "answer": "ROBOT"
     },
     {
@@ -184,7 +184,7 @@
       "row": 5,
       "col": 9,
       "length": 4,
-      "clue": "Raylar üzerinde hareket eden, vagonları çeken büyük motorlu araç.",
+      "clue": "Raylar üzerinde hareket eden, vagonları çeken büyük motorlu araç (4 harf) [B102-S8]",
       "answer": "TREN"
     },
     {
@@ -193,7 +193,7 @@
       "row": 7,
       "col": 5,
       "length": 5,
-      "clue": "Yelkenli ya da motorlu olup denizde kısa yolculuklara çıkan küçük gemi.",
+      "clue": "Yelkenli ya da motorlu olup denizde kısa yolculuklara çıkan küçük gemi (5 harf) [B102-S9]",
       "answer": "TEKNE"
     }
   ]

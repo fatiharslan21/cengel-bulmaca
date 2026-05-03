@@ -111,7 +111,7 @@
       "row": 0,
       "col": 5,
       "length": 4,
-      "clue": "Siyah beyaz karelere yerleştirilen taşlarla iki kişi arasında oynanan oyun.",
+      "clue": "Siyah beyaz karelere yerleştirilen taşlarla iki kişi arasında oynanan oyun (4 harf) [B238-S1]",
       "answer": "DAMA"
     },
     {
@@ -120,7 +120,7 @@
       "row": 1,
       "col": 4,
       "length": 4,
-      "clue": "Toprağın üstünde ya da altında bulunan, kolay parçalanmayan büyük taş.",
+      "clue": "Toprağın üstünde ya da altında bulunan, kolay parçalanmayan büyük taş (4 harf) [B238-S2]",
       "answer": "KAYA"
     },
     {
@@ -129,7 +129,7 @@
       "row": 1,
       "col": 7,
       "length": 3,
-      "clue": "Bir şeye bağlı bulunma; onunla ilgili ya da onun sahipliğinde olma.",
+      "clue": "Bir şeye bağlı bulunma; onunla ilgili ya da onun sahipliğinde olma (3 harf) [B238-S3]",
       "answer": "AİT"
     },
     {
@@ -138,7 +138,7 @@
       "row": 1,
       "col": 11,
       "length": 5,
-      "clue": "Su veya başka bir sıvıyla temas edip kurumamış olan nemli yüzey.",
+      "clue": "Su veya başka bir sıvıyla temas edip kurumamış olan nemli yüzey (5 harf) [B238-S4]",
       "answer": "ISLAK"
     },
     {
@@ -147,7 +147,7 @@
       "row": 2,
       "col": 3,
       "length": 5,
-      "clue": "Zihinde canlandırılan, gerçekleşmesi beklenen ya da umulan görüntü.",
+      "clue": "Zihinde canlandırılan, gerçekleşmesi beklenen ya da umulan görüntü (5 harf) [B238-S5]",
       "answer": "HAYAL"
     },
     {
@@ -156,7 +156,7 @@
       "row": 3,
       "col": 3,
       "length": 3,
-      "clue": "Eskiden köylerde geniş topraklara sahip, sözü geçen nüfuzlu kişi.",
+      "clue": "Eskiden köylerde geniş topraklara sahip, sözü geçen nüfuzlu kişi (3 harf) [B238-S6]",
       "answer": "AĞA"
     },
     {
@@ -165,7 +165,7 @@
       "row": 3,
       "col": 7,
       "length": 3,
-      "clue": "Hastalıkların tanısı ve iyileştirilmesiyle uğraşan hekimlik bilim dalı.",
+      "clue": "Hastalıkların tanısı ve iyileştirilmesiyle uğraşan hekimlik bilim dalı (3 harf) [B238-S7]",
       "answer": "TIP"
     },
     {
@@ -174,7 +174,7 @@
       "row": 3,
       "col": 9,
       "length": 4,
-      "clue": "Şehir içinde insanların dinlenip yürüdüğü, ağaçlıklı kamusal yeşil alan.",
+      "clue": "Şehir içinde insanların dinlenip yürüdüğü, ağaçlıklı kamusal yeşil alan (4 harf) [B238-S8]",
       "answer": "PARK"
     },
     {
@@ -183,7 +183,7 @@
       "row": 5,
       "col": 0,
       "length": 5,
-      "clue": "Bir işi ya da durumu ara vermeden sürdürme, aksatmadan götürme hali.",
+      "clue": "Bir işi ya da durumu ara vermeden sürdürme, aksatmadan götürme hali (5 harf) [B238-S9]",
       "answer": "DEVAM"
     },
     {
@@ -192,7 +192,7 @@
       "row": 5,
       "col": 7,
       "length": 5,
-      "clue": "Bilinmeyen bir şeyi öğrenmek için insanın içine düşen güçlü istek.",
+      "clue": "Bilinmeyen bir şeyi öğrenmek için insanın içine düşen güçlü istek (5 harf) [B238-S10]",
       "answer": "MERAK"
     }
   ]

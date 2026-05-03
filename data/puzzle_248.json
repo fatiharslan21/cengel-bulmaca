@@ -112,7 +112,7 @@
       "row": 0,
       "col": 2,
       "length": 5,
-      "clue": "Kıtaları birbirinden ayıran, tuzlu sulardan oluşan uçsuz bucaksız kütle.",
+      "clue": "Kıtaları birbirinden ayıran, tuzlu sulardan oluşan uçsuz bucaksız kütle (5 harf) [B248-S1]",
       "answer": "DENİZ"
     },
     {
@@ -121,7 +121,7 @@
       "row": 1,
       "col": 1,
       "length": 4,
-      "clue": "Nüfusu kalabalık, altyapısı gelişmiş, şehir niteliğindeki yerleşim yeri.",
+      "clue": "Nüfusu kalabalık, altyapısı gelişmiş, şehir niteliğindeki yerleşim yeri (4 harf) [B248-S2]",
       "answer": "KENT"
     },
     {
@@ -130,7 +130,7 @@
       "row": 4,
       "col": 0,
       "length": 3,
-      "clue": "Kimyada asitle tepkimeye girerek tuz oluşturan, karşıt özellikli madde.",
+      "clue": "Kimyada asitle tepkimeye girerek tuz oluşturan, karşıt özellikli madde (3 harf) [B248-S3]",
       "answer": "BAZ"
     },
     {
@@ -139,7 +139,7 @@
       "row": 4,
       "col": 1,
       "length": 3,
-      "clue": "Birden çok rengin bir arada bulunduğu, benekli ya da karışık görünüm.",
+      "clue": "Birden çok rengin bir arada bulunduğu, benekli ya da karışık görünüm (3 harf) [B248-S4]",
       "answer": "ALA"
     },
     {
@@ -148,7 +148,7 @@
       "row": 5,
       "col": 3,
       "length": 6,
-      "clue": "Geniş kanatlarıyla yükseklerde süzülen, keskin gözlü yırtıcı büyük kuş.",
+      "clue": "Geniş kanatlarıyla yükseklerde süzülen, keskin gözlü yırtıcı büyük kuş (6 harf) [B248-S5]",
       "answer": "KARTAL"
     },
     {
@@ -157,7 +157,7 @@
       "row": 6,
       "col": 0,
       "length": 5,
-      "clue": "Yemeklerin servis edildiği, yuvarlak ve yassı porselen ya da cam kap.",
+      "clue": "Yemeklerin servis edildiği, yuvarlak ve yassı porselen ya da cam kap (5 harf) [B248-S6]",
       "answer": "TABAK"
     },
     {
@@ -166,7 +166,7 @@
       "row": 8,
       "col": 0,
       "length": 4,
-      "clue": "Akrep, yelkovan ve rakamlarla anı gösteren; zamanı ölçen günlük araç.",
+      "clue": "Akrep, yelkovan ve rakamlarla anı gösteren; zamanı ölçen günlük araç (4 harf) [B248-S7]",
       "answer": "SAAT"
     },
     {
@@ -175,7 +175,7 @@
       "row": 8,
       "col": 1,
       "length": 3,
-      "clue": "Halk ağzında yakışıklı, gösterişli kimse için kullanılan eski bir sözcük.",
+      "clue": "Halk ağzında yakışıklı, gösterişli kimse için kullanılan eski bir sözcük (3 harf) [B248-S8]",
       "answer": "AFİ"
     },
     {
@@ -184,7 +184,7 @@
       "row": 8,
       "col": 5,
       "length": 3,
-      "clue": "İçi kırmızı tanelerle dolu, kalın kabuklu, sonbahar aylarının meyvesi.",
+      "clue": "İçi kırmızı tanelerle dolu, kalın kabuklu, sonbahar aylarının meyvesi (3 harf) [B248-S9]",
       "answer": "NAR"
     },
     {
@@ -193,7 +193,7 @@
       "row": 9,
       "col": 3,
       "length": 4,
-      "clue": "Bir işin başında konulan, ulaşılmak istenen hedef ya da gaye.",
+      "clue": "Bir işin başında konulan, ulaşılmak istenen hedef ya da gaye (4 harf) [B248-S10]",
       "answer": "AMAÇ"
     }
   ]

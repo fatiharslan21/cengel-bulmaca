@@ -103,7 +103,7 @@
       "row": 0,
       "col": 3,
       "length": 3,
-      "clue": "İnsanı yaşatan soluk, ruh; bedenin yaşamını sürdürmesini sağlayan güç.",
+      "clue": "İnsanı yaşatan soluk, ruh; bedenin yaşamını sürdürmesini sağlayan güç (3 harf) [B214-S1]",
       "answer": "CAN"
     },
     {
@@ -112,7 +112,7 @@
       "row": 0,
       "col": 5,
       "length": 4,
-      "clue": "Hayvanların otlayıp beslenmesi için ayrılmış, doğal otlarla kaplı geniş alan.",
+      "clue": "Hayvanların otlayıp beslenmesi için ayrılmış, doğal otlarla kaplı geniş alan (4 harf) [B214-S2]",
       "answer": "MERA"
     },
     {
@@ -121,7 +121,7 @@
       "row": 1,
       "col": 2,
       "length": 4,
-      "clue": "Çorba, salata ya da yoğurt konulan, yuvarlak ve çukur küçük yemek kabı.",
+      "clue": "Çorba, salata ya da yoğurt konulan, yuvarlak ve çukur küçük yemek kabı (4 harf) [B214-S3]",
       "answer": "KASE"
     },
     {
@@ -130,7 +130,7 @@
       "row": 3,
       "col": 4,
       "length": 3,
-      "clue": "İnsanın doğduğu günden bu yana geçen toplam yıl; ömürdeki basamak.",
+      "clue": "İnsanın doğduğu günden bu yana geçen toplam yıl; ömürdeki basamak (3 harf) [B214-S4]",
       "answer": "YAŞ"
     },
     {
@@ -139,7 +139,7 @@
       "row": 3,
       "col": 4,
       "length": 4,
-      "clue": "Eskiyip yırtılan giysiyi onarmak için üstüne dikilen küçük kumaş parçası.",
+      "clue": "Eskiyip yırtılan giysiyi onarmak için üstüne dikilen küçük kumaş parçası (4 harf) [B214-S4]",
       "answer": "YAMA"
     },
     {
@@ -148,7 +148,7 @@
       "row": 4,
       "col": 2,
       "length": 3,
-      "clue": "Soyun büyüklerinden sayılan dede ya da daha öncesinden gelen büyük.",
+      "clue": "Soyun büyüklerinden sayılan dede ya da daha öncesinden gelen büyük (3 harf) [B214-S5]",
       "answer": "ATA"
     },
     {
@@ -157,7 +157,7 @@
       "row": 5,
       "col": 4,
       "length": 4,
-      "clue": "Üzerinde yemek yemek ya da çalışmak için kullanılan ayaklı düz mobilya.",
+      "clue": "Üzerinde yemek yemek ya da çalışmak için kullanılan ayaklı düz mobilya (4 harf) [B214-S6]",
       "answer": "MASA"
     },
     {
@@ -166,7 +166,7 @@
       "row": 5,
       "col": 7,
       "length": 4,
-      "clue": "Kırda ya da ormanda silahla veya tuzakla av peşinde koşan kişi.",
+      "clue": "Kırda ya da ormanda silahla veya tuzakla av peşinde koşan kişi (4 harf) [B214-S7]",
       "answer": "AVCI"
     },
     {
@@ -175,7 +175,7 @@
       "row": 6,
       "col": 0,
       "length": 5,
-      "clue": "Üzerinde yaşadığımız, Güneş'in çevresinde dönen mavi yeşil gezegen.",
+      "clue": "Üzerinde yaşadığımız, Güneş'in çevresinde dönen mavi yeşil gezegen (5 harf) [B214-S8]",
       "answer": "DÜNYA"
     },
     {
@@ -184,7 +184,7 @@
       "row": 6,
       "col": 3,
       "length": 3,
-      "clue": "İki yerleşim birimini birbirine bağlayan; üzerinde gidilen döşeli güzergâh.",
+      "clue": "İki yerleşim birimini birbirine bağlayan; üzerinde gidilen döşeli güzergâh (3 harf) [B214-S9]",
       "answer": "YOL"
     }
   ]

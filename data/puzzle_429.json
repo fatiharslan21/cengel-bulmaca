@@ -145,7 +145,7 @@
       "row": 0,
       "col": 3,
       "length": 5,
-      "clue": "Aynı ortak özellikleri paylaşan kişilerden oluşan topluluk; grup.",
+      "clue": "Aynı ortak özellikleri paylaşan kişilerden oluşan topluluk; grup (5 harf) [B429-S1]",
       "answer": "ZÜMRE"
     },
     {
@@ -154,7 +154,7 @@
       "row": 0,
       "col": 7,
       "length": 4,
-      "clue": "Kabuğu kırmızı, sarı ya da yeşil olabilen, sulu ve çıtır meyve.",
+      "clue": "Kabuğu kırmızı, sarı ya da yeşil olabilen, sulu ve çıtır meyve (4 harf) [B429-S2]",
       "answer": "ELMA"
     },
     {
@@ -163,7 +163,7 @@
       "row": 1,
       "col": 1,
       "length": 4,
-      "clue": "Maddi olanın üstünde, manevi değerlerle ilgili; kutsal niteliği bulunan.",
+      "clue": "Maddi olanın üstünde, manevi değerlerle ilgili; kutsal niteliği bulunan (4 harf) [B429-S3]",
       "answer": "ULVİ"
     },
     {
@@ -172,7 +172,7 @@
       "row": 2,
       "col": 4,
       "length": 6,
-      "clue": "Bir işi başarmak için katlanılan güçlük; çekilen eziyet.",
+      "clue": "Bir işi başarmak için katlanılan güçlük; çekilen eziyet (6 harf) [B429-S4]",
       "answer": "ZAHMET"
     },
     {
@@ -181,7 +181,7 @@
       "row": 2,
       "col": 5,
       "length": 4,
-      "clue": "Karşısına geçenin görüntüsünü aynen yansıtan sırlanmış cam yüzey.",
+      "clue": "Karşısına geçenin görüntüsünü aynen yansıtan sırlanmış cam yüzey (4 harf) [B429-S5]",
       "answer": "AYNA"
     },
     {
@@ -190,7 +190,7 @@
       "row": 2,
       "col": 9,
       "length": 7,
-      "clue": "Acıklı bir olay karşısında insanın içine çöken derin hüzün.",
+      "clue": "Acıklı bir olay karşısında insanın içine çöken derin hüzün (7 harf) [B429-S6]",
       "answer": "TEESSÜR"
     },
     {
@@ -199,7 +199,7 @@
       "row": 4,
       "col": 0,
       "length": 6,
-      "clue": "Sevgiliden uzak düşmenin yürekte açtığı derin ayrılık acısı.",
+      "clue": "Sevgiliden uzak düşmenin yürekte açtığı derin ayrılık acısı (6 harf) [B429-S7]",
       "answer": "HİCRAN"
     },
     {
@@ -208,7 +208,7 @@
       "row": 5,
       "col": 5,
       "length": 3,
-      "clue": "Bir hastalığa karşı bağışıklık kazandırmak için vücuda verilen ilaç.",
+      "clue": "Bir hastalığa karşı bağışıklık kazandırmak için vücuda verilen ilaç (3 harf) [B429-S8]",
       "answer": "AŞI"
     },
     {
@@ -217,7 +217,7 @@
       "row": 5,
       "col": 6,
       "length": 6,
-      "clue": "Zayıfa ve çaresize duyulan içten sevgi; acıyarak sarılma duygusu.",
+      "clue": "Zayıfa ve çaresize duyulan içten sevgi; acıyarak sarılma duygusu (6 harf) [B429-S9]",
       "answer": "ŞEFKAT"
     },
     {
@@ -226,7 +226,7 @@
       "row": 9,
       "col": 5,
       "length": 3,
-      "clue": "Dört mevsimin en sıcağı; okulların kapandığı, tatillerin geldiği zaman.",
+      "clue": "Dört mevsimin en sıcağı; okulların kapandığı, tatillerin geldiği zaman (3 harf) [B429-S10]",
       "answer": "YAZ"
     }
   ]

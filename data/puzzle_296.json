@@ -117,7 +117,7 @@
       "row": 0,
       "col": 2,
       "length": 4,
-      "clue": "Suç işleyen kimseye, yaptığının karşılığı olarak verilen yaptırım.",
+      "clue": "Suç işleyen kimseye, yaptığının karşılığı olarak verilen yaptırım (4 harf) [B296-S1]",
       "answer": "CEZA"
     },
     {
@@ -126,7 +126,7 @@
       "row": 1,
       "col": 1,
       "length": 5,
-      "clue": "Birbirini gören iki kişinin hal hatır sormak için söylediği esenlik dileği.",
+      "clue": "Birbirini gören iki kişinin hal hatır sormak için söylediği esenlik dileği (5 harf) [B296-S2]",
       "answer": "SELAM"
     },
     {
@@ -135,7 +135,7 @@
       "row": 3,
       "col": 1,
       "length": 5,
-      "clue": "Saniyelerden yıllara uzanan; akıp giden, geri döndürülemeyen zaman.",
+      "clue": "Saniyelerden yıllara uzanan; akıp giden, geri döndürülemeyen zaman (5 harf) [B296-S3]",
       "answer": "VAKİT"
     },
     {
@@ -144,7 +144,7 @@
       "row": 3,
       "col": 3,
       "length": 4,
-      "clue": "Toprağın üstünde ya da altında bulunan, kolay parçalanmayan büyük taş.",
+      "clue": "Toprağın üstünde ya da altında bulunan, kolay parçalanmayan büyük taş (4 harf) [B296-S4]",
       "answer": "KAYA"
     },
     {
@@ -153,7 +153,7 @@
       "row": 3,
       "col": 5,
       "length": 5,
-      "clue": "Bir kimsenin bir şey için yaptığı istek; dile getirilen açık dilek.",
+      "clue": "Bir kimsenin bir şey için yaptığı istek; dile getirilen açık dilek (5 harf) [B296-S5]",
       "answer": "TALEP"
     },
     {
@@ -162,7 +162,7 @@
       "row": 3,
       "col": 10,
       "length": 5,
-      "clue": "Ahlaki ölçülere bağlı kalma; namusu ve temizliği koruma hali.",
+      "clue": "Ahlaki ölçülere bağlı kalma; namusu ve temizliği koruma hali (5 harf) [B296-S6]",
       "answer": "İFFET"
     },
     {
@@ -171,7 +171,7 @@
       "row": 5,
       "col": 1,
       "length": 3,
-      "clue": "Dilin damak aracılığıyla algıladığı; acı, ekşi, tuzlu gibi duyusal nitelik.",
+      "clue": "Dilin damak aracılığıyla algıladığı; acı, ekşi, tuzlu gibi duyusal nitelik (3 harf) [B296-S7]",
       "answer": "TAT"
     },
     {
@@ -180,7 +180,7 @@
       "row": 5,
       "col": 8,
       "length": 3,
-      "clue": "Üzerinde nokta bulunan, oyunlarda atılan altı yüzlü küçük küp.",
+      "clue": "Üzerinde nokta bulunan, oyunlarda atılan altı yüzlü küçük küp (3 harf) [B296-S8]",
       "answer": "ZAR"
     },
     {
@@ -189,7 +189,7 @@
       "row": 6,
       "col": 0,
       "length": 4,
-      "clue": "Uzaktan duyulan insan ya da doğa sesi; boğumlu ses dalgası.",
+      "clue": "Uzaktan duyulan insan ya da doğa sesi; boğumlu ses dalgası (4 harf) [B296-S9]",
       "answer": "SADA"
     },
     {
@@ -198,7 +198,7 @@
       "row": 6,
       "col": 5,
       "length": 6,
-      "clue": "Kuşaktan kuşağa sözlü aktarılan, olağanüstü öğelerle süslenmiş hikâye.",
+      "clue": "Kuşaktan kuşağa sözlü aktarılan, olağanüstü öğelerle süslenmiş hikâye (6 harf) [B296-S10]",
       "answer": "EFSANE"
     }
   ]

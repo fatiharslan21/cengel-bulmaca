@@ -169,7 +169,7 @@
       "row": 0,
       "col": 5,
       "length": 4,
-      "clue": "Bir sanatçının ya da yazarın ortaya koyduğu özgün yapıt.",
+      "clue": "Bir sanatçının ya da yazarın ortaya koyduğu özgün yapıt (4 harf) [B134-S1]",
       "answer": "ESER"
     },
     {
@@ -178,7 +178,7 @@
       "row": 3,
       "col": 3,
       "length": 3,
-      "clue": "Üzerinde durduğumuz zemin; bir olayın geçtiği konum.",
+      "clue": "Üzerinde durduğumuz zemin; bir olayın geçtiği konum (3 harf) [B134-S2]",
       "answer": "YER"
     },
     {
@@ -187,7 +187,7 @@
       "row": 3,
       "col": 4,
       "length": 6,
-      "clue": "Kuşaktan kuşağa sözlü aktarılan, olağanüstü öğelerle süslenmiş hikâye.",
+      "clue": "Kuşaktan kuşağa sözlü aktarılan, olağanüstü öğelerle süslenmiş hikâye (6 harf) [B134-S3]",
       "answer": "EFSANE"
     },
     {
@@ -196,7 +196,7 @@
       "row": 5,
       "col": 7,
       "length": 4,
-      "clue": "Yeni toplanmış, bayatlamamış; canlılığını yeni yeni yitirmemiş olan.",
+      "clue": "Yeni toplanmış, bayatlamamış; canlılığını yeni yeni yitirmemiş olan (4 harf) [B134-S4]",
       "answer": "TAZE"
     },
     {
@@ -205,7 +205,7 @@
       "row": 5,
       "col": 9,
       "length": 3,
-      "clue": "Yılın en soğuk, en karlı ve gündüzlerin en kısa olduğu dört mevsimden biri.",
+      "clue": "Yılın en soğuk, en karlı ve gündüzlerin en kısa olduğu dört mevsimden biri (3 harf) [B134-S5]",
       "answer": "KIŞ"
     },
     {
@@ -214,7 +214,7 @@
       "row": 6,
       "col": 0,
       "length": 5,
-      "clue": "Tekerlekleri üstünde insan ya da yük taşıyan motorlu kara taşıtı.",
+      "clue": "Tekerlekleri üstünde insan ya da yük taşıyan motorlu kara taşıtı (5 harf) [B134-S6]",
       "answer": "ARABA"
     },
     {
@@ -223,7 +223,7 @@
       "row": 6,
       "col": 6,
       "length": 5,
-      "clue": "Çorba, pilav gibi yemekleri ağza götürmek için kullanılan çukur sap.",
+      "clue": "Çorba, pilav gibi yemekleri ağza götürmek için kullanılan çukur sap (5 harf) [B134-S7]",
       "answer": "KAŞIK"
     },
     {
@@ -232,7 +232,7 @@
       "row": 8,
       "col": 3,
       "length": 6,
-      "clue": "Bir dairenin ya da bir alanın tam ortasında bulunan ana nokta.",
+      "clue": "Bir dairenin ya da bir alanın tam ortasında bulunan ana nokta (6 harf) [B134-S8]",
       "answer": "MERKEZ"
     },
     {
@@ -241,7 +241,7 @@
       "row": 8,
       "col": 6,
       "length": 4,
-      "clue": "Kulpundan tutularak su ya da başka sıvı taşınan derin silindirik kap.",
+      "clue": "Kulpundan tutularak su ya da başka sıvı taşınan derin silindirik kap (4 harf) [B134-S9]",
       "answer": "KOVA"
     },
     {
@@ -250,7 +250,7 @@
       "row": 11,
       "col": 5,
       "length": 3,
-      "clue": "Gözün hemen üstünde bulunan, yaklaşık yay biçimindeki kıl kümesi.",
+      "clue": "Gözün hemen üstünde bulunan, yaklaşık yay biçimindeki kıl kümesi (3 harf) [B134-S10]",
       "answer": "KAŞ"
     }
   ]

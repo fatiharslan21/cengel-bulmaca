@@ -13,7 +13,7 @@
     var STORE_SCORES = 'cb_scores_local';
     var STORE_DAILY = 'cb_daily';
 
-    var API_BASE = (window.CB_API_BASE || '').replace(/\/$/, '');
+    var API_BASE = (window.CB_API_BASE || (location.protocol.startsWith('http') ? (location.protocol + '//' + location.hostname + ':8787') : '')).replace(/\/$/, '');
     var backendChecked = false;
     var backendAvailable = false;
 
@@ -80,8 +80,8 @@
     }
     function saveDB(db){ localStorage.setItem(STORE_DB, JSON.stringify(db)); }
 
-    function userTemplate(username, passHash){
-        return { username: username, passHash: passHash, createdAt: Date.now(), updatedAt: Date.now(), puzzles:{}, daily:{}, totalScore:0, completedCount:0 };
+    function userTemplate(username){
+        return { username: username, createdAt: Date.now(), updatedAt: Date.now(), puzzles:{}, daily:{}, totalScore:0, completedCount:0 };
     }
 
     function readUserSession(){
@@ -101,10 +101,9 @@
         notify();
     }
 
-    function validateCredentials(username, password){
+    function validateCredentials(username){
         var clean = (username || '').trim();
         if(clean.length < 3) return { ok:false, message:'Kullanıcı adı en az 3 karakter olmalı.' };
-        if((password || '').length < 4) return { ok:false, message:'Şifre en az 4 karakter olmalı.' };
         var key = normalizeName(clean);
         if(!key) return { ok:false, message:'Geçerli bir kullanıcı adı girin.' };
         return { ok:true, username: clean, key: key };
@@ -184,94 +183,38 @@
     }
 
     // ─── Public: register ───
-    async function register(username, password){
-        var v = validateCredentials(username, password);
+    async function enter(username){
+        var v = validateCredentials(username);
         if(!v.ok) return v;
-        var passHash = await hashPassword(password);
-
-        if(await initFirebase()){
-            try {
-                var existing = await fbGetUser(v.key);
-                if(existing) return { ok:false, message:'Bu kullanıcı adı zaten kayıtlı.' };
-                var rec = {
-                    username: v.username,
-                    passHash: passHash,
-                    createdAt: Date.now(),
-                    updatedAt: Date.now(),
-                    puzzles: {},
-                    daily: {},
-                    totalScore: 0,
-                    completedCount: 0
-                };
-                await fbCreateUser(v.key, rec);
-                setUserSession(v.key, v.username, rec.createdAt);
-                loadUserDataToLegacyStores(rec);
-                return { ok:true, mode:'register' };
-            } catch(err){
-                console.warn('Firestore register error:', err && err.message);
-                return { ok:false, message:'Bulut kaydı başarısız: ' + (err && err.message || 'bilinmeyen hata') };
-            }
-        }
-
-        if(await checkBackend()){
-            var remote = await apiPost('/api/register', { key:v.key, username:v.username, passHash:passHash });
-            if(!remote.ok) return remote;
-            var u = remote.user || {};
-            setUserSession(v.key, v.username, u.createdAt || Date.now());
-            loadUserDataToLegacyStores(u);
-            return { ok:true, mode:'register' };
-        }
-
-        var db = getDB();
-        if(db.users[v.key]) return { ok:false, message:'Bu kullanıcı adı zaten kayıtlı.' };
-        db.users[v.key] = userTemplate(v.username, passHash);
-        saveDB(db);
-        setUserSession(v.key, v.username, db.users[v.key].createdAt);
-        loadUserDataToLegacyStores(db.users[v.key]);
-        return { ok:true, mode:'register' };
-    }
-
-    // ─── Public: login ───
-    async function login(username, password){
-        var v = validateCredentials(username, password);
-        if(!v.ok) return v;
-        var passHash = await hashPassword(password);
 
         if(await initFirebase()){
             try {
                 var rec = await fbGetUser(v.key);
-                if(!rec) return { ok:false, message:'Kullanıcı bulunamadı. Önce kayıt ol.' };
-                if(rec.passHash !== passHash) return { ok:false, message:'Şifre hatalı.' };
-                await fbUpdateUser(v.key, { updatedAt: Date.now() });
+                if(!rec){
+                    rec = { username: v.username, createdAt: Date.now(), updatedAt: Date.now(), puzzles: {}, daily: {}, totalScore: 0, completedCount: 0 };
+                    await fbCreateUser(v.key, rec);
+                } else {
+                    rec.updatedAt = Date.now();
+                    await fbUpdateUser(v.key, { updatedAt: rec.updatedAt });
+                }
                 setUserSession(v.key, rec.username || v.username, rec.createdAt || Date.now());
                 loadUserDataToLegacyStores(rec);
-                return { ok:true, mode:'login' };
-            } catch(err){
-                console.warn('Firestore login error:', err && err.message);
-                return { ok:false, message:'Bulut girişi başarısız: ' + (err && err.message || 'bilinmeyen hata') };
-            }
+                return { ok:true, mode:'enter' };
+            } catch(err){ return { ok:false, message:'Bulut girişi başarısız: ' + (err && err.message || 'bilinmeyen hata') }; }
         }
 
         if(await checkBackend()){
-            var remote = await apiPost('/api/login', { key:v.key, passHash:passHash });
+            var remote = await apiPost('/api/enter', { key:v.key, username:v.username });
             if(!remote.ok) return remote;
             var u = remote.user || {};
             setUserSession(v.key, u.username || v.username, u.createdAt || Date.now());
             loadUserDataToLegacyStores(u);
-            return { ok:true, mode:'login' };
+            return { ok:true, mode:'enter' };
         }
 
-        var db = getDB();
-        var rec2 = db.users[v.key];
-        if(!rec2) return { ok:false, message:'Kullanıcı bulunamadı. Önce kayıt ol.' };
-        if(rec2.passHash !== passHash) return { ok:false, message:'Şifre hatalı.' };
-        rec2.updatedAt = Date.now();
-        db.users[v.key] = rec2;
-        saveDB(db);
-        setUserSession(v.key, rec2.username || v.username, rec2.createdAt || Date.now());
-        loadUserDataToLegacyStores(rec2);
-        return { ok:true, mode:'login' };
+        return { ok:false, message:'Sunucuya bağlanılamadı. Farklı cihazlardan ortak skor için backend erişimi zorunlu.' };
     }
+
 
     // ─── Public: saveScore ───
     async function saveScore(puzzleId, score, time, hints, difficulty, dailyKey){
@@ -290,7 +233,7 @@
                 var rec = await fbGetUser(currentUser.key);
                 if(!rec){
                     // Profil yoksa asgari bir profil oluştur (beklenmedik durum).
-                    rec = { username: currentUser.name || currentUser.key, passHash: '', createdAt: Date.now(), updatedAt: Date.now(), puzzles:{}, daily:{}, totalScore:0, completedCount:0 };
+                    rec = { username: currentUser.name || currentUser.key, createdAt: Date.now(), updatedAt: Date.now(), puzzles:{}, daily:{}, totalScore:0, completedCount:0 };
                 }
                 if(!rec.puzzles) rec.puzzles = {};
                 if(!rec.daily) rec.daily = {};
@@ -309,6 +252,7 @@
                 rec.updatedAt = Date.now();
                 await fbUpdateUser(currentUser.key, rec);
                 loadUserDataToLegacyStores(rec);
+                window.dispatchEvent(new CustomEvent('cbLeaderboardUpdated'));
                 return;
             } catch(err){
                 console.warn('Firestore saveScore error:', err && err.message);
@@ -327,27 +271,11 @@
                 dailyKey: dailyKey || null
             });
             if(remote.ok && remote.user) loadUserDataToLegacyStores(remote.user);
+            window.dispatchEvent(new CustomEvent('cbLeaderboardUpdated'));
             return;
         }
 
-        var db = getDB();
-        var local = db.users[currentUser.key] || userTemplate(currentUser.name || currentUser.key, '');
-        if(!local.puzzles) local.puzzles = {};
-        if(!local.daily) local.daily = {};
-        if(!local.puzzles[pid] || (local.puzzles[pid].score || 0) < entry.score) local.puzzles[pid] = entry;
-        if(dailyKey){
-            var dkk = String(dailyKey);
-            if(!local.daily[dkk] || (local.daily[dkk].score || 0) < entry.score){
-                local.daily[dkk] = { score: entry.score, time: entry.time, hints: entry.hints, id: puzzleId, completedAt: entry.completedAt };
-            }
-        }
-        var vs = Object.values(local.puzzles);
-        local.totalScore = vs.reduce(function(s, x){ return s + (x.score || 0); }, 0);
-        local.completedCount = vs.length;
-        local.updatedAt = Date.now();
-        db.users[currentUser.key] = local;
-        saveDB(db);
-        loadUserDataToLegacyStores(local);
+        console.warn('saveScore skipped: backend/firestore unavailable, ortak leaderboard güncellenemedi.');
     }
 
     // ─── Public: getLeaderboard ───
@@ -381,12 +309,7 @@
             if(remote && Array.isArray(remote.leaderboard)) return remote.leaderboard;
         }
 
-        var db = getDB();
-        var local = Object.keys(db.users).map(function(k){
-            var u = db.users[k] || {};
-            return { uid:k, name:u.username || k, totalScore:u.totalScore || 0, completedCount:u.completedCount || 0 };
-        }).sort(function(a, b){ return (b.totalScore || 0) - (a.totalScore || 0); });
-        return local.slice(0, n);
+        return []; // ortak skor için backend/firestore şart
     }
 
     function signOut(){
@@ -425,8 +348,9 @@
     });
 
     window.CBAuth = {
-        register: register,
-        login: login,
+        register: enter,
+        login: enter,
+        enter: enter,
         signOut: signOut,
         getUser: function(){ return currentUser; },
         isLoggedIn: function(){ return !!(currentUser && currentUser.key); },
@@ -441,7 +365,7 @@
         isBackendReady: function(){ return backendAvailable; }
     };
 
-    // Firebase yoksa, mevcut session için backend/localStorage'tan senkronla.
+    // Firebase yoksa, mevcut session için yalnız backend'ten senkronla.
     if(currentUser && currentUser.key){
         initFirebase().then(function(ok){
             if(ok) return; // yukarıda ele alındı
@@ -450,10 +374,6 @@
                     apiGet('/api/user/' + encodeURIComponent(currentUser.key)).then(function(res){
                         if(res && res.user){ loadUserDataToLegacyStores(res.user); }
                     });
-                } else {
-                    var db = getDB();
-                    var rec = db.users[currentUser.key];
-                    if(rec) loadUserDataToLegacyStores(rec);
                 }
             });
         });

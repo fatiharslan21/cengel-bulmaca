@@ -169,7 +169,7 @@
       "row": 0,
       "col": 8,
       "length": 4,
-      "clue": "Bir kesik ya da darbe sonucu bedende oluşan açık doku hasarı.",
+      "clue": "Bir kesik ya da darbe sonucu bedende oluşan açık doku hasarı (4 harf) [B206-S1]",
       "answer": "YARA"
     },
     {
@@ -178,7 +178,7 @@
       "row": 3,
       "col": 5,
       "length": 3,
-      "clue": "Tarihte belli özelliklerle ayırt edilen uzun dönem; devir, asır.",
+      "clue": "Tarihte belli özelliklerle ayırt edilen uzun dönem; devir, asır (3 harf) [B206-S2]",
       "answer": "ÇAĞ"
     },
     {
@@ -187,7 +187,7 @@
       "row": 3,
       "col": 7,
       "length": 3,
-      "clue": "İnsanın doğduğu günden bu yana geçen toplam yıl; ömürdeki basamak.",
+      "clue": "İnsanın doğduğu günden bu yana geçen toplam yıl; ömürdeki basamak (3 harf) [B206-S3]",
       "answer": "YAŞ"
     },
     {
@@ -196,7 +196,7 @@
       "row": 3,
       "col": 7,
       "length": 4,
-      "clue": "Kalemin kâğıda bıraktığı; harflerden oluşan okunabilir işaretler.",
+      "clue": "Kalemin kâğıda bıraktığı; harflerden oluşan okunabilir işaretler (4 harf) [B206-S3]",
       "answer": "YAZI"
     },
     {
@@ -205,7 +205,7 @@
       "row": 4,
       "col": 5,
       "length": 3,
-      "clue": "Eskiden köylerde geniş topraklara sahip, sözü geçen nüfuzlu kişi.",
+      "clue": "Eskiden köylerde geniş topraklara sahip, sözü geçen nüfuzlu kişi (3 harf) [B206-S4]",
       "answer": "AĞA"
     },
     {
@@ -214,7 +214,7 @@
       "row": 5,
       "col": 3,
       "length": 3,
-      "clue": "Çevresine göre belirgin biçimde yükselen, taşlık ve kayalık büyük arazi.",
+      "clue": "Çevresine göre belirgin biçimde yükselen, taşlık ve kayalık büyük arazi (3 harf) [B206-S5]",
       "answer": "DAĞ"
     },
     {
@@ -223,7 +223,7 @@
       "row": 5,
       "col": 4,
       "length": 3,
-      "clue": "Bir üstün ya da yetkilinin önüne saygıyla sunma, takdim etme eylemi.",
+      "clue": "Bir üstün ya da yetkilinin önüne saygıyla sunma, takdim etme eylemi (3 harf) [B206-S6]",
       "answer": "ARZ"
     },
     {
@@ -232,7 +232,7 @@
       "row": 6,
       "col": 1,
       "length": 6,
-      "clue": "Bir dairenin ya da bir alanın tam ortasında bulunan ana nokta.",
+      "clue": "Bir dairenin ya da bir alanın tam ortasında bulunan ana nokta (6 harf) [B206-S7]",
       "answer": "MERKEZ"
     },
     {
@@ -241,7 +241,7 @@
       "row": 7,
       "col": 0,
       "length": 5,
-      "clue": "Kıtaları birbirinden ayıran, tuzlu sulardan oluşan uçsuz bucaksız kütle.",
+      "clue": "Kıtaları birbirinden ayıran, tuzlu sulardan oluşan uçsuz bucaksız kütle (5 harf) [B206-S8]",
       "answer": "DENİZ"
     },
     {
@@ -250,7 +250,7 @@
       "row": 10,
       "col": 0,
       "length": 3,
-      "clue": "Silmek, temizlemek ya da örtmek için kullanılan dokuma kumaş parçası.",
+      "clue": "Silmek, temizlemek ya da örtmek için kullanılan dokuma kumaş parçası (3 harf) [B206-S9]",
       "answer": "BEZ"
     }
   ]

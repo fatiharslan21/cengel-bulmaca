@@ -103,7 +103,7 @@
       "row": 0,
       "col": 2,
       "length": 3,
-      "clue": "Hastalıkların tanısı ve iyileştirilmesiyle uğraşan hekimlik bilim dalı.",
+      "clue": "Hastalıkların tanısı ve iyileştirilmesiyle uğraşan hekimlik bilim dalı (3 harf) [B124-S1]",
       "answer": "TIP"
     },
     {
@@ -112,7 +112,7 @@
       "row": 0,
       "col": 4,
       "length": 4,
-      "clue": "Fırında pişirilen, üstüne malzeme serilen, ince ve yassı hamur işi.",
+      "clue": "Fırında pişirilen, üstüne malzeme serilen, ince ve yassı hamur işi (4 harf) [B124-S2]",
       "answer": "PİDE"
     },
     {
@@ -121,7 +121,7 @@
       "row": 2,
       "col": 7,
       "length": 3,
-      "clue": "Üzerinde durduğumuz zemin; bir olayın geçtiği konum.",
+      "clue": "Üzerinde durduğumuz zemin; bir olayın geçtiği konum (3 harf) [B124-S3]",
       "answer": "YER"
     },
     {
@@ -130,7 +130,7 @@
       "row": 3,
       "col": 3,
       "length": 5,
-      "clue": "Bitkinin çiçeğinin olgunlaşmasıyla oluşan, genellikle yenilebilir ürün.",
+      "clue": "Bitkinin çiçeğinin olgunlaşmasıyla oluşan, genellikle yenilebilir ürün (5 harf) [B124-S4]",
       "answer": "MEYVE"
     },
     {
@@ -139,7 +139,7 @@
       "row": 3,
       "col": 5,
       "length": 3,
-      "clue": "İnsanın doğduğu günden bu yana geçen toplam yıl; ömürdeki basamak.",
+      "clue": "İnsanın doğduğu günden bu yana geçen toplam yıl; ömürdeki basamak (3 harf) [B124-S5]",
       "answer": "YAŞ"
     },
     {
@@ -148,7 +148,7 @@
       "row": 4,
       "col": 2,
       "length": 3,
-      "clue": "Bir ağacın gövdesinden yanlara doğru uzayan ve yapraklarını taşıyan kol.",
+      "clue": "Bir ağacın gövdesinden yanlara doğru uzayan ve yapraklarını taşıyan kol (3 harf) [B124-S6]",
       "answer": "DAL"
     },
     {
@@ -157,7 +157,7 @@
       "row": 5,
       "col": 2,
       "length": 4,
-      "clue": "Yanmakta olan bir maddenin çıkardığı ısı, ışık ve alevin tümü.",
+      "clue": "Yanmakta olan bir maddenin çıkardığı ısı, ışık ve alevin tümü (4 harf) [B124-S7]",
       "answer": "ATEŞ"
     },
     {
@@ -166,7 +166,7 @@
       "row": 5,
       "col": 4,
       "length": 4,
-      "clue": "Evde ya da iş yerinde gündelik hayatta kullanılan nesnelerin tümü.",
+      "clue": "Evde ya da iş yerinde gündelik hayatta kullanılan nesnelerin tümü (4 harf) [B124-S8]",
       "answer": "EŞYA"
     },
     {
@@ -175,7 +175,7 @@
       "row": 6,
       "col": 0,
       "length": 3,
-      "clue": "Karayla çevrili, deniz bağlantısı olmayan geniş durgun su birikintisi.",
+      "clue": "Karayla çevrili, deniz bağlantısı olmayan geniş durgun su birikintisi (3 harf) [B124-S9]",
       "answer": "GÖL"
     }
   ]

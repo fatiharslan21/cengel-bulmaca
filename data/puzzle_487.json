@@ -181,7 +181,7 @@
       "row": 0,
       "col": 7,
       "length": 5,
-      "clue": "Kötü bakışın bir kimseye uğursuzluk getireceğine duyulan halk inancı.",
+      "clue": "Kötü bakışın bir kimseye uğursuzluk getireceğine duyulan halk inancı (5 harf) [B487-S1]",
       "answer": "NAZAR"
     },
     {
@@ -190,7 +190,7 @@
       "row": 1,
       "col": 7,
       "length": 3,
-      "clue": "İki şeyin birbirinden ayrıldığı boşluk; kısa mola süresi.",
+      "clue": "İki şeyin birbirinden ayrıldığı boşluk; kısa mola süresi (3 harf) [B487-S2]",
       "answer": "ARA"
     },
     {
@@ -199,7 +199,7 @@
       "row": 3,
       "col": 4,
       "length": 4,
-      "clue": "İnsanın boynunun üst kısmında bulunan, düşünmenin merkezi olan baş.",
+      "clue": "İnsanın boynunun üst kısmında bulunan, düşünmenin merkezi olan baş (4 harf) [B487-S3]",
       "answer": "KAFA"
     },
     {
@@ -208,7 +208,7 @@
       "row": 3,
       "col": 4,
       "length": 5,
-      "clue": "İnsana sadakatiyle bilinen, havlayarak seslenen evcil dört ayaklı.",
+      "clue": "İnsana sadakatiyle bilinen, havlayarak seslenen evcil dört ayaklı (5 harf) [B487-S3]",
       "answer": "KÖPEK"
     },
     {
@@ -217,7 +217,7 @@
       "row": 4,
       "col": 7,
       "length": 5,
-      "clue": "Aynı amaca ulaşmak için karşı karşıya gelen, yarış halindeki hasım.",
+      "clue": "Aynı amaca ulaşmak için karşı karşıya gelen, yarış halindeki hasım (5 harf) [B487-S4]",
       "answer": "RAKİP"
     },
     {
@@ -226,7 +226,7 @@
       "row": 4,
       "col": 8,
       "length": 4,
-      "clue": "Karşısına geçenin görüntüsünü aynen yansıtan sırlanmış cam yüzey.",
+      "clue": "Karşısına geçenin görüntüsünü aynen yansıtan sırlanmış cam yüzey (4 harf) [B487-S5]",
       "answer": "AYNA"
     },
     {
@@ -235,7 +235,7 @@
       "row": 5,
       "col": 0,
       "length": 5,
-      "clue": "Çölde ya da sıcakta gerçekte olmayan bir görüntü olarak algılanan yanılsama.",
+      "clue": "Çölde ya da sıcakta gerçekte olmayan bir görüntü olarak algılanan yanılsama (5 harf) [B487-S6]",
       "answer": "SERAP"
     },
     {
@@ -244,7 +244,7 @@
       "row": 7,
       "col": 6,
       "length": 4,
-      "clue": "Hastalıkları iyileştirmek amacıyla hazırlanan, doktor tarafından verilen madde.",
+      "clue": "Hastalıkları iyileştirmek amacıyla hazırlanan, doktor tarafından verilen madde (4 harf) [B487-S7]",
       "answer": "İLAÇ"
     },
     {
@@ -253,7 +253,7 @@
       "row": 7,
       "col": 7,
       "length": 5,
-      "clue": "Karşılık beklemeden yapılan iyilik; bir büyüğün bahşettiği ihsan.",
+      "clue": "Karşılık beklemeden yapılan iyilik; bir büyüğün bahşettiği ihsan (5 harf) [B487-S8]",
       "answer": "LÜTUF"
     },
     {
@@ -262,7 +262,7 @@
       "row": 10,
       "col": 6,
       "length": 3,
-      "clue": "Gövdesi tüylerle kaplı, kanatları yardımıyla uçabilen yumurtlayan canlı.",
+      "clue": "Gövdesi tüylerle kaplı, kanatları yardımıyla uçabilen yumurtlayan canlı (3 harf) [B487-S9]",
       "answer": "KUŞ"
     }
   ]

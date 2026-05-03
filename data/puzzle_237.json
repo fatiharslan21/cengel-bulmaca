@@ -143,7 +143,7 @@
       "row": 0,
       "col": 10,
       "length": 5,
-      "clue": "Mutfağa giren, bitki kökleri ve yapraklarından oluşan yenilebilir besin.",
+      "clue": "Mutfağa giren, bitki kökleri ve yapraklarından oluşan yenilebilir besin (5 harf) [B237-S1]",
       "answer": "SEBZE"
     },
     {
@@ -152,7 +152,7 @@
       "row": 1,
       "col": 7,
       "length": 4,
-      "clue": "Sayılabilen nesnelerin her biri; küçük parça ya da adet.",
+      "clue": "Sayılabilen nesnelerin her biri; küçük parça ya da adet (4 harf) [B237-S2]",
       "answer": "TANE"
     },
     {
@@ -161,7 +161,7 @@
       "row": 3,
       "col": 8,
       "length": 3,
-      "clue": "Konuşan kişinin kendisini belirtmek için kullandığı birinci tekil zamir.",
+      "clue": "Konuşan kişinin kendisini belirtmek için kullandığı birinci tekil zamir (3 harf) [B237-S3]",
       "answer": "BEN"
     },
     {
@@ -170,7 +170,7 @@
       "row": 3,
       "col": 8,
       "length": 3,
-      "clue": "Suyun sıfır derecenin altına inerek katılaşmasıyla meydana gelen madde.",
+      "clue": "Suyun sıfır derecenin altına inerek katılaşmasıyla meydana gelen madde (3 harf) [B237-S3]",
       "answer": "BUZ"
     },
     {
@@ -179,7 +179,7 @@
       "row": 5,
       "col": 4,
       "length": 5,
-      "clue": "Güneşin doğmasıyla başlayıp öğleye kadar süren günün ilk dilimi.",
+      "clue": "Güneşin doğmasıyla başlayıp öğleye kadar süren günün ilk dilimi (5 harf) [B237-S4]",
       "answer": "SABAH"
     },
     {
@@ -188,7 +188,7 @@
       "row": 5,
       "col": 6,
       "length": 4,
-      "clue": "Gökyüzündeki yıldız öbeklerinin oluşturduğu, astrolojide kullanılan imge.",
+      "clue": "Gökyüzündeki yıldız öbeklerinin oluşturduğu, astrolojide kullanılan imge (4 harf) [B237-S5]",
       "answer": "BURÇ"
     },
     {
@@ -197,7 +197,7 @@
       "row": 5,
       "col": 6,
       "length": 3,
-      "clue": "Yüzlerin onunun bir araya gelmesiyle oluşan dört basamaklı sayı.",
+      "clue": "Yüzlerin onunun bir araya gelmesiyle oluşan dört basamaklı sayı (3 harf) [B237-S5]",
       "answer": "BİN"
     },
     {
@@ -206,7 +206,7 @@
       "row": 6,
       "col": 2,
       "length": 3,
-      "clue": "İğne ya da tığla işlenen, başörtüsü kenarını süsleyen ince el işi.",
+      "clue": "İğne ya da tığla işlenen, başörtüsü kenarını süsleyen ince el işi (3 harf) [B237-S6]",
       "answer": "OYA"
     },
     {
@@ -215,7 +215,7 @@
       "row": 7,
       "col": 4,
       "length": 3,
-      "clue": "Sayıların başlangıcı olan, tek adedi gösteren ilk doğal rakam.",
+      "clue": "Sayıların başlangıcı olan, tek adedi gösteren ilk doğal rakam (3 harf) [B237-S7]",
       "answer": "BİR"
     },
     {
@@ -224,7 +224,7 @@
       "row": 8,
       "col": 0,
       "length": 5,
-      "clue": "Üzerinde buğday, arpa ya da sebze yetiştirilen sürülmüş geniş toprak.",
+      "clue": "Üzerinde buğday, arpa ya da sebze yetiştirilen sürülmüş geniş toprak (5 harf) [B237-S8]",
       "answer": "TARLA"
     }
   ]

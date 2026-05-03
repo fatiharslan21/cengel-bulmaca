@@ -145,7 +145,7 @@
       "row": 0,
       "col": 1,
       "length": 4,
-      "clue": "Başımızın üstünde uzanan mavi kubbe; yıldızları barındıran gökyüzü.",
+      "clue": "Başımızın üstünde uzanan mavi kubbe; yıldızları barındıran gökyüzü (4 harf) [B428-S1]",
       "answer": "SEMA"
     },
     {
@@ -154,7 +154,7 @@
       "row": 0,
       "col": 2,
       "length": 3,
-      "clue": "Metal ya da tırnak gibi sert yüzeyleri aşındırarak düzelten dişli alet.",
+      "clue": "Metal ya da tırnak gibi sert yüzeyleri aşındırarak düzelten dişli alet (3 harf) [B428-S2]",
       "answer": "EĞE"
     },
     {
@@ -163,7 +163,7 @@
       "row": 2,
       "col": 0,
       "length": 4,
-      "clue": "Gönle çöken derin üzüntü, insanı içten içe yiyen keder.",
+      "clue": "Gönle çöken derin üzüntü, insanı içten içe yiyen keder (4 harf) [B428-S3]",
       "answer": "ELEM"
     },
     {
@@ -172,7 +172,7 @@
       "row": 2,
       "col": 0,
       "length": 5,
-      "clue": "Belirlenen vaktin öncesinde gelme; geç kalmanın tersi durumu.",
+      "clue": "Belirlenen vaktin öncesinde gelme; geç kalmanın tersi durumu (5 harf) [B428-S3]",
       "answer": "ERKEN"
     },
     {
@@ -181,7 +181,7 @@
       "row": 2,
       "col": 3,
       "length": 5,
-      "clue": "Yumuşak huylu, kolay geçinilen; sert tavır göstermeyen uysal kimse.",
+      "clue": "Yumuşak huylu, kolay geçinilen; sert tavır göstermeyen uysal kimse (5 harf) [B428-S4]",
       "answer": "MUNİS"
     },
     {
@@ -190,7 +190,7 @@
       "row": 4,
       "col": 6,
       "length": 4,
-      "clue": "Üzerinde yemek yemek ya da çalışmak için kullanılan ayaklı düz mobilya.",
+      "clue": "Üzerinde yemek yemek ya da çalışmak için kullanılan ayaklı düz mobilya (4 harf) [B428-S5]",
       "answer": "MASA"
     },
     {
@@ -199,7 +199,7 @@
       "row": 5,
       "col": 2,
       "length": 6,
-      "clue": "Sevgiliden uzak düşmenin yürekte açtığı derin ayrılık acısı.",
+      "clue": "Sevgiliden uzak düşmenin yürekte açtığı derin ayrılık acısı (6 harf) [B428-S6]",
       "answer": "HİCRAN"
     },
     {
@@ -208,7 +208,7 @@
       "row": 6,
       "col": 8,
       "length": 4,
-      "clue": "İnsanın başına gelenleri belirlediğine inanılan şans, talih ya da kader.",
+      "clue": "İnsanın başına gelenleri belirlediğine inanılan şans, talih ya da kader (4 harf) [B428-S7]",
       "answer": "BAHT"
     },
     {
@@ -217,7 +217,7 @@
       "row": 7,
       "col": 5,
       "length": 4,
-      "clue": "İstemeden yapılan yanlış; doğru olandan sapmanın yol açtığı kusur.",
+      "clue": "İstemeden yapılan yanlış; doğru olandan sapmanın yol açtığı kusur (4 harf) [B428-S8]",
       "answer": "HATA"
     },
     {
@@ -226,7 +226,7 @@
       "row": 7,
       "col": 5,
       "length": 5,
-      "clue": "İç sıkıntısının olmadığı, gönlün rahat ettiği dingin ruh hali.",
+      "clue": "İç sıkıntısının olmadığı, gönlün rahat ettiği dingin ruh hali (5 harf) [B428-S8]",
       "answer": "HUZUR"
     }
   ]

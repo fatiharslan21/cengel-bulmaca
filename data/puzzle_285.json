@@ -145,7 +145,7 @@
       "row": 0,
       "col": 1,
       "length": 3,
-      "clue": "Bir ağacın gövdesinden yanlara doğru uzayan ve yapraklarını taşıyan kol.",
+      "clue": "Bir ağacın gövdesinden yanlara doğru uzayan ve yapraklarını taşıyan kol (3 harf) [B285-S1]",
       "answer": "DAL"
     },
     {
@@ -154,7 +154,7 @@
       "row": 0,
       "col": 3,
       "length": 4,
-      "clue": "Çorba, salata ya da yoğurt konulan, yuvarlak ve çukur küçük yemek kabı.",
+      "clue": "Çorba, salata ya da yoğurt konulan, yuvarlak ve çukur küçük yemek kabı (4 harf) [B285-S2]",
       "answer": "KASE"
     },
     {
@@ -163,7 +163,7 @@
       "row": 0,
       "col": 3,
       "length": 4,
-      "clue": "Kulpundan tutularak su ya da başka sıvı taşınan derin silindirik kap.",
+      "clue": "Kulpundan tutularak su ya da başka sıvı taşınan derin silindirik kap (4 harf) [B285-S2]",
       "answer": "KOVA"
     },
     {
@@ -172,7 +172,7 @@
       "row": 1,
       "col": 0,
       "length": 4,
-      "clue": "Ayıp sayılan bir şey karşısında insanın yüzünü kızartan çekinme duygusu.",
+      "clue": "Ayıp sayılan bir şey karşısında insanın yüzünü kızartan çekinme duygusu (4 harf) [B285-S3]",
       "answer": "HAYA"
     },
     {
@@ -181,7 +181,7 @@
       "row": 2,
       "col": 6,
       "length": 4,
-      "clue": "Niteliği kötü olan, insanın içini bunaltan; iyi sözcüğünün zıttı.",
+      "clue": "Niteliği kötü olan, insanın içini bunaltan; iyi sözcüğünün zıttı (4 harf) [B285-S4]",
       "answer": "FENA"
     },
     {
@@ -190,7 +190,7 @@
       "row": 3,
       "col": 2,
       "length": 5,
-      "clue": "Yelkenli ya da motorlu olup denizde kısa yolculuklara çıkan küçük gemi.",
+      "clue": "Yelkenli ya da motorlu olup denizde kısa yolculuklara çıkan küçük gemi (5 harf) [B285-S5]",
       "answer": "TEKNE"
     },
     {
@@ -199,7 +199,7 @@
       "row": 4,
       "col": 9,
       "length": 6,
-      "clue": "Yer kabuğunun kırılmasıyla meydana gelen, yüzeyi sarsan doğal olay.",
+      "clue": "Yer kabuğunun kırılmasıyla meydana gelen, yüzeyi sarsan doğal olay (6 harf) [B285-S6]",
       "answer": "DEPREM"
     },
     {
@@ -208,7 +208,7 @@
       "row": 5,
       "col": 5,
       "length": 3,
-      "clue": "Yaptıklarıyla uzaklarda bile tanınıp bilinir olmanın verdiği büyük ün.",
+      "clue": "Yaptıklarıyla uzaklarda bile tanınıp bilinir olmanın verdiği büyük ün (3 harf) [B285-S7]",
       "answer": "ŞAN"
     },
     {
@@ -217,7 +217,7 @@
       "row": 5,
       "col": 7,
       "length": 6,
-      "clue": "Harcanan çabaya değmeyen; hiçbir yarar sağlamayan boş uğraş.",
+      "clue": "Harcanan çabaya değmeyen; hiçbir yarar sağlamayan boş uğraş (6 harf) [B285-S8]",
       "answer": "NAFİLE"
     },
     {
@@ -226,7 +226,7 @@
       "row": 9,
       "col": 5,
       "length": 5,
-      "clue": "Ağızdan çıkan söz; düşüncenin dille ifade bulmuş hali.",
+      "clue": "Ağızdan çıkan söz; düşüncenin dille ifade bulmuş hali (5 harf) [B285-S9]",
       "answer": "KELAM"
     }
   ]

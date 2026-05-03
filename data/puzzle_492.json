@@ -139,7 +139,7 @@
       "row": 0,
       "col": 4,
       "length": 4,
-      "clue": "Bir ailenin oturduğu ev; aynı zamanda sayıdaki basamak anlamı taşır.",
+      "clue": "Bir ailenin oturduğu ev; aynı zamanda sayıdaki basamak anlamı taşır (4 harf) [B492-S1]",
       "answer": "HANE"
     },
     {
@@ -148,7 +148,7 @@
       "row": 1,
       "col": 3,
       "length": 3,
-      "clue": "İçine sıvı ya da katı maddeler konulan her türlü şekilli eşya.",
+      "clue": "İçine sıvı ya da katı maddeler konulan her türlü şekilli eşya (3 harf) [B492-S2]",
       "answer": "KAP"
     },
     {
@@ -157,7 +157,7 @@
       "row": 1,
       "col": 7,
       "length": 5,
-      "clue": "Etraf çınlayarak susma; hiçbir ses çıkmayan derin sessizlik.",
+      "clue": "Etraf çınlayarak susma; hiçbir ses çıkmayan derin sessizlik (5 harf) [B492-S3]",
       "answer": "SUKUT"
     },
     {
@@ -166,7 +166,7 @@
       "row": 3,
       "col": 3,
       "length": 5,
-      "clue": "Dinlerde iyilikle görevlendirilmiş, kanatlı olduğuna inanılan kutsal varlık.",
+      "clue": "Dinlerde iyilikle görevlendirilmiş, kanatlı olduğuna inanılan kutsal varlık (5 harf) [B492-S4]",
       "answer": "MELEK"
     },
     {
@@ -175,7 +175,7 @@
       "row": 3,
       "col": 3,
       "length": 6,
-      "clue": "Dinde kıyamet sonrası ölülerin toplanacağına inanılan büyük buluşma yeri.",
+      "clue": "Dinde kıyamet sonrası ölülerin toplanacağına inanılan büyük buluşma yeri (6 harf) [B492-S4]",
       "answer": "MAHŞER"
     },
     {
@@ -184,7 +184,7 @@
       "row": 4,
       "col": 0,
       "length": 4,
-      "clue": "Beyazın tam zıttı olan, gölgeleri bile koyulaştıran siyah ton.",
+      "clue": "Beyazın tam zıttı olan, gölgeleri bile koyulaştıran siyah ton (4 harf) [B492-S5]",
       "answer": "KARA"
     },
     {
@@ -193,7 +193,7 @@
       "row": 4,
       "col": 10,
       "length": 4,
-      "clue": "Karanlığı dağıtan; göze hoş gelen aydınlatıcı parıltı.",
+      "clue": "Karanlığı dağıtan; göze hoş gelen aydınlatıcı parıltı (4 harf) [B492-S6]",
       "answer": "ZİYA"
     },
     {
@@ -202,7 +202,7 @@
       "row": 5,
       "col": 7,
       "length": 5,
-      "clue": "İnsanın ömür boyu karşılaştığı iyi ya da kötü raslantıların tümü; baht.",
+      "clue": "İnsanın ömür boyu karşılaştığı iyi ya da kötü raslantıların tümü; baht (5 harf) [B492-S7]",
       "answer": "TALİH"
     },
     {
@@ -211,7 +211,7 @@
       "row": 6,
       "col": 3,
       "length": 4,
-      "clue": "İçten doğan büyük istek; insanı coşturan şiddetli arzu ve heves.",
+      "clue": "İçten doğan büyük istek; insanı coşturan şiddetli arzu ve heves (4 harf) [B492-S8]",
       "answer": "ŞEVK"
     },
     {
@@ -220,7 +220,7 @@
       "row": 7,
       "col": 7,
       "length": 5,
-      "clue": "Dayanılmaz acı anında yükselen yüksek sesli ağlama ve feryat.",
+      "clue": "Dayanılmaz acı anında yükselen yüksek sesli ağlama ve feryat (5 harf) [B492-S9]",
       "answer": "FİGAN"
     }
   ]

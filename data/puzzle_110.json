@@ -145,7 +145,7 @@
       "row": 0,
       "col": 0,
       "length": 4,
-      "clue": "Hastalıkları iyileştirmek amacıyla hazırlanan, doktor tarafından verilen madde.",
+      "clue": "Hastalıkları iyileştirmek amacıyla hazırlanan, doktor tarafından verilen madde (4 harf) [B110-S1]",
       "answer": "İLAÇ"
     },
     {
@@ -154,7 +154,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "Birbirinin eşi olan iki şeyden oluşan takım; tekin karşıtı sayı grubu.",
+      "clue": "Birbirinin eşi olan iki şeyden oluşan takım; tekin karşıtı sayı grubu (4 harf) [B110-S2]",
       "answer": "ÇİFT"
     },
     {
@@ -163,7 +163,7 @@
       "row": 3,
       "col": 3,
       "length": 4,
-      "clue": "Dağdan daha alçak, çevresine göre yüksek görünen küçük yükselti.",
+      "clue": "Dağdan daha alçak, çevresine göre yüksek görünen küçük yükselti (4 harf) [B110-S3]",
       "answer": "TEPE"
     },
     {
@@ -172,7 +172,7 @@
       "row": 4,
       "col": 6,
       "length": 5,
-      "clue": "Padişah veya hükümdarların oturduğu, görkemli mimarisi olan büyük yapı.",
+      "clue": "Padişah veya hükümdarların oturduğu, görkemli mimarisi olan büyük yapı (5 harf) [B110-S4]",
       "answer": "SARAY"
     },
     {
@@ -181,7 +181,7 @@
       "row": 4,
       "col": 6,
       "length": 3,
-      "clue": "Bir kişinin atalarından gelen kan bağı; aile kökeni ve nesli.",
+      "clue": "Bir kişinin atalarından gelen kan bağı; aile kökeni ve nesli (3 harf) [B110-S4]",
       "answer": "SOY"
     },
     {
@@ -190,7 +190,7 @@
       "row": 6,
       "col": 2,
       "length": 5,
-      "clue": "Kamıştan ya da pancardan elde edilen; çay ve tatlılara katılan tatlı madde.",
+      "clue": "Kamıştan ya da pancardan elde edilen; çay ve tatlılara katılan tatlı madde (5 harf) [B110-S5]",
       "answer": "ŞEKER"
     },
     {
@@ -199,7 +199,7 @@
       "row": 6,
       "col": 4,
       "length": 5,
-      "clue": "Çorba, pilav gibi yemekleri ağza götürmek için kullanılan çukur sap.",
+      "clue": "Çorba, pilav gibi yemekleri ağza götürmek için kullanılan çukur sap (5 harf) [B110-S6]",
       "answer": "KAŞIK"
     },
     {
@@ -208,7 +208,7 @@
       "row": 8,
       "col": 2,
       "length": 4,
-      "clue": "Sayılabilen nesnelerin her biri; küçük parça ya da adet.",
+      "clue": "Sayılabilen nesnelerin her biri; küçük parça ya da adet (4 harf) [B110-S7]",
       "answer": "TANE"
     },
     {
@@ -217,7 +217,7 @@
       "row": 9,
       "col": 1,
       "length": 4,
-      "clue": "Boyu kısa, dalları sık ve odunsu olan, çok dallı bodur bitki.",
+      "clue": "Boyu kısa, dalları sık ve odunsu olan, çok dallı bodur bitki (4 harf) [B110-S8]",
       "answer": "ÇALI"
     }
   ]

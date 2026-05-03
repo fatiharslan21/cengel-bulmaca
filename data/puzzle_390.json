@@ -145,7 +145,7 @@
       "row": 0,
       "col": 3,
       "length": 4,
-      "clue": "Dişleri sürekli uzayan, tahtayı ve kâğıdı kemirebilen küçük kemirgen.",
+      "clue": "Dişleri sürekli uzayan, tahtayı ve kâğıdı kemirebilen küçük kemirgen (4 harf) [B390-S1]",
       "answer": "FARE"
     },
     {
@@ -154,7 +154,7 @@
       "row": 1,
       "col": 3,
       "length": 3,
-      "clue": "Geçmişte yaşanmış ve zihinde iz bırakmış olayların hatırlanması.",
+      "clue": "Geçmişte yaşanmış ve zihinde iz bırakmış olayların hatırlanması (3 harf) [B390-S2]",
       "answer": "ANI"
     },
     {
@@ -163,7 +163,7 @@
       "row": 1,
       "col": 8,
       "length": 4,
-      "clue": "Müzik eserlerinde seslerin yükseklik ve uzunluğunu gösteren küçük simge.",
+      "clue": "Müzik eserlerinde seslerin yükseklik ve uzunluğunu gösteren küçük simge (4 harf) [B390-S3]",
       "answer": "NOTA"
     },
     {
@@ -172,7 +172,7 @@
       "row": 2,
       "col": 6,
       "length": 4,
-      "clue": "Din esaslarına yürekten bağlanma; kalben kabul edip inanma hali.",
+      "clue": "Din esaslarına yürekten bağlanma; kalben kabul edip inanma hali (4 harf) [B390-S4]",
       "answer": "İMAN"
     },
     {
@@ -181,7 +181,7 @@
       "row": 3,
       "col": 2,
       "length": 3,
-      "clue": "Kulağımıza ulaşan her türlü titreşim; konuşma ve müziğin temeli.",
+      "clue": "Kulağımıza ulaşan her türlü titreşim; konuşma ve müziğin temeli (3 harf) [B390-S5]",
       "answer": "SES"
     },
     {
@@ -190,7 +190,7 @@
       "row": 3,
       "col": 4,
       "length": 6,
-      "clue": "İnsan ya da kürek gücüyle suda yol alan küçük açık deniz teknesi.",
+      "clue": "İnsan ya da kürek gücüyle suda yol alan küçük açık deniz teknesi (6 harf) [B390-S6]",
       "answer": "SANDAL"
     },
     {
@@ -199,7 +199,7 @@
       "row": 4,
       "col": 4,
       "length": 5,
-      "clue": "Tekerlekleri üstünde insan ya da yük taşıyan motorlu kara taşıtı.",
+      "clue": "Tekerlekleri üstünde insan ya da yük taşıyan motorlu kara taşıtı (5 harf) [B390-S7]",
       "answer": "ARABA"
     },
     {
@@ -208,7 +208,7 @@
       "row": 6,
       "col": 3,
       "length": 3,
-      "clue": "Bir evin ya da binanın duvarlarla ayrılmış, belirli amaçla kullanılan bölümü.",
+      "clue": "Bir evin ya da binanın duvarlarla ayrılmış, belirli amaçla kullanılan bölümü (3 harf) [B390-S8]",
       "answer": "ODA"
     },
     {
@@ -217,7 +217,7 @@
       "row": 8,
       "col": 0,
       "length": 5,
-      "clue": "Hayatta yükselme, talih kuşunun başa konması; mevki sahibi olma.",
+      "clue": "Hayatta yükselme, talih kuşunun başa konması; mevki sahibi olma (5 harf) [B390-S9]",
       "answer": "İKBAL"
     },
     {
@@ -226,7 +226,7 @@
       "row": 8,
       "col": 2,
       "length": 4,
-      "clue": "Bir yüzeye sürüldüğünde ona istenilen rengi veren sıvı ya da toz madde.",
+      "clue": "Bir yüzeye sürüldüğünde ona istenilen rengi veren sıvı ya da toz madde (4 harf) [B390-S10]",
       "answer": "BOYA"
     }
   ]

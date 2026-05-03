@@ -134,7 +134,7 @@
       "row": 0,
       "col": 1,
       "length": 5,
-      "clue": "Üzerinde yaşadığımız, Güneş'in çevresinde dönen mavi yeşil gezegen.",
+      "clue": "Üzerinde yaşadığımız, Güneş'in çevresinde dönen mavi yeşil gezegen (5 harf) [B257-S1]",
       "answer": "DÜNYA"
     },
     {
@@ -143,7 +143,7 @@
       "row": 1,
       "col": 0,
       "length": 3,
-      "clue": "Bir işi yapabilme yeteneği; fiziksel ya da manevi olarak sahip olunan kuvvet.",
+      "clue": "Bir işi yapabilme yeteneği; fiziksel ya da manevi olarak sahip olunan kuvvet (3 harf) [B257-S2]",
       "answer": "GÜÇ"
     },
     {
@@ -152,7 +152,7 @@
       "row": 3,
       "col": 3,
       "length": 4,
-      "clue": "İçten duyulan gönül rahatlığı; keder bırakmayan tatlı neşe.",
+      "clue": "İçten duyulan gönül rahatlığı; keder bırakmayan tatlı neşe (4 harf) [B257-S3]",
       "answer": "SAFA"
     },
     {
@@ -161,7 +161,7 @@
       "row": 4,
       "col": 0,
       "length": 5,
-      "clue": "Padişah veya hükümdarların oturduğu, görkemli mimarisi olan büyük yapı.",
+      "clue": "Padişah veya hükümdarların oturduğu, görkemli mimarisi olan büyük yapı (5 harf) [B257-S4]",
       "answer": "SARAY"
     },
     {
@@ -170,7 +170,7 @@
       "row": 5,
       "col": 8,
       "length": 5,
-      "clue": "Bir cümlenin sonuna konan en küçük yazı işareti; konumun kendisi.",
+      "clue": "Bir cümlenin sonuna konan en küçük yazı işareti; konumun kendisi (5 harf) [B257-S5]",
       "answer": "NOKTA"
     },
     {
@@ -179,7 +179,7 @@
       "row": 6,
       "col": 0,
       "length": 5,
-      "clue": "Ağızdan çıkan söz; düşüncenin dille ifade bulmuş hali.",
+      "clue": "Ağızdan çıkan söz; düşüncenin dille ifade bulmuş hali (5 harf) [B257-S6]",
       "answer": "KELAM"
     },
     {
@@ -188,7 +188,7 @@
       "row": 6,
       "col": 0,
       "length": 3,
-      "clue": "Gözün hemen üstünde bulunan, yaklaşık yay biçimindeki kıl kümesi.",
+      "clue": "Gözün hemen üstünde bulunan, yaklaşık yay biçimindeki kıl kümesi (3 harf) [B257-S6]",
       "answer": "KAŞ"
     },
     {
@@ -197,7 +197,7 @@
       "row": 6,
       "col": 4,
       "length": 5,
-      "clue": "İçe işleyen hafif hüzün; kimseye belli edilmeyen sessiz usanç.",
+      "clue": "İçe işleyen hafif hüzün; kimseye belli edilmeyen sessiz usanç (5 harf) [B257-S7]",
       "answer": "MELAL"
     },
     {
@@ -206,7 +206,7 @@
       "row": 7,
       "col": 4,
       "length": 5,
-      "clue": "Undan mayalanıp fırında pişirilerek yapılan, sofranın temel besini.",
+      "clue": "Undan mayalanıp fırında pişirilerek yapılan, sofranın temel besini (5 harf) [B257-S8]",
       "answer": "EKMEK"
     },
     {
@@ -215,7 +215,7 @@
       "row": 9,
       "col": 2,
       "length": 4,
-      "clue": "Bir sınavda ya da yarışmada başarıya göre verilen sayısal değerlendirme.",
+      "clue": "Bir sınavda ya da yarışmada başarıya göre verilen sayısal değerlendirme (4 harf) [B257-S9]",
       "answer": "PUAN"
     }
   ]

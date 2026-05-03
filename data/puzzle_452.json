@@ -181,7 +181,7 @@
       "row": 0,
       "col": 0,
       "length": 7,
-      "clue": "Acıklı bir olay karşısında insanın içine çöken derin hüzün.",
+      "clue": "Acıklı bir olay karşısında insanın içine çöken derin hüzün (7 harf) [B452-S1]",
       "answer": "TEESSÜR"
     },
     {
@@ -190,7 +190,7 @@
       "row": 2,
       "col": 3,
       "length": 4,
-      "clue": "İstemeden yapılan yanlış; doğru olandan sapmanın yol açtığı kusur.",
+      "clue": "İstemeden yapılan yanlış; doğru olandan sapmanın yol açtığı kusur (4 harf) [B452-S2]",
       "answer": "HATA"
     },
     {
@@ -199,7 +199,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "İçten duyulan gönül rahatlığı; keder bırakmayan tatlı neşe.",
+      "clue": "İçten duyulan gönül rahatlığı; keder bırakmayan tatlı neşe (4 harf) [B452-S3]",
       "answer": "SAFA"
     },
     {
@@ -208,7 +208,7 @@
       "row": 4,
       "col": 5,
       "length": 5,
-      "clue": "Bir olayın geçtiği ya da bir şeyin bulunduğu belirli yer; mahal.",
+      "clue": "Bir olayın geçtiği ya da bir şeyin bulunduğu belirli yer; mahal (5 harf) [B452-S4]",
       "answer": "MEKAN"
     },
     {
@@ -217,7 +217,7 @@
       "row": 5,
       "col": 2,
       "length": 4,
-      "clue": "Eskiden şehirleri düşmandan korumak için yapılmış yüksek surlu savunma yapısı.",
+      "clue": "Eskiden şehirleri düşmandan korumak için yapılmış yüksek surlu savunma yapısı (4 harf) [B452-S5]",
       "answer": "KALE"
     },
     {
@@ -226,7 +226,7 @@
       "row": 7,
       "col": 4,
       "length": 4,
-      "clue": "Bundan başka, farklı; bir şeyin dışında kalan diğer kısım.",
+      "clue": "Bundan başka, farklı; bir şeyin dışında kalan diğer kısım (4 harf) [B452-S6]",
       "answer": "GAYR"
     },
     {
@@ -235,7 +235,7 @@
       "row": 7,
       "col": 7,
       "length": 4,
-      "clue": "Birinden nazikçe bir şey istemek; kibarca dile getirilen dilek.",
+      "clue": "Birinden nazikçe bir şey istemek; kibarca dile getirilen dilek (4 harf) [B452-S7]",
       "answer": "RİCA"
     },
     {
@@ -244,7 +244,7 @@
       "row": 7,
       "col": 9,
       "length": 5,
-      "clue": "Bir varsayımı doğrulamak amacıyla yapılan, kontrollü bilimsel çalışma.",
+      "clue": "Bir varsayımı doğrulamak amacıyla yapılan, kontrollü bilimsel çalışma (5 harf) [B452-S8]",
       "answer": "DENEY"
     },
     {
@@ -253,7 +253,7 @@
       "row": 10,
       "col": 6,
       "length": 4,
-      "clue": "İlkbaharda açan, kadeh biçimli taç yaprakları olan, Türklerin simgesi çiçek.",
+      "clue": "İlkbaharda açan, kadeh biçimli taç yaprakları olan, Türklerin simgesi çiçek (4 harf) [B452-S9]",
       "answer": "LALE"
     },
     {
@@ -262,7 +262,7 @@
       "row": 11,
       "col": 9,
       "length": 3,
-      "clue": "Havanın bir yönden diğerine doğru hissedilebilir akışı; rüzgâr.",
+      "clue": "Havanın bir yönden diğerine doğru hissedilebilir akışı; rüzgâr (3 harf) [B452-S10]",
       "answer": "YEL"
     }
   ]

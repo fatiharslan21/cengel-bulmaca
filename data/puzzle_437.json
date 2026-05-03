@@ -145,7 +145,7 @@
       "row": 0,
       "col": 3,
       "length": 5,
-      "clue": "Bir cümlenin sonuna konan en küçük yazı işareti; konumun kendisi.",
+      "clue": "Bir cümlenin sonuna konan en küçük yazı işareti; konumun kendisi (5 harf) [B437-S1]",
       "answer": "NOKTA"
     },
     {
@@ -154,7 +154,7 @@
       "row": 1,
       "col": 1,
       "length": 5,
-      "clue": "Ağızdan çıkan söz; düşüncenin dille ifade bulmuş hali.",
+      "clue": "Ağızdan çıkan söz; düşüncenin dille ifade bulmuş hali (5 harf) [B437-S2]",
       "answer": "KELAM"
     },
     {
@@ -163,7 +163,7 @@
       "row": 2,
       "col": 3,
       "length": 5,
-      "clue": "Saplı, parlak, kırmızı kabuklu; ilkbaharın sonunda olgunlaşan tatlı meyve.",
+      "clue": "Saplı, parlak, kırmızı kabuklu; ilkbaharın sonunda olgunlaşan tatlı meyve (5 harf) [B437-S3]",
       "answer": "KİRAZ"
     },
     {
@@ -172,7 +172,7 @@
       "row": 4,
       "col": 0,
       "length": 7,
-      "clue": "Sevdiğine ya da inandığına ömür boyu bağlı kalma; vefa göstermek.",
+      "clue": "Sevdiğine ya da inandığına ömür boyu bağlı kalma; vefa göstermek (7 harf) [B437-S4]",
       "answer": "SADAKAT"
     },
     {
@@ -181,7 +181,7 @@
       "row": 4,
       "col": 4,
       "length": 3,
-      "clue": "Çanak çömlek yapımında kullanılan, suyla yumuşayan yapışkan toprak.",
+      "clue": "Çanak çömlek yapımında kullanılan, suyla yumuşayan yapışkan toprak (3 harf) [B437-S5]",
       "answer": "KİL"
     },
     {
@@ -190,7 +190,7 @@
       "row": 4,
       "col": 6,
       "length": 5,
-      "clue": "İnsanın pek rastlanmadığı, sessiz ve ıssız kalmış mekân.",
+      "clue": "İnsanın pek rastlanmadığı, sessiz ve ıssız kalmış mekân (5 harf) [B437-S6]",
       "answer": "TENHA"
     },
     {
@@ -199,7 +199,7 @@
       "row": 4,
       "col": 8,
       "length": 5,
-      "clue": "Birbirinden ayrı düşen sevgililerin yaşadığı acı dolu ayrılık.",
+      "clue": "Birbirinden ayrı düşen sevgililerin yaşadığı acı dolu ayrılık (5 harf) [B437-S7]",
       "answer": "FIRAK"
     },
     {
@@ -208,7 +208,7 @@
       "row": 6,
       "col": 6,
       "length": 3,
-      "clue": "İçi kırmızı tanelerle dolu, kalın kabuklu, sonbahar aylarının meyvesi.",
+      "clue": "İçi kırmızı tanelerle dolu, kalın kabuklu, sonbahar aylarının meyvesi (3 harf) [B437-S8]",
       "answer": "NAR"
     },
     {
@@ -217,7 +217,7 @@
       "row": 8,
       "col": 1,
       "length": 6,
-      "clue": "Çözülmesi zor olan gizemli durum; içinden çıkılmaz sır.",
+      "clue": "Çözülmesi zor olan gizemli durum; içinden çıkılmaz sır (6 harf) [B437-S9]",
       "answer": "MUAMMA"
     },
     {
@@ -226,7 +226,7 @@
       "row": 8,
       "col": 3,
       "length": 4,
-      "clue": "Kaldırılması güç olan, hafif sözcüğünün zıttı sayılan kütle durumu.",
+      "clue": "Kaldırılması güç olan, hafif sözcüğünün zıttı sayılan kütle durumu (4 harf) [B437-S10]",
       "answer": "AĞIR"
     }
   ]

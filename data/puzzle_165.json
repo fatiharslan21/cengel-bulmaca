@@ -167,7 +167,7 @@
       "row": 0,
       "col": 7,
       "length": 5,
-      "clue": "Bir işi ya da durumu ara vermeden sürdürme, aksatmadan götürme hali.",
+      "clue": "Bir işi ya da durumu ara vermeden sürdürme, aksatmadan götürme hali (5 harf) [B165-S1]",
       "answer": "DEVAM"
     },
     {
@@ -176,7 +176,7 @@
       "row": 1,
       "col": 3,
       "length": 6,
-      "clue": "Yakalı, düğmeli ve kollu olan, üstten giyilen ince kumaş giysi.",
+      "clue": "Yakalı, düğmeli ve kollu olan, üstten giyilen ince kumaş giysi (6 harf) [B165-S2]",
       "answer": "GÖMLEK"
     },
     {
@@ -185,7 +185,7 @@
       "row": 3,
       "col": 5,
       "length": 4,
-      "clue": "İçerisi camla kaplı; mevsim dışında bile bitki yetiştirilen ısıtılmış yapı.",
+      "clue": "İçerisi camla kaplı; mevsim dışında bile bitki yetiştirilen ısıtılmış yapı (4 harf) [B165-S3]",
       "answer": "SERA"
     },
     {
@@ -194,7 +194,7 @@
       "row": 4,
       "col": 5,
       "length": 4,
-      "clue": "Kabuğu kırmızı, sarı ya da yeşil olabilen, sulu ve çıtır meyve.",
+      "clue": "Kabuğu kırmızı, sarı ya da yeşil olabilen, sulu ve çıtır meyve (4 harf) [B165-S4]",
       "answer": "ELMA"
     },
     {
@@ -203,7 +203,7 @@
       "row": 6,
       "col": 4,
       "length": 6,
-      "clue": "İnsan ya da kürek gücüyle suda yol alan küçük açık deniz teknesi.",
+      "clue": "İnsan ya da kürek gücüyle suda yol alan küçük açık deniz teknesi (6 harf) [B165-S5]",
       "answer": "SANDAL"
     },
     {
@@ -212,7 +212,7 @@
       "row": 6,
       "col": 4,
       "length": 3,
-      "clue": "Bitkinin çiçek ya da yaprağını gövdeye bağlayan uzun ve ince bölüm.",
+      "clue": "Bitkinin çiçek ya da yaprağını gövdeye bağlayan uzun ve ince bölüm (3 harf) [B165-S5]",
       "answer": "SAP"
     },
     {
@@ -221,7 +221,7 @@
       "row": 6,
       "col": 6,
       "length": 3,
-      "clue": "İçi kırmızı tanelerle dolu, kalın kabuklu, sonbahar aylarının meyvesi.",
+      "clue": "İçi kırmızı tanelerle dolu, kalın kabuklu, sonbahar aylarının meyvesi (3 harf) [B165-S6]",
       "answer": "NAR"
     },
     {
@@ -230,7 +230,7 @@
       "row": 6,
       "col": 9,
       "length": 5,
-      "clue": "İçindeki ampulle çalışan, karanlık odayı aydınlatan elektrikli araç.",
+      "clue": "İçindeki ampulle çalışan, karanlık odayı aydınlatan elektrikli araç (5 harf) [B165-S7]",
       "answer": "LAMBA"
     },
     {
@@ -239,7 +239,7 @@
       "row": 7,
       "col": 0,
       "length": 5,
-      "clue": "İp ya da parmaklarla oynatılan, tiyatro sahnesinde canlanan figürlü bebek.",
+      "clue": "İp ya da parmaklarla oynatılan, tiyatro sahnesinde canlanan figürlü bebek (5 harf) [B165-S8]",
       "answer": "KUKLA"
     },
     {
@@ -248,7 +248,7 @@
       "row": 9,
       "col": 9,
       "length": 3,
-      "clue": "Arıların çiçeklerden topladığı nektarı işleyerek yaptığı koyu, tatlı gıda.",
+      "clue": "Arıların çiçeklerden topladığı nektarı işleyerek yaptığı koyu, tatlı gıda (3 harf) [B165-S9]",
       "answer": "BAL"
     }
   ]

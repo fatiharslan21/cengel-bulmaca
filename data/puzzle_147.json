@@ -157,7 +157,7 @@
       "row": 0,
       "col": 9,
       "length": 3,
-      "clue": "Damarlarda dolaşarak vücuda oksijen taşıyan kırmızı renkli canlı sıvı.",
+      "clue": "Damarlarda dolaşarak vücuda oksijen taşıyan kırmızı renkli canlı sıvı (3 harf) [B147-S1]",
       "answer": "KAN"
     },
     {
@@ -166,7 +166,7 @@
       "row": 1,
       "col": 5,
       "length": 5,
-      "clue": "İçindeki ampulle çalışan, karanlık odayı aydınlatan elektrikli araç.",
+      "clue": "İçindeki ampulle çalışan, karanlık odayı aydınlatan elektrikli araç (5 harf) [B147-S2]",
       "answer": "LAMBA"
     },
     {
@@ -175,7 +175,7 @@
       "row": 1,
       "col": 6,
       "length": 3,
-      "clue": "İki şeyin birbirinden ayrıldığı boşluk; kısa mola süresi.",
+      "clue": "İki şeyin birbirinden ayrıldığı boşluk; kısa mola süresi (3 harf) [B147-S3]",
       "answer": "ARA"
     },
     {
@@ -184,7 +184,7 @@
       "row": 2,
       "col": 4,
       "length": 6,
-      "clue": "Bir ülkeyi simgeleyen, özel renk ve işaretler taşıyan kumaş parçası.",
+      "clue": "Bir ülkeyi simgeleyen, özel renk ve işaretler taşıyan kumaş parçası (6 harf) [B147-S4]",
       "answer": "BAYRAK"
     },
     {
@@ -193,7 +193,7 @@
       "row": 3,
       "col": 3,
       "length": 5,
-      "clue": "Bir milletin üzerinde yaşayıp kendine yurt bildiği ata toprağı.",
+      "clue": "Bir milletin üzerinde yaşayıp kendine yurt bildiği ata toprağı (5 harf) [B147-S5]",
       "answer": "VATAN"
     },
     {
@@ -202,7 +202,7 @@
       "row": 5,
       "col": 2,
       "length": 4,
-      "clue": "Dağlardan doğan, ırmağa ya da göle dökülen küçük doğal akarsu.",
+      "clue": "Dağlardan doğan, ırmağa ya da göle dökülen küçük doğal akarsu (4 harf) [B147-S6]",
       "answer": "DERE"
     },
     {
@@ -211,7 +211,7 @@
       "row": 6,
       "col": 1,
       "length": 3,
-      "clue": "Kulağımıza ulaşan her türlü titreşim; konuşma ve müziğin temeli.",
+      "clue": "Kulağımıza ulaşan her türlü titreşim; konuşma ve müziğin temeli (3 harf) [B147-S7]",
       "answer": "SES"
     },
     {
@@ -220,7 +220,7 @@
       "row": 7,
       "col": 0,
       "length": 5,
-      "clue": "Bilinmeyen bir şeyi öğrenmek için insanın içine düşen güçlü istek.",
+      "clue": "Bilinmeyen bir şeyi öğrenmek için insanın içine düşen güçlü istek (5 harf) [B147-S8]",
       "answer": "MERAK"
     },
     {
@@ -229,7 +229,7 @@
       "row": 7,
       "col": 3,
       "length": 5,
-      "clue": "Bir kimseye veya yere ulaşabilmek için gereken açık konum bilgisi.",
+      "clue": "Bir kimseye veya yere ulaşabilmek için gereken açık konum bilgisi (5 harf) [B147-S9]",
       "answer": "ADRES"
     },
     {
@@ -238,7 +238,7 @@
       "row": 10,
       "col": 3,
       "length": 4,
-      "clue": "Bir sanatçının ya da yazarın ortaya koyduğu özgün yapıt.",
+      "clue": "Bir sanatçının ya da yazarın ortaya koyduğu özgün yapıt (4 harf) [B147-S10]",
       "answer": "ESER"
     }
   ]

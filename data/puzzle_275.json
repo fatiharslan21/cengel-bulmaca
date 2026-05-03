@@ -167,7 +167,7 @@
       "row": 0,
       "col": 8,
       "length": 4,
-      "clue": "Yeni toplanmış, bayatlamamış; canlılığını yeni yeni yitirmemiş olan.",
+      "clue": "Yeni toplanmış, bayatlamamış; canlılığını yeni yeni yitirmemiş olan (4 harf) [B275-S1]",
       "answer": "TAZE"
     },
     {
@@ -176,7 +176,7 @@
       "row": 1,
       "col": 4,
       "length": 6,
-      "clue": "Dakikanın altmışta biri; zamanın en küçük günlük ölçü birimi.",
+      "clue": "Dakikanın altmışta biri; zamanın en küçük günlük ölçü birimi (6 harf) [B275-S2]",
       "answer": "SANİYE"
     },
     {
@@ -185,7 +185,7 @@
       "row": 1,
       "col": 4,
       "length": 6,
-      "clue": "İnsan ya da kürek gücüyle suda yol alan küçük açık deniz teknesi.",
+      "clue": "İnsan ya da kürek gücüyle suda yol alan küçük açık deniz teknesi (6 harf) [B275-S2]",
       "answer": "SANDAL"
     },
     {
@@ -194,7 +194,7 @@
       "row": 2,
       "col": 1,
       "length": 4,
-      "clue": "Bir yarışmanın galibine ödül olarak verilen, ayaklı madeni kadeh.",
+      "clue": "Bir yarışmanın galibine ödül olarak verilen, ayaklı madeni kadeh (4 harf) [B275-S3]",
       "answer": "KUPA"
     },
     {
@@ -203,7 +203,7 @@
       "row": 2,
       "col": 10,
       "length": 6,
-      "clue": "Türkiye Cumhuriyeti'nin başkenti ve İç Anadolu'nun en büyük şehri.",
+      "clue": "Türkiye Cumhuriyeti'nin başkenti ve İç Anadolu'nun en büyük şehri (6 harf) [B275-S4]",
       "answer": "ANKARA"
     },
     {
@@ -212,7 +212,7 @@
       "row": 3,
       "col": 7,
       "length": 5,
-      "clue": "Yelkenli ya da motorlu olup denizde kısa yolculuklara çıkan küçük gemi.",
+      "clue": "Yelkenli ya da motorlu olup denizde kısa yolculuklara çıkan küçük gemi (5 harf) [B275-S5]",
       "answer": "TEKNE"
     },
     {
@@ -221,7 +221,7 @@
       "row": 4,
       "col": 3,
       "length": 3,
-      "clue": "Çanak çömlek yapımında kullanılan, suyla yumuşayan yapışkan toprak.",
+      "clue": "Çanak çömlek yapımında kullanılan, suyla yumuşayan yapışkan toprak (3 harf) [B275-S6]",
       "answer": "KİL"
     },
     {
@@ -230,7 +230,7 @@
       "row": 6,
       "col": 1,
       "length": 5,
-      "clue": "Bilginin ötesinde, deneyim ve sezgiyle kazanılan derin anlayış.",
+      "clue": "Bilginin ötesinde, deneyim ve sezgiyle kazanılan derin anlayış (5 harf) [B275-S7]",
       "answer": "İRFAN"
     },
     {
@@ -239,7 +239,7 @@
       "row": 6,
       "col": 1,
       "length": 4,
-      "clue": "Kalınlığı az olan; zarif ve narin yapıda bulunan; kalının karşıtı.",
+      "clue": "Açıklamaya uyan yanıt (4 harf) [B275-S7]",
       "answer": "İNCE"
     },
     {
@@ -248,7 +248,7 @@
       "row": 9,
       "col": 0,
       "length": 3,
-      "clue": "Bir kimsenin ya da şeyin bulunduğu durum, vaziyet ya da keyif.",
+      "clue": "Bir kimsenin ya da şeyin bulunduğu durum, vaziyet ya da keyif (3 harf) [B275-S8]",
       "answer": "HAL"
     }
   ]

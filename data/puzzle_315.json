@@ -123,7 +123,7 @@
       "row": 0,
       "col": 7,
       "length": 3,
-      "clue": "Bir noktadan diğerine uzanan düz çizgi; yol ya da güzergâh.",
+      "clue": "Bir noktadan diğerine uzanan düz çizgi; yol ya da güzergâh (3 harf) [B315-S1]",
       "answer": "HAT"
     },
     {
@@ -132,7 +132,7 @@
       "row": 2,
       "col": 2,
       "length": 6,
-      "clue": "Herkesin duyup tanıdığı; adını çevresinin çok ötesine taşıyan ün.",
+      "clue": "Herkesin duyup tanıdığı; adını çevresinin çok ötesine taşıyan ün (6 harf) [B315-S2]",
       "answer": "ŞÖHRET"
     },
     {
@@ -141,7 +141,7 @@
       "row": 2,
       "col": 4,
       "length": 4,
-      "clue": "Atmosferi oluşturan, canlıların soluduğu renksiz ve kokusuz gaz karışımı.",
+      "clue": "Atmosferi oluşturan, canlıların soluduğu renksiz ve kokusuz gaz karışımı (4 harf) [B315-S3]",
       "answer": "HAVA"
     },
     {
@@ -150,7 +150,7 @@
       "row": 4,
       "col": 7,
       "length": 5,
-      "clue": "Bir cismin uzunluk, genişlik ve yükseklik gibi ölçülebilen özelliği.",
+      "clue": "Bir cismin uzunluk, genişlik ve yükseklik gibi ölçülebilen özelliği (5 harf) [B315-S4]",
       "answer": "BOYUT"
     },
     {
@@ -159,7 +159,7 @@
       "row": 5,
       "col": 1,
       "length": 5,
-      "clue": "Bir şeyin eksiksiz, kusursuz ve en üst düzeyde olgunlaşmış hali.",
+      "clue": "Bir şeyin eksiksiz, kusursuz ve en üst düzeyde olgunlaşmış hali (5 harf) [B315-S5]",
       "answer": "KEMAL"
     },
     {
@@ -168,7 +168,7 @@
       "row": 5,
       "col": 3,
       "length": 3,
-      "clue": "Arıların çiçeklerden topladığı nektarı işleyerek yaptığı koyu, tatlı gıda.",
+      "clue": "Arıların çiçeklerden topladığı nektarı işleyerek yaptığı koyu, tatlı gıda (3 harf) [B315-S6]",
       "answer": "BAL"
     },
     {
@@ -177,7 +177,7 @@
       "row": 5,
       "col": 3,
       "length": 6,
-      "clue": "Bir binanın üst katlarından dışarı uzanan, parmaklıkla çevrili çıkıntı.",
+      "clue": "Bir binanın üst katlarından dışarı uzanan, parmaklıkla çevrili çıkıntı (6 harf) [B315-S6]",
       "answer": "BALKON"
     },
     {
@@ -186,7 +186,7 @@
       "row": 6,
       "col": 0,
       "length": 4,
-      "clue": "Bir olayın kaçıncı kez yaşandığını anlatmak için kullanılan kez sözcüğü.",
+      "clue": "Bir olayın kaçıncı kez yaşandığını anlatmak için kullanılan kez sözcüğü (4 harf) [B315-S7]",
       "answer": "DEFA"
     },
     {
@@ -195,7 +195,7 @@
       "row": 7,
       "col": 6,
       "length": 3,
-      "clue": "Mektupların üzerine yapıştırılan, postanın ücretini belgeleyen küçük kâğıt.",
+      "clue": "Mektupların üzerine yapıştırılan, postanın ücretini belgeleyen küçük kâğıt (3 harf) [B315-S8]",
       "answer": "PUL"
     },
     {
@@ -204,7 +204,7 @@
       "row": 8,
       "col": 0,
       "length": 3,
-      "clue": "Toprağın içinden çıkan, sert ve ağır olan doğal kayaç parçası.",
+      "clue": "Toprağın içinden çıkan, sert ve ağır olan doğal kayaç parçası (3 harf) [B315-S9]",
       "answer": "TAŞ"
     }
   ]

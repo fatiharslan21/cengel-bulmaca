@@ -123,7 +123,7 @@
       "row": 0,
       "col": 7,
       "length": 3,
-      "clue": "İçindeki dilin sallanmasıyla ses çıkaran, koni biçimli madeni araç.",
+      "clue": "İçindeki dilin sallanmasıyla ses çıkaran, koni biçimli madeni araç (3 harf) [B373-S1]",
       "answer": "ÇAN"
     },
     {
@@ -132,7 +132,7 @@
       "row": 2,
       "col": 5,
       "length": 3,
-      "clue": "Yüzlerin onunun bir araya gelmesiyle oluşan dört basamaklı sayı.",
+      "clue": "Yüzlerin onunun bir araya gelmesiyle oluşan dört basamaklı sayı (3 harf) [B373-S2]",
       "answer": "BİN"
     },
     {
@@ -141,7 +141,7 @@
       "row": 2,
       "col": 6,
       "length": 3,
-      "clue": "Hoşa giden, yararlı ve olumlu olan; kötünün tam karşıtı olan nitelik.",
+      "clue": "Hoşa giden, yararlı ve olumlu olan; kötünün tam karşıtı olan nitelik (3 harf) [B373-S3]",
       "answer": "İYİ"
     },
     {
@@ -150,7 +150,7 @@
       "row": 3,
       "col": 1,
       "length": 5,
-      "clue": "Bir dağın en yüksek noktası; ulaşılabilecek en üst basamak.",
+      "clue": "Bir dağın en yüksek noktası; ulaşılabilecek en üst basamak (5 harf) [B373-S4]",
       "answer": "ZİRVE"
     },
     {
@@ -159,7 +159,7 @@
       "row": 4,
       "col": 3,
       "length": 5,
-      "clue": "Seslerin belli bir düzen içinde bir araya getirilmesiyle oluşan sanat.",
+      "clue": "Seslerin belli bir düzen içinde bir araya getirilmesiyle oluşan sanat (5 harf) [B373-S5]",
       "answer": "MÜZİK"
     },
     {
@@ -168,7 +168,7 @@
       "row": 4,
       "col": 3,
       "length": 5,
-      "clue": "Ölünün toprağa verildiği, başında taş bulunan defin yeri; kabir.",
+      "clue": "Ölünün toprağa verildiği, başında taş bulunan defin yeri; kabir (5 harf) [B373-S5]",
       "answer": "MEZAR"
     },
     {
@@ -177,7 +177,7 @@
       "row": 4,
       "col": 7,
       "length": 3,
-      "clue": "Alevi sönmüş ama sıcaklığı ve kızıllığı süren yanmakta olan parça.",
+      "clue": "Alevi sönmüş ama sıcaklığı ve kızıllığı süren yanmakta olan parça (3 harf) [B373-S6]",
       "answer": "KOR"
     },
     {
@@ -186,7 +186,7 @@
       "row": 6,
       "col": 6,
       "length": 3,
-      "clue": "Çiçeklerden topladığı nektarı bala dönüştüren, iğneli küçük böcek.",
+      "clue": "Çiçeklerden topladığı nektarı bala dönüştüren, iğneli küçük böcek (3 harf) [B373-S7]",
       "answer": "ARI"
     },
     {
@@ -195,7 +195,7 @@
       "row": 7,
       "col": 0,
       "length": 5,
-      "clue": "Bir işi ya da durumu ara vermeden sürdürme, aksatmadan götürme hali.",
+      "clue": "Bir işi ya da durumu ara vermeden sürdürme, aksatmadan götürme hali (5 harf) [B373-S8]",
       "answer": "DEVAM"
     },
     {
@@ -204,7 +204,7 @@
       "row": 7,
       "col": 0,
       "length": 3,
-      "clue": "Ağızda bulunan, yiyecekleri kopartıp öğütmeye yarayan sert beyaz yapı.",
+      "clue": "Ağızda bulunan, yiyecekleri kopartıp öğütmeye yarayan sert beyaz yapı (3 harf) [B373-S8]",
       "answer": "DİŞ"
     }
   ]

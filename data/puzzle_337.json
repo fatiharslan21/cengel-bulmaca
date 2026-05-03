@@ -123,7 +123,7 @@
       "row": 0,
       "col": 4,
       "length": 4,
-      "clue": "Sobadan ateş almak ya da sıcak şeyleri tutmak için kullanılan uzun kıskaç.",
+      "clue": "Sobadan ateş almak ya da sıcak şeyleri tutmak için kullanılan uzun kıskaç (4 harf) [B337-S1]",
       "answer": "MAŞA"
     },
     {
@@ -132,7 +132,7 @@
       "row": 1,
       "col": 3,
       "length": 5,
-      "clue": "Aynı amaca ulaşmak için karşı karşıya gelen, yarış halindeki hasım.",
+      "clue": "Aynı amaca ulaşmak için karşı karşıya gelen, yarış halindeki hasım (5 harf) [B337-S2]",
       "answer": "RAKİP"
     },
     {
@@ -141,7 +141,7 @@
       "row": 3,
       "col": 1,
       "length": 5,
-      "clue": "Hayatta yükselme, talih kuşunun başa konması; mevki sahibi olma.",
+      "clue": "Hayatta yükselme, talih kuşunun başa konması; mevki sahibi olma (5 harf) [B337-S3]",
       "answer": "İKBAL"
     },
     {
@@ -150,7 +150,7 @@
       "row": 3,
       "col": 2,
       "length": 4,
-      "clue": "Beyazın tam zıttı olan, gölgeleri bile koyulaştıran siyah ton.",
+      "clue": "Beyazın tam zıttı olan, gölgeleri bile koyulaştıran siyah ton (4 harf) [B337-S4]",
       "answer": "KARA"
     },
     {
@@ -159,7 +159,7 @@
       "row": 3,
       "col": 5,
       "length": 4,
-      "clue": "İlkbaharda açan, kadeh biçimli taç yaprakları olan, Türklerin simgesi çiçek.",
+      "clue": "İlkbaharda açan, kadeh biçimli taç yaprakları olan, Türklerin simgesi çiçek (4 harf) [B337-S5]",
       "answer": "LALE"
     },
     {
@@ -168,7 +168,7 @@
       "row": 4,
       "col": 5,
       "length": 3,
-      "clue": "Halk ağzında yakışıklı, gösterişli kimse için kullanılan eski bir sözcük.",
+      "clue": "Halk ağzında yakışıklı, gösterişli kimse için kullanılan eski bir sözcük (3 harf) [B337-S6]",
       "answer": "AFİ"
     },
     {
@@ -177,7 +177,7 @@
       "row": 5,
       "col": 0,
       "length": 4,
-      "clue": "İçinden su, gaz ya da başka sıvıların geçtiği içi boş uzun silindir.",
+      "clue": "İçinden su, gaz ya da başka sıvıların geçtiği içi boş uzun silindir (4 harf) [B337-S7]",
       "answer": "BORU"
     },
     {
@@ -186,7 +186,7 @@
       "row": 5,
       "col": 0,
       "length": 3,
-      "clue": "İnsanın başından ayağına kadar olan uzunluğu; endam ya da kamet.",
+      "clue": "İnsanın başından ayağına kadar olan uzunluğu; endam ya da kamet (3 harf) [B337-S7]",
       "answer": "BOY"
     },
     {
@@ -195,7 +195,7 @@
       "row": 6,
       "col": 5,
       "length": 4,
-      "clue": "Yetkili bir kimsenin yerine getirilmek üzere verdiği kesin buyruk.",
+      "clue": "Yetkili bir kimsenin yerine getirilmek üzere verdiği kesin buyruk (4 harf) [B337-S8]",
       "answer": "EMİR"
     },
     {
@@ -204,7 +204,7 @@
       "row": 6,
       "col": 7,
       "length": 4,
-      "clue": "Hastalıkları iyileştirmek amacıyla hazırlanan, doktor tarafından verilen madde.",
+      "clue": "Hastalıkları iyileştirmek amacıyla hazırlanan, doktor tarafından verilen madde (4 harf) [B337-S9]",
       "answer": "İLAÇ"
     }
   ]

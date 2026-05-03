@@ -121,7 +121,7 @@
       "row": 0,
       "col": 2,
       "length": 4,
-      "clue": "İnsanın başına habersizce gelen ağır dert, büyük sıkıntı ya da musibet.",
+      "clue": "İnsanın başına habersizce gelen ağır dert, büyük sıkıntı ya da musibet (4 harf) [B2-S1]",
       "answer": "BELA"
     },
     {
@@ -130,7 +130,7 @@
       "row": 0,
       "col": 4,
       "length": 4,
-      "clue": "Gömleğin boynu çevreleyen üst kısmı; ceketin de boyuna değen kenarı.",
+      "clue": "Gömleğin boynu çevreleyen üst kısmı; ceketin de boyuna değen kenarı (4 harf) [B2-S2]",
       "answer": "YAKA"
     },
     {
@@ -139,7 +139,7 @@
       "row": 1,
       "col": 4,
       "length": 3,
-      "clue": "İki şeyin birbirinden ayrıldığı boşluk; kısa mola süresi.",
+      "clue": "İki şeyin birbirinden ayrıldığı boşluk; kısa mola süresi (3 harf) [B2-S3]",
       "answer": "ARA"
     },
     {
@@ -148,7 +148,7 @@
       "row": 1,
       "col": 6,
       "length": 3,
-      "clue": "Eskiden köylerde geniş topraklara sahip, sözü geçen nüfuzlu kişi.",
+      "clue": "Eskiden köylerde geniş topraklara sahip, sözü geçen nüfuzlu kişi (3 harf) [B2-S4]",
       "answer": "AĞA"
     },
     {
@@ -157,7 +157,7 @@
       "row": 2,
       "col": 0,
       "length": 5,
-      "clue": "Kolla eli birbirine bağlayan, küçük kemiklerden oluşan eklem bölgesi.",
+      "clue": "Kolla eli birbirine bağlayan, küçük kemiklerden oluşan eklem bölgesi (5 harf) [B2-S5]",
       "answer": "BİLEK"
     },
     {
@@ -166,7 +166,7 @@
       "row": 3,
       "col": 6,
       "length": 3,
-      "clue": "Bir şeye bağlı bulunma; onunla ilgili ya da onun sahipliğinde olma.",
+      "clue": "Bir şeye bağlı bulunma; onunla ilgili ya da onun sahipliğinde olma (3 harf) [B2-S6]",
       "answer": "AİT"
     },
     {
@@ -175,7 +175,7 @@
       "row": 3,
       "col": 8,
       "length": 5,
-      "clue": "Zarla ve pullarla iki kişi arasında oynanan, kahvehane kültürünün oyunu.",
+      "clue": "Zarla ve pullarla iki kişi arasında oynanan, kahvehane kültürünün oyunu (5 harf) [B2-S7]",
       "answer": "TAVLA"
     },
     {
@@ -184,7 +184,7 @@
       "row": 5,
       "col": 6,
       "length": 4,
-      "clue": "Bir işin başında konulan, ulaşılmak istenen hedef ya da gaye.",
+      "clue": "Bir işin başında konulan, ulaşılmak istenen hedef ya da gaye (4 harf) [B2-S8]",
       "answer": "AMAÇ"
     },
     {
@@ -193,7 +193,7 @@
       "row": 7,
       "col": 5,
       "length": 5,
-      "clue": "Güneşin doğmasıyla başlayıp öğleye kadar süren günün ilk dilimi.",
+      "clue": "Güneşin doğmasıyla başlayıp öğleye kadar süren günün ilk dilimi (5 harf) [B2-S9]",
       "answer": "SABAH"
     }
   ]

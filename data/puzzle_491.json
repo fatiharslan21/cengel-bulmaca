@@ -145,7 +145,7 @@
       "row": 0,
       "col": 5,
       "length": 5,
-      "clue": "Gökyüzünde süzülen, su buharının yoğunlaşmasıyla oluşan beyaz küme.",
+      "clue": "Gökyüzünde süzülen, su buharının yoğunlaşmasıyla oluşan beyaz küme (5 harf) [B491-S1]",
       "answer": "BULUT"
     },
     {
@@ -154,7 +154,7 @@
       "row": 0,
       "col": 5,
       "length": 4,
-      "clue": "İnsanların içinde oturduğu ya da çalıştığı, taş ve betondan yapılmış yapı.",
+      "clue": "İnsanların içinde oturduğu ya da çalıştığı, taş ve betondan yapılmış yapı (4 harf) [B491-S1]",
       "answer": "BİNA"
     },
     {
@@ -163,7 +163,7 @@
       "row": 1,
       "col": 2,
       "length": 5,
-      "clue": "Yüreği saran, insanı kendinden geçiren güçlü aşk ve tutku.",
+      "clue": "Yüreği saran, insanı kendinden geçiren güçlü aşk ve tutku (5 harf) [B491-S2]",
       "answer": "SEVDA"
     },
     {
@@ -172,7 +172,7 @@
       "row": 1,
       "col": 2,
       "length": 4,
-      "clue": "Bilinmeyen bir bilgiyi öğrenmek için karşıya yöneltilen cümle.",
+      "clue": "Bilinmeyen bir bilgiyi öğrenmek için karşıya yöneltilen cümle (4 harf) [B491-S2]",
       "answer": "SORU"
     },
     {
@@ -181,7 +181,7 @@
       "row": 3,
       "col": 0,
       "length": 5,
-      "clue": "İçine üflenince tiz bir ses çıkaran, ince ve boru biçimli küçük alet.",
+      "clue": "İçine üflenince tiz bir ses çıkaran, ince ve boru biçimli küçük alet (5 harf) [B491-S3]",
       "answer": "DÜDÜK"
     },
     {
@@ -190,7 +190,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "Sırtında hörgücü bulunan, çölde uzun süre susuzluğa dayanabilen büyük hayvan.",
+      "clue": "Sırtında hörgücü bulunan, çölde uzun süre susuzluğa dayanabilen büyük hayvan (4 harf) [B491-S3]",
       "answer": "DEVE"
     },
     {
@@ -199,7 +199,7 @@
       "row": 6,
       "col": 3,
       "length": 5,
-      "clue": "Bir kimsenin toplumdaki yeri, konumu ya da makamı.",
+      "clue": "Bir kimsenin toplumdaki yeri, konumu ya da makamı (5 harf) [B491-S4]",
       "answer": "MEVKİ"
     },
     {
@@ -208,7 +208,7 @@
       "row": 7,
       "col": 0,
       "length": 5,
-      "clue": "İnsana sadakatiyle bilinen, havlayarak seslenen evcil dört ayaklı.",
+      "clue": "İnsana sadakatiyle bilinen, havlayarak seslenen evcil dört ayaklı (5 harf) [B491-S5]",
       "answer": "KÖPEK"
     },
     {
@@ -217,7 +217,7 @@
       "row": 9,
       "col": 1,
       "length": 3,
-      "clue": "Sevdiğine karşı gösterilen hafif cilve; yapmacık çekingenlik.",
+      "clue": "Sevdiğine karşı gösterilen hafif cilve; yapmacık çekingenlik (3 harf) [B491-S6]",
       "answer": "NAZ"
     },
     {
@@ -226,7 +226,7 @@
       "row": 10,
       "col": 0,
       "length": 4,
-      "clue": "Bir kurala, şahsa ya da düzene bağlı olan; ona uymak durumunda kalan.",
+      "clue": "Bir kurala, şahsa ya da düzene bağlı olan; ona uymak durumunda kalan (4 harf) [B491-S7]",
       "answer": "TABİ"
     }
   ]

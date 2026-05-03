@@ -117,7 +117,7 @@
       "row": 0,
       "col": 4,
       "length": 4,
-      "clue": "Bacağın bileğinden aşağısı; üzerine basarak yürümemizi sağlayan uzuv.",
+      "clue": "Bacağın bileğinden aşağısı; üzerine basarak yürümemizi sağlayan uzuv (4 harf) [B144-S1]",
       "answer": "AYAK"
     },
     {
@@ -126,7 +126,7 @@
       "row": 0,
       "col": 7,
       "length": 3,
-      "clue": "Bir binanın birbirinin üzerine gelen yatay bölümlerinden her biri.",
+      "clue": "Bir binanın birbirinin üzerine gelen yatay bölümlerinden her biri (3 harf) [B144-S2]",
       "answer": "KAT"
     },
     {
@@ -135,7 +135,7 @@
       "row": 2,
       "col": 5,
       "length": 5,
-      "clue": "Sayfalardan oluşan, üzerine bilgi ya da hikâye yazılmış ciltli eser.",
+      "clue": "Sayfalardan oluşan, üzerine bilgi ya da hikâye yazılmış ciltli eser (5 harf) [B144-S3]",
       "answer": "KİTAP"
     },
     {
@@ -144,7 +144,7 @@
       "row": 2,
       "col": 5,
       "length": 3,
-      "clue": "Soğuk havada bulutlardan düşen, altıgen kristallerden oluşan beyaz yağış.",
+      "clue": "Soğuk havada bulutlardan düşen, altıgen kristallerden oluşan beyaz yağış (3 harf) [B144-S3]",
       "answer": "KAR"
     },
     {
@@ -153,7 +153,7 @@
       "row": 2,
       "col": 8,
       "length": 4,
-      "clue": "Bir işin başında konulan, ulaşılmak istenen hedef ya da gaye.",
+      "clue": "Bir işin başında konulan, ulaşılmak istenen hedef ya da gaye (4 harf) [B144-S4]",
       "answer": "AMAÇ"
     },
     {
@@ -162,7 +162,7 @@
       "row": 3,
       "col": 2,
       "length": 4,
-      "clue": "İçten duyulan istek, gönülden beklenen dilek veya özlem.",
+      "clue": "İçten duyulan istek, gönülden beklenen dilek veya özlem (4 harf) [B144-S5]",
       "answer": "ARZU"
     },
     {
@@ -171,7 +171,7 @@
       "row": 3,
       "col": 10,
       "length": 5,
-      "clue": "Geniş yaprakları ve kalın gövdesiyle yüzyıllarca yaşayabilen büyük ağaç.",
+      "clue": "Geniş yaprakları ve kalın gövdesiyle yüzyıllarca yaşayabilen büyük ağaç (5 harf) [B144-S6]",
       "answer": "ÇINAR"
     },
     {
@@ -180,7 +180,7 @@
       "row": 4,
       "col": 0,
       "length": 6,
-      "clue": "Erkeklerin saçını kesip sakalını düzelten, dükkânında çalışan esnaf.",
+      "clue": "Erkeklerin saçını kesip sakalını düzelten, dükkânında çalışan esnaf (6 harf) [B144-S7]",
       "answer": "BERBER"
     },
     {
@@ -189,7 +189,7 @@
       "row": 4,
       "col": 0,
       "length": 4,
-      "clue": "Bir tarafı yapışkan olan, eşyaları tutturmaya yarayan uzun ince şerit.",
+      "clue": "Bir tarafı yapışkan olan, eşyaları tutturmaya yarayan uzun ince şerit (4 harf) [B144-S7]",
       "answer": "BANT"
     },
     {
@@ -198,7 +198,7 @@
       "row": 4,
       "col": 7,
       "length": 4,
-      "clue": "Limon ve altın tonlarında olan, güneşi çağrıştıran canlı sıcak renk.",
+      "clue": "Limon ve altın tonlarında olan, güneşi çağrıştıran canlı sıcak renk (4 harf) [B144-S8]",
       "answer": "SARI"
     }
   ]

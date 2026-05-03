@@ -112,7 +112,7 @@
       "row": 0,
       "col": 5,
       "length": 4,
-      "clue": "Bir kimseyle ayrılırken söylenen son söz; ayrılık selamı.",
+      "clue": "Bir kimseyle ayrılırken söylenen son söz; ayrılık selamı (4 harf) [B267-S1]",
       "answer": "VEDA"
     },
     {
@@ -121,7 +121,7 @@
       "row": 3,
       "col": 1,
       "length": 4,
-      "clue": "Bir tarafı yapışkan olan, eşyaları tutturmaya yarayan uzun ince şerit.",
+      "clue": "Bir tarafı yapışkan olan, eşyaları tutturmaya yarayan uzun ince şerit (4 harf) [B267-S2]",
       "answer": "BANT"
     },
     {
@@ -130,7 +130,7 @@
       "row": 3,
       "col": 4,
       "length": 6,
-      "clue": "Kişinin payına düşen; kaderin ona uygun gördüğü nasibi ya da şansı.",
+      "clue": "Kişinin payına düşen; kaderin ona uygun gördüğü nasibi ya da şansı (6 harf) [B267-S3]",
       "answer": "KISMET"
     },
     {
@@ -139,7 +139,7 @@
       "row": 3,
       "col": 4,
       "length": 4,
-      "clue": "Toprağın üstünde ya da altında bulunan, kolay parçalanmayan büyük taş.",
+      "clue": "Toprağın üstünde ya da altında bulunan, kolay parçalanmayan büyük taş (4 harf) [B267-S3]",
       "answer": "KAYA"
     },
     {
@@ -148,7 +148,7 @@
       "row": 4,
       "col": 1,
       "length": 4,
-      "clue": "Kırda ya da ormanda silahla veya tuzakla av peşinde koşan kişi.",
+      "clue": "Kırda ya da ormanda silahla veya tuzakla av peşinde koşan kişi (4 harf) [B267-S4]",
       "answer": "AVCI"
     },
     {
@@ -157,7 +157,7 @@
       "row": 4,
       "col": 8,
       "length": 4,
-      "clue": "Gömleğin boynu çevreleyen üst kısmı; ceketin de boyuna değen kenarı.",
+      "clue": "Gömleğin boynu çevreleyen üst kısmı; ceketin de boyuna değen kenarı (4 harf) [B267-S5]",
       "answer": "YAKA"
     },
     {
@@ -166,7 +166,7 @@
       "row": 5,
       "col": 6,
       "length": 4,
-      "clue": "Bir eşyanın ya da yüzeyin üstünü kapatmak için serilen kumaş parçası.",
+      "clue": "Bir eşyanın ya da yüzeyin üstünü kapatmak için serilen kumaş parçası (4 harf) [B267-S6]",
       "answer": "ÖRTÜ"
     },
     {
@@ -175,7 +175,7 @@
       "row": 6,
       "col": 0,
       "length": 3,
-      "clue": "Soyun büyüklerinden sayılan dede ya da daha öncesinden gelen büyük.",
+      "clue": "Soyun büyüklerinden sayılan dede ya da daha öncesinden gelen büyük (3 harf) [B267-S7]",
       "answer": "ATA"
     },
     {
@@ -184,7 +184,7 @@
       "row": 6,
       "col": 2,
       "length": 3,
-      "clue": "İki şeyin birbirinden ayrıldığı boşluk; kısa mola süresi.",
+      "clue": "İki şeyin birbirinden ayrıldığı boşluk; kısa mola süresi (3 harf) [B267-S8]",
       "answer": "ARA"
     },
     {
@@ -193,7 +193,7 @@
       "row": 6,
       "col": 4,
       "length": 5,
-      "clue": "Bilinmeyen bir şeyi öğrenmek için insanın içine düşen güçlü istek.",
+      "clue": "Bilinmeyen bir şeyi öğrenmek için insanın içine düşen güçlü istek (5 harf) [B267-S9]",
       "answer": "MERAK"
     }
   ]

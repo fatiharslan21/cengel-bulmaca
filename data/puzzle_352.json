@@ -156,7 +156,7 @@
       "row": 0,
       "col": 6,
       "length": 4,
-      "clue": "Katlanabilen küçük bıçak; çoğunlukla cepte taşınan, sivri uçlu el aleti.",
+      "clue": "Katlanabilen küçük bıçak; çoğunlukla cepte taşınan, sivri uçlu el aleti (4 harf) [B352-S1]",
       "answer": "ÇAKI"
     },
     {
@@ -165,7 +165,7 @@
       "row": 0,
       "col": 8,
       "length": 4,
-      "clue": "İnsanın başına habersizce gelen ağır dert, büyük sıkıntı ya da musibet.",
+      "clue": "İnsanın başına habersizce gelen ağır dert, büyük sıkıntı ya da musibet (4 harf) [B352-S2]",
       "answer": "BELA"
     },
     {
@@ -174,7 +174,7 @@
       "row": 1,
       "col": 5,
       "length": 5,
-      "clue": "Kaybedilen bir yakının ardından tutulan koyu yas; siyahlar giyme hali.",
+      "clue": "Kaybedilen bir yakının ardından tutulan koyu yas; siyahlar giyme hali (5 harf) [B352-S3]",
       "answer": "MATEM"
     },
     {
@@ -183,7 +183,7 @@
       "row": 3,
       "col": 3,
       "length": 4,
-      "clue": "Toprağın altında kalmış eski eserleri çıkarmak için yapılan eşme işi.",
+      "clue": "Toprağın altında kalmış eski eserleri çıkarmak için yapılan eşme işi (4 harf) [B352-S4]",
       "answer": "KAZI"
     },
     {
@@ -192,7 +192,7 @@
       "row": 3,
       "col": 3,
       "length": 5,
-      "clue": "İp ya da parmaklarla oynatılan, tiyatro sahnesinde canlanan figürlü bebek.",
+      "clue": "İp ya da parmaklarla oynatılan, tiyatro sahnesinde canlanan figürlü bebek (5 harf) [B352-S4]",
       "answer": "KUKLA"
     },
     {
@@ -201,7 +201,7 @@
       "row": 3,
       "col": 8,
       "length": 3,
-      "clue": "Bir hastalığa karşı bağışıklık kazandırmak için vücuda verilen ilaç.",
+      "clue": "Bir hastalığa karşı bağışıklık kazandırmak için vücuda verilen ilaç (3 harf) [B352-S5]",
       "answer": "AŞI"
     },
     {
@@ -210,7 +210,7 @@
       "row": 3,
       "col": 9,
       "length": 6,
-      "clue": "Herkesin duyup tanıdığı; adını çevresinin çok ötesine taşıyan ün.",
+      "clue": "Herkesin duyup tanıdığı; adını çevresinin çok ötesine taşıyan ün (6 harf) [B352-S6]",
       "answer": "ŞÖHRET"
     },
     {
@@ -219,7 +219,7 @@
       "row": 4,
       "col": 0,
       "length": 4,
-      "clue": "İçine eşya konulan, çoğu zaman kapağı olan, dikdörtgen ya da kare biçimli hazne.",
+      "clue": "İçine eşya konulan, çoğu zaman kapağı olan, dikdörtgen ya da kare biçimli hazne (4 harf) [B352-S7]",
       "answer": "KUTU"
     },
     {
@@ -228,7 +228,7 @@
       "row": 5,
       "col": 6,
       "length": 6,
-      "clue": "Dakikanın altmışta biri; zamanın en küçük günlük ölçü birimi.",
+      "clue": "Dakikanın altmışta biri; zamanın en küçük günlük ölçü birimi (6 harf) [B352-S8]",
       "answer": "SANİYE"
     },
     {
@@ -237,7 +237,7 @@
       "row": 6,
       "col": 5,
       "length": 5,
-      "clue": "Radyo dalgalarını yollayıp yansımasını ölçerek uzaktaki nesneleri belirleyen sistem.",
+      "clue": "Radyo dalgalarını yollayıp yansımasını ölçerek uzaktaki nesneleri belirleyen sistem (5 harf) [B352-S9]",
       "answer": "RADAR"
     }
   ]

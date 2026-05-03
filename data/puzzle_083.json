@@ -93,7 +93,7 @@
       "row": 0,
       "col": 1,
       "length": 4,
-      "clue": "İçi boşluk bırakmayacak biçimde bir şeyle tamamen kaplanmış olan.",
+      "clue": "İçi boşluk bırakmayacak biçimde bir şeyle tamamen kaplanmış olan (4 harf) [B83-S1]",
       "answer": "DOLU"
     },
     {
@@ -102,7 +102,7 @@
       "row": 0,
       "col": 2,
       "length": 3,
-      "clue": "Bir evin ya da binanın duvarlarla ayrılmış, belirli amaçla kullanılan bölümü.",
+      "clue": "Bir evin ya da binanın duvarlarla ayrılmış, belirli amaçla kullanılan bölümü (3 harf) [B83-S2]",
       "answer": "ODA"
     },
     {
@@ -111,7 +111,7 @@
       "row": 2,
       "col": 1,
       "length": 5,
-      "clue": "Sporda kuralların uygulanmasını denetleyen, karar veren yetkili kişi.",
+      "clue": "Sporda kuralların uygulanmasını denetleyen, karar veren yetkili kişi (5 harf) [B83-S3]",
       "answer": "HAKEM"
     },
     {
@@ -120,7 +120,7 @@
       "row": 2,
       "col": 4,
       "length": 4,
-      "clue": "Bir sanatçının ya da yazarın ortaya koyduğu özgün yapıt.",
+      "clue": "Bir sanatçının ya da yazarın ortaya koyduğu özgün yapıt (4 harf) [B83-S4]",
       "answer": "ESER"
     },
     {
@@ -129,7 +129,7 @@
       "row": 4,
       "col": 1,
       "length": 4,
-      "clue": "Bir kelimeyi bir nefeste söyleyebildiğimiz en küçük ses birimi.",
+      "clue": "Bir kelimeyi bir nefeste söyleyebildiğimiz en küçük ses birimi (4 harf) [B83-S5]",
       "answer": "HECE"
     },
     {
@@ -138,7 +138,7 @@
       "row": 4,
       "col": 2,
       "length": 4,
-      "clue": "Kabuğu kırmızı, sarı ya da yeşil olabilen, sulu ve çıtır meyve.",
+      "clue": "Kabuğu kırmızı, sarı ya da yeşil olabilen, sulu ve çıtır meyve (4 harf) [B83-S6]",
       "answer": "ELMA"
     },
     {
@@ -147,7 +147,7 @@
       "row": 6,
       "col": 0,
       "length": 3,
-      "clue": "Çanak çömlek yapımında kullanılan, suyla yumuşayan yapışkan toprak.",
+      "clue": "Çanak çömlek yapımında kullanılan, suyla yumuşayan yapışkan toprak (3 harf) [B83-S7]",
       "answer": "KİL"
     },
     {
@@ -156,7 +156,7 @@
       "row": 7,
       "col": 0,
       "length": 4,
-      "clue": "Hastalıkları iyileştirmek amacıyla hazırlanan, doktor tarafından verilen madde.",
+      "clue": "Hastalıkları iyileştirmek amacıyla hazırlanan, doktor tarafından verilen madde (4 harf) [B83-S8]",
       "answer": "İLAÇ"
     },
     {
@@ -165,7 +165,7 @@
       "row": 7,
       "col": 3,
       "length": 3,
-      "clue": "Demlenmiş yapraklarından içecek hazırlanan, ülkenin vazgeçilmez sıcak içkisi.",
+      "clue": "Demlenmiş yapraklarından içecek hazırlanan, ülkenin vazgeçilmez sıcak içkisi (3 harf) [B83-S9]",
       "answer": "ÇAY"
     }
   ]

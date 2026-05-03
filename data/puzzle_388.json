@@ -139,7 +139,7 @@
       "row": 0,
       "col": 5,
       "length": 4,
-      "clue": "Atmosferi oluşturan, canlıların soluduğu renksiz ve kokusuz gaz karışımı.",
+      "clue": "Atmosferi oluşturan, canlıların soluduğu renksiz ve kokusuz gaz karışımı (4 harf) [B388-S1]",
       "answer": "HAVA"
     },
     {
@@ -148,7 +148,7 @@
       "row": 1,
       "col": 1,
       "length": 6,
-      "clue": "Zayıfa ve çaresize duyulan içten sevgi; acıyarak sarılma duygusu.",
+      "clue": "Zayıfa ve çaresize duyulan içten sevgi; acıyarak sarılma duygusu (6 harf) [B388-S2]",
       "answer": "ŞEFKAT"
     },
     {
@@ -157,7 +157,7 @@
       "row": 3,
       "col": 0,
       "length": 3,
-      "clue": "Dört mevsimin en sıcağı; okulların kapandığı, tatillerin geldiği zaman.",
+      "clue": "Dört mevsimin en sıcağı; okulların kapandığı, tatillerin geldiği zaman (3 harf) [B388-S3]",
       "answer": "YAZ"
     },
     {
@@ -166,7 +166,7 @@
       "row": 3,
       "col": 4,
       "length": 5,
-      "clue": "Ev ya da yapı yakınında çiçek, sebze ve ağaç yetiştirilen yeşil alan.",
+      "clue": "Ev ya da yapı yakınında çiçek, sebze ve ağaç yetiştirilen yeşil alan (5 harf) [B388-S4]",
       "answer": "BAHÇE"
     },
     {
@@ -175,7 +175,7 @@
       "row": 3,
       "col": 7,
       "length": 5,
-      "clue": "Bitkinin üreme organı; genellikle göz alıcı renkleri ve kokusu olan kısım.",
+      "clue": "Bitkinin üreme organı; genellikle göz alıcı renkleri ve kokusu olan kısım (5 harf) [B388-S5]",
       "answer": "ÇİÇEK"
     },
     {
@@ -184,7 +184,7 @@
       "row": 4,
       "col": 3,
       "length": 5,
-      "clue": "Şehirlerde iki yanı binalarla çevrili, taşıtların geçtiği geniş ana yol.",
+      "clue": "Şehirlerde iki yanı binalarla çevrili, taşıtların geçtiği geniş ana yol (5 harf) [B388-S6]",
       "answer": "CADDE"
     },
     {
@@ -193,7 +193,7 @@
       "row": 5,
       "col": 0,
       "length": 5,
-      "clue": "Varlığı yerinde durmayıp sona ermesi; yokluğa geçme hali.",
+      "clue": "Varlığı yerinde durmayıp sona ermesi; yokluğa geçme hali (5 harf) [B388-S7]",
       "answer": "ZEVAL"
     },
     {
@@ -202,7 +202,7 @@
       "row": 5,
       "col": 1,
       "length": 4,
-      "clue": "Yapılan iyiliğin ya da çekilen sıkıntının karşılığı olarak verilen sevap.",
+      "clue": "Yapılan iyiliğin ya da çekilen sıkıntının karşılığı olarak verilen sevap (4 harf) [B388-S8]",
       "answer": "ECİR"
     },
     {
@@ -211,7 +211,7 @@
       "row": 5,
       "col": 7,
       "length": 5,
-      "clue": "Bir alanın ya da cismin dört bir yanını saran dış sınır; etraf.",
+      "clue": "Bir alanın ya da cismin dört bir yanını saran dış sınır; etraf (5 harf) [B388-S9]",
       "answer": "ÇEVRE"
     },
     {
@@ -220,7 +220,7 @@
       "row": 7,
       "col": 3,
       "length": 5,
-      "clue": "İçine üflenince tiz bir ses çıkaran, ince ve boru biçimli küçük alet.",
+      "clue": "İçine üflenince tiz bir ses çıkaran, ince ve boru biçimli küçük alet (5 harf) [B388-S10]",
       "answer": "DÜDÜK"
     }
   ]

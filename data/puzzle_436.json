@@ -145,7 +145,7 @@
       "row": 0,
       "col": 3,
       "length": 5,
-      "clue": "Pencereyi örtmek için asılan, ışığı ve dışarıdan görünmeyi engelleyen kumaş.",
+      "clue": "Pencereyi örtmek için asılan, ışığı ve dışarıdan görünmeyi engelleyen kumaş (5 harf) [B436-S1]",
       "answer": "PERDE"
     },
     {
@@ -154,7 +154,7 @@
       "row": 0,
       "col": 8,
       "length": 5,
-      "clue": "İp ya da parmaklarla oynatılan, tiyatro sahnesinde canlanan figürlü bebek.",
+      "clue": "İp ya da parmaklarla oynatılan, tiyatro sahnesinde canlanan figürlü bebek (5 harf) [B436-S2]",
       "answer": "KUKLA"
     },
     {
@@ -163,7 +163,7 @@
       "row": 1,
       "col": 2,
       "length": 5,
-      "clue": "Geçim sıkıntısı çekmeden, bolluk içinde sürdürülen rahat ve huzurlu yaşam.",
+      "clue": "Geçim sıkıntısı çekmeden, bolluk içinde sürdürülen rahat ve huzurlu yaşam (5 harf) [B436-S3]",
       "answer": "REFAH"
     },
     {
@@ -172,7 +172,7 @@
       "row": 1,
       "col": 6,
       "length": 4,
-      "clue": "Birini aldatmak için yapılan gizli düzen; dolap çevirme.",
+      "clue": "Birini aldatmak için yapılan gizli düzen; dolap çevirme (4 harf) [B436-S4]",
       "answer": "HİLE"
     },
     {
@@ -181,7 +181,7 @@
       "row": 4,
       "col": 0,
       "length": 4,
-      "clue": "Sayılabilen nesnelerin her biri; küçük parça ya da adet.",
+      "clue": "Sayılabilen nesnelerin her biri; küçük parça ya da adet (4 harf) [B436-S5]",
       "answer": "TANE"
     },
     {
@@ -190,7 +190,7 @@
       "row": 4,
       "col": 5,
       "length": 4,
-      "clue": "Hayvanların otlayıp beslenmesi için ayrılmış, doğal otlarla kaplı geniş alan.",
+      "clue": "Hayvanların otlayıp beslenmesi için ayrılmış, doğal otlarla kaplı geniş alan (4 harf) [B436-S6]",
       "answer": "MERA"
     },
     {
@@ -199,7 +199,7 @@
       "row": 4,
       "col": 5,
       "length": 5,
-      "clue": "Bir sürecin başladığı; sıfırdan hesaplandığı başlangıç tarihi.",
+      "clue": "Bir sürecin başladığı; sıfırdan hesaplandığı başlangıç tarihi (5 harf) [B436-S6]",
       "answer": "MİLAT"
     },
     {
@@ -208,7 +208,7 @@
       "row": 6,
       "col": 7,
       "length": 5,
-      "clue": "Vücudun belirli bir işlevi yerine getiren, dokulardan oluşmuş bölümü.",
+      "clue": "Vücudun belirli bir işlevi yerine getiren, dokulardan oluşmuş bölümü (5 harf) [B436-S7]",
       "answer": "ORGAN"
     },
     {
@@ -217,7 +217,7 @@
       "row": 7,
       "col": 4,
       "length": 6,
-      "clue": "Uzakta olan bir sevgiliyi ya da yeri özlemenin içe işleyen duygusu.",
+      "clue": "Uzakta olan bir sevgiliyi ya da yeri özlemenin içe işleyen duygusu (6 harf) [B436-S8]",
       "answer": "HASRET"
     },
     {
@@ -226,7 +226,7 @@
       "row": 9,
       "col": 6,
       "length": 4,
-      "clue": "Limon ve altın tonlarında olan, güneşi çağrıştıran canlı sıcak renk.",
+      "clue": "Limon ve altın tonlarında olan, güneşi çağrıştıran canlı sıcak renk (4 harf) [B436-S9]",
       "answer": "SARI"
     }
   ]

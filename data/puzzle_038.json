@@ -104,7 +104,7 @@
       "row": 0,
       "col": 1,
       "length": 3,
-      "clue": "İçinde hiçbir şey bulunmayan, doluluğu olmayan kap ya da mekân.",
+      "clue": "İçinde hiçbir şey bulunmayan, doluluğu olmayan kap ya da mekân (3 harf) [B38-S1]",
       "answer": "BOŞ"
     },
     {
@@ -113,7 +113,7 @@
       "row": 0,
       "col": 3,
       "length": 3,
-      "clue": "Bir noktadan diğerine uzanan düz çizgi; yol ya da güzergâh.",
+      "clue": "Bir noktadan diğerine uzanan düz çizgi; yol ya da güzergâh (3 harf) [B38-S2]",
       "answer": "HAT"
     },
     {
@@ -122,7 +122,7 @@
       "row": 1,
       "col": 0,
       "length": 4,
-      "clue": "Saçı ya da kemeri tutturmaya yarayan, klips gibi açılıp kapanan küçük süs.",
+      "clue": "Saçı ya da kemeri tutturmaya yarayan, klips gibi açılıp kapanan küçük süs (4 harf) [B38-S3]",
       "answer": "TOKA"
     },
     {
@@ -131,7 +131,7 @@
       "row": 1,
       "col": 8,
       "length": 3,
-      "clue": "Aynı ortak özellikleri taşıyan canlıların oluşturduğu sınıflama birimi.",
+      "clue": "Aynı ortak özellikleri taşıyan canlıların oluşturduğu sınıflama birimi (3 harf) [B38-S4]",
       "answer": "TÜR"
     },
     {
@@ -140,7 +140,7 @@
       "row": 2,
       "col": 3,
       "length": 4,
-      "clue": "Yeni toplanmış, bayatlamamış; canlılığını yeni yeni yitirmemiş olan.",
+      "clue": "Yeni toplanmış, bayatlamamış; canlılığını yeni yeni yitirmemiş olan (4 harf) [B38-S5]",
       "answer": "TAZE"
     },
     {
@@ -149,7 +149,7 @@
       "row": 2,
       "col": 6,
       "length": 4,
-      "clue": "Bir sanatçının ya da yazarın ortaya koyduğu özgün yapıt.",
+      "clue": "Bir sanatçının ya da yazarın ortaya koyduğu özgün yapıt (4 harf) [B38-S6]",
       "answer": "ESER"
     },
     {
@@ -158,7 +158,7 @@
       "row": 3,
       "col": 6,
       "length": 5,
-      "clue": "Padişah veya hükümdarların oturduğu, görkemli mimarisi olan büyük yapı.",
+      "clue": "Padişah veya hükümdarların oturduğu, görkemli mimarisi olan büyük yapı (5 harf) [B38-S7]",
       "answer": "SARAY"
     },
     {
@@ -167,7 +167,7 @@
       "row": 4,
       "col": 2,
       "length": 5,
-      "clue": "Ani ve sert bir hareketle yapılan vuruş; çarpma sonucu alınan sarsıntı.",
+      "clue": "Ani ve sert bir hareketle yapılan vuruş; çarpma sonucu alınan sarsıntı (5 harf) [B38-S8]",
       "answer": "DARBE"
     },
     {
@@ -176,7 +176,7 @@
       "row": 4,
       "col": 2,
       "length": 3,
-      "clue": "Çevresine göre belirgin biçimde yükselen, taşlık ve kayalık büyük arazi.",
+      "clue": "Çevresine göre belirgin biçimde yükselen, taşlık ve kayalık büyük arazi (3 harf) [B38-S8]",
       "answer": "DAĞ"
     }
   ]

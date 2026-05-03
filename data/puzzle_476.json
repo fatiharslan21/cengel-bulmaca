@@ -121,7 +121,7 @@
       "row": 0,
       "col": 5,
       "length": 5,
-      "clue": "Gürültüden uzak, hiçbir telaşın olmadığı sessiz ve huzurlu ortam.",
+      "clue": "Gürültüden uzak, hiçbir telaşın olmadığı sessiz ve huzurlu ortam (5 harf) [B476-S1]",
       "answer": "ASUDE"
     },
     {
@@ -130,7 +130,7 @@
       "row": 1,
       "col": 1,
       "length": 6,
-      "clue": "Zayıfa ve çaresize duyulan içten sevgi; acıyarak sarılma duygusu.",
+      "clue": "Zayıfa ve çaresize duyulan içten sevgi; acıyarak sarılma duygusu (6 harf) [B476-S2]",
       "answer": "ŞEFKAT"
     },
     {
@@ -139,7 +139,7 @@
       "row": 4,
       "col": 1,
       "length": 6,
-      "clue": "Bir işi yapabilme gücü; insanda ya da doğada bulunan büyük kuvvet.",
+      "clue": "Bir işi yapabilme gücü; insanda ya da doğada bulunan büyük kuvvet (6 harf) [B476-S3]",
       "answer": "KUDRET"
     },
     {
@@ -148,7 +148,7 @@
       "row": 4,
       "col": 6,
       "length": 5,
-      "clue": "İnsanın pek rastlanmadığı, sessiz ve ıssız kalmış mekân.",
+      "clue": "İnsanın pek rastlanmadığı, sessiz ve ıssız kalmış mekân (5 harf) [B476-S4]",
       "answer": "TENHA"
     },
     {
@@ -157,7 +157,7 @@
       "row": 6,
       "col": 3,
       "length": 4,
-      "clue": "İçerisi camla kaplı; mevsim dışında bile bitki yetiştirilen ısıtılmış yapı.",
+      "clue": "İçerisi camla kaplı; mevsim dışında bile bitki yetiştirilen ısıtılmış yapı (4 harf) [B476-S5]",
       "answer": "SERA"
     },
     {
@@ -166,7 +166,7 @@
       "row": 7,
       "col": 0,
       "length": 5,
-      "clue": "Geniş yaprakları ve kalın gövdesiyle yüzyıllarca yaşayabilen büyük ağaç.",
+      "clue": "Geniş yaprakları ve kalın gövdesiyle yüzyıllarca yaşayabilen büyük ağaç (5 harf) [B476-S6]",
       "answer": "ÇINAR"
     },
     {
@@ -175,7 +175,7 @@
       "row": 8,
       "col": 3,
       "length": 4,
-      "clue": "Uykuda iken zihnin sahneler halinde canlandırdığı renkli görüntüler.",
+      "clue": "Uykuda iken zihnin sahneler halinde canlandırdığı renkli görüntüler (4 harf) [B476-S7]",
       "answer": "RÜYA"
     },
     {
@@ -184,7 +184,7 @@
       "row": 8,
       "col": 5,
       "length": 4,
-      "clue": "Bir kimsenin doğup büyüdüğü vatanı; ait olduğu aziz memleket.",
+      "clue": "Bir kimsenin doğup büyüdüğü vatanı; ait olduğu aziz memleket (4 harf) [B476-S8]",
       "answer": "YURT"
     },
     {
@@ -193,7 +193,7 @@
       "row": 9,
       "col": 0,
       "length": 4,
-      "clue": "Birine seslenmek için çıkarılan yüksek ses; çağırmak amaçlı bağırma.",
+      "clue": "Birine seslenmek için çıkarılan yüksek ses; çağırmak amaçlı bağırma (4 harf) [B476-S9]",
       "answer": "NİDA"
     },
     {
@@ -202,7 +202,7 @@
       "row": 9,
       "col": 2,
       "length": 3,
-      "clue": "Ağızda bulunan, yiyecekleri kopartıp öğütmeye yarayan sert beyaz yapı.",
+      "clue": "Ağızda bulunan, yiyecekleri kopartıp öğütmeye yarayan sert beyaz yapı (3 harf) [B476-S10]",
       "answer": "DİŞ"
     }
   ]

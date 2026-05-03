@@ -145,7 +145,7 @@
       "row": 0,
       "col": 4,
       "length": 6,
-      "clue": "Yakalı, düğmeli ve kollu olan, üstten giyilen ince kumaş giysi.",
+      "clue": "Yakalı, düğmeli ve kollu olan, üstten giyilen ince kumaş giysi (6 harf) [B338-S1]",
       "answer": "GÖMLEK"
     },
     {
@@ -154,7 +154,7 @@
       "row": 1,
       "col": 7,
       "length": 3,
-      "clue": "Arıların çiçeklerden topladığı nektarı işleyerek yaptığı koyu, tatlı gıda.",
+      "clue": "Arıların çiçeklerden topladığı nektarı işleyerek yaptığı koyu, tatlı gıda (3 harf) [B338-S2]",
       "answer": "BAL"
     },
     {
@@ -163,7 +163,7 @@
       "row": 2,
       "col": 1,
       "length": 3,
-      "clue": "Dilin damak aracılığıyla algıladığı; acı, ekşi, tuzlu gibi duyusal nitelik.",
+      "clue": "Dilin damak aracılığıyla algıladığı; acı, ekşi, tuzlu gibi duyusal nitelik (3 harf) [B338-S3]",
       "answer": "TAT"
     },
     {
@@ -172,7 +172,7 @@
       "row": 2,
       "col": 4,
       "length": 5,
-      "clue": "Bir olayın geçtiği ya da bir şeyin bulunduğu belirli yer; mahal.",
+      "clue": "Bir olayın geçtiği ya da bir şeyin bulunduğu belirli yer; mahal (5 harf) [B338-S4]",
       "answer": "MEKAN"
     },
     {
@@ -181,7 +181,7 @@
       "row": 3,
       "col": 0,
       "length": 5,
-      "clue": "Denizin ya da gölün karaya kavuştuğu kumlu ve taşlı kıyı şeridi.",
+      "clue": "Denizin ya da gölün karaya kavuştuğu kumlu ve taşlı kıyı şeridi (5 harf) [B338-S5]",
       "answer": "SAHİL"
     },
     {
@@ -190,7 +190,7 @@
       "row": 5,
       "col": 4,
       "length": 4,
-      "clue": "Çevresindeki yapılardan çok daha yüksek olan, dar ve uzun yapı.",
+      "clue": "Çevresindeki yapılardan çok daha yüksek olan, dar ve uzun yapı (4 harf) [B338-S6]",
       "answer": "KULE"
     },
     {
@@ -199,7 +199,7 @@
       "row": 5,
       "col": 7,
       "length": 4,
-      "clue": "Evde ya da iş yerinde gündelik hayatta kullanılan nesnelerin tümü.",
+      "clue": "Evde ya da iş yerinde gündelik hayatta kullanılan nesnelerin tümü (4 harf) [B338-S7]",
       "answer": "EŞYA"
     },
     {
@@ -208,7 +208,7 @@
       "row": 7,
       "col": 5,
       "length": 5,
-      "clue": "Gemilerin yük boşalttığı, fırtınadan korunarak demirlediği deniz kıyısı.",
+      "clue": "Gemilerin yük boşalttığı, fırtınadan korunarak demirlediği deniz kıyısı (5 harf) [B338-S8]",
       "answer": "LİMAN"
     },
     {
@@ -217,7 +217,7 @@
       "row": 8,
       "col": 4,
       "length": 5,
-      "clue": "Bir milletin kuşaklar boyunca konuşup yazdığı ortak iletişim dizgesi.",
+      "clue": "Bir milletin kuşaklar boyunca konuşup yazdığı ortak iletişim dizgesi (5 harf) [B338-S9]",
       "answer": "LİSAN"
     },
     {
@@ -226,7 +226,7 @@
       "row": 10,
       "col": 4,
       "length": 5,
-      "clue": "Padişah veya hükümdarların oturduğu, görkemli mimarisi olan büyük yapı.",
+      "clue": "Padişah veya hükümdarların oturduğu, görkemli mimarisi olan büyük yapı (5 harf) [B338-S10]",
       "answer": "SARAY"
     }
   ]

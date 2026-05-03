@@ -123,7 +123,7 @@
       "row": 0,
       "col": 3,
       "length": 3,
-      "clue": "Havanın ısısının düşmesiyle suların yüzeyde buz tutması olayı.",
+      "clue": "Havanın ısısının düşmesiyle suların yüzeyde buz tutması olayı (3 harf) [B23-S1]",
       "answer": "DON"
     },
     {
@@ -132,7 +132,7 @@
       "row": 0,
       "col": 3,
       "length": 5,
-      "clue": "İçine üflenince tiz bir ses çıkaran, ince ve boru biçimli küçük alet.",
+      "clue": "İçine üflenince tiz bir ses çıkaran, ince ve boru biçimli küçük alet (5 harf) [B23-S1]",
       "answer": "DÜDÜK"
     },
     {
@@ -141,7 +141,7 @@
       "row": 2,
       "col": 3,
       "length": 3,
-      "clue": "Sevdiğine karşı gösterilen hafif cilve; yapmacık çekingenlik.",
+      "clue": "Sevdiğine karşı gösterilen hafif cilve; yapmacık çekingenlik (3 harf) [B23-S2]",
       "answer": "NAZ"
     },
     {
@@ -150,7 +150,7 @@
       "row": 2,
       "col": 4,
       "length": 3,
-      "clue": "Bir hastalığa karşı bağışıklık kazandırmak için vücuda verilen ilaç.",
+      "clue": "Bir hastalığa karşı bağışıklık kazandırmak için vücuda verilen ilaç (3 harf) [B23-S3]",
       "answer": "AŞI"
     },
     {
@@ -159,7 +159,7 @@
       "row": 3,
       "col": 2,
       "length": 4,
-      "clue": "Bir kişinin ya da akımın kendine özgü yapma biçimi; üslup.",
+      "clue": "Bir kişinin ya da akımın kendine özgü yapma biçimi; üslup (4 harf) [B23-S4]",
       "answer": "TARZ"
     },
     {
@@ -168,7 +168,7 @@
       "row": 4,
       "col": 1,
       "length": 5,
-      "clue": "Suda yaşayan, solungaçlarıyla soluyan, yüzgeçleriyle hareket eden canlı.",
+      "clue": "Suda yaşayan, solungaçlarıyla soluyan, yüzgeçleriyle hareket eden canlı (5 harf) [B23-S5]",
       "answer": "BALIK"
     },
     {
@@ -177,7 +177,7 @@
       "row": 4,
       "col": 5,
       "length": 4,
-      "clue": "Bir yarışmanın galibine ödül olarak verilen, ayaklı madeni kadeh.",
+      "clue": "Bir yarışmanın galibine ödül olarak verilen, ayaklı madeni kadeh (4 harf) [B23-S6]",
       "answer": "KUPA"
     },
     {
@@ -186,7 +186,7 @@
       "row": 6,
       "col": 0,
       "length": 3,
-      "clue": "Sarı kabuklu, uzun, yumuşak iç gövdeli tropikal meyve.",
+      "clue": "Sarı kabuklu, uzun, yumuşak iç gövdeli tropikal meyve (3 harf) [B23-S7]",
       "answer": "MUZ"
     },
     {
@@ -195,7 +195,7 @@
       "row": 6,
       "col": 0,
       "length": 5,
-      "clue": "Bitkinin çiçeğinin olgunlaşmasıyla oluşan, genellikle yenilebilir ürün.",
+      "clue": "Bitkinin çiçeğinin olgunlaşmasıyla oluşan, genellikle yenilebilir ürün (5 harf) [B23-S7]",
       "answer": "MEYVE"
     }
   ]

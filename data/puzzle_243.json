@@ -134,7 +134,7 @@
       "row": 0,
       "col": 4,
       "length": 4,
-      "clue": "Saçı ya da kemeri tutturmaya yarayan, klips gibi açılıp kapanan küçük süs.",
+      "clue": "Saçı ya da kemeri tutturmaya yarayan, klips gibi açılıp kapanan küçük süs (4 harf) [B243-S1]",
       "answer": "TOKA"
     },
     {
@@ -143,7 +143,7 @@
       "row": 3,
       "col": 3,
       "length": 4,
-      "clue": "Siyah beyaz karelere yerleştirilen taşlarla iki kişi arasında oynanan oyun.",
+      "clue": "Siyah beyaz karelere yerleştirilen taşlarla iki kişi arasında oynanan oyun (4 harf) [B243-S2]",
       "answer": "DAMA"
     },
     {
@@ -152,7 +152,7 @@
       "row": 3,
       "col": 3,
       "length": 3,
-      "clue": "Bulunduğun yerden geri çevril; ya da bir eksen etrafında hareket et.",
+      "clue": "Bulunduğun yerden geri çevril; ya da bir eksen etrafında hareket et (3 harf) [B243-S2]",
       "answer": "DÖN"
     },
     {
@@ -161,7 +161,7 @@
       "row": 3,
       "col": 5,
       "length": 5,
-      "clue": "Seslerin belli bir düzen içinde bir araya getirilmesiyle oluşan sanat.",
+      "clue": "Seslerin belli bir düzen içinde bir araya getirilmesiyle oluşan sanat (5 harf) [B243-S3]",
       "answer": "MÜZİK"
     },
     {
@@ -170,7 +170,7 @@
       "row": 3,
       "col": 8,
       "length": 4,
-      "clue": "Aradaki mesafenin çok olduğu; yakınlığı hissedilmeyen ötelerdeki yer.",
+      "clue": "Aradaki mesafenin çok olduğu; yakınlığı hissedilmeyen ötelerdeki yer (4 harf) [B243-S4]",
       "answer": "UZAK"
     },
     {
@@ -179,7 +179,7 @@
       "row": 6,
       "col": 1,
       "length": 3,
-      "clue": "Bir çemberin merkezinden geçerek onu iki eşit yaya bölen doğru parça.",
+      "clue": "Bir çemberin merkezinden geçerek onu iki eşit yaya bölen doğru parça (3 harf) [B243-S5]",
       "answer": "ÇAP"
     },
     {
@@ -188,7 +188,7 @@
       "row": 6,
       "col": 5,
       "length": 4,
-      "clue": "Kozadan elde edilen, parlak dokulu ve dayanıklı, değerli kumaş lifi.",
+      "clue": "Kozadan elde edilen, parlak dokulu ve dayanıklı, değerli kumaş lifi (4 harf) [B243-S6]",
       "answer": "İPEK"
     },
     {
@@ -197,7 +197,7 @@
       "row": 6,
       "col": 7,
       "length": 4,
-      "clue": "Kabuğu kırmızı, sarı ya da yeşil olabilen, sulu ve çıtır meyve.",
+      "clue": "Kabuğu kırmızı, sarı ya da yeşil olabilen, sulu ve çıtır meyve (4 harf) [B243-S7]",
       "answer": "ELMA"
     },
     {
@@ -206,7 +206,7 @@
       "row": 7,
       "col": 0,
       "length": 6,
-      "clue": "Su, çay ya da başka içecekleri içmek için kullanılan küçük kap.",
+      "clue": "Su, çay ya da başka içecekleri içmek için kullanılan küçük kap (6 harf) [B243-S8]",
       "answer": "BARDAK"
     },
     {
@@ -215,7 +215,7 @@
       "row": 7,
       "col": 4,
       "length": 4,
-      "clue": "Karşısına geçenin görüntüsünü aynen yansıtan sırlanmış cam yüzey.",
+      "clue": "Karşısına geçenin görüntüsünü aynen yansıtan sırlanmış cam yüzey (4 harf) [B243-S9]",
       "answer": "AYNA"
     }
   ]

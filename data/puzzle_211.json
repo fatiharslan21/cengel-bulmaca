@@ -109,7 +109,7 @@
       "row": 0,
       "col": 1,
       "length": 3,
-      "clue": "Omuzlara atılan ya da başa örtülen, yumuşak geniş kumaş parçası.",
+      "clue": "Omuzlara atılan ya da başa örtülen, yumuşak geniş kumaş parçası (3 harf) [B211-S1]",
       "answer": "ŞAL"
     },
     {
@@ -118,7 +118,7 @@
       "row": 2,
       "col": 0,
       "length": 3,
-      "clue": "Bir sıranın en başında bulunan; sondan önce hiçbir şey olmayan sırada birinci.",
+      "clue": "Bir sıranın en başında bulunan; sondan önce hiçbir şey olmayan sırada birinci (3 harf) [B211-S2]",
       "answer": "İLK"
     },
     {
@@ -127,7 +127,7 @@
       "row": 2,
       "col": 2,
       "length": 6,
-      "clue": "Uzun kasasında büyük yükler taşıyan, dört tekerlekten fazlası olan taşıt.",
+      "clue": "Uzun kasasında büyük yükler taşıyan, dört tekerlekten fazlası olan taşıt (6 harf) [B211-S3]",
       "answer": "KAMYON"
     },
     {
@@ -136,7 +136,7 @@
       "row": 3,
       "col": 2,
       "length": 3,
-      "clue": "Halk ağzında yakışıklı, gösterişli kimse için kullanılan eski bir sözcük.",
+      "clue": "Halk ağzında yakışıklı, gösterişli kimse için kullanılan eski bir sözcük (3 harf) [B211-S4]",
       "answer": "AFİ"
     },
     {
@@ -145,7 +145,7 @@
       "row": 5,
       "col": 0,
       "length": 5,
-      "clue": "Zihinde canlandırılan, gerçekleşmesi beklenen ya da umulan görüntü.",
+      "clue": "Zihinde canlandırılan, gerçekleşmesi beklenen ya da umulan görüntü (5 harf) [B211-S5]",
       "answer": "HAYAL"
     },
     {
@@ -154,7 +154,7 @@
       "row": 7,
       "col": 0,
       "length": 5,
-      "clue": "Üzerinde yaşadığımız, Güneş'in çevresinde dönen mavi yeşil gezegen.",
+      "clue": "Üzerinde yaşadığımız, Güneş'in çevresinde dönen mavi yeşil gezegen (5 harf) [B211-S6]",
       "answer": "DÜNYA"
     },
     {
@@ -163,7 +163,7 @@
       "row": 7,
       "col": 0,
       "length": 3,
-      "clue": "İçin karşıtı; bir şeyin çevresini gören, dışarıya bakan yüzü.",
+      "clue": "İçin karşıtı; bir şeyin çevresini gören, dışarıya bakan yüzü (3 harf) [B211-S6]",
       "answer": "DIŞ"
     },
     {
@@ -172,7 +172,7 @@
       "row": 7,
       "col": 4,
       "length": 3,
-      "clue": "Birden çok rengin bir arada bulunduğu, benekli ya da karışık görünüm.",
+      "clue": "Birden çok rengin bir arada bulunduğu, benekli ya da karışık görünüm (3 harf) [B211-S7]",
       "answer": "ALA"
     },
     {
@@ -181,7 +181,7 @@
       "row": 9,
       "col": 3,
       "length": 3,
-      "clue": "Arıların çiçeklerden topladığı nektarı işleyerek yaptığı koyu, tatlı gıda.",
+      "clue": "Arıların çiçeklerden topladığı nektarı işleyerek yaptığı koyu, tatlı gıda (3 harf) [B211-S8]",
       "answer": "BAL"
     },
     {
@@ -190,7 +190,7 @@
       "row": 9,
       "col": 3,
       "length": 3,
-      "clue": "Üzüm yetiştirilen tarla; aynı zamanda düğümle tutturma eylemi.",
+      "clue": "Üzüm yetiştirilen tarla; aynı zamanda düğümle tutturma eylemi (3 harf) [B211-S8]",
       "answer": "BAĞ"
     }
   ]
