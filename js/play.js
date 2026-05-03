@@ -192,6 +192,15 @@ function fitGrid(){
     drawWordFlow();
 }
 
+
+function cleanClueText(clue){
+    return String(clue || '')
+        .replace(/\s*\(\d+\s*harf\)\s*/gi, ' ')
+        .replace(/\s*\[B\d+-S\d+\]\s*/gi, ' ')
+        .replace(/\s{2,}/g, ' ')
+        .trim();
+}
+
 function mkClues(){
     const a=document.getElementById('cla'),d=document.getElementById('cld');
     P.words.filter(w=>w.direction==='across').sort((x,y)=>x.number-y.number).forEach(w=>a.appendChild(mkCI(w)));
@@ -214,7 +223,7 @@ function firstEditableCell(w){
 function mkCI(w){
     const e=document.createElement('div');
     e.className='ci';e.dataset.n=w.number;e.dataset.d=w.direction;
-    e.innerHTML=`<span class="cin">${w.number}.</span>${w.clue}`;
+    e.innerHTML=`<span class="cin">${w.number}.</span>${cleanClueText(w.clue)}`;
     e.addEventListener('click',()=>{dir=w.direction;acl=w;sel=firstEditableCell(w);if(!run)startTm();updUI();
         e.scrollIntoView({block:'nearest',behavior:'smooth'})});
     return e;
@@ -521,7 +530,7 @@ function rememberSeenClues() {
     try {
         const seen = JSON.parse(localStorage.getItem('cb_seen_clues') || '{}');
         P.words.forEach(w => {
-            const clue = (w.clue || '').trim();
+            const clue = cleanClueText(w.clue);
             if(!clue) return;
             seen[clue] = (seen[clue] || 0) + 1;
         });
@@ -557,7 +566,7 @@ function updUI(){
     if(acl){
         document.getElementById('badge').textContent=`${acl.number}${acl.direction==='across'?'→':'↓'}`;
         document.getElementById('badge').className='clue-num'+(acl.direction==='down'?' dn':'');
-        document.getElementById('ctext').textContent=acl.clue;
+        document.getElementById('ctext').textContent=cleanClueText(acl.clue);
     }
     document.querySelectorAll('.ci').forEach(el=>{
         const n=+el.dataset.n,d=el.dataset.d;
