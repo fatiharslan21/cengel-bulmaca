@@ -1,0 +1,245 @@
+{
+  "id": 403,
+  "title": "Bölüm 403",
+  "difficulty": "Orta",
+  "grid_size_r": 12,
+  "grid_size_c": 10,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 9,
+      "length": 3,
+      "clue": "Damarlarda dolaşarak vücuda oksijen taşıyan kırmızı renkli canlı sıvı (3 harf) [B147-S1]",
+      "answer": "KAN"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 1,
+      "col": 5,
+      "length": 5,
+      "clue": "İçindeki ampulle çalışan, karanlık odayı aydınlatan elektrikli araç (5 harf) [B147-S2]",
+      "answer": "LAMBA"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 1,
+      "col": 6,
+      "length": 3,
+      "clue": "İki şeyin birbirinden ayrıldığı boşluk; kısa mola süresi (3 harf) [B147-S3]",
+      "answer": "ARA"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "length": 6,
+      "clue": "Bir ülkeyi simgeleyen, özel renk ve işaretler taşıyan kumaş parçası (6 harf) [B147-S4]",
+      "answer": "BAYRAK"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 3,
+      "col": 3,
+      "length": 5,
+      "clue": "Bir milletin üzerinde yaşayıp kendine yurt bildiği ata toprağı (5 harf) [B147-S5]",
+      "answer": "VATAN"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 5,
+      "col": 2,
+      "length": 4,
+      "clue": "Dağlardan doğan, ırmağa ya da göle dökülen küçük doğal akarsu (4 harf) [B147-S6]",
+      "answer": "DERE"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 6,
+      "col": 1,
+      "length": 3,
+      "clue": "Kulağımıza ulaşan her türlü titreşim; konuşma ve müziğin temeli (3 harf) [B147-S7]",
+      "answer": "SES"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "length": 5,
+      "clue": "Bilinmeyen bir şeyi öğrenmek için insanın içine düşen güçlü istek (5 harf) [B147-S8]",
+      "answer": "MERAK"
+    },
+    {
+      "number": 9,
+      "direction": "down",
+      "row": 7,
+      "col": 3,
+      "length": 5,
+      "clue": "Bir kimseye veya yere ulaşabilmek için gereken açık konum bilgisi (5 harf) [B147-S9]",
+      "answer": "ADRES"
+    },
+    {
+      "number": 10,
+      "direction": "across",
+      "row": 10,
+      "col": 3,
+      "length": 4,
+      "clue": "Bir sanatçının ya da yazarın ortaya koyduğu özgün yapıt (4 harf) [B147-S10]",
+      "answer": "ESER"
+    }
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "id": 391,
+  "title": "Bölüm 391",
+  "difficulty": "Orta",
+  "grid_size_r": 9,
+  "grid_size_c": 11,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 9,
+      "length": 4,
+      "clue": "Kalemin kâğıda bıraktığı; harflerden oluşan okunabilir işaretler (4 harf) [B135-S1]",
+      "answer": "YAZI"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 1,
+      "col": 3,
+      "length": 5,
+      "clue": "Dinlerde iyilikle görevlendirilmiş, kanatlı olduğuna inanılan kutsal varlık (5 harf) [B135-S2]",
+      "answer": "MELEK"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 1,
+      "col": 8,
+      "length": 3,
+      "clue": "Gözün hemen üstünde bulunan, yaklaşık yay biçimindeki kıl kümesi (3 harf) [B135-S3]",
+      "answer": "KAŞ"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 2,
+      "col": 2,
+      "length": 5,
+      "clue": "Bir varsayımı doğrulamak amacıyla yapılan, kontrollü bilimsel çalışma (5 harf) [B135-S4]",
+      "answer": "DENEY"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 2,
+      "col": 6,
+      "length": 6,
+      "clue": "Bulutlardaki su damlalarının yer çekimiyle gökten yağması (6 harf) [B135-S5]",
+      "answer": "YAĞMUR"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 3,
+      "col": 1,
+      "length": 6,
+      "clue": "Belirli bir ülkenin sınırlarında örgütlenmiş siyasi ve yönetimsel yapı (6 harf) [B135-S6]",
+      "answer": "DEVLET"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 3,
+      "col": 6,
+      "length": 4,
+      "clue": "Mutfakta yemek pişirmeyi meslek edinmiş, lezzetten anlayan kişi (4 harf) [B135-S7]",
+      "answer": "AŞÇI"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 4,
+      "col": 1,
+      "length": 4,
+      "clue": "Bir sanatçının ya da yazarın ortaya koyduğu özgün yapıt (4 harf) [B135-S8]",
+      "answer": "ESER"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "length": 3,
+      "clue": "Bir sıranın en başında bulunan; sondan önce hiçbir şey olmayan sırada birinci (3 harf) [B135-S9]",
+      "answer": "İLK"
+    },
+    {
+      "number": 10,
+      "direction": "across",
+      "row": 7,
+      "col": 5,
+      "length": 3,
+      "clue": "Çiçeklerden topladığı nektarı bala dönüştüren, iğneli küçük böcek (3 harf) [B135-S10]",
+      "answer": "ARI"
+    }
+  ]
+}

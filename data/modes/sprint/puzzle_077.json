@@ -1,0 +1,200 @@
+{
+  "id": 77,
+  "title": "Bölüm 77",
+  "difficulty": "Zor",
+  "grid_size_r": 9,
+  "grid_size_c": 9,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "length": 4,
+      "clue": "İnsanın başına habersizce gelen ağır dert, büyük sıkıntı ya da musibet (4 harf) [B324-S1]",
+      "answer": "BELA"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "length": 4,
+      "clue": "Çevresindeki yapılardan çok daha yüksek olan, dar ve uzun yapı (4 harf) [B324-S2]",
+      "answer": "KULE"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 2,
+      "col": 6,
+      "length": 4,
+      "clue": "Başarı gösteren kimseye, çabasının karşılığı olarak verilen değerli armağan (4 harf) [B324-S3]",
+      "answer": "ÖDÜL"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 3,
+      "col": 1,
+      "length": 4,
+      "clue": "Aradaki mesafenin çok olduğu; yakınlığı hissedilmeyen ötelerdeki yer (4 harf) [B324-S4]",
+      "answer": "UZAK"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 3,
+      "col": 4,
+      "length": 5,
+      "clue": "Bir şeyin eksiksiz, kusursuz ve en üst düzeyde olgunlaşmış hali (5 harf) [B324-S5]",
+      "answer": "KEMAL"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 5,
+      "col": 2,
+      "length": 3,
+      "clue": "İçinde hiçbir şey bulunmayan, doluluğu olmayan kap ya da mekân (3 harf) [B324-S6]",
+      "answer": "BOŞ"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 5,
+      "col": 4,
+      "length": 5,
+      "clue": "İçe işleyen hafif hüzün; kimseye belli edilmeyen sessiz usanç (5 harf) [B324-S7]",
+      "answer": "MELAL"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 5,
+      "col": 7,
+      "length": 4,
+      "clue": "Karşısına geçenin görüntüsünü aynen yansıtan sırlanmış cam yüzey (4 harf) [B324-S8]",
+      "answer": "AYNA"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 6,
+      "col": 2,
+      "length": 3,
+      "clue": "İğne ya da tığla işlenen, başörtüsü kenarını süsleyen ince el işi (3 harf) [B324-S9]",
+      "answer": "OYA"
+    },
+    {
+      "number": 10,
+      "direction": "across",
+      "row": 8,
+      "col": 6,
+      "length": 3,
+      "clue": "Dört mevsimin en sıcağı; okulların kapandığı, tatillerin geldiği zaman (3 harf) [B324-S10]",
+      "answer": "YAZ"
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "id": 178,
+  "title": "Bölüm 178",
+  "difficulty": "Çok Zor",
+  "grid_size_r": 11,
+  "grid_size_c": 9,
+  "grid": [
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1
+    ],
+    [
+      1,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "length": 5,
+      "clue": "Bir cismin uzunluk, genişlik ve yükseklik gibi ölçülebilen özelliği (5 harf) [B425-S1]",
+      "answer": "BOYUT"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 2,
+      "col": 1,
+      "length": 4,
+      "clue": "Bir kesik ya da darbe sonucu bedende oluşan açık doku hasarı (4 harf) [B425-S2]",
+      "answer": "YARA"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 2,
+      "col": 3,
+      "length": 5,
+      "clue": "Programlanarak belirli işleri otomatik yapan mekanik insansı makine (5 harf) [B425-S3]",
+      "answer": "ROBOT"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 5,
+      "col": 0,
+      "length": 6,
+      "clue": "Harcanan çabaya değmeyen; hiçbir yarar sağlamayan boş uğraş (6 harf) [B425-S4]",
+      "answer": "NAFİLE"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 5,
+      "col": 5,
+      "length": 5,
+      "clue": "Aynı amaca ulaşmak için karşı karşıya gelen, yarış halindeki hasım (5 harf) [B425-S5]",
+      "answer": "RAKİP"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 6,
+      "col": 2,
+      "length": 5,
+      "clue": "Dünyanın farklı bölgelerini gösteren haritaların toplandığı büyük kitap (5 harf) [B425-S6]",
+      "answer": "ATLAS"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 6,
+      "col": 2,
+      "length": 4,
+      "clue": "Üzerinde yapı bulunmayan, belli sınırlarla çevrili geniş açık düzlük (4 harf) [B425-S6]",
+      "answer": "ALAN"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 6,
+      "col": 8,
+      "length": 4,
+      "clue": "Her canlı için önceden belirlendiğine inanılan ölüm zamanı (4 harf) [B425-S7]",
+      "answer": "ECEL"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "length": 3,
+      "clue": "Hortumuyla tanınan, kulakları iri, kara hayvanlarının en büyüklerinden biri (3 harf) [B425-S8]",
+      "answer": "FİL"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 8,
+      "col": 4,
+      "length": 5,
+      "clue": "Ortak bir malın ya da işin her birine düşen pay; nasip (5 harf) [B425-S9]",
+      "answer": "HİSSE"
+    }
+  ]
+}

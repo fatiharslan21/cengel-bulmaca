@@ -1,0 +1,200 @@
+{
+  "id": 260,
+  "title": "Bölüm 260",
+  "difficulty": "Kolay",
+  "grid_size_r": 9,
+  "grid_size_c": 10,
+  "grid": [
+    [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      1,
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 0,
+      "length": 4,
+      "clue": "İçine eşya konulan, çoğu zaman kapağı olan, dikdörtgen ya da kare biçimli hazne (4 harf) [B7-S1]",
+      "answer": "KUTU"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "length": 4,
+      "clue": "Dağdan daha alçak, çevresine göre yüksek görünen küçük yükselti (4 harf) [B7-S2]",
+      "answer": "TEPE"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 2,
+      "col": 2,
+      "length": 5,
+      "clue": "Mektup ve paketlerin toplanıp yerine ulaştırıldığı geleneksel iletişim hizmeti (5 harf) [B7-S3]",
+      "answer": "POSTA"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 2,
+      "col": 8,
+      "length": 5,
+      "clue": "Bir alanın ya da cismin dört bir yanını saran dış sınır; etraf (5 harf) [B7-S4]",
+      "answer": "ÇEVRE"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 3,
+      "col": 5,
+      "length": 4,
+      "clue": "İki duvarın ya da iki kenarın birleştiği noktada oluşan açılı yer (4 harf) [B7-S5]",
+      "answer": "KÖŞE"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 3,
+      "col": 5,
+      "length": 5,
+      "clue": "İnsana sadakatiyle bilinen, havlayarak seslenen evcil dört ayaklı (5 harf) [B7-S5]",
+      "answer": "KÖPEK"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 6,
+      "col": 1,
+      "length": 5,
+      "clue": "Ev ya da yapı yakınında çiçek, sebze ve ağaç yetiştirilen yeşil alan (5 harf) [B7-S6]",
+      "answer": "BAHÇE"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 6,
+      "col": 3,
+      "length": 3,
+      "clue": "Olumsuzluğu pekiştiren söz; asla ve kesinlikle bulunmama durumu (3 harf) [B7-S7]",
+      "answer": "HİÇ"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 6,
+      "col": 7,
+      "length": 3,
+      "clue": "Pantolon ya da ceketin içine dikilmiş, ufak eşya konulan küçük kese (3 harf) [B7-S8]",
+      "answer": "CEP"
+    }
+  ]
+}

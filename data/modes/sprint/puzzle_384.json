@@ -1,0 +1,221 @@
+{
+  "id": 384,
+  "title": "Bölüm 384",
+  "difficulty": "Orta",
+  "grid_size_r": 10,
+  "grid_size_c": 10,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "length": 4,
+      "clue": "Müziğin ritmine uyarak, düzenli vücut hareketleriyle yapılan sanatsal eylem (4 harf) [B128-S1]",
+      "answer": "DANS"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 1,
+      "col": 7,
+      "length": 3,
+      "clue": "Bir kimsenin ya da şeyin bulunduğu durum, vaziyet ya da keyif (3 harf) [B128-S2]",
+      "answer": "HAL"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "length": 6,
+      "clue": "Geniş kanatlarıyla yükseklerde süzülen, keskin gözlü yırtıcı büyük kuş (6 harf) [B128-S3]",
+      "answer": "KARTAL"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 2,
+      "col": 6,
+      "length": 4,
+      "clue": "Bir ülkenin savunmasını üstlenen, askerlerden oluşan silahlı kuvvetler (4 harf) [B128-S4]",
+      "answer": "ORDU"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 3,
+      "col": 4,
+      "length": 5,
+      "clue": "Bir kimseye veya yere ulaşabilmek için gereken açık konum bilgisi (5 harf) [B128-S5]",
+      "answer": "ADRES"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 4,
+      "col": 2,
+      "length": 3,
+      "clue": "Açıklamaya uyan yanıt (3 harf) [B128-S6]",
+      "answer": "TÜR"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 6,
+      "col": 1,
+      "length": 4,
+      "clue": "Bir yarışmanın galibine ödül olarak verilen, ayaklı madeni kadeh (4 harf) [B128-S7]",
+      "answer": "KUPA"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 6,
+      "col": 1,
+      "length": 4,
+      "clue": "Bir evin ya da iş yerinin kullanımı için sahibine ödenen aylık ücret (4 harf) [B128-S7]",
+      "answer": "KIRA"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 7,
+      "col": 4,
+      "length": 4,
+      "clue": "Türkiye Cumhuriyeti'nin resmi para birimi; TL kısaltmasıyla yazılan değer (4 harf) [B128-S8]",
+      "answer": "LİRA"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "length": 3,
+      "clue": "Bir üstün ya da yetkilinin önüne saygıyla sunma, takdim etme eylemi (3 harf) [B128-S9]",
+      "answer": "ARZ"
+    }
+  ]
+}

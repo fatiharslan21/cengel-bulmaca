@@ -1,0 +1,191 @@
+{
+  "id": 335,
+  "title": "Bölüm 335",
+  "difficulty": "Kolay",
+  "grid_size_r": 9,
+  "grid_size_c": 9,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 7,
+      "length": 4,
+      "clue": "Sobadan ateş almak ya da sıcak şeyleri tutmak için kullanılan uzun kıskaç (4 harf) [B79-S1]",
+      "answer": "MAŞA"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 1,
+      "col": 6,
+      "length": 3,
+      "clue": "Üzerinde nokta bulunan, oyunlarda atılan altı yüzlü küçük küp (3 harf) [B79-S2]",
+      "answer": "ZAR"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 3,
+      "col": 4,
+      "length": 4,
+      "clue": "Saçı ya da kemeri tutturmaya yarayan, klips gibi açılıp kapanan küçük süs (4 harf) [B79-S3]",
+      "answer": "TOKA"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 3,
+      "col": 6,
+      "length": 4,
+      "clue": "İki duvarın ya da iki kenarın birleştiği noktada oluşan açılı yer (4 harf) [B79-S4]",
+      "answer": "KÖŞE"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 4,
+      "col": 2,
+      "length": 5,
+      "clue": "Doğada bulunan en sert madde; takılarda kullanılan değerli kıymetli taş (5 harf) [B79-S5]",
+      "answer": "ELMAS"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "length": 3,
+      "clue": "Kalbin bulunduğu taraf; sağın tam karşıtı olan yön (3 harf) [B79-S6]",
+      "answer": "SOL"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 5,
+      "col": 4,
+      "length": 3,
+      "clue": "Denizden ya da yer altından çıkarılan; yemeklere tat veren beyaz tane (3 harf) [B79-S7]",
+      "answer": "TUZ"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 5,
+      "col": 4,
+      "length": 3,
+      "clue": "Toprağın içinden çıkan, sert ve ağır olan doğal kayaç parçası (3 harf) [B79-S7]",
+      "answer": "TAŞ"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 7,
+      "col": 1,
+      "length": 4,
+      "clue": "Bir kişinin ya da akımın kendine özgü yapma biçimi; üslup (4 harf) [B79-S8]",
+      "answer": "TARZ"
+    }
+  ]
+}

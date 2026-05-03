@@ -1,0 +1,221 @@
+{
+  "id": 16,
+  "title": "Bölüm 16",
+  "difficulty": "Zor",
+  "grid_size_r": 12,
+  "grid_size_c": 8,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "length": 5,
+      "clue": "Anlatılanı somutlaştırmak için verilen örnek; kıyas noktası (5 harf) [B263-S1]",
+      "answer": "MİSAL"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 1,
+      "col": 7,
+      "length": 4,
+      "clue": "Niteliği kötü olan, insanın içini bunaltan; iyi sözcüğünün zıttı (4 harf) [B263-S2]",
+      "answer": "FENA"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 2,
+      "col": 3,
+      "length": 5,
+      "clue": "Ortak bir malın ya da işin her birine düşen pay; nasip (5 harf) [B263-S3]",
+      "answer": "HİSSE"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 4,
+      "col": 3,
+      "length": 5,
+      "clue": "Gökyüzünde süzülen, su buharının yoğunlaşmasıyla oluşan beyaz küme (5 harf) [B263-S4]",
+      "answer": "BULUT"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 4,
+      "col": 3,
+      "length": 3,
+      "clue": "Göğüs kafesi ile kalçalar arasında kalan, vücudun orta kısmı (3 harf) [B263-S4]",
+      "answer": "BEL"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "length": 4,
+      "clue": "Başarı gösteren kimseye, çabasının karşılığı olarak verilen değerli armağan (4 harf) [B263-S5]",
+      "answer": "ÖDÜL"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 7,
+      "col": 3,
+      "length": 3,
+      "clue": "Yüceliğiyle saygı uyandıran; hem büyük hem görkemli olan varlık (3 harf) [B263-S6]",
+      "answer": "ULU"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 8,
+      "col": 1,
+      "length": 3,
+      "clue": "Bahçeyi ya da tarlayı çevreleyen, tahta veya telden yapılmış alçak engel (3 harf) [B263-S7]",
+      "answer": "ÇİT"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 8,
+      "col": 2,
+      "length": 4,
+      "clue": "Mahkemenin verdiği kararı bildiren, yazılı resmi belge (4 harf) [B263-S8]",
+      "answer": "İLAM"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 10,
+      "col": 1,
+      "length": 3,
+      "clue": "Üzüm yetiştirilen tarla; aynı zamanda düğümle tutturma eylemi (3 harf) [B263-S9]",
+      "answer": "BAĞ"
+    }
+  ]
+}

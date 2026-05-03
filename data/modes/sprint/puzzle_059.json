@@ -1,0 +1,222 @@
+{
+  "id": 59,
+  "title": "Bölüm 59",
+  "difficulty": "Zor",
+  "grid_size_r": 11,
+  "grid_size_c": 9,
+  "grid": [
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "length": 5,
+      "clue": "Yararlanılan, şükür duyulan değerli varlık; insana verilmiş lütuf (5 harf) [B306-S1]",
+      "answer": "NİMET"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 2,
+      "col": 3,
+      "length": 5,
+      "clue": "Cilde sürülüp suyla köpürtülerek kirleri temizleyen, kalıp ya da sıvı madde (5 harf) [B306-S2]",
+      "answer": "SABUN"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "length": 4,
+      "clue": "Dostluğunu ve sevgisini zaman geçse bile sürdürme; söze sadakat (4 harf) [B306-S3]",
+      "answer": "VEFA"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 3,
+      "col": 5,
+      "length": 4,
+      "clue": "İki duvarın ya da iki kenarın birleştiği noktada oluşan açılı yer (4 harf) [B306-S4]",
+      "answer": "KÖŞE"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 6,
+      "col": 1,
+      "length": 6,
+      "clue": "Bir toplantıda ya da günde ele alınacak konuların sıralı listesi (6 harf) [B306-S5]",
+      "answer": "GÜNDEM"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 6,
+      "col": 1,
+      "length": 3,
+      "clue": "Bir işi yapabilme yeteneği; fiziksel ya da manevi olarak sahip olunan kuvvet (3 harf) [B306-S5]",
+      "answer": "GÜÇ"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 6,
+      "col": 6,
+      "length": 5,
+      "clue": "Anlatılanı somutlaştırmak için verilen örnek; kıyas noktası (5 harf) [B306-S6]",
+      "answer": "MİSAL"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 7,
+      "col": 8,
+      "length": 4,
+      "clue": "Bir kurala, şahsa ya da düzene bağlı olan; ona uymak durumunda kalan (4 harf) [B306-S7]",
+      "answer": "TABİ"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 8,
+      "col": 4,
+      "length": 5,
+      "clue": "Mektup ve paketlerin toplanıp yerine ulaştırıldığı geleneksel iletişim hizmeti (5 harf) [B306-S8]",
+      "answer": "POSTA"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 10,
+      "col": 2,
+      "length": 5,
+      "clue": "Varlığı yerinde durmayıp sona ermesi; yokluğa geçme hali (5 harf) [B306-S9]",
+      "answer": "ZEVAL"
+    }
+  ]
+}

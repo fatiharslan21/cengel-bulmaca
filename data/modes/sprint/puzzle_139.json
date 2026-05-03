@@ -1,0 +1,245 @@
+{
+  "id": 139,
+  "title": "Bölüm 139",
+  "difficulty": "Çok Zor",
+  "grid_size_r": 12,
+  "grid_size_c": 10,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "length": 6,
+      "clue": "Çözülmesi zor olan gizemli durum; içinden çıkılmaz sır (6 harf) [B386-S1]",
+      "answer": "MUAMMA"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 2,
+      "col": 2,
+      "length": 5,
+      "clue": "Beklenmedik bir durum karşısında gösterilen aceleci ve tedirgin hal (5 harf) [B386-S2]",
+      "answer": "TELAŞ"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 3,
+      "col": 8,
+      "length": 6,
+      "clue": "Uzakta olan bir sevgiliyi ya da yeri özlemenin içe işleyen duygusu (6 harf) [B386-S3]",
+      "answer": "HASRET"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 4,
+      "col": 3,
+      "length": 4,
+      "clue": "Sıkıntılı ya da zor bir durumu ortadan kaldıracak çözüm yolu (4 harf) [B386-S4]",
+      "answer": "ÇARE"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 4,
+      "col": 5,
+      "length": 5,
+      "clue": "Bir olayın geçtiği ya da bir şeyin bulunduğu belirli yer; mahal (5 harf) [B386-S5]",
+      "answer": "MEKAN"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 5,
+      "col": 2,
+      "length": 4,
+      "clue": "Bir sözcüğün ya da cümlenin ardında yatan anlam; içerdiği kavram (4 harf) [B386-S6]",
+      "answer": "MANA"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 6,
+      "col": 1,
+      "length": 5,
+      "clue": "Sayılarla yapılan dört işlem; gelir ve giderin tutulduğu kayıt (5 harf) [B386-S7]",
+      "answer": "HESAP"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "length": 5,
+      "clue": "Bir yapının ayakta durmasını sağlayan, toprağa gömülü olan ilk bölümü (5 harf) [B386-S8]",
+      "answer": "TEMEL"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 9,
+      "col": 0,
+      "length": 6,
+      "clue": "Uzun kasasında büyük yükler taşıyan, dört tekerlekten fazlası olan taşıt (6 harf) [B386-S9]",
+      "answer": "KAMYON"
+    },
+    {
+      "number": 10,
+      "direction": "down",
+      "row": 9,
+      "col": 3,
+      "length": 3,
+      "clue": "Üzerinde durduğumuz zemin; bir olayın geçtiği konum (3 harf) [B386-S10]",
+      "answer": "YER"
+    }
+  ]
+}

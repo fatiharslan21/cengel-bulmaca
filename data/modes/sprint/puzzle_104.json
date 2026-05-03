@@ -1,0 +1,211 @@
+{
+  "id": 104,
+  "title": "Bölüm 104",
+  "difficulty": "Zor",
+  "grid_size_r": 11,
+  "grid_size_c": 8,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "length": 4,
+      "clue": "Ayıp sayılan bir şey karşısında insanın yüzünü kızartan çekinme duygusu (4 harf) [B351-S1]",
+      "answer": "HAYA"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 1,
+      "col": 3,
+      "length": 5,
+      "clue": "İnsanın ömür boyu karşılaştığı iyi ya da kötü raslantıların tümü; baht (5 harf) [B351-S2]",
+      "answer": "TALİH"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 3,
+      "col": 3,
+      "length": 3,
+      "clue": "Üzüm yetiştirilen tarla; aynı zamanda düğümle tutturma eylemi (3 harf) [B351-S3]",
+      "answer": "BAĞ"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 3,
+      "col": 3,
+      "length": 3,
+      "clue": "Yüzlerin onunun bir araya gelmesiyle oluşan dört basamaklı sayı (3 harf) [B351-S3]",
+      "answer": "BİN"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 3,
+      "col": 7,
+      "length": 3,
+      "clue": "Hortumuyla tanınan, kulakları iri, kara hayvanlarının en büyüklerinden biri (3 harf) [B351-S4]",
+      "answer": "FİL"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 5,
+      "col": 3,
+      "length": 5,
+      "clue": "Bir şeyin bir yerden başka bir yere taşınması; aktarma işlemi (5 harf) [B351-S5]",
+      "answer": "NAKİL"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 5,
+      "col": 4,
+      "length": 4,
+      "clue": "Yanmakta olan bir maddenin çıkardığı ısı, ışık ve alevin tümü (4 harf) [B351-S6]",
+      "answer": "ATEŞ"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 5,
+      "col": 6,
+      "length": 5,
+      "clue": "Bilginin ötesinde, deneyim ve sezgiyle kazanılan derin anlayış (5 harf) [B351-S7]",
+      "answer": "İRFAN"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 6,
+      "col": 1,
+      "length": 5,
+      "clue": "Çölde ya da sıcakta gerçekte olmayan bir görüntü olarak algılanan yanılsama (5 harf) [B351-S8]",
+      "answer": "SERAP"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "length": 5,
+      "clue": "Yelkenli ya da motorlu olup denizde kısa yolculuklara çıkan küçük gemi (5 harf) [B351-S9]",
+      "answer": "TEKNE"
+    }
+  ]
+}

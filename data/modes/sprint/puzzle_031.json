@@ -1,0 +1,211 @@
+{
+  "id": 31,
+  "title": "Bölüm 31",
+  "difficulty": "Zor",
+  "grid_size_r": 11,
+  "grid_size_c": 8,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "length": 4,
+      "clue": "İstemeden yapılan yanlış; doğru olandan sapmanın yol açtığı kusur (4 harf) [B278-S1]",
+      "answer": "HATA"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 1,
+      "col": 4,
+      "length": 3,
+      "clue": "İçine sıvı ya da katı maddeler konulan her türlü şekilli eşya (3 harf) [B278-S2]",
+      "answer": "KAP"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 2,
+      "col": 3,
+      "length": 4,
+      "clue": "Birinden nazikçe bir şey istemek; kibarca dile getirilen dilek (4 harf) [B278-S3]",
+      "answer": "RİCA"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 3,
+      "col": 2,
+      "length": 5,
+      "clue": "Saplı, parlak, kırmızı kabuklu; ilkbaharın sonunda olgunlaşan tatlı meyve (5 harf) [B278-S4]",
+      "answer": "KİRAZ"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 4,
+      "col": 0,
+      "length": 4,
+      "clue": "İçten doğan büyük istek; insanı coşturan şiddetli arzu ve heves (4 harf) [B278-S5]",
+      "answer": "ŞEVK"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "length": 5,
+      "clue": "Doğada bulunan en sert madde; takılarda kullanılan değerli kıymetli taş (5 harf) [B278-S6]",
+      "answer": "ELMAS"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "length": 4,
+      "clue": "İçine eşya konulan, çoğu zaman kapağı olan, dikdörtgen ya da kare biçimli hazne (4 harf) [B278-S7]",
+      "answer": "KUTU"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 7,
+      "col": 3,
+      "length": 4,
+      "clue": "Bir işin belirli kurallar içinde yapılmasını sağlayan yol; yöntem (4 harf) [B278-S8]",
+      "answer": "USUL"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 8,
+      "col": 3,
+      "length": 5,
+      "clue": "Güneşin doğmasıyla başlayıp öğleye kadar süren günün ilk dilimi (5 harf) [B278-S9]",
+      "answer": "SABAH"
+    },
+    {
+      "number": 10,
+      "direction": "across",
+      "row": 10,
+      "col": 2,
+      "length": 4,
+      "clue": "Gönle çöken derin üzüntü, insanı içten içe yiyen keder (4 harf) [B278-S10]",
+      "answer": "ELEM"
+    }
+  ]
+}

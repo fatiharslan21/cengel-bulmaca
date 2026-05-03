@@ -1,0 +1,224 @@
+{
+  "id": 320,
+  "title": "Bölüm 320",
+  "difficulty": "Kolay",
+  "grid_size_r": 11,
+  "grid_size_c": 10,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "length": 3,
+      "clue": "Metal ya da tırnak gibi sert yüzeyleri aşındırarak düzelten dişli alet (3 harf) [B64-S1]",
+      "answer": "EĞE"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 2,
+      "col": 5,
+      "length": 3,
+      "clue": "Ağız içindeki kaslı organ; aynı zamanda insanların konuşarak anlaştığı sistem (3 harf) [B64-S2]",
+      "answer": "DİL"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 2,
+      "col": 5,
+      "length": 5,
+      "clue": "Kıtaları birbirinden ayıran, tuzlu sulardan oluşan uçsuz bucaksız kütle (5 harf) [B64-S2]",
+      "answer": "DENİZ"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 4,
+      "col": 1,
+      "length": 4,
+      "clue": "Nüfusu kalabalık, altyapısı gelişmiş, şehir niteliğindeki yerleşim yeri (4 harf) [B64-S3]",
+      "answer": "KENT"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 4,
+      "col": 3,
+      "length": 3,
+      "clue": "Hortumuyla tanınan, kulakları iri, kara hayvanlarının en büyüklerinden biri (3 harf) [B64-S4]",
+      "answer": "FİL"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 4,
+      "col": 3,
+      "length": 4,
+      "clue": "İki şeyin birbirinden ayrıldığı yön; aralarındaki benzemezlik (4 harf) [B64-S4]",
+      "answer": "FARK"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "length": 4,
+      "clue": "Suç işleyen kimseye, yaptığının karşılığı olarak verilen yaptırım (4 harf) [B64-S5]",
+      "answer": "CEZA"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 7,
+      "col": 3,
+      "length": 4,
+      "clue": "İnsanın boynunun üst kısmında bulunan, düşünmenin merkezi olan baş (4 harf) [B64-S6]",
+      "answer": "KAFA"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 7,
+      "col": 6,
+      "length": 4,
+      "clue": "İçten duyulan istek, gönülden beklenen dilek veya özlem (4 harf) [B64-S7]",
+      "answer": "ARZU"
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "id": 332,
+  "title": "Bölüm 332",
+  "difficulty": "Kolay",
+  "grid_size_r": 10,
+  "grid_size_c": 9,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "length": 4,
+      "clue": "Hayvanların otlayıp beslenmesi için ayrılmış, doğal otlarla kaplı geniş alan (4 harf) [B76-S1]",
+      "answer": "MERA"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 1,
+      "col": 1,
+      "length": 4,
+      "clue": "Müzik eserlerinde seslerin yükseklik ve uzunluğunu gösteren küçük simge (4 harf) [B76-S2]",
+      "answer": "NOTA"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "length": 4,
+      "clue": "Ekmeğin arasına peynir konup ısıtılarak kızartılan sandviç çeşidi (4 harf) [B76-S3]",
+      "answer": "TOST"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 3,
+      "col": 4,
+      "length": 5,
+      "clue": "Bir yüzeyin ya da nesnenin dış sınırını oluşturan uç bölüm (5 harf) [B76-S4]",
+      "answer": "KENAR"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 3,
+      "col": 4,
+      "length": 3,
+      "clue": "Bir binanın birbirinin üzerine gelen yatay bölümlerinden her biri (3 harf) [B76-S4]",
+      "answer": "KAT"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "length": 5,
+      "clue": "Şehirlerde iki yanı binalarla çevrili, taşıtların geçtiği geniş ana yol (5 harf) [B76-S5]",
+      "answer": "CADDE"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 4,
+      "col": 2,
+      "length": 5,
+      "clue": "İçine üflenince tiz bir ses çıkaran, ince ve boru biçimli küçük alet (5 harf) [B76-S6]",
+      "answer": "DÜDÜK"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 6,
+      "col": 7,
+      "length": 4,
+      "clue": "Toprağın altında kalmış eski eserleri çıkarmak için yapılan eşme işi (4 harf) [B76-S7]",
+      "answer": "KAZI"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 7,
+      "col": 4,
+      "length": 5,
+      "clue": "Radyo dalgalarını yollayıp yansımasını ölçerek uzaktaki nesneleri belirleyen sistem (5 harf) [B76-S8]",
+      "answer": "RADAR"
+    }
+  ]
+}

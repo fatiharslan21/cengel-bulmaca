@@ -1,0 +1,199 @@
+{
+  "id": 220,
+  "title": "Bölüm 220",
+  "difficulty": "Çok Zor",
+  "grid_size_r": 7,
+  "grid_size_c": 12,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "length": 4,
+      "clue": "Yeni durumlara hızla uyum sağlayıp doğru kararlar verebilme yeteneği (4 harf) [B467-S1]",
+      "answer": "ZEKA"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 10,
+      "length": 4,
+      "clue": "Niteliği kötü olan, insanın içini bunaltan; iyi sözcüğünün zıttı (4 harf) [B467-S2]",
+      "answer": "FENA"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 1,
+      "col": 7,
+      "length": 5,
+      "clue": "İnsanın içini burkan, uzun süre geçmeyen derin üzüntü hali (5 harf) [B467-S3]",
+      "answer": "KEDER"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 2,
+      "col": 2,
+      "length": 4,
+      "clue": "Kozadan elde edilen, parlak dokulu ve dayanıklı, değerli kumaş lifi (4 harf) [B467-S4]",
+      "answer": "İPEK"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 2,
+      "col": 5,
+      "length": 4,
+      "clue": "Nüfusu kalabalık, altyapısı gelişmiş, şehir niteliğindeki yerleşim yeri (4 harf) [B467-S5]",
+      "answer": "KENT"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 3,
+      "col": 1,
+      "length": 4,
+      "clue": "Birine seslenmek için çıkarılan yüksek ses; çağırmak amaçlı bağırma (4 harf) [B467-S6]",
+      "answer": "NİDA"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 3,
+      "col": 5,
+      "length": 4,
+      "clue": "Evde ya da iş yerinde gündelik hayatta kullanılan nesnelerin tümü (4 harf) [B467-S7]",
+      "answer": "EŞYA"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 4,
+      "col": 1,
+      "length": 5,
+      "clue": "Bilginin ötesinde, deneyim ve sezgiyle kazanılan derin anlayış (5 harf) [B467-S8]",
+      "answer": "İRFAN"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 5,
+      "col": 5,
+      "length": 7,
+      "clue": "Acıklı bir olay karşısında insanın içine çöken derin hüzün (7 harf) [B467-S9]",
+      "answer": "TEESSÜR"
+    },
+    {
+      "number": 10,
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "length": 4,
+      "clue": "Müziğin ritmine uyarak, düzenli vücut hareketleriyle yapılan sanatsal eylem (4 harf) [B467-S10]",
+      "answer": "DANS"
+    }
+  ]
+}

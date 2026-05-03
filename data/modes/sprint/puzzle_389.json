@@ -1,0 +1,209 @@
+{
+  "id": 389,
+  "title": "Bölüm 389",
+  "difficulty": "Orta",
+  "grid_size_r": 9,
+  "grid_size_c": 10,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "length": 3,
+      "clue": "Bulunduğun yerden geri çevril; ya da bir eksen etrafında hareket et (3 harf) [B133-S1]",
+      "answer": "DÖN"
+    },
+    {
+      "number": 1,
+      "direction": "across",
+      "row": 0,
+      "col": 3,
+      "length": 3,
+      "clue": "Havanın ısısının düşmesiyle suların yüzeyde buz tutması olayı (3 harf) [B133-S1]",
+      "answer": "DON"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 1,
+      "col": 6,
+      "length": 5,
+      "clue": "Denizin ya da gölün karaya kavuştuğu kumlu ve taşlı kıyı şeridi (5 harf) [B133-S2]",
+      "answer": "SAHİL"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 2,
+      "col": 3,
+      "length": 4,
+      "clue": "Müzik eserlerinde seslerin yükseklik ve uzunluğunu gösteren küçük simge (4 harf) [B133-S3]",
+      "answer": "NOTA"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 3,
+      "col": 9,
+      "length": 3,
+      "clue": "Göğüs kafesi ile kalçalar arasında kalan, vücudun orta kısmı (3 harf) [B133-S4]",
+      "answer": "BEL"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 4,
+      "col": 2,
+      "length": 4,
+      "clue": "İnce mukavvadan yapılmış, üzerine yazı yazılan ya da baskı yapılan levha (4 harf) [B133-S5]",
+      "answer": "KART"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 5,
+      "col": 4,
+      "length": 6,
+      "clue": "Geceleri ötüşüyle tanınan, sesi şiirlere konu olmuş küçük kahverengi kuş (6 harf) [B133-S6]",
+      "answer": "BÜLBÜL"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 5,
+      "col": 4,
+      "length": 3,
+      "clue": "İnsanın boynundan yukarısı, beynin ve yüzün bulunduğu vücut bölümü (3 harf) [B133-S6]",
+      "answer": "BAŞ"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 5,
+      "col": 7,
+      "length": 4,
+      "clue": "İçinden su, gaz ya da başka sıvıların geçtiği içi boş uzun silindir (4 harf) [B133-S7]",
+      "answer": "BORU"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "length": 5,
+      "clue": "Üzerinde buğday, arpa ya da sebze yetiştirilen sürülmüş geniş toprak (5 harf) [B133-S8]",
+      "answer": "TARLA"
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "id": 310,
+  "title": "Bölüm 310",
+  "difficulty": "Kolay",
+  "grid_size_r": 11,
+  "grid_size_c": 8,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "length": 4,
+      "clue": "Toprağa kök salmış, gövdesi odunlaşmış, uzun ömürlü büyük bitki (4 harf) [B54-S1]",
+      "answer": "AĞAÇ"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 2,
+      "col": 2,
+      "length": 5,
+      "clue": "İçindeki eşyayı korumak için ambalajlanmış, kâğıt ya da karton sargılı koli (5 harf) [B54-S2]",
+      "answer": "PAKET"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 2,
+      "col": 5,
+      "length": 4,
+      "clue": "Yetkili bir kimsenin yerine getirilmek üzere verdiği kesin buyruk (4 harf) [B54-S3]",
+      "answer": "EMİR"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 5,
+      "col": 3,
+      "length": 3,
+      "clue": "Sayıların başlangıcı olan, tek adedi gösteren ilk doğal rakam (3 harf) [B54-S4]",
+      "answer": "BİR"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 5,
+      "col": 3,
+      "length": 5,
+      "clue": "Gökyüzünde süzülen, su buharının yoğunlaşmasıyla oluşan beyaz küme (5 harf) [B54-S4]",
+      "answer": "BULUT"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "length": 4,
+      "clue": "Bilinmeyen bir bilgiyi öğrenmek için karşıya yöneltilen cümle (4 harf) [B54-S5]",
+      "answer": "SORU"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 8,
+      "col": 2,
+      "length": 4,
+      "clue": "Bir yarışmanın galibine ödül olarak verilen, ayaklı madeni kadeh (4 harf) [B54-S6]",
+      "answer": "KUPA"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 8,
+      "col": 5,
+      "length": 3,
+      "clue": "Eskiden köylerde geniş topraklara sahip, sözü geçen nüfuzlu kişi (3 harf) [B54-S7]",
+      "answer": "AĞA"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 10,
+      "col": 4,
+      "length": 4,
+      "clue": "Eskiyip yırtılan giysiyi onarmak için üstüne dikilen küçük kumaş parçası (4 harf) [B54-S8]",
+      "answer": "YAMA"
+    }
+  ]
+}

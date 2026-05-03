@@ -1,0 +1,211 @@
+{
+  "id": 50,
+  "title": "Bölüm 50",
+  "difficulty": "Zor",
+  "grid_size_r": 11,
+  "grid_size_c": 8,
+  "grid": [
+    [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 0,
+      "length": 5,
+      "clue": "Dinlerde iyilikle görevlendirilmiş, kanatlı olduğuna inanılan kutsal varlık (5 harf) [B297-S1]",
+      "answer": "MELEK"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 2,
+      "col": 2,
+      "length": 3,
+      "clue": "Kalbin bulunduğu taraf; sağın tam karşıtı olan yön (3 harf) [B297-S2]",
+      "answer": "SOL"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "length": 3,
+      "clue": "Gitme, olduğun yerde dur; git sözcüğünün tam karşıtı olan emir (3 harf) [B297-S3]",
+      "answer": "KAL"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 4,
+      "col": 1,
+      "length": 5,
+      "clue": "Tekerlekleri üstünde insan ya da yük taşıyan motorlu kara taşıtı (5 harf) [B297-S4]",
+      "answer": "ARABA"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "length": 4,
+      "clue": "Geride kalan zaman; yaşanmış olayların artık değiştirilemeyen bölümü (4 harf) [B297-S5]",
+      "answer": "MAZİ"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 6,
+      "col": 3,
+      "length": 4,
+      "clue": "Hastalıkları iyileştirmek amacıyla hazırlanan, doktor tarafından verilen madde (4 harf) [B297-S6]",
+      "answer": "İLAÇ"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 7,
+      "col": 5,
+      "length": 4,
+      "clue": "Müziğin ritmine uyarak, düzenli vücut hareketleriyle yapılan sanatsal eylem (4 harf) [B297-S7]",
+      "answer": "DANS"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "length": 4,
+      "clue": "İstemeden yapılan yanlış; doğru olandan sapmanın yol açtığı kusur (4 harf) [B297-S8]",
+      "answer": "HATA"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 8,
+      "col": 0,
+      "length": 3,
+      "clue": "Kişinin yasal olarak sahip olduğu; alması ya da yapması gereken şey (3 harf) [B297-S8]",
+      "answer": "HAK"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 9,
+      "col": 3,
+      "length": 5,
+      "clue": "Geniş yaprakları ve kalın gövdesiyle yüzyıllarca yaşayabilen büyük ağaç (5 harf) [B297-S9]",
+      "answer": "ÇINAR"
+    }
+  ]
+}

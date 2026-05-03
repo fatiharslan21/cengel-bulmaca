@@ -1,0 +1,221 @@
+{
+  "id": 202,
+  "title": "Bölüm 202",
+  "difficulty": "Çok Zor",
+  "grid_size_r": 12,
+  "grid_size_c": 8,
+  "grid": [
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "length": 6,
+      "clue": "Sanatçıların, özellikle şairlerin gerçek adları yerine kullandığı takma ad (6 harf) [B449-S1]",
+      "answer": "MAHLAS"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "length": 5,
+      "clue": "Kat kat hamuru kremayla birleştirilen, doğum günlerinde kesilen tatlı (5 harf) [B449-S2]",
+      "answer": "PASTA"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "length": 4,
+      "clue": "Bir hakkı aramak için mahkemeye başvurularak açılan hukuki süreç (4 harf) [B449-S3]",
+      "answer": "DAVA"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 1,
+      "col": 6,
+      "length": 3,
+      "clue": "Alevi sönmüş ama sıcaklığı ve kızıllığı süren yanmakta olan parça (3 harf) [B449-S4]",
+      "answer": "KOR"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 2,
+      "col": 3,
+      "length": 5,
+      "clue": "Evin misafir ağırlanan en büyük odası ya da toplantı yapılan geniş mekân (5 harf) [B449-S5]",
+      "answer": "SALON"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 4,
+      "col": 3,
+      "length": 3,
+      "clue": "Geçmişte yaşanmış ve zihinde iz bırakmış olayların hatırlanması (3 harf) [B449-S6]",
+      "answer": "ANI"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 4,
+      "col": 4,
+      "length": 5,
+      "clue": "Alçakgönüllülükle yapılan yalvarış; Tanrı'dan dilenen istek (5 harf) [B449-S7]",
+      "answer": "NİYAZ"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 6,
+      "col": 2,
+      "length": 6,
+      "clue": "Bulutlardaki su damlalarının yer çekimiyle gökten yağması (6 harf) [B449-S8]",
+      "answer": "YAĞMUR"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 7,
+      "col": 1,
+      "length": 4,
+      "clue": "İçten duyulan gönül rahatlığı; keder bırakmayan tatlı neşe (4 harf) [B449-S9]",
+      "answer": "SAFA"
+    },
+    {
+      "number": 10,
+      "direction": "across",
+      "row": 11,
+      "col": 0,
+      "length": 3,
+      "clue": "Soğuk havada bulutlardan düşen, altıgen kristallerden oluşan beyaz yağış (3 harf) [B449-S10]",
+      "answer": "KAR"
+    }
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "id": 113,
+  "title": "Bölüm 113",
+  "difficulty": "Zor",
+  "grid_size_r": 9,
+  "grid_size_c": 11,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "length": 5,
+      "clue": "Mektup ve paketlerin toplanıp yerine ulaştırıldığı geleneksel iletişim hizmeti (5 harf) [B360-S1]",
+      "answer": "POSTA"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "length": 4,
+      "clue": "Burnumuzla algıladığımız, havada yayılan hoş ya da keskin tanecikler (4 harf) [B360-S2]",
+      "answer": "KOKU"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 2,
+      "col": 6,
+      "length": 4,
+      "clue": "Birinden nazikçe bir şey istemek; kibarca dile getirilen dilek (4 harf) [B360-S3]",
+      "answer": "RİCA"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 3,
+      "col": 1,
+      "length": 5,
+      "clue": "İçe işleyen hafif hüzün; kimseye belli edilmeyen sessiz usanç (5 harf) [B360-S4]",
+      "answer": "MELAL"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 3,
+      "col": 3,
+      "length": 4,
+      "clue": "Bir kurala, şahsa ya da düzene bağlı olan; ona uymak durumunda kalan (4 harf) [B360-S5]",
+      "answer": "TABİ"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "length": 4,
+      "clue": "Suç işleyen kimseye, yaptığının karşılığı olarak verilen yaptırım (4 harf) [B360-S6]",
+      "answer": "CEZA"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 5,
+      "col": 5,
+      "length": 4,
+      "clue": "İnce mukavvadan yapılmış, üzerine yazı yazılan ya da baskı yapılan levha (4 harf) [B360-S7]",
+      "answer": "KART"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 5,
+      "col": 8,
+      "length": 4,
+      "clue": "Anadolu ve çevresinde yaşayan, Orta Asya kökenli büyük millet (4 harf) [B360-S8]",
+      "answer": "TÜRK"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "length": 4,
+      "clue": "Uzaktan duyulan insan ya da doğa sesi; boğumlu ses dalgası (4 harf) [B360-S9]",
+      "answer": "SADA"
+    },
+    {
+      "number": 10,
+      "direction": "across",
+      "row": 7,
+      "col": 7,
+      "length": 4,
+      "clue": "Raylar üzerinde hareket eden, vagonları çeken büyük motorlu araç (4 harf) [B360-S10]",
+      "answer": "TREN"
+    }
+  ]
+}

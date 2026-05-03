@@ -1,0 +1,218 @@
+{
+  "id": 147,
+  "title": "Bölüm 147",
+  "difficulty": "Çok Zor",
+  "grid_size_r": 9,
+  "grid_size_c": 11,
+  "grid": [
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      1
+    ],
+    [
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1
+    ],
+    [
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1
+    ],
+    [
+      1,
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "length": 5,
+      "clue": "İçten gelen bağlılık; gönülden duyulan samimi sevgi ve sadakat (5 harf) [B394-S1]",
+      "answer": "HULUS"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 2,
+      "col": 5,
+      "length": 3,
+      "clue": "Kalbin bulunduğu taraf; sağın tam karşıtı olan yön (3 harf) [B394-S2]",
+      "answer": "SOL"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 2,
+      "col": 5,
+      "length": 3,
+      "clue": "Bir işin ya da sürecin bittiği nokta; final ve kapanış anı (3 harf) [B394-S2]",
+      "answer": "SON"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 3,
+      "col": 8,
+      "length": 5,
+      "clue": "Bir kimsenin toplumdaki yeri, konumu ya da makamı (5 harf) [B394-S3]",
+      "answer": "MEVKİ"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 3,
+      "col": 10,
+      "length": 6,
+      "clue": "Dinde kıyamet sonrası ölülerin toplanacağına inanılan büyük buluşma yeri (6 harf) [B394-S4]",
+      "answer": "MAHŞER"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "length": 7,
+      "clue": "Üzüntülü birine söylenerek onu rahatlatan sıcak avutucu söz (7 harf) [B394-S5]",
+      "answer": "TESELLİ"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 4,
+      "col": 0,
+      "length": 4,
+      "clue": "Anadolu ve çevresinde yaşayan, Orta Asya kökenli büyük millet (4 harf) [B394-S5]",
+      "answer": "TÜRK"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 4,
+      "col": 3,
+      "length": 4,
+      "clue": "Bir sanatçının ya da yazarın ortaya koyduğu özgün yapıt (4 harf) [B394-S6]",
+      "answer": "ESER"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 4,
+      "col": 6,
+      "length": 5,
+      "clue": "Bir şeyin anlamını kavrama; olup biteni zihinde anlamlandırma yeteneği (5 harf) [B394-S7]",
+      "answer": "İDRAK"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 7,
+      "col": 5,
+      "length": 6,
+      "clue": "Harcanan çabaya değmeyen; hiçbir yarar sağlamayan boş uğraş (6 harf) [B394-S8]",
+      "answer": "NAFİLE"
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "id": 396,
+  "title": "Bölüm 396",
+  "difficulty": "Orta",
+  "grid_size_r": 7,
+  "grid_size_c": 11,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "length": 4,
+      "clue": "Dağdan daha alçak, çevresine göre yüksek görünen küçük yükselti (4 harf) [B140-S1]",
+      "answer": "TEPE"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "length": 4,
+      "clue": "Serinletici kokusuyla tanınan, çaya ve yemeklere katılan yeşil yapraklı ot (4 harf) [B140-S2]",
+      "answer": "NANE"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "length": 4,
+      "clue": "Yeni durumlara hızla uyum sağlayıp doğru kararlar verebilme yeteneği (4 harf) [B140-S3]",
+      "answer": "ZEKA"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 1,
+      "col": 8,
+      "length": 4,
+      "clue": "Hastalıkları iyileştirmek amacıyla hazırlanan, doktor tarafından verilen madde (4 harf) [B140-S4]",
+      "answer": "İLAÇ"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "length": 3,
+      "clue": "Bir kimsenin ya da şeyin bulunduğu durum, vaziyet ya da keyif (3 harf) [B140-S5]",
+      "answer": "HAL"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "length": 4,
+      "clue": "Eskiden şehirleri düşmandan korumak için yapılmış yüksek surlu savunma yapısı (4 harf) [B140-S6]",
+      "answer": "KALE"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 3,
+      "col": 5,
+      "length": 4,
+      "clue": "Kabuğu kırmızı, sarı ya da yeşil olabilen, sulu ve çıtır meyve (4 harf) [B140-S7]",
+      "answer": "ELMA"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 3,
+      "col": 6,
+      "length": 4,
+      "clue": "Türkiye Cumhuriyeti'nin resmi para birimi; TL kısaltmasıyla yazılan değer (4 harf) [B140-S8]",
+      "answer": "LİRA"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 4,
+      "col": 8,
+      "length": 3,
+      "clue": "İçindeki dilin sallanmasıyla ses çıkaran, koni biçimli madeni araç (3 harf) [B140-S9]",
+      "answer": "ÇAN"
+    },
+    {
+      "number": 10,
+      "direction": "across",
+      "row": 6,
+      "col": 5,
+      "length": 4,
+      "clue": "Çorba, salata ya da yoğurt konulan, yuvarlak ve çukur küçük yemek kabı (4 harf) [B140-S10]",
+      "answer": "KASE"
+    }
+  ]
+}

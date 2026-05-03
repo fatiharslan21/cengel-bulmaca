@@ -1,0 +1,231 @@
+{
+  "id": 200,
+  "title": "Bölüm 200",
+  "difficulty": "Çok Zor",
+  "grid_size_r": 10,
+  "grid_size_c": 11,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "length": 6,
+      "clue": "Kendini üstün görmeyen, sade ve mütevazı davranış; gösterişsiz olma hali (6 harf) [B447-S1]",
+      "answer": "TEVAZU"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 9,
+      "length": 5,
+      "clue": "Bir şeyin iç tarafı; gönlün ya da yüreğin en derin, gizli yeri (5 harf) [B447-S2]",
+      "answer": "DERUN"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 1,
+      "col": 5,
+      "length": 6,
+      "clue": "Belirli bir ülkenin sınırlarında örgütlenmiş siyasi ve yönetimsel yapı (6 harf) [B447-S3]",
+      "answer": "DEVLET"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 2,
+      "col": 2,
+      "length": 4,
+      "clue": "Bir kurala, şahsa ya da düzene bağlı olan; ona uymak durumunda kalan (4 harf) [B447-S4]",
+      "answer": "TABİ"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "length": 4,
+      "clue": "İstemeden yapılan yanlış; doğru olandan sapmanın yol açtığı kusur (4 harf) [B447-S5]",
+      "answer": "HATA"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 3,
+      "col": 4,
+      "length": 4,
+      "clue": "Bacağın bileğinden aşağısı; üzerine basarak yürümemizi sağlayan uzuv (4 harf) [B447-S6]",
+      "answer": "AYAK"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 5,
+      "col": 1,
+      "length": 4,
+      "clue": "İnanmadığı halde inanıyormuş gibi davranma; iki yüzlü tavır (4 harf) [B447-S7]",
+      "answer": "RİYA"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 5,
+      "col": 3,
+      "length": 5,
+      "clue": "Kitap, hikâye ya da makale gibi edebi eserler kaleme alan kimse (5 harf) [B447-S8]",
+      "answer": "YAZAR"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 7,
+      "col": 1,
+      "length": 5,
+      "clue": "Kötü bakışın bir kimseye uğursuzluk getireceğine duyulan halk inancı (5 harf) [B447-S9]",
+      "answer": "NAZAR"
+    },
+    {
+      "number": 10,
+      "direction": "across",
+      "row": 9,
+      "col": 0,
+      "length": 6,
+      "clue": "Bir işi yapabilme gücü; insanda ya da doğada bulunan büyük kuvvet (6 harf) [B447-S10]",
+      "answer": "KUDRET"
+    }
+  ]
+}

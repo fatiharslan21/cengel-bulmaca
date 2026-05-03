@@ -1,0 +1,173 @@
+{
+  "id": 268,
+  "title": "Bölüm 268",
+  "difficulty": "Kolay",
+  "grid_size_r": 9,
+  "grid_size_c": 7,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "length": 3,
+      "clue": "Bin kilograma eşit olan büyük ağırlık ölçü birimi (3 harf) [B14-S1]",
+      "answer": "TON"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 1,
+      "col": 1,
+      "length": 3,
+      "clue": "İçinde hiçbir şey bulunmayan, doluluğu olmayan kap ya da mekân (3 harf) [B14-S2]",
+      "answer": "BOŞ"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 1,
+      "col": 2,
+      "length": 5,
+      "clue": "Vücudun belirli bir işlevi yerine getiren, dokulardan oluşmuş bölümü (5 harf) [B14-S3]",
+      "answer": "ORGAN"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "length": 3,
+      "clue": "Kimyada asitle tepkimeye girerek tuz oluşturan, karşıt özellikli madde (3 harf) [B14-S4]",
+      "answer": "BAZ"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 2,
+      "col": 4,
+      "length": 3,
+      "clue": "Konuşan kişinin kendisini belirtmek için kullandığı birinci tekil zamir (3 harf) [B14-S4]",
+      "answer": "BEN"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 4,
+      "col": 2,
+      "length": 4,
+      "clue": "İçten duyulan istek, gönülden beklenen dilek veya özlem (4 harf) [B14-S5]",
+      "answer": "ARZU"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "length": 3,
+      "clue": "İçindeki dilin sallanmasıyla ses çıkaran, koni biçimli madeni araç (3 harf) [B14-S6]",
+      "answer": "ÇAN"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 5,
+      "col": 1,
+      "length": 4,
+      "clue": "Belirli bir yönde hareket eden elektrik yükü ya da suyun sürüklenişi (4 harf) [B14-S7]",
+      "answer": "AKIM"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 8,
+      "col": 1,
+      "length": 5,
+      "clue": "Seslerin belli bir düzen içinde bir araya getirilmesiyle oluşan sanat (5 harf) [B14-S8]",
+      "answer": "MÜZİK"
+    }
+  ]
+}

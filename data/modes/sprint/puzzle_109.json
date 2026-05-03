@@ -1,0 +1,245 @@
+{
+  "id": 109,
+  "title": "Bölüm 109",
+  "difficulty": "Zor",
+  "grid_size_r": 12,
+  "grid_size_c": 10,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "length": 4,
+      "clue": "İstemeden yapılan yanlış; doğru olandan sapmanın yol açtığı kusur (4 harf) [B356-S1]",
+      "answer": "HATA"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 2,
+      "col": 6,
+      "length": 4,
+      "clue": "Niteliği kötü olan, insanın içini bunaltan; iyi sözcüğünün zıttı (4 harf) [B356-S2]",
+      "answer": "FENA"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 3,
+      "col": 3,
+      "length": 4,
+      "clue": "Bir işe girişirken göz önünde tutulan, ulaşılmak istenen son hedef (4 harf) [B356-S3]",
+      "answer": "GAYE"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 5,
+      "col": 5,
+      "length": 5,
+      "clue": "Zorluklara dayanıp isyan etmeden bekleyebilme; hoşgörü ile katlanma (5 harf) [B356-S4]",
+      "answer": "SABIR"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 5,
+      "col": 7,
+      "length": 6,
+      "clue": "Geceleri ötüşüyle tanınan, sesi şiirlere konu olmuş küçük kahverengi kuş (6 harf) [B356-S5]",
+      "answer": "BÜLBÜL"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 7,
+      "col": 4,
+      "length": 5,
+      "clue": "İnsanın ömür boyu karşılaştığı iyi ya da kötü raslantıların tümü; baht (5 harf) [B356-S6]",
+      "answer": "TALİH"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 7,
+      "col": 4,
+      "length": 5,
+      "clue": "Zarla ve pullarla iki kişi arasında oynanan, kahvehane kültürünün oyunu (5 harf) [B356-S6]",
+      "answer": "TAVLA"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 8,
+      "col": 1,
+      "length": 4,
+      "clue": "Suç işleyen kimseye, yaptığının karşılığı olarak verilen yaptırım (4 harf) [B356-S7]",
+      "answer": "CEZA"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 9,
+      "col": 1,
+      "length": 4,
+      "clue": "Her canlı için önceden belirlendiğine inanılan ölüm zamanı (4 harf) [B356-S8]",
+      "answer": "ECEL"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 11,
+      "col": 0,
+      "length": 3,
+      "clue": "Derin ve dik uçurum; aynı zamanda sevilen kişi için kullanılan şiirsel ad (3 harf) [B356-S9]",
+      "answer": "YAR"
+    }
+  ]
+}

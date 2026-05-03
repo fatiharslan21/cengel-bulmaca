@@ -1,0 +1,227 @@
+{
+  "id": 503,
+  "title": "Bölüm 503",
+  "difficulty": "Orta",
+  "grid_size_r": 9,
+  "grid_size_c": 12,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "length": 4,
+      "clue": "Eskiden şehirleri düşmandan korumak için yapılmış yüksek surlu savunma yapısı (4 harf) [B247-S1]",
+      "answer": "KALE"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "length": 4,
+      "clue": "Evde ya da iş yerinde gündelik hayatta kullanılan nesnelerin tümü (4 harf) [B247-S2]",
+      "answer": "EŞYA"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 1,
+      "col": 5,
+      "length": 3,
+      "clue": "Kişinin yasal olarak sahip olduğu; alması ya da yapması gereken şey (3 harf) [B247-S3]",
+      "answer": "HAK"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 1,
+      "col": 7,
+      "length": 4,
+      "clue": "Müziğin ritmine uyarak, düzenli vücut hareketleriyle yapılan sanatsal eylem (4 harf) [B247-S4]",
+      "answer": "DANS"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 2,
+      "col": 7,
+      "length": 3,
+      "clue": "Halk ağzında yakışıklı, gösterişli kimse için kullanılan eski bir sözcük (3 harf) [B247-S5]",
+      "answer": "AFİ"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 3,
+      "col": 3,
+      "length": 5,
+      "clue": "Belirlenen vaktin öncesinde gelme; geç kalmanın tersi durumu (5 harf) [B247-S6]",
+      "answer": "ERKEN"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 4,
+      "col": 7,
+      "length": 4,
+      "clue": "Limon ve altın tonlarında olan, güneşi çağrıştıran canlı sıcak renk (4 harf) [B247-S7]",
+      "answer": "SARI"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 4,
+      "col": 8,
+      "length": 5,
+      "clue": "Tekerlekleri üstünde insan ya da yük taşıyan motorlu kara taşıtı (5 harf) [B247-S8]",
+      "answer": "ARABA"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 6,
+      "col": 7,
+      "length": 5,
+      "clue": "Güneşin doğmasıyla başlayıp öğleye kadar süren günün ilk dilimi (5 harf) [B247-S9]",
+      "answer": "SABAH"
+    },
+    {
+      "number": 10,
+      "direction": "across",
+      "row": 8,
+      "col": 7,
+      "length": 4,
+      "clue": "Eskiyip yırtılan giysiyi onarmak için üstüne dikilen küçük kumaş parçası (4 harf) [B247-S10]",
+      "answer": "YAMA"
+    }
+  ]
+}

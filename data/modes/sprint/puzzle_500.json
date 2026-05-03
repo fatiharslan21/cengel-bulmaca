@@ -1,0 +1,189 @@
+{
+  "id": 500,
+  "title": "Bölüm 500",
+  "difficulty": "Orta",
+  "grid_size_r": 8,
+  "grid_size_c": 9,
+  "grid": [
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "across",
+      "row": 0,
+      "col": 1,
+      "length": 5,
+      "clue": "Dinlerde iyilikle görevlendirilmiş, kanatlı olduğuna inanılan kutsal varlık (5 harf) [B244-S1]",
+      "answer": "MELEK"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "length": 3,
+      "clue": "Açıklamaya uyan yanıt (3 harf) [B244-S2]",
+      "answer": "KÜL"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 0,
+      "col": 7,
+      "length": 3,
+      "clue": "İğne ya da tığla işlenen, başörtüsü kenarını süsleyen ince el işi (3 harf) [B244-S3]",
+      "answer": "OYA"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 2,
+      "col": 4,
+      "length": 4,
+      "clue": "Kabuğu kırmızı, sarı ya da yeşil olabilen, sulu ve çıtır meyve (4 harf) [B244-S4]",
+      "answer": "ELMA"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "length": 5,
+      "clue": "Doğada bulunan en sert madde; takılarda kullanılan değerli kıymetli taş (5 harf) [B244-S4]",
+      "answer": "ELMAS"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "length": 5,
+      "clue": "Zihinde canlandırılan, gerçekleşmesi beklenen ya da umulan görüntü (5 harf) [B244-S5]",
+      "answer": "HAYAL"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 3,
+      "col": 1,
+      "length": 3,
+      "clue": "Bir hastalığa karşı bağışıklık kazandırmak için vücuda verilen ilaç (3 harf) [B244-S6]",
+      "answer": "AŞI"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 4,
+      "col": 6,
+      "length": 4,
+      "clue": "Yeni durumlara hızla uyum sağlayıp doğru kararlar verebilme yeteneği (4 harf) [B244-S7]",
+      "answer": "ZEKA"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 5,
+      "col": 3,
+      "length": 5,
+      "clue": "Ucundan mürekkep ya da grafit akıtarak kâğıda yazı yazmayı sağlayan araç (5 harf) [B244-S8]",
+      "answer": "KALEM"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 7,
+      "col": 5,
+      "length": 4,
+      "clue": "Ortaçağ Avrupası'nda soyluların yaşadığı kuleli, büyük taştan yapılı konak (4 harf) [B244-S9]",
+      "answer": "ŞATO"
+    }
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "id": 452,
+  "title": "Bölüm 452",
+  "difficulty": "Orta",
+  "grid_size_r": 12,
+  "grid_size_c": 8,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "length": 5,
+      "clue": "Tekerlekleri üstünde insan ya da yük taşıyan motorlu kara taşıtı (5 harf) [B196-S1]",
+      "answer": "ARABA"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "length": 3,
+      "clue": "Başkalarıyla paylaşılmayan; yalnızca bir kişinin bildiği gizli bilgi (3 harf) [B196-S2]",
+      "answer": "SIR"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 4,
+      "col": 2,
+      "length": 4,
+      "clue": "Hastalıkları iyileştirmek amacıyla hazırlanan, doktor tarafından verilen madde (4 harf) [B196-S3]",
+      "answer": "İLAÇ"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 4,
+      "col": 5,
+      "length": 5,
+      "clue": "Geniş yaprakları ve kalın gövdesiyle yüzyıllarca yaşayabilen büyük ağaç (5 harf) [B196-S4]",
+      "answer": "ÇINAR"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "length": 6,
+      "clue": "Uzun kasasında büyük yükler taşıyan, dört tekerlekten fazlası olan taşıt (6 harf) [B196-S5]",
+      "answer": "KAMYON"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 6,
+      "col": 7,
+      "length": 5,
+      "clue": "Bir yüzeyin ya da nesnenin dış sınırını oluşturan uç bölüm (5 harf) [B196-S6]",
+      "answer": "KENAR"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 8,
+      "col": 2,
+      "length": 3,
+      "clue": "Üstesinden gelinmesi emek isteyen; kolayın tam karşıtı sayılan güç iş (3 harf) [B196-S7]",
+      "answer": "ZOR"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 8,
+      "col": 4,
+      "length": 4,
+      "clue": "Bir kişinin ya da akımın kendine özgü yapma biçimi; üslup (4 harf) [B196-S8]",
+      "answer": "TARZ"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 8,
+      "col": 4,
+      "length": 4,
+      "clue": "Raylar üzerinde hareket eden, vagonları çeken büyük motorlu araç (4 harf) [B196-S8]",
+      "answer": "TREN"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 9,
+      "col": 1,
+      "length": 4,
+      "clue": "Saçı ya da kemeri tutturmaya yarayan, klips gibi açılıp kapanan küçük süs (4 harf) [B196-S9]",
+      "answer": "TOKA"
+    }
+  ]
+}

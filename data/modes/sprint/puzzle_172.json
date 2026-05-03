@@ -1,0 +1,245 @@
+{
+  "id": 172,
+  "title": "Bölüm 172",
+  "difficulty": "Çok Zor",
+  "grid_size_r": 12,
+  "grid_size_c": 10,
+  "grid": [
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "length": 5,
+      "clue": "Geçim sıkıntısı çekmeden, bolluk içinde sürdürülen rahat ve huzurlu yaşam (5 harf) [B419-S1]",
+      "answer": "REFAH"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 1,
+      "col": 1,
+      "length": 5,
+      "clue": "Bir kimsenin toplumdaki yeri, konumu ya da makamı (5 harf) [B419-S2]",
+      "answer": "MEVKİ"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "length": 3,
+      "clue": "Elin iç tarafı; parmakların bittiği yerden bileğe kadar uzanan bölüm (3 harf) [B419-S3]",
+      "answer": "AYA"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 3,
+      "col": 5,
+      "length": 5,
+      "clue": "Çevresinde olanlardan haberi olmayan, dalgın ve dikkatsiz kimse (5 harf) [B419-S4]",
+      "answer": "GAFİL"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 4,
+      "col": 2,
+      "length": 5,
+      "clue": "Uygunsuz bir durumda duyulan utanç; insanın yüzünü gizleme isteği (5 harf) [B419-S5]",
+      "answer": "HİCAP"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 5,
+      "col": 8,
+      "length": 4,
+      "clue": "Raylar üzerinde hareket eden, vagonları çeken büyük motorlu araç (4 harf) [B419-S6]",
+      "answer": "TREN"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 7,
+      "col": 3,
+      "length": 7,
+      "clue": "Tırtılken metamorfoz geçirip renkli kanatlara kavuşan zarif böcek (7 harf) [B419-S7]",
+      "answer": "KELEBEK"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 7,
+      "col": 3,
+      "length": 5,
+      "clue": "Bir şeyin eksiksiz, kusursuz ve en üst düzeyde olgunlaşmış hali (5 harf) [B419-S7]",
+      "answer": "KEMAL"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 7,
+      "col": 6,
+      "length": 4,
+      "clue": "Kabuğu kırmızı, sarı ya da yeşil olabilen, sulu ve çıtır meyve (4 harf) [B419-S8]",
+      "answer": "ELMA"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 10,
+      "col": 6,
+      "length": 3,
+      "clue": "İki şeyin birbirinden ayrıldığı boşluk; kısa mola süresi (3 harf) [B419-S9]",
+      "answer": "ARA"
+    }
+  ]
+}

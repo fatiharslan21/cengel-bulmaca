@@ -1,0 +1,244 @@
+{
+  "id": 166,
+  "title": "Bölüm 166",
+  "difficulty": "Çok Zor",
+  "grid_size_r": 11,
+  "grid_size_c": 11,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "length": 4,
+      "clue": "İçten duyulan gönül rahatlığı; keder bırakmayan tatlı neşe (4 harf) [B413-S1]",
+      "answer": "SAFA"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 1,
+      "col": 1,
+      "length": 5,
+      "clue": "Bir olayın geçtiği ya da bir şeyin bulunduğu belirli yer; mahal (5 harf) [B413-S2]",
+      "answer": "MEKAN"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "length": 3,
+      "clue": "Konuşan kişinin kendisini belirtmek için kullandığı birinci tekil zamir (3 harf) [B413-S3]",
+      "answer": "BEN"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "length": 5,
+      "clue": "Saniyelerden yıllara uzanan; akıp giden, geri döndürülemeyen zaman (5 harf) [B413-S4]",
+      "answer": "VAKİT"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 2,
+      "col": 4,
+      "length": 4,
+      "clue": "Dostluğunu ve sevgisini zaman geçse bile sürdürme; söze sadakat (4 harf) [B413-S4]",
+      "answer": "VEFA"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "length": 5,
+      "clue": "Çorba, pilav gibi yemekleri ağza götürmek için kullanılan çukur sap (5 harf) [B413-S5]",
+      "answer": "KAŞIK"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 6,
+      "col": 4,
+      "length": 4,
+      "clue": "Sayılabilen nesnelerin her biri; küçük parça ya da adet (4 harf) [B413-S6]",
+      "answer": "TANE"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 6,
+      "col": 5,
+      "length": 3,
+      "clue": "Eskiden köylerde geniş topraklara sahip, sözü geçen nüfuzlu kişi (3 harf) [B413-S7]",
+      "answer": "AĞA"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 7,
+      "col": 9,
+      "length": 4,
+      "clue": "Bir kurala, şahsa ya da düzene bağlı olan; ona uymak durumunda kalan (4 harf) [B413-S8]",
+      "answer": "TABİ"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 8,
+      "col": 4,
+      "length": 7,
+      "clue": "Sevdiğine ya da inandığına ömür boyu bağlı kalma; vefa göstermek (7 harf) [B413-S9]",
+      "answer": "SADAKAT"
+    }
+  ]
+}

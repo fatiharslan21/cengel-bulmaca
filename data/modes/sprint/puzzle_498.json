@@ -1,0 +1,197 @@
+{
+  "id": 498,
+  "title": "Bölüm 498",
+  "difficulty": "Orta",
+  "grid_size_r": 8,
+  "grid_size_c": 10,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "length": 4,
+      "clue": "Bir eşyanın ya da yüzeyin üstünü kapatmak için serilen kumaş parçası (4 harf) [B242-S1]",
+      "answer": "ÖRTÜ"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 2,
+      "col": 8,
+      "length": 3,
+      "clue": "Mektupların üzerine yapıştırılan, postanın ücretini belgeleyen küçük kâğıt (3 harf) [B242-S2]",
+      "answer": "PUL"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 3,
+      "col": 3,
+      "length": 3,
+      "clue": "Uyku sırasında zihnin canlandırdığı görüntüler ya da uyanıkken kurulan hayal (3 harf) [B242-S3]",
+      "answer": "DÜŞ"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 3,
+      "col": 3,
+      "length": 5,
+      "clue": "Kıtaları birbirinden ayıran, tuzlu sulardan oluşan uçsuz bucaksız kütle (5 harf) [B242-S3]",
+      "answer": "DENİZ"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "length": 4,
+      "clue": "Bir olayın başlangıcı ile sonu arasında geçen zaman aralığı (4 harf) [B242-S4]",
+      "answer": "SÜRE"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 4,
+      "col": 6,
+      "length": 4,
+      "clue": "Bir tarafı yapışkan olan, eşyaları tutturmaya yarayan uzun ince şerit (4 harf) [B242-S5]",
+      "answer": "BANT"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 4,
+      "col": 6,
+      "length": 3,
+      "clue": "Arıların çiçeklerden topladığı nektarı işleyerek yaptığı koyu, tatlı gıda (3 harf) [B242-S5]",
+      "answer": "BAL"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 5,
+      "col": 3,
+      "length": 4,
+      "clue": "Müzik eserlerinde seslerin yükseklik ve uzunluğunu gösteren küçük simge (4 harf) [B242-S6]",
+      "answer": "NOTA"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 6,
+      "col": 1,
+      "length": 3,
+      "clue": "Hoşa giden, yararlı ve olumlu olan; kötünün tam karşıtı olan nitelik (3 harf) [B242-S7]",
+      "answer": "İYİ"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 7,
+      "col": 6,
+      "length": 4,
+      "clue": "Raylar üzerinde hareket eden, vagonları çeken büyük motorlu araç (4 harf) [B242-S8]",
+      "answer": "TREN"
+    }
+  ]
+}

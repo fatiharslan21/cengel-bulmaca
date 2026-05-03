@@ -1,0 +1,233 @@
+{
+  "id": 190,
+  "title": "Bölüm 190",
+  "difficulty": "Çok Zor",
+  "grid_size_r": 12,
+  "grid_size_c": 9,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "length": 5,
+      "clue": "Bir cümlenin sonuna konan en küçük yazı işareti; konumun kendisi (5 harf) [B437-S1]",
+      "answer": "NOKTA"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 1,
+      "col": 1,
+      "length": 5,
+      "clue": "Ağızdan çıkan söz; düşüncenin dille ifade bulmuş hali (5 harf) [B437-S2]",
+      "answer": "KELAM"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 2,
+      "col": 3,
+      "length": 5,
+      "clue": "Saplı, parlak, kırmızı kabuklu; ilkbaharın sonunda olgunlaşan tatlı meyve (5 harf) [B437-S3]",
+      "answer": "KİRAZ"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "length": 7,
+      "clue": "Sevdiğine ya da inandığına ömür boyu bağlı kalma; vefa göstermek (7 harf) [B437-S4]",
+      "answer": "SADAKAT"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 4,
+      "col": 4,
+      "length": 3,
+      "clue": "Çanak çömlek yapımında kullanılan, suyla yumuşayan yapışkan toprak (3 harf) [B437-S5]",
+      "answer": "KİL"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 4,
+      "col": 6,
+      "length": 5,
+      "clue": "İnsanın pek rastlanmadığı, sessiz ve ıssız kalmış mekân (5 harf) [B437-S6]",
+      "answer": "TENHA"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 4,
+      "col": 8,
+      "length": 5,
+      "clue": "Birbirinden ayrı düşen sevgililerin yaşadığı acı dolu ayrılık (5 harf) [B437-S7]",
+      "answer": "FIRAK"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 6,
+      "col": 6,
+      "length": 3,
+      "clue": "İçi kırmızı tanelerle dolu, kalın kabuklu, sonbahar aylarının meyvesi (3 harf) [B437-S8]",
+      "answer": "NAR"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 8,
+      "col": 1,
+      "length": 6,
+      "clue": "Çözülmesi zor olan gizemli durum; içinden çıkılmaz sır (6 harf) [B437-S9]",
+      "answer": "MUAMMA"
+    },
+    {
+      "number": 10,
+      "direction": "down",
+      "row": 8,
+      "col": 3,
+      "length": 4,
+      "clue": "Kaldırılması güç olan, hafif sözcüğünün zıttı sayılan kütle durumu (4 harf) [B437-S10]",
+      "answer": "AĞIR"
+    }
+  ]
+}

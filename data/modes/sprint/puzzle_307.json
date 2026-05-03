@@ -1,0 +1,191 @@
+{
+  "id": 307,
+  "title": "Bölüm 307",
+  "difficulty": "Kolay",
+  "grid_size_r": 9,
+  "grid_size_c": 9,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 7,
+      "length": 5,
+      "clue": "Ev ya da yapı yakınında çiçek, sebze ve ağaç yetiştirilen yeşil alan (5 harf) [B51-S1]",
+      "answer": "BAHÇE"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 1,
+      "col": 6,
+      "length": 3,
+      "clue": "İçi kırmızı tanelerle dolu, kalın kabuklu, sonbahar aylarının meyvesi (3 harf) [B51-S2]",
+      "answer": "NAR"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 4,
+      "col": 4,
+      "length": 5,
+      "clue": "İp ya da parmaklarla oynatılan, tiyatro sahnesinde canlanan figürlü bebek (5 harf) [B51-S3]",
+      "answer": "KUKLA"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 4,
+      "col": 6,
+      "length": 3,
+      "clue": "Bulunduğun yerden buraya doğru yaklaş; git sözcüğünün tam zıttı eylem (3 harf) [B51-S4]",
+      "answer": "GEL"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 4,
+      "col": 6,
+      "length": 3,
+      "clue": "Yirmi dört saate denk gelen; sabahtan akşama uzanan zaman dilimi (3 harf) [B51-S4]",
+      "answer": "GÜN"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "length": 3,
+      "clue": "İnsanın doğduğu günden bu yana geçen toplam yıl; ömürdeki basamak (3 harf) [B51-S5]",
+      "answer": "YAŞ"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 5,
+      "col": 2,
+      "length": 3,
+      "clue": "Bir ekibin başında bulunup işleri yöneten kişi; mutfağın baş aşçısı (3 harf) [B51-S6]",
+      "answer": "ŞEF"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 6,
+      "col": 2,
+      "length": 5,
+      "clue": "Belirlenen vaktin öncesinde gelme; geç kalmanın tersi durumu (5 harf) [B51-S7]",
+      "answer": "ERKEN"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 8,
+      "col": 3,
+      "length": 3,
+      "clue": "Yaptıklarıyla uzaklarda bile tanınıp bilinir olmanın verdiği büyük ün (3 harf) [B51-S8]",
+      "answer": "ŞAN"
+    }
+  ]
+}

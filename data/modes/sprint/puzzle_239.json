@@ -1,0 +1,182 @@
+{
+  "id": 239,
+  "title": "Bölüm 239",
+  "difficulty": "Çok Zor",
+  "grid_size_r": 9,
+  "grid_size_c": 7,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "length": 4,
+      "clue": "Katlanabilen küçük bıçak; çoğunlukla cepte taşınan, sivri uçlu el aleti (4 harf) [B486-S1]",
+      "answer": "ÇAKI"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 1,
+      "col": 0,
+      "length": 5,
+      "clue": "Dinlerde iyilikle görevlendirilmiş, kanatlı olduğuna inanılan kutsal varlık (5 harf) [B486-S2]",
+      "answer": "MELEK"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "length": 3,
+      "clue": "İnsanın doğduğu günden bu yana geçen toplam yıl; ömürdeki basamak (3 harf) [B486-S3]",
+      "answer": "YAŞ"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 2,
+      "col": 5,
+      "length": 3,
+      "clue": "Demirin hava ve nemle temas ederek zamanla üzerinde oluşturduğu kızıl tabaka (3 harf) [B486-S4]",
+      "answer": "PAS"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 3,
+      "col": 2,
+      "length": 5,
+      "clue": "Birbirinden ayrı düşen sevgililerin yaşadığı acı dolu ayrılık (5 harf) [B486-S5]",
+      "answer": "FIRAK"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 3,
+      "col": 2,
+      "length": 4,
+      "clue": "Niteliği kötü olan, insanın içini bunaltan; iyi sözcüğünün zıttı (4 harf) [B486-S5]",
+      "answer": "FENA"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "length": 3,
+      "clue": "Metal ya da tırnak gibi sert yüzeyleri aşındırarak düzelten dişli alet (3 harf) [B486-S6]",
+      "answer": "EĞE"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 6,
+      "col": 1,
+      "length": 6,
+      "clue": "Bir kişinin emeğini ya da başarısını görüp açıkça beğenip övme (6 harf) [B486-S7]",
+      "answer": "TAKDİR"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 6,
+      "col": 3,
+      "length": 3,
+      "clue": "Alevi sönmüş ama sıcaklığı ve kızıllığı süren yanmakta olan parça (3 harf) [B486-S8]",
+      "answer": "KOR"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 8,
+      "col": 1,
+      "length": 5,
+      "clue": "Bilinmeyen bir şeyi öğrenmek için insanın içine düşen güçlü istek (5 harf) [B486-S9]",
+      "answer": "MERAK"
+    }
+  ]
+}

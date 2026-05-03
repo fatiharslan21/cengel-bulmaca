@@ -1,0 +1,233 @@
+{
+  "id": 111,
+  "title": "Bölüm 111",
+  "difficulty": "Zor",
+  "grid_size_r": 11,
+  "grid_size_c": 10,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 9,
+      "length": 4,
+      "clue": "İçten doğan büyük istek; insanı coşturan şiddetli arzu ve heves (4 harf) [B358-S1]",
+      "answer": "ŞEVK"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 3,
+      "col": 2,
+      "length": 3,
+      "clue": "Bir kimsenin ya da şeyin bulunduğu durum, vaziyet ya da keyif (3 harf) [B358-S2]",
+      "answer": "HAL"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 3,
+      "col": 6,
+      "length": 5,
+      "clue": "Zarla ve pullarla iki kişi arasında oynanan, kahvehane kültürünün oyunu (5 harf) [B358-S3]",
+      "answer": "TAVLA"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 3,
+      "col": 6,
+      "length": 4,
+      "clue": "Anadolu ve çevresinde yaşayan, Orta Asya kökenli büyük millet (4 harf) [B358-S3]",
+      "answer": "TÜRK"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 3,
+      "col": 8,
+      "length": 5,
+      "clue": "Aynı amaca ulaşmak için karşı karşıya gelen, yarış halindeki hasım (5 harf) [B358-S4]",
+      "answer": "RAKİP"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 4,
+      "col": 1,
+      "length": 4,
+      "clue": "Bir işe girişirken göz önünde tutulan, ulaşılmak istenen son hedef (4 harf) [B358-S5]",
+      "answer": "GAYE"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 4,
+      "col": 4,
+      "length": 5,
+      "clue": "Belirlenen vaktin öncesinde gelme; geç kalmanın tersi durumu (5 harf) [B358-S6]",
+      "answer": "ERKEN"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 6,
+      "col": 3,
+      "length": 4,
+      "clue": "Öğrencilerin öğretmenler tarafından eğitim aldığı resmî öğretim kurumu (4 harf) [B358-S7]",
+      "answer": "OKUL"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "length": 5,
+      "clue": "Vücudun belirli bir işlevi yerine getiren, dokulardan oluşmuş bölümü (5 harf) [B358-S8]",
+      "answer": "ORGAN"
+    },
+    {
+      "number": 9,
+      "direction": "down",
+      "row": 8,
+      "col": 3,
+      "length": 3,
+      "clue": "Soyun büyüklerinden sayılan dede ya da daha öncesinden gelen büyük (3 harf) [B358-S9]",
+      "answer": "ATA"
+    }
+  ]
+}

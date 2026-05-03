@@ -1,0 +1,221 @@
+{
+  "id": 14,
+  "title": "Bölüm 14",
+  "difficulty": "Zor",
+  "grid_size_r": 12,
+  "grid_size_c": 8,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 7,
+      "length": 3,
+      "clue": "Çanak çömlek yapımında kullanılan, suyla yumuşayan yapışkan toprak (3 harf) [B261-S1]",
+      "answer": "KİL"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 2,
+      "col": 5,
+      "length": 3,
+      "clue": "Mektupların üzerine yapıştırılan, postanın ücretini belgeleyen küçük kâğıt (3 harf) [B261-S2]",
+      "answer": "PUL"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 2,
+      "col": 6,
+      "length": 4,
+      "clue": "Bir işin belirli kurallar içinde yapılmasını sağlayan yol; yöntem (4 harf) [B261-S3]",
+      "answer": "USUL"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 5,
+      "col": 4,
+      "length": 5,
+      "clue": "Zihinde canlandırılan, gerçekleşmesi beklenen ya da umulan görüntü (5 harf) [B261-S4]",
+      "answer": "HAYAL"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 5,
+      "col": 4,
+      "length": 4,
+      "clue": "Birini aldatmak için yapılan gizli düzen; dolap çevirme (4 harf) [B261-S4]",
+      "answer": "HİLE"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 6,
+      "col": 1,
+      "length": 4,
+      "clue": "Uzaktan duyulan insan ya da doğa sesi; boğumlu ses dalgası (4 harf) [B261-S5]",
+      "answer": "SADA"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 7,
+      "col": 4,
+      "length": 3,
+      "clue": "Gözlerin, burnun ve ağzın bulunduğu baş ön kısmı; ayrıca on kere on sayısı (3 harf) [B261-S6]",
+      "answer": "YÜZ"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 8,
+      "col": 1,
+      "length": 4,
+      "clue": "Eskiyip yırtılan giysiyi onarmak için üstüne dikilen küçük kumaş parçası (4 harf) [B261-S7]",
+      "answer": "YAMA"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 9,
+      "col": 0,
+      "length": 5,
+      "clue": "Bir şeyin bir yerden başka bir yere taşınması; aktarma işlemi (5 harf) [B261-S8]",
+      "answer": "NAKİL"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 11,
+      "col": 1,
+      "length": 3,
+      "clue": "Halk ağzında yakışıklı, gösterişli kimse için kullanılan eski bir sözcük (3 harf) [B261-S9]",
+      "answer": "AFİ"
+    }
+  ]
+}

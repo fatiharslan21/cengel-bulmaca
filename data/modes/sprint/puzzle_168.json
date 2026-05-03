@@ -1,0 +1,231 @@
+{
+  "id": 168,
+  "title": "Bölüm 168",
+  "difficulty": "Çok Zor",
+  "grid_size_r": 10,
+  "grid_size_c": 11,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 9,
+      "length": 5,
+      "clue": "Bir şeyin bir yerden başka bir yere taşınması; aktarma işlemi (5 harf) [B415-S1]",
+      "answer": "NAKİL"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 1,
+      "col": 8,
+      "length": 3,
+      "clue": "Derin ve dik uçurum; aynı zamanda sevilen kişi için kullanılan şiirsel ad (3 harf) [B415-S2]",
+      "answer": "YAR"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 3,
+      "col": 1,
+      "length": 5,
+      "clue": "Sporda kuralların uygulanmasını denetleyen, karar veren yetkili kişi (5 harf) [B415-S3]",
+      "answer": "HAKEM"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 3,
+      "col": 6,
+      "length": 5,
+      "clue": "Sonu kötü olabilecek; durumun ne kadar ağır olduğunu gösteren sıfat (5 harf) [B415-S4]",
+      "answer": "VAHİM"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "length": 4,
+      "clue": "Bir kurala, şahsa ya da düzene bağlı olan; ona uymak durumunda kalan (4 harf) [B415-S5]",
+      "answer": "TABİ"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 4,
+      "col": 6,
+      "length": 4,
+      "clue": "Sahte ya da taklit olmayan; bir şeyin gerçek ve temel olan hali (4 harf) [B415-S6]",
+      "answer": "ASIL"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "length": 7,
+      "clue": "Gizli kalmış bir şeyin zamanı gelince gözle görünür olması; belirme (7 harf) [B415-S7]",
+      "answer": "TECELLİ"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 6,
+      "col": 3,
+      "length": 4,
+      "clue": "Kavuşulması için yıllarca beklenen, gönülde taşınan büyük istek (4 harf) [B415-S8]",
+      "answer": "EMEL"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 7,
+      "col": 6,
+      "length": 5,
+      "clue": "İçe işleyen hafif hüzün; kimseye belli edilmeyen sessiz usanç (5 harf) [B415-S9]",
+      "answer": "MELAL"
+    },
+    {
+      "number": 10,
+      "direction": "across",
+      "row": 9,
+      "col": 1,
+      "length": 5,
+      "clue": "İçten gelen bağlılık; gönülden duyulan samimi sevgi ve sadakat (5 harf) [B415-S10]",
+      "answer": "HULUS"
+    }
+  ]
+}

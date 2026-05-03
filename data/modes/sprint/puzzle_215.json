@@ -1,0 +1,257 @@
+{
+  "id": 215,
+  "title": "Bölüm 215",
+  "difficulty": "Çok Zor",
+  "grid_size_r": 12,
+  "grid_size_c": 11,
+  "grid": [
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "across",
+      "row": 0,
+      "col": 1,
+      "length": 4,
+      "clue": "Yapılan iyiliğin ya da çekilen sıkıntının karşılığı olarak verilen sevap (4 harf) [B462-S1]",
+      "answer": "ECİR"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "length": 5,
+      "clue": "Geçim sıkıntısı çekmeden, bolluk içinde sürdürülen rahat ve huzurlu yaşam (5 harf) [B462-S2]",
+      "answer": "REFAH"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 2,
+      "col": 2,
+      "length": 5,
+      "clue": "Yüreği saran, insanı kendinden geçiren güçlü aşk ve tutku (5 harf) [B462-S3]",
+      "answer": "SEVDA"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 3,
+      "col": 1,
+      "length": 5,
+      "clue": "Bir işi ya da durumu ara vermeden sürdürme, aksatmadan götürme hali (5 harf) [B462-S4]",
+      "answer": "DEVAM"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 6,
+      "col": 1,
+      "length": 4,
+      "clue": "İçine çiçek konulmak üzere yapılmış, ince uzun boyunlu süs kabı (4 harf) [B462-S5]",
+      "answer": "VAZO"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 6,
+      "col": 1,
+      "length": 6,
+      "clue": "Az sözle büyük anlam ifade eden, akılda kalan özlü söz (6 harf) [B462-S5]",
+      "answer": "VECİZE"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 7,
+      "col": 5,
+      "length": 5,
+      "clue": "Birbirini gören iki kişinin hal hatır sormak için söylediği esenlik dileği (5 harf) [B462-S6]",
+      "answer": "SELAM"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 8,
+      "col": 1,
+      "length": 3,
+      "clue": "İnsanı yaşatan soluk, ruh; bedenin yaşamını sürdürmesini sağlayan güç (3 harf) [B462-S7]",
+      "answer": "CAN"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 10,
+      "col": 5,
+      "length": 6,
+      "clue": "Türkiye Cumhuriyeti'nin başkenti ve İç Anadolu'nun en büyük şehri (6 harf) [B462-S8]",
+      "answer": "ANKARA"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 11,
+      "col": 0,
+      "length": 6,
+      "clue": "Yer kabuğunun kırılmasıyla meydana gelen, yüzeyi sarsan doğal olay (6 harf) [B462-S9]",
+      "answer": "DEPREM"
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "id": 398,
+  "title": "Bölüm 398",
+  "difficulty": "Orta",
+  "grid_size_r": 7,
+  "grid_size_c": 10,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 7,
+      "length": 3,
+      "clue": "Açıklamaya uyan yanıt (3 harf) [B142-S1]",
+      "answer": "TÜR"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 1,
+      "col": 9,
+      "length": 3,
+      "clue": "Göğüs kafesi ile kalçalar arasında kalan, vücudun orta kısmı (3 harf) [B142-S2]",
+      "answer": "BEL"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 2,
+      "col": 3,
+      "length": 4,
+      "clue": "Suç işleyen kimseye, yaptığının karşılığı olarak verilen yaptırım (4 harf) [B142-S3]",
+      "answer": "CEZA"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 2,
+      "col": 5,
+      "length": 4,
+      "clue": "Yeni durumlara hızla uyum sağlayıp doğru kararlar verebilme yeteneği (4 harf) [B142-S4]",
+      "answer": "ZEKA"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 2,
+      "col": 5,
+      "length": 5,
+      "clue": "Bir dağın en yüksek noktası; ulaşılabilecek en üst basamak (5 harf) [B142-S4]",
+      "answer": "ZİRVE"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 4,
+      "col": 1,
+      "length": 5,
+      "clue": "Seslerin belli bir düzen içinde bir araya getirilmesiyle oluşan sanat (5 harf) [B142-S5]",
+      "answer": "MÜZİK"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 4,
+      "col": 1,
+      "length": 3,
+      "clue": "Sahip olunan taşınır ya da taşınmaz değerli eşya; mülk (3 harf) [B142-S5]",
+      "answer": "MAL"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 4,
+      "col": 7,
+      "length": 3,
+      "clue": "Arıların çiçeklerden topladığı nektarı işleyerek yaptığı koyu, tatlı gıda (3 harf) [B142-S6]",
+      "answer": "BAL"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 5,
+      "col": 5,
+      "length": 4,
+      "clue": "Toprağa kök salmış, gövdesi odunlaşmış, uzun ömürlü büyük bitki (4 harf) [B142-S7]",
+      "answer": "AĞAÇ"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "length": 3,
+      "clue": "Yüceliğiyle saygı uyandıran; hem büyük hem görkemli olan varlık (3 harf) [B142-S8]",
+      "answer": "ULU"
+    }
+  ]
+}

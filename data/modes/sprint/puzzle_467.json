@@ -1,0 +1,197 @@
+{
+  "id": 467,
+  "title": "Bölüm 467",
+  "difficulty": "Orta",
+  "grid_size_r": 12,
+  "grid_size_c": 6,
+  "grid": [
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "length": 3,
+      "clue": "Omuzlara atılan ya da başa örtülen, yumuşak geniş kumaş parçası (3 harf) [B211-S1]",
+      "answer": "ŞAL"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "length": 3,
+      "clue": "Bir sıranın en başında bulunan; sondan önce hiçbir şey olmayan sırada birinci (3 harf) [B211-S2]",
+      "answer": "İLK"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 2,
+      "col": 2,
+      "length": 6,
+      "clue": "Uzun kasasında büyük yükler taşıyan, dört tekerlekten fazlası olan taşıt (6 harf) [B211-S3]",
+      "answer": "KAMYON"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 3,
+      "col": 2,
+      "length": 3,
+      "clue": "Halk ağzında yakışıklı, gösterişli kimse için kullanılan eski bir sözcük (3 harf) [B211-S4]",
+      "answer": "AFİ"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "length": 5,
+      "clue": "Zihinde canlandırılan, gerçekleşmesi beklenen ya da umulan görüntü (5 harf) [B211-S5]",
+      "answer": "HAYAL"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "length": 5,
+      "clue": "Üzerinde yaşadığımız, Güneş'in çevresinde dönen mavi yeşil gezegen (5 harf) [B211-S6]",
+      "answer": "DÜNYA"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 7,
+      "col": 0,
+      "length": 3,
+      "clue": "İçin karşıtı; bir şeyin çevresini gören, dışarıya bakan yüzü (3 harf) [B211-S6]",
+      "answer": "DIŞ"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 7,
+      "col": 4,
+      "length": 3,
+      "clue": "Birden çok rengin bir arada bulunduğu, benekli ya da karışık görünüm (3 harf) [B211-S7]",
+      "answer": "ALA"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 9,
+      "col": 3,
+      "length": 3,
+      "clue": "Arıların çiçeklerden topladığı nektarı işleyerek yaptığı koyu, tatlı gıda (3 harf) [B211-S8]",
+      "answer": "BAL"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 9,
+      "col": 3,
+      "length": 3,
+      "clue": "Üzüm yetiştirilen tarla; aynı zamanda düğümle tutturma eylemi (3 harf) [B211-S8]",
+      "answer": "BAĞ"
+    }
+  ]
+}

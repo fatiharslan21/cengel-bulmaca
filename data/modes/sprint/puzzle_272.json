@@ -1,0 +1,192 @@
+{
+  "id": 272,
+  "title": "Bölüm 272",
+  "difficulty": "Kolay",
+  "grid_size_r": 10,
+  "grid_size_c": 8,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    [
+      1,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1
+    ],
+    [
+      1,
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "across",
+      "row": 0,
+      "col": 3,
+      "length": 4,
+      "clue": "Kabuğu kırmızı, sarı ya da yeşil olabilen, sulu ve çıtır meyve (4 harf) [B18-S1]",
+      "answer": "ELMA"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "length": 5,
+      "clue": "Dinlerde iyilikle görevlendirilmiş, kanatlı olduğuna inanılan kutsal varlık (5 harf) [B18-S2]",
+      "answer": "MELEK"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 2,
+      "col": 2,
+      "length": 4,
+      "clue": "Başarı gösteren kimseye, çabasının karşılığı olarak verilen değerli armağan (4 harf) [B18-S3]",
+      "answer": "ÖDÜL"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 2,
+      "col": 3,
+      "length": 4,
+      "clue": "Dağlardan doğan, ırmağa ya da göle dökülen küçük doğal akarsu (4 harf) [B18-S4]",
+      "answer": "DERE"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 2,
+      "col": 7,
+      "length": 4,
+      "clue": "İnsanı üzen, iç sıkıntısı veren; uzun süre geçmeyen tasa ve keder (4 harf) [B18-S5]",
+      "answer": "DERT"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 3,
+      "col": 0,
+      "length": 4,
+      "clue": "Gömleğin boynu çevreleyen üst kısmı; ceketin de boyuna değen kenarı (4 harf) [B18-S6]",
+      "answer": "YAKA"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 4,
+      "col": 5,
+      "length": 3,
+      "clue": "Alevi sönmüş ama sıcaklığı ve kızıllığı süren yanmakta olan parça (3 harf) [B18-S7]",
+      "answer": "KOR"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "length": 5,
+      "clue": "İnsana sadakatiyle bilinen, havlayarak seslenen evcil dört ayaklı (5 harf) [B18-S8]",
+      "answer": "KÖPEK"
+    },
+    {
+      "number": 9,
+      "direction": "down",
+      "row": 5,
+      "col": 4,
+      "length": 5,
+      "clue": "Saplı, parlak, kırmızı kabuklu; ilkbaharın sonunda olgunlaşan tatlı meyve (5 harf) [B18-S9]",
+      "answer": "KİRAZ"
+    }
+  ]
+}

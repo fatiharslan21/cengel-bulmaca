@@ -1,0 +1,233 @@
+{
+  "id": 143,
+  "title": "Bölüm 143",
+  "difficulty": "Çok Zor",
+  "grid_size_r": 12,
+  "grid_size_c": 9,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "length": 4,
+      "clue": "Dişleri sürekli uzayan, tahtayı ve kâğıdı kemirebilen küçük kemirgen (4 harf) [B390-S1]",
+      "answer": "FARE"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 1,
+      "col": 3,
+      "length": 3,
+      "clue": "Geçmişte yaşanmış ve zihinde iz bırakmış olayların hatırlanması (3 harf) [B390-S2]",
+      "answer": "ANI"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 1,
+      "col": 8,
+      "length": 4,
+      "clue": "Müzik eserlerinde seslerin yükseklik ve uzunluğunu gösteren küçük simge (4 harf) [B390-S3]",
+      "answer": "NOTA"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 2,
+      "col": 6,
+      "length": 4,
+      "clue": "Din esaslarına yürekten bağlanma; kalben kabul edip inanma hali (4 harf) [B390-S4]",
+      "answer": "İMAN"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 3,
+      "col": 2,
+      "length": 3,
+      "clue": "Kulağımıza ulaşan her türlü titreşim; konuşma ve müziğin temeli (3 harf) [B390-S5]",
+      "answer": "SES"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 3,
+      "col": 4,
+      "length": 6,
+      "clue": "İnsan ya da kürek gücüyle suda yol alan küçük açık deniz teknesi (6 harf) [B390-S6]",
+      "answer": "SANDAL"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 4,
+      "col": 4,
+      "length": 5,
+      "clue": "Tekerlekleri üstünde insan ya da yük taşıyan motorlu kara taşıtı (5 harf) [B390-S7]",
+      "answer": "ARABA"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 6,
+      "col": 3,
+      "length": 3,
+      "clue": "Bir evin ya da binanın duvarlarla ayrılmış, belirli amaçla kullanılan bölümü (3 harf) [B390-S8]",
+      "answer": "ODA"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "length": 5,
+      "clue": "Hayatta yükselme, talih kuşunun başa konması; mevki sahibi olma (5 harf) [B390-S9]",
+      "answer": "İKBAL"
+    },
+    {
+      "number": 10,
+      "direction": "down",
+      "row": 8,
+      "col": 2,
+      "length": 4,
+      "clue": "Bir yüzeye sürüldüğünde ona istenilen rengi veren sıvı ya da toz madde (4 harf) [B390-S10]",
+      "answer": "BOYA"
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "id": 438,
+  "title": "Bölüm 438",
+  "difficulty": "Orta",
+  "grid_size_r": 8,
+  "grid_size_c": 9,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 7,
+      "length": 4,
+      "clue": "Müzik eserlerinde seslerin yükseklik ve uzunluğunu gösteren küçük simge (4 harf) [B182-S1]",
+      "answer": "NOTA"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 1,
+      "col": 4,
+      "length": 5,
+      "clue": "Havada uçağı yöneten, onu kalkış ve inişlerde kullanan yetişmiş kişi (5 harf) [B182-S2]",
+      "answer": "PİLOT"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 1,
+      "col": 4,
+      "length": 5,
+      "clue": "Kat kat hamuru kremayla birleştirilen, doğum günlerinde kesilen tatlı (5 harf) [B182-S2]",
+      "answer": "PASTA"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "length": 5,
+      "clue": "Düğünlerde davulla birlikte çalınan, ince tiz sesli üflemeli halk çalgısı (5 harf) [B182-S3]",
+      "answer": "ZURNA"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 3,
+      "col": 6,
+      "length": 3,
+      "clue": "Sahip olunan taşınır ya da taşınmaz değerli eşya; mülk (3 harf) [B182-S4]",
+      "answer": "MAL"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "length": 5,
+      "clue": "İçindeki eşyayı korumak için ambalajlanmış, kâğıt ya da karton sargılı koli (5 harf) [B182-S5]",
+      "answer": "PAKET"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 4,
+      "col": 2,
+      "length": 3,
+      "clue": "Çanak çömlek yapımında kullanılan, suyla yumuşayan yapışkan toprak (3 harf) [B182-S6]",
+      "answer": "KİL"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 5,
+      "col": 4,
+      "length": 3,
+      "clue": "Geçmişte yaşanmış ve zihinde iz bırakmış olayların hatırlanması (3 harf) [B182-S7]",
+      "answer": "ANI"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 5,
+      "col": 5,
+      "length": 3,
+      "clue": "Havada ya da bir yüzeyde bulunan, hissedilen rutubet miktarı (3 harf) [B182-S8]",
+      "answer": "NEM"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "length": 3,
+      "clue": "Yağış almadığı için kum ve kayalarla kaplı, bitkisi çok seyrek olan bölge (3 harf) [B182-S9]",
+      "answer": "ÇÖL"
+    }
+  ]
+}

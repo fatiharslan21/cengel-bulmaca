@@ -1,0 +1,180 @@
+{
+  "id": 265,
+  "title": "Bölüm 265",
+  "difficulty": "Kolay",
+  "grid_size_r": 8,
+  "grid_size_c": 9,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "length": 5,
+      "clue": "Gökyüzünde süzülen, su buharının yoğunlaşmasıyla oluşan beyaz küme (5 harf) [B11-S1]",
+      "answer": "BULUT"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "length": 3,
+      "clue": "Gövdesi tüylerle kaplı, kanatları yardımıyla uçabilen yumurtlayan canlı (3 harf) [B11-S2]",
+      "answer": "KUŞ"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 3,
+      "col": 0,
+      "length": 4,
+      "clue": "Yürürken bir ayağın diğerinin önüne atılmasıyla alınan kısa mesafe (4 harf) [B11-S3]",
+      "answer": "ADIM"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 3,
+      "col": 3,
+      "length": 4,
+      "clue": "Aradaki mesafenin çok olduğu; yakınlığı hissedilmeyen ötelerdeki yer (4 harf) [B11-S4]",
+      "answer": "UZAK"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 3,
+      "col": 5,
+      "length": 3,
+      "clue": "Elin iç tarafı; parmakların bittiği yerden bileğe kadar uzanan bölüm (3 harf) [B11-S5]",
+      "answer": "AYA"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "length": 4,
+      "clue": "Kötü günde de yanında olan, gönülden sevilen yakın arkadaş (4 harf) [B11-S6]",
+      "answer": "DOST"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 4,
+      "col": 2,
+      "length": 4,
+      "clue": "Bir olayın başlangıcı ile sonu arasında geçen zaman aralığı (4 harf) [B11-S7]",
+      "answer": "SÜRE"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 5,
+      "col": 5,
+      "length": 4,
+      "clue": "Kırda ya da ormanda silahla veya tuzakla av peşinde koşan kişi (4 harf) [B11-S8]",
+      "answer": "AVCI"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 7,
+      "col": 1,
+      "length": 4,
+      "clue": "Bir kelimeyi bir nefeste söyleyebildiğimiz en küçük ses birimi (4 harf) [B11-S9]",
+      "answer": "HECE"
+    }
+  ]
+}

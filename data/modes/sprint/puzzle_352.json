@@ -1,0 +1,191 @@
+{
+  "id": 352,
+  "title": "Bölüm 352",
+  "difficulty": "Kolay",
+  "grid_size_r": 9,
+  "grid_size_c": 9,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "length": 5,
+      "clue": "Ev ya da yapı yakınında çiçek, sebze ve ağaç yetiştirilen yeşil alan (5 harf) [B96-S1]",
+      "answer": "BAHÇE"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "length": 3,
+      "clue": "Bir noktadan diğerine uzanan düz çizgi; yol ya da güzergâh (3 harf) [B96-S2]",
+      "answer": "HAT"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 2,
+      "col": 6,
+      "length": 4,
+      "clue": "Bir kimsenin doğup büyüdüğü vatanı; ait olduğu aziz memleket (4 harf) [B96-S3]",
+      "answer": "YURT"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 2,
+      "col": 6,
+      "length": 3,
+      "clue": "Havanın bir yönden diğerine doğru hissedilebilir akışı; rüzgâr (3 harf) [B96-S3]",
+      "answer": "YEL"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 3,
+      "col": 1,
+      "length": 3,
+      "clue": "Yapının üstünü kapatan, yağmurdan ve güneşten koruyan çatı kısmı (3 harf) [B96-S4]",
+      "answer": "DAM"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "length": 5,
+      "clue": "Ucundan mürekkep ya da grafit akıtarak kâğıda yazı yazmayı sağlayan araç (5 harf) [B96-S5]",
+      "answer": "KALEM"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 4,
+      "col": 4,
+      "length": 5,
+      "clue": "Hayal ürünü kahramanların yer aldığı, 'bir varmış bir yokmuş'la başlayan öykü (5 harf) [B96-S6]",
+      "answer": "MASAL"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 5,
+      "col": 4,
+      "length": 3,
+      "clue": "Bir şeye bağlı bulunma; onunla ilgili ya da onun sahipliğinde olma (3 harf) [B96-S7]",
+      "answer": "AİT"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 7,
+      "col": 3,
+      "length": 3,
+      "clue": "İnsanı yaşatan soluk, ruh; bedenin yaşamını sürdürmesini sağlayan güç (3 harf) [B96-S8]",
+      "answer": "CAN"
+    }
+  ]
+}

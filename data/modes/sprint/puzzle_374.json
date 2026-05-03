@@ -1,0 +1,202 @@
+{
+  "id": 374,
+  "title": "Bölüm 374",
+  "difficulty": "Kolay",
+  "grid_size_r": 10,
+  "grid_size_c": 9,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "length": 4,
+      "clue": "Yeni durumlara hızla uyum sağlayıp doğru kararlar verebilme yeteneği (4 harf) [B118-S1]",
+      "answer": "ZEKA"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 1,
+      "col": 6,
+      "length": 5,
+      "clue": "Seslerin belli bir düzen içinde bir araya getirilmesiyle oluşan sanat (5 harf) [B118-S2]",
+      "answer": "MÜZİK"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 2,
+      "col": 5,
+      "length": 4,
+      "clue": "Anadolu ve çevresinde yaşayan, Orta Asya kökenli büyük millet (4 harf) [B118-S3]",
+      "answer": "TÜRK"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 5,
+      "col": 0,
+      "length": 3,
+      "clue": "Dilin damak aracılığıyla algıladığı; acı, ekşi, tuzlu gibi duyusal nitelik (3 harf) [B118-S4]",
+      "answer": "TAT"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 5,
+      "col": 2,
+      "length": 4,
+      "clue": "Müziğin ritmine uyarak, düzenli vücut hareketleriyle yapılan sanatsal eylem (4 harf) [B118-S5]",
+      "answer": "DANS"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 5,
+      "col": 2,
+      "length": 5,
+      "clue": "İçine üflenince tiz bir ses çıkaran, ince ve boru biçimli küçük alet (5 harf) [B118-S5]",
+      "answer": "DÜDÜK"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "length": 3,
+      "clue": "Elin iç tarafı; parmakların bittiği yerden bileğe kadar uzanan bölüm (3 harf) [B118-S6]",
+      "answer": "AYA"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 7,
+      "col": 4,
+      "length": 3,
+      "clue": "İki şeyin birbirinden ayrıldığı boşluk; kısa mola süresi (3 harf) [B118-S7]",
+      "answer": "ARA"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 8,
+      "col": 2,
+      "length": 4,
+      "clue": "Bir olayın başlangıcı ile sonu arasında geçen zaman aralığı (4 harf) [B118-S8]",
+      "answer": "SÜRE"
+    }
+  ]
+}

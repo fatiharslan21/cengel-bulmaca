@@ -1,0 +1,221 @@
+{
+  "id": 3,
+  "title": "Bölüm 3",
+  "difficulty": "Orta",
+  "grid_size_r": 12,
+  "grid_size_c": 8,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "length": 3,
+      "clue": "Mektupların üzerine yapıştırılan, postanın ücretini belgeleyen küçük kâğıt (3 harf) [B250-S1]",
+      "answer": "PUL"
+    },
+    {
+      "number": 1,
+      "direction": "across",
+      "row": 0,
+      "col": 3,
+      "length": 5,
+      "clue": "Mektup ve paketlerin toplanıp yerine ulaştırıldığı geleneksel iletişim hizmeti (5 harf) [B250-S1]",
+      "answer": "POSTA"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 7,
+      "length": 3,
+      "clue": "Bir cismin aşağı tarafı; üst sözcüğünün tam karşıtı olan yön (3 harf) [B250-S2]",
+      "answer": "ALT"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "length": 5,
+      "clue": "Sayfalardan oluşan, üzerine bilgi ya da hikâye yazılmış ciltli eser (5 harf) [B250-S3]",
+      "answer": "KİTAP"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 2,
+      "col": 1,
+      "length": 3,
+      "clue": "Açıklamaya uyan yanıt (3 harf) [B250-S3]",
+      "answer": "KÜL"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 4,
+      "col": 4,
+      "length": 5,
+      "clue": "İp ya da parmaklarla oynatılan, tiyatro sahnesinde canlanan figürlü bebek (5 harf) [B250-S4]",
+      "answer": "KUKLA"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "length": 6,
+      "clue": "Bulutlardaki su damlalarının yer çekimiyle gökten yağması (6 harf) [B250-S5]",
+      "answer": "YAĞMUR"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 8,
+      "col": 3,
+      "length": 4,
+      "clue": "İnsanı üzen, iç sıkıntısı veren; uzun süre geçmeyen tasa ve keder (4 harf) [B250-S6]",
+      "answer": "DERT"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 8,
+      "col": 3,
+      "length": 3,
+      "clue": "Bir ağacın gövdesinden yanlara doğru uzayan ve yapraklarını taşıyan kol (3 harf) [B250-S6]",
+      "answer": "DAL"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 10,
+      "col": 1,
+      "length": 4,
+      "clue": "Dişleri sürekli uzayan, tahtayı ve kâğıdı kemirebilen küçük kemirgen (4 harf) [B250-S7]",
+      "answer": "FARE"
+    }
+  ]
+}

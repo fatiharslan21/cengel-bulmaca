@@ -1,0 +1,233 @@
+{
+  "id": 484,
+  "title": "Bölüm 484",
+  "difficulty": "Orta",
+  "grid_size_r": 11,
+  "grid_size_c": 10,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "length": 6,
+      "clue": "Belirli bir ülkenin sınırlarında örgütlenmiş siyasi ve yönetimsel yapı (6 harf) [B228-S1]",
+      "answer": "DEVLET"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 3,
+      "col": 2,
+      "length": 5,
+      "clue": "Kat kat hamuru kremayla birleştirilen, doğum günlerinde kesilen tatlı (5 harf) [B228-S2]",
+      "answer": "PASTA"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 3,
+      "col": 4,
+      "length": 6,
+      "clue": "Su, çay ya da başka içecekleri içmek için kullanılan küçük kap (6 harf) [B228-S3]",
+      "answer": "BARDAK"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 3,
+      "col": 4,
+      "length": 3,
+      "clue": "Arıların çiçeklerden topladığı nektarı işleyerek yaptığı koyu, tatlı gıda (3 harf) [B228-S3]",
+      "answer": "BAL"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 4,
+      "col": 1,
+      "length": 4,
+      "clue": "Sobadan ateş almak ya da sıcak şeyleri tutmak için kullanılan uzun kıskaç (4 harf) [B228-S4]",
+      "answer": "MAŞA"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 5,
+      "col": 6,
+      "length": 4,
+      "clue": "Saçı ya da kemeri tutturmaya yarayan, klips gibi açılıp kapanan küçük süs (4 harf) [B228-S5]",
+      "answer": "TOKA"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "length": 3,
+      "clue": "Bahçeyi ya da tarlayı çevreleyen, tahta veya telden yapılmış alçak engel (3 harf) [B228-S6]",
+      "answer": "ÇİT"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 7,
+      "col": 4,
+      "length": 4,
+      "clue": "Belirli bir yönde hareket eden elektrik yükü ya da suyun sürüklenişi (4 harf) [B228-S7]",
+      "answer": "AKIM"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 7,
+      "col": 7,
+      "length": 4,
+      "clue": "Hayvanların otlayıp beslenmesi için ayrılmış, doğal otlarla kaplı geniş alan (4 harf) [B228-S8]",
+      "answer": "MERA"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 10,
+      "col": 6,
+      "length": 3,
+      "clue": "Damarlarda dolaşarak vücuda oksijen taşıyan kırmızı renkli canlı sıvı (3 harf) [B228-S9]",
+      "answer": "KAN"
+    }
+  ]
+}

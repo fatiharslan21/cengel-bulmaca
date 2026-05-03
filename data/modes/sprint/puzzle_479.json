@@ -1,0 +1,257 @@
+{
+  "id": 479,
+  "title": "Bölüm 479",
+  "difficulty": "Orta",
+  "grid_size_r": 12,
+  "grid_size_c": 11,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "length": 5,
+      "clue": "Işığın önüne bir cisim girince arkasında oluşan karanlık alan (5 harf) [B223-S1]",
+      "answer": "GÖLGE"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 2,
+      "col": 2,
+      "length": 3,
+      "clue": "Bir ağacın gövdesinden yanlara doğru uzayan ve yapraklarını taşıyan kol (3 harf) [B223-S2]",
+      "answer": "DAL"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 4,
+      "col": 3,
+      "length": 5,
+      "clue": "Sayılarla yapılan dört işlem; gelir ve giderin tutulduğu kayıt (5 harf) [B223-S3]",
+      "answer": "HESAP"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 4,
+      "col": 7,
+      "length": 5,
+      "clue": "İçindeki eşyayı korumak için ambalajlanmış, kâğıt ya da karton sargılı koli (5 harf) [B223-S4]",
+      "answer": "PAKET"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 5,
+      "col": 7,
+      "length": 4,
+      "clue": "Belirli bir yönde hareket eden elektrik yükü ya da suyun sürüklenişi (4 harf) [B223-S5]",
+      "answer": "AKIM"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 6,
+      "col": 5,
+      "length": 4,
+      "clue": "Bir ailenin oturduğu ev; aynı zamanda sayıdaki basamak anlamı taşır (4 harf) [B223-S6]",
+      "answer": "HANE"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 7,
+      "col": 4,
+      "length": 4,
+      "clue": "Serinletici kokusuyla tanınan, çaya ve yemeklere katılan yeşil yapraklı ot (4 harf) [B223-S7]",
+      "answer": "NANE"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 8,
+      "col": 2,
+      "length": 4,
+      "clue": "Öğrencilerin öğretmenler tarafından eğitim aldığı resmî öğretim kurumu (4 harf) [B223-S8]",
+      "answer": "OKUL"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 9,
+      "col": 2,
+      "length": 4,
+      "clue": "Çevresindeki yapılardan çok daha yüksek olan, dar ve uzun yapı (4 harf) [B223-S9]",
+      "answer": "KULE"
+    },
+    {
+      "number": 10,
+      "direction": "across",
+      "row": 11,
+      "col": 0,
+      "length": 5,
+      "clue": "Dinlerde iyilikle görevlendirilmiş, kanatlı olduğuna inanılan kutsal varlık (5 harf) [B223-S10]",
+      "answer": "MELEK"
+    }
+  ]
+}

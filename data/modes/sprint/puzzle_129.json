@@ -1,0 +1,245 @@
+{
+  "id": 129,
+  "title": "Bölüm 129",
+  "difficulty": "Çok Zor",
+  "grid_size_r": 12,
+  "grid_size_c": 10,
+  "grid": [
+    [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 0,
+      "length": 4,
+      "clue": "Bacağın bileğinden aşağısı; üzerine basarak yürümemizi sağlayan uzuv (4 harf) [B376-S1]",
+      "answer": "AYAK"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "length": 3,
+      "clue": "Gitme, olduğun yerde dur; git sözcüğünün tam karşıtı olan emir (3 harf) [B376-S2]",
+      "answer": "KAL"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 1,
+      "col": 4,
+      "length": 3,
+      "clue": "Üzerinde durduğumuz zemin; bir olayın geçtiği konum (3 harf) [B376-S3]",
+      "answer": "YER"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 1,
+      "col": 4,
+      "length": 6,
+      "clue": "Ağacın dalından sarkan, fotosentez yapıp havaya oksijen veren yeşil organ (6 harf) [B376-S3]",
+      "answer": "YAPRAK"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "length": 5,
+      "clue": "İnsanın içini burkan, uzun süre geçmeyen derin üzüntü hali (5 harf) [B376-S4]",
+      "answer": "KEDER"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 3,
+      "col": 1,
+      "length": 6,
+      "clue": "Kuşaktan kuşağa sözlü aktarılan, olağanüstü öğelerle süslenmiş hikâye (6 harf) [B376-S5]",
+      "answer": "EFSANE"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 5,
+      "col": 3,
+      "length": 7,
+      "clue": "Üzüntülü birine söylenerek onu rahatlatan sıcak avutucu söz (7 harf) [B376-S6]",
+      "answer": "TESELLİ"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "length": 5,
+      "clue": "Kaybedilen bir yakının ardından tutulan koyu yas; siyahlar giyme hali (5 harf) [B376-S7]",
+      "answer": "MATEM"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "length": 5,
+      "clue": "Ciğerlere hava çekmek ve bırakmak; yaşamın sürdüğünün göstergesi soluk (5 harf) [B376-S8]",
+      "answer": "NEFES"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 10,
+      "col": 1,
+      "length": 5,
+      "clue": "İçine giysi, kap kacak ya da eşya konulan, kapaklı büyük mobilya (5 harf) [B376-S9]",
+      "answer": "DOLAP"
+    }
+  ]
+}

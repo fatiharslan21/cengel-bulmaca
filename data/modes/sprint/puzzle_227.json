@@ -1,0 +1,233 @@
+{
+  "id": 227,
+  "title": "Bölüm 227",
+  "difficulty": "Çok Zor",
+  "grid_size_r": 11,
+  "grid_size_c": 10,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "length": 4,
+      "clue": "Dinde kesinlikle yerine getirilmesi emredilen, zorunlu olan yükümlülük (4 harf) [B474-S1]",
+      "answer": "FARZ"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 1,
+      "col": 4,
+      "length": 6,
+      "clue": "Zayıfa ve çaresize duyulan içten sevgi; acıyarak sarılma duygusu (6 harf) [B474-S2]",
+      "answer": "ŞEFKAT"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 1,
+      "col": 6,
+      "length": 5,
+      "clue": "Dayanılmaz acı anında yükselen yüksek sesli ağlama ve feryat (5 harf) [B474-S3]",
+      "answer": "FİGAN"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 3,
+      "col": 1,
+      "length": 4,
+      "clue": "Din esaslarına yürekten bağlanma; kalben kabul edip inanma hali (4 harf) [B474-S4]",
+      "answer": "İMAN"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 4,
+      "col": 3,
+      "length": 4,
+      "clue": "Serinletici kokusuyla tanınan, çaya ve yemeklere katılan yeşil yapraklı ot (4 harf) [B474-S5]",
+      "answer": "NANE"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 4,
+      "col": 3,
+      "length": 5,
+      "clue": "Alçakgönüllülükle yapılan yalvarış; Tanrı'dan dilenen istek (5 harf) [B474-S5]",
+      "answer": "NİYAZ"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "length": 4,
+      "clue": "İstemeden yapılan yanlış; doğru olandan sapmanın yol açtığı kusur (4 harf) [B474-S6]",
+      "answer": "HATA"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 7,
+      "col": 2,
+      "length": 4,
+      "clue": "Dostluğunu ve sevgisini zaman geçse bile sürdürme; söze sadakat (4 harf) [B474-S7]",
+      "answer": "VEFA"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 7,
+      "col": 5,
+      "length": 4,
+      "clue": "Kaldırılması güç olan, hafif sözcüğünün zıttı sayılan kütle durumu (4 harf) [B474-S8]",
+      "answer": "AĞIR"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 10,
+      "col": 3,
+      "length": 4,
+      "clue": "Gökyüzündeki yıldız öbeklerinin oluşturduğu, astrolojide kullanılan imge (4 harf) [B474-S9]",
+      "answer": "BURÇ"
+    }
+  ]
+}

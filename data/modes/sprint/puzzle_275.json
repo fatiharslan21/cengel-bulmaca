@@ -1,0 +1,190 @@
+{
+  "id": 275,
+  "title": "Bölüm 275",
+  "difficulty": "Kolay",
+  "grid_size_r": 7,
+  "grid_size_c": 12,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "length": 3,
+      "clue": "Bir ağacın gövdesinden yanlara doğru uzayan ve yapraklarını taşıyan kol (3 harf) [B20-S1]",
+      "answer": "DAL"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 1,
+      "col": 8,
+      "length": 3,
+      "clue": "Soyun büyüklerinden sayılan dede ya da daha öncesinden gelen büyük (3 harf) [B20-S2]",
+      "answer": "ATA"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 1,
+      "col": 10,
+      "length": 4,
+      "clue": "Sahte ya da taklit olmayan; bir şeyin gerçek ve temel olan hali (4 harf) [B20-S3]",
+      "answer": "ASIL"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 2,
+      "col": 2,
+      "length": 5,
+      "clue": "Havada uçağı yöneten, onu kalkış ve inişlerde kullanan yetişmiş kişi (5 harf) [B20-S4]",
+      "answer": "PİLOT"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 2,
+      "col": 2,
+      "length": 5,
+      "clue": "Kat kat hamuru kremayla birleştirilen, doğum günlerinde kesilen tatlı (5 harf) [B20-S4]",
+      "answer": "PASTA"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 2,
+      "col": 6,
+      "length": 3,
+      "clue": "Toprağın içinden çıkan, sert ve ağır olan doğal kayaç parçası (3 harf) [B20-S5]",
+      "answer": "TAŞ"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 2,
+      "col": 8,
+      "length": 4,
+      "clue": "Ekmeğin arasına peynir konup ısıtılarak kızartılan sandviç çeşidi (4 harf) [B20-S6]",
+      "answer": "TOST"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 3,
+      "col": 6,
+      "length": 3,
+      "clue": "Eskiden köylerde geniş topraklara sahip, sözü geçen nüfuzlu kişi (3 harf) [B20-S7]",
+      "answer": "AĞA"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "length": 4,
+      "clue": "Bir eşyanın ya da yüzeyin üstünü kapatmak için serilen kumaş parçası (4 harf) [B20-S8]",
+      "answer": "ÖRTÜ"
+    }
+  ]
+}

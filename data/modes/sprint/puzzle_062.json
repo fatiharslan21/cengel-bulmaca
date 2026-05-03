@@ -1,0 +1,205 @@
+{
+  "id": 62,
+  "title": "Bölüm 62",
+  "difficulty": "Zor",
+  "grid_size_r": 8,
+  "grid_size_c": 11,
+  "grid": [
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "length": 4,
+      "clue": "Bir kurala, şahsa ya da düzene bağlı olan; ona uymak durumunda kalan (4 harf) [B309-S1]",
+      "answer": "TABİ"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "length": 4,
+      "clue": "Üzerinde yemek yemek ya da çalışmak için kullanılan ayaklı düz mobilya (4 harf) [B309-S2]",
+      "answer": "MASA"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 1,
+      "col": 3,
+      "length": 3,
+      "clue": "Bir cismin aşağı tarafı; üst sözcüğünün tam karşıtı olan yön (3 harf) [B309-S3]",
+      "answer": "ALT"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 1,
+      "col": 5,
+      "length": 4,
+      "clue": "Gömleğin boynu çevreleyen üst kısmı; ceketin de boyuna değen kenarı (4 harf) [B309-S4]",
+      "answer": "YAKA"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 2,
+      "col": 7,
+      "length": 4,
+      "clue": "Bir işi başarmak için gösterilen büyük çaba, gayret ve çalışma (4 harf) [B309-S5]",
+      "answer": "CEHD"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 3,
+      "col": 3,
+      "length": 5,
+      "clue": "Yelkenli ya da motorlu olup denizde kısa yolculuklara çıkan küçük gemi (5 harf) [B309-S6]",
+      "answer": "TEKNE"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 4,
+      "col": 9,
+      "length": 4,
+      "clue": "Denizde yük ya da yolcu taşımak için yapılmış büyük su taşıtı (4 harf) [B309-S7]",
+      "answer": "GEMİ"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 5,
+      "col": 6,
+      "length": 5,
+      "clue": "Bir kimseye veya yere ulaşabilmek için gereken açık konum bilgisi (5 harf) [B309-S8]",
+      "answer": "ADRES"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 5,
+      "col": 6,
+      "length": 3,
+      "clue": "Elin iç tarafı; parmakların bittiği yerden bileğe kadar uzanan bölüm (3 harf) [B309-S8]",
+      "answer": "AYA"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 7,
+      "col": 3,
+      "length": 5,
+      "clue": "Varlığı yerinde durmayıp sona ermesi; yokluğa geçme hali (5 harf) [B309-S9]",
+      "answer": "ZEVAL"
+    }
+  ]
+}

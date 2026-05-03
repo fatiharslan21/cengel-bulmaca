@@ -1,0 +1,231 @@
+{
+  "id": 184,
+  "title": "Bölüm 184",
+  "difficulty": "Çok Zor",
+  "grid_size_r": 10,
+  "grid_size_c": 11,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "length": 4,
+      "clue": "Bir sözcüğün ya da cümlenin ardında yatan anlam; içerdiği kavram (4 harf) [B431-S1]",
+      "answer": "MANA"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "length": 5,
+      "clue": "Dayanılmaz acı anında yükselen yüksek sesli ağlama ve feryat (5 harf) [B431-S2]",
+      "answer": "FİGAN"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 3,
+      "col": 2,
+      "length": 4,
+      "clue": "Denizde yük ya da yolcu taşımak için yapılmış büyük su taşıtı (4 harf) [B431-S3]",
+      "answer": "GEMİ"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 3,
+      "col": 8,
+      "length": 4,
+      "clue": "Uzaktan duyulan insan ya da doğa sesi; boğumlu ses dalgası (4 harf) [B431-S4]",
+      "answer": "SADA"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 3,
+      "col": 8,
+      "length": 3,
+      "clue": "Başkalarıyla paylaşılmayan; yalnızca bir kişinin bildiği gizli bilgi (3 harf) [B431-S4]",
+      "answer": "SIR"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 4,
+      "col": 5,
+      "length": 3,
+      "clue": "Bir ağacın gövdesinden yanlara doğru uzayan ve yapraklarını taşıyan kol (3 harf) [B431-S5]",
+      "answer": "DAL"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 5,
+      "col": 5,
+      "length": 5,
+      "clue": "Gürültüden uzak, hiçbir telaşın olmadığı sessiz ve huzurlu ortam (5 harf) [B431-S6]",
+      "answer": "ASUDE"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 6,
+      "col": 1,
+      "length": 5,
+      "clue": "Anlatılanı somutlaştırmak için verilen örnek; kıyas noktası (5 harf) [B431-S7]",
+      "answer": "MİSAL"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 6,
+      "col": 4,
+      "length": 4,
+      "clue": "Üzerinde yapı bulunmayan, belli sınırlarla çevrili geniş açık düzlük (4 harf) [B431-S8]",
+      "answer": "ALAN"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 8,
+      "col": 1,
+      "length": 5,
+      "clue": "Bir milletin kuşaklar boyunca konuşup yazdığı ortak iletişim dizgesi (5 harf) [B431-S9]",
+      "answer": "LİSAN"
+    }
+  ]
+}

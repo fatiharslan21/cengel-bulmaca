@@ -1,0 +1,192 @@
+{
+  "id": 64,
+  "title": "Bölüm 64",
+  "difficulty": "Zor",
+  "grid_size_r": 7,
+  "grid_size_c": 11,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "length": 4,
+      "clue": "Limon ve altın tonlarında olan, güneşi çağrıştıran canlı sıcak renk (4 harf) [B311-S1]",
+      "answer": "SARI"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "length": 3,
+      "clue": "Kedisiyle ve gölüyle ünlü, Türkiye'nin doğusundaki büyük il (3 harf) [B311-S2]",
+      "answer": "VAN"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 0,
+      "col": 7,
+      "length": 5,
+      "clue": "İnsanın başına geleceği önceden yazıldığına inanılan alın yazısı (5 harf) [B311-S3]",
+      "answer": "KADER"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 1,
+      "col": 3,
+      "length": 3,
+      "clue": "Birden çok rengin bir arada bulunduğu, benekli ya da karışık görünüm (3 harf) [B311-S4]",
+      "answer": "ALA"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "length": 4,
+      "clue": "Eskiyip yırtılan giysiyi onarmak için üstüne dikilen küçük kumaş parçası (4 harf) [B311-S5]",
+      "answer": "YAMA"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 2,
+      "col": 5,
+      "length": 4,
+      "clue": "Birine seslenmek için çıkarılan yüksek ses; çağırmak amaçlı bağırma (4 harf) [B311-S6]",
+      "answer": "NİDA"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "length": 4,
+      "clue": "Bir miktarı ya da sırayı belirten; rakamlarla yazılan matematik kavramı (4 harf) [B311-S7]",
+      "answer": "SAYI"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 4,
+      "col": 4,
+      "length": 3,
+      "clue": "Bir ekibin başında bulunup işleri yöneten kişi; mutfağın baş aşçısı (3 harf) [B311-S8]",
+      "answer": "ŞEF"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 4,
+      "col": 6,
+      "length": 5,
+      "clue": "Bilginin ötesinde, deneyim ve sezgiyle kazanılan derin anlayış (5 harf) [B311-S9]",
+      "answer": "İRFAN"
+    },
+    {
+      "number": 10,
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "length": 6,
+      "clue": "Bir işi başarmak için katlanılan güçlük; çekilen eziyet (6 harf) [B311-S10]",
+      "answer": "ZAHMET"
+    }
+  ]
+}

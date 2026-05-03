@@ -1,0 +1,182 @@
+{
+  "id": 258,
+  "title": "Bölüm 258",
+  "difficulty": "Kolay",
+  "grid_size_r": 10,
+  "grid_size_c": 7,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "length": 5,
+      "clue": "Ev ya da yapı yakınında çiçek, sebze ve ağaç yetiştirilen yeşil alan (5 harf) [B5-S1]",
+      "answer": "BAHÇE"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "length": 4,
+      "clue": "Akrep, yelkovan ve rakamlarla anı gösteren; zamanı ölçen günlük araç (4 harf) [B5-S2]",
+      "answer": "SAAT"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 4,
+      "col": 2,
+      "length": 3,
+      "clue": "Pantolon ya da ceketin içine dikilmiş, ufak eşya konulan küçük kese (3 harf) [B5-S3]",
+      "answer": "CEP"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 4,
+      "col": 4,
+      "length": 5,
+      "clue": "Havada uçağı yöneten, onu kalkış ve inişlerde kullanan yetişmiş kişi (5 harf) [B5-S4]",
+      "answer": "PİLOT"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 6,
+      "col": 2,
+      "length": 5,
+      "clue": "Suda yaşayan, solungaçlarıyla soluyan, yüzgeçleriyle hareket eden canlı (5 harf) [B5-S5]",
+      "answer": "BALIK"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 6,
+      "col": 2,
+      "length": 4,
+      "clue": "İnsanın başına habersizce gelen ağır dert, büyük sıkıntı ya da musibet (4 harf) [B5-S5]",
+      "answer": "BELA"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 6,
+      "col": 6,
+      "length": 3,
+      "clue": "Damarlarda dolaşarak vücuda oksijen taşıyan kırmızı renkli canlı sıvı (3 harf) [B5-S6]",
+      "answer": "KAN"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "length": 3,
+      "clue": "Karayla çevrili, deniz bağlantısı olmayan geniş durgun su birikintisi (3 harf) [B5-S7]",
+      "answer": "GÖL"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 8,
+      "col": 4,
+      "length": 3,
+      "clue": "İnsanın bedenini saran dış deri; vücudumuzun dış yüzü (3 harf) [B5-S8]",
+      "answer": "TEN"
+    }
+  ]
+}

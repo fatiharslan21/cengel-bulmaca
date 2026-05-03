@@ -1,0 +1,245 @@
+{
+  "id": 146,
+  "title": "Bölüm 146",
+  "difficulty": "Çok Zor",
+  "grid_size_r": 12,
+  "grid_size_c": 10,
+  "grid": [
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "length": 5,
+      "clue": "Yemeklerin servis edildiği, yuvarlak ve yassı porselen ya da cam kap (5 harf) [B393-S1]",
+      "answer": "TABAK"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "length": 4,
+      "clue": "Din esaslarına yürekten bağlanma; kalben kabul edip inanma hali (4 harf) [B393-S2]",
+      "answer": "İMAN"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "length": 5,
+      "clue": "Beklenmedik bir durum karşısında gösterilen aceleci ve tedirgin hal (5 harf) [B393-S3]",
+      "answer": "TELAŞ"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 3,
+      "col": 1,
+      "length": 5,
+      "clue": "İnsanın başına geleceği önceden yazıldığına inanılan alın yazısı (5 harf) [B393-S4]",
+      "answer": "KADER"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 5,
+      "col": 3,
+      "length": 7,
+      "clue": "Sevdiğine ya da inandığına ömür boyu bağlı kalma; vefa göstermek (7 harf) [B393-S5]",
+      "answer": "SADAKAT"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 5,
+      "col": 7,
+      "length": 5,
+      "clue": "Ağızdan çıkan söz; düşüncenin dille ifade bulmuş hali (5 harf) [B393-S6]",
+      "answer": "KELAM"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 5,
+      "col": 9,
+      "length": 5,
+      "clue": "Zarla ve pullarla iki kişi arasında oynanan, kahvehane kültürünün oyunu (5 harf) [B393-S7]",
+      "answer": "TAVLA"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 8,
+      "col": 4,
+      "length": 4,
+      "clue": "Birinden nazikçe bir şey istemek; kibarca dile getirilen dilek (4 harf) [B393-S8]",
+      "answer": "RİCA"
+    },
+    {
+      "number": 9,
+      "direction": "down",
+      "row": 8,
+      "col": 5,
+      "length": 4,
+      "clue": "Ucu sivri, arkası delikli; dikiş dikmek için ipliği geçiren ince metal araç (4 harf) [B393-S9]",
+      "answer": "İĞNE"
+    },
+    {
+      "number": 10,
+      "direction": "across",
+      "row": 11,
+      "col": 4,
+      "length": 5,
+      "clue": "İçe işleyen hafif hüzün; kimseye belli edilmeyen sessiz usanç (5 harf) [B393-S10]",
+      "answer": "MELAL"
+    }
+  ]
+}

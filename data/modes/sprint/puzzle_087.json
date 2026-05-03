@@ -1,0 +1,231 @@
+{
+  "id": 87,
+  "title": "Bölüm 87",
+  "difficulty": "Zor",
+  "grid_size_r": 10,
+  "grid_size_c": 11,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "length": 5,
+      "clue": "Bir varsayımı doğrulamak amacıyla yapılan, kontrollü bilimsel çalışma (5 harf) [B334-S1]",
+      "answer": "DENEY"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 1,
+      "col": 5,
+      "length": 5,
+      "clue": "İnsanın içini burkan, uzun süre geçmeyen derin üzüntü hali (5 harf) [B334-S2]",
+      "answer": "KEDER"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "length": 4,
+      "clue": "Akrep, yelkovan ve rakamlarla anı gösteren; zamanı ölçen günlük araç (4 harf) [B334-S3]",
+      "answer": "SAAT"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "length": 4,
+      "clue": "Uzaktan duyulan insan ya da doğa sesi; boğumlu ses dalgası (4 harf) [B334-S4]",
+      "answer": "SADA"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "length": 5,
+      "clue": "Zarla ve pullarla iki kişi arasında oynanan, kahvehane kültürünün oyunu (5 harf) [B334-S5]",
+      "answer": "TAVLA"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 4,
+      "col": 6,
+      "length": 5,
+      "clue": "Açıklamaya uyan yanıt (5 harf) [B334-S6]",
+      "answer": "BİLGİ"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 4,
+      "col": 6,
+      "length": 5,
+      "clue": "Bir cismin uzunluk, genişlik ve yükseklik gibi ölçülebilen özelliği (5 harf) [B334-S6]",
+      "answer": "BOYUT"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 5,
+      "col": 4,
+      "length": 3,
+      "clue": "Halk ağzında yakışıklı, gösterişli kimse için kullanılan eski bir sözcük (3 harf) [B334-S7]",
+      "answer": "AFİ"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 7,
+      "col": 4,
+      "length": 3,
+      "clue": "Pantolon ya da ceketin içine dikilmiş, ufak eşya konulan küçük kese (3 harf) [B334-S8]",
+      "answer": "CEP"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 8,
+      "col": 3,
+      "length": 4,
+      "clue": "Miyavlayarak seslenen, pençeleri keskin, evlerde beslenen tüylü memeli hayvan (4 harf) [B334-S9]",
+      "answer": "KEDİ"
+    }
+  ]
+}

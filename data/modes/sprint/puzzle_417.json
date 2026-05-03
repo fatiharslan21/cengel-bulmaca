@@ -1,0 +1,233 @@
+{
+  "id": 417,
+  "title": "Bölüm 417",
+  "difficulty": "Orta",
+  "grid_size_r": 11,
+  "grid_size_c": 10,
+  "grid": [
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "length": 4,
+      "clue": "Mutfakta yemek pişirmeyi meslek edinmiş, lezzetten anlayan kişi (4 harf) [B161-S1]",
+      "answer": "AŞÇI"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "length": 6,
+      "clue": "Okyanuslarda yaşayan, dünyanın en büyük sayılan memeli deniz canlısı (6 harf) [B161-S2]",
+      "answer": "BALİNA"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 1,
+      "col": 4,
+      "length": 4,
+      "clue": "İçten duyulan istek, gönülden beklenen dilek veya özlem (4 harf) [B161-S3]",
+      "answer": "ARZU"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 2,
+      "col": 2,
+      "length": 3,
+      "clue": "Yağış almadığı için kum ve kayalarla kaplı, bitkisi çok seyrek olan bölge (3 harf) [B161-S4]",
+      "answer": "ÇÖL"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 3,
+      "col": 6,
+      "length": 3,
+      "clue": "Sarı kabuklu, uzun, yumuşak iç gövdeli tropikal meyve (3 harf) [B161-S5]",
+      "answer": "MUZ"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 3,
+      "col": 6,
+      "length": 4,
+      "clue": "Üzerinde yemek yemek ya da çalışmak için kullanılan ayaklı düz mobilya (4 harf) [B161-S5]",
+      "answer": "MASA"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 5,
+      "col": 1,
+      "length": 6,
+      "clue": "Geniş kanatlarıyla yükseklerde süzülen, keskin gözlü yırtıcı büyük kuş (6 harf) [B161-S6]",
+      "answer": "KARTAL"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 5,
+      "col": 3,
+      "length": 4,
+      "clue": "Bir kişinin ya da akımın kendine özgü yapma biçimi; üslup (4 harf) [B161-S7]",
+      "answer": "TARZ"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 5,
+      "col": 3,
+      "length": 3,
+      "clue": "Hastalıkların tanısı ve iyileştirilmesiyle uğraşan hekimlik bilim dalı (3 harf) [B161-S7]",
+      "answer": "TIP"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "length": 4,
+      "clue": "Limon ve altın tonlarında olan, güneşi çağrıştıran canlı sıcak renk (4 harf) [B161-S8]",
+      "answer": "SARI"
+    }
+  ]
+}

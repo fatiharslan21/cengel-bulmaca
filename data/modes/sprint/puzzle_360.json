@@ -1,0 +1,173 @@
+{
+  "id": 360,
+  "title": "Bölüm 360",
+  "difficulty": "Kolay",
+  "grid_size_r": 9,
+  "grid_size_c": 7,
+  "grid": [
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "length": 4,
+      "clue": "Bir kesik ya da darbe sonucu bedende oluşan açık doku hasarı (4 harf) [B104-S1]",
+      "answer": "YARA"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 1,
+      "col": 5,
+      "length": 4,
+      "clue": "Toprağa kök salmış, gövdesi odunlaşmış, uzun ömürlü büyük bitki (4 harf) [B104-S2]",
+      "answer": "AĞAÇ"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 2,
+      "col": 4,
+      "length": 3,
+      "clue": "Metal ya da tırnak gibi sert yüzeyleri aşındırarak düzelten dişli alet (3 harf) [B104-S3]",
+      "answer": "EĞE"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 3,
+      "col": 0,
+      "length": 3,
+      "clue": "Gözlerin, burnun ve ağzın bulunduğu baş ön kısmı; ayrıca on kere on sayısı (3 harf) [B104-S4]",
+      "answer": "YÜZ"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "length": 3,
+      "clue": "İnsanın doğduğu günden bu yana geçen toplam yıl; ömürdeki basamak (3 harf) [B104-S4]",
+      "answer": "YAŞ"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 4,
+      "col": 3,
+      "length": 3,
+      "clue": "Olumsuzluğu pekiştiren söz; asla ve kesinlikle bulunmama durumu (3 harf) [B104-S5]",
+      "answer": "HİÇ"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 4,
+      "col": 3,
+      "length": 5,
+      "clue": "Sporda kuralların uygulanmasını denetleyen, karar veren yetkili kişi (5 harf) [B104-S5]",
+      "answer": "HAKEM"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "length": 4,
+      "clue": "Yeni durumlara hızla uyum sağlayıp doğru kararlar verebilme yeteneği (4 harf) [B104-S6]",
+      "answer": "ZEKA"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 7,
+      "col": 1,
+      "length": 4,
+      "clue": "Öğretmenin evde yapılmak üzere öğrenciye verdiği görev; yerine getirilmesi gereken iş (4 harf) [B104-S7]",
+      "answer": "ÖDEV"
+    }
+  ]
+}

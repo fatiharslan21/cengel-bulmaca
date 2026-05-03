@@ -1,0 +1,213 @@
+{
+  "id": 66,
+  "title": "Bölüm 66",
+  "difficulty": "Zor",
+  "grid_size_r": 8,
+  "grid_size_c": 12,
+  "grid": [
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "length": 5,
+      "clue": "Dünyanın farklı bölgelerini gösteren haritaların toplandığı büyük kitap (5 harf) [B313-S1]",
+      "answer": "ATLAS"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "length": 6,
+      "clue": "İnsan ya da kürek gücüyle suda yol alan küçük açık deniz teknesi (6 harf) [B313-S2]",
+      "answer": "SANDAL"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "length": 4,
+      "clue": "Dağlardan doğan, ırmağa ya da göle dökülen küçük doğal akarsu (4 harf) [B313-S3]",
+      "answer": "DERE"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 0,
+      "col": 9,
+      "length": 3,
+      "clue": "Toprağın içinden çıkan, sert ve ağır olan doğal kayaç parçası (3 harf) [B313-S4]",
+      "answer": "TAŞ"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 0,
+      "col": 9,
+      "length": 3,
+      "clue": "Havada uçuşan ya da yüzeyde biriken, çok küçük katı parçacıklar (3 harf) [B313-S4]",
+      "answer": "TOZ"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 1,
+      "col": 6,
+      "length": 4,
+      "clue": "Kabuğu kırmızı, sarı ya da yeşil olabilen, sulu ve çıtır meyve (4 harf) [B313-S5]",
+      "answer": "ELMA"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 2,
+      "col": 2,
+      "length": 5,
+      "clue": "Bir yüzeyin ya da nesnenin dış sınırını oluşturan uç bölüm (5 harf) [B313-S6]",
+      "answer": "KENAR"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 2,
+      "col": 2,
+      "length": 6,
+      "clue": "Kişinin payına düşen; kaderin ona uygun gördüğü nasibi ya da şansı (6 harf) [B313-S6]",
+      "answer": "KISMET"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "length": 3,
+      "clue": "Kulağımıza ulaşan her türlü titreşim; konuşma ve müziğin temeli (3 harf) [B313-S7]",
+      "answer": "SES"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "length": 4,
+      "clue": "Kavuşulması için yıllarca beklenen, gönülde taşınan büyük istek (4 harf) [B313-S8]",
+      "answer": "EMEL"
+    }
+  ]
+}

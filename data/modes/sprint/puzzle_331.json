@@ -1,0 +1,182 @@
+{
+  "id": 331,
+  "title": "Bölüm 331",
+  "difficulty": "Kolay",
+  "grid_size_r": 9,
+  "grid_size_c": 8,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "length": 5,
+      "clue": "Bir varsayımı doğrulamak amacıyla yapılan, kontrollü bilimsel çalışma (5 harf) [B75-S1]",
+      "answer": "DENEY"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "length": 3,
+      "clue": "Olumsuzluğu pekiştiren söz; asla ve kesinlikle bulunmama durumu (3 harf) [B75-S2]",
+      "answer": "HİÇ"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 3,
+      "col": 1,
+      "length": 3,
+      "clue": "Hoşa giden, yararlı ve olumlu olan; kötünün tam karşıtı olan nitelik (3 harf) [B75-S3]",
+      "answer": "İYİ"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 3,
+      "col": 4,
+      "length": 4,
+      "clue": "Yeni durumlara hızla uyum sağlayıp doğru kararlar verebilme yeteneği (4 harf) [B75-S4]",
+      "answer": "ZEKA"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 4,
+      "col": 4,
+      "length": 4,
+      "clue": "Evde ya da iş yerinde gündelik hayatta kullanılan nesnelerin tümü (4 harf) [B75-S5]",
+      "answer": "EŞYA"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 5,
+      "col": 1,
+      "length": 4,
+      "clue": "Kozadan elde edilen, parlak dokulu ve dayanıklı, değerli kumaş lifi (4 harf) [B75-S6]",
+      "answer": "İPEK"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 5,
+      "col": 2,
+      "length": 4,
+      "clue": "Bir sınavda ya da yarışmada başarıya göre verilen sayısal değerlendirme (4 harf) [B75-S7]",
+      "answer": "PUAN"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 6,
+      "col": 4,
+      "length": 3,
+      "clue": "Bir şeye bağlı bulunma; onunla ilgili ya da onun sahipliğinde olma (3 harf) [B75-S8]",
+      "answer": "AİT"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 7,
+      "col": 1,
+      "length": 3,
+      "clue": "İnsanın boynundan yukarısı, beynin ve yüzün bulunduğu vücut bölümü (3 harf) [B75-S9]",
+      "answer": "BAŞ"
+    }
+  ]
+}

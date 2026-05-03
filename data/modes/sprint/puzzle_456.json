@@ -1,0 +1,191 @@
+{
+  "id": 456,
+  "title": "Bölüm 456",
+  "difficulty": "Orta",
+  "grid_size_r": 10,
+  "grid_size_c": 7,
+  "grid": [
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "across",
+      "row": 0,
+      "col": 2,
+      "length": 4,
+      "clue": "Kalemin kâğıda bıraktığı; harflerden oluşan okunabilir işaretler (4 harf) [B200-S1]",
+      "answer": "YAZI"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "length": 3,
+      "clue": "Eskiden köylerde geniş topraklara sahip, sözü geçen nüfuzlu kişi (3 harf) [B200-S2]",
+      "answer": "AĞA"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 1,
+      "col": 1,
+      "length": 5,
+      "clue": "İçine giysi, kap kacak ya da eşya konulan, kapaklı büyük mobilya (5 harf) [B200-S3]",
+      "answer": "DOLAP"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 2,
+      "col": 1,
+      "length": 3,
+      "clue": "İğne ya da tığla işlenen, başörtüsü kenarını süsleyen ince el işi (3 harf) [B200-S4]",
+      "answer": "OYA"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 3,
+      "col": 5,
+      "length": 3,
+      "clue": "Soğuk havada bulutlardan düşen, altıgen kristallerden oluşan beyaz yağış (3 harf) [B200-S5]",
+      "answer": "KAR"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "length": 4,
+      "clue": "Üzerinde yemek yemek ya da çalışmak için kullanılan ayaklı düz mobilya (4 harf) [B200-S6]",
+      "answer": "MASA"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 4,
+      "col": 3,
+      "length": 5,
+      "clue": "Dünyanın farklı bölgelerini gösteren haritaların toplandığı büyük kitap (5 harf) [B200-S7]",
+      "answer": "ATLAS"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 5,
+      "col": 3,
+      "length": 3,
+      "clue": "Açıklamaya uyan yanıt (3 harf) [B200-S8]",
+      "answer": "TÜR"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 7,
+      "col": 2,
+      "length": 5,
+      "clue": "Padişah veya hükümdarların oturduğu, görkemli mimarisi olan büyük yapı (5 harf) [B200-S9]",
+      "answer": "SARAY"
+    },
+    {
+      "number": 10,
+      "direction": "down",
+      "row": 7,
+      "col": 5,
+      "length": 3,
+      "clue": "Tatlının tam karşıtı olan, biberin ya da kederin bıraktığı keskin duygu (3 harf) [B200-S10]",
+      "answer": "ACI"
+    }
+  ]
+}

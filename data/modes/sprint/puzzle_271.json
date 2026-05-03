@@ -1,0 +1,164 @@
+{
+  "id": 271,
+  "title": "Bölüm 271",
+  "difficulty": "Kolay",
+  "grid_size_r": 6,
+  "grid_size_c": 10,
+  "grid": [
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "length": 3,
+      "clue": "Ağızda bulunan, yiyecekleri kopartıp öğütmeye yarayan sert beyaz yapı (3 harf) [B17-S1]",
+      "answer": "DİŞ"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "length": 5,
+      "clue": "Undan mayalanıp fırında pişirilerek yapılan, sofranın temel besini (5 harf) [B17-S2]",
+      "answer": "EKMEK"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "length": 3,
+      "clue": "Bir sıranın en başında bulunan; sondan önce hiçbir şey olmayan sırada birinci (3 harf) [B17-S3]",
+      "answer": "İLK"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "length": 3,
+      "clue": "İçinde hiçbir şey bulunmayan, doluluğu olmayan kap ya da mekân (3 harf) [B17-S4]",
+      "answer": "BOŞ"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 2,
+      "col": 7,
+      "length": 3,
+      "clue": "Kişinin yasal olarak sahip olduğu; alması ya da yapması gereken şey (3 harf) [B17-S5]",
+      "answer": "HAK"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 2,
+      "col": 9,
+      "length": 4,
+      "clue": "Çevresindeki yapılardan çok daha yüksek olan, dar ve uzun yapı (4 harf) [B17-S6]",
+      "answer": "KULE"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 3,
+      "col": 4,
+      "length": 4,
+      "clue": "Kabuğu kırmızı, sarı ya da yeşil olabilen, sulu ve çıtır meyve (4 harf) [B17-S7]",
+      "answer": "ELMA"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 4,
+      "col": 1,
+      "length": 4,
+      "clue": "Şehir içinde insanların dinlenip yürüdüğü, ağaçlıklı kamusal yeşil alan (4 harf) [B17-S8]",
+      "answer": "PARK"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 4,
+      "col": 7,
+      "length": 3,
+      "clue": "Çanak çömlek yapımında kullanılan, suyla yumuşayan yapışkan toprak (3 harf) [B17-S9]",
+      "answer": "KİL"
+    }
+  ]
+}

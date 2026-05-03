@@ -1,0 +1,244 @@
+{
+  "id": 165,
+  "title": "Bölüm 165",
+  "difficulty": "Çok Zor",
+  "grid_size_r": 11,
+  "grid_size_c": 11,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "across",
+      "row": 0,
+      "col": 4,
+      "length": 7,
+      "clue": "Sevdiğine ya da inandığına ömür boyu bağlı kalma; vefa göstermek (7 harf) [B412-S1]",
+      "answer": "SADAKAT"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "length": 5,
+      "clue": "Bir kimseye veya yere ulaşabilmek için gereken açık konum bilgisi (5 harf) [B412-S2]",
+      "answer": "ADRES"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 0,
+      "col": 10,
+      "length": 7,
+      "clue": "Üzüntülü birine söylenerek onu rahatlatan sıcak avutucu söz (7 harf) [B412-S3]",
+      "answer": "TESELLİ"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 2,
+      "col": 3,
+      "length": 4,
+      "clue": "Sıkıntılı ya da zor bir durumu ortadan kaldıracak çözüm yolu (4 harf) [B412-S4]",
+      "answer": "ÇARE"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 4,
+      "col": 1,
+      "length": 4,
+      "clue": "Müzik eserlerinde seslerin yükseklik ve uzunluğunu gösteren küçük simge (4 harf) [B412-S5]",
+      "answer": "NOTA"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 4,
+      "col": 3,
+      "length": 4,
+      "clue": "Ekmeğin arasına peynir konup ısıtılarak kızartılan sandviç çeşidi (4 harf) [B412-S6]",
+      "answer": "TOST"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 4,
+      "col": 3,
+      "length": 5,
+      "clue": "Yemeklerin servis edildiği, yuvarlak ve yassı porselen ya da cam kap (5 harf) [B412-S6]",
+      "answer": "TABAK"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "length": 4,
+      "clue": "Çalışmaya ya da yolculuğa kısa bir süre ara vererek dinlenme anı (4 harf) [B412-S7]",
+      "answer": "MOLA"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 6,
+      "col": 5,
+      "length": 5,
+      "clue": "Suda yaşayan, solungaçlarıyla soluyan, yüzgeçleriyle hareket eden canlı (5 harf) [B412-S8]",
+      "answer": "BALIK"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 7,
+      "col": 3,
+      "length": 4,
+      "clue": "Bacağın bileğinden aşağısı; üzerine basarak yürümemizi sağlayan uzuv (4 harf) [B412-S9]",
+      "answer": "AYAK"
+    }
+  ]
+}

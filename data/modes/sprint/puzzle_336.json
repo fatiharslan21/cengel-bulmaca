@@ -1,0 +1,188 @@
+{
+  "id": 336,
+  "title": "Bölüm 336",
+  "difficulty": "Kolay",
+  "grid_size_r": 8,
+  "grid_size_c": 10,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "length": 3,
+      "clue": "Üzerinde nokta bulunan, oyunlarda atılan altı yüzlü küçük küp (3 harf) [B80-S1]",
+      "answer": "ZAR"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 1,
+      "col": 8,
+      "length": 4,
+      "clue": "Bir ailenin oturduğu ev; aynı zamanda sayıdaki basamak anlamı taşır (4 harf) [B80-S2]",
+      "answer": "HANE"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 2,
+      "col": 3,
+      "length": 4,
+      "clue": "Üçten sonra gelen, mevsim ve yön sayısına denk gelen doğal sayı (4 harf) [B80-S3]",
+      "answer": "DÖRT"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 2,
+      "col": 6,
+      "length": 4,
+      "clue": "Sayılabilen nesnelerin her biri; küçük parça ya da adet (4 harf) [B80-S4]",
+      "answer": "TANE"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 3,
+      "col": 6,
+      "length": 4,
+      "clue": "Karşısına geçenin görüntüsünü aynen yansıtan sırlanmış cam yüzey (4 harf) [B80-S5]",
+      "answer": "AYNA"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 4,
+      "col": 2,
+      "length": 5,
+      "clue": "Evin misafir ağırlanan en büyük odası ya da toplantı yapılan geniş mekân (5 harf) [B80-S6]",
+      "answer": "SALON"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 4,
+      "col": 3,
+      "length": 4,
+      "clue": "Kaldırılması güç olan, hafif sözcüğünün zıttı sayılan kütle durumu (4 harf) [B80-S7]",
+      "answer": "AĞIR"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 5,
+      "col": 1,
+      "length": 3,
+      "clue": "Sahip olunan taşınır ya da taşınmaz değerli eşya; mülk (3 harf) [B80-S8]",
+      "answer": "MAL"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "length": 4,
+      "clue": "Katlanabilen küçük bıçak; çoğunlukla cepte taşınan, sivri uçlu el aleti (4 harf) [B80-S9]",
+      "answer": "ÇAKI"
+    }
+  ]
+}

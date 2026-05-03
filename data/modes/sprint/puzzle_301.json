@@ -1,0 +1,183 @@
+{
+  "id": 301,
+  "title": "Bölüm 301",
+  "difficulty": "Kolay",
+  "grid_size_r": 7,
+  "grid_size_c": 11,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 9,
+      "length": 4,
+      "clue": "Boş zamanlarda eğlence ya da öğrenme amacıyla kurallara göre oynanan etkinlik (4 harf) [B45-S1]",
+      "answer": "OYUN"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 1,
+      "col": 7,
+      "length": 3,
+      "clue": "Bir noktadan diğerine uzanan düz çizgi; yol ya da güzergâh (3 harf) [B45-S2]",
+      "answer": "HAT"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "length": 3,
+      "clue": "Bitkinin çiçek ya da yaprağını gövdeye bağlayan uzun ve ince bölüm (3 harf) [B45-S3]",
+      "answer": "SAP"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 2,
+      "col": 2,
+      "length": 5,
+      "clue": "Mektup ve paketlerin toplanıp yerine ulaştırıldığı geleneksel iletişim hizmeti (5 harf) [B45-S4]",
+      "answer": "POSTA"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 2,
+      "col": 4,
+      "length": 4,
+      "clue": "Eskiyip yırtılan giysiyi onarmak için üstüne dikilen küçük kumaş parçası (4 harf) [B45-S5]",
+      "answer": "YAMA"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "length": 3,
+      "clue": "Derin ve dik uçurum; aynı zamanda sevilen kişi için kullanılan şiirsel ad (3 harf) [B45-S5]",
+      "answer": "YAR"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 3,
+      "col": 7,
+      "length": 4,
+      "clue": "Sayılabilen nesnelerin her biri; küçük parça ya da adet (4 harf) [B45-S6]",
+      "answer": "TANE"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 4,
+      "col": 2,
+      "length": 4,
+      "clue": "Limon ve altın tonlarında olan, güneşi çağrıştıran canlı sıcak renk (4 harf) [B45-S7]",
+      "answer": "SARI"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 6,
+      "col": 1,
+      "length": 3,
+      "clue": "Toprağın içinden çıkan, sert ve ağır olan doğal kayaç parçası (3 harf) [B45-S8]",
+      "answer": "TAŞ"
+    }
+  ]
+}

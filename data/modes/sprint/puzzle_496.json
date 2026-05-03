@@ -1,0 +1,200 @@
+{
+  "id": 496,
+  "title": "Bölüm 496",
+  "difficulty": "Orta",
+  "grid_size_r": 9,
+  "grid_size_c": 9,
+  "grid": [
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "length": 4,
+      "clue": "Denizde yük ya da yolcu taşımak için yapılmış büyük su taşıtı (4 harf) [B240-S1]",
+      "answer": "GEMİ"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "length": 5,
+      "clue": "Üzerinde buğday, arpa ya da sebze yetiştirilen sürülmüş geniş toprak (5 harf) [B240-S2]",
+      "answer": "TARLA"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "length": 4,
+      "clue": "Bir olayın kaçıncı kez yaşandığını anlatmak için kullanılan kez sözcüğü (4 harf) [B240-S3]",
+      "answer": "DEFA"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 3,
+      "col": 5,
+      "length": 4,
+      "clue": "Nüfusu kalabalık, altyapısı gelişmiş, şehir niteliğindeki yerleşim yeri (4 harf) [B240-S4]",
+      "answer": "KENT"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 3,
+      "col": 5,
+      "length": 4,
+      "clue": "İçine eşya konulan, çoğu zaman kapağı olan, dikdörtgen ya da kare biçimli hazne (4 harf) [B240-S4]",
+      "answer": "KUTU"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 3,
+      "col": 7,
+      "length": 3,
+      "clue": "Dilin damak aracılığıyla algıladığı; acı, ekşi, tuzlu gibi duyusal nitelik (3 harf) [B240-S5]",
+      "answer": "TAT"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 4,
+      "col": 2,
+      "length": 4,
+      "clue": "Serinletici kokusuyla tanınan, çaya ve yemeklere katılan yeşil yapraklı ot (4 harf) [B240-S6]",
+      "answer": "NANE"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 6,
+      "col": 4,
+      "length": 3,
+      "clue": "Soyun büyüklerinden sayılan dede ya da daha öncesinden gelen büyük (3 harf) [B240-S7]",
+      "answer": "ATA"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 6,
+      "col": 4,
+      "length": 3,
+      "clue": "Bir üstün ya da yetkilinin önüne saygıyla sunma, takdim etme eylemi (3 harf) [B240-S7]",
+      "answer": "ARZ"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 6,
+      "col": 6,
+      "length": 3,
+      "clue": "Halk ağzında yakışıklı, gösterişli kimse için kullanılan eski bir sözcük (3 harf) [B240-S8]",
+      "answer": "AFİ"
+    }
+  ]
+}

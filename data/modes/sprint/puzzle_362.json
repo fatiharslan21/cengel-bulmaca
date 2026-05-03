@@ -1,0 +1,180 @@
+{
+  "id": 362,
+  "title": "Bölüm 362",
+  "difficulty": "Kolay",
+  "grid_size_r": 8,
+  "grid_size_c": 9,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "length": 4,
+      "clue": "Yetkili bir kimsenin yerine getirilmek üzere verdiği kesin buyruk (4 harf) [B106-S1]",
+      "answer": "EMİR"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "length": 4,
+      "clue": "Sayılabilen nesnelerin her biri; küçük parça ya da adet (4 harf) [B106-S2]",
+      "answer": "TANE"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 3,
+      "col": 4,
+      "length": 4,
+      "clue": "Bir eşyanın ya da yüzeyin üstünü kapatmak için serilen kumaş parçası (4 harf) [B106-S3]",
+      "answer": "ÖRTÜ"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 3,
+      "col": 6,
+      "length": 4,
+      "clue": "Saçı ya da kemeri tutturmaya yarayan, klips gibi açılıp kapanan küçük süs (4 harf) [B106-S4]",
+      "answer": "TOKA"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 4,
+      "col": 3,
+      "length": 4,
+      "clue": "İlerinin zıttı; arkaya ya da başlangıca doğru olan yön (4 harf) [B106-S5]",
+      "answer": "GERİ"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "length": 4,
+      "clue": "Güneşin batmasından doğmasına kadar süren karanlık zaman dilimi (4 harf) [B106-S6]",
+      "answer": "GECE"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 5,
+      "col": 0,
+      "length": 3,
+      "clue": "Yüzümüzde çift olarak bulunan, etrafımızı görmemizi sağlayan duyu organı (3 harf) [B106-S6]",
+      "answer": "GÖZ"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 5,
+      "col": 6,
+      "length": 3,
+      "clue": "Soğuk havada bulutlardan düşen, altıgen kristallerden oluşan beyaz yağış (3 harf) [B106-S7]",
+      "answer": "KAR"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 6,
+      "col": 3,
+      "length": 4,
+      "clue": "Uykuda iken zihnin sahneler halinde canlandırdığı renkli görüntüler (4 harf) [B106-S8]",
+      "answer": "RÜYA"
+    }
+  ]
+}

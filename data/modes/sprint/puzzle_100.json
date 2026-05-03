@@ -1,0 +1,244 @@
+{
+  "id": 100,
+  "title": "Bölüm 100",
+  "difficulty": "Zor",
+  "grid_size_r": 11,
+  "grid_size_c": 11,
+  "grid": [
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "length": 4,
+      "clue": "Mahkemenin verdiği kararı bildiren, yazılı resmi belge (4 harf) [B347-S1]",
+      "answer": "İLAM"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "length": 4,
+      "clue": "Gönle çöken derin üzüntü, insanı içten içe yiyen keder (4 harf) [B347-S2]",
+      "answer": "ELEM"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 3,
+      "col": 1,
+      "length": 4,
+      "clue": "Üzerinde yemek yemek ya da çalışmak için kullanılan ayaklı düz mobilya (4 harf) [B347-S3]",
+      "answer": "MASA"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 3,
+      "col": 3,
+      "length": 5,
+      "clue": "Birbirini gören iki kişinin hal hatır sormak için söylediği esenlik dileği (5 harf) [B347-S4]",
+      "answer": "SELAM"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 5,
+      "col": 10,
+      "length": 4,
+      "clue": "Kanatları sayesinde havalanıp gökyüzünde uçan motorlu büyük taşıt (4 harf) [B347-S5]",
+      "answer": "UÇAK"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 6,
+      "col": 2,
+      "length": 5,
+      "clue": "Kaybedilen bir yakının ardından tutulan koyu yas; siyahlar giyme hali (5 harf) [B347-S6]",
+      "answer": "MATEM"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 6,
+      "col": 6,
+      "length": 5,
+      "clue": "Anlatılanı somutlaştırmak için verilen örnek; kıyas noktası (5 harf) [B347-S7]",
+      "answer": "MİSAL"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 6,
+      "col": 8,
+      "length": 3,
+      "clue": "Olumsuzluğu pekiştiren söz; asla ve kesinlikle bulunmama durumu (3 harf) [B347-S8]",
+      "answer": "HİÇ"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 6,
+      "col": 8,
+      "length": 4,
+      "clue": "Birini aldatmak için yapılan gizli düzen; dolap çevirme (4 harf) [B347-S8]",
+      "answer": "HİLE"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 9,
+      "col": 5,
+      "length": 5,
+      "clue": "İnsanın başına geleceği önceden yazıldığına inanılan alın yazısı (5 harf) [B347-S9]",
+      "answer": "KADER"
+    }
+  ]
+}

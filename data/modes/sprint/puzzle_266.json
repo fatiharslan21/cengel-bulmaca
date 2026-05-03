@@ -1,0 +1,176 @@
+{
+  "id": 266,
+  "title": "Bölüm 266",
+  "difficulty": "Kolay",
+  "grid_size_r": 6,
+  "grid_size_c": 12,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "length": 4,
+      "clue": "Boş zamanlarda eğlence ya da öğrenme amacıyla kurallara göre oynanan etkinlik (4 harf) [B12-S1]",
+      "answer": "OYUN"
+    },
+    {
+      "number": 1,
+      "direction": "across",
+      "row": 0,
+      "col": 8,
+      "length": 4,
+      "clue": "Bir ülkenin savunmasını üstlenen, askerlerden oluşan silahlı kuvvetler (4 harf) [B12-S1]",
+      "answer": "ORDU"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 1,
+      "col": 0,
+      "length": 3,
+      "clue": "Bir binanın birbirinin üzerine gelen yatay bölümlerinden her biri (3 harf) [B12-S2]",
+      "answer": "KAT"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 1,
+      "col": 5,
+      "length": 4,
+      "clue": "Başarı gösteren kimseye, çabasının karşılığı olarak verilen değerli armağan (4 harf) [B12-S3]",
+      "answer": "ÖDÜL"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 2,
+      "col": 3,
+      "length": 4,
+      "clue": "Gömleğin boynu çevreleyen üst kısmı; ceketin de boyuna değen kenarı (4 harf) [B12-S4]",
+      "answer": "YAKA"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 2,
+      "col": 5,
+      "length": 4,
+      "clue": "İçi boşluk bırakmayacak biçimde bir şeyle tamamen kaplanmış olan (4 harf) [B12-S5]",
+      "answer": "DOLU"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "length": 4,
+      "clue": "Saçı ya da kemeri tutturmaya yarayan, klips gibi açılıp kapanan küçük süs (4 harf) [B12-S6]",
+      "answer": "TOKA"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 4,
+      "col": 3,
+      "length": 3,
+      "clue": "Omuzdan bileğe kadar uzanan, eli bedene bağlayan üst uzvumuz (3 harf) [B12-S7]",
+      "answer": "KOL"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "length": 4,
+      "clue": "Suç işleyen kimseye, yaptığının karşılığı olarak verilen yaptırım (4 harf) [B12-S8]",
+      "answer": "CEZA"
+    }
+  ]
+}

@@ -1,0 +1,257 @@
+{
+  "id": 442,
+  "title": "Bölüm 442",
+  "difficulty": "Orta",
+  "grid_size_r": 12,
+  "grid_size_c": 11,
+  "grid": [
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "length": 4,
+      "clue": "İki şeyin birbirinden ayrıldığı yön; aralarındaki benzemezlik (4 harf) [B186-S1]",
+      "answer": "FARK"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 2,
+      "col": 2,
+      "length": 5,
+      "clue": "Programlanarak belirli işleri otomatik yapan mekanik insansı makine (5 harf) [B186-S2]",
+      "answer": "ROBOT"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "length": 5,
+      "clue": "Kolla eli birbirine bağlayan, küçük kemiklerden oluşan eklem bölgesi (5 harf) [B186-S3]",
+      "answer": "BİLEK"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 2,
+      "col": 6,
+      "length": 4,
+      "clue": "Anadolu ve çevresinde yaşayan, Orta Asya kökenli büyük millet (4 harf) [B186-S4]",
+      "answer": "TÜRK"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 4,
+      "col": 1,
+      "length": 6,
+      "clue": "Kuşaktan kuşağa sözlü aktarılan, olağanüstü öğelerle süslenmiş hikâye (6 harf) [B186-S5]",
+      "answer": "EFSANE"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 4,
+      "col": 9,
+      "length": 4,
+      "clue": "İlerinin zıttı; arkaya ya da başlangıca doğru olan yön (4 harf) [B186-S6]",
+      "answer": "GERİ"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 5,
+      "col": 6,
+      "length": 5,
+      "clue": "İnsana sadakatiyle bilinen, havlayarak seslenen evcil dört ayaklı (5 harf) [B186-S7]",
+      "answer": "KÖPEK"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "length": 5,
+      "clue": "Su veya başka bir sıvıyla temas edip kurumamış olan nemli yüzey (5 harf) [B186-S8]",
+      "answer": "ISLAK"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 9,
+      "col": 0,
+      "length": 5,
+      "clue": "Kamıştan ya da pancardan elde edilen; çay ve tatlılara katılan tatlı madde (5 harf) [B186-S9]",
+      "answer": "ŞEKER"
+    },
+    {
+      "number": 10,
+      "direction": "down",
+      "row": 9,
+      "col": 2,
+      "length": 3,
+      "clue": "Bir binanın birbirinin üzerine gelen yatay bölümlerinden her biri (3 harf) [B186-S10]",
+      "answer": "KAT"
+    }
+  ]
+}
