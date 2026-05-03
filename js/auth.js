@@ -13,7 +13,7 @@
     var STORE_SCORES = 'cb_scores_local';
     var STORE_DAILY = 'cb_daily';
 
-    var API_BASE = (window.CB_API_BASE || '').replace(/\/$/, '');
+    var API_BASE = (window.CB_API_BASE || (location.protocol.startsWith('http') ? (location.protocol + '//' + location.hostname + ':8787') : '')).replace(/\/$/, '');
     var backendChecked = false;
     var backendAvailable = false;
 
@@ -212,14 +212,7 @@
             return { ok:true, mode:'enter' };
         }
 
-        var db = getDB();
-        if(!db.users[v.key]) db.users[v.key] = userTemplate(v.username);
-        db.users[v.key].username = db.users[v.key].username || v.username;
-        db.users[v.key].updatedAt = Date.now();
-        saveDB(db);
-        setUserSession(v.key, db.users[v.key].username, db.users[v.key].createdAt);
-        loadUserDataToLegacyStores(db.users[v.key]);
-        return { ok:true, mode:'enter' };
+        return { ok:false, message:'Sunucuya bağlanılamadı. Farklı cihazlardan ortak skor için backend erişimi zorunlu.' };
     }
 
 
@@ -282,25 +275,7 @@
             return;
         }
 
-        var db = getDB();
-        var local = db.users[currentUser.key] || userTemplate(currentUser.name || currentUser.key, '');
-        if(!local.puzzles) local.puzzles = {};
-        if(!local.daily) local.daily = {};
-        if(!local.puzzles[pid] || (local.puzzles[pid].score || 0) < entry.score) local.puzzles[pid] = entry;
-        if(dailyKey){
-            var dkk = String(dailyKey);
-            if(!local.daily[dkk] || (local.daily[dkk].score || 0) < entry.score){
-                local.daily[dkk] = { score: entry.score, time: entry.time, hints: entry.hints, id: puzzleId, completedAt: entry.completedAt };
-            }
-        }
-        var vs = Object.values(local.puzzles);
-        local.totalScore = vs.reduce(function(s, x){ return s + (x.score || 0); }, 0);
-        local.completedCount = vs.length;
-        local.updatedAt = Date.now();
-        db.users[currentUser.key] = local;
-        saveDB(db);
-        loadUserDataToLegacyStores(local);
-        window.dispatchEvent(new CustomEvent('cbLeaderboardUpdated'));
+        console.warn('saveScore skipped: backend/firestore unavailable, ortak leaderboard güncellenemedi.');
     }
 
     // ─── Public: getLeaderboard ───
@@ -334,12 +309,7 @@
             if(remote && Array.isArray(remote.leaderboard)) return remote.leaderboard;
         }
 
-        var db = getDB();
-        var local = Object.keys(db.users).map(function(k){
-            var u = db.users[k] || {};
-            return { uid:k, name:u.username || k, totalScore:u.totalScore || 0, completedCount:u.completedCount || 0 };
-        }).sort(function(a, b){ return (b.totalScore || 0) - (a.totalScore || 0); });
-        return local.slice(0, n);
+        return []; // ortak skor için backend/firestore şart
     }
 
     function signOut(){
@@ -395,7 +365,7 @@
         isBackendReady: function(){ return backendAvailable; }
     };
 
-    // Firebase yoksa, mevcut session için backend/localStorage'tan senkronla.
+    // Firebase yoksa, mevcut session için yalnız backend'ten senkronla.
     if(currentUser && currentUser.key){
         initFirebase().then(function(ok){
             if(ok) return; // yukarıda ele alındı
@@ -404,10 +374,6 @@
                     apiGet('/api/user/' + encodeURIComponent(currentUser.key)).then(function(res){
                         if(res && res.user){ loadUserDataToLegacyStores(res.user); }
                     });
-                } else {
-                    var db = getDB();
-                    var rec = db.users[currentUser.key];
-                    if(rec) loadUserDataToLegacyStores(rec);
                 }
             });
         });
