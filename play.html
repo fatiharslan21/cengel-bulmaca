@@ -42,6 +42,13 @@
     </div>
 </header>
 
+<div class="mode-switch" id="mode-switch">
+    <a class="ms-btn" data-mode="classic" href="#">Klasik</a>
+    <a class="ms-btn" data-mode="sprint" href="#">Sprint</a>
+    <a class="ms-btn" data-mode="zen" href="#">Zen</a>
+    <a class="ms-btn" data-mode="hardcore" href="#">Hardcore</a>
+</div>
+
 <div class="clue-strip" id="cbar">
     <span class="clue-num" id="badge">—</span>
     <span class="clue-t" id="ctext">Bir hücreye dokunarak başla</span>
@@ -170,6 +177,7 @@
     const gameMode = (urlParams.get('mode') || 'classic').toLowerCase();
     window.CB_DAILY_KEY = dailyKey; // play.js bunu kontrol eder
     window.CB_GAME_MODE = gameMode;
+    const modeSuffix = `&mode=${encodeURIComponent(gameMode)}`;
 
     // Kayıt/giriş zorunlu
     function redirectToLogin() {
@@ -227,6 +235,11 @@
             const modeEl = document.getElementById('ui-game-mode');
             const MODE_LABELS = { classic:'KLASİK', sprint:'SPRINT 3DK', zen:'ZEN', hardcore:'HARDCORE' };
             if(modeEl) modeEl.textContent = MODE_LABELS[gameMode] || 'KLASİK';
+            document.querySelectorAll('#mode-switch .ms-btn').forEach(btn => {
+                const m = btn.getAttribute('data-mode');
+                btn.href = `play.html?id=${levelId}${dailyKey ? `&daily=${encodeURIComponent(dailyKey)}` : ''}&mode=${encodeURIComponent(m)}`;
+                btn.classList.toggle('on', m === gameMode);
+            });
 
             if(data.difficulty) {
                 const emoji = {'Kolay':'🌱','Orta':'🔥','Zor':'⚡','Çok Zor':'💎'}[data.difficulty] || '';
@@ -240,13 +253,13 @@
             const modalNextBtn = document.getElementById('modal-btn-next');
 
             if (!dailyKey && levelId > 1) {
-                prevBtn.href = `play.html?id=${levelId - 1}`;
+                prevBtn.href = `play.html?id=${levelId - 1}${modeSuffix}`;
                 prevBtn.style.display = 'inline-flex';
             }
             if (!dailyKey && levelId < totalLevels) {
-                nextBtn.href = `play.html?id=${levelId + 1}`;
+                nextBtn.href = `play.html?id=${levelId + 1}${modeSuffix}`;
                 nextBtn.style.display = 'inline-flex';
-                modalNextBtn.href = `play.html?id=${levelId + 1}`;
+                modalNextBtn.href = `play.html?id=${levelId + 1}${modeSuffix}`;
                 modalNextBtn.style.display = 'inline-flex';
             }
 

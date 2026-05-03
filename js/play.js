@@ -73,6 +73,7 @@ function getThemeFX() {
 }
 
 function burstParticles(x, y, colors = ['#16A34A','#22C55E','#4ADE80']) {
+    if(liteMode()) return;
     for(let i = 0; i < 12; i++) {
         const p = document.createElement('div');
         p.className = 'particle';
@@ -93,6 +94,7 @@ function burstParticles(x, y, colors = ['#16A34A','#22C55E','#4ADE80']) {
 }
 
 function starBurst(x, y) {
+    if(liteMode()) return;
     const symbols = getThemeFX().stars;
     symbols.forEach((s, i) => {
         setTimeout(() => {
@@ -127,6 +129,14 @@ const MODE_CONF = {
     hardcore: { label:'Hardcore', maxTime: null, hintAllowed: false, hintPenalty: 30, timeBonus: true }
 };
 const ACTIVE_MODE = MODE_CONF[GAME_MODE] || MODE_CONF.classic;
+
+function liteMode(){
+    try {
+        const s = JSON.parse(localStorage.getItem('cb_settings') || '{}');
+        const reduceMotion = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+        return s.liteMode === true || reduceMotion;
+    } catch(e){ return false; }
+}
 
 function TR(c){
     const ch = (c == null ? '' : String(c)).trim();
@@ -449,7 +459,7 @@ function chkComp(){
         }
     });
     updProg();
-    if(slv.size===P.words.length)setTimeout(showWin,300);
+    if(slv.size===P.words.length)setTimeout(showWin, liteMode() ? 80 : 300);
 }
 
 function doHint(){
@@ -634,6 +644,7 @@ function drawWordFlow() {
 }
 
 function glowPulse(x, y, glowColor) {
+    if(liteMode()) return;
     const g = document.createElement('div');
     g.className = 'sync-glow';
     g.style.left = `${x}px`;
@@ -740,6 +751,7 @@ function animateCounter(el, from, to, duration=900){
 }
 
 function spawnConfetti(){
+    if(liteMode()) return;
     const box=document.getElementById('confetti');
     const colors=['#16A34A','#2563EB','#D97706','#DC2626','#7C3AED','#EC4899','#EAB308','#06B6D4'];
     for(let i=0;i<80;i++){

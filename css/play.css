@@ -801,3 +801,8 @@ body.dark-mode .ci.on.cid { border-color: rgba(167,139,250,.5); }
     50% { transform: translateY(3px) scale(.94); background: var(--accent-light); }
     100% { transform: scale(1); }
 }
+
+.mode-switch{margin:8px 14px 0;display:flex;gap:6px;flex-wrap:wrap}
+.ms-btn{padding:6px 10px;border:1px solid var(--stone);border-radius:999px;text-decoration:none;color:var(--ink);font-size:12px;font-weight:700;background:var(--white)}
+.ms-btn.on{background:var(--accent-light);border-color:var(--accent);color:var(--accent)}
+@media (max-width:768px){.mode-switch{margin:6px 10px 0}.ms-btn{font-size:11px;padding:6px 9px}}
