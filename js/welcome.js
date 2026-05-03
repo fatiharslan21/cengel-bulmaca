@@ -28,43 +28,20 @@
             try { return JSON.parse(localStorage.getItem(STORE_USER) || 'null'); } catch(e) { return null; }
         };
         const clearUser = () => localStorage.removeItem(STORE_USER);
-        const hash = async (pw) => {
-            try {
-                if(window.crypto?.subtle) {
-                    const buf = await crypto.subtle.digest('SHA-256', new TextEncoder().encode(pw));
-                    return [...new Uint8Array(buf)].map(b=>b.toString(16).padStart(2,'0')).join('');
-                }
-            } catch(e) {}
-            return `plain:${pw}`;
-        };
-
         window.CBAuth = {
-            async register(username, password) {
+            async enter(username) {
                 const clean = (username || '').trim();
                 if(clean.length < 3) return { ok:false, message:'Kullanıcı adı en az 3 karakter olmalı.' };
-                if((password || '').length < 4) return { ok:false, message:'Şifre en az 4 karakter olmalı.' };
                 const key = normalizeName(clean);
                 if(!key) return { ok:false, message:'Geçerli bir kullanıcı adı girin.' };
                 const all = getAccounts();
-                if(all[key]) return { ok:false, message:'Bu kullanıcı adı zaten kayıtlı.' };
-                all[key] = { username: clean, passHash: await hash(password), createdAt: Date.now() };
+                if(!all[key]) all[key] = { username: clean, createdAt: Date.now() };
                 setAccounts(all);
-                setUser(key, clean);
-                return { ok:true, mode:'register' };
+                setUser(key, all[key].username || clean);
+                return { ok:true, mode:'enter' };
             },
-            async login(username, password) {
-                const clean = (username || '').trim();
-                if(clean.length < 3) return { ok:false, message:'Kullanıcı adı en az 3 karakter olmalı.' };
-                if((password || '').length < 4) return { ok:false, message:'Şifre en az 4 karakter olmalı.' };
-                const key = normalizeName(clean);
-                const all = getAccounts();
-                const acc = all[key];
-                if(!acc) return { ok:false, message:'Kullanıcı bulunamadı. Önce kayıt ol.' };
-                const passHash = await hash(password);
-                if(acc.passHash !== passHash) return { ok:false, message:'Şifre hatalı.' };
-                setUser(key, acc.username || clean);
-                return { ok:true, mode:'login' };
-            },
+            register(username) { return this.enter(username); },
+            login(username) { return this.enter(username); },
             signOut() { clearUser(); },
             getUser() { return getUser(); },
             isLoggedIn() { return !!getUser()?.key; },
@@ -109,68 +86,24 @@
                     <span class="wd wd-3">◆</span>
                 </div>
                 <div class="welcome-logo">Ç</div>
-                <h2 class="welcome-title">Hesabınla Devam Et</h2>
-                <p class="welcome-sub">Bölümlere girmek için kayıt olman veya giriş yapman gerekir.</p>
-
-                <div class="auth-tabs">
-                    <button type="button" class="welcome-btn auth-tab is-active" id="tab-register">Kayıt Ol</button>
-                    <button type="button" class="welcome-btn auth-tab" id="tab-login">Giriş Yap</button>
-                </div>
+                <h2 class="welcome-title">İsminle Devam Et</h2>
+                <p class="welcome-sub">Sadece kullanıcı adı gir, doğrudan oyuna başla.</p>
 
                 <form class="welcome-form" id="welcome-form">
-                    <input type="text" id="welcome-name" placeholder="Kullanıcı adı" maxlength="24" autocomplete="username" spellcheck="false" required>
-                    <div class="pass-wrap">
-                        <input type="password" id="welcome-pass" placeholder="Şifre" minlength="4" autocomplete="current-password" required>
-                        <button type="button" class="pass-toggle" id="toggle-pass" aria-label="Şifreyi göster/gizle">👁️</button>
-                    </div>
-                    <input type="password" id="welcome-pass2" placeholder="Şifre (tekrar)" minlength="4" autocomplete="new-password" required>
-                    <button type="submit" class="welcome-btn welcome-submit"><span id="welcome-btn-label">Kayıt Ol</span></button>
+                    <input type="text" id="welcome-name" placeholder="Benzersiz kullanıcı adı" maxlength="24" autocomplete="username" spellcheck="false" required>
+                    <button type="submit" class="welcome-btn welcome-submit"><span id="welcome-btn-label">Oyuna Gir</span></button>
                 </form>
                 <p id="welcome-msg" class="welcome-note"></p>
             </div>
         `;
         document.body.appendChild(modal);
-
-        let mode = 'register';
-        const registerBtn = modal.querySelector('#tab-register');
-        const loginBtn = modal.querySelector('#tab-login');
         const form = modal.querySelector('#welcome-form');
         const msg = modal.querySelector('#welcome-msg');
         const btnLabel = modal.querySelector('#welcome-btn-label');
-        const passInput = modal.querySelector('#welcome-pass');
-        const passAgainInput = modal.querySelector('#welcome-pass2');
-        const togglePass = modal.querySelector('#toggle-pass');
-
-        function setMode(nextMode) {
-            mode = nextMode;
-            registerBtn.classList.toggle('is-active', nextMode === 'register');
-            loginBtn.classList.toggle('is-active', nextMode === 'login');
-            btnLabel.textContent = nextMode === 'register' ? 'Kayıt Ol' : 'Giriş Yap';
-            passAgainInput.style.display = nextMode === 'register' ? 'block' : 'none';
-            passAgainInput.required = nextMode === 'register';
-            passAgainInput.value = '';
-            passInput.autocomplete = nextMode === 'register' ? 'new-password' : 'current-password';
-            msg.textContent = '';
-        }
-
-        registerBtn.addEventListener('click', () => setMode('register'));
-        loginBtn.addEventListener('click', () => setMode('login'));
-        togglePass.addEventListener('click', () => {
-            passInput.type = passInput.type === 'password' ? 'text' : 'password';
-            togglePass.textContent = passInput.type === 'password' ? '👁️' : '🙈';
-        });
 
         form.addEventListener('submit', async (e) => {
             e.preventDefault();
             const username = modal.querySelector('#welcome-name').value.trim();
-            const password = modal.querySelector('#welcome-pass').value;
-            const password2 = modal.querySelector('#welcome-pass2').value;
-
-            if(mode === 'register' && password !== password2) {
-                msg.textContent = 'Şifreler aynı değil.';
-                msg.classList.add('error');
-                return;
-            }
 
             const submitBtn = form.querySelector('.welcome-submit');
             submitBtn.disabled = true;
@@ -182,19 +115,19 @@
                 if(!ready) {
                     throw new Error('Giriş servisi başlatılamadı. Tarayıcıyı kapatıp tekrar aç ve yeniden dene.');
                 }
-                const fn = mode === 'register' ? window.CBAuth?.register : window.CBAuth?.login;
+                const fn = window.CBAuth?.enter || window.CBAuth?.login || window.CBAuth?.register;
                 if(typeof fn !== 'function') {
                     throw new Error('Giriş servisi hazır değil. Sayfayı yenileyip tekrar deneyin.');
                 }
                 result = await Promise.race([
-                    fn(username, password),
+                    fn(username),
                     new Promise((_, reject) => setTimeout(() => reject(new Error('İstek zaman aşımına uğradı. İnternetini kontrol edip tekrar dene.')), 10000))
                 ]);
             } catch(err) {
                 result = { ok: false, message: err?.message || 'İşlem sırasında beklenmeyen hata oluştu.' };
             } finally {
                 submitBtn.disabled = false;
-                btnLabel.textContent = mode === 'register' ? 'Kayıt Ol' : 'Giriş Yap';
+                btnLabel.textContent = 'Oyuna Gir';
             }
 
             if(result?.ok) {
@@ -223,17 +156,12 @@
         build();
         const title = modal.querySelector('.welcome-title');
         const sub = modal.querySelector('.welcome-sub');
-        if(opts.mode === 'login') {
-            modal.querySelector('#tab-login').click();
-        } else {
-            modal.querySelector('#tab-register').click();
-        }
         if(opts.forced) {
             title.textContent = 'Giriş Zorunlu';
-            sub.textContent = 'Oynamak için önce kayıt olmalı veya giriş yapmalısın.';
+            sub.textContent = 'Oynamak için benzersiz kullanıcı adı girmen yeterli.';
         } else {
-            title.textContent = 'Hesabınla Devam Et';
-            sub.textContent = 'Bölümlere girmek için kayıt olman veya giriş yapman gerekir.';
+            title.textContent = 'İsminle Devam Et';
+            sub.textContent = 'Sadece kullanıcı adı gir, skor tablosunda yerini al.';
         }
 
         modal.classList.add('show');
