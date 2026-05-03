@@ -143,7 +143,7 @@
       "row": 0,
       "col": 10,
       "length": 5,
-      "clue": "Dinlerde iyilikle görevlendirilmiş, kanatlı olduğuna inanılan kutsal varlık.",
+      "clue": "Dinlerde iyilikle görevlendirilmiş, kanatlı olduğuna inanılan kutsal varlık (5 harf) [B179-S1]",
       "answer": "MELEK"
     },
     {
@@ -152,7 +152,7 @@
       "row": 1,
       "col": 5,
       "length": 6,
-      "clue": "Değerli eşyaların ya da paraların saklandığı gizli büyük birikim.",
+      "clue": "Değerli eşyaların ya da paraların saklandığı gizli büyük birikim (6 harf) [B179-S2]",
       "answer": "HAZİNE"
     },
     {
@@ -161,7 +161,7 @@
       "row": 1,
       "col": 7,
       "length": 5,
-      "clue": "Bir dağın en yüksek noktası; ulaşılabilecek en üst basamak.",
+      "clue": "Bir dağın en yüksek noktası; ulaşılabilecek en üst basamak (5 harf) [B179-S3]",
       "answer": "ZİRVE"
     },
     {
@@ -170,7 +170,7 @@
       "row": 3,
       "col": 4,
       "length": 3,
-      "clue": "Bir cismin aşağı tarafı; üst sözcüğünün tam karşıtı olan yön.",
+      "clue": "Bir cismin aşağı tarafı; üst sözcüğünün tam karşıtı olan yön (3 harf) [B179-S4]",
       "answer": "ALT"
     },
     {
@@ -179,7 +179,7 @@
       "row": 4,
       "col": 0,
       "length": 4,
-      "clue": "Çorba, salata ya da yoğurt konulan, yuvarlak ve çukur küçük yemek kabı.",
+      "clue": "Çorba, salata ya da yoğurt konulan, yuvarlak ve çukur küçük yemek kabı (4 harf) [B179-S5]",
       "answer": "KASE"
     },
     {
@@ -188,7 +188,7 @@
       "row": 4,
       "col": 2,
       "length": 3,
-      "clue": "Dikenli gövdesi ve hoş kokulu taç yapraklarıyla bilinen bahçe çiçeği.",
+      "clue": "Dikenli gövdesi ve hoş kokulu taç yapraklarıyla bilinen bahçe çiçeği (3 harf) [B179-S6]",
       "answer": "GÜL"
     },
     {
@@ -197,7 +197,7 @@
       "row": 4,
       "col": 2,
       "length": 3,
-      "clue": "Bulunduğun yerden buraya doğru yaklaş; git sözcüğünün tam zıttı eylem.",
+      "clue": "Bulunduğun yerden buraya doğru yaklaş; git sözcüğünün tam zıttı eylem (3 harf) [B179-S6]",
       "answer": "GEL"
     },
     {
@@ -206,7 +206,7 @@
       "row": 5,
       "col": 4,
       "length": 4,
-      "clue": "Dağdan daha alçak, çevresine göre yüksek görünen küçük yükselti.",
+      "clue": "Dağdan daha alçak, çevresine göre yüksek görünen küçük yükselti (4 harf) [B179-S7]",
       "answer": "TEPE"
     },
     {
@@ -215,7 +215,7 @@
       "row": 5,
       "col": 6,
       "length": 5,
-      "clue": "Mektup ve paketlerin toplanıp yerine ulaştırıldığı geleneksel iletişim hizmeti.",
+      "clue": "Mektup ve paketlerin toplanıp yerine ulaştırıldığı geleneksel iletişim hizmeti (5 harf) [B179-S8]",
       "answer": "POSTA"
     },
     {
@@ -224,7 +224,7 @@
       "row": 6,
       "col": 0,
       "length": 3,
-      "clue": "Kalbin bulunduğu taraf; sağın tam karşıtı olan yön.",
+      "clue": "Kalbin bulunduğu taraf; sağın tam karşıtı olan yön (3 harf) [B179-S9]",
       "answer": "SOL"
     }
   ]

@@ -113,7 +113,7 @@
       "row": 0,
       "col": 2,
       "length": 3,
-      "clue": "Dikenli gövdesi ve hoş kokulu taç yapraklarıyla bilinen bahçe çiçeği.",
+      "clue": "Dikenli gövdesi ve hoş kokulu taç yapraklarıyla bilinen bahçe çiçeği (3 harf) [B117-S1]",
       "answer": "GÜL"
     },
     {
@@ -122,7 +122,7 @@
       "row": 2,
       "col": 0,
       "length": 3,
-      "clue": "Yüzlerin onunun bir araya gelmesiyle oluşan dört basamaklı sayı.",
+      "clue": "Yüzlerin onunun bir araya gelmesiyle oluşan dört basamaklı sayı (3 harf) [B117-S2]",
       "answer": "BİN"
     },
     {
@@ -131,7 +131,7 @@
       "row": 2,
       "col": 0,
       "length": 3,
-      "clue": "Arıların çiçeklerden topladığı nektarı işleyerek yaptığı koyu, tatlı gıda.",
+      "clue": "Arıların çiçeklerden topladığı nektarı işleyerek yaptığı koyu, tatlı gıda (3 harf) [B117-S2]",
       "answer": "BAL"
     },
     {
@@ -140,7 +140,7 @@
       "row": 3,
       "col": 4,
       "length": 3,
-      "clue": "Üzerinde nokta bulunan, oyunlarda atılan altı yüzlü küçük küp.",
+      "clue": "Üzerinde nokta bulunan, oyunlarda atılan altı yüzlü küçük küp (3 harf) [B117-S3]",
       "answer": "ZAR"
     },
     {
@@ -149,7 +149,7 @@
       "row": 4,
       "col": 0,
       "length": 5,
-      "clue": "Bir cümlenin sonuna konan en küçük yazı işareti; konumun kendisi.",
+      "clue": "Bir cümlenin sonuna konan en küçük yazı işareti; konumun kendisi (5 harf) [B117-S4]",
       "answer": "NOKTA"
     },
     {
@@ -158,7 +158,7 @@
       "row": 4,
       "col": 2,
       "length": 3,
-      "clue": "Alevi sönmüş ama sıcaklığı ve kızıllığı süren yanmakta olan parça.",
+      "clue": "Alevi sönmüş ama sıcaklığı ve kızıllığı süren yanmakta olan parça (3 harf) [B117-S5]",
       "answer": "KOR"
     },
     {
@@ -167,7 +167,7 @@
       "row": 6,
       "col": 0,
       "length": 4,
-      "clue": "Türkiye Cumhuriyeti'nin resmi para birimi; TL kısaltmasıyla yazılan değer.",
+      "clue": "Türkiye Cumhuriyeti'nin resmi para birimi; TL kısaltmasıyla yazılan değer (4 harf) [B117-S6]",
       "answer": "LİRA"
     },
     {
@@ -176,7 +176,7 @@
       "row": 6,
       "col": 3,
       "length": 4,
-      "clue": "Yürürken bir ayağın diğerinin önüne atılmasıyla alınan kısa mesafe.",
+      "clue": "Yürürken bir ayağın diğerinin önüne atılmasıyla alınan kısa mesafe (4 harf) [B117-S7]",
       "answer": "ADIM"
     },
     {
@@ -185,7 +185,7 @@
       "row": 7,
       "col": 3,
       "length": 5,
-      "clue": "İçine üflenince tiz bir ses çıkaran, ince ve boru biçimli küçük alet.",
+      "clue": "İçine üflenince tiz bir ses çıkaran, ince ve boru biçimli küçük alet (5 harf) [B117-S8]",
       "answer": "DÜDÜK"
     }
   ]

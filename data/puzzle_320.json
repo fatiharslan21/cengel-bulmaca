@@ -133,7 +133,7 @@
       "row": 0,
       "col": 0,
       "length": 5,
-      "clue": "Üzerinde yaşadığımız, Güneş'in çevresinde dönen mavi yeşil gezegen.",
+      "clue": "Üzerinde yaşadığımız, Güneş'in çevresinde dönen mavi yeşil gezegen (5 harf) [B320-S1]",
       "answer": "DÜNYA"
     },
     {
@@ -142,7 +142,7 @@
       "row": 0,
       "col": 3,
       "length": 6,
-      "clue": "Ağacın dalından sarkan, fotosentez yapıp havaya oksijen veren yeşil organ.",
+      "clue": "Ağacın dalından sarkan, fotosentez yapıp havaya oksijen veren yeşil organ (6 harf) [B320-S2]",
       "answer": "YAPRAK"
     },
     {
@@ -151,7 +151,7 @@
       "row": 3,
       "col": 1,
       "length": 4,
-      "clue": "Dağlardan doğan, ırmağa ya da göle dökülen küçük doğal akarsu.",
+      "clue": "Dağlardan doğan, ırmağa ya da göle dökülen küçük doğal akarsu (4 harf) [B320-S3]",
       "answer": "DERE"
     },
     {
@@ -160,7 +160,7 @@
       "row": 4,
       "col": 5,
       "length": 3,
-      "clue": "Başımızın derisinde biten, her birinin kökten uzayan ince tel kıl.",
+      "clue": "Başımızın derisinde biten, her birinin kökten uzayan ince tel kıl (3 harf) [B320-S4]",
       "answer": "SAÇ"
     },
     {
@@ -169,7 +169,7 @@
       "row": 5,
       "col": 2,
       "length": 4,
-      "clue": "Kozadan elde edilen, parlak dokulu ve dayanıklı, değerli kumaş lifi.",
+      "clue": "Kozadan elde edilen, parlak dokulu ve dayanıklı, değerli kumaş lifi (4 harf) [B320-S5]",
       "answer": "İPEK"
     },
     {
@@ -178,7 +178,7 @@
       "row": 5,
       "col": 2,
       "length": 5,
-      "clue": "Hayatta yükselme, talih kuşunun başa konması; mevki sahibi olma.",
+      "clue": "Hayatta yükselme, talih kuşunun başa konması; mevki sahibi olma (5 harf) [B320-S5]",
       "answer": "İKBAL"
     },
     {
@@ -187,7 +187,7 @@
       "row": 7,
       "col": 1,
       "length": 4,
-      "clue": "İçten doğan büyük istek; insanı coşturan şiddetli arzu ve heves.",
+      "clue": "İçten doğan büyük istek; insanı coşturan şiddetli arzu ve heves (4 harf) [B320-S6]",
       "answer": "ŞEVK"
     },
     {
@@ -196,7 +196,7 @@
       "row": 7,
       "col": 4,
       "length": 5,
-      "clue": "Ağızdan çıkan söz; düşüncenin dille ifade bulmuş hali.",
+      "clue": "Ağızdan çıkan söz; düşüncenin dille ifade bulmuş hali (5 harf) [B320-S7]",
       "answer": "KELAM"
     },
     {
@@ -205,7 +205,7 @@
       "row": 7,
       "col": 6,
       "length": 4,
-      "clue": "Uykuda iken zihnin sahneler halinde canlandırdığı renkli görüntüler.",
+      "clue": "Uykuda iken zihnin sahneler halinde canlandırdığı renkli görüntüler (4 harf) [B320-S8]",
       "answer": "RÜYA"
     },
     {
@@ -214,7 +214,7 @@
       "row": 10,
       "col": 3,
       "length": 5,
-      "clue": "Kötü bakışın bir kimseye uğursuzluk getireceğine duyulan halk inancı.",
+      "clue": "Kötü bakışın bir kimseye uğursuzluk getireceğine duyulan halk inancı (5 harf) [B320-S9]",
       "answer": "NAZAR"
     }
   ]

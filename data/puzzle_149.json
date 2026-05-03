@@ -156,7 +156,7 @@
       "row": 0,
       "col": 1,
       "length": 4,
-      "clue": "Bir kelimeyi bir nefeste söyleyebildiğimiz en küçük ses birimi.",
+      "clue": "Bir kelimeyi bir nefeste söyleyebildiğimiz en küçük ses birimi (4 harf) [B149-S1]",
       "answer": "HECE"
     },
     {
@@ -165,7 +165,7 @@
       "row": 1,
       "col": 1,
       "length": 4,
-      "clue": "Evde ya da iş yerinde gündelik hayatta kullanılan nesnelerin tümü.",
+      "clue": "Evde ya da iş yerinde gündelik hayatta kullanılan nesnelerin tümü (4 harf) [B149-S2]",
       "answer": "EŞYA"
     },
     {
@@ -174,7 +174,7 @@
       "row": 1,
       "col": 4,
       "length": 3,
-      "clue": "Geçmişte yaşanmış ve zihinde iz bırakmış olayların hatırlanması.",
+      "clue": "Geçmişte yaşanmış ve zihinde iz bırakmış olayların hatırlanması (3 harf) [B149-S3]",
       "answer": "ANI"
     },
     {
@@ -183,7 +183,7 @@
       "row": 1,
       "col": 8,
       "length": 4,
-      "clue": "İnsana gülen talih; iyi bir sonucun tesadüfen kısmet olması hali.",
+      "clue": "İnsana gülen talih; iyi bir sonucun tesadüfen kısmet olması hali (4 harf) [B149-S4]",
       "answer": "ŞANS"
     },
     {
@@ -192,7 +192,7 @@
       "row": 2,
       "col": 4,
       "length": 5,
-      "clue": "Bir cümlenin sonuna konan en küçük yazı işareti; konumun kendisi.",
+      "clue": "Bir cümlenin sonuna konan en küçük yazı işareti; konumun kendisi (5 harf) [B149-S5]",
       "answer": "NOKTA"
     },
     {
@@ -201,7 +201,7 @@
       "row": 3,
       "col": 0,
       "length": 3,
-      "clue": "Bir ekibin başında bulunup işleri yöneten kişi; mutfağın baş aşçısı.",
+      "clue": "Bir ekibin başında bulunup işleri yöneten kişi; mutfağın baş aşçısı (3 harf) [B149-S6]",
       "answer": "ŞEF"
     },
     {
@@ -210,7 +210,7 @@
       "row": 4,
       "col": 6,
       "length": 5,
-      "clue": "Sayılarla yapılan dört işlem; gelir ve giderin tutulduğu kayıt.",
+      "clue": "Sayılarla yapılan dört işlem; gelir ve giderin tutulduğu kayıt (5 harf) [B149-S7]",
       "answer": "HESAP"
     },
     {
@@ -219,7 +219,7 @@
       "row": 4,
       "col": 6,
       "length": 3,
-      "clue": "Olumsuzluğu pekiştiren söz; asla ve kesinlikle bulunmama durumu.",
+      "clue": "Olumsuzluğu pekiştiren söz; asla ve kesinlikle bulunmama durumu (3 harf) [B149-S7]",
       "answer": "HİÇ"
     },
     {
@@ -228,7 +228,7 @@
       "row": 6,
       "col": 6,
       "length": 5,
-      "clue": "Bitkinin üreme organı; genellikle göz alıcı renkleri ve kokusu olan kısım.",
+      "clue": "Bitkinin üreme organı; genellikle göz alıcı renkleri ve kokusu olan kısım (5 harf) [B149-S8]",
       "answer": "ÇİÇEK"
     },
     {
@@ -237,7 +237,7 @@
       "row": 6,
       "col": 10,
       "length": 5,
-      "clue": "İp ya da parmaklarla oynatılan, tiyatro sahnesinde canlanan figürlü bebek.",
+      "clue": "İp ya da parmaklarla oynatılan, tiyatro sahnesinde canlanan figürlü bebek (5 harf) [B149-S9]",
       "answer": "KUKLA"
     }
   ]

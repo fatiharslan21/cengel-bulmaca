@@ -109,7 +109,7 @@
       "row": 0,
       "col": 1,
       "length": 6,
-      "clue": "Bir toplantıda ya da günde ele alınacak konuların sıralı listesi.",
+      "clue": "Bir toplantıda ya da günde ele alınacak konuların sıralı listesi (6 harf) [B131-S1]",
       "answer": "GÜNDEM"
     },
     {
@@ -118,7 +118,7 @@
       "row": 1,
       "col": 0,
       "length": 4,
-      "clue": "Bir olayın başlangıcı ile sonu arasında geçen zaman aralığı.",
+      "clue": "Bir olayın başlangıcı ile sonu arasında geçen zaman aralığı (4 harf) [B131-S2]",
       "answer": "SÜRE"
     },
     {
@@ -127,7 +127,7 @@
       "row": 1,
       "col": 5,
       "length": 5,
-      "clue": "Çorba, pilav gibi yemekleri ağza götürmek için kullanılan çukur sap.",
+      "clue": "Çorba, pilav gibi yemekleri ağza götürmek için kullanılan çukur sap (5 harf) [B131-S3]",
       "answer": "KAŞIK"
     },
     {
@@ -136,7 +136,7 @@
       "row": 1,
       "col": 7,
       "length": 3,
-      "clue": "İğne yaprakları yıl boyu yeşil kalan, kozalak veren, uzun ömürlü ağaç.",
+      "clue": "İğne yaprakları yıl boyu yeşil kalan, kozalak veren, uzun ömürlü ağaç (3 harf) [B131-S4]",
       "answer": "ÇAM"
     },
     {
@@ -145,7 +145,7 @@
       "row": 2,
       "col": 5,
       "length": 3,
-      "clue": "Soyun büyüklerinden sayılan dede ya da daha öncesinden gelen büyük.",
+      "clue": "Soyun büyüklerinden sayılan dede ya da daha öncesinden gelen büyük (3 harf) [B131-S5]",
       "answer": "ATA"
     },
     {
@@ -154,7 +154,7 @@
       "row": 3,
       "col": 3,
       "length": 3,
-      "clue": "Çevresine göre belirgin biçimde yükselen, taşlık ve kayalık büyük arazi.",
+      "clue": "Çevresine göre belirgin biçimde yükselen, taşlık ve kayalık büyük arazi (3 harf) [B131-S6]",
       "answer": "DAĞ"
     },
     {
@@ -163,7 +163,7 @@
       "row": 3,
       "col": 3,
       "length": 3,
-      "clue": "Üstten sıkılan su ile yıkanmak üzere banyoya yerleştirilmiş düzenek.",
+      "clue": "Üstten sıkılan su ile yıkanmak üzere banyoya yerleştirilmiş düzenek (3 harf) [B131-S6]",
       "answer": "DUŞ"
     },
     {
@@ -172,7 +172,7 @@
       "row": 4,
       "col": 0,
       "length": 4,
-      "clue": "İçerisi camla kaplı; mevsim dışında bile bitki yetiştirilen ısıtılmış yapı.",
+      "clue": "İçerisi camla kaplı; mevsim dışında bile bitki yetiştirilen ısıtılmış yapı (4 harf) [B131-S7]",
       "answer": "SERA"
     },
     {
@@ -181,7 +181,7 @@
       "row": 4,
       "col": 9,
       "length": 4,
-      "clue": "Aradaki mesafenin çok olduğu; yakınlığı hissedilmeyen ötelerdeki yer.",
+      "clue": "Aradaki mesafenin çok olduğu; yakınlığı hissedilmeyen ötelerdeki yer (4 harf) [B131-S8]",
       "answer": "UZAK"
     },
     {
@@ -190,7 +190,7 @@
       "row": 5,
       "col": 5,
       "length": 5,
-      "clue": "Saplı, parlak, kırmızı kabuklu; ilkbaharın sonunda olgunlaşan tatlı meyve.",
+      "clue": "Saplı, parlak, kırmızı kabuklu; ilkbaharın sonunda olgunlaşan tatlı meyve (5 harf) [B131-S9]",
       "answer": "KİRAZ"
     }
   ]

@@ -167,7 +167,7 @@
       "row": 0,
       "col": 4,
       "length": 4,
-      "clue": "Şehir içinde insanların dinlenip yürüdüğü, ağaçlıklı kamusal yeşil alan.",
+      "clue": "Şehir içinde insanların dinlenip yürüdüğü, ağaçlıklı kamusal yeşil alan (4 harf) [B256-S1]",
       "answer": "PARK"
     },
     {
@@ -176,7 +176,7 @@
       "row": 0,
       "col": 7,
       "length": 5,
-      "clue": "İp ya da parmaklarla oynatılan, tiyatro sahnesinde canlanan figürlü bebek.",
+      "clue": "İp ya da parmaklarla oynatılan, tiyatro sahnesinde canlanan figürlü bebek (5 harf) [B256-S2]",
       "answer": "KUKLA"
     },
     {
@@ -185,7 +185,7 @@
       "row": 2,
       "col": 2,
       "length": 4,
-      "clue": "Denizde yük ya da yolcu taşımak için yapılmış büyük su taşıtı.",
+      "clue": "Denizde yük ya da yolcu taşımak için yapılmış büyük su taşıtı (4 harf) [B256-S3]",
       "answer": "GEMİ"
     },
     {
@@ -194,7 +194,7 @@
       "row": 2,
       "col": 4,
       "length": 5,
-      "clue": "Bir kimsenin toplumdaki yeri, konumu ya da makamı.",
+      "clue": "Bir kimsenin toplumdaki yeri, konumu ya da makamı (5 harf) [B256-S4]",
       "answer": "MEVKİ"
     },
     {
@@ -203,7 +203,7 @@
       "row": 3,
       "col": 7,
       "length": 5,
-      "clue": "Karşılık beklemeden yapılan iyilik; bir büyüğün bahşettiği ihsan.",
+      "clue": "Karşılık beklemeden yapılan iyilik; bir büyüğün bahşettiği ihsan (5 harf) [B256-S5]",
       "answer": "LÜTUF"
     },
     {
@@ -212,7 +212,7 @@
       "row": 4,
       "col": 4,
       "length": 4,
-      "clue": "Bir kimseyle ayrılırken söylenen son söz; ayrılık selamı.",
+      "clue": "Bir kimseyle ayrılırken söylenen son söz; ayrılık selamı (4 harf) [B256-S6]",
       "answer": "VEDA"
     },
     {
@@ -221,7 +221,7 @@
       "row": 5,
       "col": 2,
       "length": 6,
-      "clue": "Erkeklerin saçını kesip sakalını düzelten, dükkânında çalışan esnaf.",
+      "clue": "Erkeklerin saçını kesip sakalını düzelten, dükkânında çalışan esnaf (6 harf) [B256-S7]",
       "answer": "BERBER"
     },
     {
@@ -230,7 +230,7 @@
       "row": 6,
       "col": 2,
       "length": 4,
-      "clue": "Yetkili bir kimsenin yerine getirilmek üzere verdiği kesin buyruk.",
+      "clue": "Yetkili bir kimsenin yerine getirilmek üzere verdiği kesin buyruk (4 harf) [B256-S8]",
       "answer": "EMİR"
     },
     {
@@ -239,7 +239,7 @@
       "row": 8,
       "col": 2,
       "length": 3,
-      "clue": "İnsanın başından ayağına kadar olan uzunluğu; endam ya da kamet.",
+      "clue": "İnsanın başından ayağına kadar olan uzunluğu; endam ya da kamet (3 harf) [B256-S9]",
       "answer": "BOY"
     },
     {
@@ -248,7 +248,7 @@
       "row": 10,
       "col": 0,
       "length": 4,
-      "clue": "Limon ve altın tonlarında olan, güneşi çağrıştıran canlı sıcak renk.",
+      "clue": "Limon ve altın tonlarında olan, güneşi çağrıştıran canlı sıcak renk (4 harf) [B256-S10]",
       "answer": "SARI"
     }
   ]

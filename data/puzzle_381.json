@@ -167,7 +167,7 @@
       "row": 0,
       "col": 0,
       "length": 3,
-      "clue": "İnsanın boynundan yukarısı, beynin ve yüzün bulunduğu vücut bölümü.",
+      "clue": "İnsanın boynundan yukarısı, beynin ve yüzün bulunduğu vücut bölümü (3 harf) [B381-S1]",
       "answer": "BAŞ"
     },
     {
@@ -176,7 +176,7 @@
       "row": 0,
       "col": 2,
       "length": 5,
-      "clue": "Kamıştan ya da pancardan elde edilen; çay ve tatlılara katılan tatlı madde.",
+      "clue": "Kamıştan ya da pancardan elde edilen; çay ve tatlılara katılan tatlı madde (5 harf) [B381-S2]",
       "answer": "ŞEKER"
     },
     {
@@ -185,7 +185,7 @@
       "row": 3,
       "col": 1,
       "length": 5,
-      "clue": "Yelkenli ya da motorlu olup denizde kısa yolculuklara çıkan küçük gemi.",
+      "clue": "Yelkenli ya da motorlu olup denizde kısa yolculuklara çıkan küçük gemi (5 harf) [B381-S3]",
       "answer": "TEKNE"
     },
     {
@@ -194,7 +194,7 @@
       "row": 3,
       "col": 4,
       "length": 5,
-      "clue": "Kırıcı olmayan, incelikli davranışları olan; kibar ve görgülü kimse.",
+      "clue": "Kırıcı olmayan, incelikli davranışları olan; kibar ve görgülü kimse (5 harf) [B381-S4]",
       "answer": "NAZİK"
     },
     {
@@ -203,7 +203,7 @@
       "row": 5,
       "col": 4,
       "length": 5,
-      "clue": "Aynı ortak özellikleri paylaşan kişilerden oluşan topluluk; grup.",
+      "clue": "Aynı ortak özellikleri paylaşan kişilerden oluşan topluluk; grup (5 harf) [B381-S5]",
       "answer": "ZÜMRE"
     },
     {
@@ -212,7 +212,7 @@
       "row": 5,
       "col": 8,
       "length": 4,
-      "clue": "Uzun kulaklı, sabırlı; köylerde yük taşımada kullanılan küçük binek hayvanı.",
+      "clue": "Uzun kulaklı, sabırlı; köylerde yük taşımada kullanılan küçük binek hayvanı (4 harf) [B381-S6]",
       "answer": "EŞEK"
     },
     {
@@ -221,7 +221,7 @@
       "row": 6,
       "col": 2,
       "length": 5,
-      "clue": "Birbirini gören iki kişinin hal hatır sormak için söylediği esenlik dileği.",
+      "clue": "Birbirini gören iki kişinin hal hatır sormak için söylediği esenlik dileği (5 harf) [B381-S7]",
       "answer": "SELAM"
     },
     {
@@ -230,7 +230,7 @@
       "row": 7,
       "col": 1,
       "length": 5,
-      "clue": "Bir kimsenin toplumdaki yeri, konumu ya da makamı.",
+      "clue": "Bir kimsenin toplumdaki yeri, konumu ya da makamı (5 harf) [B381-S8]",
       "answer": "MEVKİ"
     },
     {
@@ -239,7 +239,7 @@
       "row": 7,
       "col": 7,
       "length": 5,
-      "clue": "Ölünün toprağa verildiği, başında taş bulunan defin yeri; kabir.",
+      "clue": "Ölünün toprağa verildiği, başında taş bulunan defin yeri; kabir (5 harf) [B381-S9]",
       "answer": "MEZAR"
     },
     {
@@ -248,7 +248,7 @@
       "row": 9,
       "col": 1,
       "length": 4,
-      "clue": "Kalemin kâğıda bıraktığı; harflerden oluşan okunabilir işaretler.",
+      "clue": "Kalemin kâğıda bıraktığı; harflerden oluşan okunabilir işaretler (4 harf) [B381-S10]",
       "answer": "YAZI"
     }
   ]

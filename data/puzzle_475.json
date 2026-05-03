@@ -145,7 +145,7 @@
       "row": 0,
       "col": 5,
       "length": 6,
-      "clue": "Herkesin duyup tanıdığı; adını çevresinin çok ötesine taşıyan ün.",
+      "clue": "Herkesin duyup tanıdığı; adını çevresinin çok ötesine taşıyan ün (6 harf) [B475-S1]",
       "answer": "ŞÖHRET"
     },
     {
@@ -154,7 +154,7 @@
       "row": 1,
       "col": 7,
       "length": 3,
-      "clue": "Dört bir yanı suyla çevrili, denizin ortasında kalmış toprak parçası.",
+      "clue": "Dört bir yanı suyla çevrili, denizin ortasında kalmış toprak parçası (3 harf) [B475-S2]",
       "answer": "ADA"
     },
     {
@@ -163,7 +163,7 @@
       "row": 3,
       "col": 3,
       "length": 5,
-      "clue": "Üzerinde buğday, arpa ya da sebze yetiştirilen sürülmüş geniş toprak.",
+      "clue": "Üzerinde buğday, arpa ya da sebze yetiştirilen sürülmüş geniş toprak (5 harf) [B475-S3]",
       "answer": "TARLA"
     },
     {
@@ -172,7 +172,7 @@
       "row": 5,
       "col": 2,
       "length": 5,
-      "clue": "Dinleyeni güldüren ince espri; zarif bir ustalıkla söylenmiş söz.",
+      "clue": "Dinleyeni güldüren ince espri; zarif bir ustalıkla söylenmiş söz (5 harf) [B475-S4]",
       "answer": "NÜKTE"
     },
     {
@@ -181,7 +181,7 @@
       "row": 5,
       "col": 4,
       "length": 6,
-      "clue": "Elinde olanla yetinip daha fazlasını istememe; tokgözlülük hali.",
+      "clue": "Elinde olanla yetinip daha fazlasını istememe; tokgözlülük hali (6 harf) [B475-S5]",
       "answer": "KANAAT"
     },
     {
@@ -190,7 +190,7 @@
       "row": 5,
       "col": 6,
       "length": 4,
-      "clue": "Yapılan iyiliğin ya da çekilen sıkıntının karşılığı olarak verilen sevap.",
+      "clue": "Yapılan iyiliğin ya da çekilen sıkıntının karşılığı olarak verilen sevap (4 harf) [B475-S6]",
       "answer": "ECİR"
     },
     {
@@ -199,7 +199,7 @@
       "row": 5,
       "col": 8,
       "length": 4,
-      "clue": "Güneşin batmasından doğmasına kadar süren karanlık zaman dilimi.",
+      "clue": "Güneşin batmasından doğmasına kadar süren karanlık zaman dilimi (4 harf) [B475-S7]",
       "answer": "GECE"
     },
     {
@@ -208,7 +208,7 @@
       "row": 7,
       "col": 0,
       "length": 5,
-      "clue": "Gemilerin yük boşalttığı, fırtınadan korunarak demirlediği deniz kıyısı.",
+      "clue": "Gemilerin yük boşalttığı, fırtınadan korunarak demirlediği deniz kıyısı (5 harf) [B475-S8]",
       "answer": "LİMAN"
     },
     {
@@ -217,7 +217,7 @@
       "row": 7,
       "col": 6,
       "length": 4,
-      "clue": "Kalınlığı az olan; zarif ve narin yapıda bulunan; kalının karşıtı.",
+      "clue": "Kalınlığı az olan; zarif ve narin yapıda bulunan; kalının karşıtı (4 harf) [B475-S9]",
       "answer": "İNCE"
     },
     {
@@ -226,7 +226,7 @@
       "row": 9,
       "col": 1,
       "length": 5,
-      "clue": "Güneş doğmadan önce ufukta beliren kızıllık; günün en erken aydınlığı.",
+      "clue": "Güneş doğmadan önce ufukta beliren kızıllık; günün en erken aydınlığı (5 harf) [B475-S10]",
       "answer": "ŞAFAK"
     }
   ]

@@ -109,7 +109,7 @@
       "row": 0,
       "col": 3,
       "length": 4,
-      "clue": "Başarı gösteren kimseye, çabasının karşılığı olarak verilen değerli armağan.",
+      "clue": "Başarı gösteren kimseye, çabasının karşılığı olarak verilen değerli armağan (4 harf) [B397-S1]",
       "answer": "ÖDÜL"
     },
     {
@@ -118,7 +118,7 @@
       "row": 0,
       "col": 9,
       "length": 5,
-      "clue": "Ani ve sert bir hareketle yapılan vuruş; çarpma sonucu alınan sarsıntı.",
+      "clue": "Ani ve sert bir hareketle yapılan vuruş; çarpma sonucu alınan sarsıntı (5 harf) [B397-S2]",
       "answer": "DARBE"
     },
     {
@@ -127,7 +127,7 @@
       "row": 1,
       "col": 0,
       "length": 6,
-      "clue": "Bir toplantıda ya da günde ele alınacak konuların sıralı listesi.",
+      "clue": "Bir toplantıda ya da günde ele alınacak konuların sıralı listesi (6 harf) [B397-S3]",
       "answer": "GÜNDEM"
     },
     {
@@ -136,7 +136,7 @@
       "row": 1,
       "col": 5,
       "length": 5,
-      "clue": "Seslerin belli bir düzen içinde bir araya getirilmesiyle oluşan sanat.",
+      "clue": "Seslerin belli bir düzen içinde bir araya getirilmesiyle oluşan sanat (5 harf) [B397-S4]",
       "answer": "MÜZİK"
     },
     {
@@ -145,7 +145,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "Başlangıcı bulunmayan, öncesi olmayan sonsuz geçmiş zaman.",
+      "clue": "Başlangıcı bulunmayan, öncesi olmayan sonsuz geçmiş zaman (4 harf) [B397-S5]",
       "answer": "EZEL"
     },
     {
@@ -154,7 +154,7 @@
       "row": 3,
       "col": 2,
       "length": 5,
-      "clue": "Undan mayalanıp fırında pişirilerek yapılan, sofranın temel besini.",
+      "clue": "Undan mayalanıp fırında pişirilerek yapılan, sofranın temel besini (5 harf) [B397-S6]",
       "answer": "EKMEK"
     },
     {
@@ -163,7 +163,7 @@
       "row": 3,
       "col": 7,
       "length": 5,
-      "clue": "Yemeklerin servis edildiği, yuvarlak ve yassı porselen ya da cam kap.",
+      "clue": "Yemeklerin servis edildiği, yuvarlak ve yassı porselen ya da cam kap (5 harf) [B397-S7]",
       "answer": "TABAK"
     },
     {
@@ -172,7 +172,7 @@
       "row": 4,
       "col": 4,
       "length": 6,
-      "clue": "Başı, ortası ve sonu olan; yaşanmış ya da kurmaca kısa anlatı.",
+      "clue": "Başı, ortası ve sonu olan; yaşanmış ya da kurmaca kısa anlatı (6 harf) [B397-S8]",
       "answer": "HİKAYE"
     },
     {
@@ -181,7 +181,7 @@
       "row": 6,
       "col": 0,
       "length": 4,
-      "clue": "Yolcuların ücret karşılığı geceyi geçirdiği, odaları olan konaklama işletmesi.",
+      "clue": "Yolcuların ücret karşılığı geceyi geçirdiği, odaları olan konaklama işletmesi (4 harf) [B397-S9]",
       "answer": "OTEL"
     },
     {
@@ -190,7 +190,7 @@
       "row": 6,
       "col": 6,
       "length": 4,
-      "clue": "Kalemin kâğıda bıraktığı; harflerden oluşan okunabilir işaretler.",
+      "clue": "Kalemin kâğıda bıraktığı; harflerden oluşan okunabilir işaretler (4 harf) [B397-S10]",
       "answer": "YAZI"
     }
   ]

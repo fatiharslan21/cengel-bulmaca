@@ -121,7 +121,7 @@
       "row": 0,
       "col": 4,
       "length": 6,
-      "clue": "Belirli bir ülkenin sınırlarında örgütlenmiş siyasi ve yönetimsel yapı.",
+      "clue": "Belirli bir ülkenin sınırlarında örgütlenmiş siyasi ve yönetimsel yapı (6 harf) [B277-S1]",
       "answer": "DEVLET"
     },
     {
@@ -130,7 +130,7 @@
       "row": 1,
       "col": 3,
       "length": 3,
-      "clue": "İnsanın bedenini saran dış deri; vücudumuzun dış yüzü.",
+      "clue": "İnsanın bedenini saran dış deri; vücudumuzun dış yüzü (3 harf) [B277-S2]",
       "answer": "TEN"
     },
     {
@@ -139,7 +139,7 @@
       "row": 2,
       "col": 1,
       "length": 4,
-      "clue": "Ayıp sayılan bir şey karşısında insanın yüzünü kızartan çekinme duygusu.",
+      "clue": "Ayıp sayılan bir şey karşısında insanın yüzünü kızartan çekinme duygusu (4 harf) [B277-S3]",
       "answer": "HAYA"
     },
     {
@@ -148,7 +148,7 @@
       "row": 3,
       "col": 0,
       "length": 6,
-      "clue": "Harcanan çabaya değmeyen; hiçbir yarar sağlamayan boş uğraş.",
+      "clue": "Harcanan çabaya değmeyen; hiçbir yarar sağlamayan boş uğraş (6 harf) [B277-S4]",
       "answer": "NAFİLE"
     },
     {
@@ -157,7 +157,7 @@
       "row": 5,
       "col": 0,
       "length": 5,
-      "clue": "Saniyelerden yıllara uzanan; akıp giden, geri döndürülemeyen zaman.",
+      "clue": "Saniyelerden yıllara uzanan; akıp giden, geri döndürülemeyen zaman (5 harf) [B277-S5]",
       "answer": "VAKİT"
     },
     {
@@ -166,7 +166,7 @@
       "row": 5,
       "col": 2,
       "length": 3,
-      "clue": "Alevi sönmüş ama sıcaklığı ve kızıllığı süren yanmakta olan parça.",
+      "clue": "Alevi sönmüş ama sıcaklığı ve kızıllığı süren yanmakta olan parça (3 harf) [B277-S6]",
       "answer": "KOR"
     },
     {
@@ -175,7 +175,7 @@
       "row": 7,
       "col": 0,
       "length": 5,
-      "clue": "Gönülde beslenen amaç; ulaşılmak istenen iç istek.",
+      "clue": "Gönülde beslenen amaç; ulaşılmak istenen iç istek (5 harf) [B277-S7]",
       "answer": "MERAM"
     },
     {
@@ -184,7 +184,7 @@
       "row": 7,
       "col": 0,
       "length": 5,
-      "clue": "İçe işleyen hafif hüzün; kimseye belli edilmeyen sessiz usanç.",
+      "clue": "İçe işleyen hafif hüzün; kimseye belli edilmeyen sessiz usanç (5 harf) [B277-S7]",
       "answer": "MELAL"
     },
     {
@@ -193,7 +193,7 @@
       "row": 7,
       "col": 4,
       "length": 5,
-      "clue": "Ölünün toprağa verildiği, başında taş bulunan defin yeri; kabir.",
+      "clue": "Ölünün toprağa verildiği, başında taş bulunan defin yeri; kabir (5 harf) [B277-S8]",
       "answer": "MEZAR"
     },
     {
@@ -202,7 +202,7 @@
       "row": 10,
       "col": 3,
       "length": 4,
-      "clue": "Bir kurala, şahsa ya da düzene bağlı olan; ona uymak durumunda kalan.",
+      "clue": "Bir kurala, şahsa ya da düzene bağlı olan; ona uymak durumunda kalan (4 harf) [B277-S9]",
       "answer": "TABİ"
     }
   ]

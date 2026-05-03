@@ -112,7 +112,7 @@
       "row": 0,
       "col": 6,
       "length": 5,
-      "clue": "Havada uçağı yöneten, onu kalkış ve inişlerde kullanan yetişmiş kişi.",
+      "clue": "Havada uçağı yöneten, onu kalkış ve inişlerde kullanan yetişmiş kişi (5 harf) [B16-S1]",
       "answer": "PİLOT"
     },
     {
@@ -121,7 +121,7 @@
       "row": 2,
       "col": 4,
       "length": 4,
-      "clue": "İnsanın başına habersizce gelen ağır dert, büyük sıkıntı ya da musibet.",
+      "clue": "İnsanın başına habersizce gelen ağır dert, büyük sıkıntı ya da musibet (4 harf) [B16-S2]",
       "answer": "BELA"
     },
     {
@@ -130,7 +130,7 @@
       "row": 3,
       "col": 3,
       "length": 5,
-      "clue": "Bir olay ya da gelişme hakkında ulaşan yeni bilgi; duyuru.",
+      "clue": "Bir olay ya da gelişme hakkında ulaşan yeni bilgi; duyuru (5 harf) [B16-S3]",
       "answer": "HABER"
     },
     {
@@ -139,7 +139,7 @@
       "row": 4,
       "col": 0,
       "length": 4,
-      "clue": "Müzik eserlerinde seslerin yükseklik ve uzunluğunu gösteren küçük simge.",
+      "clue": "Müzik eserlerinde seslerin yükseklik ve uzunluğunu gösteren küçük simge (4 harf) [B16-S4]",
       "answer": "NOTA"
     },
     {
@@ -148,7 +148,7 @@
       "row": 4,
       "col": 5,
       "length": 3,
-      "clue": "Soyun büyüklerinden sayılan dede ya da daha öncesinden gelen büyük.",
+      "clue": "Soyun büyüklerinden sayılan dede ya da daha öncesinden gelen büyük (3 harf) [B16-S5]",
       "answer": "ATA"
     },
     {
@@ -157,7 +157,7 @@
       "row": 4,
       "col": 5,
       "length": 5,
-      "clue": "Tekerlekleri üstünde insan ya da yük taşıyan motorlu kara taşıtı.",
+      "clue": "Tekerlekleri üstünde insan ya da yük taşıyan motorlu kara taşıtı (5 harf) [B16-S5]",
       "answer": "ARABA"
     },
     {
@@ -166,7 +166,7 @@
       "row": 4,
       "col": 7,
       "length": 3,
-      "clue": "Tatlının tam karşıtı olan, biberin ya da kederin bıraktığı keskin duygu.",
+      "clue": "Tatlının tam karşıtı olan, biberin ya da kederin bıraktığı keskin duygu (3 harf) [B16-S6]",
       "answer": "ACI"
     },
     {
@@ -175,7 +175,7 @@
       "row": 6,
       "col": 2,
       "length": 4,
-      "clue": "Bir olayın kaçıncı kez yaşandığını anlatmak için kullanılan kez sözcüğü.",
+      "clue": "Bir olayın kaçıncı kez yaşandığını anlatmak için kullanılan kez sözcüğü (4 harf) [B16-S7]",
       "answer": "DEFA"
     },
     {
@@ -184,7 +184,7 @@
       "row": 8,
       "col": 4,
       "length": 5,
-      "clue": "Şehirlerde iki yanı binalarla çevrili, taşıtların geçtiği geniş ana yol.",
+      "clue": "Şehirlerde iki yanı binalarla çevrili, taşıtların geçtiği geniş ana yol (5 harf) [B16-S8]",
       "answer": "CADDE"
     }
   ]

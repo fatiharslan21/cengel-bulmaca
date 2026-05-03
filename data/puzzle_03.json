@@ -208,7 +208,7 @@
       "row": 0,
       "col": 0,
       "length": 4,
-      "clue": "Maddeyi oluşturan, gözle görülemeyecek kadar küçük temel yapı taşı.",
+      "clue": "Maddeyi oluşturan, gözle görülemeyecek kadar küçük temel yapı taşı (4 harf) [B3-S1]",
       "answer": "ATOM"
     },
     {
@@ -217,7 +217,7 @@
       "row": 0,
       "col": 5,
       "length": 5,
-      "clue": "Programlanarak belirli işleri otomatik yapan mekanik insansı makine.",
+      "clue": "Programlanarak belirli işleri otomatik yapan mekanik insansı makine (5 harf) [B3-S2]",
       "answer": "ROBOT"
     },
     {
@@ -226,7 +226,7 @@
       "row": 2,
       "col": 0,
       "length": 5,
-      "clue": "Dar bir demet halinde yoğunlaştırılmış, tek dalga boyunda güçlü ışık.",
+      "clue": "Dar bir demet halinde yoğunlaştırılmış, tek dalga boyunda güçlü ışık (5 harf) [B3-S3]",
       "answer": "LAZER"
     },
     {
@@ -235,7 +235,7 @@
       "row": 2,
       "col": 6,
       "length": 5,
-      "clue": "Radyo dalgalarını yollayıp yansımasını ölçerek uzaktaki nesneleri belirleyen sistem.",
+      "clue": "Radyo dalgalarını yollayıp yansımasını ölçerek uzaktaki nesneleri belirleyen sistem (5 harf) [B3-S4]",
       "answer": "RADAR"
     },
     {
@@ -244,7 +244,7 @@
       "row": 4,
       "col": 0,
       "length": 3,
-      "clue": "Kalıtsal özellikleri taşıyan, DNA üzerinde yer alan kalıtım birimi.",
+      "clue": "Kalıtsal özellikleri taşıyan, DNA üzerinde yer alan kalıtım birimi (3 harf) [B3-S5]",
       "answer": "GEN"
     },
     {
@@ -253,7 +253,7 @@
       "row": 4,
       "col": 5,
       "length": 5,
-      "clue": "Maddenin, enerjinin ve bunların birbirleriyle etkileşiminin bilimi.",
+      "clue": "Maddenin, enerjinin ve bunların birbirleriyle etkileşiminin bilimi (5 harf) [B3-S6]",
       "answer": "FİZİK"
     },
     {
@@ -262,7 +262,7 @@
       "row": 6,
       "col": 0,
       "length": 4,
-      "clue": "Gök cisimlerini barındıran, Dünya atmosferinin ötesindeki sonsuz boşluk.",
+      "clue": "Gök cisimlerini barındıran, Dünya atmosferinin ötesindeki sonsuz boşluk (4 harf) [B3-S7]",
       "answer": "UZAY"
     },
     {
@@ -271,7 +271,7 @@
       "row": 6,
       "col": 5,
       "length": 6,
-      "clue": "Katı, sıvı ve gazdan sonra gelen, iyonlaşmış maddenin dördüncü hali.",
+      "clue": "Katı, sıvı ve gazdan sonra gelen, iyonlaşmış maddenin dördüncü hali (6 harf) [B3-S8]",
       "answer": "PLAZMA"
     },
     {
@@ -280,7 +280,7 @@
       "row": 8,
       "col": 0,
       "length": 5,
-      "clue": "Proton ve nötronların yapı taşı sayılan temel parçacıklardan biri.",
+      "clue": "Proton ve nötronların yapı taşı sayılan temel parçacıklardan biri (5 harf) [B3-S9]",
       "answer": "KUARK"
     },
     {
@@ -289,7 +289,7 @@
       "row": 8,
       "col": 6,
       "length": 5,
-      "clue": "Işığı oluşturan, kütlesiz ve enerjili en küçük temel parçacık.",
+      "clue": "Işığı oluşturan, kütlesiz ve enerjili en küçük temel parçacık (5 harf) [B3-S10]",
       "answer": "FOTON"
     },
     {
@@ -298,7 +298,7 @@
       "row": 10,
       "col": 0,
       "length": 4,
-      "clue": "Bilgisayarlarda işlenmek üzere saklanan; rakam, harf ve sembollerden oluşan bilgi.",
+      "clue": "Bilgisayarlarda işlenmek üzere saklanan; rakam, harf ve sembollerden oluşan bilgi (4 harf) [B3-S11]",
       "answer": "VERİ"
     },
     {
@@ -307,7 +307,7 @@
       "row": 10,
       "col": 5,
       "length": 5,
-      "clue": "Bir varsayımı doğrulamak amacıyla yapılan, kontrollü bilimsel çalışma.",
+      "clue": "Bir varsayımı doğrulamak amacıyla yapılan, kontrollü bilimsel çalışma (5 harf) [B3-S12]",
       "answer": "DENEY"
     },
     {
@@ -316,7 +316,7 @@
       "row": 1,
       "col": 11,
       "length": 4,
-      "clue": "Bir kaynaktan doğrusal yönde yayılan ışık ya da enerji demeti.",
+      "clue": "Bir kaynaktan doğrusal yönde yayılan ışık ya da enerji demeti (4 harf) [B3-S13]",
       "answer": "IŞIN"
     }
   ]

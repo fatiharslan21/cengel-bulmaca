@@ -139,7 +139,7 @@
       "row": 0,
       "col": 7,
       "length": 4,
-      "clue": "Anadolu ve çevresinde yaşayan, Orta Asya kökenli büyük millet.",
+      "clue": "Anadolu ve çevresinde yaşayan, Orta Asya kökenli büyük millet (4 harf) [B166-S1]",
       "answer": "TÜRK"
     },
     {
@@ -148,7 +148,7 @@
       "row": 0,
       "col": 7,
       "length": 5,
-      "clue": "Yemeklerin servis edildiği, yuvarlak ve yassı porselen ya da cam kap.",
+      "clue": "Yemeklerin servis edildiği, yuvarlak ve yassı porselen ya da cam kap (5 harf) [B166-S1]",
       "answer": "TABAK"
     },
     {
@@ -157,7 +157,7 @@
       "row": 0,
       "col": 11,
       "length": 5,
-      "clue": "Çorba, pilav gibi yemekleri ağza götürmek için kullanılan çukur sap.",
+      "clue": "Çorba, pilav gibi yemekleri ağza götürmek için kullanılan çukur sap (5 harf) [B166-S2]",
       "answer": "KAŞIK"
     },
     {
@@ -166,7 +166,7 @@
       "row": 2,
       "col": 5,
       "length": 4,
-      "clue": "İnsanın başına habersizce gelen ağır dert, büyük sıkıntı ya da musibet.",
+      "clue": "İnsanın başına habersizce gelen ağır dert, büyük sıkıntı ya da musibet (4 harf) [B166-S3]",
       "answer": "BELA"
     },
     {
@@ -175,7 +175,7 @@
       "row": 3,
       "col": 5,
       "length": 5,
-      "clue": "Belirlenen vaktin öncesinde gelme; geç kalmanın tersi durumu.",
+      "clue": "Belirlenen vaktin öncesinde gelme; geç kalmanın tersi durumu (5 harf) [B166-S4]",
       "answer": "ERKEN"
     },
     {
@@ -184,7 +184,7 @@
       "row": 3,
       "col": 8,
       "length": 3,
-      "clue": "Metal ya da tırnak gibi sert yüzeyleri aşındırarak düzelten dişli alet.",
+      "clue": "Metal ya da tırnak gibi sert yüzeyleri aşındırarak düzelten dişli alet (3 harf) [B166-S5]",
       "answer": "EĞE"
     },
     {
@@ -193,7 +193,7 @@
       "row": 4,
       "col": 1,
       "length": 5,
-      "clue": "Su veya başka bir sıvıyla temas edip kurumamış olan nemli yüzey.",
+      "clue": "Su veya başka bir sıvıyla temas edip kurumamış olan nemli yüzey (5 harf) [B166-S6]",
       "answer": "ISLAK"
     },
     {
@@ -202,7 +202,7 @@
       "row": 4,
       "col": 3,
       "length": 4,
-      "clue": "Bir ailenin oturduğu ev; aynı zamanda sayıdaki basamak anlamı taşır.",
+      "clue": "Bir ailenin oturduğu ev; aynı zamanda sayıdaki basamak anlamı taşır (4 harf) [B166-S7]",
       "answer": "HANE"
     },
     {
@@ -211,7 +211,7 @@
       "row": 5,
       "col": 3,
       "length": 4,
-      "clue": "Bir işin başında konulan, ulaşılmak istenen hedef ya da gaye.",
+      "clue": "Bir işin başında konulan, ulaşılmak istenen hedef ya da gaye (4 harf) [B166-S8]",
       "answer": "AMAÇ"
     },
     {
@@ -220,7 +220,7 @@
       "row": 7,
       "col": 0,
       "length": 4,
-      "clue": "Serinletici kokusuyla tanınan, çaya ve yemeklere katılan yeşil yapraklı ot.",
+      "clue": "Serinletici kokusuyla tanınan, çaya ve yemeklere katılan yeşil yapraklı ot (4 harf) [B166-S9]",
       "answer": "NANE"
     }
   ]

@@ -143,7 +143,7 @@
       "row": 0,
       "col": 3,
       "length": 4,
-      "clue": "İçten duyulan gönül rahatlığı; keder bırakmayan tatlı neşe.",
+      "clue": "İçten duyulan gönül rahatlığı; keder bırakmayan tatlı neşe (4 harf) [B423-S1]",
       "answer": "SAFA"
     },
     {
@@ -152,7 +152,7 @@
       "row": 0,
       "col": 5,
       "length": 5,
-      "clue": "Birbirinden ayrı düşen sevgililerin yaşadığı acı dolu ayrılık.",
+      "clue": "Birbirinden ayrı düşen sevgililerin yaşadığı acı dolu ayrılık (5 harf) [B423-S2]",
       "answer": "FIRAK"
     },
     {
@@ -161,7 +161,7 @@
       "row": 2,
       "col": 3,
       "length": 6,
-      "clue": "Bir ülkeyi simgeleyen, özel renk ve işaretler taşıyan kumaş parçası.",
+      "clue": "Bir ülkeyi simgeleyen, özel renk ve işaretler taşıyan kumaş parçası (6 harf) [B423-S3]",
       "answer": "BAYRAK"
     },
     {
@@ -170,7 +170,7 @@
       "row": 2,
       "col": 3,
       "length": 4,
-      "clue": "İçinden su, gaz ya da başka sıvıların geçtiği içi boş uzun silindir.",
+      "clue": "İçinden su, gaz ya da başka sıvıların geçtiği içi boş uzun silindir (4 harf) [B423-S3]",
       "answer": "BORU"
     },
     {
@@ -179,7 +179,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "Çalışmaya ya da yolculuğa kısa bir süre ara vererek dinlenme anı.",
+      "clue": "Çalışmaya ya da yolculuğa kısa bir süre ara vererek dinlenme anı (4 harf) [B423-S4]",
       "answer": "MOLA"
     },
     {
@@ -188,7 +188,7 @@
       "row": 3,
       "col": 0,
       "length": 5,
-      "clue": "Anlatılanı somutlaştırmak için verilen örnek; kıyas noktası.",
+      "clue": "Anlatılanı somutlaştırmak için verilen örnek; kıyas noktası (5 harf) [B423-S4]",
       "answer": "MİSAL"
     },
     {
@@ -197,7 +197,7 @@
       "row": 5,
       "col": 7,
       "length": 5,
-      "clue": "Bir alanın ya da cismin dört bir yanını saran dış sınır; etraf.",
+      "clue": "Bir alanın ya da cismin dört bir yanını saran dış sınır; etraf (5 harf) [B423-S5]",
       "answer": "ÇEVRE"
     },
     {
@@ -206,7 +206,7 @@
       "row": 6,
       "col": 3,
       "length": 5,
-      "clue": "Gürültüden uzak, hiçbir telaşın olmadığı sessiz ve huzurlu ortam.",
+      "clue": "Gürültüden uzak, hiçbir telaşın olmadığı sessiz ve huzurlu ortam (5 harf) [B423-S6]",
       "answer": "ASUDE"
     },
     {
@@ -215,7 +215,7 @@
       "row": 7,
       "col": 10,
       "length": 3,
-      "clue": "İki şeyin birbirinden ayrıldığı boşluk; kısa mola süresi.",
+      "clue": "İki şeyin birbirinden ayrıldığı boşluk; kısa mola süresi (3 harf) [B423-S7]",
       "answer": "ARA"
     },
     {
@@ -224,7 +224,7 @@
       "row": 9,
       "col": 6,
       "length": 5,
-      "clue": "İnsanın pek rastlanmadığı, sessiz ve ıssız kalmış mekân.",
+      "clue": "İnsanın pek rastlanmadığı, sessiz ve ıssız kalmış mekân (5 harf) [B423-S8]",
       "answer": "TENHA"
     }
   ]

@@ -157,7 +157,7 @@
       "row": 0,
       "col": 1,
       "length": 5,
-      "clue": "Şehirlerde iki yanı binalarla çevrili, taşıtların geçtiği geniş ana yol.",
+      "clue": "Şehirlerde iki yanı binalarla çevrili, taşıtların geçtiği geniş ana yol (5 harf) [B126-S1]",
       "answer": "CADDE"
     },
     {
@@ -166,7 +166,7 @@
       "row": 1,
       "col": 0,
       "length": 5,
-      "clue": "Kat kat hamuru kremayla birleştirilen, doğum günlerinde kesilen tatlı.",
+      "clue": "Kat kat hamuru kremayla birleştirilen, doğum günlerinde kesilen tatlı (5 harf) [B126-S2]",
       "answer": "PASTA"
     },
     {
@@ -175,7 +175,7 @@
       "row": 3,
       "col": 3,
       "length": 4,
-      "clue": "Eskiyip yırtılan giysiyi onarmak için üstüne dikilen küçük kumaş parçası.",
+      "clue": "Eskiyip yırtılan giysiyi onarmak için üstüne dikilen küçük kumaş parçası (4 harf) [B126-S3]",
       "answer": "YAMA"
     },
     {
@@ -184,7 +184,7 @@
       "row": 3,
       "col": 6,
       "length": 4,
-      "clue": "Müziğin ritmine uyarak, düzenli vücut hareketleriyle yapılan sanatsal eylem.",
+      "clue": "Müziğin ritmine uyarak, düzenli vücut hareketleriyle yapılan sanatsal eylem (4 harf) [B126-S4]",
       "answer": "DANS"
     },
     {
@@ -193,7 +193,7 @@
       "row": 3,
       "col": 7,
       "length": 4,
-      "clue": "İnsanın düşünmesini, anlamasını ve karar vermesini sağlayan zihinsel yeti.",
+      "clue": "İnsanın düşünmesini, anlamasını ve karar vermesini sağlayan zihinsel yeti (4 harf) [B126-S5]",
       "answer": "AKIL"
     },
     {
@@ -202,7 +202,7 @@
       "row": 4,
       "col": 0,
       "length": 5,
-      "clue": "Bir yüzeyin ya da nesnenin dış sınırını oluşturan uç bölüm.",
+      "clue": "Bir yüzeyin ya da nesnenin dış sınırını oluşturan uç bölüm (5 harf) [B126-S6]",
       "answer": "KENAR"
     },
     {
@@ -211,7 +211,7 @@
       "row": 6,
       "col": 2,
       "length": 6,
-      "clue": "İnsan ya da kürek gücüyle suda yol alan küçük açık deniz teknesi.",
+      "clue": "İnsan ya da kürek gücüyle suda yol alan küçük açık deniz teknesi (6 harf) [B126-S7]",
       "answer": "SANDAL"
     },
     {
@@ -220,7 +220,7 @@
       "row": 6,
       "col": 6,
       "length": 4,
-      "clue": "Karşısına geçenin görüntüsünü aynen yansıtan sırlanmış cam yüzey.",
+      "clue": "Karşısına geçenin görüntüsünü aynen yansıtan sırlanmış cam yüzey (4 harf) [B126-S8]",
       "answer": "AYNA"
     },
     {
@@ -229,7 +229,7 @@
       "row": 8,
       "col": 9,
       "length": 4,
-      "clue": "Bir canlının doğumundan ölümüne kadar geçen toplam yaşam süresi.",
+      "clue": "Bir canlının doğumundan ölümüne kadar geçen toplam yaşam süresi (4 harf) [B126-S9]",
       "answer": "ÖMÜR"
     },
     {
@@ -238,7 +238,7 @@
       "row": 9,
       "col": 6,
       "length": 4,
-      "clue": "Yürürken bir ayağın diğerinin önüne atılmasıyla alınan kısa mesafe.",
+      "clue": "Yürürken bir ayağın diğerinin önüne atılmasıyla alınan kısa mesafe (4 harf) [B126-S10]",
       "answer": "ADIM"
     }
   ]

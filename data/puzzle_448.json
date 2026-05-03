@@ -130,7 +130,7 @@
       "row": 0,
       "col": 5,
       "length": 5,
-      "clue": "Ölünün toprağa verildiği, başında taş bulunan defin yeri; kabir.",
+      "clue": "Ölünün toprağa verildiği, başında taş bulunan defin yeri; kabir (5 harf) [B448-S1]",
       "answer": "MEZAR"
     },
     {
@@ -139,7 +139,7 @@
       "row": 0,
       "col": 7,
       "length": 4,
-      "clue": "Bir sözcüğün ya da cümlenin ardında yatan anlam; içerdiği kavram.",
+      "clue": "Bir sözcüğün ya da cümlenin ardında yatan anlam; içerdiği kavram (4 harf) [B448-S2]",
       "answer": "MANA"
     },
     {
@@ -148,7 +148,7 @@
       "row": 1,
       "col": 4,
       "length": 5,
-      "clue": "Ağızdan çıkan söz; düşüncenin dille ifade bulmuş hali.",
+      "clue": "Ağızdan çıkan söz; düşüncenin dille ifade bulmuş hali (5 harf) [B448-S3]",
       "answer": "KELAM"
     },
     {
@@ -157,7 +157,7 @@
       "row": 2,
       "col": 3,
       "length": 5,
-      "clue": "Gökyüzünde süzülen, su buharının yoğunlaşmasıyla oluşan beyaz küme.",
+      "clue": "Gökyüzünde süzülen, su buharının yoğunlaşmasıyla oluşan beyaz küme (5 harf) [B448-S4]",
       "answer": "BULUT"
     },
     {
@@ -166,7 +166,7 @@
       "row": 3,
       "col": 2,
       "length": 4,
-      "clue": "Kuşların yumurtladığı ağaç dalındaki çöpten örülmüş küçük barınak.",
+      "clue": "Kuşların yumurtladığı ağaç dalındaki çöpten örülmüş küçük barınak (4 harf) [B448-S5]",
       "answer": "YUVA"
     },
     {
@@ -175,7 +175,7 @@
       "row": 3,
       "col": 7,
       "length": 4,
-      "clue": "Belirli bir yönde hareket eden elektrik yükü ya da suyun sürüklenişi.",
+      "clue": "Belirli bir yönde hareket eden elektrik yükü ya da suyun sürüklenişi (4 harf) [B448-S6]",
       "answer": "AKIM"
     },
     {
@@ -184,7 +184,7 @@
       "row": 3,
       "col": 10,
       "length": 6,
-      "clue": "Dinde kıyamet sonrası ölülerin toplanacağına inanılan büyük buluşma yeri.",
+      "clue": "Dinde kıyamet sonrası ölülerin toplanacağına inanılan büyük buluşma yeri (6 harf) [B448-S7]",
       "answer": "MAHŞER"
     },
     {
@@ -193,7 +193,7 @@
       "row": 5,
       "col": 1,
       "length": 3,
-      "clue": "Bitkinin çiçek ya da yaprağını gövdeye bağlayan uzun ve ince bölüm.",
+      "clue": "Bitkinin çiçek ya da yaprağını gövdeye bağlayan uzun ve ince bölüm (3 harf) [B448-S8]",
       "answer": "SAP"
     },
     {
@@ -202,7 +202,7 @@
       "row": 5,
       "col": 6,
       "length": 5,
-      "clue": "Güneşin doğmasıyla başlayıp öğleye kadar süren günün ilk dilimi.",
+      "clue": "Güneşin doğmasıyla başlayıp öğleye kadar süren günün ilk dilimi (5 harf) [B448-S9]",
       "answer": "SABAH"
     },
     {
@@ -211,7 +211,7 @@
       "row": 6,
       "col": 0,
       "length": 4,
-      "clue": "İnsanın başına gelenleri belirlediğine inanılan şans, talih ya da kader.",
+      "clue": "İnsanın başına gelenleri belirlediğine inanılan şans, talih ya da kader (4 harf) [B448-S10]",
       "answer": "BAHT"
     }
   ]

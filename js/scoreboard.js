@@ -18,7 +18,7 @@
                 <div class="sb-list" id="sb-list">
                     <div class="sb-loading">Yükleniyor…</div>
                 </div>
-                <p class="sb-foot">Diğer oyuncuların isimlerinin sadece ilk harfi gösterilir.</p>
+                <p class="sb-foot">Skor tablosu her bölüm sonrası otomatik güncellenir.</p>
             </div>
         `;
         document.body.appendChild(modalEl);
@@ -92,7 +92,7 @@
         const rows = list.map((e, i) => {
             const rank = i + 1;
             const isMe = me && e.uid === me.uid;
-            const displayName = isMe ? escapeHtml(e.name) : window.CBAuth.maskName(e.name);
+            const displayName = escapeHtml(e.name);
             const avatar = `<div class="sb-row-avatar sb-avatar-fallback">${(e.name||'?')[0].toUpperCase()}</div>`;
 
             let medal = '';
@@ -143,6 +143,29 @@
         if(!s) return '';
         return String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
     }
+
+    let refreshTimer = null;
+
+    window.addEventListener('cbLeaderboardUpdated', () => {
+        if(modalEl && modalEl.classList.contains('show')) render();
+    });
+
+    window.addEventListener('cbScoresSynced', () => {
+        if(modalEl && modalEl.classList.contains('show')) render();
+    });
+
+    const originalOpen = open;
+    open = async function(){
+        await originalOpen();
+        if(refreshTimer) clearInterval(refreshTimer);
+        refreshTimer = setInterval(() => { if(modalEl && modalEl.classList.contains('show')) render(); }, 10000);
+    };
+
+    const originalClose = close;
+    close = function(){
+        if(refreshTimer) { clearInterval(refreshTimer); refreshTimer = null; }
+        originalClose();
+    };
 
     window.CBScoreboard = { open, close };
 })();

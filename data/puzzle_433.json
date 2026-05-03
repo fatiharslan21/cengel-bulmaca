@@ -134,7 +134,7 @@
       "row": 0,
       "col": 3,
       "length": 4,
-      "clue": "Bir ailenin oturduğu ev; aynı zamanda sayıdaki basamak anlamı taşır.",
+      "clue": "Bir ailenin oturduğu ev; aynı zamanda sayıdaki basamak anlamı taşır (4 harf) [B433-S1]",
       "answer": "HANE"
     },
     {
@@ -143,7 +143,7 @@
       "row": 0,
       "col": 6,
       "length": 5,
-      "clue": "Göze ve gönle hoş gelen, nazik ve yumuşak huylu; incelikli olan.",
+      "clue": "Göze ve gönle hoş gelen, nazik ve yumuşak huylu; incelikli olan (5 harf) [B433-S2]",
       "answer": "LATİF"
     },
     {
@@ -152,7 +152,7 @@
       "row": 1,
       "col": 5,
       "length": 4,
-      "clue": "Bir kurala, şahsa ya da düzene bağlı olan; ona uymak durumunda kalan.",
+      "clue": "Bir kurala, şahsa ya da düzene bağlı olan; ona uymak durumunda kalan (4 harf) [B433-S3]",
       "answer": "TABİ"
     },
     {
@@ -161,7 +161,7 @@
       "row": 3,
       "col": 0,
       "length": 7,
-      "clue": "Üzüntülü birine söylenerek onu rahatlatan sıcak avutucu söz.",
+      "clue": "Üzüntülü birine söylenerek onu rahatlatan sıcak avutucu söz (7 harf) [B433-S4]",
       "answer": "TESELLİ"
     },
     {
@@ -170,7 +170,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "Sayılabilen nesnelerin her biri; küçük parça ya da adet.",
+      "clue": "Sayılabilen nesnelerin her biri; küçük parça ya da adet (4 harf) [B433-S4]",
       "answer": "TANE"
     },
     {
@@ -179,7 +179,7 @@
       "row": 3,
       "col": 2,
       "length": 6,
-      "clue": "Dakikanın altmışta biri; zamanın en küçük günlük ölçü birimi.",
+      "clue": "Dakikanın altmışta biri; zamanın en küçük günlük ölçü birimi (6 harf) [B433-S5]",
       "answer": "SANİYE"
     },
     {
@@ -188,7 +188,7 @@
       "row": 4,
       "col": 6,
       "length": 3,
-      "clue": "Hortumuyla tanınan, kulakları iri, kara hayvanlarının en büyüklerinden biri.",
+      "clue": "Hortumuyla tanınan, kulakları iri, kara hayvanlarının en büyüklerinden biri (3 harf) [B433-S6]",
       "answer": "FİL"
     },
     {
@@ -197,7 +197,7 @@
       "row": 4,
       "col": 7,
       "length": 5,
-      "clue": "Bilginin ötesinde, deneyim ve sezgiyle kazanılan derin anlayış.",
+      "clue": "Bilginin ötesinde, deneyim ve sezgiyle kazanılan derin anlayış (5 harf) [B433-S7]",
       "answer": "İRFAN"
     },
     {
@@ -206,7 +206,7 @@
       "row": 6,
       "col": 5,
       "length": 5,
-      "clue": "Çevresinde olanlardan haberi olmayan, dalgın ve dikkatsiz kimse.",
+      "clue": "Çevresinde olanlardan haberi olmayan, dalgın ve dikkatsiz kimse (5 harf) [B433-S8]",
       "answer": "GAFİL"
     },
     {
@@ -215,7 +215,7 @@
       "row": 7,
       "col": 4,
       "length": 4,
-      "clue": "Toprağın üstünde ya da altında bulunan, kolay parçalanmayan büyük taş.",
+      "clue": "Toprağın üstünde ya da altında bulunan, kolay parçalanmayan büyük taş (4 harf) [B433-S9]",
       "answer": "KAYA"
     }
   ]

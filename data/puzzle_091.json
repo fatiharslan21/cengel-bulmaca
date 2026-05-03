@@ -97,7 +97,7 @@
       "row": 0,
       "col": 2,
       "length": 3,
-      "clue": "Bin kilograma eşit olan büyük ağırlık ölçü birimi.",
+      "clue": "Bin kilograma eşit olan büyük ağırlık ölçü birimi (3 harf) [B91-S1]",
       "answer": "TON"
     },
     {
@@ -106,7 +106,7 @@
       "row": 0,
       "col": 2,
       "length": 5,
-      "clue": "Yemeklerin servis edildiği, yuvarlak ve yassı porselen ya da cam kap.",
+      "clue": "Yemeklerin servis edildiği, yuvarlak ve yassı porselen ya da cam kap (5 harf) [B91-S1]",
       "answer": "TABAK"
     },
     {
@@ -115,7 +115,7 @@
       "row": 1,
       "col": 7,
       "length": 3,
-      "clue": "Sayıların başlangıcı olan, tek adedi gösteren ilk doğal rakam.",
+      "clue": "Sayıların başlangıcı olan, tek adedi gösteren ilk doğal rakam (3 harf) [B91-S2]",
       "answer": "BİR"
     },
     {
@@ -124,7 +124,7 @@
       "row": 2,
       "col": 2,
       "length": 4,
-      "clue": "İnsanların içinde oturduğu ya da çalıştığı, taş ve betondan yapılmış yapı.",
+      "clue": "İnsanların içinde oturduğu ya da çalıştığı, taş ve betondan yapılmış yapı (4 harf) [B91-S3]",
       "answer": "BİNA"
     },
     {
@@ -133,7 +133,7 @@
       "row": 3,
       "col": 0,
       "length": 3,
-      "clue": "İki şeyin birbirinden ayrıldığı boşluk; kısa mola süresi.",
+      "clue": "İki şeyin birbirinden ayrıldığı boşluk; kısa mola süresi (3 harf) [B91-S4]",
       "answer": "ARA"
     },
     {
@@ -142,7 +142,7 @@
       "row": 3,
       "col": 6,
       "length": 4,
-      "clue": "Sayılabilen nesnelerin her biri; küçük parça ya da adet.",
+      "clue": "Sayılabilen nesnelerin her biri; küçük parça ya da adet (4 harf) [B91-S5]",
       "answer": "TANE"
     },
     {
@@ -151,7 +151,7 @@
       "row": 3,
       "col": 6,
       "length": 4,
-      "clue": "Raylar üzerinde hareket eden, vagonları çeken büyük motorlu araç.",
+      "clue": "Raylar üzerinde hareket eden, vagonları çeken büyük motorlu araç (4 harf) [B91-S5]",
       "answer": "TREN"
     },
     {
@@ -160,7 +160,7 @@
       "row": 4,
       "col": 2,
       "length": 5,
-      "clue": "İp ya da parmaklarla oynatılan, tiyatro sahnesinde canlanan figürlü bebek.",
+      "clue": "İp ya da parmaklarla oynatılan, tiyatro sahnesinde canlanan figürlü bebek (5 harf) [B91-S6]",
       "answer": "KUKLA"
     },
     {
@@ -169,7 +169,7 @@
       "row": 6,
       "col": 5,
       "length": 3,
-      "clue": "Pantolon ya da ceketin içine dikilmiş, ufak eşya konulan küçük kese.",
+      "clue": "Pantolon ya da ceketin içine dikilmiş, ufak eşya konulan küçük kese (3 harf) [B91-S7]",
       "answer": "CEP"
     }
   ]

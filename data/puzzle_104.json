@@ -94,7 +94,7 @@
       "row": 0,
       "col": 1,
       "length": 4,
-      "clue": "Bir kesik ya da darbe sonucu bedende oluşan açık doku hasarı.",
+      "clue": "Bir kesik ya da darbe sonucu bedende oluşan açık doku hasarı (4 harf) [B104-S1]",
       "answer": "YARA"
     },
     {
@@ -103,7 +103,7 @@
       "row": 1,
       "col": 5,
       "length": 4,
-      "clue": "Toprağa kök salmış, gövdesi odunlaşmış, uzun ömürlü büyük bitki.",
+      "clue": "Toprağa kök salmış, gövdesi odunlaşmış, uzun ömürlü büyük bitki (4 harf) [B104-S2]",
       "answer": "AĞAÇ"
     },
     {
@@ -112,7 +112,7 @@
       "row": 2,
       "col": 4,
       "length": 3,
-      "clue": "Metal ya da tırnak gibi sert yüzeyleri aşındırarak düzelten dişli alet.",
+      "clue": "Metal ya da tırnak gibi sert yüzeyleri aşındırarak düzelten dişli alet (3 harf) [B104-S3]",
       "answer": "EĞE"
     },
     {
@@ -121,7 +121,7 @@
       "row": 3,
       "col": 0,
       "length": 3,
-      "clue": "Gözlerin, burnun ve ağzın bulunduğu baş ön kısmı; ayrıca on kere on sayısı.",
+      "clue": "Gözlerin, burnun ve ağzın bulunduğu baş ön kısmı; ayrıca on kere on sayısı (3 harf) [B104-S4]",
       "answer": "YÜZ"
     },
     {
@@ -130,7 +130,7 @@
       "row": 3,
       "col": 0,
       "length": 3,
-      "clue": "İnsanın doğduğu günden bu yana geçen toplam yıl; ömürdeki basamak.",
+      "clue": "İnsanın doğduğu günden bu yana geçen toplam yıl; ömürdeki basamak (3 harf) [B104-S4]",
       "answer": "YAŞ"
     },
     {
@@ -139,7 +139,7 @@
       "row": 4,
       "col": 3,
       "length": 3,
-      "clue": "Olumsuzluğu pekiştiren söz; asla ve kesinlikle bulunmama durumu.",
+      "clue": "Olumsuzluğu pekiştiren söz; asla ve kesinlikle bulunmama durumu (3 harf) [B104-S5]",
       "answer": "HİÇ"
     },
     {
@@ -148,7 +148,7 @@
       "row": 4,
       "col": 3,
       "length": 5,
-      "clue": "Sporda kuralların uygulanmasını denetleyen, karar veren yetkili kişi.",
+      "clue": "Sporda kuralların uygulanmasını denetleyen, karar veren yetkili kişi (5 harf) [B104-S5]",
       "answer": "HAKEM"
     },
     {
@@ -157,7 +157,7 @@
       "row": 5,
       "col": 0,
       "length": 4,
-      "clue": "Yeni durumlara hızla uyum sağlayıp doğru kararlar verebilme yeteneği.",
+      "clue": "Yeni durumlara hızla uyum sağlayıp doğru kararlar verebilme yeteneği (4 harf) [B104-S6]",
       "answer": "ZEKA"
     },
     {
@@ -166,7 +166,7 @@
       "row": 7,
       "col": 1,
       "length": 4,
-      "clue": "Öğretmenin evde yapılmak üzere öğrenciye verdiği görev; yerine getirilmesi gereken iş.",
+      "clue": "Öğretmenin evde yapılmak üzere öğrenciye verdiği görev; yerine getirilmesi gereken iş (4 harf) [B104-S7]",
       "answer": "ÖDEV"
     }
   ]

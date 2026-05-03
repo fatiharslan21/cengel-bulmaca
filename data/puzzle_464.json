@@ -139,7 +139,7 @@
       "row": 0,
       "col": 5,
       "length": 4,
-      "clue": "Sırtında hörgücü bulunan, çölde uzun süre susuzluğa dayanabilen büyük hayvan.",
+      "clue": "Sırtında hörgücü bulunan, çölde uzun süre susuzluğa dayanabilen büyük hayvan (4 harf) [B464-S1]",
       "answer": "DEVE"
     },
     {
@@ -148,7 +148,7 @@
       "row": 1,
       "col": 0,
       "length": 6,
-      "clue": "Kuşaktan kuşağa sözlü aktarılan, olağanüstü öğelerle süslenmiş hikâye.",
+      "clue": "Kuşaktan kuşağa sözlü aktarılan, olağanüstü öğelerle süslenmiş hikâye (6 harf) [B464-S2]",
       "answer": "EFSANE"
     },
     {
@@ -157,7 +157,7 @@
       "row": 1,
       "col": 8,
       "length": 6,
-      "clue": "Değerli eşyaların ya da paraların saklandığı gizli büyük birikim.",
+      "clue": "Değerli eşyaların ya da paraların saklandığı gizli büyük birikim (6 harf) [B464-S3]",
       "answer": "HAZİNE"
     },
     {
@@ -166,7 +166,7 @@
       "row": 1,
       "col": 10,
       "length": 4,
-      "clue": "Bir sözcüğün ya da cümlenin ardında yatan anlam; içerdiği kavram.",
+      "clue": "Bir sözcüğün ya da cümlenin ardında yatan anlam; içerdiği kavram (4 harf) [B464-S4]",
       "answer": "MANA"
     },
     {
@@ -175,7 +175,7 @@
       "row": 2,
       "col": 7,
       "length": 4,
-      "clue": "Siyah beyaz karelere yerleştirilen taşlarla iki kişi arasında oynanan oyun.",
+      "clue": "Siyah beyaz karelere yerleştirilen taşlarla iki kişi arasında oynanan oyun (4 harf) [B464-S5]",
       "answer": "DAMA"
     },
     {
@@ -184,7 +184,7 @@
       "row": 3,
       "col": 2,
       "length": 5,
-      "clue": "Kolla eli birbirine bağlayan, küçük kemiklerden oluşan eklem bölgesi.",
+      "clue": "Kolla eli birbirine bağlayan, küçük kemiklerden oluşan eklem bölgesi (5 harf) [B464-S6]",
       "answer": "BİLEK"
     },
     {
@@ -193,7 +193,7 @@
       "row": 3,
       "col": 6,
       "length": 5,
-      "clue": "Saplı, parlak, kırmızı kabuklu; ilkbaharın sonunda olgunlaşan tatlı meyve.",
+      "clue": "Saplı, parlak, kırmızı kabuklu; ilkbaharın sonunda olgunlaşan tatlı meyve (5 harf) [B464-S7]",
       "answer": "KİRAZ"
     },
     {
@@ -202,7 +202,7 @@
       "row": 4,
       "col": 8,
       "length": 4,
-      "clue": "Din esaslarına yürekten bağlanma; kalben kabul edip inanma hali.",
+      "clue": "Din esaslarına yürekten bağlanma; kalben kabul edip inanma hali (4 harf) [B464-S8]",
       "answer": "İMAN"
     },
     {
@@ -211,7 +211,7 @@
       "row": 4,
       "col": 11,
       "length": 5,
-      "clue": "Ciğerlere hava çekmek ve bırakmak; yaşamın sürdüğünün göstergesi soluk.",
+      "clue": "Ciğerlere hava çekmek ve bırakmak; yaşamın sürdüğünün göstergesi soluk (5 harf) [B464-S9]",
       "answer": "NEFES"
     },
     {
@@ -220,7 +220,7 @@
       "row": 6,
       "col": 5,
       "length": 5,
-      "clue": "Bir kimsenin bir şey için yaptığı istek; dile getirilen açık dilek.",
+      "clue": "Bir kimsenin bir şey için yaptığı istek; dile getirilen açık dilek (5 harf) [B464-S10]",
       "answer": "TALEP"
     }
   ]

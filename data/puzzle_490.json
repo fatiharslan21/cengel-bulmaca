@@ -139,7 +139,7 @@
       "row": 0,
       "col": 4,
       "length": 4,
-      "clue": "Aradaki mesafenin çok olduğu; yakınlığı hissedilmeyen ötelerdeki yer.",
+      "clue": "Aradaki mesafenin çok olduğu; yakınlığı hissedilmeyen ötelerdeki yer (4 harf) [B490-S1]",
       "answer": "UZAK"
     },
     {
@@ -148,7 +148,7 @@
       "row": 0,
       "col": 7,
       "length": 3,
-      "clue": "Omuzdan bileğe kadar uzanan, eli bedene bağlayan üst uzvumuz.",
+      "clue": "Omuzdan bileğe kadar uzanan, eli bedene bağlayan üst uzvumuz (3 harf) [B490-S2]",
       "answer": "KOL"
     },
     {
@@ -157,7 +157,7 @@
       "row": 1,
       "col": 10,
       "length": 5,
-      "clue": "Yüreği saran, insanı kendinden geçiren güçlü aşk ve tutku.",
+      "clue": "Yüreği saran, insanı kendinden geçiren güçlü aşk ve tutku (5 harf) [B490-S3]",
       "answer": "SEVDA"
     },
     {
@@ -166,7 +166,7 @@
       "row": 2,
       "col": 5,
       "length": 4,
-      "clue": "İnsanın boynunun üst kısmında bulunan, düşünmenin merkezi olan baş.",
+      "clue": "İnsanın boynunun üst kısmında bulunan, düşünmenin merkezi olan baş (4 harf) [B490-S4]",
       "answer": "KAFA"
     },
     {
@@ -175,7 +175,7 @@
       "row": 2,
       "col": 5,
       "length": 7,
-      "clue": "Tırtılken metamorfoz geçirip renkli kanatlara kavuşan zarif böcek.",
+      "clue": "Tırtılken metamorfoz geçirip renkli kanatlara kavuşan zarif böcek (7 harf) [B490-S4]",
       "answer": "KELEBEK"
     },
     {
@@ -184,7 +184,7 @@
       "row": 3,
       "col": 1,
       "length": 4,
-      "clue": "Bir evin ya da iş yerinin kullanımı için sahibine ödenen aylık ücret.",
+      "clue": "Bir evin ya da iş yerinin kullanımı için sahibine ödenen aylık ücret (4 harf) [B490-S5]",
       "answer": "KIRA"
     },
     {
@@ -193,7 +193,7 @@
       "row": 3,
       "col": 1,
       "length": 5,
-      "clue": "İp ya da parmaklarla oynatılan, tiyatro sahnesinde canlanan figürlü bebek.",
+      "clue": "İp ya da parmaklarla oynatılan, tiyatro sahnesinde canlanan figürlü bebek (5 harf) [B490-S5]",
       "answer": "KUKLA"
     },
     {
@@ -202,7 +202,7 @@
       "row": 4,
       "col": 7,
       "length": 5,
-      "clue": "Bir sürecin başladığı; sıfırdan hesaplandığı başlangıç tarihi.",
+      "clue": "Bir sürecin başladığı; sıfırdan hesaplandığı başlangıç tarihi (5 harf) [B490-S6]",
       "answer": "MİLAT"
     },
     {
@@ -211,7 +211,7 @@
       "row": 5,
       "col": 4,
       "length": 5,
-      "clue": "Sonu kötü olabilecek; durumun ne kadar ağır olduğunu gösteren sıfat.",
+      "clue": "Sonu kötü olabilecek; durumun ne kadar ağır olduğunu gösteren sıfat (5 harf) [B490-S7]",
       "answer": "VAHİM"
     },
     {
@@ -220,7 +220,7 @@
       "row": 6,
       "col": 0,
       "length": 3,
-      "clue": "Bir noktadan diğerine uzanan düz çizgi; yol ya da güzergâh.",
+      "clue": "Bir noktadan diğerine uzanan düz çizgi; yol ya da güzergâh (3 harf) [B490-S8]",
       "answer": "HAT"
     }
   ]

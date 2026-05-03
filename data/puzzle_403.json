@@ -157,7 +157,7 @@
       "row": 0,
       "col": 3,
       "length": 5,
-      "clue": "Bir ezginin kulağa hoş gelen melodik sesi; tiz tatlı tını.",
+      "clue": "Bir ezginin kulağa hoş gelen melodik sesi; tiz tatlı tını (5 harf) [B403-S1]",
       "answer": "NAĞME"
     },
     {
@@ -166,7 +166,7 @@
       "row": 1,
       "col": 2,
       "length": 3,
-      "clue": "Bir çemberin merkezinden geçerek onu iki eşit yaya bölen doğru parça.",
+      "clue": "Bir çemberin merkezinden geçerek onu iki eşit yaya bölen doğru parça (3 harf) [B403-S2]",
       "answer": "ÇAP"
     },
     {
@@ -175,7 +175,7 @@
       "row": 3,
       "col": 1,
       "length": 4,
-      "clue": "Yapılan ya da tadılan şeyden alınan; insanın içini hoşnut eden keyif.",
+      "clue": "Yapılan ya da tadılan şeyden alınan; insanın içini hoşnut eden keyif (4 harf) [B403-S3]",
       "answer": "ZEVK"
     },
     {
@@ -184,7 +184,7 @@
       "row": 4,
       "col": 0,
       "length": 4,
-      "clue": "Güneşin batmasından doğmasına kadar süren karanlık zaman dilimi.",
+      "clue": "Güneşin batmasından doğmasına kadar süren karanlık zaman dilimi (4 harf) [B403-S4]",
       "answer": "GECE"
     },
     {
@@ -193,7 +193,7 @@
       "row": 4,
       "col": 5,
       "length": 5,
-      "clue": "Aynı ortak özellikleri paylaşan kişilerden oluşan topluluk; grup.",
+      "clue": "Aynı ortak özellikleri paylaşan kişilerden oluşan topluluk; grup (5 harf) [B403-S5]",
       "answer": "ZÜMRE"
     },
     {
@@ -202,7 +202,7 @@
       "row": 4,
       "col": 8,
       "length": 7,
-      "clue": "Kasları çözülmüş gibi hissettiren ağır gevşeklik; uyuşukluk hali.",
+      "clue": "Kasları çözülmüş gibi hissettiren ağır gevşeklik; uyuşukluk hali (7 harf) [B403-S6]",
       "answer": "REHAVET"
     },
     {
@@ -211,7 +211,7 @@
       "row": 6,
       "col": 1,
       "length": 5,
-      "clue": "Ucundan mürekkep ya da grafit akıtarak kâğıda yazı yazmayı sağlayan araç.",
+      "clue": "Ucundan mürekkep ya da grafit akıtarak kâğıda yazı yazmayı sağlayan araç (5 harf) [B403-S7]",
       "answer": "KALEM"
     },
     {
@@ -220,7 +220,7 @@
       "row": 7,
       "col": 5,
       "length": 5,
-      "clue": "Radyo dalgalarını yollayıp yansımasını ölçerek uzaktaki nesneleri belirleyen sistem.",
+      "clue": "Radyo dalgalarını yollayıp yansımasını ölçerek uzaktaki nesneleri belirleyen sistem (5 harf) [B403-S8]",
       "answer": "RADAR"
     },
     {
@@ -229,7 +229,7 @@
       "row": 8,
       "col": 2,
       "length": 4,
-      "clue": "Yeni toplanmış, bayatlamamış; canlılığını yeni yeni yitirmemiş olan.",
+      "clue": "Yeni toplanmış, bayatlamamış; canlılığını yeni yeni yitirmemiş olan (4 harf) [B403-S9]",
       "answer": "TAZE"
     },
     {
@@ -238,7 +238,7 @@
       "row": 8,
       "col": 2,
       "length": 4,
-      "clue": "Saçı ya da kemeri tutturmaya yarayan, klips gibi açılıp kapanan küçük süs.",
+      "clue": "Saçı ya da kemeri tutturmaya yarayan, klips gibi açılıp kapanan küçük süs (4 harf) [B403-S9]",
       "answer": "TOKA"
     }
   ]

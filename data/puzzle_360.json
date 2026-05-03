@@ -130,7 +130,7 @@
       "row": 0,
       "col": 3,
       "length": 5,
-      "clue": "Mektup ve paketlerin toplanıp yerine ulaştırıldığı geleneksel iletişim hizmeti.",
+      "clue": "Mektup ve paketlerin toplanıp yerine ulaştırıldığı geleneksel iletişim hizmeti (5 harf) [B360-S1]",
       "answer": "POSTA"
     },
     {
@@ -139,7 +139,7 @@
       "row": 1,
       "col": 2,
       "length": 4,
-      "clue": "Burnumuzla algıladığımız, havada yayılan hoş ya da keskin tanecikler.",
+      "clue": "Burnumuzla algıladığımız, havada yayılan hoş ya da keskin tanecikler (4 harf) [B360-S2]",
       "answer": "KOKU"
     },
     {
@@ -148,7 +148,7 @@
       "row": 2,
       "col": 6,
       "length": 4,
-      "clue": "Birinden nazikçe bir şey istemek; kibarca dile getirilen dilek.",
+      "clue": "Birinden nazikçe bir şey istemek; kibarca dile getirilen dilek (4 harf) [B360-S3]",
       "answer": "RİCA"
     },
     {
@@ -157,7 +157,7 @@
       "row": 3,
       "col": 1,
       "length": 5,
-      "clue": "İçe işleyen hafif hüzün; kimseye belli edilmeyen sessiz usanç.",
+      "clue": "İçe işleyen hafif hüzün; kimseye belli edilmeyen sessiz usanç (5 harf) [B360-S4]",
       "answer": "MELAL"
     },
     {
@@ -166,7 +166,7 @@
       "row": 3,
       "col": 3,
       "length": 4,
-      "clue": "Bir kurala, şahsa ya da düzene bağlı olan; ona uymak durumunda kalan.",
+      "clue": "Bir kurala, şahsa ya da düzene bağlı olan; ona uymak durumunda kalan (4 harf) [B360-S5]",
       "answer": "TABİ"
     },
     {
@@ -175,7 +175,7 @@
       "row": 4,
       "col": 0,
       "length": 4,
-      "clue": "Suç işleyen kimseye, yaptığının karşılığı olarak verilen yaptırım.",
+      "clue": "Suç işleyen kimseye, yaptığının karşılığı olarak verilen yaptırım (4 harf) [B360-S6]",
       "answer": "CEZA"
     },
     {
@@ -184,7 +184,7 @@
       "row": 5,
       "col": 5,
       "length": 4,
-      "clue": "İnce mukavvadan yapılmış, üzerine yazı yazılan ya da baskı yapılan levha.",
+      "clue": "İnce mukavvadan yapılmış, üzerine yazı yazılan ya da baskı yapılan levha (4 harf) [B360-S7]",
       "answer": "KART"
     },
     {
@@ -193,7 +193,7 @@
       "row": 5,
       "col": 8,
       "length": 4,
-      "clue": "Anadolu ve çevresinde yaşayan, Orta Asya kökenli büyük millet.",
+      "clue": "Anadolu ve çevresinde yaşayan, Orta Asya kökenli büyük millet (4 harf) [B360-S8]",
       "answer": "TÜRK"
     },
     {
@@ -202,7 +202,7 @@
       "row": 6,
       "col": 0,
       "length": 4,
-      "clue": "Uzaktan duyulan insan ya da doğa sesi; boğumlu ses dalgası.",
+      "clue": "Uzaktan duyulan insan ya da doğa sesi; boğumlu ses dalgası (4 harf) [B360-S9]",
       "answer": "SADA"
     },
     {
@@ -211,7 +211,7 @@
       "row": 7,
       "col": 7,
       "length": 4,
-      "clue": "Raylar üzerinde hareket eden, vagonları çeken büyük motorlu araç.",
+      "clue": "Raylar üzerinde hareket eden, vagonları çeken büyük motorlu araç (4 harf) [B360-S10]",
       "answer": "TREN"
     }
   ]

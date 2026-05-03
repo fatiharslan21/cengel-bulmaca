@@ -112,7 +112,7 @@
       "row": 0,
       "col": 4,
       "length": 5,
-      "clue": "Bir cümlenin sonuna konan en küçük yazı işareti; konumun kendisi.",
+      "clue": "Bir cümlenin sonuna konan en küçük yazı işareti; konumun kendisi (5 harf) [B101-S1]",
       "answer": "NOKTA"
     },
     {
@@ -121,7 +121,7 @@
       "row": 1,
       "col": 3,
       "length": 3,
-      "clue": "Omuzdan bileğe kadar uzanan, eli bedene bağlayan üst uzvumuz.",
+      "clue": "Omuzdan bileğe kadar uzanan, eli bedene bağlayan üst uzvumuz (3 harf) [B101-S2]",
       "answer": "KOL"
     },
     {
@@ -130,7 +130,7 @@
       "row": 3,
       "col": 2,
       "length": 3,
-      "clue": "İnek, keçi gibi memelilerden sağılan; beyaz renkli besleyici temel içecek.",
+      "clue": "İnek, keçi gibi memelilerden sağılan; beyaz renkli besleyici temel içecek (3 harf) [B101-S3]",
       "answer": "SÜT"
     },
     {
@@ -139,7 +139,7 @@
       "row": 3,
       "col": 2,
       "length": 5,
-      "clue": "Padişah veya hükümdarların oturduğu, görkemli mimarisi olan büyük yapı.",
+      "clue": "Padişah veya hükümdarların oturduğu, görkemli mimarisi olan büyük yapı (5 harf) [B101-S3]",
       "answer": "SARAY"
     },
     {
@@ -148,7 +148,7 @@
       "row": 3,
       "col": 6,
       "length": 4,
-      "clue": "Müziğin ritmine uyarak, düzenli vücut hareketleriyle yapılan sanatsal eylem.",
+      "clue": "Müziğin ritmine uyarak, düzenli vücut hareketleriyle yapılan sanatsal eylem (4 harf) [B101-S4]",
       "answer": "DANS"
     },
     {
@@ -157,7 +157,7 @@
       "row": 3,
       "col": 6,
       "length": 3,
-      "clue": "Ağızda bulunan, yiyecekleri kopartıp öğütmeye yarayan sert beyaz yapı.",
+      "clue": "Ağızda bulunan, yiyecekleri kopartıp öğütmeye yarayan sert beyaz yapı (3 harf) [B101-S4]",
       "answer": "DİŞ"
     },
     {
@@ -166,7 +166,7 @@
       "row": 4,
       "col": 4,
       "length": 3,
-      "clue": "Eskiden köylerde geniş topraklara sahip, sözü geçen nüfuzlu kişi.",
+      "clue": "Eskiden köylerde geniş topraklara sahip, sözü geçen nüfuzlu kişi (3 harf) [B101-S5]",
       "answer": "AĞA"
     },
     {
@@ -175,7 +175,7 @@
       "row": 5,
       "col": 0,
       "length": 3,
-      "clue": "Sayıların başlangıcı olan, tek adedi gösteren ilk doğal rakam.",
+      "clue": "Sayıların başlangıcı olan, tek adedi gösteren ilk doğal rakam (3 harf) [B101-S6]",
       "answer": "BİR"
     },
     {
@@ -184,7 +184,7 @@
       "row": 5,
       "col": 0,
       "length": 4,
-      "clue": "İnsanın başına habersizce gelen ağır dert, büyük sıkıntı ya da musibet.",
+      "clue": "İnsanın başına habersizce gelen ağır dert, büyük sıkıntı ya da musibet (4 harf) [B101-S6]",
       "answer": "BELA"
     }
   ]

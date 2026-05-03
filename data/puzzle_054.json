@@ -123,7 +123,7 @@
       "row": 0,
       "col": 3,
       "length": 4,
-      "clue": "Toprağa kök salmış, gövdesi odunlaşmış, uzun ömürlü büyük bitki.",
+      "clue": "Toprağa kök salmış, gövdesi odunlaşmış, uzun ömürlü büyük bitki (4 harf) [B54-S1]",
       "answer": "AĞAÇ"
     },
     {
@@ -132,7 +132,7 @@
       "row": 2,
       "col": 2,
       "length": 5,
-      "clue": "İçindeki eşyayı korumak için ambalajlanmış, kâğıt ya da karton sargılı koli.",
+      "clue": "İçindeki eşyayı korumak için ambalajlanmış, kâğıt ya da karton sargılı koli (5 harf) [B54-S2]",
       "answer": "PAKET"
     },
     {
@@ -141,7 +141,7 @@
       "row": 2,
       "col": 5,
       "length": 4,
-      "clue": "Yetkili bir kimsenin yerine getirilmek üzere verdiği kesin buyruk.",
+      "clue": "Yetkili bir kimsenin yerine getirilmek üzere verdiği kesin buyruk (4 harf) [B54-S3]",
       "answer": "EMİR"
     },
     {
@@ -150,7 +150,7 @@
       "row": 5,
       "col": 3,
       "length": 3,
-      "clue": "Sayıların başlangıcı olan, tek adedi gösteren ilk doğal rakam.",
+      "clue": "Sayıların başlangıcı olan, tek adedi gösteren ilk doğal rakam (3 harf) [B54-S4]",
       "answer": "BİR"
     },
     {
@@ -159,7 +159,7 @@
       "row": 5,
       "col": 3,
       "length": 5,
-      "clue": "Gökyüzünde süzülen, su buharının yoğunlaşmasıyla oluşan beyaz küme.",
+      "clue": "Gökyüzünde süzülen, su buharının yoğunlaşmasıyla oluşan beyaz küme (5 harf) [B54-S4]",
       "answer": "BULUT"
     },
     {
@@ -168,7 +168,7 @@
       "row": 6,
       "col": 0,
       "length": 4,
-      "clue": "Bilinmeyen bir bilgiyi öğrenmek için karşıya yöneltilen cümle.",
+      "clue": "Bilinmeyen bir bilgiyi öğrenmek için karşıya yöneltilen cümle (4 harf) [B54-S5]",
       "answer": "SORU"
     },
     {
@@ -177,7 +177,7 @@
       "row": 8,
       "col": 2,
       "length": 4,
-      "clue": "Bir yarışmanın galibine ödül olarak verilen, ayaklı madeni kadeh.",
+      "clue": "Bir yarışmanın galibine ödül olarak verilen, ayaklı madeni kadeh (4 harf) [B54-S6]",
       "answer": "KUPA"
     },
     {
@@ -186,7 +186,7 @@
       "row": 8,
       "col": 5,
       "length": 3,
-      "clue": "Eskiden köylerde geniş topraklara sahip, sözü geçen nüfuzlu kişi.",
+      "clue": "Eskiden köylerde geniş topraklara sahip, sözü geçen nüfuzlu kişi (3 harf) [B54-S7]",
       "answer": "AĞA"
     },
     {
@@ -195,7 +195,7 @@
       "row": 10,
       "col": 4,
       "length": 4,
-      "clue": "Eskiyip yırtılan giysiyi onarmak için üstüne dikilen küçük kumaş parçası.",
+      "clue": "Eskiyip yırtılan giysiyi onarmak için üstüne dikilen küçük kumaş parçası (4 harf) [B54-S8]",
       "answer": "YAMA"
     }
   ]

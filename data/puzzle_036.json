@@ -125,7 +125,7 @@
       "row": 0,
       "col": 7,
       "length": 3,
-      "clue": "Uyku sırasında zihnin canlandırdığı görüntüler ya da uyanıkken kurulan hayal.",
+      "clue": "Uyku sırasında zihnin canlandırdığı görüntüler ya da uyanıkken kurulan hayal (3 harf) [B36-S1]",
       "answer": "DÜŞ"
     },
     {
@@ -134,7 +134,7 @@
       "row": 0,
       "col": 7,
       "length": 5,
-      "clue": "Üzerinde yaşadığımız, Güneş'in çevresinde dönen mavi yeşil gezegen.",
+      "clue": "Üzerinde yaşadığımız, Güneş'in çevresinde dönen mavi yeşil gezegen (5 harf) [B36-S1]",
       "answer": "DÜNYA"
     },
     {
@@ -143,7 +143,7 @@
       "row": 2,
       "col": 1,
       "length": 3,
-      "clue": "Üzüm yetiştirilen tarla; aynı zamanda düğümle tutturma eylemi.",
+      "clue": "Üzüm yetiştirilen tarla; aynı zamanda düğümle tutturma eylemi (3 harf) [B36-S2]",
       "answer": "BAĞ"
     },
     {
@@ -152,7 +152,7 @@
       "row": 2,
       "col": 3,
       "length": 4,
-      "clue": "İlerinin zıttı; arkaya ya da başlangıca doğru olan yön.",
+      "clue": "İlerinin zıttı; arkaya ya da başlangıca doğru olan yön (4 harf) [B36-S3]",
       "answer": "GERİ"
     },
     {
@@ -161,7 +161,7 @@
       "row": 2,
       "col": 5,
       "length": 3,
-      "clue": "İnsanın yüzünü gülümseten, göze güzel gelen; beğenilen durum.",
+      "clue": "İnsanın yüzünü gülümseten, göze güzel gelen; beğenilen durum (3 harf) [B36-S4]",
       "answer": "HOŞ"
     },
     {
@@ -170,7 +170,7 @@
       "row": 2,
       "col": 5,
       "length": 5,
-      "clue": "Bir olay ya da gelişme hakkında ulaşan yeni bilgi; duyuru.",
+      "clue": "Bir olay ya da gelişme hakkında ulaşan yeni bilgi; duyuru (5 harf) [B36-S4]",
       "answer": "HABER"
     },
     {
@@ -179,7 +179,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "Bir ailenin oturduğu ev; aynı zamanda sayıdaki basamak anlamı taşır.",
+      "clue": "Bir ailenin oturduğu ev; aynı zamanda sayıdaki basamak anlamı taşır (4 harf) [B36-S5]",
       "answer": "HANE"
     },
     {
@@ -188,7 +188,7 @@
       "row": 5,
       "col": 2,
       "length": 5,
-      "clue": "Bitkinin üreme organı; genellikle göz alıcı renkleri ve kokusu olan kısım.",
+      "clue": "Bitkinin üreme organı; genellikle göz alıcı renkleri ve kokusu olan kısım (5 harf) [B36-S6]",
       "answer": "ÇİÇEK"
     },
     {
@@ -197,7 +197,7 @@
       "row": 5,
       "col": 2,
       "length": 3,
-      "clue": "Demlenmiş yapraklarından içecek hazırlanan, ülkenin vazgeçilmez sıcak içkisi.",
+      "clue": "Demlenmiş yapraklarından içecek hazırlanan, ülkenin vazgeçilmez sıcak içkisi (3 harf) [B36-S6]",
       "answer": "ÇAY"
     }
   ]

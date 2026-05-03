@@ -103,7 +103,7 @@
       "row": 0,
       "col": 3,
       "length": 5,
-      "clue": "İp ya da parmaklarla oynatılan, tiyatro sahnesinde canlanan figürlü bebek.",
+      "clue": "İp ya da parmaklarla oynatılan, tiyatro sahnesinde canlanan figürlü bebek (5 harf) [B290-S1]",
       "answer": "KUKLA"
     },
     {
@@ -112,7 +112,7 @@
       "row": 1,
       "col": 0,
       "length": 4,
-      "clue": "İçten duyulan istek, gönülden beklenen dilek veya özlem.",
+      "clue": "İçten duyulan istek, gönülden beklenen dilek veya özlem (4 harf) [B290-S2]",
       "answer": "ARZU"
     },
     {
@@ -121,7 +121,7 @@
       "row": 1,
       "col": 5,
       "length": 4,
-      "clue": "Niteliği kötü olan, insanın içini bunaltan; iyi sözcüğünün zıttı.",
+      "clue": "Niteliği kötü olan, insanın içini bunaltan; iyi sözcüğünün zıttı (4 harf) [B290-S3]",
       "answer": "FENA"
     },
     {
@@ -130,7 +130,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "Sahte ya da taklit olmayan; bir şeyin gerçek ve temel olan hali.",
+      "clue": "Sahte ya da taklit olmayan; bir şeyin gerçek ve temel olan hali (4 harf) [B290-S4]",
       "answer": "ASIL"
     },
     {
@@ -139,7 +139,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "Yanmakta olan bir maddenin çıkardığı ısı, ışık ve alevin tümü.",
+      "clue": "Yanmakta olan bir maddenin çıkardığı ısı, ışık ve alevin tümü (4 harf) [B290-S4]",
       "answer": "ATEŞ"
     },
     {
@@ -148,7 +148,7 @@
       "row": 4,
       "col": 3,
       "length": 4,
-      "clue": "Bir işin başında konulan, ulaşılmak istenen hedef ya da gaye.",
+      "clue": "Bir işin başında konulan, ulaşılmak istenen hedef ya da gaye (4 harf) [B290-S5]",
       "answer": "AMAÇ"
     },
     {
@@ -157,7 +157,7 @@
       "row": 4,
       "col": 4,
       "length": 5,
-      "clue": "Bir kimsenin toplumdaki yeri, konumu ya da makamı.",
+      "clue": "Bir kimsenin toplumdaki yeri, konumu ya da makamı (5 harf) [B290-S6]",
       "answer": "MEVKİ"
     },
     {
@@ -166,7 +166,7 @@
       "row": 5,
       "col": 7,
       "length": 3,
-      "clue": "İnsanın boynundan yukarısı, beynin ve yüzün bulunduğu vücut bölümü.",
+      "clue": "İnsanın boynundan yukarısı, beynin ve yüzün bulunduğu vücut bölümü (3 harf) [B290-S7]",
       "answer": "BAŞ"
     },
     {
@@ -175,7 +175,7 @@
       "row": 6,
       "col": 4,
       "length": 4,
-      "clue": "Dostluğunu ve sevgisini zaman geçse bile sürdürme; söze sadakat.",
+      "clue": "Dostluğunu ve sevgisini zaman geçse bile sürdürme; söze sadakat (4 harf) [B290-S8]",
       "answer": "VEFA"
     },
     {
@@ -184,7 +184,7 @@
       "row": 8,
       "col": 3,
       "length": 4,
-      "clue": "Birinden nazikçe bir şey istemek; kibarca dile getirilen dilek.",
+      "clue": "Birinden nazikçe bir şey istemek; kibarca dile getirilen dilek (4 harf) [B290-S9]",
       "answer": "RİCA"
     }
   ]

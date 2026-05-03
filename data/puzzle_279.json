@@ -117,7 +117,7 @@
       "row": 0,
       "col": 5,
       "length": 3,
-      "clue": "Konuşan kişinin kendisini belirtmek için kullandığı birinci tekil zamir.",
+      "clue": "Konuşan kişinin kendisini belirtmek için kullandığı birinci tekil zamir (3 harf) [B279-S1]",
       "answer": "BEN"
     },
     {
@@ -126,7 +126,7 @@
       "row": 0,
       "col": 7,
       "length": 5,
-      "clue": "Bir şeyin bir yerden başka bir yere taşınması; aktarma işlemi.",
+      "clue": "Bir şeyin bir yerden başka bir yere taşınması; aktarma işlemi (5 harf) [B279-S2]",
       "answer": "NAKİL"
     },
     {
@@ -135,7 +135,7 @@
       "row": 0,
       "col": 10,
       "length": 5,
-      "clue": "Geniş bir alana yayılmış, iç içe büyümüş ağaçlardan oluşan doğal yaşam.",
+      "clue": "Geniş bir alana yayılmış, iç içe büyümüş ağaçlardan oluşan doğal yaşam (5 harf) [B279-S3]",
       "answer": "ORMAN"
     },
     {
@@ -144,7 +144,7 @@
       "row": 1,
       "col": 3,
       "length": 6,
-      "clue": "Dinde kıyamet sonrası ölülerin toplanacağına inanılan büyük buluşma yeri.",
+      "clue": "Dinde kıyamet sonrası ölülerin toplanacağına inanılan büyük buluşma yeri (6 harf) [B279-S4]",
       "answer": "MAHŞER"
     },
     {
@@ -153,7 +153,7 @@
       "row": 1,
       "col": 7,
       "length": 4,
-      "clue": "Kaldırılması güç olan, hafif sözcüğünün zıttı sayılan kütle durumu.",
+      "clue": "Kaldırılması güç olan, hafif sözcüğünün zıttı sayılan kütle durumu (4 harf) [B279-S5]",
       "answer": "AĞIR"
     },
     {
@@ -162,7 +162,7 @@
       "row": 2,
       "col": 0,
       "length": 4,
-      "clue": "Saçı ya da kemeri tutturmaya yarayan, klips gibi açılıp kapanan küçük süs.",
+      "clue": "Saçı ya da kemeri tutturmaya yarayan, klips gibi açılıp kapanan küçük süs (4 harf) [B279-S6]",
       "answer": "TOKA"
     },
     {
@@ -171,7 +171,7 @@
       "row": 2,
       "col": 5,
       "length": 3,
-      "clue": "Bir sıranın en başında bulunan; sondan önce hiçbir şey olmayan sırada birinci.",
+      "clue": "Bir sıranın en başında bulunan; sondan önce hiçbir şey olmayan sırada birinci (3 harf) [B279-S7]",
       "answer": "İLK"
     },
     {
@@ -180,7 +180,7 @@
       "row": 4,
       "col": 5,
       "length": 3,
-      "clue": "Kalbin bulunduğu taraf; sağın tam karşıtı olan yön.",
+      "clue": "Kalbin bulunduğu taraf; sağın tam karşıtı olan yön (3 harf) [B279-S8]",
       "answer": "SOL"
     },
     {
@@ -189,7 +189,7 @@
       "row": 4,
       "col": 5,
       "length": 4,
-      "clue": "Bir miktarı ya da sırayı belirten; rakamlarla yazılan matematik kavramı.",
+      "clue": "Bir miktarı ya da sırayı belirten; rakamlarla yazılan matematik kavramı (4 harf) [B279-S8]",
       "answer": "SAYI"
     },
     {
@@ -198,7 +198,7 @@
       "row": 5,
       "col": 2,
       "length": 4,
-      "clue": "İçerisi camla kaplı; mevsim dışında bile bitki yetiştirilen ısıtılmış yapı.",
+      "clue": "İçerisi camla kaplı; mevsim dışında bile bitki yetiştirilen ısıtılmış yapı (4 harf) [B279-S9]",
       "answer": "SERA"
     }
   ]

@@ -121,7 +121,7 @@
       "row": 0,
       "col": 0,
       "length": 4,
-      "clue": "İçine eşya konulan, çoğu zaman kapağı olan, dikdörtgen ya da kare biçimli hazne.",
+      "clue": "İçine eşya konulan, çoğu zaman kapağı olan, dikdörtgen ya da kare biçimli hazne (4 harf) [B7-S1]",
       "answer": "KUTU"
     },
     {
@@ -130,7 +130,7 @@
       "row": 2,
       "col": 0,
       "length": 4,
-      "clue": "Dağdan daha alçak, çevresine göre yüksek görünen küçük yükselti.",
+      "clue": "Dağdan daha alçak, çevresine göre yüksek görünen küçük yükselti (4 harf) [B7-S2]",
       "answer": "TEPE"
     },
     {
@@ -139,7 +139,7 @@
       "row": 2,
       "col": 2,
       "length": 5,
-      "clue": "Mektup ve paketlerin toplanıp yerine ulaştırıldığı geleneksel iletişim hizmeti.",
+      "clue": "Mektup ve paketlerin toplanıp yerine ulaştırıldığı geleneksel iletişim hizmeti (5 harf) [B7-S3]",
       "answer": "POSTA"
     },
     {
@@ -148,7 +148,7 @@
       "row": 2,
       "col": 8,
       "length": 5,
-      "clue": "Bir alanın ya da cismin dört bir yanını saran dış sınır; etraf.",
+      "clue": "Bir alanın ya da cismin dört bir yanını saran dış sınır; etraf (5 harf) [B7-S4]",
       "answer": "ÇEVRE"
     },
     {
@@ -157,7 +157,7 @@
       "row": 3,
       "col": 5,
       "length": 4,
-      "clue": "İki duvarın ya da iki kenarın birleştiği noktada oluşan açılı yer.",
+      "clue": "İki duvarın ya da iki kenarın birleştiği noktada oluşan açılı yer (4 harf) [B7-S5]",
       "answer": "KÖŞE"
     },
     {
@@ -166,7 +166,7 @@
       "row": 3,
       "col": 5,
       "length": 5,
-      "clue": "İnsana sadakatiyle bilinen, havlayarak seslenen evcil dört ayaklı.",
+      "clue": "İnsana sadakatiyle bilinen, havlayarak seslenen evcil dört ayaklı (5 harf) [B7-S5]",
       "answer": "KÖPEK"
     },
     {
@@ -175,7 +175,7 @@
       "row": 6,
       "col": 1,
       "length": 5,
-      "clue": "Ev ya da yapı yakınında çiçek, sebze ve ağaç yetiştirilen yeşil alan.",
+      "clue": "Ev ya da yapı yakınında çiçek, sebze ve ağaç yetiştirilen yeşil alan (5 harf) [B7-S6]",
       "answer": "BAHÇE"
     },
     {
@@ -184,7 +184,7 @@
       "row": 6,
       "col": 3,
       "length": 3,
-      "clue": "Olumsuzluğu pekiştiren söz; asla ve kesinlikle bulunmama durumu.",
+      "clue": "Olumsuzluğu pekiştiren söz; asla ve kesinlikle bulunmama durumu (3 harf) [B7-S7]",
       "answer": "HİÇ"
     },
     {
@@ -193,7 +193,7 @@
       "row": 6,
       "col": 7,
       "length": 3,
-      "clue": "Pantolon ya da ceketin içine dikilmiş, ufak eşya konulan küçük kese.",
+      "clue": "Pantolon ya da ceketin içine dikilmiş, ufak eşya konulan küçük kese (3 harf) [B7-S8]",
       "answer": "CEP"
     }
   ]

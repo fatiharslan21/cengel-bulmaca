@@ -111,7 +111,7 @@
       "row": 0,
       "col": 5,
       "length": 3,
-      "clue": "İçin karşıtı; bir şeyin çevresini gören, dışarıya bakan yüzü.",
+      "clue": "İçin karşıtı; bir şeyin çevresini gören, dışarıya bakan yüzü (3 harf) [B29-S1]",
       "answer": "DIŞ"
     },
     {
@@ -120,7 +120,7 @@
       "row": 0,
       "col": 5,
       "length": 5,
-      "clue": "İçine giysi, kap kacak ya da eşya konulan, kapaklı büyük mobilya.",
+      "clue": "İçine giysi, kap kacak ya da eşya konulan, kapaklı büyük mobilya (5 harf) [B29-S1]",
       "answer": "DOLAP"
     },
     {
@@ -129,7 +129,7 @@
       "row": 2,
       "col": 3,
       "length": 4,
-      "clue": "Müzik eserlerinde seslerin yükseklik ve uzunluğunu gösteren küçük simge.",
+      "clue": "Müzik eserlerinde seslerin yükseklik ve uzunluğunu gösteren küçük simge (4 harf) [B29-S2]",
       "answer": "NOTA"
     },
     {
@@ -138,7 +138,7 @@
       "row": 2,
       "col": 7,
       "length": 5,
-      "clue": "Kat kat hamuru kremayla birleştirilen, doğum günlerinde kesilen tatlı.",
+      "clue": "Kat kat hamuru kremayla birleştirilen, doğum günlerinde kesilen tatlı (5 harf) [B29-S3]",
       "answer": "PASTA"
     },
     {
@@ -147,7 +147,7 @@
       "row": 3,
       "col": 2,
       "length": 4,
-      "clue": "Kulpundan tutularak su ya da başka sıvı taşınan derin silindirik kap.",
+      "clue": "Kulpundan tutularak su ya da başka sıvı taşınan derin silindirik kap (4 harf) [B29-S4]",
       "answer": "KOVA"
     },
     {
@@ -156,7 +156,7 @@
       "row": 3,
       "col": 7,
       "length": 5,
-      "clue": "Tekerlekleri üstünde insan ya da yük taşıyan motorlu kara taşıtı.",
+      "clue": "Tekerlekleri üstünde insan ya da yük taşıyan motorlu kara taşıtı (5 harf) [B29-S5]",
       "answer": "ARABA"
     },
     {
@@ -165,7 +165,7 @@
       "row": 4,
       "col": 5,
       "length": 3,
-      "clue": "Demirin hava ve nemle temas ederek zamanla üzerinde oluşturduğu kızıl tabaka.",
+      "clue": "Demirin hava ve nemle temas ederek zamanla üzerinde oluşturduğu kızıl tabaka (3 harf) [B29-S6]",
       "answer": "PAS"
     },
     {
@@ -174,7 +174,7 @@
       "row": 5,
       "col": 0,
       "length": 4,
-      "clue": "Atmosferi oluşturan, canlıların soluduğu renksiz ve kokusuz gaz karışımı.",
+      "clue": "Atmosferi oluşturan, canlıların soluduğu renksiz ve kokusuz gaz karışımı (4 harf) [B29-S7]",
       "answer": "HAVA"
     },
     {
@@ -183,7 +183,7 @@
       "row": 6,
       "col": 6,
       "length": 4,
-      "clue": "Bir miktarı ya da sırayı belirten; rakamlarla yazılan matematik kavramı.",
+      "clue": "Bir miktarı ya da sırayı belirten; rakamlarla yazılan matematik kavramı (4 harf) [B29-S8]",
       "answer": "SAYI"
     }
   ]

@@ -130,7 +130,7 @@
       "row": 0,
       "col": 9,
       "length": 4,
-      "clue": "Kalemin kâğıda bıraktığı; harflerden oluşan okunabilir işaretler.",
+      "clue": "Kalemin kâğıda bıraktığı; harflerden oluşan okunabilir işaretler (4 harf) [B135-S1]",
       "answer": "YAZI"
     },
     {
@@ -139,7 +139,7 @@
       "row": 1,
       "col": 3,
       "length": 5,
-      "clue": "Dinlerde iyilikle görevlendirilmiş, kanatlı olduğuna inanılan kutsal varlık.",
+      "clue": "Dinlerde iyilikle görevlendirilmiş, kanatlı olduğuna inanılan kutsal varlık (5 harf) [B135-S2]",
       "answer": "MELEK"
     },
     {
@@ -148,7 +148,7 @@
       "row": 1,
       "col": 8,
       "length": 3,
-      "clue": "Gözün hemen üstünde bulunan, yaklaşık yay biçimindeki kıl kümesi.",
+      "clue": "Gözün hemen üstünde bulunan, yaklaşık yay biçimindeki kıl kümesi (3 harf) [B135-S3]",
       "answer": "KAŞ"
     },
     {
@@ -157,7 +157,7 @@
       "row": 2,
       "col": 2,
       "length": 5,
-      "clue": "Bir varsayımı doğrulamak amacıyla yapılan, kontrollü bilimsel çalışma.",
+      "clue": "Bir varsayımı doğrulamak amacıyla yapılan, kontrollü bilimsel çalışma (5 harf) [B135-S4]",
       "answer": "DENEY"
     },
     {
@@ -166,7 +166,7 @@
       "row": 2,
       "col": 6,
       "length": 6,
-      "clue": "Bulutlardaki su damlalarının yer çekimiyle gökten yağması.",
+      "clue": "Bulutlardaki su damlalarının yer çekimiyle gökten yağması (6 harf) [B135-S5]",
       "answer": "YAĞMUR"
     },
     {
@@ -175,7 +175,7 @@
       "row": 3,
       "col": 1,
       "length": 6,
-      "clue": "Belirli bir ülkenin sınırlarında örgütlenmiş siyasi ve yönetimsel yapı.",
+      "clue": "Belirli bir ülkenin sınırlarında örgütlenmiş siyasi ve yönetimsel yapı (6 harf) [B135-S6]",
       "answer": "DEVLET"
     },
     {
@@ -184,7 +184,7 @@
       "row": 3,
       "col": 6,
       "length": 4,
-      "clue": "Mutfakta yemek pişirmeyi meslek edinmiş, lezzetten anlayan kişi.",
+      "clue": "Mutfakta yemek pişirmeyi meslek edinmiş, lezzetten anlayan kişi (4 harf) [B135-S7]",
       "answer": "AŞÇI"
     },
     {
@@ -193,7 +193,7 @@
       "row": 4,
       "col": 1,
       "length": 4,
-      "clue": "Bir sanatçının ya da yazarın ortaya koyduğu özgün yapıt.",
+      "clue": "Bir sanatçının ya da yazarın ortaya koyduğu özgün yapıt (4 harf) [B135-S8]",
       "answer": "ESER"
     },
     {
@@ -202,7 +202,7 @@
       "row": 6,
       "col": 0,
       "length": 3,
-      "clue": "Bir sıranın en başında bulunan; sondan önce hiçbir şey olmayan sırada birinci.",
+      "clue": "Bir sıranın en başında bulunan; sondan önce hiçbir şey olmayan sırada birinci (3 harf) [B135-S9]",
       "answer": "İLK"
     },
     {
@@ -211,7 +211,7 @@
       "row": 7,
       "col": 5,
       "length": 3,
-      "clue": "Çiçeklerden topladığı nektarı bala dönüştüren, iğneli küçük böcek.",
+      "clue": "Çiçeklerden topladığı nektarı bala dönüştüren, iğneli küçük böcek (3 harf) [B135-S10]",
       "answer": "ARI"
     }
   ]

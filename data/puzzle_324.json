@@ -112,7 +112,7 @@
       "row": 0,
       "col": 3,
       "length": 4,
-      "clue": "İnsanın başına habersizce gelen ağır dert, büyük sıkıntı ya da musibet.",
+      "clue": "İnsanın başına habersizce gelen ağır dert, büyük sıkıntı ya da musibet (4 harf) [B324-S1]",
       "answer": "BELA"
     },
     {
@@ -121,7 +121,7 @@
       "row": 1,
       "col": 0,
       "length": 4,
-      "clue": "Çevresindeki yapılardan çok daha yüksek olan, dar ve uzun yapı.",
+      "clue": "Çevresindeki yapılardan çok daha yüksek olan, dar ve uzun yapı (4 harf) [B324-S2]",
       "answer": "KULE"
     },
     {
@@ -130,7 +130,7 @@
       "row": 2,
       "col": 6,
       "length": 4,
-      "clue": "Başarı gösteren kimseye, çabasının karşılığı olarak verilen değerli armağan.",
+      "clue": "Başarı gösteren kimseye, çabasının karşılığı olarak verilen değerli armağan (4 harf) [B324-S3]",
       "answer": "ÖDÜL"
     },
     {
@@ -139,7 +139,7 @@
       "row": 3,
       "col": 1,
       "length": 4,
-      "clue": "Aradaki mesafenin çok olduğu; yakınlığı hissedilmeyen ötelerdeki yer.",
+      "clue": "Aradaki mesafenin çok olduğu; yakınlığı hissedilmeyen ötelerdeki yer (4 harf) [B324-S4]",
       "answer": "UZAK"
     },
     {
@@ -148,7 +148,7 @@
       "row": 3,
       "col": 4,
       "length": 5,
-      "clue": "Bir şeyin eksiksiz, kusursuz ve en üst düzeyde olgunlaşmış hali.",
+      "clue": "Bir şeyin eksiksiz, kusursuz ve en üst düzeyde olgunlaşmış hali (5 harf) [B324-S5]",
       "answer": "KEMAL"
     },
     {
@@ -157,7 +157,7 @@
       "row": 5,
       "col": 2,
       "length": 3,
-      "clue": "İçinde hiçbir şey bulunmayan, doluluğu olmayan kap ya da mekân.",
+      "clue": "İçinde hiçbir şey bulunmayan, doluluğu olmayan kap ya da mekân (3 harf) [B324-S6]",
       "answer": "BOŞ"
     },
     {
@@ -166,7 +166,7 @@
       "row": 5,
       "col": 4,
       "length": 5,
-      "clue": "İçe işleyen hafif hüzün; kimseye belli edilmeyen sessiz usanç.",
+      "clue": "İçe işleyen hafif hüzün; kimseye belli edilmeyen sessiz usanç (5 harf) [B324-S7]",
       "answer": "MELAL"
     },
     {
@@ -175,7 +175,7 @@
       "row": 5,
       "col": 7,
       "length": 4,
-      "clue": "Karşısına geçenin görüntüsünü aynen yansıtan sırlanmış cam yüzey.",
+      "clue": "Karşısına geçenin görüntüsünü aynen yansıtan sırlanmış cam yüzey (4 harf) [B324-S8]",
       "answer": "AYNA"
     },
     {
@@ -184,7 +184,7 @@
       "row": 6,
       "col": 2,
       "length": 3,
-      "clue": "İğne ya da tığla işlenen, başörtüsü kenarını süsleyen ince el işi.",
+      "clue": "İğne ya da tığla işlenen, başörtüsü kenarını süsleyen ince el işi (3 harf) [B324-S9]",
       "answer": "OYA"
     },
     {
@@ -193,7 +193,7 @@
       "row": 8,
       "col": 6,
       "length": 3,
-      "clue": "Dört mevsimin en sıcağı; okulların kapandığı, tatillerin geldiği zaman.",
+      "clue": "Dört mevsimin en sıcağı; okulların kapandığı, tatillerin geldiği zaman (3 harf) [B324-S10]",
       "answer": "YAZ"
     }
   ]

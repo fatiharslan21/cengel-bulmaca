@@ -123,7 +123,7 @@
       "row": 0,
       "col": 3,
       "length": 4,
-      "clue": "İnsanı üzen, iç sıkıntısı veren; uzun süre geçmeyen tasa ve keder.",
+      "clue": "İnsanı üzen, iç sıkıntısı veren; uzun süre geçmeyen tasa ve keder (4 harf) [B266-S1]",
       "answer": "DERT"
     },
     {
@@ -132,7 +132,7 @@
       "row": 1,
       "col": 1,
       "length": 4,
-      "clue": "Yolcuların ücret karşılığı geceyi geçirdiği, odaları olan konaklama işletmesi.",
+      "clue": "Yolcuların ücret karşılığı geceyi geçirdiği, odaları olan konaklama işletmesi (4 harf) [B266-S2]",
       "answer": "OTEL"
     },
     {
@@ -141,7 +141,7 @@
       "row": 3,
       "col": 3,
       "length": 5,
-      "clue": "Üzerinde buğday, arpa ya da sebze yetiştirilen sürülmüş geniş toprak.",
+      "clue": "Üzerinde buğday, arpa ya da sebze yetiştirilen sürülmüş geniş toprak (5 harf) [B266-S3]",
       "answer": "TARLA"
     },
     {
@@ -150,7 +150,7 @@
       "row": 3,
       "col": 4,
       "length": 4,
-      "clue": "Üzerinde yapı bulunmayan, belli sınırlarla çevrili geniş açık düzlük.",
+      "clue": "Üzerinde yapı bulunmayan, belli sınırlarla çevrili geniş açık düzlük (4 harf) [B266-S4]",
       "answer": "ALAN"
     },
     {
@@ -159,7 +159,7 @@
       "row": 5,
       "col": 0,
       "length": 5,
-      "clue": "Tekerlekleri üstünde insan ya da yük taşıyan motorlu kara taşıtı.",
+      "clue": "Tekerlekleri üstünde insan ya da yük taşıyan motorlu kara taşıtı (5 harf) [B266-S5]",
       "answer": "ARABA"
     },
     {
@@ -168,7 +168,7 @@
       "row": 5,
       "col": 2,
       "length": 5,
-      "clue": "Bir kimseye veya yere ulaşabilmek için gereken açık konum bilgisi.",
+      "clue": "Bir kimseye veya yere ulaşabilmek için gereken açık konum bilgisi (5 harf) [B266-S6]",
       "answer": "ADRES"
     },
     {
@@ -177,7 +177,7 @@
       "row": 6,
       "col": 4,
       "length": 4,
-      "clue": "Müzik eserlerinde seslerin yükseklik ve uzunluğunu gösteren küçük simge.",
+      "clue": "Müzik eserlerinde seslerin yükseklik ve uzunluğunu gösteren küçük simge (4 harf) [B266-S7]",
       "answer": "NOTA"
     },
     {
@@ -186,7 +186,7 @@
       "row": 6,
       "col": 6,
       "length": 5,
-      "clue": "Zarla ve pullarla iki kişi arasında oynanan, kahvehane kültürünün oyunu.",
+      "clue": "Zarla ve pullarla iki kişi arasında oynanan, kahvehane kültürünün oyunu (5 harf) [B266-S8]",
       "answer": "TAVLA"
     },
     {
@@ -195,7 +195,7 @@
       "row": 7,
       "col": 0,
       "length": 4,
-      "clue": "Bir evin ya da iş yerinin kullanımı için sahibine ödenen aylık ücret.",
+      "clue": "Bir evin ya da iş yerinin kullanımı için sahibine ödenen aylık ücret (4 harf) [B266-S9]",
       "answer": "KIRA"
     },
     {
@@ -204,7 +204,7 @@
       "row": 9,
       "col": 2,
       "length": 3,
-      "clue": "Başımızın derisinde biten, her birinin kökten uzayan ince tel kıl.",
+      "clue": "Başımızın derisinde biten, her birinin kökten uzayan ince tel kıl (3 harf) [B266-S10]",
       "answer": "SAÇ"
     }
   ]

@@ -145,7 +145,7 @@
       "row": 0,
       "col": 6,
       "length": 6,
-      "clue": "Belirli bir ülkenin sınırlarında örgütlenmiş siyasi ve yönetimsel yapı.",
+      "clue": "Belirli bir ülkenin sınırlarında örgütlenmiş siyasi ve yönetimsel yapı (6 harf) [B228-S1]",
       "answer": "DEVLET"
     },
     {
@@ -154,7 +154,7 @@
       "row": 3,
       "col": 2,
       "length": 5,
-      "clue": "Kat kat hamuru kremayla birleştirilen, doğum günlerinde kesilen tatlı.",
+      "clue": "Kat kat hamuru kremayla birleştirilen, doğum günlerinde kesilen tatlı (5 harf) [B228-S2]",
       "answer": "PASTA"
     },
     {
@@ -163,7 +163,7 @@
       "row": 3,
       "col": 4,
       "length": 6,
-      "clue": "Su, çay ya da başka içecekleri içmek için kullanılan küçük kap.",
+      "clue": "Su, çay ya da başka içecekleri içmek için kullanılan küçük kap (6 harf) [B228-S3]",
       "answer": "BARDAK"
     },
     {
@@ -172,7 +172,7 @@
       "row": 3,
       "col": 4,
       "length": 3,
-      "clue": "Arıların çiçeklerden topladığı nektarı işleyerek yaptığı koyu, tatlı gıda.",
+      "clue": "Arıların çiçeklerden topladığı nektarı işleyerek yaptığı koyu, tatlı gıda (3 harf) [B228-S3]",
       "answer": "BAL"
     },
     {
@@ -181,7 +181,7 @@
       "row": 4,
       "col": 1,
       "length": 4,
-      "clue": "Sobadan ateş almak ya da sıcak şeyleri tutmak için kullanılan uzun kıskaç.",
+      "clue": "Sobadan ateş almak ya da sıcak şeyleri tutmak için kullanılan uzun kıskaç (4 harf) [B228-S4]",
       "answer": "MAŞA"
     },
     {
@@ -190,7 +190,7 @@
       "row": 5,
       "col": 6,
       "length": 4,
-      "clue": "Saçı ya da kemeri tutturmaya yarayan, klips gibi açılıp kapanan küçük süs.",
+      "clue": "Saçı ya da kemeri tutturmaya yarayan, klips gibi açılıp kapanan küçük süs (4 harf) [B228-S5]",
       "answer": "TOKA"
     },
     {
@@ -199,7 +199,7 @@
       "row": 6,
       "col": 0,
       "length": 3,
-      "clue": "Bahçeyi ya da tarlayı çevreleyen, tahta veya telden yapılmış alçak engel.",
+      "clue": "Bahçeyi ya da tarlayı çevreleyen, tahta veya telden yapılmış alçak engel (3 harf) [B228-S6]",
       "answer": "ÇİT"
     },
     {
@@ -208,7 +208,7 @@
       "row": 7,
       "col": 4,
       "length": 4,
-      "clue": "Belirli bir yönde hareket eden elektrik yükü ya da suyun sürüklenişi.",
+      "clue": "Belirli bir yönde hareket eden elektrik yükü ya da suyun sürüklenişi (4 harf) [B228-S7]",
       "answer": "AKIM"
     },
     {
@@ -217,7 +217,7 @@
       "row": 7,
       "col": 7,
       "length": 4,
-      "clue": "Hayvanların otlayıp beslenmesi için ayrılmış, doğal otlarla kaplı geniş alan.",
+      "clue": "Hayvanların otlayıp beslenmesi için ayrılmış, doğal otlarla kaplı geniş alan (4 harf) [B228-S8]",
       "answer": "MERA"
     },
     {
@@ -226,7 +226,7 @@
       "row": 10,
       "col": 6,
       "length": 3,
-      "clue": "Damarlarda dolaşarak vücuda oksijen taşıyan kırmızı renkli canlı sıvı.",
+      "clue": "Damarlarda dolaşarak vücuda oksijen taşıyan kırmızı renkli canlı sıvı (3 harf) [B228-S9]",
       "answer": "KAN"
     }
   ]

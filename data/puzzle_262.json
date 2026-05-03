@@ -167,7 +167,7 @@
       "row": 0,
       "col": 1,
       "length": 4,
-      "clue": "Anlaşılmayan bir konuyu açık bir dille anlatma; aydınlatıcı açıklama.",
+      "clue": "Anlaşılmayan bir konuyu açık bir dille anlatma; aydınlatıcı açıklama (4 harf) [B262-S1]",
       "answer": "İZAH"
     },
     {
@@ -176,7 +176,7 @@
       "row": 1,
       "col": 3,
       "length": 5,
-      "clue": "Bir kimsenin bir şey için yaptığı istek; dile getirilen açık dilek.",
+      "clue": "Bir kimsenin bir şey için yaptığı istek; dile getirilen açık dilek (5 harf) [B262-S2]",
       "answer": "TALEP"
     },
     {
@@ -185,7 +185,7 @@
       "row": 2,
       "col": 0,
       "length": 4,
-      "clue": "Ayıp sayılan bir şey karşısında insanın yüzünü kızartan çekinme duygusu.",
+      "clue": "Ayıp sayılan bir şey karşısında insanın yüzünü kızartan çekinme duygusu (4 harf) [B262-S3]",
       "answer": "HAYA"
     },
     {
@@ -194,7 +194,7 @@
       "row": 3,
       "col": 5,
       "length": 5,
-      "clue": "Sonu kötü olabilecek; durumun ne kadar ağır olduğunu gösteren sıfat.",
+      "clue": "Sonu kötü olabilecek; durumun ne kadar ağır olduğunu gösteren sıfat (5 harf) [B262-S4]",
       "answer": "VAHİM"
     },
     {
@@ -203,7 +203,7 @@
       "row": 4,
       "col": 2,
       "length": 5,
-      "clue": "Bir şeyin eksiksiz, kusursuz ve en üst düzeyde olgunlaşmış hali.",
+      "clue": "Bir şeyin eksiksiz, kusursuz ve en üst düzeyde olgunlaşmış hali (5 harf) [B262-S5]",
       "answer": "KEMAL"
     },
     {
@@ -212,7 +212,7 @@
       "row": 5,
       "col": 7,
       "length": 6,
-      "clue": "Bir toplantıda ya da günde ele alınacak konuların sıralı listesi.",
+      "clue": "Bir toplantıda ya da günde ele alınacak konuların sıralı listesi (6 harf) [B262-S6]",
       "answer": "GÜNDEM"
     },
     {
@@ -221,7 +221,7 @@
       "row": 7,
       "col": 3,
       "length": 5,
-      "clue": "Geniş bir alana yayılmış, iç içe büyümüş ağaçlardan oluşan doğal yaşam.",
+      "clue": "Geniş bir alana yayılmış, iç içe büyümüş ağaçlardan oluşan doğal yaşam (5 harf) [B262-S7]",
       "answer": "ORMAN"
     },
     {
@@ -230,7 +230,7 @@
       "row": 7,
       "col": 10,
       "length": 4,
-      "clue": "Bir yüzeye sürüldüğünde ona istenilen rengi veren sıvı ya da toz madde.",
+      "clue": "Bir yüzeye sürüldüğünde ona istenilen rengi veren sıvı ya da toz madde (4 harf) [B262-S8]",
       "answer": "BOYA"
     },
     {
@@ -239,7 +239,7 @@
       "row": 9,
       "col": 5,
       "length": 3,
-      "clue": "Metal ya da tırnak gibi sert yüzeyleri aşındırarak düzelten dişli alet.",
+      "clue": "Metal ya da tırnak gibi sert yüzeyleri aşındırarak düzelten dişli alet (3 harf) [B262-S9]",
       "answer": "EĞE"
     },
     {
@@ -248,7 +248,7 @@
       "row": 10,
       "col": 7,
       "length": 5,
-      "clue": "Anlatılanı somutlaştırmak için verilen örnek; kıyas noktası.",
+      "clue": "Anlatılanı somutlaştırmak için verilen örnek; kıyas noktası (5 harf) [B262-S10]",
       "answer": "MİSAL"
     }
   ]

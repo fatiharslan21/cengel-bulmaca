@@ -123,7 +123,7 @@
       "row": 0,
       "col": 3,
       "length": 4,
-      "clue": "Yeni durumlara hızla uyum sağlayıp doğru kararlar verebilme yeteneği.",
+      "clue": "Yeni durumlara hızla uyum sağlayıp doğru kararlar verebilme yeteneği (4 harf) [B183-S1]",
       "answer": "ZEKA"
     },
     {
@@ -132,7 +132,7 @@
       "row": 1,
       "col": 2,
       "length": 3,
-      "clue": "Göğüs kafesi ile kalçalar arasında kalan, vücudun orta kısmı.",
+      "clue": "Göğüs kafesi ile kalçalar arasında kalan, vücudun orta kısmı (3 harf) [B183-S2]",
       "answer": "BEL"
     },
     {
@@ -141,7 +141,7 @@
       "row": 3,
       "col": 2,
       "length": 3,
-      "clue": "Toprağın içinden çıkan, sert ve ağır olan doğal kayaç parçası.",
+      "clue": "Toprağın içinden çıkan, sert ve ağır olan doğal kayaç parçası (3 harf) [B183-S3]",
       "answer": "TAŞ"
     },
     {
@@ -150,7 +150,7 @@
       "row": 3,
       "col": 2,
       "length": 5,
-      "clue": "Yelkenli ya da motorlu olup denizde kısa yolculuklara çıkan küçük gemi.",
+      "clue": "Yelkenli ya da motorlu olup denizde kısa yolculuklara çıkan küçük gemi (5 harf) [B183-S3]",
       "answer": "TEKNE"
     },
     {
@@ -159,7 +159,7 @@
       "row": 5,
       "col": 0,
       "length": 4,
-      "clue": "Gömleğin boynu çevreleyen üst kısmı; ceketin de boyuna değen kenarı.",
+      "clue": "Gömleğin boynu çevreleyen üst kısmı; ceketin de boyuna değen kenarı (4 harf) [B183-S4]",
       "answer": "YAKA"
     },
     {
@@ -168,7 +168,7 @@
       "row": 6,
       "col": 6,
       "length": 3,
-      "clue": "Bir işin ya da sürecin bittiği nokta; final ve kapanış anı.",
+      "clue": "Bir işin ya da sürecin bittiği nokta; final ve kapanış anı (3 harf) [B183-S5]",
       "answer": "SON"
     },
     {
@@ -177,7 +177,7 @@
       "row": 6,
       "col": 7,
       "length": 4,
-      "clue": "Öğrencilerin öğretmenler tarafından eğitim aldığı resmî öğretim kurumu.",
+      "clue": "Öğrencilerin öğretmenler tarafından eğitim aldığı resmî öğretim kurumu (4 harf) [B183-S6]",
       "answer": "OKUL"
     },
     {
@@ -186,7 +186,7 @@
       "row": 7,
       "col": 1,
       "length": 5,
-      "clue": "Dinlerde iyilikle görevlendirilmiş, kanatlı olduğuna inanılan kutsal varlık.",
+      "clue": "Dinlerde iyilikle görevlendirilmiş, kanatlı olduğuna inanılan kutsal varlık (5 harf) [B183-S7]",
       "answer": "MELEK"
     },
     {
@@ -195,7 +195,7 @@
       "row": 7,
       "col": 5,
       "length": 3,
-      "clue": "Gövdesi tüylerle kaplı, kanatları yardımıyla uçabilen yumurtlayan canlı.",
+      "clue": "Gövdesi tüylerle kaplı, kanatları yardımıyla uçabilen yumurtlayan canlı (3 harf) [B183-S8]",
       "answer": "KUŞ"
     },
     {
@@ -204,7 +204,7 @@
       "row": 8,
       "col": 5,
       "length": 3,
-      "clue": "Yüceliğiyle saygı uyandıran; hem büyük hem görkemli olan varlık.",
+      "clue": "Yüceliğiyle saygı uyandıran; hem büyük hem görkemli olan varlık (3 harf) [B183-S9]",
       "answer": "ULU"
     }
   ]

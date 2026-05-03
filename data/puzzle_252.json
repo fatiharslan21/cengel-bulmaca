@@ -123,7 +123,7 @@
       "row": 0,
       "col": 4,
       "length": 4,
-      "clue": "Bir sınavda ya da yarışmada başarıya göre verilen sayısal değerlendirme.",
+      "clue": "Bir sınavda ya da yarışmada başarıya göre verilen sayısal değerlendirme (4 harf) [B252-S1]",
       "answer": "PUAN"
     },
     {
@@ -132,7 +132,7 @@
       "row": 0,
       "col": 7,
       "length": 6,
-      "clue": "Bir kişinin emeğini ya da başarısını görüp açıkça beğenip övme.",
+      "clue": "Bir kişinin emeğini ya da başarısını görüp açıkça beğenip övme (6 harf) [B252-S2]",
       "answer": "TAKDİR"
     },
     {
@@ -141,7 +141,7 @@
       "row": 1,
       "col": 3,
       "length": 5,
-      "clue": "Düğünlerde davulla birlikte çalınan, ince tiz sesli üflemeli halk çalgısı.",
+      "clue": "Düğünlerde davulla birlikte çalınan, ince tiz sesli üflemeli halk çalgısı (5 harf) [B252-S3]",
       "answer": "ZURNA"
     },
     {
@@ -150,7 +150,7 @@
       "row": 3,
       "col": 2,
       "length": 4,
-      "clue": "Bir tarafı yapışkan olan, eşyaları tutturmaya yarayan uzun ince şerit.",
+      "clue": "Bir tarafı yapışkan olan, eşyaları tutturmaya yarayan uzun ince şerit (4 harf) [B252-S4]",
       "answer": "BANT"
     },
     {
@@ -159,7 +159,7 @@
       "row": 3,
       "col": 3,
       "length": 3,
-      "clue": "Eskiden köylerde geniş topraklara sahip, sözü geçen nüfuzlu kişi.",
+      "clue": "Eskiden köylerde geniş topraklara sahip, sözü geçen nüfuzlu kişi (3 harf) [B252-S5]",
       "answer": "AĞA"
     },
     {
@@ -168,7 +168,7 @@
       "row": 4,
       "col": 1,
       "length": 5,
-      "clue": "İnsanın içini burkan, uzun süre geçmeyen derin üzüntü hali.",
+      "clue": "İnsanın içini burkan, uzun süre geçmeyen derin üzüntü hali (5 harf) [B252-S6]",
       "answer": "KEDER"
     },
     {
@@ -177,7 +177,7 @@
       "row": 5,
       "col": 0,
       "length": 4,
-      "clue": "Dostluğunu ve sevgisini zaman geçse bile sürdürme; söze sadakat.",
+      "clue": "Dostluğunu ve sevgisini zaman geçse bile sürdürme; söze sadakat (4 harf) [B252-S7]",
       "answer": "VEFA"
     },
     {
@@ -186,7 +186,7 @@
       "row": 7,
       "col": 1,
       "length": 4,
-      "clue": "Yetkili bir kimsenin yerine getirilmek üzere verdiği kesin buyruk.",
+      "clue": "Yetkili bir kimsenin yerine getirilmek üzere verdiği kesin buyruk (4 harf) [B252-S8]",
       "answer": "EMİR"
     },
     {
@@ -195,7 +195,7 @@
       "row": 7,
       "col": 3,
       "length": 4,
-      "clue": "Hastalıkları iyileştirmek amacıyla hazırlanan, doktor tarafından verilen madde.",
+      "clue": "Hastalıkları iyileştirmek amacıyla hazırlanan, doktor tarafından verilen madde (4 harf) [B252-S9]",
       "answer": "İLAÇ"
     },
     {
@@ -204,7 +204,7 @@
       "row": 9,
       "col": 2,
       "length": 4,
-      "clue": "Katlanabilen küçük bıçak; çoğunlukla cepte taşınan, sivri uçlu el aleti.",
+      "clue": "Katlanabilen küçük bıçak; çoğunlukla cepte taşınan, sivri uçlu el aleti (4 harf) [B252-S10]",
       "answer": "ÇAKI"
     }
   ]

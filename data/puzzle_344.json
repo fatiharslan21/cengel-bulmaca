@@ -156,7 +156,7 @@
       "row": 0,
       "col": 6,
       "length": 6,
-      "clue": "Yakalı, düğmeli ve kollu olan, üstten giyilen ince kumaş giysi.",
+      "clue": "Yakalı, düğmeli ve kollu olan, üstten giyilen ince kumaş giysi (6 harf) [B344-S1]",
       "answer": "GÖMLEK"
     },
     {
@@ -165,7 +165,7 @@
       "row": 1,
       "col": 6,
       "length": 4,
-      "clue": "Bir eşyanın ya da yüzeyin üstünü kapatmak için serilen kumaş parçası.",
+      "clue": "Bir eşyanın ya da yüzeyin üstünü kapatmak için serilen kumaş parçası (4 harf) [B344-S2]",
       "answer": "ÖRTÜ"
     },
     {
@@ -174,7 +174,7 @@
       "row": 2,
       "col": 4,
       "length": 3,
-      "clue": "Elin iç tarafı; parmakların bittiği yerden bileğe kadar uzanan bölüm.",
+      "clue": "Elin iç tarafı; parmakların bittiği yerden bileğe kadar uzanan bölüm (3 harf) [B344-S3]",
       "answer": "AYA"
     },
     {
@@ -183,7 +183,7 @@
       "row": 3,
       "col": 8,
       "length": 4,
-      "clue": "Birini aldatmak için yapılan gizli düzen; dolap çevirme.",
+      "clue": "Birini aldatmak için yapılan gizli düzen; dolap çevirme (4 harf) [B344-S4]",
       "answer": "HİLE"
     },
     {
@@ -192,7 +192,7 @@
       "row": 4,
       "col": 3,
       "length": 5,
-      "clue": "Alçakgönüllülükle yapılan yalvarış; Tanrı'dan dilenen istek.",
+      "clue": "Alçakgönüllülükle yapılan yalvarış; Tanrı'dan dilenen istek (5 harf) [B344-S5]",
       "answer": "NİYAZ"
     },
     {
@@ -201,7 +201,7 @@
       "row": 4,
       "col": 3,
       "length": 4,
-      "clue": "Serinletici kokusuyla tanınan, çaya ve yemeklere katılan yeşil yapraklı ot.",
+      "clue": "Serinletici kokusuyla tanınan, çaya ve yemeklere katılan yeşil yapraklı ot (4 harf) [B344-S5]",
       "answer": "NANE"
     },
     {
@@ -210,7 +210,7 @@
       "row": 5,
       "col": 6,
       "length": 5,
-      "clue": "Ağızdan çıkan söz; düşüncenin dille ifade bulmuş hali.",
+      "clue": "Ağızdan çıkan söz; düşüncenin dille ifade bulmuş hali (5 harf) [B344-S6]",
       "answer": "KELAM"
     },
     {
@@ -219,7 +219,7 @@
       "row": 6,
       "col": 3,
       "length": 3,
-      "clue": "Bitkilerden ya da hayvanlardan elde edilen; suda çözünmeyen kaygan madde.",
+      "clue": "Bitkilerden ya da hayvanlardan elde edilen; suda çözünmeyen kaygan madde (3 harf) [B344-S7]",
       "answer": "YAĞ"
     },
     {
@@ -228,7 +228,7 @@
       "row": 7,
       "col": 1,
       "length": 4,
-      "clue": "Boyu kısa, dalları sık ve odunsu olan, çok dallı bodur bitki.",
+      "clue": "Boyu kısa, dalları sık ve odunsu olan, çok dallı bodur bitki (4 harf) [B344-S8]",
       "answer": "ÇALI"
     },
     {
@@ -237,7 +237,7 @@
       "row": 8,
       "col": 0,
       "length": 4,
-      "clue": "Dinde kesinlikle yerine getirilmesi emredilen, zorunlu olan yükümlülük.",
+      "clue": "Dinde kesinlikle yerine getirilmesi emredilen, zorunlu olan yükümlülük (4 harf) [B344-S9]",
       "answer": "FARZ"
     }
   ]

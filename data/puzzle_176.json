@@ -130,7 +130,7 @@
       "row": 0,
       "col": 6,
       "length": 4,
-      "clue": "Bir yarışmanın galibine ödül olarak verilen, ayaklı madeni kadeh.",
+      "clue": "Bir yarışmanın galibine ödül olarak verilen, ayaklı madeni kadeh (4 harf) [B176-S1]",
       "answer": "KUPA"
     },
     {
@@ -139,7 +139,7 @@
       "row": 0,
       "col": 8,
       "length": 3,
-      "clue": "Suyun sıfır derecenin altına inerek katılaşmasıyla meydana gelen madde.",
+      "clue": "Suyun sıfır derecenin altına inerek katılaşmasıyla meydana gelen madde (3 harf) [B176-S2]",
       "answer": "BUZ"
     },
     {
@@ -148,7 +148,7 @@
       "row": 0,
       "col": 8,
       "length": 4,
-      "clue": "Gökyüzündeki yıldız öbeklerinin oluşturduğu, astrolojide kullanılan imge.",
+      "clue": "Gökyüzündeki yıldız öbeklerinin oluşturduğu, astrolojide kullanılan imge (4 harf) [B176-S2]",
       "answer": "BURÇ"
     },
     {
@@ -157,7 +157,7 @@
       "row": 1,
       "col": 3,
       "length": 4,
-      "clue": "İçine eşya konulan, çoğu zaman kapağı olan, dikdörtgen ya da kare biçimli hazne.",
+      "clue": "İçine eşya konulan, çoğu zaman kapağı olan, dikdörtgen ya da kare biçimli hazne (4 harf) [B176-S3]",
       "answer": "KUTU"
     },
     {
@@ -166,7 +166,7 @@
       "row": 2,
       "col": 6,
       "length": 4,
-      "clue": "Şehir içinde insanların dinlenip yürüdüğü, ağaçlıklı kamusal yeşil alan.",
+      "clue": "Şehir içinde insanların dinlenip yürüdüğü, ağaçlıklı kamusal yeşil alan (4 harf) [B176-S4]",
       "answer": "PARK"
     },
     {
@@ -175,7 +175,7 @@
       "row": 3,
       "col": 2,
       "length": 5,
-      "clue": "Bir cümlenin sonuna konan en küçük yazı işareti; konumun kendisi.",
+      "clue": "Bir cümlenin sonuna konan en küçük yazı işareti; konumun kendisi (5 harf) [B176-S5]",
       "answer": "NOKTA"
     },
     {
@@ -184,7 +184,7 @@
       "row": 3,
       "col": 4,
       "length": 5,
-      "clue": "Ucundan mürekkep ya da grafit akıtarak kâğıda yazı yazmayı sağlayan araç.",
+      "clue": "Ucundan mürekkep ya da grafit akıtarak kâğıda yazı yazmayı sağlayan araç (5 harf) [B176-S6]",
       "answer": "KALEM"
     },
     {
@@ -193,7 +193,7 @@
       "row": 5,
       "col": 1,
       "length": 5,
-      "clue": "İp ya da parmaklarla oynatılan, tiyatro sahnesinde canlanan figürlü bebek.",
+      "clue": "İp ya da parmaklarla oynatılan, tiyatro sahnesinde canlanan figürlü bebek (5 harf) [B176-S7]",
       "answer": "KUKLA"
     },
     {
@@ -202,7 +202,7 @@
       "row": 5,
       "col": 1,
       "length": 4,
-      "clue": "İki duvarın ya da iki kenarın birleştiği noktada oluşan açılı yer.",
+      "clue": "İki duvarın ya da iki kenarın birleştiği noktada oluşan açılı yer (4 harf) [B176-S7]",
       "answer": "KÖŞE"
     },
     {
@@ -211,7 +211,7 @@
       "row": 8,
       "col": 0,
       "length": 3,
-      "clue": "Göğüs kafesi ile kalçalar arasında kalan, vücudun orta kısmı.",
+      "clue": "Göğüs kafesi ile kalçalar arasında kalan, vücudun orta kısmı (3 harf) [B176-S8]",
       "answer": "BEL"
     }
   ]

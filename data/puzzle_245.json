@@ -156,7 +156,7 @@
       "row": 0,
       "col": 10,
       "length": 5,
-      "clue": "Üzerinde buğday, arpa ya da sebze yetiştirilen sürülmüş geniş toprak.",
+      "clue": "Üzerinde buğday, arpa ya da sebze yetiştirilen sürülmüş geniş toprak (5 harf) [B245-S1]",
       "answer": "TARLA"
     },
     {
@@ -165,7 +165,7 @@
       "row": 2,
       "col": 3,
       "length": 4,
-      "clue": "Akrep, yelkovan ve rakamlarla anı gösteren; zamanı ölçen günlük araç.",
+      "clue": "Akrep, yelkovan ve rakamlarla anı gösteren; zamanı ölçen günlük araç (4 harf) [B245-S2]",
       "answer": "SAAT"
     },
     {
@@ -174,7 +174,7 @@
       "row": 3,
       "col": 1,
       "length": 4,
-      "clue": "Sıkıntılı ya da zor bir durumu ortadan kaldıracak çözüm yolu.",
+      "clue": "Sıkıntılı ya da zor bir durumu ortadan kaldıracak çözüm yolu (4 harf) [B245-S3]",
       "answer": "ÇARE"
     },
     {
@@ -183,7 +183,7 @@
       "row": 3,
       "col": 6,
       "length": 4,
-      "clue": "Hastalıkları iyileştirmek amacıyla hazırlanan, doktor tarafından verilen madde.",
+      "clue": "Hastalıkları iyileştirmek amacıyla hazırlanan, doktor tarafından verilen madde (4 harf) [B245-S4]",
       "answer": "İLAÇ"
     },
     {
@@ -192,7 +192,7 @@
       "row": 4,
       "col": 0,
       "length": 4,
-      "clue": "Siyah beyaz karelere yerleştirilen taşlarla iki kişi arasında oynanan oyun.",
+      "clue": "Siyah beyaz karelere yerleştirilen taşlarla iki kişi arasında oynanan oyun (4 harf) [B245-S5]",
       "answer": "DAMA"
     },
     {
@@ -201,7 +201,7 @@
       "row": 4,
       "col": 6,
       "length": 5,
-      "clue": "İçindeki ampulle çalışan, karanlık odayı aydınlatan elektrikli araç.",
+      "clue": "İçindeki ampulle çalışan, karanlık odayı aydınlatan elektrikli araç (5 harf) [B245-S6]",
       "answer": "LAMBA"
     },
     {
@@ -210,7 +210,7 @@
       "row": 5,
       "col": 3,
       "length": 4,
-      "clue": "Saçı ya da kemeri tutturmaya yarayan, klips gibi açılıp kapanan küçük süs.",
+      "clue": "Saçı ya da kemeri tutturmaya yarayan, klips gibi açılıp kapanan küçük süs (4 harf) [B245-S7]",
       "answer": "TOKA"
     },
     {
@@ -219,7 +219,7 @@
       "row": 5,
       "col": 4,
       "length": 6,
-      "clue": "Şehir içinde ya da dışında birçok yolcuyu bir arada taşıyan büyük araç.",
+      "clue": "Şehir içinde ya da dışında birçok yolcuyu bir arada taşıyan büyük araç (6 harf) [B245-S8]",
       "answer": "OTOBÜS"
     },
     {
@@ -228,7 +228,7 @@
       "row": 6,
       "col": 6,
       "length": 5,
-      "clue": "Geniş yaprakları ve kalın gövdesiyle yüzyıllarca yaşayabilen büyük ağaç.",
+      "clue": "Geniş yaprakları ve kalın gövdesiyle yüzyıllarca yaşayabilen büyük ağaç (5 harf) [B245-S9]",
       "answer": "ÇINAR"
     },
     {
@@ -237,7 +237,7 @@
       "row": 8,
       "col": 4,
       "length": 3,
-      "clue": "İnsanın boynundan yukarısı, beynin ve yüzün bulunduğu vücut bölümü.",
+      "clue": "İnsanın boynundan yukarısı, beynin ve yüzün bulunduğu vücut bölümü (3 harf) [B245-S10]",
       "answer": "BAŞ"
     }
   ]

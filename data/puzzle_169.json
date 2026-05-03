@@ -97,7 +97,7 @@
       "row": 0,
       "col": 3,
       "length": 5,
-      "clue": "Bilinmeyen bir şeyi öğrenmek için insanın içine düşen güçlü istek.",
+      "clue": "Bilinmeyen bir şeyi öğrenmek için insanın içine düşen güçlü istek (5 harf) [B169-S1]",
       "answer": "MERAK"
     },
     {
@@ -106,7 +106,7 @@
       "row": 0,
       "col": 7,
       "length": 3,
-      "clue": "Yapının üstünü kapatan, yağmurdan ve güneşten koruyan çatı kısmı.",
+      "clue": "Yapının üstünü kapatan, yağmurdan ve güneşten koruyan çatı kısmı (3 harf) [B169-S2]",
       "answer": "DAM"
     },
     {
@@ -115,7 +115,7 @@
       "row": 1,
       "col": 0,
       "length": 4,
-      "clue": "Güneşin batmasından doğmasına kadar süren karanlık zaman dilimi.",
+      "clue": "Güneşin batmasından doğmasına kadar süren karanlık zaman dilimi (4 harf) [B169-S3]",
       "answer": "GECE"
     },
     {
@@ -124,7 +124,7 @@
       "row": 1,
       "col": 5,
       "length": 4,
-      "clue": "Suç işleyen kimseye, yaptığının karşılığı olarak verilen yaptırım.",
+      "clue": "Suç işleyen kimseye, yaptığının karşılığı olarak verilen yaptırım (4 harf) [B169-S4]",
       "answer": "CEZA"
     },
     {
@@ -133,7 +133,7 @@
       "row": 2,
       "col": 5,
       "length": 5,
-      "clue": "Doğada bulunan en sert madde; takılarda kullanılan değerli kıymetli taş.",
+      "clue": "Doğada bulunan en sert madde; takılarda kullanılan değerli kıymetli taş (5 harf) [B169-S5]",
       "answer": "ELMAS"
     },
     {
@@ -142,7 +142,7 @@
       "row": 2,
       "col": 9,
       "length": 5,
-      "clue": "Güneşin doğmasıyla başlayıp öğleye kadar süren günün ilk dilimi.",
+      "clue": "Güneşin doğmasıyla başlayıp öğleye kadar süren günün ilk dilimi (5 harf) [B169-S6]",
       "answer": "SABAH"
     },
     {
@@ -151,7 +151,7 @@
       "row": 3,
       "col": 1,
       "length": 4,
-      "clue": "Yeni toplanmış, bayatlamamış; canlılığını yeni yeni yitirmemiş olan.",
+      "clue": "Yeni toplanmış, bayatlamamış; canlılığını yeni yeni yitirmemiş olan (4 harf) [B169-S7]",
       "answer": "TAZE"
     },
     {
@@ -160,7 +160,7 @@
       "row": 3,
       "col": 3,
       "length": 3,
-      "clue": "Bir üstün ya da yetkilinin önüne saygıyla sunma, takdim etme eylemi.",
+      "clue": "Bir üstün ya da yetkilinin önüne saygıyla sunma, takdim etme eylemi (3 harf) [B169-S8]",
       "answer": "ARZ"
     },
     {
@@ -169,7 +169,7 @@
       "row": 4,
       "col": 0,
       "length": 4,
-      "clue": "İki şeyin birbirinden ayrıldığı yön; aralarındaki benzemezlik.",
+      "clue": "İki şeyin birbirinden ayrıldığı yön; aralarındaki benzemezlik (4 harf) [B169-S9]",
       "answer": "FARK"
     },
     {
@@ -178,7 +178,7 @@
       "row": 5,
       "col": 6,
       "length": 4,
-      "clue": "Saçı ya da kemeri tutturmaya yarayan, klips gibi açılıp kapanan küçük süs.",
+      "clue": "Saçı ya da kemeri tutturmaya yarayan, klips gibi açılıp kapanan küçük süs (4 harf) [B169-S10]",
       "answer": "TOKA"
     }
   ]

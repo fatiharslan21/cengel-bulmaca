@@ -157,7 +157,7 @@
       "row": 0,
       "col": 6,
       "length": 5,
-      "clue": "Suda yaşayan, solungaçlarıyla soluyan, yüzgeçleriyle hareket eden canlı.",
+      "clue": "Suda yaşayan, solungaçlarıyla soluyan, yüzgeçleriyle hareket eden canlı (5 harf) [B59-S1]",
       "answer": "BALIK"
     },
     {
@@ -166,7 +166,7 @@
       "row": 2,
       "col": 4,
       "length": 5,
-      "clue": "İçindeki eşyayı korumak için ambalajlanmış, kâğıt ya da karton sargılı koli.",
+      "clue": "İçindeki eşyayı korumak için ambalajlanmış, kâğıt ya da karton sargılı koli (5 harf) [B59-S2]",
       "answer": "PAKET"
     },
     {
@@ -175,7 +175,7 @@
       "row": 3,
       "col": 3,
       "length": 4,
-      "clue": "Bir miktarı ya da sırayı belirten; rakamlarla yazılan matematik kavramı.",
+      "clue": "Bir miktarı ya da sırayı belirten; rakamlarla yazılan matematik kavramı (4 harf) [B59-S3]",
       "answer": "SAYI"
     },
     {
@@ -184,7 +184,7 @@
       "row": 4,
       "col": 6,
       "length": 4,
-      "clue": "Bir evin ya da iş yerinin kullanımı için sahibine ödenen aylık ücret.",
+      "clue": "Bir evin ya da iş yerinin kullanımı için sahibine ödenen aylık ücret (4 harf) [B59-S4]",
       "answer": "KIRA"
     },
     {
@@ -193,7 +193,7 @@
       "row": 6,
       "col": 0,
       "length": 5,
-      "clue": "Bir cismin uzunluk, genişlik ve yükseklik gibi ölçülebilen özelliği.",
+      "clue": "Bir cismin uzunluk, genişlik ve yükseklik gibi ölçülebilen özelliği (5 harf) [B59-S5]",
       "answer": "BOYUT"
     },
     {
@@ -202,7 +202,7 @@
       "row": 6,
       "col": 1,
       "length": 3,
-      "clue": "İğne ya da tığla işlenen, başörtüsü kenarını süsleyen ince el işi.",
+      "clue": "İğne ya da tığla işlenen, başörtüsü kenarını süsleyen ince el işi (3 harf) [B59-S6]",
       "answer": "OYA"
     },
     {
@@ -211,7 +211,7 @@
       "row": 8,
       "col": 0,
       "length": 4,
-      "clue": "Beyazın tam zıttı olan, gölgeleri bile koyulaştıran siyah ton.",
+      "clue": "Beyazın tam zıttı olan, gölgeleri bile koyulaştıran siyah ton (4 harf) [B59-S7]",
       "answer": "KARA"
     },
     {
@@ -220,7 +220,7 @@
       "row": 8,
       "col": 0,
       "length": 4,
-      "clue": "Çorba, salata ya da yoğurt konulan, yuvarlak ve çukur küçük yemek kabı.",
+      "clue": "Çorba, salata ya da yoğurt konulan, yuvarlak ve çukur küçük yemek kabı (4 harf) [B59-S7]",
       "answer": "KASE"
     },
     {
@@ -229,7 +229,7 @@
       "row": 8,
       "col": 3,
       "length": 4,
-      "clue": "Belirli bir yönde hareket eden elektrik yükü ya da suyun sürüklenişi.",
+      "clue": "Belirli bir yönde hareket eden elektrik yükü ya da suyun sürüklenişi (4 harf) [B59-S8]",
       "answer": "AKIM"
     }
   ]

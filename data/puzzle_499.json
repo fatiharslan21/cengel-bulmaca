@@ -125,7 +125,7 @@
       "row": 0,
       "col": 2,
       "length": 3,
-      "clue": "Yüceliğiyle saygı uyandıran; hem büyük hem görkemli olan varlık.",
+      "clue": "Yüceliğiyle saygı uyandıran; hem büyük hem görkemli olan varlık (3 harf) [B499-S1]",
       "answer": "ULU"
     },
     {
@@ -134,7 +134,7 @@
       "row": 1,
       "col": 0,
       "length": 5,
-      "clue": "Işığın önüne bir cisim girince arkasında oluşan karanlık alan.",
+      "clue": "Işığın önüne bir cisim girince arkasında oluşan karanlık alan (5 harf) [B499-S2]",
       "answer": "GÖLGE"
     },
     {
@@ -143,7 +143,7 @@
       "row": 1,
       "col": 4,
       "length": 4,
-      "clue": "Evde ya da iş yerinde gündelik hayatta kullanılan nesnelerin tümü.",
+      "clue": "Evde ya da iş yerinde gündelik hayatta kullanılan nesnelerin tümü (4 harf) [B499-S3]",
       "answer": "EŞYA"
     },
     {
@@ -152,7 +152,7 @@
       "row": 1,
       "col": 7,
       "length": 5,
-      "clue": "Bir şeyin anlamını kavrama; olup biteni zihinde anlamlandırma yeteneği.",
+      "clue": "Bir şeyin anlamını kavrama; olup biteni zihinde anlamlandırma yeteneği (5 harf) [B499-S4]",
       "answer": "İDRAK"
     },
     {
@@ -161,7 +161,7 @@
       "row": 1,
       "col": 10,
       "length": 4,
-      "clue": "Mutfakta yemek pişirmeyi meslek edinmiş, lezzetten anlayan kişi.",
+      "clue": "Mutfakta yemek pişirmeyi meslek edinmiş, lezzetten anlayan kişi (4 harf) [B499-S5]",
       "answer": "AŞÇI"
     },
     {
@@ -170,7 +170,7 @@
       "row": 3,
       "col": 7,
       "length": 4,
-      "clue": "Birinin ya da bir şeyin kolayca etkilenebileceği zayıf noktası.",
+      "clue": "Birinin ya da bir şeyin kolayca etkilenebileceği zayıf noktası (4 harf) [B499-S6]",
       "answer": "ZAAF"
     },
     {
@@ -179,7 +179,7 @@
       "row": 4,
       "col": 2,
       "length": 4,
-      "clue": "Akrep, yelkovan ve rakamlarla anı gösteren; zamanı ölçen günlük araç.",
+      "clue": "Akrep, yelkovan ve rakamlarla anı gösteren; zamanı ölçen günlük araç (4 harf) [B499-S7]",
       "answer": "SAAT"
     },
     {
@@ -188,7 +188,7 @@
       "row": 4,
       "col": 5,
       "length": 4,
-      "clue": "Anadolu ve çevresinde yaşayan, Orta Asya kökenli büyük millet.",
+      "clue": "Anadolu ve çevresinde yaşayan, Orta Asya kökenli büyük millet (4 harf) [B499-S8]",
       "answer": "TÜRK"
     },
     {
@@ -197,7 +197,7 @@
       "row": 4,
       "col": 7,
       "length": 4,
-      "clue": "Kırda ya da ormanda silahla veya tuzakla av peşinde koşan kişi.",
+      "clue": "Kırda ya da ormanda silahla veya tuzakla av peşinde koşan kişi (4 harf) [B499-S9]",
       "answer": "AVCI"
     },
     {
@@ -206,7 +206,7 @@
       "row": 6,
       "col": 3,
       "length": 5,
-      "clue": "Toplumun kişiye duyduğu saygı; alnı ak olma halinin verdiği onur.",
+      "clue": "Toplumun kişiye duyduğu saygı; alnı ak olma halinin verdiği onur (5 harf) [B499-S10]",
       "answer": "ŞEREF"
     }
   ]

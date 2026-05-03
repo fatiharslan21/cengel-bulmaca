@@ -101,7 +101,7 @@
       "row": 0,
       "col": 5,
       "length": 4,
-      "clue": "Yetkili bir kimsenin yerine getirilmek üzere verdiği kesin buyruk.",
+      "clue": "Yetkili bir kimsenin yerine getirilmek üzere verdiği kesin buyruk (4 harf) [B106-S1]",
       "answer": "EMİR"
     },
     {
@@ -110,7 +110,7 @@
       "row": 2,
       "col": 1,
       "length": 4,
-      "clue": "Sayılabilen nesnelerin her biri; küçük parça ya da adet.",
+      "clue": "Sayılabilen nesnelerin her biri; küçük parça ya da adet (4 harf) [B106-S2]",
       "answer": "TANE"
     },
     {
@@ -119,7 +119,7 @@
       "row": 3,
       "col": 4,
       "length": 4,
-      "clue": "Bir eşyanın ya da yüzeyin üstünü kapatmak için serilen kumaş parçası.",
+      "clue": "Bir eşyanın ya da yüzeyin üstünü kapatmak için serilen kumaş parçası (4 harf) [B106-S3]",
       "answer": "ÖRTÜ"
     },
     {
@@ -128,7 +128,7 @@
       "row": 3,
       "col": 6,
       "length": 4,
-      "clue": "Saçı ya da kemeri tutturmaya yarayan, klips gibi açılıp kapanan küçük süs.",
+      "clue": "Saçı ya da kemeri tutturmaya yarayan, klips gibi açılıp kapanan küçük süs (4 harf) [B106-S4]",
       "answer": "TOKA"
     },
     {
@@ -137,7 +137,7 @@
       "row": 4,
       "col": 3,
       "length": 4,
-      "clue": "İlerinin zıttı; arkaya ya da başlangıca doğru olan yön.",
+      "clue": "İlerinin zıttı; arkaya ya da başlangıca doğru olan yön (4 harf) [B106-S5]",
       "answer": "GERİ"
     },
     {
@@ -146,7 +146,7 @@
       "row": 5,
       "col": 0,
       "length": 4,
-      "clue": "Güneşin batmasından doğmasına kadar süren karanlık zaman dilimi.",
+      "clue": "Güneşin batmasından doğmasına kadar süren karanlık zaman dilimi (4 harf) [B106-S6]",
       "answer": "GECE"
     },
     {
@@ -155,7 +155,7 @@
       "row": 5,
       "col": 0,
       "length": 3,
-      "clue": "Yüzümüzde çift olarak bulunan, etrafımızı görmemizi sağlayan duyu organı.",
+      "clue": "Yüzümüzde çift olarak bulunan, etrafımızı görmemizi sağlayan duyu organı (3 harf) [B106-S6]",
       "answer": "GÖZ"
     },
     {
@@ -164,7 +164,7 @@
       "row": 5,
       "col": 6,
       "length": 3,
-      "clue": "Soğuk havada bulutlardan düşen, altıgen kristallerden oluşan beyaz yağış.",
+      "clue": "Soğuk havada bulutlardan düşen, altıgen kristallerden oluşan beyaz yağış (3 harf) [B106-S7]",
       "answer": "KAR"
     },
     {
@@ -173,7 +173,7 @@
       "row": 6,
       "col": 3,
       "length": 4,
-      "clue": "Uykuda iken zihnin sahneler halinde canlandırdığı renkli görüntüler.",
+      "clue": "Uykuda iken zihnin sahneler halinde canlandırdığı renkli görüntüler (4 harf) [B106-S8]",
       "answer": "RÜYA"
     }
   ]

@@ -123,7 +123,7 @@
       "row": 0,
       "col": 8,
       "length": 4,
-      "clue": "Yeni durumlara hızla uyum sağlayıp doğru kararlar verebilme yeteneği.",
+      "clue": "Yeni durumlara hızla uyum sağlayıp doğru kararlar verebilme yeteneği (4 harf) [B118-S1]",
       "answer": "ZEKA"
     },
     {
@@ -132,7 +132,7 @@
       "row": 1,
       "col": 6,
       "length": 5,
-      "clue": "Seslerin belli bir düzen içinde bir araya getirilmesiyle oluşan sanat.",
+      "clue": "Seslerin belli bir düzen içinde bir araya getirilmesiyle oluşan sanat (5 harf) [B118-S2]",
       "answer": "MÜZİK"
     },
     {
@@ -141,7 +141,7 @@
       "row": 2,
       "col": 5,
       "length": 4,
-      "clue": "Anadolu ve çevresinde yaşayan, Orta Asya kökenli büyük millet.",
+      "clue": "Anadolu ve çevresinde yaşayan, Orta Asya kökenli büyük millet (4 harf) [B118-S3]",
       "answer": "TÜRK"
     },
     {
@@ -150,7 +150,7 @@
       "row": 5,
       "col": 0,
       "length": 3,
-      "clue": "Dilin damak aracılığıyla algıladığı; acı, ekşi, tuzlu gibi duyusal nitelik.",
+      "clue": "Dilin damak aracılığıyla algıladığı; acı, ekşi, tuzlu gibi duyusal nitelik (3 harf) [B118-S4]",
       "answer": "TAT"
     },
     {
@@ -159,7 +159,7 @@
       "row": 5,
       "col": 2,
       "length": 4,
-      "clue": "Müziğin ritmine uyarak, düzenli vücut hareketleriyle yapılan sanatsal eylem.",
+      "clue": "Müziğin ritmine uyarak, düzenli vücut hareketleriyle yapılan sanatsal eylem (4 harf) [B118-S5]",
       "answer": "DANS"
     },
     {
@@ -168,7 +168,7 @@
       "row": 5,
       "col": 2,
       "length": 5,
-      "clue": "İçine üflenince tiz bir ses çıkaran, ince ve boru biçimli küçük alet.",
+      "clue": "İçine üflenince tiz bir ses çıkaran, ince ve boru biçimli küçük alet (5 harf) [B118-S5]",
       "answer": "DÜDÜK"
     },
     {
@@ -177,7 +177,7 @@
       "row": 6,
       "col": 0,
       "length": 3,
-      "clue": "Elin iç tarafı; parmakların bittiği yerden bileğe kadar uzanan bölüm.",
+      "clue": "Elin iç tarafı; parmakların bittiği yerden bileğe kadar uzanan bölüm (3 harf) [B118-S6]",
       "answer": "AYA"
     },
     {
@@ -186,7 +186,7 @@
       "row": 7,
       "col": 4,
       "length": 3,
-      "clue": "İki şeyin birbirinden ayrıldığı boşluk; kısa mola süresi.",
+      "clue": "İki şeyin birbirinden ayrıldığı boşluk; kısa mola süresi (3 harf) [B118-S7]",
       "answer": "ARA"
     },
     {
@@ -195,7 +195,7 @@
       "row": 8,
       "col": 2,
       "length": 4,
-      "clue": "Bir olayın başlangıcı ile sonu arasında geçen zaman aralığı.",
+      "clue": "Bir olayın başlangıcı ile sonu arasında geçen zaman aralığı (4 harf) [B118-S8]",
       "answer": "SÜRE"
     }
   ]

@@ -156,7 +156,7 @@
       "row": 0,
       "col": 5,
       "length": 5,
-      "clue": "Yararlanılan, şükür duyulan değerli varlık; insana verilmiş lütuf.",
+      "clue": "Yararlanılan, şükür duyulan değerli varlık; insana verilmiş lütuf (5 harf) [B440-S1]",
       "answer": "NİMET"
     },
     {
@@ -165,7 +165,7 @@
       "row": 2,
       "col": 1,
       "length": 3,
-      "clue": "Çiçeklerden topladığı nektarı bala dönüştüren, iğneli küçük böcek.",
+      "clue": "Çiçeklerden topladığı nektarı bala dönüştüren, iğneli küçük böcek (3 harf) [B440-S2]",
       "answer": "ARI"
     },
     {
@@ -174,7 +174,7 @@
       "row": 4,
       "col": 0,
       "length": 6,
-      "clue": "Kişinin payına düşen; kaderin ona uygun gördüğü nasibi ya da şansı.",
+      "clue": "Kişinin payına düşen; kaderin ona uygun gördüğü nasibi ya da şansı (6 harf) [B440-S3]",
       "answer": "KISMET"
     },
     {
@@ -183,7 +183,7 @@
       "row": 4,
       "col": 0,
       "length": 5,
-      "clue": "Bir nehrin ya da vadinin iki yakasını birbirine bağlayan geçit yapısı.",
+      "clue": "Bir nehrin ya da vadinin iki yakasını birbirine bağlayan geçit yapısı (5 harf) [B440-S3]",
       "answer": "KÖPRÜ"
     },
     {
@@ -192,7 +192,7 @@
       "row": 4,
       "col": 4,
       "length": 5,
-      "clue": "Undan mayalanıp fırında pişirilerek yapılan, sofranın temel besini.",
+      "clue": "Undan mayalanıp fırında pişirilerek yapılan, sofranın temel besini (5 harf) [B440-S4]",
       "answer": "EKMEK"
     },
     {
@@ -201,7 +201,7 @@
       "row": 5,
       "col": 8,
       "length": 4,
-      "clue": "Bundan başka, farklı; bir şeyin dışında kalan diğer kısım.",
+      "clue": "Bundan başka, farklı; bir şeyin dışında kalan diğer kısım (4 harf) [B440-S5]",
       "answer": "GAYR"
     },
     {
@@ -210,7 +210,7 @@
       "row": 5,
       "col": 8,
       "length": 3,
-      "clue": "Karayla çevrili, deniz bağlantısı olmayan geniş durgun su birikintisi.",
+      "clue": "Karayla çevrili, deniz bağlantısı olmayan geniş durgun su birikintisi (3 harf) [B440-S5]",
       "answer": "GÖL"
     },
     {
@@ -219,7 +219,7 @@
       "row": 6,
       "col": 2,
       "length": 5,
-      "clue": "Doğada bulunan en sert madde; takılarda kullanılan değerli kıymetli taş.",
+      "clue": "Doğada bulunan en sert madde; takılarda kullanılan değerli kıymetli taş (5 harf) [B440-S6]",
       "answer": "ELMAS"
     },
     {
@@ -228,7 +228,7 @@
       "row": 8,
       "col": 4,
       "length": 5,
-      "clue": "İnsanın başına geleceği önceden yazıldığına inanılan alın yazısı.",
+      "clue": "İnsanın başına geleceği önceden yazıldığına inanılan alın yazısı (5 harf) [B440-S7]",
       "answer": "KADER"
     },
     {
@@ -237,7 +237,7 @@
       "row": 8,
       "col": 6,
       "length": 3,
-      "clue": "Ağızda bulunan, yiyecekleri kopartıp öğütmeye yarayan sert beyaz yapı.",
+      "clue": "Ağızda bulunan, yiyecekleri kopartıp öğütmeye yarayan sert beyaz yapı (3 harf) [B440-S8]",
       "answer": "DİŞ"
     }
   ]

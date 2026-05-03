@@ -67,7 +67,7 @@
       "row": 0,
       "col": 1,
       "length": 3,
-      "clue": "İnsanın yüzünü gülümseten, göze güzel gelen; beğenilen durum.",
+      "clue": "İnsanın yüzünü gülümseten, göze güzel gelen; beğenilen durum (3 harf) [B81-S1]",
       "answer": "HOŞ"
     },
     {
@@ -76,7 +76,7 @@
       "row": 0,
       "col": 2,
       "length": 3,
-      "clue": "İğne ya da tığla işlenen, başörtüsü kenarını süsleyen ince el işi.",
+      "clue": "İğne ya da tığla işlenen, başörtüsü kenarını süsleyen ince el işi (3 harf) [B81-S2]",
       "answer": "OYA"
     },
     {
@@ -85,7 +85,7 @@
       "row": 2,
       "col": 1,
       "length": 3,
-      "clue": "Yapının üstünü kapatan, yağmurdan ve güneşten koruyan çatı kısmı.",
+      "clue": "Yapının üstünü kapatan, yağmurdan ve güneşten koruyan çatı kısmı (3 harf) [B81-S3]",
       "answer": "DAM"
     },
     {
@@ -94,7 +94,7 @@
       "row": 2,
       "col": 1,
       "length": 3,
-      "clue": "Havanın ısısının düşmesiyle suların yüzeyde buz tutması olayı.",
+      "clue": "Havanın ısısının düşmesiyle suların yüzeyde buz tutması olayı (3 harf) [B81-S3]",
       "answer": "DON"
     },
     {
@@ -103,7 +103,7 @@
       "row": 2,
       "col": 3,
       "length": 3,
-      "clue": "Fitilinden yakıldığında eriyerek ortamı aydınlatan silindir biçimli cisim.",
+      "clue": "Fitilinden yakıldığında eriyerek ortamı aydınlatan silindir biçimli cisim (3 harf) [B81-S4]",
       "answer": "MUM"
     },
     {
@@ -112,7 +112,7 @@
       "row": 4,
       "col": 1,
       "length": 3,
-      "clue": "Havada ya da bir yüzeyde bulunan, hissedilen rutubet miktarı.",
+      "clue": "Havada ya da bir yüzeyde bulunan, hissedilen rutubet miktarı (3 harf) [B81-S5]",
       "answer": "NEM"
     },
     {
@@ -121,7 +121,7 @@
       "row": 4,
       "col": 2,
       "length": 3,
-      "clue": "Metal ya da tırnak gibi sert yüzeyleri aşındırarak düzelten dişli alet.",
+      "clue": "Metal ya da tırnak gibi sert yüzeyleri aşındırarak düzelten dişli alet (3 harf) [B81-S6]",
       "answer": "EĞE"
     },
     {
@@ -130,7 +130,7 @@
       "row": 6,
       "col": 0,
       "length": 4,
-      "clue": "Raylar üzerinde hareket eden, vagonları çeken büyük motorlu araç.",
+      "clue": "Raylar üzerinde hareket eden, vagonları çeken büyük motorlu araç (4 harf) [B81-S7]",
       "answer": "TREN"
     },
     {
@@ -139,7 +139,7 @@
       "row": 6,
       "col": 3,
       "length": 3,
-      "clue": "Sevdiğine karşı gösterilen hafif cilve; yapmacık çekingenlik.",
+      "clue": "Sevdiğine karşı gösterilen hafif cilve; yapmacık çekingenlik (3 harf) [B81-S8]",
       "answer": "NAZ"
     }
   ]

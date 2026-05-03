@@ -94,7 +94,7 @@
       "row": 0,
       "col": 6,
       "length": 3,
-      "clue": "Bin kilograma eşit olan büyük ağırlık ölçü birimi.",
+      "clue": "Bin kilograma eşit olan büyük ağırlık ölçü birimi (3 harf) [B14-S1]",
       "answer": "TON"
     },
     {
@@ -103,7 +103,7 @@
       "row": 1,
       "col": 1,
       "length": 3,
-      "clue": "İçinde hiçbir şey bulunmayan, doluluğu olmayan kap ya da mekân.",
+      "clue": "İçinde hiçbir şey bulunmayan, doluluğu olmayan kap ya da mekân (3 harf) [B14-S2]",
       "answer": "BOŞ"
     },
     {
@@ -112,7 +112,7 @@
       "row": 1,
       "col": 2,
       "length": 5,
-      "clue": "Vücudun belirli bir işlevi yerine getiren, dokulardan oluşmuş bölümü.",
+      "clue": "Vücudun belirli bir işlevi yerine getiren, dokulardan oluşmuş bölümü (5 harf) [B14-S3]",
       "answer": "ORGAN"
     },
     {
@@ -121,7 +121,7 @@
       "row": 2,
       "col": 4,
       "length": 3,
-      "clue": "Kimyada asitle tepkimeye girerek tuz oluşturan, karşıt özellikli madde.",
+      "clue": "Kimyada asitle tepkimeye girerek tuz oluşturan, karşıt özellikli madde (3 harf) [B14-S4]",
       "answer": "BAZ"
     },
     {
@@ -130,7 +130,7 @@
       "row": 2,
       "col": 4,
       "length": 3,
-      "clue": "Konuşan kişinin kendisini belirtmek için kullandığı birinci tekil zamir.",
+      "clue": "Konuşan kişinin kendisini belirtmek için kullandığı birinci tekil zamir (3 harf) [B14-S4]",
       "answer": "BEN"
     },
     {
@@ -139,7 +139,7 @@
       "row": 4,
       "col": 2,
       "length": 4,
-      "clue": "İçten duyulan istek, gönülden beklenen dilek veya özlem.",
+      "clue": "İçten duyulan istek, gönülden beklenen dilek veya özlem (4 harf) [B14-S5]",
       "answer": "ARZU"
     },
     {
@@ -148,7 +148,7 @@
       "row": 5,
       "col": 0,
       "length": 3,
-      "clue": "İçindeki dilin sallanmasıyla ses çıkaran, koni biçimli madeni araç.",
+      "clue": "İçindeki dilin sallanmasıyla ses çıkaran, koni biçimli madeni araç (3 harf) [B14-S6]",
       "answer": "ÇAN"
     },
     {
@@ -157,7 +157,7 @@
       "row": 5,
       "col": 1,
       "length": 4,
-      "clue": "Belirli bir yönde hareket eden elektrik yükü ya da suyun sürüklenişi.",
+      "clue": "Belirli bir yönde hareket eden elektrik yükü ya da suyun sürüklenişi (4 harf) [B14-S7]",
       "answer": "AKIM"
     },
     {
@@ -166,7 +166,7 @@
       "row": 8,
       "col": 1,
       "length": 5,
-      "clue": "Seslerin belli bir düzen içinde bir araya getirilmesiyle oluşan sanat.",
+      "clue": "Seslerin belli bir düzen içinde bir araya getirilmesiyle oluşan sanat (5 harf) [B14-S8]",
       "answer": "MÜZİK"
     }
   ]

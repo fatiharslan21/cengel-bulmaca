@@ -133,7 +133,7 @@
       "row": 0,
       "col": 5,
       "length": 5,
-      "clue": "Anlatılanı somutlaştırmak için verilen örnek; kıyas noktası.",
+      "clue": "Anlatılanı somutlaştırmak için verilen örnek; kıyas noktası (5 harf) [B263-S1]",
       "answer": "MİSAL"
     },
     {
@@ -142,7 +142,7 @@
       "row": 1,
       "col": 7,
       "length": 4,
-      "clue": "Niteliği kötü olan, insanın içini bunaltan; iyi sözcüğünün zıttı.",
+      "clue": "Niteliği kötü olan, insanın içini bunaltan; iyi sözcüğünün zıttı (4 harf) [B263-S2]",
       "answer": "FENA"
     },
     {
@@ -151,7 +151,7 @@
       "row": 2,
       "col": 3,
       "length": 5,
-      "clue": "Ortak bir malın ya da işin her birine düşen pay; nasip.",
+      "clue": "Ortak bir malın ya da işin her birine düşen pay; nasip (5 harf) [B263-S3]",
       "answer": "HİSSE"
     },
     {
@@ -160,7 +160,7 @@
       "row": 4,
       "col": 3,
       "length": 5,
-      "clue": "Gökyüzünde süzülen, su buharının yoğunlaşmasıyla oluşan beyaz küme.",
+      "clue": "Gökyüzünde süzülen, su buharının yoğunlaşmasıyla oluşan beyaz küme (5 harf) [B263-S4]",
       "answer": "BULUT"
     },
     {
@@ -169,7 +169,7 @@
       "row": 4,
       "col": 3,
       "length": 3,
-      "clue": "Göğüs kafesi ile kalçalar arasında kalan, vücudun orta kısmı.",
+      "clue": "Göğüs kafesi ile kalçalar arasında kalan, vücudun orta kısmı (3 harf) [B263-S4]",
       "answer": "BEL"
     },
     {
@@ -178,7 +178,7 @@
       "row": 6,
       "col": 0,
       "length": 4,
-      "clue": "Başarı gösteren kimseye, çabasının karşılığı olarak verilen değerli armağan.",
+      "clue": "Başarı gösteren kimseye, çabasının karşılığı olarak verilen değerli armağan (4 harf) [B263-S5]",
       "answer": "ÖDÜL"
     },
     {
@@ -187,7 +187,7 @@
       "row": 7,
       "col": 3,
       "length": 3,
-      "clue": "Yüceliğiyle saygı uyandıran; hem büyük hem görkemli olan varlık.",
+      "clue": "Yüceliğiyle saygı uyandıran; hem büyük hem görkemli olan varlık (3 harf) [B263-S6]",
       "answer": "ULU"
     },
     {
@@ -196,7 +196,7 @@
       "row": 8,
       "col": 1,
       "length": 3,
-      "clue": "Bahçeyi ya da tarlayı çevreleyen, tahta veya telden yapılmış alçak engel.",
+      "clue": "Bahçeyi ya da tarlayı çevreleyen, tahta veya telden yapılmış alçak engel (3 harf) [B263-S7]",
       "answer": "ÇİT"
     },
     {
@@ -205,7 +205,7 @@
       "row": 8,
       "col": 2,
       "length": 4,
-      "clue": "Mahkemenin verdiği kararı bildiren, yazılı resmi belge.",
+      "clue": "Mahkemenin verdiği kararı bildiren, yazılı resmi belge (4 harf) [B263-S8]",
       "answer": "İLAM"
     },
     {
@@ -214,7 +214,7 @@
       "row": 10,
       "col": 1,
       "length": 3,
-      "clue": "Üzüm yetiştirilen tarla; aynı zamanda düğümle tutturma eylemi.",
+      "clue": "Üzüm yetiştirilen tarla; aynı zamanda düğümle tutturma eylemi (3 harf) [B263-S9]",
       "answer": "BAĞ"
     }
   ]

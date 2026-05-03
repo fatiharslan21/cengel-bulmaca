@@ -109,7 +109,7 @@
       "row": 0,
       "col": 0,
       "length": 6,
-      "clue": "Her takımdan on bir oyuncunun sahada top üzerinde oynadığı dünya sporu.",
+      "clue": "Her takımdan on bir oyuncunun sahada top üzerinde oynadığı dünya sporu (6 harf) [B173-S1]",
       "answer": "FUTBOL"
     },
     {
@@ -118,7 +118,7 @@
       "row": 0,
       "col": 2,
       "length": 3,
-      "clue": "Aynı ortak özellikleri taşıyan canlıların oluşturduğu sınıflama birimi.",
+      "clue": "Açıklamaya uyan yanıt (3 harf) [B173-S2]",
       "answer": "TÜR"
     },
     {
@@ -127,7 +127,7 @@
       "row": 2,
       "col": 1,
       "length": 4,
-      "clue": "Bir eşyanın ya da yüzeyin üstünü kapatmak için serilen kumaş parçası.",
+      "clue": "Bir eşyanın ya da yüzeyin üstünü kapatmak için serilen kumaş parçası (4 harf) [B173-S3]",
       "answer": "ÖRTÜ"
     },
     {
@@ -136,7 +136,7 @@
       "row": 2,
       "col": 3,
       "length": 4,
-      "clue": "Yeni toplanmış, bayatlamamış; canlılığını yeni yeni yitirmemiş olan.",
+      "clue": "Yeni toplanmış, bayatlamamış; canlılığını yeni yeni yitirmemiş olan (4 harf) [B173-S4]",
       "answer": "TAZE"
     },
     {
@@ -145,7 +145,7 @@
       "row": 5,
       "col": 2,
       "length": 3,
-      "clue": "Bir ekibin başında bulunup işleri yöneten kişi; mutfağın baş aşçısı.",
+      "clue": "Bir ekibin başında bulunup işleri yöneten kişi; mutfağın baş aşçısı (3 harf) [B173-S5]",
       "answer": "ŞEF"
     },
     {
@@ -154,7 +154,7 @@
       "row": 5,
       "col": 2,
       "length": 5,
-      "clue": "Kamıştan ya da pancardan elde edilen; çay ve tatlılara katılan tatlı madde.",
+      "clue": "Kamıştan ya da pancardan elde edilen; çay ve tatlılara katılan tatlı madde (5 harf) [B173-S5]",
       "answer": "ŞEKER"
     },
     {
@@ -163,7 +163,7 @@
       "row": 7,
       "col": 2,
       "length": 3,
-      "clue": "Bir binanın birbirinin üzerine gelen yatay bölümlerinden her biri.",
+      "clue": "Bir binanın birbirinin üzerine gelen yatay bölümlerinden her biri (3 harf) [B173-S6]",
       "answer": "KAT"
     },
     {
@@ -172,7 +172,7 @@
       "row": 9,
       "col": 0,
       "length": 4,
-      "clue": "Bir kesik ya da darbe sonucu bedende oluşan açık doku hasarı.",
+      "clue": "Bir kesik ya da darbe sonucu bedende oluşan açık doku hasarı (4 harf) [B173-S7]",
       "answer": "YARA"
     },
     {
@@ -181,7 +181,7 @@
       "row": 9,
       "col": 1,
       "length": 3,
-      "clue": "Bir cismin aşağı tarafı; üst sözcüğünün tam karşıtı olan yön.",
+      "clue": "Bir cismin aşağı tarafı; üst sözcüğünün tam karşıtı olan yön (3 harf) [B173-S8]",
       "answer": "ALT"
     },
     {
@@ -190,7 +190,7 @@
       "row": 11,
       "col": 1,
       "length": 3,
-      "clue": "Hastalıkların tanısı ve iyileştirilmesiyle uğraşan hekimlik bilim dalı.",
+      "clue": "Hastalıkların tanısı ve iyileştirilmesiyle uğraşan hekimlik bilim dalı (3 harf) [B173-S9]",
       "answer": "TIP"
     }
   ]

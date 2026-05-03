@@ -153,7 +153,7 @@
       "row": 0,
       "col": 3,
       "length": 5,
-      "clue": "Kitap, hikâye ya da makale gibi edebi eserler kaleme alan kimse.",
+      "clue": "Kitap, hikâye ya da makale gibi edebi eserler kaleme alan kimse (5 harf) [B368-S1]",
       "answer": "YAZAR"
     },
     {
@@ -162,7 +162,7 @@
       "row": 1,
       "col": 2,
       "length": 3,
-      "clue": "Bir binanın birbirinin üzerine gelen yatay bölümlerinden her biri.",
+      "clue": "Bir binanın birbirinin üzerine gelen yatay bölümlerinden her biri (3 harf) [B368-S2]",
       "answer": "KAT"
     },
     {
@@ -171,7 +171,7 @@
       "row": 4,
       "col": 1,
       "length": 4,
-      "clue": "İnsanı üzen, iç sıkıntısı veren; uzun süre geçmeyen tasa ve keder.",
+      "clue": "İnsanı üzen, iç sıkıntısı veren; uzun süre geçmeyen tasa ve keder (4 harf) [B368-S3]",
       "answer": "DERT"
     },
     {
@@ -180,7 +180,7 @@
       "row": 4,
       "col": 4,
       "length": 5,
-      "clue": "İnsanın ömür boyu karşılaştığı iyi ya da kötü raslantıların tümü; baht.",
+      "clue": "İnsanın ömür boyu karşılaştığı iyi ya da kötü raslantıların tümü; baht (5 harf) [B368-S4]",
       "answer": "TALİH"
     },
     {
@@ -189,7 +189,7 @@
       "row": 5,
       "col": 8,
       "length": 5,
-      "clue": "Bitkinin üreme organı; genellikle göz alıcı renkleri ve kokusu olan kısım.",
+      "clue": "Bitkinin üreme organı; genellikle göz alıcı renkleri ve kokusu olan kısım (5 harf) [B368-S5]",
       "answer": "ÇİÇEK"
     },
     {
@@ -198,7 +198,7 @@
       "row": 5,
       "col": 8,
       "length": 4,
-      "clue": "Birbirinin eşi olan iki şeyden oluşan takım; tekin karşıtı sayı grubu.",
+      "clue": "Birbirinin eşi olan iki şeyden oluşan takım; tekin karşıtı sayı grubu (4 harf) [B368-S5]",
       "answer": "ÇİFT"
     },
     {
@@ -207,7 +207,7 @@
       "row": 6,
       "col": 0,
       "length": 5,
-      "clue": "Varlığı yerinde durmayıp sona ermesi; yokluğa geçme hali.",
+      "clue": "Varlığı yerinde durmayıp sona ermesi; yokluğa geçme hali (5 harf) [B368-S6]",
       "answer": "ZEVAL"
     },
     {
@@ -216,7 +216,7 @@
       "row": 6,
       "col": 1,
       "length": 4,
-      "clue": "Bir sanatçının ya da yazarın ortaya koyduğu özgün yapıt.",
+      "clue": "Bir sanatçının ya da yazarın ortaya koyduğu özgün yapıt (4 harf) [B368-S7]",
       "answer": "ESER"
     },
     {
@@ -225,7 +225,7 @@
       "row": 8,
       "col": 4,
       "length": 5,
-      "clue": "Ortak bir malın ya da işin her birine düşen pay; nasip.",
+      "clue": "Ortak bir malın ya da işin her birine düşen pay; nasip (5 harf) [B368-S8]",
       "answer": "HİSSE"
     },
     {
@@ -234,7 +234,7 @@
       "row": 9,
       "col": 8,
       "length": 4,
-      "clue": "İnce mukavvadan yapılmış, üzerine yazı yazılan ya da baskı yapılan levha.",
+      "clue": "İnce mukavvadan yapılmış, üzerine yazı yazılan ya da baskı yapılan levha (4 harf) [B368-S9]",
       "answer": "KART"
     }
   ]

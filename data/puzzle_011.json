@@ -101,7 +101,7 @@
       "row": 0,
       "col": 3,
       "length": 5,
-      "clue": "Gökyüzünde süzülen, su buharının yoğunlaşmasıyla oluşan beyaz küme.",
+      "clue": "Gökyüzünde süzülen, su buharının yoğunlaşmasıyla oluşan beyaz küme (5 harf) [B11-S1]",
       "answer": "BULUT"
     },
     {
@@ -110,7 +110,7 @@
       "row": 1,
       "col": 2,
       "length": 3,
-      "clue": "Gövdesi tüylerle kaplı, kanatları yardımıyla uçabilen yumurtlayan canlı.",
+      "clue": "Gövdesi tüylerle kaplı, kanatları yardımıyla uçabilen yumurtlayan canlı (3 harf) [B11-S2]",
       "answer": "KUŞ"
     },
     {
@@ -119,7 +119,7 @@
       "row": 3,
       "col": 0,
       "length": 4,
-      "clue": "Yürürken bir ayağın diğerinin önüne atılmasıyla alınan kısa mesafe.",
+      "clue": "Yürürken bir ayağın diğerinin önüne atılmasıyla alınan kısa mesafe (4 harf) [B11-S3]",
       "answer": "ADIM"
     },
     {
@@ -128,7 +128,7 @@
       "row": 3,
       "col": 3,
       "length": 4,
-      "clue": "Aradaki mesafenin çok olduğu; yakınlığı hissedilmeyen ötelerdeki yer.",
+      "clue": "Aradaki mesafenin çok olduğu; yakınlığı hissedilmeyen ötelerdeki yer (4 harf) [B11-S4]",
       "answer": "UZAK"
     },
     {
@@ -137,7 +137,7 @@
       "row": 3,
       "col": 5,
       "length": 3,
-      "clue": "Elin iç tarafı; parmakların bittiği yerden bileğe kadar uzanan bölüm.",
+      "clue": "Elin iç tarafı; parmakların bittiği yerden bileğe kadar uzanan bölüm (3 harf) [B11-S5]",
       "answer": "AYA"
     },
     {
@@ -146,7 +146,7 @@
       "row": 4,
       "col": 0,
       "length": 4,
-      "clue": "Kötü günde de yanında olan, gönülden sevilen yakın arkadaş.",
+      "clue": "Kötü günde de yanında olan, gönülden sevilen yakın arkadaş (4 harf) [B11-S6]",
       "answer": "DOST"
     },
     {
@@ -155,7 +155,7 @@
       "row": 4,
       "col": 2,
       "length": 4,
-      "clue": "Bir olayın başlangıcı ile sonu arasında geçen zaman aralığı.",
+      "clue": "Bir olayın başlangıcı ile sonu arasında geçen zaman aralığı (4 harf) [B11-S7]",
       "answer": "SÜRE"
     },
     {
@@ -164,7 +164,7 @@
       "row": 5,
       "col": 5,
       "length": 4,
-      "clue": "Kırda ya da ormanda silahla veya tuzakla av peşinde koşan kişi.",
+      "clue": "Kırda ya da ormanda silahla veya tuzakla av peşinde koşan kişi (4 harf) [B11-S8]",
       "answer": "AVCI"
     },
     {
@@ -173,7 +173,7 @@
       "row": 7,
       "col": 1,
       "length": 4,
-      "clue": "Bir kelimeyi bir nefeste söyleyebildiğimiz en küçük ses birimi.",
+      "clue": "Bir kelimeyi bir nefeste söyleyebildiğimiz en küçük ses birimi (4 harf) [B11-S9]",
       "answer": "HECE"
     }
   ]

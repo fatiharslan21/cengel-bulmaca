@@ -145,7 +145,7 @@
       "row": 0,
       "col": 6,
       "length": 6,
-      "clue": "Ağacın dalından sarkan, fotosentez yapıp havaya oksijen veren yeşil organ.",
+      "clue": "Ağacın dalından sarkan, fotosentez yapıp havaya oksijen veren yeşil organ (6 harf) [B353-S1]",
       "answer": "YAPRAK"
     },
     {
@@ -154,7 +154,7 @@
       "row": 1,
       "col": 5,
       "length": 3,
-      "clue": "Belli bir şekli ve hacmi olmayan, her yöne yayılabilen madde hali.",
+      "clue": "Belli bir şekli ve hacmi olmayan, her yöne yayılabilen madde hali (3 harf) [B353-S2]",
       "answer": "GAZ"
     },
     {
@@ -163,7 +163,7 @@
       "row": 3,
       "col": 1,
       "length": 6,
-      "clue": "Harcanan çabaya değmeyen; hiçbir yarar sağlamayan boş uğraş.",
+      "clue": "Harcanan çabaya değmeyen; hiçbir yarar sağlamayan boş uğraş (6 harf) [B353-S3]",
       "answer": "NAFİLE"
     },
     {
@@ -172,7 +172,7 @@
       "row": 4,
       "col": 6,
       "length": 4,
-      "clue": "Üzerinde yapı bulunmayan, belli sınırlarla çevrili geniş açık düzlük.",
+      "clue": "Üzerinde yapı bulunmayan, belli sınırlarla çevrili geniş açık düzlük (4 harf) [B353-S4]",
       "answer": "ALAN"
     },
     {
@@ -181,7 +181,7 @@
       "row": 5,
       "col": 3,
       "length": 4,
-      "clue": "Yeni durumlara hızla uyum sağlayıp doğru kararlar verebilme yeteneği.",
+      "clue": "Yeni durumlara hızla uyum sağlayıp doğru kararlar verebilme yeteneği (4 harf) [B353-S5]",
       "answer": "ZEKA"
     },
     {
@@ -190,7 +190,7 @@
       "row": 5,
       "col": 3,
       "length": 4,
-      "clue": "Yapılan ya da tadılan şeyden alınan; insanın içini hoşnut eden keyif.",
+      "clue": "Yapılan ya da tadılan şeyden alınan; insanın içini hoşnut eden keyif (4 harf) [B353-S5]",
       "answer": "ZEVK"
     },
     {
@@ -199,7 +199,7 @@
       "row": 6,
       "col": 0,
       "length": 4,
-      "clue": "Birini aldatmak için yapılan gizli düzen; dolap çevirme.",
+      "clue": "Birini aldatmak için yapılan gizli düzen; dolap çevirme (4 harf) [B353-S6]",
       "answer": "HİLE"
     },
     {
@@ -208,7 +208,7 @@
       "row": 7,
       "col": 5,
       "length": 4,
-      "clue": "İstemeden yapılan yanlış; doğru olandan sapmanın yol açtığı kusur.",
+      "clue": "İstemeden yapılan yanlış; doğru olandan sapmanın yol açtığı kusur (4 harf) [B353-S7]",
       "answer": "HATA"
     },
     {
@@ -217,7 +217,7 @@
       "row": 8,
       "col": 3,
       "length": 3,
-      "clue": "Birden çok rengin bir arada bulunduğu, benekli ya da karışık görünüm.",
+      "clue": "Birden çok rengin bir arada bulunduğu, benekli ya da karışık görünüm (3 harf) [B353-S8]",
       "answer": "ALA"
     },
     {
@@ -226,7 +226,7 @@
       "row": 10,
       "col": 4,
       "length": 3,
-      "clue": "Damarlarda dolaşarak vücuda oksijen taşıyan kırmızı renkli canlı sıvı.",
+      "clue": "Damarlarda dolaşarak vücuda oksijen taşıyan kırmızı renkli canlı sıvı (3 harf) [B353-S9]",
       "answer": "KAN"
     }
   ]

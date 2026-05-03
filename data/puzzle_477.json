@@ -145,7 +145,7 @@
       "row": 0,
       "col": 1,
       "length": 7,
-      "clue": "Gizli kalmış bir şeyin zamanı gelince gözle görünür olması; belirme.",
+      "clue": "Gizli kalmış bir şeyin zamanı gelince gözle görünür olması; belirme (7 harf) [B477-S1]",
       "answer": "TECELLİ"
     },
     {
@@ -154,7 +154,7 @@
       "row": 1,
       "col": 0,
       "length": 3,
-      "clue": "Havanın bir yönden diğerine doğru hissedilebilir akışı; rüzgâr.",
+      "clue": "Havanın bir yönden diğerine doğru hissedilebilir akışı; rüzgâr (3 harf) [B477-S2]",
       "answer": "YEL"
     },
     {
@@ -163,7 +163,7 @@
       "row": 4,
       "col": 0,
       "length": 4,
-      "clue": "Mahkemenin verdiği kararı bildiren, yazılı resmi belge.",
+      "clue": "Mahkemenin verdiği kararı bildiren, yazılı resmi belge (4 harf) [B477-S3]",
       "answer": "İLAM"
     },
     {
@@ -172,7 +172,7 @@
       "row": 6,
       "col": 1,
       "length": 4,
-      "clue": "Anlaşılmayan bir konuyu açık bir dille anlatma; aydınlatıcı açıklama.",
+      "clue": "Anlaşılmayan bir konuyu açık bir dille anlatma; aydınlatıcı açıklama (4 harf) [B477-S4]",
       "answer": "İZAH"
     },
     {
@@ -181,7 +181,7 @@
       "row": 6,
       "col": 3,
       "length": 4,
-      "clue": "Bacağın bileğinden aşağısı; üzerine basarak yürümemizi sağlayan uzuv.",
+      "clue": "Bacağın bileğinden aşağısı; üzerine basarak yürümemizi sağlayan uzuv (4 harf) [B477-S5]",
       "answer": "AYAK"
     },
     {
@@ -190,7 +190,7 @@
       "row": 7,
       "col": 5,
       "length": 5,
-      "clue": "İnsanın ömür boyu karşılaştığı iyi ya da kötü raslantıların tümü; baht.",
+      "clue": "İnsanın ömür boyu karşılaştığı iyi ya da kötü raslantıların tümü; baht (5 harf) [B477-S6]",
       "answer": "TALİH"
     },
     {
@@ -199,7 +199,7 @@
       "row": 7,
       "col": 5,
       "length": 4,
-      "clue": "Dağdan daha alçak, çevresine göre yüksek görünen küçük yükselti.",
+      "clue": "Dağdan daha alçak, çevresine göre yüksek görünen küçük yükselti (4 harf) [B477-S6]",
       "answer": "TEPE"
     },
     {
@@ -208,7 +208,7 @@
       "row": 8,
       "col": 0,
       "length": 4,
-      "clue": "Müzik eserlerinde seslerin yükseklik ve uzunluğunu gösteren küçük simge.",
+      "clue": "Müzik eserlerinde seslerin yükseklik ve uzunluğunu gösteren küçük simge (4 harf) [B477-S7]",
       "answer": "NOTA"
     },
     {
@@ -217,7 +217,7 @@
       "row": 9,
       "col": 3,
       "length": 3,
-      "clue": "Gitme, olduğun yerde dur; git sözcüğünün tam karşıtı olan emir.",
+      "clue": "Gitme, olduğun yerde dur; git sözcüğünün tam karşıtı olan emir (3 harf) [B477-S8]",
       "answer": "KAL"
     },
     {
@@ -226,7 +226,7 @@
       "row": 11,
       "col": 3,
       "length": 6,
-      "clue": "Bir işi başarmak için katlanılan güçlük; çekilen eziyet.",
+      "clue": "Bir işi başarmak için katlanılan güçlük; çekilen eziyet (6 harf) [B477-S9]",
       "answer": "ZAHMET"
     }
   ]

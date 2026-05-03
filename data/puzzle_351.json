@@ -123,7 +123,7 @@
       "row": 0,
       "col": 4,
       "length": 4,
-      "clue": "Ayıp sayılan bir şey karşısında insanın yüzünü kızartan çekinme duygusu.",
+      "clue": "Ayıp sayılan bir şey karşısında insanın yüzünü kızartan çekinme duygusu (4 harf) [B351-S1]",
       "answer": "HAYA"
     },
     {
@@ -132,7 +132,7 @@
       "row": 1,
       "col": 3,
       "length": 5,
-      "clue": "İnsanın ömür boyu karşılaştığı iyi ya da kötü raslantıların tümü; baht.",
+      "clue": "İnsanın ömür boyu karşılaştığı iyi ya da kötü raslantıların tümü; baht (5 harf) [B351-S2]",
       "answer": "TALİH"
     },
     {
@@ -141,7 +141,7 @@
       "row": 3,
       "col": 3,
       "length": 3,
-      "clue": "Üzüm yetiştirilen tarla; aynı zamanda düğümle tutturma eylemi.",
+      "clue": "Üzüm yetiştirilen tarla; aynı zamanda düğümle tutturma eylemi (3 harf) [B351-S3]",
       "answer": "BAĞ"
     },
     {
@@ -150,7 +150,7 @@
       "row": 3,
       "col": 3,
       "length": 3,
-      "clue": "Yüzlerin onunun bir araya gelmesiyle oluşan dört basamaklı sayı.",
+      "clue": "Yüzlerin onunun bir araya gelmesiyle oluşan dört basamaklı sayı (3 harf) [B351-S3]",
       "answer": "BİN"
     },
     {
@@ -159,7 +159,7 @@
       "row": 3,
       "col": 7,
       "length": 3,
-      "clue": "Hortumuyla tanınan, kulakları iri, kara hayvanlarının en büyüklerinden biri.",
+      "clue": "Hortumuyla tanınan, kulakları iri, kara hayvanlarının en büyüklerinden biri (3 harf) [B351-S4]",
       "answer": "FİL"
     },
     {
@@ -168,7 +168,7 @@
       "row": 5,
       "col": 3,
       "length": 5,
-      "clue": "Bir şeyin bir yerden başka bir yere taşınması; aktarma işlemi.",
+      "clue": "Bir şeyin bir yerden başka bir yere taşınması; aktarma işlemi (5 harf) [B351-S5]",
       "answer": "NAKİL"
     },
     {
@@ -177,7 +177,7 @@
       "row": 5,
       "col": 4,
       "length": 4,
-      "clue": "Yanmakta olan bir maddenin çıkardığı ısı, ışık ve alevin tümü.",
+      "clue": "Yanmakta olan bir maddenin çıkardığı ısı, ışık ve alevin tümü (4 harf) [B351-S6]",
       "answer": "ATEŞ"
     },
     {
@@ -186,7 +186,7 @@
       "row": 5,
       "col": 6,
       "length": 5,
-      "clue": "Bilginin ötesinde, deneyim ve sezgiyle kazanılan derin anlayış.",
+      "clue": "Bilginin ötesinde, deneyim ve sezgiyle kazanılan derin anlayış (5 harf) [B351-S7]",
       "answer": "İRFAN"
     },
     {
@@ -195,7 +195,7 @@
       "row": 6,
       "col": 1,
       "length": 5,
-      "clue": "Çölde ya da sıcakta gerçekte olmayan bir görüntü olarak algılanan yanılsama.",
+      "clue": "Çölde ya da sıcakta gerçekte olmayan bir görüntü olarak algılanan yanılsama (5 harf) [B351-S8]",
       "answer": "SERAP"
     },
     {
@@ -204,7 +204,7 @@
       "row": 7,
       "col": 0,
       "length": 5,
-      "clue": "Yelkenli ya da motorlu olup denizde kısa yolculuklara çıkan küçük gemi.",
+      "clue": "Yelkenli ya da motorlu olup denizde kısa yolculuklara çıkan küçük gemi (5 harf) [B351-S9]",
       "answer": "TEKNE"
     }
   ]

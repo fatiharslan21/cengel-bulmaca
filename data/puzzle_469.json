@@ -139,7 +139,7 @@
       "row": 0,
       "col": 11,
       "length": 5,
-      "clue": "Çorba, pilav gibi yemekleri ağza götürmek için kullanılan çukur sap.",
+      "clue": "Çorba, pilav gibi yemekleri ağza götürmek için kullanılan çukur sap (5 harf) [B469-S1]",
       "answer": "KAŞIK"
     },
     {
@@ -148,7 +148,7 @@
       "row": 2,
       "col": 9,
       "length": 6,
-      "clue": "Su, çay ya da başka içecekleri içmek için kullanılan küçük kap.",
+      "clue": "Su, çay ya da başka içecekleri içmek için kullanılan küçük kap (6 harf) [B469-S2]",
       "answer": "BARDAK"
     },
     {
@@ -157,7 +157,7 @@
       "row": 3,
       "col": 9,
       "length": 3,
-      "clue": "Tatlının tam karşıtı olan, biberin ya da kederin bıraktığı keskin duygu.",
+      "clue": "Tatlının tam karşıtı olan, biberin ya da kederin bıraktığı keskin duygu (3 harf) [B469-S3]",
       "answer": "ACI"
     },
     {
@@ -166,7 +166,7 @@
       "row": 4,
       "col": 1,
       "length": 4,
-      "clue": "Boyu kısa, dalları sık ve odunsu olan, çok dallı bodur bitki.",
+      "clue": "Boyu kısa, dalları sık ve odunsu olan, çok dallı bodur bitki (4 harf) [B469-S4]",
       "answer": "ÇALI"
     },
     {
@@ -175,7 +175,7 @@
       "row": 4,
       "col": 3,
       "length": 5,
-      "clue": "Bitkinin çiçeğinin olgunlaşmasıyla oluşan, genellikle yenilebilir ürün.",
+      "clue": "Bitkinin çiçeğinin olgunlaşmasıyla oluşan, genellikle yenilebilir ürün (5 harf) [B469-S5]",
       "answer": "MEYVE"
     },
     {
@@ -184,7 +184,7 @@
       "row": 4,
       "col": 6,
       "length": 4,
-      "clue": "Yapılan iyiliğin ya da çekilen sıkıntının karşılığı olarak verilen sevap.",
+      "clue": "Yapılan iyiliğin ya da çekilen sıkıntının karşılığı olarak verilen sevap (4 harf) [B469-S6]",
       "answer": "ECİR"
     },
     {
@@ -193,7 +193,7 @@
       "row": 5,
       "col": 0,
       "length": 5,
-      "clue": "Bir kimsenin bir şey için yaptığı istek; dile getirilen açık dilek.",
+      "clue": "Bir kimsenin bir şey için yaptığı istek; dile getirilen açık dilek (5 harf) [B469-S7]",
       "answer": "TALEP"
     },
     {
@@ -202,7 +202,7 @@
       "row": 6,
       "col": 6,
       "length": 5,
-      "clue": "Uygunsuz bir durumda duyulan utanç; insanın yüzünü gizleme isteği.",
+      "clue": "Uygunsuz bir durumda duyulan utanç; insanın yüzünü gizleme isteği (5 harf) [B469-S8]",
       "answer": "HİCAP"
     },
     {
@@ -211,7 +211,7 @@
       "row": 6,
       "col": 6,
       "length": 3,
-      "clue": "İnsanın yüzünü gülümseten, göze güzel gelen; beğenilen durum.",
+      "clue": "İnsanın yüzünü gülümseten, göze güzel gelen; beğenilen durum (3 harf) [B469-S8]",
       "answer": "HOŞ"
     },
     {
@@ -220,7 +220,7 @@
       "row": 7,
       "col": 3,
       "length": 4,
-      "clue": "İçine çiçek konulmak üzere yapılmış, ince uzun boyunlu süs kabı.",
+      "clue": "İçine çiçek konulmak üzere yapılmış, ince uzun boyunlu süs kabı (4 harf) [B469-S9]",
       "answer": "VAZO"
     }
   ]

@@ -113,7 +113,7 @@
       "row": 0,
       "col": 5,
       "length": 3,
-      "clue": "Yapının üstünü kapatan, yağmurdan ve güneşten koruyan çatı kısmı.",
+      "clue": "Yapının üstünü kapatan, yağmurdan ve güneşten koruyan çatı kısmı (3 harf) [B57-S1]",
       "answer": "DAM"
     },
     {
@@ -122,7 +122,7 @@
       "row": 1,
       "col": 3,
       "length": 5,
-      "clue": "Bir varsayımı doğrulamak amacıyla yapılan, kontrollü bilimsel çalışma.",
+      "clue": "Bir varsayımı doğrulamak amacıyla yapılan, kontrollü bilimsel çalışma (5 harf) [B57-S2]",
       "answer": "DENEY"
     },
     {
@@ -131,7 +131,7 @@
       "row": 2,
       "col": 3,
       "length": 5,
-      "clue": "Undan mayalanıp fırında pişirilerek yapılan, sofranın temel besini.",
+      "clue": "Undan mayalanıp fırında pişirilerek yapılan, sofranın temel besini (5 harf) [B57-S3]",
       "answer": "EKMEK"
     },
     {
@@ -140,7 +140,7 @@
       "row": 2,
       "col": 7,
       "length": 3,
-      "clue": "Bir şeyin yanıp bitmesinin ardından geriye kalan kurumuş toz madde.",
+      "clue": "Bir şeyin yanıp bitmesinin ardından geriye kalan kurumuş toz madde (3 harf) [B57-S4]",
       "answer": "KÜL"
     },
     {
@@ -149,7 +149,7 @@
       "row": 4,
       "col": 0,
       "length": 4,
-      "clue": "Kalınlığı az olan; zarif ve narin yapıda bulunan; kalının karşıtı.",
+      "clue": "Kalınlığı az olan; zarif ve narin yapıda bulunan; kalının karşıtı (4 harf) [B57-S5]",
       "answer": "İNCE"
     },
     {
@@ -158,7 +158,7 @@
       "row": 5,
       "col": 3,
       "length": 3,
-      "clue": "Havanın bir yönden diğerine doğru hissedilebilir akışı; rüzgâr.",
+      "clue": "Havanın bir yönden diğerine doğru hissedilebilir akışı; rüzgâr (3 harf) [B57-S6]",
       "answer": "YEL"
     },
     {
@@ -167,7 +167,7 @@
       "row": 5,
       "col": 4,
       "length": 4,
-      "clue": "Evde ya da iş yerinde gündelik hayatta kullanılan nesnelerin tümü.",
+      "clue": "Evde ya da iş yerinde gündelik hayatta kullanılan nesnelerin tümü (4 harf) [B57-S7]",
       "answer": "EŞYA"
     },
     {
@@ -176,7 +176,7 @@
       "row": 7,
       "col": 2,
       "length": 5,
-      "clue": "Bir cismin uzunluk, genişlik ve yükseklik gibi ölçülebilen özelliği.",
+      "clue": "Bir cismin uzunluk, genişlik ve yükseklik gibi ölçülebilen özelliği (5 harf) [B57-S8]",
       "answer": "BOYUT"
     },
     {
@@ -185,7 +185,7 @@
       "row": 7,
       "col": 2,
       "length": 3,
-      "clue": "Üzüm yetiştirilen tarla; aynı zamanda düğümle tutturma eylemi.",
+      "clue": "Üzüm yetiştirilen tarla; aynı zamanda düğümle tutturma eylemi (3 harf) [B57-S8]",
       "answer": "BAĞ"
     }
   ]

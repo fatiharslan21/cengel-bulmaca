@@ -133,7 +133,7 @@
       "row": 0,
       "col": 1,
       "length": 5,
-      "clue": "Düğünlerde davulla birlikte çalınan, ince tiz sesli üflemeli halk çalgısı.",
+      "clue": "Düğünlerde davulla birlikte çalınan, ince tiz sesli üflemeli halk çalgısı (5 harf) [B332-S1]",
       "answer": "ZURNA"
     },
     {
@@ -142,7 +142,7 @@
       "row": 2,
       "col": 6,
       "length": 6,
-      "clue": "Bir toplantıda ya da günde ele alınacak konuların sıralı listesi.",
+      "clue": "Bir toplantıda ya da günde ele alınacak konuların sıralı listesi (6 harf) [B332-S2]",
       "answer": "GÜNDEM"
     },
     {
@@ -151,7 +151,7 @@
       "row": 3,
       "col": 3,
       "length": 4,
-      "clue": "İlkbaharda açan, kadeh biçimli taç yaprakları olan, Türklerin simgesi çiçek.",
+      "clue": "İlkbaharda açan, kadeh biçimli taç yaprakları olan, Türklerin simgesi çiçek (4 harf) [B332-S3]",
       "answer": "LALE"
     },
     {
@@ -160,7 +160,7 @@
       "row": 3,
       "col": 5,
       "length": 3,
-      "clue": "Aynı ortak özellikleri taşıyan canlıların oluşturduğu sınıflama birimi.",
+      "clue": "Aynı ortak özellikleri taşıyan canlıların oluşturduğu sınıflama birimi (3 harf) [B332-S4]",
       "answer": "TÜR"
     },
     {
@@ -169,7 +169,7 @@
       "row": 4,
       "col": 0,
       "length": 4,
-      "clue": "Uzaktan duyulan insan ya da doğa sesi; boğumlu ses dalgası.",
+      "clue": "Uzaktan duyulan insan ya da doğa sesi; boğumlu ses dalgası (4 harf) [B332-S5]",
       "answer": "SADA"
     },
     {
@@ -178,7 +178,7 @@
       "row": 4,
       "col": 0,
       "length": 4,
-      "clue": "Bir miktarı ya da sırayı belirten; rakamlarla yazılan matematik kavramı.",
+      "clue": "Bir miktarı ya da sırayı belirten; rakamlarla yazılan matematik kavramı (4 harf) [B332-S5]",
       "answer": "SAYI"
     },
     {
@@ -187,7 +187,7 @@
       "row": 6,
       "col": 2,
       "length": 6,
-      "clue": "Yer kabuğunun kırılmasıyla meydana gelen, yüzeyi sarsan doğal olay.",
+      "clue": "Yer kabuğunun kırılmasıyla meydana gelen, yüzeyi sarsan doğal olay (6 harf) [B332-S6]",
       "answer": "DEPREM"
     },
     {
@@ -196,7 +196,7 @@
       "row": 6,
       "col": 4,
       "length": 5,
-      "clue": "Pencereyi örtmek için asılan, ışığı ve dışarıdan görünmeyi engelleyen kumaş.",
+      "clue": "Pencereyi örtmek için asılan, ışığı ve dışarıdan görünmeyi engelleyen kumaş (5 harf) [B332-S7]",
       "answer": "PERDE"
     },
     {
@@ -205,7 +205,7 @@
       "row": 8,
       "col": 7,
       "length": 4,
-      "clue": "Görgü kurallarına uygun davranış; terbiyeli ve ölçülü olma hali.",
+      "clue": "Görgü kurallarına uygun davranış; terbiyeli ve ölçülü olma hali (4 harf) [B332-S8]",
       "answer": "EDEP"
     },
     {
@@ -214,7 +214,7 @@
       "row": 10,
       "col": 3,
       "length": 5,
-      "clue": "Mutfağa giren, bitki kökleri ve yapraklarından oluşan yenilebilir besin.",
+      "clue": "Mutfağa giren, bitki kökleri ve yapraklarından oluşan yenilebilir besin (5 harf) [B332-S9]",
       "answer": "SEBZE"
     }
   ]
