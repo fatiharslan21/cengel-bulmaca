@@ -1,0 +1,227 @@
+{
+  "id": 387,
+  "title": "Bölüm 387",
+  "difficulty": "Çok Zor",
+  "grid_size_r": 9,
+  "grid_size_c": 12,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "length": 5,
+      "clue": "Aynı amaca ulaşmak için karşı karşıya gelen, yarış halindeki hasım (5 harf) [B387-S1]",
+      "answer": "RAKİP"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 1,
+      "col": 3,
+      "length": 3,
+      "clue": "İçi kırmızı tanelerle dolu, kalın kabuklu, sonbahar aylarının meyvesi (3 harf) [B387-S2]",
+      "answer": "NAR"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 1,
+      "col": 8,
+      "length": 4,
+      "clue": "Niteliği kötü olan, insanın içini bunaltan; iyi sözcüğünün zıttı (4 harf) [B387-S3]",
+      "answer": "FENA"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 1,
+      "col": 10,
+      "length": 4,
+      "clue": "Birinin ya da bir şeyin kolayca etkilenebileceği zayıf noktası (4 harf) [B387-S4]",
+      "answer": "ZAAF"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 2,
+      "col": 7,
+      "length": 5,
+      "clue": "Bir olayın geçtiği ya da bir şeyin bulunduğu belirli yer; mahal (5 harf) [B387-S5]",
+      "answer": "MEKAN"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 3,
+      "col": 1,
+      "length": 6,
+      "clue": "Elinde olanla yetinip daha fazlasını istememe; tokgözlülük hali (6 harf) [B387-S6]",
+      "answer": "KANAAT"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 4,
+      "col": 4,
+      "length": 5,
+      "clue": "Kat kat hamuru kremayla birleştirilen, doğum günlerinde kesilen tatlı (5 harf) [B387-S7]",
+      "answer": "PASTA"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 4,
+      "col": 5,
+      "length": 4,
+      "clue": "Yanan bir şeyin üstünde dalgalanan, sıcak ve parlayan ışıklı kısım (4 harf) [B387-S8]",
+      "answer": "ALEV"
+    },
+    {
+      "number": 9,
+      "direction": "down",
+      "row": 5,
+      "col": 3,
+      "length": 3,
+      "clue": "Çanak çömlek yapımında kullanılan, suyla yumuşayan yapışkan toprak (3 harf) [B387-S9]",
+      "answer": "KİL"
+    },
+    {
+      "number": 10,
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "length": 6,
+      "clue": "Harcanan çabaya değmeyen; hiçbir yarar sağlamayan boş uğraş (6 harf) [B387-S10]",
+      "answer": "NAFİLE"
+    }
+  ]
+}

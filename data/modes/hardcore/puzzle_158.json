@@ -1,0 +1,221 @@
+{
+  "id": 158,
+  "title": "Bölüm 158",
+  "difficulty": "Orta",
+  "grid_size_r": 10,
+  "grid_size_c": 10,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "length": 4,
+      "clue": "Sıkıntılı ya da zor bir durumu ortadan kaldıracak çözüm yolu (4 harf) [B158-S1]",
+      "answer": "ÇARE"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 7,
+      "length": 6,
+      "clue": "İnsan ya da kürek gücüyle suda yol alan küçük açık deniz teknesi (6 harf) [B158-S2]",
+      "answer": "SANDAL"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 1,
+      "col": 3,
+      "length": 5,
+      "clue": "Üzerinde buğday, arpa ya da sebze yetiştirilen sürülmüş geniş toprak (5 harf) [B158-S3]",
+      "answer": "TARLA"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 1,
+      "col": 9,
+      "length": 3,
+      "clue": "Omuzlara atılan ya da başa örtülen, yumuşak geniş kumaş parçası (3 harf) [B158-S4]",
+      "answer": "ŞAL"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "length": 6,
+      "clue": "Bir toplantıda ya da günde ele alınacak konuların sıralı listesi (6 harf) [B158-S5]",
+      "answer": "GÜNDEM"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 3,
+      "col": 3,
+      "length": 4,
+      "clue": "Müziğin ritmine uyarak, düzenli vücut hareketleriyle yapılan sanatsal eylem (4 harf) [B158-S6]",
+      "answer": "DANS"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 3,
+      "col": 7,
+      "length": 3,
+      "clue": "Ağız içindeki kaslı organ; aynı zamanda insanların konuşarak anlaştığı sistem (3 harf) [B158-S7]",
+      "answer": "DİL"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 5,
+      "col": 1,
+      "length": 3,
+      "clue": "Havanın ısısının düşmesiyle suların yüzeyde buz tutması olayı (3 harf) [B158-S8]",
+      "answer": "DON"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 5,
+      "col": 5,
+      "length": 5,
+      "clue": "Su veya başka bir sıvıyla temas edip kurumamış olan nemli yüzey (5 harf) [B158-S9]",
+      "answer": "ISLAK"
+    },
+    {
+      "number": 10,
+      "direction": "down",
+      "row": 5,
+      "col": 8,
+      "length": 5,
+      "clue": "Dünyanın farklı bölgelerini gösteren haritaların toplandığı büyük kitap (5 harf) [B158-S10]",
+      "answer": "ATLAS"
+    }
+  ]
+}

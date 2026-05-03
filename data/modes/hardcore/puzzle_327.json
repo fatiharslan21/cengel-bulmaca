@@ -1,0 +1,205 @@
+{
+  "id": 327,
+  "title": "Bölüm 327",
+  "difficulty": "Zor",
+  "grid_size_r": 8,
+  "grid_size_c": 11,
+  "grid": [
+    [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1
+    ],
+    [
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 0,
+      "length": 4,
+      "clue": "İnce mukavvadan yapılmış, üzerine yazı yazılan ya da baskı yapılan levha (4 harf) [B327-S1]",
+      "answer": "KART"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "length": 3,
+      "clue": "Kalbin bulunduğu taraf; sağın tam karşıtı olan yön (3 harf) [B327-S2]",
+      "answer": "SOL"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 0,
+      "col": 10,
+      "length": 4,
+      "clue": "Ortaçağ Avrupası'nda soyluların yaşadığı kuleli, büyük taştan yapılı konak (4 harf) [B327-S3]",
+      "answer": "ŞATO"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 1,
+      "col": 3,
+      "length": 4,
+      "clue": "Bir işe girişirken göz önünde tutulan, ulaşılmak istenen son hedef (4 harf) [B327-S4]",
+      "answer": "GAYE"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "length": 4,
+      "clue": "Uykuda iken zihnin sahneler halinde canlandırdığı renkli görüntüler (4 harf) [B327-S5]",
+      "answer": "RÜYA"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 2,
+      "col": 6,
+      "length": 5,
+      "clue": "Gökyüzünde süzülen, su buharının yoğunlaşmasıyla oluşan beyaz küme (5 harf) [B327-S6]",
+      "answer": "BULUT"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 2,
+      "col": 6,
+      "length": 6,
+      "clue": "Bir binanın üst katlarından dışarı uzanan, parmaklıkla çevrili çıkıntı (6 harf) [B327-S6]",
+      "answer": "BALKON"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 4,
+      "col": 2,
+      "length": 5,
+      "clue": "Varlığı yerinde durmayıp sona ermesi; yokluğa geçme hali (5 harf) [B327-S7]",
+      "answer": "ZEVAL"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 4,
+      "col": 9,
+      "length": 4,
+      "clue": "İnsanın başına gelenleri belirlediğine inanılan şans, talih ya da kader (4 harf) [B327-S8]",
+      "answer": "BAHT"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 5,
+      "col": 6,
+      "length": 4,
+      "clue": "Beyazın tam zıttı olan, gölgeleri bile koyulaştıran siyah ton (4 harf) [B327-S9]",
+      "answer": "KARA"
+    }
+  ]
+}

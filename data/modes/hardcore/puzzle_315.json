@@ -1,0 +1,211 @@
+{
+  "id": 315,
+  "title": "Bölüm 315",
+  "difficulty": "Zor",
+  "grid_size_r": 10,
+  "grid_size_c": 9,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 7,
+      "length": 3,
+      "clue": "Bir noktadan diğerine uzanan düz çizgi; yol ya da güzergâh (3 harf) [B315-S1]",
+      "answer": "HAT"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 2,
+      "col": 2,
+      "length": 6,
+      "clue": "Herkesin duyup tanıdığı; adını çevresinin çok ötesine taşıyan ün (6 harf) [B315-S2]",
+      "answer": "ŞÖHRET"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "length": 4,
+      "clue": "Atmosferi oluşturan, canlıların soluduğu renksiz ve kokusuz gaz karışımı (4 harf) [B315-S3]",
+      "answer": "HAVA"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 4,
+      "col": 7,
+      "length": 5,
+      "clue": "Bir cismin uzunluk, genişlik ve yükseklik gibi ölçülebilen özelliği (5 harf) [B315-S4]",
+      "answer": "BOYUT"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 5,
+      "col": 1,
+      "length": 5,
+      "clue": "Bir şeyin eksiksiz, kusursuz ve en üst düzeyde olgunlaşmış hali (5 harf) [B315-S5]",
+      "answer": "KEMAL"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 5,
+      "col": 3,
+      "length": 3,
+      "clue": "Arıların çiçeklerden topladığı nektarı işleyerek yaptığı koyu, tatlı gıda (3 harf) [B315-S6]",
+      "answer": "BAL"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 5,
+      "col": 3,
+      "length": 6,
+      "clue": "Bir binanın üst katlarından dışarı uzanan, parmaklıkla çevrili çıkıntı (6 harf) [B315-S6]",
+      "answer": "BALKON"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "length": 4,
+      "clue": "Bir olayın kaçıncı kez yaşandığını anlatmak için kullanılan kez sözcüğü (4 harf) [B315-S7]",
+      "answer": "DEFA"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 7,
+      "col": 6,
+      "length": 3,
+      "clue": "Mektupların üzerine yapıştırılan, postanın ücretini belgeleyen küçük kâğıt (3 harf) [B315-S8]",
+      "answer": "PUL"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "length": 3,
+      "clue": "Toprağın içinden çıkan, sert ve ağır olan doğal kayaç parçası (3 harf) [B315-S9]",
+      "answer": "TAŞ"
+    }
+  ]
+}

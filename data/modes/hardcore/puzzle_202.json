@@ -1,0 +1,233 @@
+{
+  "id": 202,
+  "title": "Bölüm 202",
+  "difficulty": "Orta",
+  "grid_size_r": 11,
+  "grid_size_c": 10,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "length": 4,
+      "clue": "Bir evin ya da iş yerinin kullanımı için sahibine ödenen aylık ücret (4 harf) [B202-S1]",
+      "answer": "KIRA"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 1,
+      "col": 4,
+      "length": 3,
+      "clue": "Derin ve dik uçurum; aynı zamanda sevilen kişi için kullanılan şiirsel ad (3 harf) [B202-S2]",
+      "answer": "YAR"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 3,
+      "col": 2,
+      "length": 4,
+      "clue": "Bir tarafı yapışkan olan, eşyaları tutturmaya yarayan uzun ince şerit (4 harf) [B202-S3]",
+      "answer": "BANT"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 3,
+      "col": 2,
+      "length": 6,
+      "clue": "Su, çay ya da başka içecekleri içmek için kullanılan küçük kap (6 harf) [B202-S3]",
+      "answer": "BARDAK"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 3,
+      "col": 7,
+      "length": 4,
+      "clue": "Çevresindeki yapılardan çok daha yüksek olan, dar ve uzun yapı (4 harf) [B202-S4]",
+      "answer": "KULE"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "length": 6,
+      "clue": "Bir toplantıda ya da günde ele alınacak konuların sıralı listesi (6 harf) [B202-S5]",
+      "answer": "GÜNDEM"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 6,
+      "col": 6,
+      "length": 3,
+      "clue": "Silmek, temizlemek ya da örtmek için kullanılan dokuma kumaş parçası (3 harf) [B202-S6]",
+      "answer": "BEZ"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 6,
+      "col": 8,
+      "length": 3,
+      "clue": "Üstesinden gelinmesi emek isteyen; kolayın tam karşıtı sayılan güç iş (3 harf) [B202-S7]",
+      "answer": "ZOR"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 8,
+      "col": 6,
+      "length": 4,
+      "clue": "Hayvanların otlayıp beslenmesi için ayrılmış, doğal otlarla kaplı geniş alan (4 harf) [B202-S8]",
+      "answer": "MERA"
+    },
+    {
+      "number": 9,
+      "direction": "down",
+      "row": 8,
+      "col": 9,
+      "length": 3,
+      "clue": "Soyun büyüklerinden sayılan dede ya da daha öncesinden gelen büyük (3 harf) [B202-S9]",
+      "answer": "ATA"
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "id": 488,
+  "title": "Bölüm 488",
+  "difficulty": "Çok Zor",
+  "grid_size_r": 12,
+  "grid_size_c": 10,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "across",
+      "row": 0,
+      "col": 4,
+      "length": 4,
+      "clue": "Bir işi başarmak için gösterilen büyük çaba, gayret ve çalışma (4 harf) [B488-S1]",
+      "answer": "CEHD"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "length": 7,
+      "clue": "Doktorların çalıştığı, hastaların tedavi edildiği büyük sağlık kurumu (7 harf) [B488-S2]",
+      "answer": "HASTANE"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 2,
+      "col": 6,
+      "length": 4,
+      "clue": "Akrep, yelkovan ve rakamlarla anı gösteren; zamanı ölçen günlük araç (4 harf) [B488-S3]",
+      "answer": "SAAT"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 3,
+      "col": 2,
+      "length": 5,
+      "clue": "Yararlanılan, şükür duyulan değerli varlık; insana verilmiş lütuf (5 harf) [B488-S4]",
+      "answer": "NİMET"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 5,
+      "col": 3,
+      "length": 4,
+      "clue": "Saçı ya da kemeri tutturmaya yarayan, klips gibi açılıp kapanan küçük süs (4 harf) [B488-S5]",
+      "answer": "TOKA"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 5,
+      "col": 3,
+      "length": 5,
+      "clue": "Yelkenli ya da motorlu olup denizde kısa yolculuklara çıkan küçük gemi (5 harf) [B488-S5]",
+      "answer": "TEKNE"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 7,
+      "col": 1,
+      "length": 5,
+      "clue": "Bitkinin üreme organı; genellikle göz alıcı renkleri ve kokusu olan kısım (5 harf) [B488-S6]",
+      "answer": "ÇİÇEK"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 7,
+      "col": 3,
+      "length": 3,
+      "clue": "Bir binanın birbirinin üzerine gelen yatay bölümlerinden her biri (3 harf) [B488-S7]",
+      "answer": "KAT"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "length": 4,
+      "clue": "İnsanların içinde oturduğu ya da çalıştığı, taş ve betondan yapılmış yapı (4 harf) [B488-S8]",
+      "answer": "BİNA"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 10,
+      "col": 0,
+      "length": 4,
+      "clue": "Güneşin batmasından doğmasına kadar süren karanlık zaman dilimi (4 harf) [B488-S9]",
+      "answer": "GECE"
+    }
+  ]
+}

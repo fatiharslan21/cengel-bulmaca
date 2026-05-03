@@ -1,0 +1,200 @@
+{
+  "id": 87,
+  "title": "Bölüm 87",
+  "difficulty": "Kolay",
+  "grid_size_r": 9,
+  "grid_size_c": 10,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "length": 3,
+      "clue": "Bir kişinin atalarından gelen kan bağı; aile kökeni ve nesli (3 harf) [B87-S1]",
+      "answer": "SOY"
+    },
+    {
+      "number": 1,
+      "direction": "across",
+      "row": 0,
+      "col": 5,
+      "length": 5,
+      "clue": "Güneşin doğmasıyla başlayıp öğleye kadar süren günün ilk dilimi (5 harf) [B87-S1]",
+      "answer": "SABAH"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 2,
+      "col": 5,
+      "length": 4,
+      "clue": "Kalemin kâğıda bıraktığı; harflerden oluşan okunabilir işaretler (4 harf) [B87-S2]",
+      "answer": "YAZI"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 2,
+      "col": 7,
+      "length": 5,
+      "clue": "Düğünlerde davulla birlikte çalınan, ince tiz sesli üflemeli halk çalgısı (5 harf) [B87-S3]",
+      "answer": "ZURNA"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 4,
+      "col": 3,
+      "length": 5,
+      "clue": "Şehirlerde iki yanı binalarla çevrili, taşıtların geçtiği geniş ana yol (5 harf) [B87-S4]",
+      "answer": "CADDE"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 5,
+      "col": 5,
+      "length": 4,
+      "clue": "Karşısına geçenin görüntüsünü aynen yansıtan sırlanmış cam yüzey (4 harf) [B87-S5]",
+      "answer": "AYNA"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 5,
+      "col": 5,
+      "length": 3,
+      "clue": "Bir hastalığa karşı bağışıklık kazandırmak için vücuda verilen ilaç (3 harf) [B87-S5]",
+      "answer": "AŞI"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 6,
+      "col": 3,
+      "length": 3,
+      "clue": "Uyku sırasında zihnin canlandırdığı görüntüler ya da uyanıkken kurulan hayal (3 harf) [B87-S6]",
+      "answer": "DÜŞ"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "length": 5,
+      "clue": "İnsana sadakatiyle bilinen, havlayarak seslenen evcil dört ayaklı (5 harf) [B87-S7]",
+      "answer": "KÖPEK"
+    }
+  ]
+}

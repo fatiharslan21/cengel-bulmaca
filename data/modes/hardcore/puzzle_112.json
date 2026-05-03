@@ -1,0 +1,182 @@
+{
+  "id": 112,
+  "title": "Bölüm 112",
+  "difficulty": "Kolay",
+  "grid_size_r": 9,
+  "grid_size_c": 8,
+  "grid": [
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "length": 4,
+      "clue": "Kalemin kâğıda bıraktığı; harflerden oluşan okunabilir işaretler (4 harf) [B112-S1]",
+      "answer": "YAZI"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "length": 5,
+      "clue": "Ani ve sert bir hareketle yapılan vuruş; çarpma sonucu alınan sarsıntı (5 harf) [B112-S2]",
+      "answer": "DARBE"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 0,
+      "col": 4,
+      "length": 4,
+      "clue": "Üçten sonra gelen, mevsim ve yön sayısına denk gelen doğal sayı (4 harf) [B112-S2]",
+      "answer": "DÖRT"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 0,
+      "col": 7,
+      "length": 3,
+      "clue": "Aynı ortak özellikleri taşıyan canlıların oluşturduğu sınıflama birimi (3 harf) [B112-S3]",
+      "answer": "TÜR"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "length": 3,
+      "clue": "Dört bir yanı suyla çevrili, denizin ortasında kalmış toprak parçası (3 harf) [B112-S4]",
+      "answer": "ADA"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 3,
+      "col": 6,
+      "length": 3,
+      "clue": "Bitkinin çiçek ya da yaprağını gövdeye bağlayan uzun ve ince bölüm (3 harf) [B112-S5]",
+      "answer": "SAP"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 4,
+      "col": 3,
+      "length": 4,
+      "clue": "Bir olayın kaçıncı kez yaşandığını anlatmak için kullanılan kez sözcüğü (4 harf) [B112-S6]",
+      "answer": "DEFA"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 4,
+      "col": 3,
+      "length": 5,
+      "clue": "Bir varsayımı doğrulamak amacıyla yapılan, kontrollü bilimsel çalışma (5 harf) [B112-S6]",
+      "answer": "DENEY"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "length": 4,
+      "clue": "Boş zamanlarda eğlence ya da öğrenme amacıyla kurallara göre oynanan etkinlik (4 harf) [B112-S7]",
+      "answer": "OYUN"
+    }
+  ]
+}

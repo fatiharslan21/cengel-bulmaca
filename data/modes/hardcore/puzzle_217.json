@@ -1,0 +1,222 @@
+{
+  "id": 217,
+  "title": "Bölüm 217",
+  "difficulty": "Orta",
+  "grid_size_r": 11,
+  "grid_size_c": 9,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "length": 4,
+      "clue": "Mutfakta yemek pişirmeyi meslek edinmiş, lezzetten anlayan kişi (4 harf) [B217-S1]",
+      "answer": "AŞÇI"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 2,
+      "col": 5,
+      "length": 6,
+      "clue": "Geceleri ötüşüyle tanınan, sesi şiirlere konu olmuş küçük kahverengi kuş (6 harf) [B217-S2]",
+      "answer": "BÜLBÜL"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 2,
+      "col": 5,
+      "length": 4,
+      "clue": "Gökyüzündeki yıldız öbeklerinin oluşturduğu, astrolojide kullanılan imge (4 harf) [B217-S2]",
+      "answer": "BURÇ"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 4,
+      "col": 3,
+      "length": 5,
+      "clue": "Kat kat hamuru kremayla birleştirilen, doğum günlerinde kesilen tatlı (5 harf) [B217-S3]",
+      "answer": "PASTA"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 4,
+      "col": 3,
+      "length": 5,
+      "clue": "Havada uçağı yöneten, onu kalkış ve inişlerde kullanan yetişmiş kişi (5 harf) [B217-S3]",
+      "answer": "PİLOT"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 4,
+      "col": 7,
+      "length": 4,
+      "clue": "Raylar üzerinde hareket eden, vagonları çeken büyük motorlu araç (4 harf) [B217-S4]",
+      "answer": "TREN"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "length": 4,
+      "clue": "Müziğin ritmine uyarak, düzenli vücut hareketleriyle yapılan sanatsal eylem (4 harf) [B217-S5]",
+      "answer": "DANS"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "length": 4,
+      "clue": "Atmosferi oluşturan, canlıların soluduğu renksiz ve kokusuz gaz karışımı (4 harf) [B217-S6]",
+      "answer": "HAVA"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 8,
+      "col": 1,
+      "length": 3,
+      "clue": "Soyun büyüklerinden sayılan dede ya da daha öncesinden gelen büyük (3 harf) [B217-S7]",
+      "answer": "ATA"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 10,
+      "col": 1,
+      "length": 4,
+      "clue": "Kaldırılması güç olan, hafif sözcüğünün zıttı sayılan kütle durumu (4 harf) [B217-S8]",
+      "answer": "AĞIR"
+    }
+  ]
+}

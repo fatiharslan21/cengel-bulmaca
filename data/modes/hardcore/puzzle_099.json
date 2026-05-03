@@ -1,0 +1,200 @@
+{
+  "id": 99,
+  "title": "Bölüm 99",
+  "difficulty": "Kolay",
+  "grid_size_r": 9,
+  "grid_size_c": 10,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 7,
+      "length": 5,
+      "clue": "Bilinmeyen bir şeyi öğrenmek için insanın içine düşen güçlü istek (5 harf) [B99-S1]",
+      "answer": "MERAK"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 2,
+      "col": 9,
+      "length": 3,
+      "clue": "Yağış almadığı için kum ve kayalarla kaplı, bitkisi çok seyrek olan bölge (3 harf) [B99-S2]",
+      "answer": "ÇÖL"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 4,
+      "col": 6,
+      "length": 5,
+      "clue": "Dünyanın farklı bölgelerini gösteren haritaların toplandığı büyük kitap (5 harf) [B99-S3]",
+      "answer": "ATLAS"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 4,
+      "col": 6,
+      "length": 4,
+      "clue": "İnsanın düşünmesini, anlamasını ve karar vermesini sağlayan zihinsel yeti (4 harf) [B99-S3]",
+      "answer": "AKIL"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 5,
+      "col": 3,
+      "length": 4,
+      "clue": "Kötü günde de yanında olan, gönülden sevilen yakın arkadaş (4 harf) [B99-S4]",
+      "answer": "DOST"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 5,
+      "col": 3,
+      "length": 4,
+      "clue": "Müziğin ritmine uyarak, düzenli vücut hareketleriyle yapılan sanatsal eylem (4 harf) [B99-S4]",
+      "answer": "DANS"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "length": 4,
+      "clue": "Toprağın üstünde ya da altında bulunan, kolay parçalanmayan büyük taş (4 harf) [B99-S5]",
+      "answer": "KAYA"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 6,
+      "col": 0,
+      "length": 3,
+      "clue": "Omuzdan bileğe kadar uzanan, eli bedene bağlayan üst uzvumuz (3 harf) [B99-S5]",
+      "answer": "KOL"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 7,
+      "col": 5,
+      "length": 3,
+      "clue": "Sevdiğine karşı gösterilen hafif cilve; yapmacık çekingenlik (3 harf) [B99-S6]",
+      "answer": "NAZ"
+    }
+  ]
+}

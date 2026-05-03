@@ -1,0 +1,227 @@
+{
+  "id": 162,
+  "title": "Bölüm 162",
+  "difficulty": "Orta",
+  "grid_size_r": 9,
+  "grid_size_c": 12,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 10,
+      "length": 5,
+      "clue": "Ciğerlere hava çekmek ve bırakmak; yaşamın sürdüğünün göstergesi soluk (5 harf) [B162-S1]",
+      "answer": "NEFES"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 1,
+      "col": 7,
+      "length": 5,
+      "clue": "Ucundan mürekkep ya da grafit akıtarak kâğıda yazı yazmayı sağlayan araç (5 harf) [B162-S2]",
+      "answer": "KALEM"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 2,
+      "col": 3,
+      "length": 3,
+      "clue": "Konuşan kişinin kendisini belirtmek için kullandığı birinci tekil zamir (3 harf) [B162-S3]",
+      "answer": "BEN"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 3,
+      "col": 7,
+      "length": 5,
+      "clue": "Kolla eli birbirine bağlayan, küçük kemiklerden oluşan eklem bölgesi (5 harf) [B162-S4]",
+      "answer": "BİLEK"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 3,
+      "col": 7,
+      "length": 6,
+      "clue": "Bir ülkeyi simgeleyen, özel renk ve işaretler taşıyan kumaş parçası (6 harf) [B162-S4]",
+      "answer": "BAYRAK"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 4,
+      "col": 2,
+      "length": 6,
+      "clue": "Türkiye Cumhuriyeti'nin başkenti ve İç Anadolu'nun en büyük şehri (6 harf) [B162-S5]",
+      "answer": "ANKARA"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 4,
+      "col": 2,
+      "length": 4,
+      "clue": "Sahte ya da taklit olmayan; bir şeyin gerçek ve temel olan hali (4 harf) [B162-S5]",
+      "answer": "ASIL"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 6,
+      "col": 6,
+      "length": 3,
+      "clue": "Bir üstün ya da yetkilinin önüne saygıyla sunma, takdim etme eylemi (3 harf) [B162-S6]",
+      "answer": "ARZ"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "length": 3,
+      "clue": "Yağış almadığı için kum ve kayalarla kaplı, bitkisi çok seyrek olan bölge (3 harf) [B162-S7]",
+      "answer": "ÇÖL"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 8,
+      "col": 7,
+      "length": 4,
+      "clue": "Çevresindeki yapılardan çok daha yüksek olan, dar ve uzun yapı (4 harf) [B162-S8]",
+      "answer": "KULE"
+    }
+  ]
+}

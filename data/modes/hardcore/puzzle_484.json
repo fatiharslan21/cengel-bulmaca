@@ -1,0 +1,218 @@
+{
+  "id": 484,
+  "title": "Bölüm 484",
+  "difficulty": "Çok Zor",
+  "grid_size_r": 9,
+  "grid_size_c": 11,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 10,
+      "length": 3,
+      "clue": "Çanak çömlek yapımında kullanılan, suyla yumuşayan yapışkan toprak (3 harf) [B484-S1]",
+      "answer": "KİL"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 1,
+      "col": 1,
+      "length": 4,
+      "clue": "Nüfusu kalabalık, altyapısı gelişmiş, şehir niteliğindeki yerleşim yeri (4 harf) [B484-S2]",
+      "answer": "KENT"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 1,
+      "col": 3,
+      "length": 5,
+      "clue": "Bir cümlenin sonuna konan en küçük yazı işareti; konumun kendisi (5 harf) [B484-S3]",
+      "answer": "NOKTA"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 2,
+      "col": 5,
+      "length": 5,
+      "clue": "İçten gelen bağlılık; gönülden duyulan samimi sevgi ve sadakat (5 harf) [B484-S4]",
+      "answer": "HULUS"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 2,
+      "col": 7,
+      "length": 4,
+      "clue": "Yolcuların ücret karşılığı geceyi geçirdiği, odaları olan konaklama işletmesi (4 harf) [B484-S5]",
+      "answer": "OTEL"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 2,
+      "col": 8,
+      "length": 5,
+      "clue": "Üzerinde buğday, arpa ya da sebze yetiştirilen sürülmüş geniş toprak (5 harf) [B484-S6]",
+      "answer": "TARLA"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "length": 6,
+      "clue": "Geniş kanatlarıyla yükseklerde süzülen, keskin gözlü yırtıcı büyük kuş (6 harf) [B484-S7]",
+      "answer": "KARTAL"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 4,
+      "col": 1,
+      "length": 5,
+      "clue": "Dünyanın farklı bölgelerini gösteren haritaların toplandığı büyük kitap (5 harf) [B484-S8]",
+      "answer": "ATLAS"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 5,
+      "col": 5,
+      "length": 4,
+      "clue": "Bir işin belirli kurallar içinde yapılmasını sağlayan yol; yöntem (4 harf) [B484-S9]",
+      "answer": "USUL"
+    },
+    {
+      "number": 10,
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "length": 5,
+      "clue": "Bir şeyin bir yerden başka bir yere taşınması; aktarma işlemi (5 harf) [B484-S10]",
+      "answer": "NAKİL"
+    }
+  ]
+}

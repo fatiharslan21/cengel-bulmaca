@@ -1,0 +1,233 @@
+{
+  "id": 455,
+  "title": "Bölüm 455",
+  "difficulty": "Çok Zor",
+  "grid_size_r": 11,
+  "grid_size_c": 10,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "length": 4,
+      "clue": "Bir sözcüğün ya da cümlenin ardında yatan anlam; içerdiği kavram (4 harf) [B455-S1]",
+      "answer": "MANA"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 1,
+      "col": 0,
+      "length": 3,
+      "clue": "Kimyada asitle tepkimeye girerek tuz oluşturan, karşıt özellikli madde (3 harf) [B455-S2]",
+      "answer": "BAZ"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "length": 4,
+      "clue": "Bir işe girişirken göz önünde tutulan, ulaşılmak istenen son hedef (4 harf) [B455-S3]",
+      "answer": "GAYE"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 1,
+      "col": 5,
+      "length": 4,
+      "clue": "Uzun kulaklı, sabırlı; köylerde yük taşımada kullanılan küçük binek hayvanı (4 harf) [B455-S4]",
+      "answer": "EŞEK"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "length": 4,
+      "clue": "Karanlığı dağıtan; göze hoş gelen aydınlatıcı parıltı (4 harf) [B455-S5]",
+      "answer": "ZİYA"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 3,
+      "col": 7,
+      "length": 4,
+      "clue": "Evde ya da iş yerinde gündelik hayatta kullanılan nesnelerin tümü (4 harf) [B455-S6]",
+      "answer": "EŞYA"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 4,
+      "col": 5,
+      "length": 3,
+      "clue": "Gövdesi tüylerle kaplı, kanatları yardımıyla uçabilen yumurtlayan canlı (3 harf) [B455-S7]",
+      "answer": "KUŞ"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 6,
+      "col": 6,
+      "length": 4,
+      "clue": "Bir miktarı ya da sırayı belirten; rakamlarla yazılan matematik kavramı (4 harf) [B455-S8]",
+      "answer": "SAYI"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 6,
+      "col": 6,
+      "length": 5,
+      "clue": "Güneşin doğmasıyla başlayıp öğleye kadar süren günün ilk dilimi (5 harf) [B455-S8]",
+      "answer": "SABAH"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 7,
+      "col": 3,
+      "length": 4,
+      "clue": "Saçı ya da kemeri tutturmaya yarayan, klips gibi açılıp kapanan küçük süs (4 harf) [B455-S9]",
+      "answer": "TOKA"
+    }
+  ]
+}

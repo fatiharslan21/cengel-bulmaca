@@ -1,0 +1,233 @@
+{
+  "id": 477,
+  "title": "Bölüm 477",
+  "difficulty": "Çok Zor",
+  "grid_size_r": 12,
+  "grid_size_c": 9,
+  "grid": [
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "length": 7,
+      "clue": "Gizli kalmış bir şeyin zamanı gelince gözle görünür olması; belirme (7 harf) [B477-S1]",
+      "answer": "TECELLİ"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "length": 3,
+      "clue": "Havanın bir yönden diğerine doğru hissedilebilir akışı; rüzgâr (3 harf) [B477-S2]",
+      "answer": "YEL"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "length": 4,
+      "clue": "Mahkemenin verdiği kararı bildiren, yazılı resmi belge (4 harf) [B477-S3]",
+      "answer": "İLAM"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 6,
+      "col": 1,
+      "length": 4,
+      "clue": "Anlaşılmayan bir konuyu açık bir dille anlatma; aydınlatıcı açıklama (4 harf) [B477-S4]",
+      "answer": "İZAH"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 6,
+      "col": 3,
+      "length": 4,
+      "clue": "Bacağın bileğinden aşağısı; üzerine basarak yürümemizi sağlayan uzuv (4 harf) [B477-S5]",
+      "answer": "AYAK"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 7,
+      "col": 5,
+      "length": 5,
+      "clue": "İnsanın ömür boyu karşılaştığı iyi ya da kötü raslantıların tümü; baht (5 harf) [B477-S6]",
+      "answer": "TALİH"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 7,
+      "col": 5,
+      "length": 4,
+      "clue": "Dağdan daha alçak, çevresine göre yüksek görünen küçük yükselti (4 harf) [B477-S6]",
+      "answer": "TEPE"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "length": 4,
+      "clue": "Müzik eserlerinde seslerin yükseklik ve uzunluğunu gösteren küçük simge (4 harf) [B477-S7]",
+      "answer": "NOTA"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 9,
+      "col": 3,
+      "length": 3,
+      "clue": "Gitme, olduğun yerde dur; git sözcüğünün tam karşıtı olan emir (3 harf) [B477-S8]",
+      "answer": "KAL"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 11,
+      "col": 3,
+      "length": 6,
+      "clue": "Bir işi başarmak için katlanılan güçlük; çekilen eziyet (6 harf) [B477-S9]",
+      "answer": "ZAHMET"
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "id": 224,
+  "title": "Bölüm 224",
+  "difficulty": "Orta",
+  "grid_size_r": 8,
+  "grid_size_c": 11,
+  "grid": [
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "length": 5,
+      "clue": "Sporda kuralların uygulanmasını denetleyen, karar veren yetkili kişi (5 harf) [B224-S1]",
+      "answer": "HAKEM"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "length": 3,
+      "clue": "Eskiden köylerde geniş topraklara sahip, sözü geçen nüfuzlu kişi (3 harf) [B224-S2]",
+      "answer": "AĞA"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "length": 6,
+      "clue": "Su, çay ya da başka içecekleri içmek için kullanılan küçük kap (6 harf) [B224-S3]",
+      "answer": "BARDAK"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 3,
+      "col": 1,
+      "length": 4,
+      "clue": "Bir olayın kaçıncı kez yaşandığını anlatmak için kullanılan kez sözcüğü (4 harf) [B224-S4]",
+      "answer": "DEFA"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 3,
+      "col": 6,
+      "length": 3,
+      "clue": "Bir işi yapabilme yeteneği; fiziksel ya da manevi olarak sahip olunan kuvvet (3 harf) [B224-S5]",
+      "answer": "GÜÇ"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 3,
+      "col": 6,
+      "length": 3,
+      "clue": "Karayla çevrili, deniz bağlantısı olmayan geniş durgun su birikintisi (3 harf) [B224-S5]",
+      "answer": "GÖL"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 3,
+      "col": 8,
+      "length": 3,
+      "clue": "Tarihte belli özelliklerle ayırt edilen uzun dönem; devir, asır (3 harf) [B224-S6]",
+      "answer": "ÇAĞ"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 4,
+      "col": 8,
+      "length": 3,
+      "clue": "Çiçeklerden topladığı nektarı bala dönüştüren, iğneli küçük böcek (3 harf) [B224-S7]",
+      "answer": "ARI"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 5,
+      "col": 3,
+      "length": 4,
+      "clue": "Başarı gösteren kimseye, çabasının karşılığı olarak verilen değerli armağan (4 harf) [B224-S8]",
+      "answer": "ÖDÜL"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 7,
+      "col": 4,
+      "length": 3,
+      "clue": "Omuzdan bileğe kadar uzanan, eli bedene bağlayan üst uzvumuz (3 harf) [B224-S9]",
+      "answer": "KOL"
+    }
+  ]
+}

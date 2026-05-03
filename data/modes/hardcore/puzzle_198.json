@@ -1,0 +1,233 @@
+{
+  "id": 198,
+  "title": "Bölüm 198",
+  "difficulty": "Orta",
+  "grid_size_r": 12,
+  "grid_size_c": 9,
+  "grid": [
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "length": 6,
+      "clue": "Yer kabuğunun kırılmasıyla meydana gelen, yüzeyi sarsan doğal olay (6 harf) [B198-S1]",
+      "answer": "DEPREM"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 1,
+      "col": 1,
+      "length": 5,
+      "clue": "Bilinmeyen bir şeyi öğrenmek için insanın içine düşen güçlü istek (5 harf) [B198-S2]",
+      "answer": "MERAK"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 1,
+      "col": 5,
+      "length": 4,
+      "clue": "Bir evin ya da iş yerinin kullanımı için sahibine ödenen aylık ücret (4 harf) [B198-S3]",
+      "answer": "KIRA"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "length": 4,
+      "clue": "Türkiye Cumhuriyeti'nin resmi para birimi; TL kısaltmasıyla yazılan değer (4 harf) [B198-S4]",
+      "answer": "LİRA"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 3,
+      "col": 8,
+      "length": 3,
+      "clue": "Yüceliğiyle saygı uyandıran; hem büyük hem görkemli olan varlık (3 harf) [B198-S5]",
+      "answer": "ULU"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 4,
+      "col": 4,
+      "length": 5,
+      "clue": "Hayal ürünü kahramanların yer aldığı, 'bir varmış bir yokmuş'la başlayan öykü (5 harf) [B198-S6]",
+      "answer": "MASAL"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 4,
+      "col": 6,
+      "length": 4,
+      "clue": "Akrep, yelkovan ve rakamlarla anı gösteren; zamanı ölçen günlük araç (4 harf) [B198-S7]",
+      "answer": "SAAT"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 6,
+      "col": 4,
+      "length": 3,
+      "clue": "Bir evin ya da binanın duvarlarla ayrılmış, belirli amaçla kullanılan bölümü (3 harf) [B198-S8]",
+      "answer": "ODA"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 7,
+      "col": 6,
+      "length": 3,
+      "clue": "İnsanın bedenini saran dış deri; vücudumuzun dış yüzü (3 harf) [B198-S9]",
+      "answer": "TEN"
+    },
+    {
+      "number": 10,
+      "direction": "down",
+      "row": 7,
+      "col": 7,
+      "length": 5,
+      "clue": "Undan mayalanıp fırında pişirilerek yapılan, sofranın temel besini (5 harf) [B198-S10]",
+      "answer": "EKMEK"
+    }
+  ]
+}

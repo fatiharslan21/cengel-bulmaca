@@ -1,0 +1,241 @@
+{
+  "id": 260,
+  "title": "Bölüm 260",
+  "difficulty": "Zor",
+  "grid_size_r": 10,
+  "grid_size_c": 12,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "length": 5,
+      "clue": "Bir işi ya da durumu ara vermeden sürdürme, aksatmadan götürme hali (5 harf) [B260-S1]",
+      "answer": "DEVAM"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 7,
+      "length": 4,
+      "clue": "Bir sanatçının ya da yazarın ortaya koyduğu özgün yapıt (4 harf) [B260-S2]",
+      "answer": "ESER"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "length": 4,
+      "clue": "Birini aldatmak için yapılan gizli düzen; dolap çevirme (4 harf) [B260-S3]",
+      "answer": "HİLE"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 1,
+      "col": 5,
+      "length": 4,
+      "clue": "Üzerinde yemek yemek ya da çalışmak için kullanılan ayaklı düz mobilya (4 harf) [B260-S4]",
+      "answer": "MASA"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 3,
+      "col": 2,
+      "length": 6,
+      "clue": "Bir kişinin emeğini ya da başarısını görüp açıkça beğenip övme (6 harf) [B260-S5]",
+      "answer": "TAKDİR"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 3,
+      "col": 6,
+      "length": 4,
+      "clue": "Açıklamaya uyan yanıt (4 harf) [B260-S6]",
+      "answer": "İNCE"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 5,
+      "col": 8,
+      "length": 5,
+      "clue": "Bilginin ötesinde, deneyim ve sezgiyle kazanılan derin anlayış (5 harf) [B260-S7]",
+      "answer": "İRFAN"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 6,
+      "col": 5,
+      "length": 5,
+      "clue": "Bir alanın ya da cismin dört bir yanını saran dış sınır; etraf (5 harf) [B260-S8]",
+      "answer": "ÇEVRE"
+    },
+    {
+      "number": 9,
+      "direction": "down",
+      "row": 7,
+      "col": 11,
+      "length": 3,
+      "clue": "Omuzlara atılan ya da başa örtülen, yumuşak geniş kumaş parçası (3 harf) [B260-S9]",
+      "answer": "ŞAL"
+    },
+    {
+      "number": 10,
+      "direction": "across",
+      "row": 8,
+      "col": 7,
+      "length": 5,
+      "clue": "Üzerinde buğday, arpa ya da sebze yetiştirilen sürülmüş geniş toprak (5 harf) [B260-S10]",
+      "answer": "TARLA"
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "id": 110,
+  "title": "Bölüm 110",
+  "difficulty": "Kolay",
+  "grid_size_r": 12,
+  "grid_size_c": 9,
+  "grid": [
+    [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 0,
+      "length": 4,
+      "clue": "Hastalıkları iyileştirmek amacıyla hazırlanan, doktor tarafından verilen madde (4 harf) [B110-S1]",
+      "answer": "İLAÇ"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "length": 4,
+      "clue": "Birbirinin eşi olan iki şeyden oluşan takım; tekin karşıtı sayı grubu (4 harf) [B110-S2]",
+      "answer": "ÇİFT"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 3,
+      "col": 3,
+      "length": 4,
+      "clue": "Dağdan daha alçak, çevresine göre yüksek görünen küçük yükselti (4 harf) [B110-S3]",
+      "answer": "TEPE"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 4,
+      "col": 6,
+      "length": 5,
+      "clue": "Padişah veya hükümdarların oturduğu, görkemli mimarisi olan büyük yapı (5 harf) [B110-S4]",
+      "answer": "SARAY"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 4,
+      "col": 6,
+      "length": 3,
+      "clue": "Bir kişinin atalarından gelen kan bağı; aile kökeni ve nesli (3 harf) [B110-S4]",
+      "answer": "SOY"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 6,
+      "col": 2,
+      "length": 5,
+      "clue": "Kamıştan ya da pancardan elde edilen; çay ve tatlılara katılan tatlı madde (5 harf) [B110-S5]",
+      "answer": "ŞEKER"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 6,
+      "col": 4,
+      "length": 5,
+      "clue": "Çorba, pilav gibi yemekleri ağza götürmek için kullanılan çukur sap (5 harf) [B110-S6]",
+      "answer": "KAŞIK"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 8,
+      "col": 2,
+      "length": 4,
+      "clue": "Sayılabilen nesnelerin her biri; küçük parça ya da adet (4 harf) [B110-S7]",
+      "answer": "TANE"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 9,
+      "col": 1,
+      "length": 4,
+      "clue": "Boyu kısa, dalları sık ve odunsu olan, çok dallı bodur bitki (4 harf) [B110-S8]",
+      "answer": "ÇALI"
+    }
+  ]
+}

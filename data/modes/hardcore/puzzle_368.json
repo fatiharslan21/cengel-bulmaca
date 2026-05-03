@@ -1,0 +1,241 @@
+{
+  "id": 368,
+  "title": "Bölüm 368",
+  "difficulty": "Zor",
+  "grid_size_r": 10,
+  "grid_size_c": 12,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "length": 5,
+      "clue": "Kitap, hikâye ya da makale gibi edebi eserler kaleme alan kimse (5 harf) [B368-S1]",
+      "answer": "YAZAR"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "length": 3,
+      "clue": "Bir binanın birbirinin üzerine gelen yatay bölümlerinden her biri (3 harf) [B368-S2]",
+      "answer": "KAT"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 4,
+      "col": 1,
+      "length": 4,
+      "clue": "İnsanı üzen, iç sıkıntısı veren; uzun süre geçmeyen tasa ve keder (4 harf) [B368-S3]",
+      "answer": "DERT"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 4,
+      "col": 4,
+      "length": 5,
+      "clue": "İnsanın ömür boyu karşılaştığı iyi ya da kötü raslantıların tümü; baht (5 harf) [B368-S4]",
+      "answer": "TALİH"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 5,
+      "col": 8,
+      "length": 5,
+      "clue": "Bitkinin üreme organı; genellikle göz alıcı renkleri ve kokusu olan kısım (5 harf) [B368-S5]",
+      "answer": "ÇİÇEK"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 5,
+      "col": 8,
+      "length": 4,
+      "clue": "Birbirinin eşi olan iki şeyden oluşan takım; tekin karşıtı sayı grubu (4 harf) [B368-S5]",
+      "answer": "ÇİFT"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "length": 5,
+      "clue": "Varlığı yerinde durmayıp sona ermesi; yokluğa geçme hali (5 harf) [B368-S6]",
+      "answer": "ZEVAL"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 6,
+      "col": 1,
+      "length": 4,
+      "clue": "Bir sanatçının ya da yazarın ortaya koyduğu özgün yapıt (4 harf) [B368-S7]",
+      "answer": "ESER"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 8,
+      "col": 4,
+      "length": 5,
+      "clue": "Ortak bir malın ya da işin her birine düşen pay; nasip (5 harf) [B368-S8]",
+      "answer": "HİSSE"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 9,
+      "col": 8,
+      "length": 4,
+      "clue": "İnce mukavvadan yapılmış, üzerine yazı yazılan ya da baskı yapılan levha (4 harf) [B368-S9]",
+      "answer": "KART"
+    }
+  ]
+}

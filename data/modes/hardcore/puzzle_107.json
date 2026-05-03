@@ -1,0 +1,191 @@
+{
+  "id": 107,
+  "title": "Bölüm 107",
+  "difficulty": "Kolay",
+  "grid_size_r": 11,
+  "grid_size_c": 7,
+  "grid": [
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "across",
+      "row": 0,
+      "col": 1,
+      "length": 4,
+      "clue": "Şehir içinde insanların dinlenip yürüdüğü, ağaçlıklı kamusal yeşil alan (4 harf) [B107-S1]",
+      "answer": "PARK"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "length": 3,
+      "clue": "Bir şeye bağlı bulunma; onunla ilgili ya da onun sahipliğinde olma (3 harf) [B107-S2]",
+      "answer": "AİT"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "length": 4,
+      "clue": "Çevresindeki yapılardan çok daha yüksek olan, dar ve uzun yapı (4 harf) [B107-S3]",
+      "answer": "KULE"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "length": 4,
+      "clue": "Ucu sivri, arkası delikli; dikiş dikmek için ipliği geçiren ince metal araç (4 harf) [B107-S4]",
+      "answer": "İĞNE"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 3,
+      "col": 3,
+      "length": 4,
+      "clue": "Sırtında hörgücü bulunan, çölde uzun süre susuzluğa dayanabilen büyük hayvan (4 harf) [B107-S5]",
+      "answer": "DEVE"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 3,
+      "col": 3,
+      "length": 5,
+      "clue": "İçine üflenince tiz bir ses çıkaran, ince ve boru biçimli küçük alet (5 harf) [B107-S5]",
+      "answer": "DÜDÜK"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "length": 4,
+      "clue": "Kanatları sayesinde havalanıp gökyüzünde uçan motorlu büyük taşıt (4 harf) [B107-S6]",
+      "answer": "UÇAK"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 7,
+      "col": 2,
+      "length": 4,
+      "clue": "Bacağın bileğinden aşağısı; üzerine basarak yürümemizi sağlayan uzuv (4 harf) [B107-S7]",
+      "answer": "AYAK"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 9,
+      "col": 2,
+      "length": 4,
+      "clue": "Kaldırılması güç olan, hafif sözcüğünün zıttı sayılan kütle durumu (4 harf) [B107-S8]",
+      "answer": "AĞIR"
+    }
+  ]
+}

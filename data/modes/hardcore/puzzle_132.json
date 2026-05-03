@@ -1,0 +1,197 @@
+{
+  "id": 132,
+  "title": "Bölüm 132",
+  "difficulty": "Orta",
+  "grid_size_r": 8,
+  "grid_size_c": 10,
+  "grid": [
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "across",
+      "row": 0,
+      "col": 2,
+      "length": 4,
+      "clue": "Birbirinin eşi olan iki şeyden oluşan takım; tekin karşıtı sayı grubu (4 harf) [B132-S1]",
+      "answer": "ÇİFT"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "length": 3,
+      "clue": "Bin kilograma eşit olan büyük ağırlık ölçü birimi (3 harf) [B132-S2]",
+      "answer": "TON"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 1,
+      "col": 5,
+      "length": 5,
+      "clue": "Geniş bir alana yayılmış, iç içe büyümüş ağaçlardan oluşan doğal yaşam (5 harf) [B132-S3]",
+      "answer": "ORMAN"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "length": 4,
+      "clue": "Yeni durumlara hızla uyum sağlayıp doğru kararlar verebilme yeteneği (4 harf) [B132-S4]",
+      "answer": "ZEKA"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 2,
+      "col": 3,
+      "length": 3,
+      "clue": "Konuşan kişinin kendisini belirtmek için kullandığı birinci tekil zamir (3 harf) [B132-S5]",
+      "answer": "BEN"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 2,
+      "col": 3,
+      "length": 5,
+      "clue": "Suda yaşayan, solungaçlarıyla soluyan, yüzgeçleriyle hareket eden canlı (5 harf) [B132-S5]",
+      "answer": "BALIK"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "length": 4,
+      "clue": "Suç işleyen kimseye, yaptığının karşılığı olarak verilen yaptırım (4 harf) [B132-S6]",
+      "answer": "CEZA"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 3,
+      "col": 6,
+      "length": 5,
+      "clue": "Ani ve sert bir hareketle yapılan vuruş; çarpma sonucu alınan sarsıntı (5 harf) [B132-S7]",
+      "answer": "DARBE"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 4,
+      "col": 3,
+      "length": 5,
+      "clue": "Gemilerin yük boşalttığı, fırtınadan korunarak demirlediği deniz kıyısı (5 harf) [B132-S8]",
+      "answer": "LİMAN"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 7,
+      "col": 5,
+      "length": 4,
+      "clue": "Niteliği kötü olan, insanın içini bunaltan; iyi sözcüğünün zıttı (4 harf) [B132-S9]",
+      "answer": "FENA"
+    }
+  ]
+}

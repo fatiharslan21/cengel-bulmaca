@@ -1,0 +1,209 @@
+{
+  "id": 277,
+  "title": "Bölüm 277",
+  "difficulty": "Zor",
+  "grid_size_r": 12,
+  "grid_size_c": 7,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "length": 6,
+      "clue": "Belirli bir ülkenin sınırlarında örgütlenmiş siyasi ve yönetimsel yapı (6 harf) [B277-S1]",
+      "answer": "DEVLET"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 1,
+      "col": 3,
+      "length": 3,
+      "clue": "İnsanın bedenini saran dış deri; vücudumuzun dış yüzü (3 harf) [B277-S2]",
+      "answer": "TEN"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "length": 4,
+      "clue": "Ayıp sayılan bir şey karşısında insanın yüzünü kızartan çekinme duygusu (4 harf) [B277-S3]",
+      "answer": "HAYA"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "length": 6,
+      "clue": "Harcanan çabaya değmeyen; hiçbir yarar sağlamayan boş uğraş (6 harf) [B277-S4]",
+      "answer": "NAFİLE"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "length": 5,
+      "clue": "Saniyelerden yıllara uzanan; akıp giden, geri döndürülemeyen zaman (5 harf) [B277-S5]",
+      "answer": "VAKİT"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 5,
+      "col": 2,
+      "length": 3,
+      "clue": "Alevi sönmüş ama sıcaklığı ve kızıllığı süren yanmakta olan parça (3 harf) [B277-S6]",
+      "answer": "KOR"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "length": 5,
+      "clue": "Gönülde beslenen amaç; ulaşılmak istenen iç istek (5 harf) [B277-S7]",
+      "answer": "MERAM"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 7,
+      "col": 0,
+      "length": 5,
+      "clue": "İçe işleyen hafif hüzün; kimseye belli edilmeyen sessiz usanç (5 harf) [B277-S7]",
+      "answer": "MELAL"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 7,
+      "col": 4,
+      "length": 5,
+      "clue": "Ölünün toprağa verildiği, başında taş bulunan defin yeri; kabir (5 harf) [B277-S8]",
+      "answer": "MEZAR"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 10,
+      "col": 3,
+      "length": 4,
+      "clue": "Bir kurala, şahsa ya da düzene bağlı olan; ona uymak durumunda kalan (4 harf) [B277-S9]",
+      "answer": "TABİ"
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "id": 428,
+  "title": "Bölüm 428",
+  "difficulty": "Çok Zor",
+  "grid_size_r": 12,
+  "grid_size_c": 9,
+  "grid": [
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "across",
+      "row": 0,
+      "col": 1,
+      "length": 4,
+      "clue": "Başımızın üstünde uzanan mavi kubbe; yıldızları barındıran gökyüzü (4 harf) [B428-S1]",
+      "answer": "SEMA"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "length": 3,
+      "clue": "Metal ya da tırnak gibi sert yüzeyleri aşındırarak düzelten dişli alet (3 harf) [B428-S2]",
+      "answer": "EĞE"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "length": 4,
+      "clue": "Gönle çöken derin üzüntü, insanı içten içe yiyen keder (4 harf) [B428-S3]",
+      "answer": "ELEM"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 2,
+      "col": 0,
+      "length": 5,
+      "clue": "Belirlenen vaktin öncesinde gelme; geç kalmanın tersi durumu (5 harf) [B428-S3]",
+      "answer": "ERKEN"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 2,
+      "col": 3,
+      "length": 5,
+      "clue": "Yumuşak huylu, kolay geçinilen; sert tavır göstermeyen uysal kimse (5 harf) [B428-S4]",
+      "answer": "MUNİS"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 4,
+      "col": 6,
+      "length": 4,
+      "clue": "Üzerinde yemek yemek ya da çalışmak için kullanılan ayaklı düz mobilya (4 harf) [B428-S5]",
+      "answer": "MASA"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 5,
+      "col": 2,
+      "length": 6,
+      "clue": "Sevgiliden uzak düşmenin yürekte açtığı derin ayrılık acısı (6 harf) [B428-S6]",
+      "answer": "HİCRAN"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 6,
+      "col": 8,
+      "length": 4,
+      "clue": "İnsanın başına gelenleri belirlediğine inanılan şans, talih ya da kader (4 harf) [B428-S7]",
+      "answer": "BAHT"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 7,
+      "col": 5,
+      "length": 4,
+      "clue": "İstemeden yapılan yanlış; doğru olandan sapmanın yol açtığı kusur (4 harf) [B428-S8]",
+      "answer": "HATA"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 7,
+      "col": 5,
+      "length": 5,
+      "clue": "İç sıkıntısının olmadığı, gönlün rahat ettiği dingin ruh hali (5 harf) [B428-S8]",
+      "answer": "HUZUR"
+    }
+  ]
+}

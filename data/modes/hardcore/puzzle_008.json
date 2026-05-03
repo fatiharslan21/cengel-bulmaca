@@ -1,0 +1,164 @@
+{
+  "id": 8,
+  "title": "Bölüm 8",
+  "difficulty": "Kolay",
+  "grid_size_r": 8,
+  "grid_size_c": 7,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "length": 3,
+      "clue": "Bir kimsenin ya da şeyin bulunduğu durum, vaziyet ya da keyif (3 harf) [B8-S1]",
+      "answer": "HAL"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 1,
+      "col": 4,
+      "length": 4,
+      "clue": "Üzerinde yapı bulunmayan, belli sınırlarla çevrili geniş açık düzlük (4 harf) [B8-S2]",
+      "answer": "ALAN"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 1,
+      "col": 4,
+      "length": 3,
+      "clue": "Dört bir yanı suyla çevrili, denizin ortasında kalmış toprak parçası (3 harf) [B8-S2]",
+      "answer": "ADA"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 2,
+      "col": 2,
+      "length": 3,
+      "clue": "Uyku sırasında zihnin canlandırdığı görüntüler ya da uyanıkken kurulan hayal (3 harf) [B8-S3]",
+      "answer": "DÜŞ"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 4,
+      "col": 2,
+      "length": 4,
+      "clue": "İnsana gülen talih; iyi bir sonucun tesadüfen kısmet olması hali (4 harf) [B8-S4]",
+      "answer": "ŞANS"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 4,
+      "col": 3,
+      "length": 3,
+      "clue": "Bir cismin aşağı tarafı; üst sözcüğünün tam karşıtı olan yön (3 harf) [B8-S5]",
+      "answer": "ALT"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 4,
+      "col": 5,
+      "length": 3,
+      "clue": "İnek, keçi gibi memelilerden sağılan; beyaz renkli besleyici temel içecek (3 harf) [B8-S6]",
+      "answer": "SÜT"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 5,
+      "col": 1,
+      "length": 3,
+      "clue": "Pantolon ya da ceketin içine dikilmiş, ufak eşya konulan küçük kese (3 harf) [B8-S7]",
+      "answer": "CEP"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "length": 4,
+      "clue": "İnsanı üzen, iç sıkıntısı veren; uzun süre geçmeyen tasa ve keder (4 harf) [B8-S8]",
+      "answer": "DERT"
+    }
+  ]
+}

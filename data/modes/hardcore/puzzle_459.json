@@ -1,0 +1,241 @@
+{
+  "id": 459,
+  "title": "Bölüm 459",
+  "difficulty": "Çok Zor",
+  "grid_size_r": 10,
+  "grid_size_c": 12,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 10,
+      "length": 4,
+      "clue": "Limon ve altın tonlarında olan, güneşi çağrıştıran canlı sıcak renk (4 harf) [B459-S1]",
+      "answer": "SARI"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 2,
+      "col": 7,
+      "length": 4,
+      "clue": "Boyu kısa, dalları sık ve odunsu olan, çok dallı bodur bitki (4 harf) [B459-S2]",
+      "answer": "ÇALI"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 2,
+      "col": 7,
+      "length": 5,
+      "clue": "Bir alanın ya da cismin dört bir yanını saran dış sınır; etraf (5 harf) [B459-S2]",
+      "answer": "ÇEVRE"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 3,
+      "col": 1,
+      "length": 5,
+      "clue": "Yararlanılan, şükür duyulan değerli varlık; insana verilmiş lütuf (5 harf) [B459-S3]",
+      "answer": "NİMET"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "length": 4,
+      "clue": "Karanlığı dağıtan; göze hoş gelen aydınlatıcı parıltı (4 harf) [B459-S4]",
+      "answer": "ZİYA"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 4,
+      "col": 5,
+      "length": 5,
+      "clue": "Gökyüzünde süzülen, su buharının yoğunlaşmasıyla oluşan beyaz küme (5 harf) [B459-S5]",
+      "answer": "BULUT"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 4,
+      "col": 5,
+      "length": 4,
+      "clue": "Bir tarafı yapışkan olan, eşyaları tutturmaya yarayan uzun ince şerit (4 harf) [B459-S5]",
+      "answer": "BANT"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 4,
+      "col": 9,
+      "length": 6,
+      "clue": "Bir kişinin emeğini ya da başarısını görüp açıkça beğenip övme (6 harf) [B459-S6]",
+      "answer": "TAKDİR"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 6,
+      "col": 1,
+      "length": 5,
+      "clue": "Belirlenen vaktin öncesinde gelme; geç kalmanın tersi durumu (5 harf) [B459-S7]",
+      "answer": "ERKEN"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 7,
+      "col": 5,
+      "length": 3,
+      "clue": "Toprağın içinden çıkan, sert ve ağır olan doğal kayaç parçası (3 harf) [B459-S8]",
+      "answer": "TAŞ"
+    }
+  ]
+}

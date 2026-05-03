@@ -1,0 +1,204 @@
+{
+  "id": 36,
+  "title": "Bölüm 36",
+  "difficulty": "Kolay",
+  "grid_size_r": 8,
+  "grid_size_c": 12,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 7,
+      "length": 3,
+      "clue": "Uyku sırasında zihnin canlandırdığı görüntüler ya da uyanıkken kurulan hayal (3 harf) [B36-S1]",
+      "answer": "DÜŞ"
+    },
+    {
+      "number": 1,
+      "direction": "across",
+      "row": 0,
+      "col": 7,
+      "length": 5,
+      "clue": "Üzerinde yaşadığımız, Güneş'in çevresinde dönen mavi yeşil gezegen (5 harf) [B36-S1]",
+      "answer": "DÜNYA"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "length": 3,
+      "clue": "Üzüm yetiştirilen tarla; aynı zamanda düğümle tutturma eylemi (3 harf) [B36-S2]",
+      "answer": "BAĞ"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 2,
+      "col": 3,
+      "length": 4,
+      "clue": "İlerinin zıttı; arkaya ya da başlangıca doğru olan yön (4 harf) [B36-S3]",
+      "answer": "GERİ"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 2,
+      "col": 5,
+      "length": 3,
+      "clue": "İnsanın yüzünü gülümseten, göze güzel gelen; beğenilen durum (3 harf) [B36-S4]",
+      "answer": "HOŞ"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 2,
+      "col": 5,
+      "length": 5,
+      "clue": "Bir olay ya da gelişme hakkında ulaşan yeni bilgi; duyuru (5 harf) [B36-S4]",
+      "answer": "HABER"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "length": 4,
+      "clue": "Bir ailenin oturduğu ev; aynı zamanda sayıdaki basamak anlamı taşır (4 harf) [B36-S5]",
+      "answer": "HANE"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 5,
+      "col": 2,
+      "length": 5,
+      "clue": "Bitkinin üreme organı; genellikle göz alıcı renkleri ve kokusu olan kısım (5 harf) [B36-S6]",
+      "answer": "ÇİÇEK"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 5,
+      "col": 2,
+      "length": 3,
+      "clue": "Demlenmiş yapraklarından içecek hazırlanan, ülkenin vazgeçilmez sıcak içkisi (3 harf) [B36-S6]",
+      "answer": "ÇAY"
+    }
+  ]
+}

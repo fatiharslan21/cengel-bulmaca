@@ -1,0 +1,221 @@
+{
+  "id": 312,
+  "title": "Bölüm 312",
+  "difficulty": "Zor",
+  "grid_size_r": 10,
+  "grid_size_c": 10,
+  "grid": [
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "length": 6,
+      "clue": "Bir işi başarmak için katlanılan güçlük; çekilen eziyet (6 harf) [B312-S1]",
+      "answer": "ZAHMET"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "length": 5,
+      "clue": "Sevinçle karşılanan, umut veren yeni gelen güzel haber (5 harf) [B312-S2]",
+      "answer": "MÜJDE"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "length": 4,
+      "clue": "Bir kurala, şahsa ya da düzene bağlı olan; ona uymak durumunda kalan (4 harf) [B312-S3]",
+      "answer": "TABİ"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 3,
+      "col": 1,
+      "length": 4,
+      "clue": "Sırtında hörgücü bulunan, çölde uzun süre susuzluğa dayanabilen büyük hayvan (4 harf) [B312-S4]",
+      "answer": "DEVE"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 4,
+      "col": 1,
+      "length": 4,
+      "clue": "Her canlı için önceden belirlendiğine inanılan ölüm zamanı (4 harf) [B312-S5]",
+      "answer": "ECEL"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "length": 5,
+      "clue": "Birbirini gören iki kişinin hal hatır sormak için söylediği esenlik dileği (5 harf) [B312-S6]",
+      "answer": "SELAM"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 6,
+      "col": 3,
+      "length": 4,
+      "clue": "Toprağa kök salmış, gövdesi odunlaşmış, uzun ömürlü büyük bitki (4 harf) [B312-S7]",
+      "answer": "AĞAÇ"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 6,
+      "col": 6,
+      "length": 4,
+      "clue": "Siyah beyaz karelere yerleştirilen taşlarla iki kişi arasında oynanan oyun (4 harf) [B312-S8]",
+      "answer": "DAMA"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 7,
+      "col": 6,
+      "length": 4,
+      "clue": "Kaldırılması güç olan, hafif sözcüğünün zıttı sayılan kütle durumu (4 harf) [B312-S9]",
+      "answer": "AĞIR"
+    },
+    {
+      "number": 10,
+      "direction": "across",
+      "row": 8,
+      "col": 2,
+      "length": 5,
+      "clue": "Kaybedilen bir yakının ardından tutulan koyu yas; siyahlar giyme hali (5 harf) [B312-S10]",
+      "answer": "MATEM"
+    }
+  ]
+}

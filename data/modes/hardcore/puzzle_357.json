@@ -1,0 +1,211 @@
+{
+  "id": 357,
+  "title": "Bölüm 357",
+  "difficulty": "Zor",
+  "grid_size_r": 10,
+  "grid_size_c": 9,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "length": 5,
+      "clue": "Hayal ürünü kahramanların yer aldığı, 'bir varmış bir yokmuş'la başlayan öykü (5 harf) [B357-S1]",
+      "answer": "MASAL"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 1,
+      "col": 2,
+      "length": 5,
+      "clue": "Padişah veya hükümdarların oturduğu, görkemli mimarisi olan büyük yapı (5 harf) [B357-S2]",
+      "answer": "SARAY"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 2,
+      "col": 1,
+      "length": 6,
+      "clue": "Bir kişinin emeğini ya da başarısını görüp açıkça beğenip övme (6 harf) [B357-S3]",
+      "answer": "TAKDİR"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "length": 4,
+      "clue": "Bir hakkı aramak için mahkemeye başvurularak açılan hukuki süreç (4 harf) [B357-S4]",
+      "answer": "DAVA"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 2,
+      "col": 6,
+      "length": 3,
+      "clue": "İnsanın bedenine hayat veren, duygularının ve düşüncelerinin kaynağı manevi öz (3 harf) [B357-S5]",
+      "answer": "RUH"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 4,
+      "col": 6,
+      "length": 3,
+      "clue": "Bir kimsenin ya da şeyin bulunduğu durum, vaziyet ya da keyif (3 harf) [B357-S6]",
+      "answer": "HAL"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "length": 6,
+      "clue": "Bir ülkeyi simgeleyen, özel renk ve işaretler taşıyan kumaş parçası (6 harf) [B357-S7]",
+      "answer": "BAYRAK"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 5,
+      "col": 5,
+      "length": 5,
+      "clue": "Saplı, parlak, kırmızı kabuklu; ilkbaharın sonunda olgunlaşan tatlı meyve (5 harf) [B357-S8]",
+      "answer": "KİRAZ"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 7,
+      "col": 3,
+      "length": 4,
+      "clue": "Hayvanların otlayıp beslenmesi için ayrılmış, doğal otlarla kaplı geniş alan (4 harf) [B357-S9]",
+      "answer": "MERA"
+    },
+    {
+      "number": 10,
+      "direction": "across",
+      "row": 9,
+      "col": 3,
+      "length": 5,
+      "clue": "Seslerin belli bir düzen içinde bir araya getirilmesiyle oluşan sanat (5 harf) [B357-S10]",
+      "answer": "MÜZİK"
+    }
+  ]
+}

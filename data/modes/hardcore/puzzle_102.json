@@ -1,0 +1,200 @@
+{
+  "id": 102,
+  "title": "Bölüm 102",
+  "difficulty": "Kolay",
+  "grid_size_r": 9,
+  "grid_size_c": 10,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "length": 5,
+      "clue": "Ani ve sert bir hareketle yapılan vuruş; çarpma sonucu alınan sarsıntı (5 harf) [B102-S1]",
+      "answer": "DARBE"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "length": 3,
+      "clue": "İçi kırmızı tanelerle dolu, kalın kabuklu, sonbahar aylarının meyvesi (3 harf) [B102-S2]",
+      "answer": "NAR"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 3,
+      "col": 1,
+      "length": 3,
+      "clue": "İçine sıvı ya da katı maddeler konulan her türlü şekilli eşya (3 harf) [B102-S3]",
+      "answer": "KAP"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 3,
+      "col": 3,
+      "length": 3,
+      "clue": "Suyun sıfır derecenin altına inerek katılaşmasıyla meydana gelen madde (3 harf) [B102-S4]",
+      "answer": "BUZ"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 3,
+      "col": 5,
+      "length": 3,
+      "clue": "Üstesinden gelinmesi emek isteyen; kolayın tam karşıtı sayılan güç iş (3 harf) [B102-S5]",
+      "answer": "ZOR"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "length": 4,
+      "clue": "Yeni toplanmış, bayatlamamış; canlılığını yeni yeni yitirmemiş olan (4 harf) [B102-S6]",
+      "answer": "TAZE"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 5,
+      "col": 5,
+      "length": 5,
+      "clue": "Programlanarak belirli işleri otomatik yapan mekanik insansı makine (5 harf) [B102-S7]",
+      "answer": "ROBOT"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 5,
+      "col": 9,
+      "length": 4,
+      "clue": "Raylar üzerinde hareket eden, vagonları çeken büyük motorlu araç (4 harf) [B102-S8]",
+      "answer": "TREN"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 7,
+      "col": 5,
+      "length": 5,
+      "clue": "Yelkenli ya da motorlu olup denizde kısa yolculuklara çıkan küçük gemi (5 harf) [B102-S9]",
+      "answer": "TEKNE"
+    }
+  ]
+}

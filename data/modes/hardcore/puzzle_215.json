@@ -1,0 +1,192 @@
+{
+  "id": 215,
+  "title": "Bölüm 215",
+  "difficulty": "Orta",
+  "grid_size_r": 7,
+  "grid_size_c": 11,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "across",
+      "row": 0,
+      "col": 4,
+      "length": 3,
+      "clue": "Üstesinden gelinmesi emek isteyen; kolayın tam karşıtı sayılan güç iş (3 harf) [B215-S1]",
+      "answer": "ZOR"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "length": 3,
+      "clue": "Bir evin ya da binanın duvarlarla ayrılmış, belirli amaçla kullanılan bölümü (3 harf) [B215-S2]",
+      "answer": "ODA"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 1,
+      "col": 1,
+      "length": 4,
+      "clue": "Fırında pişirilen, üstüne malzeme serilen, ince ve yassı hamur işi (4 harf) [B215-S3]",
+      "answer": "PİDE"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "length": 3,
+      "clue": "Ağız içindeki kaslı organ; aynı zamanda insanların konuşarak anlaştığı sistem (3 harf) [B215-S4]",
+      "answer": "DİL"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 2,
+      "col": 4,
+      "length": 4,
+      "clue": "Raylar üzerinde hareket eden, vagonları çeken büyük motorlu araç (4 harf) [B215-S5]",
+      "answer": "TREN"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 2,
+      "col": 4,
+      "length": 4,
+      "clue": "Bir kişinin ya da akımın kendine özgü yapma biçimi; üslup (4 harf) [B215-S5]",
+      "answer": "TARZ"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 2,
+      "col": 7,
+      "length": 5,
+      "clue": "Bir dağın en yüksek noktası; ulaşılabilecek en üst basamak (5 harf) [B215-S6]",
+      "answer": "ZİRVE"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "length": 6,
+      "clue": "Erkeklerin saçını kesip sakalını düzelten, dükkânında çalışan esnaf (6 harf) [B215-S7]",
+      "answer": "BERBER"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 4,
+      "col": 0,
+      "length": 3,
+      "clue": "İnsanın başından ayağına kadar olan uzunluğu; endam ya da kamet (3 harf) [B215-S7]",
+      "answer": "BOY"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 6,
+      "col": 6,
+      "length": 5,
+      "clue": "Kamıştan ya da pancardan elde edilen; çay ve tatlılara katılan tatlı madde (5 harf) [B215-S8]",
+      "answer": "ŞEKER"
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "id": 89,
+  "title": "Bölüm 89",
+  "difficulty": "Kolay",
+  "grid_size_r": 10,
+  "grid_size_c": 11,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "length": 4,
+      "clue": "İnsanın başına habersizce gelen ağır dert, büyük sıkıntı ya da musibet (4 harf) [B89-S1]",
+      "answer": "BELA"
+    },
+    {
+      "number": 1,
+      "direction": "across",
+      "row": 0,
+      "col": 8,
+      "length": 3,
+      "clue": "Üzüm yetiştirilen tarla; aynı zamanda düğümle tutturma eylemi (3 harf) [B89-S1]",
+      "answer": "BAĞ"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 2,
+      "col": 6,
+      "length": 4,
+      "clue": "İçine eşya konulan, çoğu zaman kapağı olan, dikdörtgen ya da kare biçimli hazne (4 harf) [B89-S2]",
+      "answer": "KUTU"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 2,
+      "col": 6,
+      "length": 3,
+      "clue": "Omuzdan bileğe kadar uzanan, eli bedene bağlayan üst uzvumuz (3 harf) [B89-S2]",
+      "answer": "KOL"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 5,
+      "col": 5,
+      "length": 3,
+      "clue": "Gövdesi tüylerle kaplı, kanatları yardımıyla uçabilen yumurtlayan canlı (3 harf) [B89-S3]",
+      "answer": "KUŞ"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 5,
+      "col": 5,
+      "length": 4,
+      "clue": "Bir evin ya da iş yerinin kullanımı için sahibine ödenen aylık ücret (4 harf) [B89-S3]",
+      "answer": "KIRA"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 7,
+      "col": 3,
+      "length": 4,
+      "clue": "İnsanı üzen, iç sıkıntısı veren; uzun süre geçmeyen tasa ve keder (4 harf) [B89-S4]",
+      "answer": "DERT"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 7,
+      "col": 3,
+      "length": 3,
+      "clue": "Genişliği yetersiz olan, sıkıştıran; geniş sözcüğünün karşıtı sıfat (3 harf) [B89-S4]",
+      "answer": "DAR"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "length": 4,
+      "clue": "Yeni durumlara hızla uyum sağlayıp doğru kararlar verebilme yeteneği (4 harf) [B89-S5]",
+      "answer": "ZEKA"
+    }
+  ]
+}

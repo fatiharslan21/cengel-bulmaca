@@ -1,0 +1,245 @@
+{
+  "id": 497,
+  "title": "Bölüm 497",
+  "difficulty": "Çok Zor",
+  "grid_size_r": 12,
+  "grid_size_c": 10,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "length": 4,
+      "clue": "Bir işe girişirken göz önünde tutulan, ulaşılmak istenen son hedef (4 harf) [B497-S1]",
+      "answer": "GAYE"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 1,
+      "col": 5,
+      "length": 4,
+      "clue": "Evde ya da iş yerinde gündelik hayatta kullanılan nesnelerin tümü (4 harf) [B497-S2]",
+      "answer": "EŞYA"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 3,
+      "col": 5,
+      "length": 4,
+      "clue": "Kalınlığı az olan; zarif ve narin yapıda bulunan; kalının karşıtı (4 harf) [B497-S3]",
+      "answer": "İNCE"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 3,
+      "col": 5,
+      "length": 3,
+      "clue": "Hoşa giden, yararlı ve olumlu olan; kötünün tam karşıtı olan nitelik (3 harf) [B497-S3]",
+      "answer": "İYİ"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 5,
+      "col": 4,
+      "length": 5,
+      "clue": "Alçakgönüllülükle yapılan yalvarış; Tanrı'dan dilenen istek (5 harf) [B497-S4]",
+      "answer": "NİYAZ"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 5,
+      "col": 4,
+      "length": 5,
+      "clue": "Ciğerlere hava çekmek ve bırakmak; yaşamın sürdüğünün göstergesi soluk (5 harf) [B497-S4]",
+      "answer": "NEFES"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "length": 5,
+      "clue": "Sevinçle karşılanan, umut veren yeni gelen güzel haber (5 harf) [B497-S5]",
+      "answer": "MÜJDE"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 8,
+      "col": 3,
+      "length": 5,
+      "clue": "Dinlerde iyilikle görevlendirilmiş, kanatlı olduğuna inanılan kutsal varlık (5 harf) [B497-S6]",
+      "answer": "MELEK"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 8,
+      "col": 6,
+      "length": 4,
+      "clue": "Uzun kulaklı, sabırlı; köylerde yük taşımada kullanılan küçük binek hayvanı (4 harf) [B497-S7]",
+      "answer": "EŞEK"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 10,
+      "col": 6,
+      "length": 4,
+      "clue": "Yapılan iyiliğin ya da çekilen sıkıntının karşılığı olarak verilen sevap (4 harf) [B497-S8]",
+      "answer": "ECİR"
+    }
+  ]
+}

@@ -1,0 +1,244 @@
+{
+  "id": 319,
+  "title": "Bölüm 319",
+  "difficulty": "Zor",
+  "grid_size_r": 11,
+  "grid_size_c": 11,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "length": 4,
+      "clue": "Dişleri sürekli uzayan, tahtayı ve kâğıdı kemirebilen küçük kemirgen (4 harf) [B319-S1]",
+      "answer": "FARE"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 1,
+      "col": 5,
+      "length": 6,
+      "clue": "Bir ülkeyi simgeleyen, özel renk ve işaretler taşıyan kumaş parçası (6 harf) [B319-S2]",
+      "answer": "BAYRAK"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 2,
+      "col": 1,
+      "length": 4,
+      "clue": "Kuşların yumurtladığı ağaç dalındaki çöpten örülmüş küçük barınak (4 harf) [B319-S3]",
+      "answer": "YUVA"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 3,
+      "col": 3,
+      "length": 5,
+      "clue": "Kolla eli birbirine bağlayan, küçük kemiklerden oluşan eklem bölgesi (5 harf) [B319-S4]",
+      "answer": "BİLEK"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 3,
+      "col": 4,
+      "length": 5,
+      "clue": "Bir şeyin anlamını kavrama; olup biteni zihinde anlamlandırma yeteneği (5 harf) [B319-S5]",
+      "answer": "İDRAK"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "length": 5,
+      "clue": "Bir olay ya da gelişme hakkında ulaşan yeni bilgi; duyuru (5 harf) [B319-S6]",
+      "answer": "HABER"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 5,
+      "col": 2,
+      "length": 3,
+      "clue": "Üzüm yetiştirilen tarla; aynı zamanda düğümle tutturma eylemi (3 harf) [B319-S7]",
+      "answer": "BAĞ"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "length": 3,
+      "clue": "Tarihte belli özelliklerle ayırt edilen uzun dönem; devir, asır (3 harf) [B319-S8]",
+      "answer": "ÇAĞ"
+    },
+    {
+      "number": 9,
+      "direction": "down",
+      "row": 7,
+      "col": 1,
+      "length": 4,
+      "clue": "Bacağın bileğinden aşağısı; üzerine basarak yürümemizi sağlayan uzuv (4 harf) [B319-S9]",
+      "answer": "AYAK"
+    },
+    {
+      "number": 10,
+      "direction": "across",
+      "row": 9,
+      "col": 0,
+      "length": 3,
+      "clue": "Bir kimsenin ya da şeyin bulunduğu durum, vaziyet ya da keyif (3 harf) [B319-S10]",
+      "answer": "HAL"
+    }
+  ]
+}

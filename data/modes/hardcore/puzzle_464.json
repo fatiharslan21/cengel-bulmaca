@@ -1,0 +1,227 @@
+{
+  "id": 464,
+  "title": "Bölüm 464",
+  "difficulty": "Çok Zor",
+  "grid_size_r": 9,
+  "grid_size_c": 12,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "length": 4,
+      "clue": "Sırtında hörgücü bulunan, çölde uzun süre susuzluğa dayanabilen büyük hayvan (4 harf) [B464-S1]",
+      "answer": "DEVE"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "length": 6,
+      "clue": "Kuşaktan kuşağa sözlü aktarılan, olağanüstü öğelerle süslenmiş hikâye (6 harf) [B464-S2]",
+      "answer": "EFSANE"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 1,
+      "col": 8,
+      "length": 6,
+      "clue": "Değerli eşyaların ya da paraların saklandığı gizli büyük birikim (6 harf) [B464-S3]",
+      "answer": "HAZİNE"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 1,
+      "col": 10,
+      "length": 4,
+      "clue": "Bir sözcüğün ya da cümlenin ardında yatan anlam; içerdiği kavram (4 harf) [B464-S4]",
+      "answer": "MANA"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 2,
+      "col": 7,
+      "length": 4,
+      "clue": "Siyah beyaz karelere yerleştirilen taşlarla iki kişi arasında oynanan oyun (4 harf) [B464-S5]",
+      "answer": "DAMA"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 3,
+      "col": 2,
+      "length": 5,
+      "clue": "Kolla eli birbirine bağlayan, küçük kemiklerden oluşan eklem bölgesi (5 harf) [B464-S6]",
+      "answer": "BİLEK"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 3,
+      "col": 6,
+      "length": 5,
+      "clue": "Saplı, parlak, kırmızı kabuklu; ilkbaharın sonunda olgunlaşan tatlı meyve (5 harf) [B464-S7]",
+      "answer": "KİRAZ"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 4,
+      "col": 8,
+      "length": 4,
+      "clue": "Din esaslarına yürekten bağlanma; kalben kabul edip inanma hali (4 harf) [B464-S8]",
+      "answer": "İMAN"
+    },
+    {
+      "number": 9,
+      "direction": "down",
+      "row": 4,
+      "col": 11,
+      "length": 5,
+      "clue": "Ciğerlere hava çekmek ve bırakmak; yaşamın sürdüğünün göstergesi soluk (5 harf) [B464-S9]",
+      "answer": "NEFES"
+    },
+    {
+      "number": 10,
+      "direction": "across",
+      "row": 6,
+      "col": 5,
+      "length": 5,
+      "clue": "Bir kimsenin bir şey için yaptığı istek; dile getirilen açık dilek (5 harf) [B464-S10]",
+      "answer": "TALEP"
+    }
+  ]
+}

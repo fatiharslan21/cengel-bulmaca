@@ -1,0 +1,231 @@
+{
+  "id": 310,
+  "title": "Bölüm 310",
+  "difficulty": "Zor",
+  "grid_size_r": 10,
+  "grid_size_c": 11,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 9,
+      "length": 4,
+      "clue": "Raylar üzerinde hareket eden, vagonları çeken büyük motorlu araç (4 harf) [B310-S1]",
+      "answer": "TREN"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 1,
+      "col": 7,
+      "length": 4,
+      "clue": "İçinden su, gaz ya da başka sıvıların geçtiği içi boş uzun silindir (4 harf) [B310-S2]",
+      "answer": "BORU"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 3,
+      "col": 6,
+      "length": 4,
+      "clue": "Boş zamanlarda eğlence ya da öğrenme amacıyla kurallara göre oynanan etkinlik (4 harf) [B310-S3]",
+      "answer": "OYUN"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 3,
+      "col": 7,
+      "length": 4,
+      "clue": "Bir kimsenin doğup büyüdüğü vatanı; ait olduğu aziz memleket (4 harf) [B310-S4]",
+      "answer": "YURT"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 5,
+      "col": 5,
+      "length": 3,
+      "clue": "Başkalarıyla paylaşılmayan; yalnızca bir kişinin bildiği gizli bilgi (3 harf) [B310-S5]",
+      "answer": "SIR"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 5,
+      "col": 5,
+      "length": 5,
+      "clue": "Çölde ya da sıcakta gerçekte olmayan bir görüntü olarak algılanan yanılsama (5 harf) [B310-S5]",
+      "answer": "SERAP"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "length": 6,
+      "clue": "Dakikanın altmışta biri; zamanın en küçük günlük ölçü birimi (6 harf) [B310-S6]",
+      "answer": "SANİYE"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 6,
+      "col": 7,
+      "length": 3,
+      "clue": "İnsanın bedenini saran dış deri; vücudumuzun dış yüzü (3 harf) [B310-S7]",
+      "answer": "TEN"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 6,
+      "col": 8,
+      "length": 4,
+      "clue": "Gönle çöken derin üzüntü, insanı içten içe yiyen keder (4 harf) [B310-S8]",
+      "answer": "ELEM"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 8,
+      "col": 7,
+      "length": 4,
+      "clue": "Nüfusu kalabalık, altyapısı gelişmiş, şehir niteliğindeki yerleşim yeri (4 harf) [B310-S9]",
+      "answer": "KENT"
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "id": 52,
+  "title": "Bölüm 52",
+  "difficulty": "Kolay",
+  "grid_size_r": 9,
+  "grid_size_c": 8,
+  "grid": [
+    [
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 0,
+      "length": 3,
+      "clue": "Kalbin bulunduğu taraf; sağın tam karşıtı olan yön (3 harf) [B52-S1]",
+      "answer": "SOL"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "length": 4,
+      "clue": "Kalınlığı az olan; zarif ve narin yapıda bulunan; kalının karşıtı (4 harf) [B52-S2]",
+      "answer": "İNCE"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "length": 5,
+      "clue": "Vücudun belirli bir işlevi yerine getiren, dokulardan oluşmuş bölümü (5 harf) [B52-S3]",
+      "answer": "ORGAN"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 3,
+      "col": 3,
+      "length": 5,
+      "clue": "Mutfağa giren, bitki kökleri ve yapraklarından oluşan yenilebilir besin (5 harf) [B52-S4]",
+      "answer": "SEBZE"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 3,
+      "col": 5,
+      "length": 3,
+      "clue": "Arıların çiçeklerden topladığı nektarı işleyerek yaptığı koyu, tatlı gıda (3 harf) [B52-S5]",
+      "answer": "BAL"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 3,
+      "col": 7,
+      "length": 5,
+      "clue": "Undan mayalanıp fırında pişirilerek yapılan, sofranın temel besini (5 harf) [B52-S6]",
+      "answer": "EKMEK"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 5,
+      "col": 3,
+      "length": 3,
+      "clue": "İki yerleşim birimini birbirine bağlayan; üzerinde gidilen döşeli güzergâh (3 harf) [B52-S7]",
+      "answer": "YOL"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 5,
+      "col": 3,
+      "length": 4,
+      "clue": "Bir kesik ya da darbe sonucu bedende oluşan açık doku hasarı (4 harf) [B52-S7]",
+      "answer": "YARA"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 8,
+      "col": 3,
+      "length": 4,
+      "clue": "Yanan bir şeyin üstünde dalgalanan, sıcak ve parlayan ışıklı kısım (4 harf) [B52-S8]",
+      "answer": "ALEV"
+    }
+  ]
+}

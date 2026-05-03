@@ -1,0 +1,189 @@
+{
+  "id": 268,
+  "title": "Bölüm 268",
+  "difficulty": "Zor",
+  "grid_size_r": 8,
+  "grid_size_c": 9,
+  "grid": [
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "length": 5,
+      "clue": "İnsanın içini burkan, uzun süre geçmeyen derin üzüntü hali (5 harf) [B268-S1]",
+      "answer": "KEDER"
+    },
+    {
+      "number": 1,
+      "direction": "across",
+      "row": 0,
+      "col": 2,
+      "length": 6,
+      "clue": "Uzun kasasında büyük yükler taşıyan, dört tekerlekten fazlası olan taşıt (6 harf) [B268-S1]",
+      "answer": "KAMYON"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 2,
+      "col": 6,
+      "length": 6,
+      "clue": "Dakikanın altmışta biri; zamanın en küçük günlük ölçü birimi (6 harf) [B268-S2]",
+      "answer": "SANİYE"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 2,
+      "col": 8,
+      "length": 4,
+      "clue": "Bir işi başarmak için gösterilen büyük çaba, gayret ve çalışma (4 harf) [B268-S3]",
+      "answer": "CEHD"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 3,
+      "col": 5,
+      "length": 4,
+      "clue": "Yeni toplanmış, bayatlamamış; canlılığını yeni yeni yitirmemiş olan (4 harf) [B268-S4]",
+      "answer": "TAZE"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "length": 3,
+      "clue": "Üzerinde durduğumuz zemin; bir olayın geçtiği konum (3 harf) [B268-S5]",
+      "answer": "YER"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 4,
+      "col": 1,
+      "length": 4,
+      "clue": "Bir sanatçının ya da yazarın ortaya koyduğu özgün yapıt (4 harf) [B268-S6]",
+      "answer": "ESER"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 4,
+      "col": 4,
+      "length": 4,
+      "clue": "Dişleri sürekli uzayan, tahtayı ve kâğıdı kemirebilen küçük kemirgen (4 harf) [B268-S7]",
+      "answer": "FARE"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 6,
+      "col": 1,
+      "length": 4,
+      "clue": "Yetkili bir kimsenin yerine getirilmek üzere verdiği kesin buyruk (4 harf) [B268-S8]",
+      "answer": "EMİR"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 7,
+      "col": 4,
+      "length": 3,
+      "clue": "Metal ya da tırnak gibi sert yüzeyleri aşındırarak düzelten dişli alet (3 harf) [B268-S9]",
+      "answer": "EĞE"
+    }
+  ]
+}

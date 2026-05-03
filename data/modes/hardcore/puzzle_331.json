@@ -1,0 +1,209 @@
+{
+  "id": 331,
+  "title": "Bölüm 331",
+  "difficulty": "Zor",
+  "grid_size_r": 12,
+  "grid_size_c": 7,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "length": 4,
+      "clue": "Bir kimseyle ayrılırken söylenen son söz; ayrılık selamı (4 harf) [B331-S1]",
+      "answer": "VEDA"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 2,
+      "col": 5,
+      "length": 6,
+      "clue": "Harcanan çabaya değmeyen; hiçbir yarar sağlamayan boş uğraş (6 harf) [B331-S2]",
+      "answer": "NAFİLE"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 3,
+      "col": 1,
+      "length": 5,
+      "clue": "Üzerinde yaşadığımız, Güneş'in çevresinde dönen mavi yeşil gezegen (5 harf) [B331-S3]",
+      "answer": "DÜNYA"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 3,
+      "col": 3,
+      "length": 4,
+      "clue": "Üzerinde yapı bulunmayan, belli sınırlarla çevrili geniş açık düzlük (4 harf) [B331-S4]",
+      "answer": "ALAN"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "length": 3,
+      "clue": "İnek, keçi gibi memelilerden sağılan; beyaz renkli besleyici temel içecek (3 harf) [B331-S5]",
+      "answer": "SÜT"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "length": 6,
+      "clue": "Değerli eşyaların ya da paraların saklandığı gizli büyük birikim (6 harf) [B331-S6]",
+      "answer": "HAZİNE"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 7,
+      "col": 4,
+      "length": 5,
+      "clue": "Yararlanılan, şükür duyulan değerli varlık; insana verilmiş lütuf (5 harf) [B331-S7]",
+      "answer": "NİMET"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 9,
+      "col": 2,
+      "length": 3,
+      "clue": "Konuşan kişinin kendisini belirtmek için kullandığı birinci tekil zamir (3 harf) [B331-S8]",
+      "answer": "BEN"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 9,
+      "col": 4,
+      "length": 3,
+      "clue": "Fitilinden yakıldığında eriyerek ortamı aydınlatan silindir biçimli cisim (3 harf) [B331-S9]",
+      "answer": "MUM"
+    },
+    {
+      "number": 10,
+      "direction": "across",
+      "row": 10,
+      "col": 1,
+      "length": 4,
+      "clue": "Güneşin batmasından doğmasına kadar süren karanlık zaman dilimi (4 harf) [B331-S10]",
+      "answer": "GECE"
+    }
+  ]
+}

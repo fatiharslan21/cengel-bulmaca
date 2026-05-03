@@ -1,0 +1,257 @@
+{
+  "id": 282,
+  "title": "Bölüm 282",
+  "difficulty": "Zor",
+  "grid_size_r": 12,
+  "grid_size_c": 11,
+  "grid": [
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "length": 6,
+      "clue": "Geniş kanatlarıyla yükseklerde süzülen, keskin gözlü yırtıcı büyük kuş (6 harf) [B282-S1]",
+      "answer": "KARTAL"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 1,
+      "col": 1,
+      "length": 3,
+      "clue": "Toprağın içinden çıkan, sert ve ağır olan doğal kayaç parçası (3 harf) [B282-S2]",
+      "answer": "TAŞ"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 4,
+      "col": 4,
+      "length": 5,
+      "clue": "Bitkinin çiçeğinin olgunlaşmasıyla oluşan, genellikle yenilebilir ürün (5 harf) [B282-S3]",
+      "answer": "MEYVE"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "length": 5,
+      "clue": "Işığın önüne bir cisim girince arkasında oluşan karanlık alan (5 harf) [B282-S4]",
+      "answer": "GÖLGE"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 5,
+      "col": 7,
+      "length": 5,
+      "clue": "Kamıştan ya da pancardan elde edilen; çay ve tatlılara katılan tatlı madde (5 harf) [B282-S5]",
+      "answer": "ŞEKER"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 6,
+      "col": 6,
+      "length": 4,
+      "clue": "Bir kimseyle ayrılırken söylenen son söz; ayrılık selamı (4 harf) [B282-S6]",
+      "answer": "VEDA"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 8,
+      "col": 3,
+      "length": 5,
+      "clue": "Yelkenli ya da motorlu olup denizde kısa yolculuklara çıkan küçük gemi (5 harf) [B282-S7]",
+      "answer": "TEKNE"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 8,
+      "col": 3,
+      "length": 4,
+      "clue": "Bir kurala, şahsa ya da düzene bağlı olan; ona uymak durumunda kalan (4 harf) [B282-S7]",
+      "answer": "TABİ"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 8,
+      "col": 5,
+      "length": 3,
+      "clue": "Yılın en soğuk, en karlı ve gündüzlerin en kısa olduğu dört mevsimden biri (3 harf) [B282-S8]",
+      "answer": "KIŞ"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 9,
+      "col": 7,
+      "length": 4,
+      "clue": "Uykuda iken zihnin sahneler halinde canlandırdığı renkli görüntüler (4 harf) [B282-S9]",
+      "answer": "RÜYA"
+    }
+  ]
+}

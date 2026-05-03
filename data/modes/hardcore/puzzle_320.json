@@ -1,0 +1,221 @@
+{
+  "id": 320,
+  "title": "Bölüm 320",
+  "difficulty": "Zor",
+  "grid_size_r": 12,
+  "grid_size_c": 8,
+  "grid": [
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "across",
+      "row": 0,
+      "col": 0,
+      "length": 5,
+      "clue": "Üzerinde yaşadığımız, Güneş'in çevresinde dönen mavi yeşil gezegen (5 harf) [B320-S1]",
+      "answer": "DÜNYA"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "length": 6,
+      "clue": "Ağacın dalından sarkan, fotosentez yapıp havaya oksijen veren yeşil organ (6 harf) [B320-S2]",
+      "answer": "YAPRAK"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 3,
+      "col": 1,
+      "length": 4,
+      "clue": "Dağlardan doğan, ırmağa ya da göle dökülen küçük doğal akarsu (4 harf) [B320-S3]",
+      "answer": "DERE"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 4,
+      "col": 5,
+      "length": 3,
+      "clue": "Başımızın derisinde biten, her birinin kökten uzayan ince tel kıl (3 harf) [B320-S4]",
+      "answer": "SAÇ"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 5,
+      "col": 2,
+      "length": 4,
+      "clue": "Kozadan elde edilen, parlak dokulu ve dayanıklı, değerli kumaş lifi (4 harf) [B320-S5]",
+      "answer": "İPEK"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 5,
+      "col": 2,
+      "length": 5,
+      "clue": "Hayatta yükselme, talih kuşunun başa konması; mevki sahibi olma (5 harf) [B320-S5]",
+      "answer": "İKBAL"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 7,
+      "col": 1,
+      "length": 4,
+      "clue": "İçten doğan büyük istek; insanı coşturan şiddetli arzu ve heves (4 harf) [B320-S6]",
+      "answer": "ŞEVK"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 7,
+      "col": 4,
+      "length": 5,
+      "clue": "Ağızdan çıkan söz; düşüncenin dille ifade bulmuş hali (5 harf) [B320-S7]",
+      "answer": "KELAM"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 7,
+      "col": 6,
+      "length": 4,
+      "clue": "Uykuda iken zihnin sahneler halinde canlandırdığı renkli görüntüler (4 harf) [B320-S8]",
+      "answer": "RÜYA"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 10,
+      "col": 3,
+      "length": 5,
+      "clue": "Kötü bakışın bir kimseye uğursuzluk getireceğine duyulan halk inancı (5 harf) [B320-S9]",
+      "answer": "NAZAR"
+    }
+  ]
+}

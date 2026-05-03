@@ -1,0 +1,233 @@
+{
+  "id": 420,
+  "title": "Bölüm 420",
+  "difficulty": "Çok Zor",
+  "grid_size_r": 11,
+  "grid_size_c": 10,
+  "grid": [
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "length": 6,
+      "clue": "Çözülmesi zor olan gizemli durum; içinden çıkılmaz sır (6 harf) [B420-S1]",
+      "answer": "MUAMMA"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "length": 4,
+      "clue": "İnsanın boynunun üst kısmında bulunan, düşünmenin merkezi olan baş (4 harf) [B420-S2]",
+      "answer": "KAFA"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 2,
+      "col": 0,
+      "length": 4,
+      "clue": "Dinde kesinlikle yerine getirilmesi emredilen, zorunlu olan yükümlülük (4 harf) [B420-S3]",
+      "answer": "FARZ"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 3,
+      "col": 4,
+      "length": 5,
+      "clue": "İçten gelen bağlılık; gönülden duyulan samimi sevgi ve sadakat (5 harf) [B420-S4]",
+      "answer": "HULUS"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 3,
+      "col": 4,
+      "length": 3,
+      "clue": "Kişinin yasal olarak sahip olduğu; alması ya da yapması gereken şey (3 harf) [B420-S4]",
+      "answer": "HAK"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "length": 6,
+      "clue": "Harcanan çabaya değmeyen; hiçbir yarar sağlamayan boş uğraş (6 harf) [B420-S5]",
+      "answer": "NAFİLE"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 5,
+      "col": 0,
+      "length": 5,
+      "clue": "Yararlanılan, şükür duyulan değerli varlık; insana verilmiş lütuf (5 harf) [B420-S5]",
+      "answer": "NİMET"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 6,
+      "col": 9,
+      "length": 5,
+      "clue": "Beklenmedik bir durum karşısında gösterilen aceleci ve tedirgin hal (5 harf) [B420-S6]",
+      "answer": "TELAŞ"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 7,
+      "col": 4,
+      "length": 6,
+      "clue": "Dakikanın altmışta biri; zamanın en küçük günlük ölçü birimi (6 harf) [B420-S7]",
+      "answer": "SANİYE"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 7,
+      "col": 6,
+      "length": 3,
+      "clue": "İçi kırmızı tanelerle dolu, kalın kabuklu, sonbahar aylarının meyvesi (3 harf) [B420-S8]",
+      "answer": "NAR"
+    }
+  ]
+}

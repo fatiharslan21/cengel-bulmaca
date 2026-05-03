@@ -1,0 +1,190 @@
+{
+  "id": 29,
+  "title": "Bölüm 29",
+  "difficulty": "Kolay",
+  "grid_size_r": 7,
+  "grid_size_c": 12,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "across",
+      "row": 0,
+      "col": 5,
+      "length": 3,
+      "clue": "İçin karşıtı; bir şeyin çevresini gören, dışarıya bakan yüzü (3 harf) [B29-S1]",
+      "answer": "DIŞ"
+    },
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "length": 5,
+      "clue": "İçine giysi, kap kacak ya da eşya konulan, kapaklı büyük mobilya (5 harf) [B29-S1]",
+      "answer": "DOLAP"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 2,
+      "col": 3,
+      "length": 4,
+      "clue": "Müzik eserlerinde seslerin yükseklik ve uzunluğunu gösteren küçük simge (4 harf) [B29-S2]",
+      "answer": "NOTA"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 2,
+      "col": 7,
+      "length": 5,
+      "clue": "Kat kat hamuru kremayla birleştirilen, doğum günlerinde kesilen tatlı (5 harf) [B29-S3]",
+      "answer": "PASTA"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 3,
+      "col": 2,
+      "length": 4,
+      "clue": "Kulpundan tutularak su ya da başka sıvı taşınan derin silindirik kap (4 harf) [B29-S4]",
+      "answer": "KOVA"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 3,
+      "col": 7,
+      "length": 5,
+      "clue": "Tekerlekleri üstünde insan ya da yük taşıyan motorlu kara taşıtı (5 harf) [B29-S5]",
+      "answer": "ARABA"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 4,
+      "col": 5,
+      "length": 3,
+      "clue": "Demirin hava ve nemle temas ederek zamanla üzerinde oluşturduğu kızıl tabaka (3 harf) [B29-S6]",
+      "answer": "PAS"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "length": 4,
+      "clue": "Atmosferi oluşturan, canlıların soluduğu renksiz ve kokusuz gaz karışımı (4 harf) [B29-S7]",
+      "answer": "HAVA"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 6,
+      "col": 6,
+      "length": 4,
+      "clue": "Bir miktarı ya da sırayı belirten; rakamlarla yazılan matematik kavramı (4 harf) [B29-S8]",
+      "answer": "SAYI"
+    }
+  ]
+}

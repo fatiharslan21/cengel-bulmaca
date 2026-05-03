@@ -1,0 +1,172 @@
+{
+  "id": 62,
+  "title": "Bölüm 62",
+  "difficulty": "Kolay",
+  "grid_size_r": 10,
+  "grid_size_c": 6,
+  "grid": [
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      1
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "across",
+      "row": 0,
+      "col": 1,
+      "length": 5,
+      "clue": "Sayfalardan oluşan, üzerine bilgi ya da hikâye yazılmış ciltli eser (5 harf) [B62-S1]",
+      "answer": "KİTAP"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "length": 4,
+      "clue": "Ucu sivri, arkası delikli; dikiş dikmek için ipliği geçiren ince metal araç (4 harf) [B62-S2]",
+      "answer": "İĞNE"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 3,
+      "col": 1,
+      "length": 5,
+      "clue": "Üzerinde yaşadığımız, Güneş'in çevresinde dönen mavi yeşil gezegen (5 harf) [B62-S3]",
+      "answer": "DÜNYA"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 3,
+      "col": 1,
+      "length": 5,
+      "clue": "Kıtaları birbirinden ayıran, tuzlu sulardan oluşan uçsuz bucaksız kütle (5 harf) [B62-S3]",
+      "answer": "DENİZ"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 5,
+      "col": 1,
+      "length": 3,
+      "clue": "İçi kırmızı tanelerle dolu, kalın kabuklu, sonbahar aylarının meyvesi (3 harf) [B62-S4]",
+      "answer": "NAR"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 5,
+      "col": 5,
+      "length": 5,
+      "clue": "Bir cismin uzunluk, genişlik ve yükseklik gibi ölçülebilen özelliği (5 harf) [B62-S5]",
+      "answer": "BOYUT"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "length": 3,
+      "clue": "Bir noktadan diğerine uzanan düz çizgi; yol ya da güzergâh (3 harf) [B62-S6]",
+      "answer": "HAT"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 7,
+      "col": 2,
+      "length": 3,
+      "clue": "Dilin damak aracılığıyla algıladığı; acı, ekşi, tuzlu gibi duyusal nitelik (3 harf) [B62-S7]",
+      "answer": "TAT"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 8,
+      "col": 2,
+      "length": 4,
+      "clue": "İçten duyulan istek, gönülden beklenen dilek veya özlem (4 harf) [B62-S8]",
+      "answer": "ARZU"
+    }
+  ]
+}

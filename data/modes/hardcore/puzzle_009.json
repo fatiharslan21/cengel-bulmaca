@@ -1,0 +1,191 @@
+{
+  "id": 9,
+  "title": "Bölüm 9",
+  "difficulty": "Kolay",
+  "grid_size_r": 9,
+  "grid_size_c": 9,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 7,
+      "length": 4,
+      "clue": "Bir kişinin ya da akımın kendine özgü yapma biçimi; üslup (4 harf) [B9-S1]",
+      "answer": "TARZ"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 1,
+      "col": 6,
+      "length": 3,
+      "clue": "Bitkinin çiçek ya da yaprağını gövdeye bağlayan uzun ve ince bölüm (3 harf) [B9-S2]",
+      "answer": "SAP"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 2,
+      "col": 5,
+      "length": 4,
+      "clue": "İki şeyin birbirinden ayrıldığı yön; aralarındaki benzemezlik (4 harf) [B9-S3]",
+      "answer": "FARK"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 3,
+      "col": 1,
+      "length": 3,
+      "clue": "Bulunduğun yerden geri çevril; ya da bir eksen etrafında hareket et (3 harf) [B9-S4]",
+      "answer": "DÖN"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 3,
+      "col": 3,
+      "length": 3,
+      "clue": "Sevdiğine karşı gösterilen hafif cilve; yapmacık çekingenlik (3 harf) [B9-S5]",
+      "answer": "NAZ"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 3,
+      "col": 5,
+      "length": 3,
+      "clue": "Bir üstün ya da yetkilinin önüne saygıyla sunma, takdim etme eylemi (3 harf) [B9-S6]",
+      "answer": "ARZ"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 5,
+      "col": 1,
+      "length": 5,
+      "clue": "Seslerin belli bir düzen içinde bir araya getirilmesiyle oluşan sanat (5 harf) [B9-S7]",
+      "answer": "MÜZİK"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 5,
+      "col": 1,
+      "length": 4,
+      "clue": "Sobadan ateş almak ya da sıcak şeyleri tutmak için kullanılan uzun kıskaç (4 harf) [B9-S7]",
+      "answer": "MAŞA"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "length": 3,
+      "clue": "Bir çemberin merkezinden geçerek onu iki eşit yaya bölen doğru parça (3 harf) [B9-S8]",
+      "answer": "ÇAP"
+    }
+  ]
+}

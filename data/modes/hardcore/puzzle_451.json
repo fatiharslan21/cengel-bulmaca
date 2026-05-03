@@ -1,0 +1,200 @@
+{
+  "id": 451,
+  "title": "Bölüm 451",
+  "difficulty": "Çok Zor",
+  "grid_size_r": 11,
+  "grid_size_c": 7,
+  "grid": [
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "length": 3,
+      "clue": "Sayıların başlangıcı olan, tek adedi gösteren ilk doğal rakam (3 harf) [B451-S1]",
+      "answer": "BİR"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "length": 5,
+      "clue": "Ölünün toprağa verildiği, başında taş bulunan defin yeri; kabir (5 harf) [B451-S2]",
+      "answer": "MEZAR"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 1,
+      "col": 1,
+      "length": 5,
+      "clue": "Ahlaki ölçülere bağlı kalma; namusu ve temizliği koruma hali (5 harf) [B451-S3]",
+      "answer": "İFFET"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 4,
+      "col": 2,
+      "length": 3,
+      "clue": "Alevi sönmüş ama sıcaklığı ve kızıllığı süren yanmakta olan parça (3 harf) [B451-S4]",
+      "answer": "KOR"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 4,
+      "col": 2,
+      "length": 5,
+      "clue": "Saplı, parlak, kırmızı kabuklu; ilkbaharın sonunda olgunlaşan tatlı meyve (5 harf) [B451-S4]",
+      "answer": "KİRAZ"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 5,
+      "col": 6,
+      "length": 3,
+      "clue": "İçindeki dilin sallanmasıyla ses çıkaran, koni biçimli madeni araç (3 harf) [B451-S5]",
+      "answer": "ÇAN"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "length": 7,
+      "clue": "Sürüler halinde yaşayan, küçük gövdesine rağmen iri yükleri taşıyan böcek (7 harf) [B451-S6]",
+      "answer": "KARINCA"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 6,
+      "col": 4,
+      "length": 5,
+      "clue": "Bir cümlenin sonuna konan en küçük yazı işareti; konumun kendisi (5 harf) [B451-S7]",
+      "answer": "NOKTA"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "length": 3,
+      "clue": "Suyun sıfır derecenin altına inerek katılaşmasıyla meydana gelen madde (3 harf) [B451-S8]",
+      "answer": "BUZ"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 10,
+      "col": 1,
+      "length": 4,
+      "clue": "İnanmadığı halde inanıyormuş gibi davranma; iki yüzlü tavır (4 harf) [B451-S9]",
+      "answer": "RİYA"
+    }
+  ]
+}

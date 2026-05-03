@@ -1,0 +1,231 @@
+{
+  "id": 237,
+  "title": "Bölüm 237",
+  "difficulty": "Orta",
+  "grid_size_r": 10,
+  "grid_size_c": 11,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 10,
+      "length": 5,
+      "clue": "Mutfağa giren, bitki kökleri ve yapraklarından oluşan yenilebilir besin (5 harf) [B237-S1]",
+      "answer": "SEBZE"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 1,
+      "col": 7,
+      "length": 4,
+      "clue": "Sayılabilen nesnelerin her biri; küçük parça ya da adet (4 harf) [B237-S2]",
+      "answer": "TANE"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 3,
+      "col": 8,
+      "length": 3,
+      "clue": "Konuşan kişinin kendisini belirtmek için kullandığı birinci tekil zamir (3 harf) [B237-S3]",
+      "answer": "BEN"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 3,
+      "col": 8,
+      "length": 3,
+      "clue": "Suyun sıfır derecenin altına inerek katılaşmasıyla meydana gelen madde (3 harf) [B237-S3]",
+      "answer": "BUZ"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 5,
+      "col": 4,
+      "length": 5,
+      "clue": "Güneşin doğmasıyla başlayıp öğleye kadar süren günün ilk dilimi (5 harf) [B237-S4]",
+      "answer": "SABAH"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 5,
+      "col": 6,
+      "length": 4,
+      "clue": "Gökyüzündeki yıldız öbeklerinin oluşturduğu, astrolojide kullanılan imge (4 harf) [B237-S5]",
+      "answer": "BURÇ"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 5,
+      "col": 6,
+      "length": 3,
+      "clue": "Yüzlerin onunun bir araya gelmesiyle oluşan dört basamaklı sayı (3 harf) [B237-S5]",
+      "answer": "BİN"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 6,
+      "col": 2,
+      "length": 3,
+      "clue": "İğne ya da tığla işlenen, başörtüsü kenarını süsleyen ince el işi (3 harf) [B237-S6]",
+      "answer": "OYA"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 7,
+      "col": 4,
+      "length": 3,
+      "clue": "Sayıların başlangıcı olan, tek adedi gösteren ilk doğal rakam (3 harf) [B237-S7]",
+      "answer": "BİR"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "length": 5,
+      "clue": "Üzerinde buğday, arpa ya da sebze yetiştirilen sürülmüş geniş toprak (5 harf) [B237-S8]",
+      "answer": "TARLA"
+    }
+  ]
+}

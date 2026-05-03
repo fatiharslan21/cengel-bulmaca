@@ -1,0 +1,245 @@
+{
+  "id": 126,
+  "title": "Bölüm 126",
+  "difficulty": "Orta",
+  "grid_size_r": 12,
+  "grid_size_c": 10,
+  "grid": [
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "length": 5,
+      "clue": "Şehirlerde iki yanı binalarla çevrili, taşıtların geçtiği geniş ana yol (5 harf) [B126-S1]",
+      "answer": "CADDE"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "length": 5,
+      "clue": "Kat kat hamuru kremayla birleştirilen, doğum günlerinde kesilen tatlı (5 harf) [B126-S2]",
+      "answer": "PASTA"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 3,
+      "col": 3,
+      "length": 4,
+      "clue": "Eskiyip yırtılan giysiyi onarmak için üstüne dikilen küçük kumaş parçası (4 harf) [B126-S3]",
+      "answer": "YAMA"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 3,
+      "col": 6,
+      "length": 4,
+      "clue": "Müziğin ritmine uyarak, düzenli vücut hareketleriyle yapılan sanatsal eylem (4 harf) [B126-S4]",
+      "answer": "DANS"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 3,
+      "col": 7,
+      "length": 4,
+      "clue": "İnsanın düşünmesini, anlamasını ve karar vermesini sağlayan zihinsel yeti (4 harf) [B126-S5]",
+      "answer": "AKIL"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "length": 5,
+      "clue": "Bir yüzeyin ya da nesnenin dış sınırını oluşturan uç bölüm (5 harf) [B126-S6]",
+      "answer": "KENAR"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 6,
+      "col": 2,
+      "length": 6,
+      "clue": "İnsan ya da kürek gücüyle suda yol alan küçük açık deniz teknesi (6 harf) [B126-S7]",
+      "answer": "SANDAL"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 6,
+      "col": 6,
+      "length": 4,
+      "clue": "Karşısına geçenin görüntüsünü aynen yansıtan sırlanmış cam yüzey (4 harf) [B126-S8]",
+      "answer": "AYNA"
+    },
+    {
+      "number": 9,
+      "direction": "down",
+      "row": 8,
+      "col": 9,
+      "length": 4,
+      "clue": "Bir canlının doğumundan ölümüne kadar geçen toplam yaşam süresi (4 harf) [B126-S9]",
+      "answer": "ÖMÜR"
+    },
+    {
+      "number": 10,
+      "direction": "across",
+      "row": 9,
+      "col": 6,
+      "length": 4,
+      "clue": "Yürürken bir ayağın diğerinin önüne atılmasıyla alınan kısa mesafe (4 harf) [B126-S10]",
+      "answer": "ADIM"
+    }
+  ]
+}

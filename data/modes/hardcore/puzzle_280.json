@@ -1,0 +1,245 @@
+{
+  "id": 280,
+  "title": "Bölüm 280",
+  "difficulty": "Zor",
+  "grid_size_r": 12,
+  "grid_size_c": 10,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "length": 4,
+      "clue": "Birine seslenmek için çıkarılan yüksek ses; çağırmak amaçlı bağırma (4 harf) [B280-S1]",
+      "answer": "NİDA"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 2,
+      "col": 3,
+      "length": 6,
+      "clue": "Okyanuslarda yaşayan, dünyanın en büyük sayılan memeli deniz canlısı (6 harf) [B280-S2]",
+      "answer": "BALİNA"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 3,
+      "col": 3,
+      "length": 4,
+      "clue": "Karşısına geçenin görüntüsünü aynen yansıtan sırlanmış cam yüzey (4 harf) [B280-S3]",
+      "answer": "AYNA"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "length": 4,
+      "clue": "Yolcuların ücret karşılığı geceyi geçirdiği, odaları olan konaklama işletmesi (4 harf) [B280-S4]",
+      "answer": "OTEL"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 5,
+      "col": 6,
+      "length": 3,
+      "clue": "Arıların çiçeklerden topladığı nektarı işleyerek yaptığı koyu, tatlı gıda (3 harf) [B280-S5]",
+      "answer": "BAL"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 5,
+      "col": 6,
+      "length": 4,
+      "clue": "İnsanların içinde oturduğu ya da çalıştığı, taş ve betondan yapılmış yapı (4 harf) [B280-S5]",
+      "answer": "BİNA"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 7,
+      "col": 2,
+      "length": 5,
+      "clue": "Anlatılanı somutlaştırmak için verilen örnek; kıyas noktası (5 harf) [B280-S6]",
+      "answer": "MİSAL"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 7,
+      "col": 2,
+      "length": 5,
+      "clue": "Hayal ürünü kahramanların yer aldığı, 'bir varmış bir yokmuş'la başlayan öykü (5 harf) [B280-S6]",
+      "answer": "MASAL"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 7,
+      "col": 5,
+      "length": 3,
+      "clue": "Halk ağzında yakışıklı, gösterişli kimse için kullanılan eski bir sözcük (3 harf) [B280-S7]",
+      "answer": "AFİ"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 10,
+      "col": 1,
+      "length": 4,
+      "clue": "İnsanın başına gelenleri belirlediğine inanılan şans, talih ya da kader (4 harf) [B280-S8]",
+      "answer": "BAHT"
+    }
+  ]
+}

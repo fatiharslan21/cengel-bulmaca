@@ -1,0 +1,202 @@
+{
+  "id": 94,
+  "title": "Bölüm 94",
+  "difficulty": "Kolay",
+  "grid_size_r": 11,
+  "grid_size_c": 8,
+  "grid": [
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "across",
+      "row": 0,
+      "col": 1,
+      "length": 4,
+      "clue": "Öğrencilerin öğretmenler tarafından eğitim aldığı resmî öğretim kurumu (4 harf) [B94-S1]",
+      "answer": "OKUL"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "length": 4,
+      "clue": "Kulpundan tutularak su ya da başka sıvı taşınan derin silindirik kap (4 harf) [B94-S2]",
+      "answer": "KOVA"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 1,
+      "col": 5,
+      "length": 3,
+      "clue": "Ağız içindeki kaslı organ; aynı zamanda insanların konuşarak anlaştığı sistem (3 harf) [B94-S3]",
+      "answer": "DİL"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 1,
+      "col": 5,
+      "length": 3,
+      "clue": "Çevresine göre belirgin biçimde yükselen, taşlık ve kayalık büyük arazi (3 harf) [B94-S3]",
+      "answer": "DAĞ"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 3,
+      "col": 1,
+      "length": 5,
+      "clue": "Bilinmeyen bir şeyi öğrenmek için insanın içine düşen güçlü istek (5 harf) [B94-S4]",
+      "answer": "MERAK"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 3,
+      "col": 1,
+      "length": 5,
+      "clue": "Hayal ürünü kahramanların yer aldığı, 'bir varmış bir yokmuş'la başlayan öykü (5 harf) [B94-S4]",
+      "answer": "MASAL"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "length": 4,
+      "clue": "Bir eşyanın ya da yüzeyin üstünü kapatmak için serilen kumaş parçası (4 harf) [B94-S5]",
+      "answer": "ÖRTÜ"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 6,
+      "col": 4,
+      "length": 5,
+      "clue": "Ucundan mürekkep ya da grafit akıtarak kâğıda yazı yazmayı sağlayan araç (5 harf) [B94-S6]",
+      "answer": "KALEM"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 7,
+      "col": 1,
+      "length": 4,
+      "clue": "Bir yarışmanın galibine ödül olarak verilen, ayaklı madeni kadeh (4 harf) [B94-S7]",
+      "answer": "KUPA"
+    }
+  ]
+}

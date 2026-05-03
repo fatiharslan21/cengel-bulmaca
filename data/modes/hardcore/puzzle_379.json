@@ -1,0 +1,241 @@
+{
+  "id": 379,
+  "title": "Bölüm 379",
+  "difficulty": "Çok Zor",
+  "grid_size_r": 10,
+  "grid_size_c": 12,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "length": 6,
+      "clue": "Dakikanın altmışta biri; zamanın en küçük günlük ölçü birimi (6 harf) [B379-S1]",
+      "answer": "SANİYE"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "length": 7,
+      "clue": "Üzüntülü birine söylenerek onu rahatlatan sıcak avutucu söz (7 harf) [B379-S2]",
+      "answer": "TESELLİ"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 1,
+      "col": 2,
+      "length": 6,
+      "clue": "Bir işi başarmak için katlanılan güçlük; çekilen eziyet (6 harf) [B379-S3]",
+      "answer": "ZAHMET"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 3,
+      "col": 1,
+      "length": 4,
+      "clue": "Mahkemenin verdiği kararı bildiren, yazılı resmi belge (4 harf) [B379-S4]",
+      "answer": "İLAM"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 3,
+      "col": 5,
+      "length": 4,
+      "clue": "Miyavlayarak seslenen, pençeleri keskin, evlerde beslenen tüylü memeli hayvan (4 harf) [B379-S5]",
+      "answer": "KEDİ"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 3,
+      "col": 8,
+      "length": 5,
+      "clue": "Bilginin ötesinde, deneyim ve sezgiyle kazanılan derin anlayış (5 harf) [B379-S6]",
+      "answer": "İRFAN"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "length": 5,
+      "clue": "Kaybedilen bir yakının ardından tutulan koyu yas; siyahlar giyme hali (5 harf) [B379-S7]",
+      "answer": "MATEM"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 5,
+      "col": 4,
+      "length": 5,
+      "clue": "Bir sürecin başladığı; sıfırdan hesaplandığı başlangıç tarihi (5 harf) [B379-S8]",
+      "answer": "MİLAT"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 6,
+      "col": 8,
+      "length": 4,
+      "clue": "Sahte ya da taklit olmayan; bir şeyin gerçek ve temel olan hali (4 harf) [B379-S9]",
+      "answer": "ASIL"
+    },
+    {
+      "number": 10,
+      "direction": "across",
+      "row": 9,
+      "col": 4,
+      "length": 7,
+      "clue": "Acıklı bir olay karşısında insanın içine çöken derin hüzün (7 harf) [B379-S10]",
+      "answer": "TEESSÜR"
+    }
+  ]
+}

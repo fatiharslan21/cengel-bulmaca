@@ -1,0 +1,241 @@
+{
+  "id": 435,
+  "title": "Bölüm 435",
+  "difficulty": "Çok Zor",
+  "grid_size_r": 10,
+  "grid_size_c": 12,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "length": 4,
+      "clue": "Çorba, salata ya da yoğurt konulan, yuvarlak ve çukur küçük yemek kabı (4 harf) [B435-S1]",
+      "answer": "KASE"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 1,
+      "col": 10,
+      "length": 7,
+      "clue": "Sevilen birinden hatıra kalan; onu anmamızı sağlayan değerli eşya (7 harf) [B435-S2]",
+      "answer": "YADİGAR"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 3,
+      "col": 5,
+      "length": 4,
+      "clue": "Saçı ya da kemeri tutturmaya yarayan, klips gibi açılıp kapanan küçük süs (4 harf) [B435-S3]",
+      "answer": "TOKA"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 3,
+      "col": 7,
+      "length": 3,
+      "clue": "İnsanı yaşatan soluk, ruh; bedenin yaşamını sürdürmesini sağlayan güç (3 harf) [B435-S4]",
+      "answer": "CAN"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 3,
+      "col": 7,
+      "length": 4,
+      "clue": "Bir işi başarmak için gösterilen büyük çaba, gayret ve çalışma (4 harf) [B435-S4]",
+      "answer": "CEHD"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 4,
+      "col": 4,
+      "length": 4,
+      "clue": "Bir yüzeye sürüldüğünde ona istenilen rengi veren sıvı ya da toz madde (4 harf) [B435-S5]",
+      "answer": "BOYA"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 5,
+      "col": 3,
+      "length": 5,
+      "clue": "Bir alanın ya da cismin dört bir yanını saran dış sınır; etraf (5 harf) [B435-S6]",
+      "answer": "ÇEVRE"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 6,
+      "col": 2,
+      "length": 5,
+      "clue": "İçe işleyen hafif hüzün; kimseye belli edilmeyen sessiz usanç (5 harf) [B435-S7]",
+      "answer": "MELAL"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 6,
+      "col": 9,
+      "length": 3,
+      "clue": "Yapının üstünü kapatan, yağmurdan ve güneşten koruyan çatı kısmı (3 harf) [B435-S8]",
+      "answer": "DAM"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "length": 5,
+      "clue": "Aynı ortak özellikleri paylaşan kişilerden oluşan topluluk; grup (5 harf) [B435-S9]",
+      "answer": "ZÜMRE"
+    }
+  ]
+}

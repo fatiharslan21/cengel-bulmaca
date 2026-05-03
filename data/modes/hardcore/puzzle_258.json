@@ -1,0 +1,213 @@
+{
+  "id": 258,
+  "title": "Bölüm 258",
+  "difficulty": "Zor",
+  "grid_size_r": 8,
+  "grid_size_c": 12,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "length": 4,
+      "clue": "Başarı gösteren kimseye, çabasının karşılığı olarak verilen değerli armağan (4 harf) [B258-S1]",
+      "answer": "ÖDÜL"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 1,
+      "col": 4,
+      "length": 4,
+      "clue": "Bir olayın kaçıncı kez yaşandığını anlatmak için kullanılan kez sözcüğü (4 harf) [B258-S2]",
+      "answer": "DEFA"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 1,
+      "col": 6,
+      "length": 6,
+      "clue": "Her takımdan on bir oyuncunun sahada top üzerinde oynadığı dünya sporu (6 harf) [B258-S3]",
+      "answer": "FUTBOL"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 3,
+      "col": 2,
+      "length": 3,
+      "clue": "Omuzdan bileğe kadar uzanan, eli bedene bağlayan üst uzvumuz (3 harf) [B258-S4]",
+      "answer": "KOL"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 3,
+      "col": 2,
+      "length": 5,
+      "clue": "Ağızdan çıkan söz; düşüncenin dille ifade bulmuş hali (5 harf) [B258-S4]",
+      "answer": "KELAM"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 3,
+      "col": 10,
+      "length": 3,
+      "clue": "Omuzlara atılan ya da başa örtülen, yumuşak geniş kumaş parçası (3 harf) [B258-S5]",
+      "answer": "ŞAL"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 4,
+      "col": 6,
+      "length": 6,
+      "clue": "Bir ülkeyi simgeleyen, özel renk ve işaretler taşıyan kumaş parçası (6 harf) [B258-S6]",
+      "answer": "BAYRAK"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "length": 3,
+      "clue": "Bulunduğun yerden buraya doğru yaklaş; git sözcüğünün tam zıttı eylem (3 harf) [B258-S7]",
+      "answer": "GEL"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 5,
+      "col": 4,
+      "length": 3,
+      "clue": "Bir evin ya da binanın duvarlarla ayrılmış, belirli amaçla kullanılan bölümü (3 harf) [B258-S8]",
+      "answer": "ODA"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 6,
+      "col": 4,
+      "length": 3,
+      "clue": "Bir ağacın gövdesinden yanlara doğru uzayan ve yapraklarını taşıyan kol (3 harf) [B258-S9]",
+      "answer": "DAL"
+    }
+  ]
+}

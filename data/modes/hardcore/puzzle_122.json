@@ -1,0 +1,180 @@
+{
+  "id": 122,
+  "title": "Bölüm 122",
+  "difficulty": "Kolay",
+  "grid_size_r": 8,
+  "grid_size_c": 9,
+  "grid": [
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "length": 4,
+      "clue": "Şehir içinde insanların dinlenip yürüdüğü, ağaçlıklı kamusal yeşil alan (4 harf) [B122-S1]",
+      "answer": "PARK"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 7,
+      "length": 4,
+      "clue": "İki şeyin birbirinden ayrıldığı yön; aralarındaki benzemezlik (4 harf) [B122-S2]",
+      "answer": "FARK"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 1,
+      "col": 1,
+      "length": 4,
+      "clue": "Bir miktarı ya da sırayı belirten; rakamlarla yazılan matematik kavramı (4 harf) [B122-S3]",
+      "answer": "SAYI"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 2,
+      "col": 5,
+      "length": 5,
+      "clue": "Kolla eli birbirine bağlayan, küçük kemiklerden oluşan eklem bölgesi (5 harf) [B122-S4]",
+      "answer": "BİLEK"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 2,
+      "col": 5,
+      "length": 4,
+      "clue": "Gökyüzündeki yıldız öbeklerinin oluşturduğu, astrolojide kullanılan imge (4 harf) [B122-S4]",
+      "answer": "BURÇ"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 3,
+      "col": 2,
+      "length": 4,
+      "clue": "Miyavlayarak seslenen, pençeleri keskin, evlerde beslenen tüylü memeli hayvan (4 harf) [B122-S5]",
+      "answer": "KEDİ"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 5,
+      "col": 2,
+      "length": 5,
+      "clue": "Sporda kuralların uygulanmasını denetleyen, karar veren yetkili kişi (5 harf) [B122-S6]",
+      "answer": "HAKEM"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 5,
+      "col": 3,
+      "length": 3,
+      "clue": "Eskiden köylerde geniş topraklara sahip, sözü geçen nüfuzlu kişi (3 harf) [B122-S7]",
+      "answer": "AĞA"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "length": 4,
+      "clue": "Müzik eserlerinde seslerin yükseklik ve uzunluğunu gösteren küçük simge (4 harf) [B122-S8]",
+      "answer": "NOTA"
+    }
+  ]
+}

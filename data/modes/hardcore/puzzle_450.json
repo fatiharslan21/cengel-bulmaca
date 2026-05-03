@@ -1,0 +1,211 @@
+{
+  "id": 450,
+  "title": "Bölüm 450",
+  "difficulty": "Çok Zor",
+  "grid_size_r": 10,
+  "grid_size_c": 9,
+  "grid": [
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "length": 4,
+      "clue": "İçten doğan büyük istek; insanı coşturan şiddetli arzu ve heves (4 harf) [B450-S1]",
+      "answer": "ŞEVK"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 1,
+      "col": 5,
+      "length": 4,
+      "clue": "Anadolu ve çevresinde yaşayan, Orta Asya kökenli büyük millet (4 harf) [B450-S2]",
+      "answer": "TÜRK"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 3,
+      "col": 1,
+      "length": 5,
+      "clue": "Bir yüzeyin ya da nesnenin dış sınırını oluşturan uç bölüm (5 harf) [B450-S3]",
+      "answer": "KENAR"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 3,
+      "col": 3,
+      "length": 5,
+      "clue": "Dinleyeni güldüren ince espri; zarif bir ustalıkla söylenmiş söz (5 harf) [B450-S4]",
+      "answer": "NÜKTE"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "length": 4,
+      "clue": "Kozadan elde edilen, parlak dokulu ve dayanıklı, değerli kumaş lifi (4 harf) [B450-S5]",
+      "answer": "İPEK"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 5,
+      "col": 0,
+      "length": 5,
+      "clue": "Bir şeyin anlamını kavrama; olup biteni zihinde anlamlandırma yeteneği (5 harf) [B450-S5]",
+      "answer": "İDRAK"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 5,
+      "col": 6,
+      "length": 3,
+      "clue": "Arıların çiçeklerden topladığı nektarı işleyerek yaptığı koyu, tatlı gıda (3 harf) [B450-S6]",
+      "answer": "BAL"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 6,
+      "col": 6,
+      "length": 3,
+      "clue": "Bir üstün ya da yetkilinin önüne saygıyla sunma, takdim etme eylemi (3 harf) [B450-S7]",
+      "answer": "ARZ"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 6,
+      "col": 8,
+      "length": 4,
+      "clue": "Birinin ya da bir şeyin kolayca etkilenebileceği zayıf noktası (4 harf) [B450-S8]",
+      "answer": "ZAAF"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 7,
+      "col": 3,
+      "length": 4,
+      "clue": "Kavuşulması için yıllarca beklenen, gönülde taşınan büyük istek (4 harf) [B450-S9]",
+      "answer": "EMEL"
+    }
+  ]
+}

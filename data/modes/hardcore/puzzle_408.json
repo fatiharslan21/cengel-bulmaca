@@ -1,0 +1,257 @@
+{
+  "id": 408,
+  "title": "Bölüm 408",
+  "difficulty": "Çok Zor",
+  "grid_size_r": 12,
+  "grid_size_c": 11,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "length": 5,
+      "clue": "Dinleyeni güldüren ince espri; zarif bir ustalıkla söylenmiş söz (5 harf) [B408-S1]",
+      "answer": "NÜKTE"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 1,
+      "col": 5,
+      "length": 3,
+      "clue": "Aynı ortak özellikleri taşıyan canlıların oluşturduğu sınıflama birimi (3 harf) [B408-S2]",
+      "answer": "TÜR"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 4,
+      "col": 5,
+      "length": 3,
+      "clue": "Bulunduğun yerden buraya doğru yaklaş; git sözcüğünün tam zıttı eylem (3 harf) [B408-S3]",
+      "answer": "GEL"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 4,
+      "col": 7,
+      "length": 5,
+      "clue": "Göze ve gönle hoş gelen, nazik ve yumuşak huylu; incelikli olan (5 harf) [B408-S4]",
+      "answer": "LATİF"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 6,
+      "col": 4,
+      "length": 5,
+      "clue": "Bir cümlenin sonuna konan en küçük yazı işareti; konumun kendisi (5 harf) [B408-S5]",
+      "answer": "NOKTA"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 8,
+      "col": 5,
+      "length": 5,
+      "clue": "Geçim sıkıntısı çekmeden, bolluk içinde sürdürülen rahat ve huzurlu yaşam (5 harf) [B408-S6]",
+      "answer": "REFAH"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 8,
+      "col": 5,
+      "length": 4,
+      "clue": "Birinin ya da bir şeyin beklemediğin anda karşına çıkması; tesadüf (4 harf) [B408-S6]",
+      "answer": "RAST"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 8,
+      "col": 8,
+      "length": 3,
+      "clue": "Bir şeye bağlı bulunma; onunla ilgili ya da onun sahipliğinde olma (3 harf) [B408-S7]",
+      "answer": "AİT"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 9,
+      "col": 0,
+      "length": 6,
+      "clue": "Okyanuslarda yaşayan, dünyanın en büyük sayılan memeli deniz canlısı (6 harf) [B408-S8]",
+      "answer": "BALİNA"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 10,
+      "col": 7,
+      "length": 4,
+      "clue": "Yanmakta olan bir maddenin çıkardığı ısı, ışık ve alevin tümü (4 harf) [B408-S9]",
+      "answer": "ATEŞ"
+    }
+  ]
+}

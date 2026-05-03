@@ -1,0 +1,200 @@
+{
+  "id": 253,
+  "title": "Bölüm 253",
+  "difficulty": "Zor",
+  "grid_size_r": 9,
+  "grid_size_c": 9,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "length": 5,
+      "clue": "Radyo dalgalarını yollayıp yansımasını ölçerek uzaktaki nesneleri belirleyen sistem (5 harf) [B253-S1]",
+      "answer": "RADAR"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 7,
+      "length": 3,
+      "clue": "Bitkinin çiçek ya da yaprağını gövdeye bağlayan uzun ve ince bölüm (3 harf) [B253-S2]",
+      "answer": "SAP"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 1,
+      "col": 4,
+      "length": 4,
+      "clue": "Bir kesik ya da darbe sonucu bedende oluşan açık doku hasarı (4 harf) [B253-S3]",
+      "answer": "YARA"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 2,
+      "col": 1,
+      "length": 3,
+      "clue": "Ağızda bulunan, yiyecekleri kopartıp öğütmeye yarayan sert beyaz yapı (3 harf) [B253-S4]",
+      "answer": "DİŞ"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 2,
+      "col": 2,
+      "length": 3,
+      "clue": "Bir sıranın en başında bulunan; sondan önce hiçbir şey olmayan sırada birinci (3 harf) [B253-S5]",
+      "answer": "İLK"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 4,
+      "col": 0,
+      "length": 6,
+      "clue": "Bir kişinin emeğini ya da başarısını görüp açıkça beğenip övme (6 harf) [B253-S6]",
+      "answer": "TAKDİR"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 4,
+      "col": 4,
+      "length": 4,
+      "clue": "Hastalıkları iyileştirmek amacıyla hazırlanan, doktor tarafından verilen madde (4 harf) [B253-S7]",
+      "answer": "İLAÇ"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 5,
+      "col": 7,
+      "length": 4,
+      "clue": "Niteliği kötü olan, insanın içini bunaltan; iyi sözcüğünün zıttı (4 harf) [B253-S8]",
+      "answer": "FENA"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 6,
+      "col": 3,
+      "length": 5,
+      "clue": "Ani ve sert bir hareketle yapılan vuruş; çarpma sonucu alınan sarsıntı (5 harf) [B253-S9]",
+      "answer": "DARBE"
+    },
+    {
+      "number": 10,
+      "direction": "across",
+      "row": 8,
+      "col": 6,
+      "length": 3,
+      "clue": "Tarihte belli özelliklerle ayırt edilen uzun dönem; devir, asır (3 harf) [B253-S10]",
+      "answer": "ÇAĞ"
+    }
+  ]
+}

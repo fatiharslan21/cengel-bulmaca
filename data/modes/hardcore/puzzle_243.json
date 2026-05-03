@@ -1,0 +1,222 @@
+{
+  "id": 243,
+  "title": "Bölüm 243",
+  "difficulty": "Orta",
+  "grid_size_r": 11,
+  "grid_size_c": 9,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "length": 4,
+      "clue": "Saçı ya da kemeri tutturmaya yarayan, klips gibi açılıp kapanan küçük süs (4 harf) [B243-S1]",
+      "answer": "TOKA"
+    },
+    {
+      "number": 2,
+      "direction": "across",
+      "row": 3,
+      "col": 3,
+      "length": 4,
+      "clue": "Siyah beyaz karelere yerleştirilen taşlarla iki kişi arasında oynanan oyun (4 harf) [B243-S2]",
+      "answer": "DAMA"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 3,
+      "col": 3,
+      "length": 3,
+      "clue": "Bulunduğun yerden geri çevril; ya da bir eksen etrafında hareket et (3 harf) [B243-S2]",
+      "answer": "DÖN"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 3,
+      "col": 5,
+      "length": 5,
+      "clue": "Seslerin belli bir düzen içinde bir araya getirilmesiyle oluşan sanat (5 harf) [B243-S3]",
+      "answer": "MÜZİK"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 3,
+      "col": 8,
+      "length": 4,
+      "clue": "Aradaki mesafenin çok olduğu; yakınlığı hissedilmeyen ötelerdeki yer (4 harf) [B243-S4]",
+      "answer": "UZAK"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 6,
+      "col": 1,
+      "length": 3,
+      "clue": "Bir çemberin merkezinden geçerek onu iki eşit yaya bölen doğru parça (3 harf) [B243-S5]",
+      "answer": "ÇAP"
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "row": 6,
+      "col": 5,
+      "length": 4,
+      "clue": "Kozadan elde edilen, parlak dokulu ve dayanıklı, değerli kumaş lifi (4 harf) [B243-S6]",
+      "answer": "İPEK"
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "row": 6,
+      "col": 7,
+      "length": 4,
+      "clue": "Kabuğu kırmızı, sarı ya da yeşil olabilen, sulu ve çıtır meyve (4 harf) [B243-S7]",
+      "answer": "ELMA"
+    },
+    {
+      "number": 8,
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "length": 6,
+      "clue": "Su, çay ya da başka içecekleri içmek için kullanılan küçük kap (6 harf) [B243-S8]",
+      "answer": "BARDAK"
+    },
+    {
+      "number": 9,
+      "direction": "down",
+      "row": 7,
+      "col": 4,
+      "length": 4,
+      "clue": "Karşısına geçenin görüntüsünü aynen yansıtan sırlanmış cam yüzey (4 harf) [B243-S9]",
+      "answer": "AYNA"
+    }
+  ]
+}

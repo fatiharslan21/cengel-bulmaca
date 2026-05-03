@@ -1,0 +1,209 @@
+{
+  "id": 185,
+  "title": "Bölüm 185",
+  "difficulty": "Orta",
+  "grid_size_r": 9,
+  "grid_size_c": 10,
+  "grid": [
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "length": 4,
+      "clue": "Hayvanların otlayıp beslenmesi için ayrılmış, doğal otlarla kaplı geniş alan (4 harf) [B185-S1]",
+      "answer": "MERA"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 1,
+      "col": 9,
+      "length": 4,
+      "clue": "Bir ailenin oturduğu ev; aynı zamanda sayıdaki basamak anlamı taşır (4 harf) [B185-S2]",
+      "answer": "HANE"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "length": 3,
+      "clue": "Bitkinin çiçek ya da yaprağını gövdeye bağlayan uzun ve ince bölüm (3 harf) [B185-S3]",
+      "answer": "SAP"
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "row": 3,
+      "col": 2,
+      "length": 3,
+      "clue": "Demirin hava ve nemle temas ederek zamanla üzerinde oluşturduğu kızıl tabaka (3 harf) [B185-S4]",
+      "answer": "PAS"
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "row": 4,
+      "col": 2,
+      "length": 3,
+      "clue": "Bir cismin aşağı tarafı; üst sözcüğünün tam karşıtı olan yön (3 harf) [B185-S5]",
+      "answer": "ALT"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 4,
+      "col": 4,
+      "length": 5,
+      "clue": "Yelkenli ya da motorlu olup denizde kısa yolculuklara çıkan küçük gemi (5 harf) [B185-S6]",
+      "answer": "TEKNE"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 4,
+      "col": 6,
+      "length": 4,
+      "clue": "Yeni toplanmış, bayatlamamış; canlılığını yeni yeni yitirmemiş olan (4 harf) [B185-S7]",
+      "answer": "TAZE"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 4,
+      "col": 7,
+      "length": 4,
+      "clue": "Toprağa kök salmış, gövdesi odunlaşmış, uzun ömürlü büyük bitki (4 harf) [B185-S8]",
+      "answer": "AĞAÇ"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 6,
+      "col": 4,
+      "length": 5,
+      "clue": "Saplı, parlak, kırmızı kabuklu; ilkbaharın sonunda olgunlaşan tatlı meyve (5 harf) [B185-S9]",
+      "answer": "KİRAZ"
+    },
+    {
+      "number": 10,
+      "direction": "across",
+      "row": 8,
+      "col": 3,
+      "length": 4,
+      "clue": "Güneşin batmasından doğmasına kadar süren karanlık zaman dilimi (4 harf) [B185-S10]",
+      "answer": "GECE"
+    }
+  ]
+}

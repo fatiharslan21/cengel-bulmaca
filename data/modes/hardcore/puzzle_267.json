@@ -1,0 +1,200 @@
+{
+  "id": 267,
+  "title": "Bölüm 267",
+  "difficulty": "Zor",
+  "grid_size_r": 9,
+  "grid_size_c": 9,
+  "grid": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0
+    ]
+  ],
+  "words": [
+    {
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "length": 4,
+      "clue": "Bir kimseyle ayrılırken söylenen son söz; ayrılık selamı (4 harf) [B267-S1]",
+      "answer": "VEDA"
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "row": 3,
+      "col": 1,
+      "length": 4,
+      "clue": "Bir tarafı yapışkan olan, eşyaları tutturmaya yarayan uzun ince şerit (4 harf) [B267-S2]",
+      "answer": "BANT"
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "row": 3,
+      "col": 4,
+      "length": 6,
+      "clue": "Kişinin payına düşen; kaderin ona uygun gördüğü nasibi ya da şansı (6 harf) [B267-S3]",
+      "answer": "KISMET"
+    },
+    {
+      "number": 3,
+      "direction": "across",
+      "row": 3,
+      "col": 4,
+      "length": 4,
+      "clue": "Toprağın üstünde ya da altında bulunan, kolay parçalanmayan büyük taş (4 harf) [B267-S3]",
+      "answer": "KAYA"
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "row": 4,
+      "col": 1,
+      "length": 4,
+      "clue": "Kırda ya da ormanda silahla veya tuzakla av peşinde koşan kişi (4 harf) [B267-S4]",
+      "answer": "AVCI"
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "row": 4,
+      "col": 8,
+      "length": 4,
+      "clue": "Gömleğin boynu çevreleyen üst kısmı; ceketin de boyuna değen kenarı (4 harf) [B267-S5]",
+      "answer": "YAKA"
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "row": 5,
+      "col": 6,
+      "length": 4,
+      "clue": "Bir eşyanın ya da yüzeyin üstünü kapatmak için serilen kumaş parçası (4 harf) [B267-S6]",
+      "answer": "ÖRTÜ"
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "row": 6,
+      "col": 0,
+      "length": 3,
+      "clue": "Soyun büyüklerinden sayılan dede ya da daha öncesinden gelen büyük (3 harf) [B267-S7]",
+      "answer": "ATA"
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "row": 6,
+      "col": 2,
+      "length": 3,
+      "clue": "İki şeyin birbirinden ayrıldığı boşluk; kısa mola süresi (3 harf) [B267-S8]",
+      "answer": "ARA"
+    },
+    {
+      "number": 9,
+      "direction": "across",
+      "row": 6,
+      "col": 4,
+      "length": 5,
+      "clue": "Bilinmeyen bir şeyi öğrenmek için insanın içine düşen güçlü istek (5 harf) [B267-S9]",
+      "answer": "MERAK"
+    }
+  ]
+}
