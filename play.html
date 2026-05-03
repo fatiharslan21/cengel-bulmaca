@@ -210,8 +210,10 @@
     // Dosya adını bul (Örn: 5 ise "puzzle_005.json" olur)
     // Eğer senin json isimlerin puzzle_1.json gibiyse burayı şu şekilde değiştir: `puzzle_${levelId}.json`
     const fileName = `puzzle_${levelId.toString().padStart(3, '0')}.json`;
-    // 2. Veriyi çek
-    fetch(`./data/${fileName}`)
+    const modePath = `./data/modes/${gameMode}/${fileName}`;
+    const fallbackPath = `./data/${fileName}`;
+    // 2. Veriyi çek (mode havuzu varsa onu kullan)
+    fetch(modePath).then(r => r.ok ? r : fetch(fallbackPath))
         .then(response => {
             if (!response.ok) throw new Error("JSON bulunamadı");
             return response.json();
